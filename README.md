@@ -27,7 +27,7 @@ Data is in plain unicode text (UTF-8) with tabs separating fields so it can be l
 In most data sets, each line has identical fields, so an end-of-line marks the end of a record.
 For some data (e.g. ProperNames), a record can consist of multiple lines and the record starts with "$". In this case the first line has data which applies to each succeeding line in the record. 
 
-* Hebrew merged glyphs are separated and normalised in the order: 
+* Hebrew merged glyphs are separated and normalised in the order:  
   consonant; sin/shin dot; dagesh; vowel; metheg/raphe; accents
   - Glyphs NOT used for Hebrew include: װ ױ ײ ﭏ ײַ שׁ שׂ שּׁ שּׂ אַ אָ אּ בּ גּ דּ הּ וּ זּ טּ יּ ךּ כּ לּ מּ נּ סּ ףּ פּ צּ קּ רּ שּ תּ וֹ בֿ כֿ פֿ ﬠ ﬡ ﬢ ﬣ ﬤ ﬥ ﬦ ﬧ ﬨ 
 
