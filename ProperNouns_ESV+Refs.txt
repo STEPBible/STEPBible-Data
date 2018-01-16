@@ -1,4 +1,4 @@
-﻿Proper Nouns in the ESV (+KJV, NIV) with references separated by individual people and locations
+﻿All Proper Nouns in the ESV (+KJV, NIV) with references separated by individual people and locations
 ==============================================================
 
 Records are separated by "$" and fields by tab or new line
@@ -223,6 +223,8 @@ $Achim@Mat.1.14	Male living at the time of Exile and return	Zadok@Mat.1.14 + 		
 $Achish@1Sa.21.10	Male living at the time of United monarchy	Maoch@1Sa.27.2 + 			
 	Abimelech|Achish@1Sa.21.10	H0040=אֲבִימֶ֫לֶךְ	Abimelech (NIV= Abimelek)	Psa.34.1 
 	Achish@1Sa.21.10	H0397=אָכִישׁ	Achish	1Sa.21.10; 1Sa.21.11; 1Sa.21.12; 1Sa.21.14; 1Sa.27.2; 1Sa.27.3; 1Sa.27.5; 1Sa.27.6; 1Sa.27.9; 1Sa.27.10; 1Sa.27.12; 1Sa.28.1; 1Sa.28.2a; 1Sa.28.2b; 1Sa.29.2; 1Sa.29.3; 1Sa.29.6; 1Sa.29.8; 1Sa.29.9; 1Ki.2.39; 1Ki.2.40 
+$Achor_Valley@Jos.7.24	Place	Valley of Achor	31.836890,35.399737
+	Achor_Valley@Jos.7.24	H6010=עֵ֫מֶק+H5911=עָכוֹר	Valley of Achor	Jos.7.24; Jos.7.26; Jos.15.7; Isa.65.10; Hos.2.15; 
 $Achsah@1Ch.2.49	Female living at the time of Egypt and Wilderness	Caleb@1Ch.2.9 + 	Hur@Exo.17.10, Jesher@1Ch.2.18, Shobab@1Ch.2.18, Ardon@1Ch.2.18, Mareshah@1Ch.2.42, Haran@1Ch.2.46, Moza@1Ch.2.46, Gazez@1Ch.2.46a, Jahdai@1Ch.2.47, Sheber@1Ch.2.48, Tirhanah@1Ch.2.48, Shaaph@1Ch.2.49, Sheva@1Ch.2.49		
 	Achsah@1Ch.2.49	H5915=עַכְסָה	Achsah (NIV= Aksah)	1Ch.2.49 
 $Achsah@Jos.15.16	Female living at the time of Israel before the monarchy	Caleb@Num.13.6 + 	Iru@1Ch.4.15, Elah@1Ch.4.15, Naam@1Ch.4.15	Othniel@Jos.15.17	
@@ -494,8 +496,6 @@ $Ahoah@2Sa.23.9	Male living at the time of the first Patriarchs	Bela@Gen.46.21 
 	Ahoah@2Sa.23.9	H0265=אֲחוֹחַ	Ahoah	1Ch.8.4 
 	Ahoah@2Sa.23.9	H0266=אֲחוֹחִי	Ahohite	2Sa.23.28; 1Ch.11.12; 1Ch.11.29; 1Ch.27.4 
 	Ahohi|Ahoah@2Sa.23.9	H0266=אֲחוֹחִי	Ahohi (KJV, NIV= Ahohite)	2Sa.23.9 
-$Judith@Gen.26.34	Female living at the time of the first Patriarchs	Beeri@Gen.26.34 + 		Esau@Gen.25.25	
-	Judith@Gen.26.34	H3067=יְהוּדִית	Judith	Gen.26.34 
 $Ahumai@1Ch.4.2	Male living at the time of Divided monarchy	Jahath@1Ch.4.2 + 	Lahad@1Ch.4.2		
 	Ahumai@1Ch.4.2	H0267=אֲחוּמַי	Ahumai	1Ch.4.2 
 $Ahuzzam@1Ch.4.6	Male living at the time of Divided monarchy	Ashhur@1Ch.2.24 + Naarah@1Ch.4.5	Hepher@1Ch.4.6, Temeni@1Ch.4.6, Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Izhar@1Ch.4.7, Ethnan@1Ch.4.7, Koz@1Ch.4.8		
@@ -512,9 +512,8 @@ $Aiah@2Sa.3.7	Male living at the time of United monarchy	 + 			Rizpah@2Sa.3.7
 	Aiah@2Sa.3.7	H0345=אַיָּה	Aiah	2Sa.3.7; 2Sa.21.8; 2Sa.21.10; 2Sa.21.11 
 $Aiah@Gen.36.24	Male living at the time of the first Patriarchs	Zibeon@Gen.36.20 + 	Anah@Gen.36.24		
 	Aiah@Gen.36.24	H0345=אַיָּה	Aiah (KJV= Ajah)	Gen.36.24; 1Ch.1.40 
-$Aijalon@Jos.19.42	Place	Aijalon	31.84117376619545,35.02537926743067
-	Aijalon@Jos.19.42	H0357=אַיָּלוֹן	Aijalon	Jos.19.42; Jos.21.24; Jdg.1.35; Jdg.12.12; 1Sa.14.31; 1Ch.6.69; 1Ch.8.13; 2Ch.11.10; 2Ch.28.18 
-	Aijalon@Jos.19.42	H6010=עֵ֫מֶק+H0357=אַיָּלוֹן	Valley of Aijalon	Jos.10.12; 
+$Aijalon@Jos.10.12	Place	Aijalon	31.84117376619545,35.02537926743067
+	Aijalon@Jos.10.12	H0357=אַיָּלוֹן	Aijalon	Jos.10.12; Jos.19.42; Jos.21.24; Jdg.1.35; Jdg.12.12; 1Sa.14.31; 1Ch.6.69; 1Ch.8.13; 2Ch.11.10; 2Ch.28.18 
 $Ain@Jos.15.32	Place	Ain_2	31.370835,34.860665
 	Ain@Jos.15.32	H5871=עַ֫יִן	Ain	Jos.15.32; Jos.19.7; Jos.21.16; 1Ch.4.32 
 	En-rimmon|Ain@Jos.15.32	H5884=עֵין רִמּוֹן	En-rimmon	Neh.11.29 
@@ -846,19 +845,6 @@ $Aram@Gen.10.22	Male living at the time of the first Patriarchs	Shem@Gen.5.32 +
 	Aram@Gen.10.22	H0758=אֲרָם	Aram	Gen.10.22; Gen.10.23; 1Ch.1.17; 1Ch.2.23 
 $Aram@Gen.22.21	Male living at the time of the first Patriarchs	Kemuel@Gen.22.21 + 			
 	Aram@Gen.22.21	H0758=אֲרָם	Aram	Gen.22.21 
-$Syria@Jdg.10.6	Place for descendants of Aram@Gen.10.22	Syria	33.519299,36.31344999999999
-	Syria@Jdg.10.6	H0758=אֲרָם	Aram	2Sa.8.6; 2Sa.15.8 
-	Syria|Syria@Jdg.10.6	G4947=Συρία	Syria	Mat.4.24; Luk.2.2; Act.15.23; Act.15.41; Act.18.18; Act.20.3; Act.21.3; Gal.1.21 
-	Syria|Syria@Jdg.10.6	G4948=Σύρος	Syrian	Luk.4.27 
-	Syria|Syria@Jdg.10.6	H0758=אֲרָם	Syria	Jdg.10.6; 1Ki.10.29; 1Ki.11.25; 1Ki.15.18; 1Ki.19.15; 1Ki.20.1; 1Ki.20.20; 1Ki.20.22; 1Ki.20.23; 1Ki.22.1; 1Ki.22.3; 1Ki.22.31; 2Ki.5.1a; 2Ki.5.1b; 2Ki.5.5; 2Ki.6.8; 2Ki.6.11; 2Ki.6.24; 2Ki.8.7; 2Ki.8.9; 2Ki.8.13; 2Ki.8.28; 2Ki.8.29; 2Ki.9.14; 2Ki.9.15; 2Ki.12.17; 2Ki.12.18; 2Ki.13.3; 2Ki.13.4; 2Ki.13.7; 2Ki.13.17; 2Ki.13.19a; 2Ki.13.19b; 2Ki.13.22; 2Ki.13.24; 2Ki.15.37; 2Ki.16.5; 2Ki.16.6a; 2Ki.16.6b; 2Ki.16.7; 1Ch.18.6; 2Ch.1.17; 2Ch.16.2; 2Ch.16.7a; 2Ch.16.7b; 2Ch.18.30; 2Ch.22.5; 2Ch.22.6; 2Ch.28.5; 2Ch.28.23; Isa.7.1; Isa.7.2; Isa.7.4; Isa.7.5; Isa.7.8; Isa.17.3; Ezk.16.57; Ezk.27.16; Amo.1.5 
-	Syria|Syria@Jdg.10.6	H0758=אֲרָם	Syrian	2Sa.8.5a; 2Sa.8.5b; 2Sa.8.6; 2Sa.10.6a; 2Sa.10.6b; 2Sa.10.8; 2Sa.10.9; 2Sa.10.11; 2Sa.10.13; 2Sa.10.14; 2Sa.10.15; 2Sa.10.16; 2Sa.10.17; 2Sa.10.18a; 2Sa.10.18b; 2Sa.10.19; 1Ki.20.20; 1Ki.20.21; 1Ki.20.26; 1Ki.20.27; 1Ki.20.28; 1Ki.20.29; 1Ki.22.11; 1Ki.22.35; 2Ki.5.2; 2Ki.6.9; 2Ki.6.23; 2Ki.7.4; 2Ki.7.5a; 2Ki.7.5b; 2Ki.7.6; 2Ki.7.10; 2Ki.7.12; 2Ki.7.14; 2Ki.7.15; 2Ki.7.16; 2Ki.13.5; 2Ki.13.17; 2Ki.24.2; 1Ch.18.5a; 1Ch.18.5b; 1Ch.18.6; 1Ch.19.10; 1Ch.19.12; 1Ch.19.14; 1Ch.19.15; 1Ch.19.16a; 1Ch.19.16b; 1Ch.19.17; 1Ch.19.18a; 1Ch.19.18b; 1Ch.19.19; 2Ch.18.10; 2Ch.18.34; 2Ch.24.23; 2Ch.24.24; Isa.9.12; Jer.35.11; Amo.9.7 
-	Syria|Syria@Jdg.10.6	H0761=אֲרַמִּי	Syrian	2Ki.5.20; 2Ki.8.28; 2Ki.8.29; 2Ki.9.15; 2Ch.22.5 
-	Syrophoenician|Syria@Jdg.10.6	G4949=Συροφοίνισσα	Syrophoenician	Mrk.7.26 
-$Paddan-aram@Gen.25.20	Place for descendants of Aram@Gen.10.22	Paddan-aram	36.86386407659651,39.03219672227345
-	Paddan-aram@Gen.25.20	H6307=פַּדָּן+H0758=אֲרָם	Paddan-aram (KJV= Padan-aram)	Gen.25.20; Gen.28.2; Gen.28.5; Gen.28.6; Gen.28.7; Gen.31.18; Gen.33.18; Gen.35.9; Gen.35.26; Gen.46.15; 
-	Aramean|Paddan-aram@Gen.25.20	H0761=אֲרַמִּי	Aramean	Gen.25.20a; Gen.25.20b; Gen.28.5; Gen.31.20; Gen.31.24; Deu.26.5 
-	Aram|Paddan-aram@Gen.25.20	H0758=אֲרָם	Aram	Num.23.7; Hos.12.12 
-	Paddan|Paddan-aram@Gen.25.20	H6307=פַּדָּן	Paddan (KJV= Padan)	Gen.48.7 
 $Aramaic@2Ki.18.26	A language				
 	Aramaic@2Ki.18.26	G1447=Ἑβραϊστί	Aramaic	Jhn.5.2; Jhn.19.13; Jhn.19.17; Jhn.19.20; Jhn.20.16 
 	Aramaic@2Ki.18.26	H0762=אֲרָמִית	Aramaic	2Ki.18.26; Ezr.4.7; Isa.36.11; Dan.2.4 
@@ -926,8 +912,7 @@ $Armoni@2Sa.21.8	Male living at the time of United monarchy	Saul@1Sa.9.2 + Rizp
 $Arnan@1Ch.3.21	Male living at the time of Divided monarchy	Hananiah@1Ch.3.19 + 	Pelatiah@1Ch.3.21, Jeshaiah@1Ch.3.21, Rephaiah@1Ch.3.21, Obadiah@1Ch.3.21, Shecaniah@1Ch.3.21		
 	Arnan@1Ch.3.21	H0770=אַרְנָן	Arnan	1Ch.3.21 
 $Arnon@Num.21.13	Place	Arnon	31.428800,35.677009
-	Arnon@Num.21.13	H0769=אַרְנוֹן	Arnon	Num.21.13a; Num.21.13b; Num.21.14; Num.21.24; Num.21.26; Num.21.28; Num.22.36; Jdg.11.13; Jdg.11.18a; Jdg.11.18b; Jdg.11.22; Jdg.11.26; Isa.16.2; Jer.48.20 
-	Arnon@Num.21.13	H5158a=נַ֫חַל+H0769=אַרְנוֹן	Valley of the Arnon	Deu.2.24; Deu.2.36; Deu.3.8; Deu.3.12; Deu.3.16; Deu.4.48; Jos.12.1; Jos.12.2; Jos.13.9; Jos.13.16; 2Ki.10.33; 
+	Arnon@Num.21.13	H0769=אַרְנוֹן	Arnon	Num.21.13a; Num.21.13b; Num.21.14; Num.21.24; Num.21.26; Num.21.28; Num.22.36; Deu.2.24; Deu.2.36; Deu.3.8; Deu.3.12; Deu.3.16; Deu.4.48; Jos.12.1; Jos.12.2; Jos.13.9; Jos.13.16; Jdg.11.13; Jdg.11.18a; Jdg.11.18b; Jdg.11.22; Jdg.11.26; 2Ki.10.33; Isa.16.2; Jer.48.20 
 $Arodi@Gen.46.16	Male living at the time of the first Patriarchs	Gad@Gen.30.11 + 	Ziphion@Gen.46.16, Haggi@Gen.46.16, Shuni@Gen.46.16, Ezbon@Gen.46.16, Eri@Gen.46.16, Areli@Gen.46.16		
 	Arodi@Gen.46.16	H0720=אֲרוֹד	Arod	Num.26.17 
 	Arodi@Gen.46.16	H0722=אֲרוֹדִי	Arodi	Gen.46.16 
@@ -1135,6 +1120,8 @@ $Augustus@Luk.2.1	Male living at the time of the New Testament
 	Augustus@Luk.2.1	G4575=σεβαστός	Augustan (KJV= Augustus; NIV= Imperial)	Act.27.1 
 	Caesar|Augustus@Luk.2.1	G2541=Καῖσαρ	Caesar	Luk.2.1; Luk.3.1 
 	emperor|Augustus@Luk.2.1	G4575=σεβαστός	emperor (KJV= Augustus)	Act.25.21; Act.25.25 
+$Aven_Valley@Amo.1.5	Place	Valley of Aven	34.006944,36.203889
+	Aven_Valley@Amo.1.5	H1237=בִּקְעָה+H0206=אָ֫וֶן	Valley of Aven	Amo.1.5; 
 $Avith@Gen.36.35	Place	Avith	30.734691,35.606250 = Near Bozrah_1
 	Avith@Gen.36.35	H5762=עֲוִית	Avith	Gen.36.35; 1Ch.1.46 
 $Avva@2Ki.17.24	Place	Avva	34.467725,41.964955 = Near Hena
@@ -1277,6 +1264,8 @@ $Baal@Num.22.41	A deity 	 +
 	Peor|Baal@Num.22.41	H1187=בַּ֫עַל פְּעוֹר	Peor	Deu.4.3 
 $Baalah@Jos.15.29	Place	Baalah_1	31.24495217357714,34.8408885849849 = Near Beersheba
 	Baalah@Jos.15.29	H1173=בַּעֲלָה	Baalah	Jos.15.29 
+$Baalah_Mount@Jos.15.11	Place	Mount Baalah	31.865518,34.746856 = Near Jabneel_1
+	Baalah_Mount@Jos.15.11	H1173=בַּעֲלָה	(Mount )Baalah	Jos.15.11; 
 $Baalath@1Ki.9.18	Place	Baalath_2	31.927451,35.055378 = Near Baalath_1
 	Baalath@1Ki.9.18	H1191=בַּעֲלָת	Baalath	1Ki.9.18; 2Ch.8.6 
 $Baalath@Jos.19.44	Place	Baalath_1	31.927451,35.055378
@@ -1388,9 +1377,9 @@ $Bani@Neh.3.17	Male living at the time of Exile and return	 + 			Rehum@Neh.3.17
 	Bani@Neh.3.17	H1137=בָּנִי	Bani	Neh.3.17 
 $Bani@Neh.8.7	Male living at the time of Exile and return	 + 			
 	Bani@Neh.8.7	H1131=בִּנּוּי	Binnui	Neh.10.9; Neh.12.8 
-	Bani@Neh.8.7	H1137=בָּנִי	Bani	Neh.8.7; Neh.9.4a Neh.9.5 
+	Bani@Neh.8.7	H1137=בָּנִי	Bani	Neh.8.7; Neh.9.4a; Neh.9.5 
 $Bani@Neh.9.4b	Male living at the time of Exile and return	 + 			
-	Bani@Neh.9.4b	H1137=בָּנִי	Bani	Neh.9.4b Neh.10.13 
+	Bani@Neh.9.4b	H1137=בָּנִי	Bani	Neh.9.4b; Neh.10.13 
 $Barabbas@Mat.27.16	Male living at the time of the New Testament 	 + 			
 	Barabbas@Mat.27.16	G0912=Βαραββᾶς	Barabbas	Mat.27.16; Mat.27.17; Mat.27.20; Mat.27.21; Mat.27.26; Mrk.15.7; Mrk.15.11; Mrk.15.15; Luk.23.18; Jhn.18.40a; Jhn.18.40b; 
 $Barachel@Job.32.2	Male living at the time of the first Patriarchs	 + 			Elihu@Job.32.2
@@ -1421,11 +1410,11 @@ $Baruch@Neh.11.5	Male living at the time of Exile and return	Colhozeh@Neh.11.5 
 $Baruch@Neh.3.20	Male living at the time of Exile and return	Zabbai@Neh.3.20 + 			
 	Baruch@Neh.3.20	H1263=בָּרוּךְ	Baruch	Neh.3.20 
 $Barzillai@2Sa.17.27	Male living at the time of United monarchy 	 + 			
-	Barzillai@2Sa.17.27	H1271=בַּרְזִלַּי	Barzillai	2Sa.17.27; 2Sa.19.31; 2Sa.19.32; 2Sa.19.33; 2Sa.19.34; 2Sa.19.39; 1Ki.2.7; Ezr.2.61b Neh.7.63b 
+	Barzillai@2Sa.17.27	H1271=בַּרְזִלַּי	Barzillai	2Sa.17.27; 2Sa.19.31; 2Sa.19.32; 2Sa.19.33; 2Sa.19.34; 2Sa.19.39; 1Ki.2.7; Ezr.2.61b; Neh.7.63b 
 $Barzillai@2Sa.21.8	Male living at the time of United monarchy	 + 			Adriel@1Sa.18.19
 	Barzillai@2Sa.21.8	H1271=בַּרְזִלַּי	Barzillai	2Sa.21.8 
 $Barzillai@Ezr.2.61	Male living at the time of Exile and return	 + 			
-	Barzillai@Ezr.2.61	H1271=בַּרְזִלַּי	Barzillai	Ezr.2.61a Neh.7.63a 
+	Barzillai@Ezr.2.61	H1271=בַּרְזִלַּי	Barzillai	Ezr.2.61a; Neh.7.63a 
 $Basemath@1Ki.4.15	Female living at the time of United monarchy	Solomon@2Sa.5.14 + 	Taphath@1Ki.4.11, Rehoboam@1Ki.11.43	Ahimaaz@1Ki.4.15	
 	Basemath@1Ki.4.15	H1315=בָּֽשְׂמַת	Basemath (KJV= Basmath)	1Ki.4.15 
 $Bashan@Num.21.33	Place	Bashan	32.80007552505443,35.93730130476259
@@ -1443,10 +1432,10 @@ $Bazluth@Ezr.2.52	Male living at the time of Exile and return	 +
 $Bealiah@1Ch.12.5	Male living at the time of Divided monarchy	 + 			
 	Bealiah@1Ch.12.5	H1183=בַּעַלְיָה	Bealiah	1Ch.12.5 
 $Beautiful_Gate@Act.3.2	Place	Beautiful Gate	31.777444,35.234935 = In Jerusalem
-	Beautiful_Gate@Act.3.2	G2374=θύρα+G5611=ὡραῖος	Beautiful Gate	Act.3.2
-	Beautiful_Gate@Act.3.2	G4439=πύλη+G5611=ὡραῖος	Beautiful Gate	Act.3.10
+	Beautiful_Gate@Act.3.2	G2374=θύρα+G5611=ὡραῖος	Beautiful( Gate)	Act.3.2
+	Beautiful_Gate@Act.3.2	G4439=πύλη+G5611=ὡραῖος	Beautiful( Gate)	Act.3.10
 $Bebai@Ezr.2.11	Male living at the time of Exile and return	 + 			
-	Bebai@Ezr.2.11	H0893=בֵּבַי	Bebai	Ezr.2.11; Ezr.8.11a Ezr.10.28; Neh.7.16 
+	Bebai@Ezr.2.11	H0893=בֵּבַי	Bebai	Ezr.2.11; Ezr.8.11a; Ezr.10.28; Neh.7.16 
 $Bebai@Ezr.8.11b	Male living at the time of Exile and return	 + 			Zechariah@Ezr.8.11
 	Bebai@Ezr.8.11b	H0893=בֵּבַי	Bebai	Ezr.8.11b 
 $Bebai@Neh.10.15	Male living at the time of Exile and return	 + 			
@@ -1536,17 +1525,13 @@ $Ben-ammi@Gen.19.38	Male living at the time of the first Patriarchs	Lot@Gen.11.
 	Ben-ammi@Gen.19.38	H1151=בֶּן־עַמִּי	Ben-ammi	Gen.19.38 
 $Ben-deker@1Ki.4.9	Male living at the time of United monarchy	Dekar@1Ki.4.9 + 			
 	Ben-deker@1Ki.4.9	H1128=בֶּן־דֶּ֫קֶר	Ben-deker (KJV= son of Dekar)	1Ki.4.9 
-$Deker@1Ki.4.9	Male living at the time of United monarchy	 + 			Ben-deker@1Ki.4.9
-	Deker@1Ki.4.9	H1128=בֶּן־דֶּ֫קֶר	Deker (KJV= Dekar)	[1Ki.4.9]; 
 $Bene-berak@Jos.19.45	Place	Bene-berak	32.035782,34.827108
 	Bene-berak@Jos.19.45	H1139=בְּנֵי־בְרַק	Bene-berak	Jos.19.45 
 $Bene-jaakan@Num.33.31	Place	Bene-jaakan	30.317396,35.407152 = Near Mount Hor_1
-	Beeroth Bene-jaakan|Bene-jaakan@Num.33.31	H0881=בְּאֵרוֹת+H1142=בְּנֵי יַעֲקָ֑ן	Beeroth Bene-jaakan (KJV= Beeroth of the children of Jaakan; NIV=  wells of Bene Jaakan)	Deu.10.6; 
+	Beeroth_Bene-jaakan|Bene-jaakan@Num.33.31	H0881=בְּאֵרוֹת+H1142=בְּנֵי יַעֲקָ֑ן	Beeroth Bene-jaakan (KJV= Beeroth of the children of Jaakan; NIV=  wells of Bene Jaakan)	Deu.10.6; 
 	Bene-jaakan@Num.33.31	H1142=בְּנֵי יַעֲקָ֑ן	Bene-jaakan (NIV= Bene Jaakan)	Num.33.31; Num.33.32 
 $Ben-geber@1Ki.4.13	Male living at the time of United monarchy	Geber@1Ki.4.13 + 			
 	Ben-geber@1Ki.4.13	H1127=בֶּן־גֶּ֫בֶר	Ben-Geber (KJV= son of Geber)	1Ki.4.13 
-$Geber@1Ki.4.13	Male living at the time of United monarchy	 + 			Ben-geber@1Ki.4.13
-	Geber@1Ki.4.13	H1127=בֶּן־גֶּ֫בֶר	Geber	[1Ki.4.13]; 
 $Ben-hadad@1Ki.15.18	Male living at the time of Divided monarchy	Tabrimmon@1Ki.15.18 + 			
 	Ben-hadad@1Ki.15.18	H1130=בֶּן־הֲדַד	Ben-hadad (NIV= Ben-Hadad)	1Ki.15.18; 1Ki.15.20; 1Ki.20.1; 1Ki.20.2; 1Ki.20.5; 1Ki.20.9; 1Ki.20.10; 1Ki.20.16; 1Ki.20.17; 1Ki.20.20; 1Ki.20.26; 1Ki.20.30; 1Ki.20.32; 1Ki.20.33a; 1Ki.20.33b; 2Ch.16.2; 2Ch.16.4; Jer.49.27 
 $Ben-hadad@2Ki.13.3	Male living at the time of Divided monarchy	Hazael@1Ki.19.15 + 			
@@ -1561,8 +1546,6 @@ $Ben-hesed@1Ki.4.10	Male living at the time of United monarchy	Hesed@1Ki.4.10 +
 	Ben-hesed@1Ki.4.10	H1136=בֶּן־חֶ֫סֶד	Ben-hesed (KJV= son of Hesed)	1Ki.4.10 
 $Ben-hur@1Ki.4.8	Male living at the time of United monarchy	Hur@1Ki.4.8 + 			
 	Ben-hur@1Ki.4.8	H1133=בֶּן־חוּר	Ben-hur (KJV= son of Hur)	1Ki.4.8 
-$Ben-zoheth@1Ch.4.20	Male living at the time of Divided monarchy	Ishi@1Ch.4.20 + 	Zoheth@1Ch.4.20		
-	Ben-zoheth@1Ch.4.20	H1132=בֶּן־זוֹחֵת	Ben-zoheth	1Ch.4.20 
 $Beninu@Neh.10.13	Male living at the time of Exile and return	 + 			
 	Beninu@Neh.10.13	H1148=בְּנִ֑ינוּ	Beninu	Neh.10.13 
 $Benjamin@1Ch.7.10	Male living at the time of Divided monarchy	Bilhan@1Ch.7.10 + 	Jeush@1Ch.7.10, Ehud@1Ch.7.10, Chenaanah@1Ch.7.10, Zethan@1Ch.7.10, Tarshish@1Ch.7.10, Ahishahar@1Ch.7.10		
@@ -1584,9 +1567,13 @@ $Benjamin@Neh.12.34	Male living at the time of Exile and return	 +
 $Benjamin@Neh.3.23	Male living at the time of Exile and return	 + 			
 	Benjamin@Neh.3.23	H1144=בִּנְיָמִין	Benjamin	Neh.3.23 
 $Benjamin_Gate@Jer.20.2	Place	Benjamin Gate	31.777444,35.234935 = In Jerusalem
-	Benjamin_Gate@Jer.20.2	H8179=שַׁ֫עַר+H1144=בִּנְיָמִין	Benjamin Gate	Jer.20.2; Jer.37.13; Jer.38.7; 
+	Benjamin_Gate@Jer.20.2	H1144=בִּנְיָמִין	Benjamin( Gate)	Jer.20.2; Jer.37.13; Jer.38.7; 
+$Benjamin_Gate@Zec.14.10	Place	Gate of Benjamin	31.777444,35.234935 = In Jerusalem
+	Benjamin_Gate@Zec.14.10	H1144=בִּנְיָמִין	(Gate of )Benjamin	Zec.14.10; 
 $Beno@1Ch.24.26	Male living at the time of Divided monarchy	Jaaziah@1Ch.24.26 + 	Shoham@1Ch.24.27, Zaccur@1Ch.24.27, Ibri@1Ch.24.27		
 	Beno@1Ch.24.26	H1121a=בֵּן	Beno	1Ch.24.26; 1Ch.24.27 
+$Ben-zoheth@1Ch.4.20	Male living at the time of Divided monarchy	Ishi@1Ch.4.20 + 	Zoheth@1Ch.4.20		
+	Ben-zoheth@1Ch.4.20	H1132=בֶּן־זוֹחֵת	Ben-zoheth	1Ch.4.20 
 $Beor@Gen.36.32	Male living at the time of the first Patriarchs	 + 			Bela@Gen.36.32
 	Beor@Gen.36.32	H1160=בְּעוֹר	Beor	Gen.36.32; 1Ch.1.43 
 $Beor@Num.22.5	Male living at the time of Egypt and Wilderness	 + 			Balaam@Num.22.5
@@ -1596,6 +1583,8 @@ $Bera@Gen.14.2	Male living at the time of the first Patriarchs	 +
 	Bera@Gen.14.2	H1298=בֶּ֫רַע	Bera	Gen.14.2 
 $Beracah@1Ch.12.3	Male living at the time of Divided monarchy	 + 			
 	Beracah@1Ch.12.3	H1294=בְּרָכָה	Beracah (KJV= Berachah; NIV= Berakah)	1Ch.12.3 
+$Beracah_Valley@2Ch.20.26	Place	Valley of Beracah	31.610650,35.165648
+	Beracah_Valley@2Ch.20.26	H6010=עֵ֫מֶק+H1294=בְּרָכָה	Valley of Beracah (KJV= Berachah; NIV= Berakah)	2Ch.20.26; 2Ch.20.26; 
 $Beraiah@1Ch.8.21	Male living at the time of Divided monarchy	Shimei@1Ch.8.21 + 	Jakim@1Ch.8.19, Zichri@1Ch.8.19, Zabdi@1Ch.8.19, Elienai@1Ch.8.20, Zillethai@1Ch.8.20, Eliel@1Ch.8.20, Adaiah@1Ch.8.21, Shimrath@1Ch.8.21		
 	Beraiah@1Ch.8.21	H1256=בְּרָאיָה	Beraiah	1Ch.8.21 
 $Berea@Act.17.10	Place	Berea	40.5167,22.2
@@ -1705,6 +1694,11 @@ $Beth-haram@Jos.13.27	Place	Beth-haram	31.816667,35.583333
 	Beth-haran|Beth-haram@Jos.13.27	H1028=בֵּית הָרָן	Beth-haran	Num.32.36 
 $Beth-hoglah@Jos.15.6	Place	Beth-hoglah	31.837062,35.513151
 	Beth-hoglah@Jos.15.6	H1031=בֵּית חׇגְלָה	Beth-hoglah	Jos.15.6; Jos.18.19; Jos.18.21 
+$Beth-horon_Lower@Jos.16.3	Place	Lower Beth-horon	31.87892595986906,35.12356744466153
+	Beth-horon_Lower@Jos.16.3	H1032=בֵּית חוֹרֹן	Beth-horon	Jos.10.10; Jos.10.11; Jos.18.14; Jos.21.22; 1Sa.13.18; 1Ch.6.68; 2Ch.25.13 
+	Beth-horon_Lower@Jos.16.3	H1032=בֵּית חוֹרֹן+H8481=תַּחְתּוֹן	Lower Beth-horon	Jos.16.3; Jos.18.13; 1Ki.9.17; 1Ch.7.24; 2Ch.8.5; 
+$Beth-horon_Upper@Jos.16.5	Place	Upper Beth-horon	31.85891795409998,35.12831317484221
+	Beth-horon_Upper@Jos.16.5	H1032=בֵּית חוֹרֹן+H5945a=עֶלְיוֹן	Upper Beth-horon	Jos.16.5; 1Ch.7.24; 2Ch.8.5; 
 $Beth-jeshimoth@Num.33.49	Place	Beth-jeshimoth	31.77691134657884,35.59865748950166
 	Beth-jeshimoth@Num.33.49	H1020=בֵּית הַיְשִׁימוֹת	Beth-jeshimoth	Num.33.49; Jos.12.3; Jos.13.20; Ezk.25.9 
 $Beth-lebaoth@Jos.19.6	Place	Beth-lebaoth	31.391668,34.940502 = Near Madmannah
@@ -1745,7 +1739,7 @@ $Beth-shemesh@Jos.15.10	Place	Beth-shemesh_1	31.75274835811488,34.9766091314773
 	Beth-shemesh@Jos.15.10	H1030=בֵּית־הַשִּׁמְשִׁי	Beth-shemesh	1Sa.6.14; 1Sa.6.18 
 	Beth-shemesh@Jos.15.10	H1053=בֵּית שֶׁ֫מֶשׁ	Beth-shemesh	Jos.15.10; Jos.21.16; 1Sa.6.9; 1Sa.6.12a; 1Sa.6.12b; 1Sa.6.13; 1Sa.6.15; 1Sa.6.19; 1Sa.6.20; 1Ki.4.9; 2Ki.14.11; 2Ki.14.13; 1Ch.6.59; 2Ch.25.21; 2Ch.25.23; 2Ch.28.18 
 	Beth-shemesh@Jos.15.10	H5905=עִיר שָׁ֑מֶשׁ	Ir-shemesh	Jos.19.41 
-	Heres|Beth-shemesh@Jos.15.10	H2022=הַר+H2776=חֶ֫רֶס	Mount Heres	Jdg.1.35; 
+	Heres_Mount|Beth-shemesh@Jos.15.10	H2776=חֶ֫רֶס	(Mount )Heres	Jdg.1.35; 
 $Beth-shemesh@Jos.19.22	Place	Beth-shemesh_2	32.406430,35.504628
 	Beth-shemesh@Jos.19.22	H1053=בֵּית שֶׁ֫מֶשׁ	Beth-shemesh	Jos.19.22 
 $Beth-shemesh@Jos.19.38	Place	Beth-shemesh_3	33.146864,35.427134 = Near Beth-anath
@@ -1868,12 +1862,12 @@ $Bozrah@Gen.36.33	Place	Bozrah_1	30.734691,35.606250
 	Bozrah@Gen.36.33	H1224=בׇּצְרָה	Bozrah	Gen.36.33; 1Ch.1.44; Isa.34.6; Isa.63.1; Jer.49.13; Jer.49.22; Amo.1.12 
 $Broad_Wall@Neh.3.8	Place	Broad Wall	31.777444,35.234935 = Near Jerusalem
 	Broad_Wall@Neh.3.8	H2346=חוֹמָה+H7342=רָחָב	Broad Wall (KJV= broad wall)	Neh.3.8; Neh.12.38; 
-$Brook_of_the_Arabah@Amo.6.14	Place	Brook of the Arabah	35.136204,36.749488 = Near Hamath
-	Brook_of_the_Arabah@Amo.6.14	H5158a=נַ֫חַל+H6160=עֲרָבָה	Brook of the Arabah (KJV= river of the wilderness; NIV= valley of the Arabah)	Amo.6.14; 
 $Brook_of_Egypt@Num.34.5	Place	Brook of Egypt	31.032047,33.854957
 	Brook_of_Egypt@Num.34.5	H5158a=נַ֫חַל	Brook (KJV= river)	Ezk.47.19; Ezk.48.28 
 	Brook_of_Egypt@Num.34.5	H5158a=נַ֫חַל+H4714=מִצְרַ֫יִם	Brook of Egypt (KJV= river of Egypt; NIV= Wadi of Egypt)	Num.34.5; Jos.15.4; Jos.15.47; 1Ki.8.65; 2Ki.24.7; 2Ch.7.8; Isa.27.12; 
 	Shihor|Brook_of_Egypt@Num.34.5	H7883=שִׁיחוֹר	Shihor	Jos.13.3; Isa.23.3 
+$Brook_of_the_Arabah@Amo.6.14	Place	Brook of the Arabah	35.136204,36.749488 = Near Hamath
+	Brook_of_the_Arabah@Amo.6.14	H5158a=נַ֫חַל+H6160=עֲרָבָה	Brook of the Arabah (KJV= river of the wilderness; NIV= valley of the Arabah)	Amo.6.14; 
 $Brook_of_the_Willows@Isa.15.7	Place	Brook of the Willows	32.309099,35.559900 = Near Jordan Valley
 	Brook_of_the_Willows@Isa.15.7	H5158a=נַ֫חַל+H6155=עֲרָבָה	Brook of the Willows (KJV= brook of the willows; NIV= Ravine of the Poplars)	Isa.15.7; 
 $Bukki@1Ch.6.5	Male living at the time of Divided monarchy	Abishua@1Ch.6.4 + 			Uzzi@1Ch.6.5
@@ -1976,6 +1970,9 @@ $Carmel@Jos.12.22	Place	Carmel	31.43333151674604,35.13333188530802
 	Carmel@Jos.12.22	H3761=כַּרְמְלִי	Carmel	1Sa.27.3; 1Sa.30.5; 2Sa.2.2; 2Sa.3.3; 2Sa.23.35; 1Ch.11.37 
 	Carmel@Jos.12.22	H3761=כַּרְמְלִי	Carmelite	1Ch.3.1 
 	Racal|Carmel@Jos.12.22	H7403=רָכָל	Racal (KJV= Rachal; NIV= Rakal)	1Sa.30.29 
+$Carmel_Mount@1Ki.18.19	Place	Mount Carmel	32.729350157734,35.04978957235391
+	Carmel_Mount@1Ki.18.19	H3760=כַּרְמֶל	(Mount )Carmel	1Ki.18.19; 1Ki.18.20; 2Ki.2.25; 2Ki.4.25; 
+	Carme_Mountl@1Ki.18.19	H3760=כַּרְמֶל	Carmel	1Ki.18.42 
 $Carmi@Gen.46.9	Male living at the time of the first Patriarchs 	Reuben@Gen.29.32 + 	Pallu@Gen.46.9, Hezron@Gen.46.9, Hanoch@Gen.46.9		
 	Carmi@Gen.46.9	H3756=כַּרְמִי	Carmi (NIV= Karmi)	Gen.46.9; Exo.6.14; Num.26.6; 1Ch.5.3 
 	Carmi@Gen.46.9	H3757	Carmite (NIV= Karmite)	Num.26.6 
@@ -2026,19 +2023,19 @@ $Chephirah@Jos.9.17	Place	Chephirah	31.836401,35.095272
 	Chephirah@Jos.9.17	H3716=כְּפִירָה	Chephirah	Jos.9.17; Jos.18.26; Ezr.2.25; Neh.7.29 
 $Cheran@Gen.36.26	Male living at the time of the first Patriarchs	Dishon@Gen.36.21 + 	Eshban@Gen.36.26, Ithran@Gen.36.26, Hemdan@Gen.36.26		
 	Cheran@Gen.36.26	H3763=כְּרָ֑ן	Cheran (NIV Keran)	Gen.36.26; 1Ch.1.41 
+$Cherethite@1Sa.30.14	People descended from Chereth?	 + 			
+	Cherethite@1Sa.30.14	H3774=כְּרֵתִי	Cherethite (NIV= Kerethite)	1Sa.30.14; Ezk.25.16; Zep.2.5 
 $Cherethite@2Sa.8.18	A group in Old Testament times	 + 			
 	Carite|Cherethite@2Sa.8.18	H3746=כָּרִי	Carite	2Ki.11.4; 2Ki.11.19 
 	Cherethite@2Sa.8.18	H3746=כָּרִי	Cherethite (NIV= Kerethite)	2Sa.20.23 
 	Cherethite@2Sa.8.18	H3774=כְּרֵתִי	Cherethite (KJV= captains; NIV= Kerethite)	2Sa.8.18; 2Sa.15.18; 2Sa.20.7; 1Ki.1.38; 1Ki.1.44; 1Ch.18.17 
-$Cherethite@1Sa.30.14	People descended from Chereth?	 + 			
-	Cherethite@1Sa.30.14	H3774=כְּרֵתִי	Cherethite (NIV= Kerethite)	1Sa.30.14; Ezk.25.16; Zep.2.5 
 $Cherith@1Ki.17.3	Place	Cherith	32.309099,35.559900 = Near Jordan Valley
 	Cherith@1Ki.17.3	H3747=כְּרִית	Cherith	1Ki.17.3; 1Ki.17.5 
 $Cherub@Ezr.2.59	Place	Cherub	32.53650368616845,44.42088287373876 = Near Babel
 	Cherub@Ezr.2.59	H3743=כְּרוּב	Cherub	Ezr.2.59; Neh.7.61 
 $Chesalon@Jos.15.10	Place	Chesalon	31.781049,35.051130
 	Chesalon@Jos.15.10	H3693=כְּסָלוֹן	Chesalon	Jos.15.10 
-	Mount_Jearim|Chesalon@Jos.15.10	H2022=הַר+H3297=יְעָרִים	Mount Jearim	Jos.15.10; 
+	Jearim_Mount|Chesalon@Jos.15.10	H3297=יְעָרִים	(Mount )Jearim	Jos.15.10; 
 $Chesed@Gen.22.22	Male living at the time of the first Patriarchs	Nahor@Gen.11.26 + Milcah@Gen.11.29	Uz@Gen.22.21, Buz@Gen.22.21, Kemuel@Gen.22.21, Hazo@Gen.22.22, Pildash@Gen.22.22, Jidlaph@Gen.22.22, Bethuel@Gen.22.22, Tebah@Gen.22.24, Gaham@Gen.22.24, Tahash@Gen.22.24, Maacah@Gen.22.24		
 	Chesed@Gen.22.22	H3777=כֶּ֫שֶׂד	Chesed (NIV= Kesed)	Gen.22.22 
 $Chesil@Jos.15.30	Place	Chesil	32.049953,35.733402 = Near Baalath-beer
@@ -2107,8 +2104,8 @@ $Corinth@Act.18.1	Place	Corinth	37.9059573586561,22.87788175588845
 $Cornelius@Act.10.1	Male living at the time of the New Testament 				
 	Cornelius@Act.10.1	G2883=Κορνήλιος	Cornelius	Act.10.1; Act.10.3; Act.10.17; Act.10.22; Act.10.24; Act.10.25; Act.10.30; Act.10.31 
 $Corner_Gate@2Ki.14.13	Place	Corner Gate	31.777444,35.234935 = In Jerusalem
-	Corner_Gate@2Ki.14.13	H8179=שַׁ֫עַר+H6437=פָּנָה	Corner Gate	2Ch.25.23; 
-	Corner_Gate@2Ki.14.13	H8179=שַׁ֫עַר+H6438=פִּנָּה	Corner Gate	2Ki.14.13; 2Ch.26.9; Jer.31.38; Zec.14.10; 
+	Corner_Gate@2Ki.14.13	H6437=פָּנָה	Corner( Gate)	2Ch.25.23; 
+	Corner_Gate@2Ki.14.13	H6438=פִּנָּה	Corner( Gate)	2Ki.14.13; 2Ch.26.9; Jer.31.38; Zec.14.10; 
 $Cos@Act.21.1	Place	Cos	36.80467006054953,27.08994040521288
 	Cos@Act.21.1	G2972=Κώς	Cos	Act.21.1 
 $Cosam@Luk.3.28	Male living at the time of Divided monarchy	Elmadam@Luk.3.28 + 			Addi@Luk.3.28
@@ -2246,6 +2243,8 @@ $Dedan@Gen.10.7	Place for descendants of Dedan@Gen.10.7	Dedan	26.625139,37.9196
 	Dedan@Gen.10.7	H1720=דְּדָנִי	Dedanite	Isa.21.13 
 $Dedan@Gen.25.3	Male living at the time of the first Patriarchs	Jokshan@Gen.25.2 + 	Sheba@Gen.25.3		Asshurim@Gen.25.3, Letushim@Gen.25.3, Leummim@Gen.25.3
 	Dedan@Gen.25.3	H1719c=רֹדָן	Dedan	Gen.25.3a; Gen.25.3b; 1Ch.1.32 
+$Deker@1Ki.4.9	Male living at the time of United monarchy	 + 			Ben-deker@1Ki.4.9
+	Deker@1Ki.4.9	H1128=בֶּן־דֶּ֫קֶר	Deker (KJV= Dekar)	[1Ki.4.9]; 
 $Delaiah@1Ch.24.18	Male living at the time of Divided monarchy	 + 			
 	Delaiah@1Ch.24.18	H1806=דְּלָיָ֫הוּ	Delaiah	1Ch.24.18 
 $Delaiah@1Ch.3.24	Male living at the time of Divided monarchy	Elioenai@1Ch.3.23 + 	Hodaviah@1Ch.3.24, Eliashib@1Ch.3.24, Pelaiah@1Ch.3.24, Akkub@1Ch.3.24, Johanan@1Ch.3.24, Anani@1Ch.3.24		
@@ -2334,8 +2333,10 @@ $Dor@Jos.12.23	Place	Dor	32.61323618394521,34.91889683434057
 	Dor@Jos.12.23	H5316=נֶ֫פֶת+H1756=דֹּאר	Naphoth-dor	Jos.11.2; 
 $Dothan@Gen.37.17	Place	Dothan	32.42064338380848,35.18019829952955
 	Dothan@Gen.37.17	H1886=דֹּתָן	Dothan	Gen.37.17a; Gen.37.17b; 2Ki.6.13 
+$Dove_on_Far-off_Terebinths@Psa.56.1	A musical term				
+	Dove_on_Far-off_Terebinths@Psa.56.1	H3128=יוֹנַת אֵלֶם רְחֹקִים	Dove on Far-off Terebinths (KJV= Jonath-elem-rechokim; NIV= Dove on distant oaks)	Psa.56.1 
 $Dragon_Spring@Neh.2.13	Place	Dragon Spring	31.777444,35.234935 = In Jerusalem
-	Dragon_Spring@Neh.2.13	H5869b=עַ֫יִן+H8577b=תַּנִּין	Dragon Spring (KJV= dragon well; NIV= Jackal Well)	Neh.2.13; 
+	Dragon_Spring@Neh.2.13	H8577b=תַּנִּין	Dragon( Spring) (KJV= dragon well; NIV= Jackal Well)	Neh.2.13; 
 $Drusilla@Act.24.24	Female living at the time of the New Testament	 + 		Felix@Act.23.24	
 	Drusilla@Act.24.24	G1409=Δρούσιλλα	Drusilla	Act.24.24 
 $Dumah@Gen.25.14	Male living at the time of the first Patriarchs	Ishmael@Gen.16.11 + 	Nebaioth@Gen.25.13, Kedar@Gen.25.13, Adbeel@Gen.25.13, Mibsam@Gen.25.13, Mishma@Gen.25.14, Massa@Gen.25.14, Hadad@Gen.25.15, Tema@Gen.25.15, Jetur@Gen.25.15, Naphish@Gen.25.15, Kedemah@Gen.25.15, Mahalath@Gen.28.9		
@@ -2345,15 +2346,20 @@ $Dumah@Isa.21.11	Place	Dumah_2	27.4,37.7 = Near Arabia
 $Dumah@Jos.15.52	Place	Dumah_1	31.438270,34.982762
 	Dumah@Jos.15.52	H7316=רוּמָה	Dumah	Jos.15.52 
 $Dung_Gate@Neh.2.13	Place	Dung Gate	31.777444,35.234935 = In Jerusalem
-	Dung_Gate@Neh.2.13	H8179=שַׁ֫עַר+H0830=אַשְׁפֹּת	Dung Gate	Neh.2.13; Neh.3.13; Neh.3.14; Neh.12.31; 
+	Dung_Gate@Neh.2.13	H0830=אַשְׁפֹּת	Dung( Gate)	Neh.2.13; Neh.3.13; Neh.3.14; Neh.12.31; 
 $Dura@Dan.3.1	Place	Dura	32.53650368616845,44.42088287373876 = Near Babel
 	Dura@Dan.3.1	H1757=דּוּרָא	Dura	Dan.3.1 
 $East@Jdg.6.3	Place	East	31.95018855468469,35.92413135872749 = Near Ammon
 	East@Jdg.6.3	H6924a=קֶ֫דֶם	East	Jdg.6.3; Jdg.6.33; Jdg.7.12; Jdg.8.10; Ezk.25.4; Ezk.25.10 
 $East_Gate@Neh.3.29	Place	East Gate	31.777444,35.234935 = In Jerusalem
-	East_Gate@Neh.3.29	H8179=שַׁ֫עַר+H4217=מִזְרָח	East Gate	Neh.3.29; 
+	East_Gate@Neh.3.29	H4217=מִזְרָח	East( Gate)	Neh.3.29; 
 $Ebal@Gen.36.23	Male living at the time of the first Patriarchs	Shobal@Gen.36.20 + 	Alvan@Gen.36.23, Manahath@Gen.36.23, Shepho@Gen.36.23, Onam@Gen.36.23		
 	Ebal@Gen.36.23	H5858b=עֵיבָל	Ebal	Gen.36.23; 1Ch.1.40 
+$Ebal_Mount@Deu.11.29	Place	Mount Ebal	32.23293813761263,35.27304180036391
+	Ephraim_Mount|Ebal_Mount@Deu.11.29	H0669=אֶפְרַ֫יִם	(Mount )Ephraim	Jer.4.15; 
+	Zalmon_Mount|Ebal_Mount@Deu.11.29	H6756a=צַלְמוֹן	(Mount )Zalmon	Jdg.9.48; 
+	Ebal_Mount@Deu.11.29	H5858c=עֵיבָל	(Mount )Ebal	Deu.11.29; Deu.27.4; Deu.27.13; Jos.8.30; Jos.8.33; 
+	Zalmon|Ebal_Mount@Deu.11.29	H6756a=צַלְמוֹן	Zalmon	Psa.68.14 
 $Ebed@Ezr.8.6	Male living at the time of Exile and return	Jonathan@Ezr.8.6 + 			
 	Ebed@Ezr.8.6	H5651=עֶ֫בֶד	Ebed	Ezr.8.6 
 $Ebed@Jdg.9.26	Male living at the time of Israel before the monarchy	 + 			Gaal@Jdg.9.26
@@ -2421,6 +2427,8 @@ $Egypt@Gen.12.10	Place for descendants of Egypt@Gen.10.6	Egypt	30.108086,31.338
 	Egypt@Gen.12.10	H4714=מִצְרַ֫יִם	Egyptian	Gen.41.56; Gen.50.11; Exo.3.8; Exo.6.5; Exo.6.6; Exo.6.7; Exo.7.5; Exo.7.21; Exo.8.26a; Exo.8.26b; Exo.10.2; Exo.11.3; Exo.12.23; Exo.12.27; Exo.12.30; Exo.12.33; Exo.12.35; Exo.12.36a; Exo.12.36b; Exo.14.25a; Exo.14.25b; Exo.14.26; Exo.14.27a; Exo.14.27b; Exo.14.30a; Exo.14.30b; Exo.14.31; Exo.15.26; Exo.18.8; Exo.18.9; Exo.18.10a; Exo.18.10b; Exo.19.4; Jdg.10.11; 1Sa.4.8; 1Sa.10.18; Pro.7.16; Isa.10.24; Isa.19.1; Isa.19.2a; Isa.19.2b; Isa.19.3; Isa.19.4; Isa.19.16; Isa.19.17; Isa.19.21a; Isa.19.21b; Isa.19.23; Isa.20.4; Isa.31.3; Ezk.23.21; Ezk.29.12; Ezk.29.13; Ezk.30.23; Ezk.30.26 
 	Egypt@Gen.12.10	H4805=מְרִי	Egypt	Neh.9.17 
 	Rahab|Egypt@Gen.12.10	H7293=רַ֫הַב	Rahab	Psa.87.4; Isa.30.7 
+$Egypt_Sea@Isa.11.15	Place	Sea of Egypt	27.088473,34.771729
+	Egypt_Sea@Isa.11.15	H4714=מִצְרַ֫יִם	(Sea of )Egypt	Isa.11.15; 
 $Ehi@Gen.46.21	Male living at the time of the first Patriarchs	Benjamin@Gen.35.18 + 	Bela@Gen.46.21, Becher@Gen.46.21, Ashbel@Gen.46.21, Gera@Gen.46.21, Naaman@Gen.46.21, Rosh@Gen.46.21, Muppim@Gen.46.21, Huppim@Gen.46.21, Ard@Gen.46.21, Ahiram@Num.26.38, Jediael@1Ch.7.6		
 	Aharah|Ehi@Gen.46.21	H0315=אַחְרַח	Aharah	1Ch.8.1 
 	Ehi@Gen.46.21	H0278=אֵחִי	Ehi	Gen.46.21 
@@ -2448,6 +2456,8 @@ $Elah@2Ki.15.30	Male living at the time of Divided monarchy	 + 			Hoshea@2Ki.15
 	Elah@2Ki.15.30	H0425=אֵלָה	Elah	2Ki.15.30; 2Ki.17.1; 2Ki.18.1; 2Ki.18.9 
 $Elah@Gen.36.41	Male living at the time of the first Patriarchs	 + 			
 	Elah@Gen.36.41	H0425=אֵלָה	Elah	Gen.36.41; 1Ch.1.52 
+$Elah_Valley@1Sa.17.2	Place	Valley of Elah	31.690629,34.963136
+	Elah_Valley@1Sa.17.2	H6010=עֵ֫מֶק+H0425=אֵלָה	Valley of Elah	1Sa.17.2; 1Sa.17.19; 1Sa.21.9; 
 $Elam@1Ch.26.3	Male living at the time of Divided monarchy	Meshelemiah@1Ch.9.21 + 	Zechariah@1Ch.9.21, Jediael@1Ch.26.2, Zebadiah@1Ch.26.2, Jathniel@1Ch.26.2, Jehohanan@1Ch.26.3, Eliehoenai@1Ch.26.3		
 	Elam@1Ch.26.3	H5867b=עֵילָם	Elam	1Ch.26.3 
 $Elam@1Ch.8.24	Male living at the time of Divided monarchy	Shashak@1Ch.8.14 + 	Ishpan@1Ch.8.22, Eber@1Ch.8.22, Eliel@1Ch.8.22, Abdon@1Ch.8.23, Zichri@1Ch.8.23, Hanan@1Ch.8.23, Hananiah@1Ch.8.24, Anthothijah@1Ch.8.24, Iphdeiah@1Ch.8.25, Penuel@1Ch.8.25		
@@ -2774,7 +2784,7 @@ $Eltekon@Jos.15.59	Place	Eltekon	31.660570,34.995406
 $Eltolad@Jos.15.30	Place	Eltolad	32.049953,35.733402 = Near Baalath-beer
 	Eltolad@Jos.15.30	H0513=אֶלְתּוֹלַד	Eltolad	Jos.15.30; Jos.19.4 
 $Elul@Neh.6.15	Name of month #6				
-	H0435=אֱלוּל	Elul	16_Neh.6.15
+	Elul@Neh.6.15	H0435=אֱלוּל	Elul	16_Neh.6.15
 $Eluzai@1Ch.12.5	Male living at the time of Divided monarchy	 + 			
 	Eluzai@1Ch.12.5	H0498=אֶלְעוּזַי	Eluzai	1Ch.12.5 
 $Elzabad@1Ch.12.12	Male living at the time of Divided monarchy	 + 			
@@ -2852,7 +2862,7 @@ $Ephes-dammim@1Sa.17.1	Place	Ephes-dammim	31.691186,34.944496
 $Ephesus@Act.18.19	Place	Ephesus	37.95331433666365,27.36782511573013
 	Ephesus@Act.18.19	G2179=Ἐφεσῖνος	Ephesus	Rev.2.1 
 	Ephesus@Act.18.19	G2180=Ἐφέσιος	Ephesian	Act.19.28; Act.19.34; Act.19.35b; Act.21.29 
-	Ephesus@Act.18.19	G2180=Ἐφέσιος	Ephesus	Act.19.35 
+	Ephesus@Act.18.19	G2180=Ἐφέσιος	Ephesus	Act.19.35a 
 	Ephesus@Act.18.19	G2181=Ἔφεσος	Ephesus	Act.18.19; Act.18.21; Act.18.24; Act.19.1; Act.19.17; Act.19.26; Act.20.16; Act.20.17; 1Co.15.32; 1Co.16.8; Eph.1.1; 1Ti.1.3; 2Ti.1.18; 2Ti.4.12; Rev.1.11 
 $Ephlal@1Ch.2.37	Male living at the time of Divided monarchy	Zabad@1Ch.2.36 + 			Obed@1Ch.2.37
 	Ephlal@1Ch.2.37	H0654=אֶפְלָל	Ephlal	1Ch.2.37a; 1Ch.2.37b 
@@ -2864,15 +2874,18 @@ $Ephraim@Gen.41.52	Male living at the time of the first Patriarchs	Joseph@Gen.3
 	Ephraim@Gen.41.52	H0669=אֶפְרַ֫יִם	Ephraimite	Jdg.12.5a; Jdg.12.5b; Jdg.12.6; 1Ki.11.26; 1Ch.12.30; 1Ch.27.20; 2Ch.25.7; Psa.78.9 
 	Ephron|Ephraim@Gen.41.52	H6085=עֶפְרוֹן	Ephron (KJV= Ephraim)	2Ch.13.19 
 $Ephraim_Gate@2Ki.14.13	Place	Ephraim Gate	31.777444,35.234935 = In Jerusalem
-	Ephraim_Gate@2Ki.14.13	H8179=שַׁ֫עַר+H0669=אֶפְרַ֫יִם	Ephraim Gate	2Ki.14.13; 2Ch.25.23; 
+	Ephraim_Gate@2Ki.14.13	H0669=אֶפְרַ֫יִם	Ephraim( Gate)	2Ki.14.13; 2Ch.25.23; 
+$Ephraim_Gate@Neh.8.16	Place	Gate of Ephraim	31.777444,35.234935 = In Jerusalem
+	Ephraim_Gate@Neh.8.16	H0669=אֶפְרַ֫יִם	(Gate of )Ephraim	Neh.8.16; Neh.12.39; 
 $Ephrath@1Ch.2.19	Female living at the time of Egypt and Wilderness	 + 		Caleb@1Ch.2.9	Hur@Exo.17.10
 	Ephrath@1Ch.2.19	H0672=אֶפְרָ֫תָה	Ephrath	1Ch.2.19 
 	Ephrath@1Ch.2.19	H0672=אֶפְרָ֫תָה	Ephrathah (KJV= Ephratah)	1Ch.2.50; 1Ch.4.4; Mic.5.2 
 	Ephrath@1Ch.2.19	H0672=אֶפְרָ֫תָה	Ephrathite	Rut.1.2; 1Sa.1.1; 1Sa.17.12 
 $Ephron@Gen.23.8	Male living at the time of the first Patriarchs	Zohar@Gen.23.8 + 			
 	Ephron@Gen.23.8	H6085=עֶפְרוֹן	Ephron	Gen.23.8; Gen.23.10a; Gen.23.10b; Gen.23.13; Gen.23.14; Gen.23.16a; Gen.23.16b; Gen.23.17; Gen.25.9; Gen.49.29; Gen.49.30; Gen.50.13 
-$Ephron@Jos.18.15	Place	Ephron_1	31.675746,35.042407 = Near Mount Ephron
-	Ephron@Jos.18.15	H3220=יָם	Ephron	Jos.18.15 
+$Ephron_Mount@Jos.15.9	Place	Mount Ephron	31.675746,35.042407
+	Ephron_Mount@Jos.15.9	H6085=עֶפְרוֹן	(Mount )Ephron	Jos.15.9; 
+	Ephron_Mount@Jos.15.9	H3220=יָם	Ephron (KJV, NIV= west)	Jos.18.15 
 $Epicurean@Act.17.18	A group in New Testament times				
 	Epicurean@Act.17.18	G1946=Ἐπικούρειος	Epicurean	Act.17.18 
 $Er@1Ch.4.21	Male living at the time of the first Patriarchs	Shelah@Gen.38.5 + 	Laadah@1Ch.4.21, Jokim@1Ch.4.22, Joash@1Ch.4.22, Saraph@1Ch.4.22		Lecah
@@ -2906,6 +2919,8 @@ $Esau@Gen.36.40	Place	Edom	30.734691,35.606250
 	Edom|Esau@Gen.36.40	H0761=אֲרַמִּי	Edomite	2Ki.16.6 
 	Esau@Gen.36.40	G2269=Ἠσαῦ	Esau	Rom.9.13
 	Esau@Gen.36.40	H6215=עֵשָׂו	Esau	Gen.36.40; Gen.36.43; Deu.2.4; Deu.2.5; Deu.2.8; Deu.2.12; Deu.2.22; Deu.2.29; Jos.24.4; 1Ch.1.35; Jer.49.8; Jer.49.10; Oba.1.6; Oba.1.18a; Oba.1.18b; Mal.1.2; Mal.1.3 
+$Esau_Mount@Oba.1.8	Place	Mount Esau	30.734691,35.606250
+	Esau_Mount@Oba.1.8	H6215=עֵשָׂו	(Mount )Esau	Oba.1.8; Oba.1.9; Oba.1.19; Oba.1.21; 
 $Esek@Gen.26.20	Place	Esek	31.39129109635703,34.56057015639144 = Near Gerar
 	Esek@Gen.26.20	H6230=עֵ֫שֶׂק	Esek	Gen.26.20 
 $Eshan@Jos.15.52	Place	Eshan	31.420175,35.033537
@@ -2914,6 +2929,8 @@ $Eshban@Gen.36.26	Male living at the time of the first Patriarchs	Dishon@Gen.36
 	Eshban@Gen.36.26	H0790=אֶשְׁבָּן	Eshban	Gen.36.26; 1Ch.1.41 
 $Eshcol@Gen.14.13	Male living at the time of the first Patriarchs	father_of_Mamre@Gen.14.13 + 	Mamre@Gen.14.13, Aner@Gen.14.13		
 	Eshcol@Gen.14.13	H0812=אֶשְׁכֹּל	Eshcol (NIV= Eshkol)	Gen.14.13; Gen.14.24 
+$Eshcol_Valley@Num.13.23	Place	Valley of Eshcol	31.54909871686872,35.09356062020027
+	Eshcol_Valley@Num.13.23	H5158a=נַ֫חַל+H0812=אֶשְׁכֹּל	Valley of Eshcol (NIV= Eshkol)	Num.13.23; Num.13.24; Num.32.9; Deu.1.24; 
 $Eshtaol@Jos.15.33	Place	Eshtaol	31.782429,35.009012
 	Eshtaol@Jos.15.33	H0847=אֶשְׁתָּאוֹל	Eshtaol	Jos.15.33; Jos.19.41; Jdg.13.25; Jdg.16.31; Jdg.18.2; Jdg.18.8; Jdg.18.11 
 	Eshtaolite|Eshtaol@Jos.15.33	H0848=אֶשְׁתָּאֻלִי	Eshtaolite	1Ch.2.53 
@@ -3040,13 +3057,15 @@ $Field_of_Blood@Mat.27.8	Place	Field of Blood	31.777444,35.234935 = Near Jerusa
 	Field_of_Blood@Mat.27.8	G0068=ἀγρός+G0129=αἷμα	Field of Blood	Mat.27.8; 
 	Field_of_Blood@Mat.27.8	G5564=χωρίον+G0129=αἷμα	Field of Blood	Act.1.19; 
 $Fish_Gate@2Ch.33.14	Place	Fish Gate	31.777444,35.234935 = In Jerusalem
-	Fish_Gate@2Ch.33.14	H8179=שַׁ֫עַר+H1709=דָּג	Fish Gate	2Ch.33.14; Neh.3.3; Neh.12.39; Zep.1.10; 
+	Fish_Gate@2Ch.33.14	H1709=דָּג	Fish( Gate)	2Ch.33.14; Neh.3.3; Neh.12.39; Zep.1.10; 
 $Fortunatus@1Co.16.17	Male living at the time of the New Testament 	 + 			
 	Fortunatus@1Co.16.17	G5415=Φορτουνᾶτος	Fortunatus	1Co.16.17 
 $Forum_of_Appius@Act.28.15	Place	Forum of Appius	41.468706,12.993929
 	Forum_of_Appius@Act.28.15	G5410=Φόρον+G0675=Ἄππιος	Forum of Appius (KJV= Appii forum)	Act.28.15; 
+$Foundation_Gate@2Ch.23.5	Place	Gate of the Foundation	31.777444,35.234935 = In Jerusalem
+	Foundation_Gate@2Ch.23.5	H3247=יְסוֹד	(Gate of the )Foundation	2Ch.23.5; 
 $Fountain_Gate@Neh.2.14	Place	Fountain Gate	31.777444,35.234935 = In Jerusalem
-	Fountain_Gate@Neh.2.14	H8179=שַׁ֫עַר+H5869b=עַ֫יִן	Fountain Gate	Neh.2.14; Neh.3.15; Neh.12.37; 
+	Fountain_Gate@Neh.2.14	H5869b=עַ֫יִן	Fountain( Gate)	Neh.2.14; Neh.3.15; Neh.12.37; 
 $Freedmen@Act.6.9	A group in New Testament times				
 	Freedmen@Act.6.9	G3032=Λιβερτῖνος	Freedmen	Act.6.9 
 $Gaal@Jdg.9.26	Male living at the time of Israel before the monarchy	Ebed@Jdg.9.26 + 			
@@ -3057,7 +3076,7 @@ $Gabbai@Neh.11.8	Male living at the time of Exile and return	 +
 	men|Gabbai@Neh.11.8	H1373=גַּבַּי	men (KJV= Gabbai)	Neh.11.8 
 $Gabbatha@Jhn.19.13	Place	Gabbatha	31.777444,35.234935 = In Jerusalem
 	Gabbatha@Jhn.19.13	G1042=γαββαθά	Gabbatha	Jhn.19.13 
-	Stone Pavement|Gabbatha@Jhn.19.13	G3038=λιθόστρωτος	The Stone Pavement (KJV= Pavement)	Jhn.19.13 
+	Stone_Pavement|Gabbatha@Jhn.19.13	G3038=λιθόστρωτος	The Stone Pavement (KJV= Pavement)	Jhn.19.13 
 $Gabriel@Dan.8.16	A deity	 + 			
 	Gabriel@Dan.8.16	G1043=Γαβριήλ	Gabriel	Luk.1.19; Luk.1.26 
 	Gabriel@Dan.8.16	H1403=גַּבְרִיאֵל	Gabriel	Dan.8.16; Dan.9.21 
@@ -3106,6 +3125,13 @@ $Galilee@Jos.12.23	Place	Galilee	32.70674542474383,35.30152807767973
 	Galilee@Jos.12.23	G1057=Γαλιλαῖος	Galilee	Act.1.11 
 	Galilee@Jos.12.23	H1537=גִּלְגָּל	Galilee	Jos.12.23 
 	Galilee@Jos.12.23	H1551=גָּלִיל	Galilee	Jos.20.7; Jos.21.32; 1Ki.9.11; 2Ki.15.29; 1Ch.6.76; Isa.9.1 
+$Galilee_Sea@Num.34.11	Place	Sea of Galilee	32.80677585520321,35.58936052679091
+	Chinnereth|Galilee_Sea@Num.34.11	H3672=כִּנֶּ֫רֶת	Chinnereth (NIV= Kinnereth)	Deu.3.17 
+	Chinnereth|Galilee_Sea@Num.34.11	H3672=כִּנֶּ֫רֶת	(Sea of )Chinnereth (NIV= Sea of Galilee)	Num.34.11; Jos.13.27; 
+	Chinneroth|Galilee_Sea@Num.34.11	H3672=כִּנֶּ֫רֶת	(Sea of )Chinneroth (NIV= Sea of Galilee)	Jos.12.3; 
+	Galilee_Sea@Num.34.11	G1056=Γαλιλαία	(Sea of )Galilee	Mat.4.18; Mat.15.29; Mrk.1.16; Mrk.7.31; Jhn.6.1; 
+	Tiberias_Sea|Galilee_Sea@Num.34.11	G5085=Τιβεριάς	(Sea of )Tiberias	Jhn.21.1; 
+	Tiberias_Sea|Galilee_Sea@Num.34.11	G5085=Τιβεριάς	Tiberias	Jhn.6.1 
 $Gallim@1Sa.25.44	Place	Gallim	31.816667,35.250000
 	Gallim@1Sa.25.44	H1554=גַּלִּים	Gallim	1Sa.25.44; Isa.10.30 
 $Gallio@Act.18.12	Male living at the time of the New Testament 	 + 			
@@ -3126,17 +3152,6 @@ $Garmite@1Ch.4.19	People descended from Garam?	Mered@1Ch.4.17 + Hodiah@1Ch.4.19
 	Garmite@1Ch.4.19	H1636=גַּרְמִי	Garmite	1Ch.4.19 
 $Gatam@Gen.36.11	Male living at the time of the first Patriarchs	Eliphaz@Gen.36.4 + 	Teman@Gen.36.11, Omar@Gen.36.11, Zepho@Gen.36.11, Kenaz@Gen.36.11, Amalek@Gen.36.12, Korah@Gen.36.16		
 	Gatam@Gen.36.11	H1609=גַּעְתָּם	Gatam	Gen.36.11; Gen.36.16; 1Ch.1.36 
-$Gate_of_the_Guard@Neh.12.39	Place	Gate of the Guard	31.777444,35.234935 = In Jerusalem
-	Gate_of_the_Guard@Neh.12.39	H8179=שַׁ֫עַר+H4307=מַטָּרָה	Gate of the Guard (KJV= prison gate)	Neh.12.39; 
-$Gate_of_Benjamin@Zec.14.10	Place	Gate of Benjamin	31.777444,35.234935 = In Jerusalem
-	Gate_of_Benjamin@Zec.14.10	H8179=שַׁ֫עַר+H1144=בִּנְיָמִין	Gate of Benjamin	Zec.14.10; 
-$Gate_of_Ephraim@Neh.8.16	Place	Gate of Ephraim	31.777444,35.234935 = In Jerusalem
-	Gate_of_Ephraim@Neh.8.16	H8179=שַׁ֫עַר+H0669=אֶפְרַ֫יִם	Gate of Ephraim	Neh.8.16; Neh.12.39; 
-$Gate_of_the_Foundation@2Ch.23.5	Place	Gate of the Foundation	31.777444,35.234935 = In Jerusalem
-	Gate_of_the_Foundation@2Ch.23.5	H8179=שַׁ֫עַר+H3247=יְסוֹד	Gate of the Foundation	2Ch.23.5; 
-$Gate_of_Yeshanah@Neh.3.6	Place	Gate of Yeshanah	31.777444,35.234935 = In Jerusalem
-	Gate_of_Yeshanah@Neh.3.6	H8179=שַׁ֫עַר+H3465=יָשָׁן	Gate of Yeshanah	Neh.3.6; 
-	Gate_of_Yeshanah@Neh.3.6	H8179=שַׁ֫עַר+H3466=יְשָׁנָה	Gate of Yeshanah (KJV= old gate)	Neh.12.39; 
 $Gath@Jos.11.22	Place	Gath	31.69352950368834,34.84388288576839
 	Gath@Jos.11.22	H1516=גַּיְא	Gath	1Sa.17.52 
 	Gath@Jos.11.22	H1661=גַּת	Gath	Jos.11.22; 1Sa.5.8; 1Sa.6.17; 1Sa.7.14; 1Sa.17.4; 1Sa.17.23; 1Sa.17.52; 1Sa.21.10; 1Sa.21.12; 1Sa.27.2; 1Sa.27.3; 1Sa.27.4; 1Sa.27.11; 2Sa.1.20; 2Sa.15.18; 2Sa.21.20; 2Sa.21.22; 1Ki.2.39a; 1Ki.2.39b; 1Ki.2.40a; 1Ki.2.40b; 1Ki.2.41; 2Ki.12.17; 1Ch.7.21; 1Ch.8.13; 1Ch.18.1; 1Ch.20.6; 1Ch.20.8; 2Ch.11.8; 2Ch.26.6; Psa.56.1; Amo.6.2; Mic.1.10 
@@ -3166,6 +3181,8 @@ $Gebal@1Ki.5.18	Place	Gebal	34.11910360710159,35.6461419556213
 	Gebal@1Ki.5.18	H1381=גְּבָל	Gebal	Psa.83.7 
 	Gebal@1Ki.5.18	H1382=גִּבְלִי	Gebal	1Ki.5.18 
 	Gebal@1Ki.5.18	H1382=גִּבְלִי	Gebalite	Jos.13.5 
+$Geber@1Ki.4.13	Male living at the time of United monarchy	 + 			Ben-geber@1Ki.4.13
+	Geber@1Ki.4.13	H1127=בֶּן־גֶּ֫בֶר	Geber	[1Ki.4.13]; 
 $Geber@1Ki.4.19	Male living at the time of United monarchy	Uri@1Ki.4.19 + 			
 	Geber@1Ki.4.19	H1398=גֶּ֫בֶר	Geber	1Ki.4.19 
 $Gebim@Isa.10.31	Place	Gebim	31.800000,35.250000
@@ -3221,8 +3238,9 @@ $Gera@2Sa.16.5	Male living at the time of United monarchy	 + 			Shimei@2Sa.16.5
 $Gera@Gen.46.21	Male living at the time of the first Patriarchs 	Benjamin@Gen.35.18 + 	Bela@Gen.46.21, Becher@Gen.46.21, Ashbel@Gen.46.21, Naaman@Gen.46.21, Ehi@Gen.46.21, Rosh@Gen.46.21, Muppim@Gen.46.21, Huppim@Gen.46.21, Ard@Gen.46.21, Ahiram@Num.26.38, Jediael@1Ch.7.6		Ehud@Jdg.3.15
 	Gera@Gen.46.21	H1617=גֵּרָא	Gera	Gen.46.21; Jdg.3.15; 1Ch.8.5 
 $Gerar@Gen.10.19	Place	Gerar	31.39129109635703,34.56057015639144
-	Gerar@Gen.10.19	H1642=גְּרָר	Gerar	Gen.10.19; Gen.20.1; Gen.20.2; Gen.26.1; Gen.26.6; Gen.26.20; Gen.26.26; 2Ch.14.13; 2Ch.14.14 
-	Gerar@Gen.10.19	H5158a=נַ֫חַל+H1642=גְּרָר	Valley of Gerar	Gen.26.17; 
+	Gerar@Gen.10.19	H1642=גְּרָר	Gerar	Gen.10.19; Gen.20.1; Gen.20.2; Gen.26.1; Gen.26.6; Gen.26.17; Gen.26.20; Gen.26.26; 2Ch.14.13; 2Ch.14.14 
+$Gerizim_Mount@Deu.11.29	Place	Mount Gerizim	32.19956174365378,35.27285228460234
+	Gerizim_Mount@Deu.11.29	H1630=גְּרִזִים	(Mount )Gerizim	Deu.11.29; Deu.27.12; Jos.8.33; Jdg.9.7; 
 $Gershom@Exo.2.22	Male living at the time of Egypt and Wilderness	Moses@Exo.2.10 + Zipporah@Exo.2.21	Eliezer@Exo.18.4		Shebuel@1Ch.23.16
 	Gershom@Exo.2.22	H1647=גֵּרְשֹׁם	Gershom	Exo.2.22; Exo.18.3; 1Ch.23.15; 1Ch.23.16; 1Ch.26.24 
 $Gershom@Ezr.8.2	Male living at the time of Exile and return	 + 			
@@ -3278,7 +3296,7 @@ $Gibeon@Jos.9.3	Place	Gibeon	31.84684772753698,35.18491237777512
 	Bamah|Gibeon@Jos.9.3	H1117=בָּמָה	Bamah	Ezk.20.29 
 	Geba|Gibeon@Jos.9.3	H1387=גֶּ֫בַע	Geba	2Sa.5.25 
 	Gibbar|Gibeon@Jos.9.3	H1402=גִּבָּר	Gibbar	Ezr.2.20 
-	Gibeon@Jos.9.3	H1391=גִּבְעוֹן	Gibeon	Jos.9.3; Jos.9.17; Jos.10.1; Jos.10.2; Jos.10.4; Jos.10.5; Jos.10.6; Jos.10.10; Jos.10.12; Jos.10.41; Jos.11.19; Jos.18.25; Jos.21.17; 2Sa.2.12; 2Sa.2.13; 2Sa.2.16; 2Sa.2.24; 2Sa.3.30; 2Sa.20.8; 1Ki.3.4; 1Ki.3.5; 1Ki.9.2; 1Ch.8.29a; 1Ch.8.29b; 1Ch.9.35a; 1Ch.9.35b; 1Ch.14.16; 1Ch.16.39; 1Ch.21.29; 2Ch.1.3; 2Ch.1.13; Neh.3.7; Neh.7.25; Jer.28.1; Jer.41.12; Jer.41.16 
+	Gibeon@Jos.9.3	H1391=גִּבְעוֹן	Gibeon	Jos.9.3; Jos.9.17; Jos.10.1; Jos.10.2; Jos.10.4; Jos.10.5; Jos.10.6; Jos.10.10; Jos.10.12; Jos.10.41; Jos.11.19; Jos.18.25; Jos.21.17; 2Sa.2.12; 2Sa.2.13; 2Sa.2.16; 2Sa.2.24; 2Sa.3.30; 2Sa.20.8; 1Ki.3.4; 1Ki.3.5; 1Ki.9.2; 1Ch.8.29a; 1Ch.8.29b; 1Ch.9.35a; 1Ch.9.35b; 1Ch.14.16; 1Ch.16.39; 1Ch.21.29; 2Ch.1.3; 2Ch.1.13; Neh.3.7; Neh.7.25; Isa.28.21; Jer.28.1; Jer.41.12; Jer.41.16 
 	Gibeon@Jos.9.3	H1393=גִּבְעֹנִי	Gibeon	1Ch.12.4 
 	Gibeon@Jos.9.3	H1393=גִּבְעֹנִי	Gibeonite	2Sa.21.1; 2Sa.21.2a; 2Sa.21.2b; 2Sa.21.3; 2Sa.21.4; 2Sa.21.9; Neh.3.7 
 $Giddalti@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
@@ -3302,6 +3320,9 @@ $Gilalai@Neh.12.36	Male living at the time of Exile and return	Jonathan@Neh.12.
 	Gilalai@Neh.12.36	H1562=גִּלֲלַי	Gilalai	Neh.12.36 
 $Gilboa@1Sa.28.4	Place	Gilboa	32.516667,35.400000
 	Gilboa@1Sa.28.4	H1533=גִּלְבֹּעַ	Gilboa	1Sa.28.4; 2Sa.1.21; 2Sa.21.12 
+$Gilboa_Mount@1Sa.31.1	Place	Mount Gilboa	32.50984080716704,35.40843470396692
+	Gilboa_Mount@1Sa.31.1	H1533=גִּלְבֹּעַ	(Mount )Gilboa	1Sa.31.1; 1Sa.31.8; 2Sa.1.6; 1Ch.10.1; 1Ch.10.8; 
+	Gilboa_Mount@1Sa.31.1	H1568=גִּלְעָד	(Mount )Gilead	Jdg.7.3; 
 $Gilead@1Ch.5.14	Male living at the time of Divided monarchy	Michael@1Ch.5.14 + 			Jaroah@1Ch.5.14
 	Gilead@1Ch.5.14	H1568=גִּלְעָד	Gilead	1Ch.5.14 
 $Gilead@Gen.31.21	Place for descendants of Gilead@Num.26.29	Gilead	32.042523,35.724241
@@ -3374,7 +3395,10 @@ $Goshen@Jos.10.41	Place	Goshen_2	31.450000,34.916667
 $Gozan@2Ki.17.6	Place	Gozan	36.840013,40.068890
 	Gozan@2Ki.17.6	H1470=גּוֹזָן	Gozan	2Ki.17.6; 2Ki.18.11; 2Ki.19.12; 1Ch.5.26; Isa.37.12 
 $Great_Sea@Num.34.6	Place	Great Sea	33.24,33.47
-	Great_Sea@Num.34.6	H3220=יָם+H1419a=גָּדוֹל	Great Sea (KJV= the great sea; NIV= Mediterranean Sea)	Num.34.6; Num.34.7; Jos.1.4; Jos.9.1; Jos.15.12; Jos.15.47; Jos.23.4; Ezk.47.10; Ezk.47.15; Ezk.47.19; Ezk.47.20; Ezk.48.28; 
+	Philistines_Sea@Exo.23.31	H6430=פְּלִשְׁתִּי	(Sea of the )Philistines (NIV= Mediterranean Sea)	Exo.23.31; 
+	Great_Sea@Num.34.6	H1419a=גָּדוֹל	Great( Sea) (KJV= the great sea; NIV= Mediterranean Sea)	Num.34.6; Num.34.7; Jos.1.4; Jos.9.1; Jos.15.12; Jos.15.47; Jos.23.4; Ezk.47.10; Ezk.47.15; Ezk.47.19; Ezk.47.20; Ezk.48.28; 
+$Guard_Gate@Neh.12.39	Place	Gate of the Guard	31.777444,35.234935 = In Jerusalem
+	Guard_Gate@Neh.12.39	H4307=מַטָּרָה	(Gate of the )Guard (KJV= prison gate)	Neh.12.39; 
 $Guni@1Ch.5.15	Male living at the time of Divided monarchy	 + 			Abdiel@1Ch.5.15
 	Guni@1Ch.5.15	H1476=גּוּנִי	Guni	1Ch.5.15 
 $Guni@Gen.46.24	Male living at the time of the first Patriarchs 	Naphtali@Gen.30.8 + 	Jahzeel@Gen.46.24, Jezer@Gen.46.24, Shillem@Gen.46.24		
@@ -3399,11 +3423,11 @@ $Hacaliah@Neh.1.1	Male living at the time of Exile and return	 + 			Nehemiah@Ne
 	Hacaliah@Neh.1.1	H2446=חֲכַלְיָה	Hacaliah (KJV= Hachaliah; NIV= Hakaliah)	Neh.1.1; Neh.10.1 
 $Hachilah@1Sa.23.19	Place	Hachilah	31.466604,35.216691
 	Hachilah@1Sa.23.19	H2444=חֲכִילָה	Hachilah	1Sa.23.19; 1Sa.26.1; 1Sa.26.3 
+$Hachmoni@1Ch.27.32	Male living at the time of Divided monarchy	 + 			Jehiel@1Ch.27.32
+	Hachmoni@1Ch.27.32	H2453=חַכְמוֹנִי	Hachmoni (NIV= Hakmoni)	1Ch.27.32 
 $Hachmonite@2Sa.23.8	People descended from Hachmon or Tahchemon?				
 	Hachmonite@2Sa.23.8	H2453=חַכְמוֹנִי	Hachmonite (NIV= Hakmonite)	1Ch.11.11 
 	Tahchemonite|Hachmonite@2Sa.23.8	H8461=תַּחְכְּמֹנִי	Tahchemonite (KJV= Tachmonite; NIV= Tahkemonite)	2Sa.23.8 
-$Hachmoni@1Ch.27.32	Male living at the time of Divided monarchy	 + 			Jehiel@1Ch.27.32
-	Hachmoni@1Ch.27.32	H2453=חַכְמוֹנִי	Hachmoni (NIV= Hakmoni)	1Ch.27.32 
 $Hadad@1Ki.11.14	Male living at the time of United monarchy	 + 		sister_of_Tahpenes@1Ki.11.19	Genubath@1Ki.11.20
 	Hadad@1Ki.11.14	H0111=אֲדַד	Hadad	1Ki.11.14 
 	Hadad@1Ki.11.14	H1908=הֲדַד, אֲדַד	Hadad	1Ki.11.17a; 1Ki.11.17b; 1Ki.11.19; 1Ki.11.21a; 1Ki.11.21b; 1Ki.11.25 
@@ -3465,6 +3489,8 @@ $Hakupha@Ezr.2.51	Male living at the time of Exile and return	 +
 	Hakupha@Ezr.2.51	H2709=חֲקוּפָא	Hakupha	Ezr.2.51; Neh.7.53 
 $Halah@2Ki.17.6	Place	Halah	36.344972,40.789333 = Near Habor
 	Halah@2Ki.17.6	H2477=חֲלַח	Halah	2Ki.17.6; 2Ki.18.11; 1Ch.5.26 
+$Halak_Mount@Jos.11.17	Place	Mount Halak	30.916667,34.833333
+	Halak_Mount@Jos.11.17	H2510=חָלָק	(Mount )Halak	Jos.11.17; Jos.12.7; 
 $Halhul@Jos.15.58	Place	Halhul	31.579549,35.099103
 	Halhul@Jos.15.58	H2478=חַלְחוּל	Halhul	Jos.15.58 
 $Hali@Jos.19.25	Place	Hali	32.934736,35.270799 = Near Beten
@@ -3499,13 +3525,15 @@ $Hammath@Jos.19.35	Place for descendants of Hammath@1Ch.2.55	Hammath	33.125828,
 $Hammedatha@Est.3.1	Male living at the time of Exile and return	 + 			Haman@Est.3.1
 	Hammedatha@Est.3.1	H4099=הַמְּדָתָא	Hammedatha	Est.3.1; Est.3.10; Est.8.5; Est.9.10; Est.9.24 
 $Hammelech@Jer.36.26	Male living at the time of Divided monarchy	 + 			Jerahmeel@Jer.36.26, Malchijah@1Ch.9.12
-	the king|Hammelech@Jer.36.26	H4428=מֶ֫לֶךְ	the king (KJV= Hammelech)	Jer.36.26; Jer.38.6 
+	the_king|Hammelech@Jer.36.26	H4428=מֶ֫לֶךְ	the king (KJV= Hammelech)	Jer.36.26; Jer.38.6 
 $Hammolecheth@1Ch.7.18	Female living at the time of the first Patriarchs	Machir@Gen.50.23 + 	Gilead@Num.26.29, daughter_of_Machir@1Ch.2.21, Peresh@1Ch.7.16, Sheresh@1Ch.7.16		Ishhod@1Ch.7.18, Abiezer@1Ch.7.18, Mahlah@1Ch.7.18
 	Hammolecheth@1Ch.7.18	H4447=מֹלֶ֫כֶת	Hammolecheth (KJV, NIV= Hammoleketh)	1Ch.7.18 
 $Hammuel@1Ch.4.26	Male living at the time of Divided monarchy	Mishma@1Ch.4.25 + 			Zaccur@1Ch.4.26
 	Hammuel@1Ch.4.26	H2536=חַמּוּאֵל	Hammuel (KJV= Hamuel)	1Ch.4.26 
 $Hamonah@Ezk.39.16	Place	Hamonah	31.49684513710609,35.78284105296996 = Near Dibon_1
 	Hamonah@Ezk.39.16	H1997=הֲמוֹנָהֿ	Hamonah	Ezk.39.16 
+$Hamon-gog_Valley@Ezk.39.11	Place	Valley of Hamon-gog	31.49684513710609,35.78284105296996 = Near Dibon_1
+	Hamon-gog_Valley@Ezk.39.11	H1516=גַּיְא+H1996=הֲמוֹן גּוֹג	Valley of Hamon-gog	Ezk.39.11; Ezk.39.15; 
 $Hamor@Gen.33.19	Male living at the time of the first Patriarchs	 + 			Shechem@Gen.33.19
 	Hamor@Gen.33.19	G1697=Ἐμμόρ	Hamor	Act.7.16 
 	Hamor@Gen.33.19	H2544=חֲמוֹר	Hamor (KJV= Emmor)	Gen.33.19; Gen.34.2; Gen.34.4; Gen.34.6; Gen.34.8; Gen.34.13; Gen.34.18a; Gen.34.18b; Gen.34.20; Gen.34.24; Gen.34.26; Jos.24.32; Jdg.9.28 
@@ -3642,7 +3670,7 @@ $Harmon@Amo.4.3	Place	Harmon	32.28023100000001,35.19792900000002 = Near Samaria
 	Harmon@Amo.4.3	H2038=הַרְמוֹן	Harmon	Amo.4.3 
 $Harnepher@1Ch.7.36	Male living at the time of Divided monarchy	Zophah@1Ch.7.35 + 	Suah@1Ch.7.36, Shual@1Ch.7.36, Beri@1Ch.7.36, Imrah@1Ch.7.36, Bezer@1Ch.7.37, Hod@1Ch.7.37, Shamma@1Ch.7.37, Shilshah@1Ch.7.37, Ithran@1Ch.7.37, Beera@1Ch.7.37		
 	Harnepher@1Ch.7.36	H2774=חַרְנֶ֫פֶר	Harnepher	1Ch.7.36 
-$@Jdg.7.1	Place	Harod	32.549638,35.355647
+$Harod@Jdg.7.1	Place	Harod	32.549638,35.355647
 	Harod@Jdg.7.1	H2033=הֲרוֹרִי	Harod	1Ch.11.27 
 	Harod@Jdg.7.1	H2733=חֲרֹדִי	Harod	2Sa.23.25a; 2Sa.23.25b 
 	Harod@Jdg.7.1	H5878=עֵין חֲרֹד	Harod	Jdg.7.1 
@@ -3817,6 +3845,8 @@ $Hebron@Gen.13.18	Place	Hebron	31.53577362133176,35.09409986578734
 	Hebron@Gen.13.18	H2275a=חֶבְרוֹן	Hebron	Gen.13.18; Gen.23.2; Gen.23.19; Gen.35.27; Num.13.22a; Num.13.22b; Jos.10.3; Jos.10.5; Jos.10.23; Jos.10.36; Jos.10.39; Jos.11.21; Jos.12.10; Jos.14.13; Jos.14.14; Jos.14.15; Jos.15.13; Jos.15.54; Jos.20.7; Jos.21.11; Jos.21.13; Jdg.1.10a; Jdg.1.10b; Jdg.1.20; Jdg.16.3; 1Sa.30.31; 2Sa.2.1; 2Sa.2.3; 2Sa.2.11; 2Sa.2.32; 2Sa.3.2; 2Sa.3.5; 2Sa.3.19; 2Sa.3.20; 2Sa.3.22; 2Sa.3.27; 2Sa.3.32; 2Sa.4.1; 2Sa.4.8; 2Sa.4.12a; 2Sa.4.12b; 2Sa.5.1; 2Sa.5.3a; 2Sa.5.3b; 2Sa.5.13; 2Sa.15.7; 2Sa.15.9; 2Sa.15.10; 1Ki.2.11; 1Ch.3.1; 1Ch.3.4; 1Ch.6.55; 1Ch.6.57; 1Ch.11.1; 1Ch.11.3a; 1Ch.11.3b; 1Ch.12.23; 1Ch.12.38; 1Ch.29.27; 2Ch.11.10 
 	Hebron@Gen.13.18	H2275b=חֶבְרוֹן	Hebron	2Sa.5.5 
 	Kiriath-arba|Hebron@Gen.13.18	H7153=קִרְיַת אַרְבַּע	Kiriath-arba	Gen.23.2; Gen.35.27; Jos.14.15; Jos.15.13; Jos.15.54; Jos.20.7; Jos.21.11; Jdg.1.10; Neh.11.25 
+$Hebron_Valley@Gen.37.14	Place	Valley of Hebron	31.54909871686872,35.09356062020027
+	Hebron_Valley@Gen.37.14	H6010=עֵ֫מֶק+H2275a=חֶבְרוֹן	Valley of Hebron	Gen.37.14; 
 $Hegai@Est.2.3	Male living at the time of Exile and return	 + 			
 	Hegai@Est.2.3	H1896=הֵגֵא	Hegai (KJV= Hege)	Est.2.3; Est.2.8a; Est.2.8b; Est.2.15 
 $Helah@1Ch.4.5	Female living at the time of Divided monarchy	 + 		Ashhur@1Ch.2.24	Zereth@1Ch.4.7, Izhar@1Ch.4.7, Ethnan@1Ch.4.7, Koz@1Ch.4.8
@@ -3904,6 +3934,18 @@ $Hermes@Rom.16.14	Male living at the time of the New Testament 	 +
 	Hermes@Rom.16.14	G2060=Ἑρμῆς	Hermes	Rom.16.14a 
 $Hermogenes@2Ti.1.15	Male living at the time of the New Testament 	 + 			
 	Hermogenes@2Ti.1.15	G2061=Ἑρμογένης	Hermogenes	2Ti.1.15 
+$Hermon_Mount@Deu.3.8	Place	Mount Hermon	33.41615982399708,35.85725617635589
+	Baal-gad|Hermon_Mount@Deu.3.8	H1171=בַּ֫עַל גָּד	Baal-gad	Jos.11.17; Jos.12.7; Jos.13.5 
+	Baal-hamon|Hermon_Mount@Deu.3.8	H1174=בַּ֫עַל הָמוֹן	Baal-hamon	Sng.8.11 
+	Baal-hermon|Hermon_Mount@Deu.3.8	H1179=בַּ֫עַל חֶרְמוֹן	Baal-hermon	1Ch.5.23 
+	Hermon_Mount@Deu.3.8	H1179=בַּ֫עַל חֶרְמוֹן	(Mount )Baal-hermon	Jdg.3.3; 
+	Hermon_Mount@Deu.3.8	H2768=חֶרְמוֹן	(Mount )Hermon	Deu.3.8; Jos.11.17; Jos.12.1; Jos.12.5; Jos.13.5; Jos.13.11; 1Ch.5.23; 
+	Hermon_Mount@Deu.3.8	H2768=חֶרְמוֹן	Hermon	Deu.3.9; Deu.4.48; Jos.11.3; Psa.89.12; Psa.133.3; Sng.4.8 
+	Hermon_Mount@Deu.3.8	H2769=חֶרְמוֹנִים	Hermon	Psa.42.6 
+	Senir|Hermon_Mount@Deu.3.8	H8149=שְׂנִיר	Senir	Deu.3.9; 1Ch.5.23; Sng.4.8; Ezk.27.5 
+	Sirion|Hermon_Mount@Deu.3.8	H7865=שִׂיאֹן	(Mount )Sirion (KJV= Sion)	Deu.4.48; 
+	Sirion|Hermon_Mount@Deu.3.8	H7704a=שָׂדַי	Sirion	Jer.18.14 
+	Sirion|Hermon_Mount@Deu.3.8	H8303=שִׂרְיֹן	Sirion	Deu.3.9; Psa.29.6 
 $Herod@Act.12.1	Male living at the time of the New Testament 	 + 			
 	Herod@Act.12.1	G2264=Ἡρώδης	Herod	Act.12.1; Act.12.6; Act.12.11; Act.12.19; Act.12.20; Act.12.21 
 $Herod@Mat.14.1	Male living at the time of the New Testament 	Herod@Mat.2.1 + 	Archelaus@Mat.2.22, Philip@Mat.14.3, Philip@Luk.3.1	Herodias@Mat.14.3	
@@ -3977,6 +4019,13 @@ $Hilkiah@Neh.8.4	Male living at the time of Exile and return	 +
 	Hilkiah@Neh.8.4	H2518=חִלְקִיָּהוּ	Hilkiah	Neh.8.4 
 $Hillel@Jdg.12.13	Male living at the time of Israel before the monarchy	 + 			Abdon@Jdg.12.13
 	Hillel@Jdg.12.13	H1985=הִלֵּל	Hillel	Jdg.12.13; Jdg.12.15 
+$Hinnom_Valley@Jos.15.8	Place	Valley of Hinnom	31.769079,35.227994
+	Tophet|Hinnom_Valley@Jos.15.8	H8612=תֹּ֫פֶת, תׇּפְתֶּה	burning-place (KJV= Tophet; NIV= Topheth)	Isa.30.33 
+	Tophet|Hinnom_Valley@Jos.15.8	H8612=תֹּ֫פֶת, תׇּפְתֶּה	Topheth	2Ki.23.10; Jer.7.31; Jer.7.32a; Jer.7.32b; Jer.19.6; Jer.19.11; Jer.19.12; Jer.19.13; Jer.19.14 
+	Baca_Valley|Hinnom_Valley@Jos.15.8	H6010=עֵ֫מֶק+H1056=בָּכָא	Valley of Baca (NIV= Baka)	Psa.84.6; 
+	Valley_of_Slaughter|Hinnom_Valley@Jos.15.8	H1516=גַּיְא+H2028=הֲרֵגָה	Valley of Slaughter	Jer.7.32; Jer.19.6; 
+	Hinnom_Valley@Jos.15.8	H1516=גַּיְא+H2011=הִנֹּם	Valley of Hinnom	Jos.15.8; Jos.18.16; Neh.11.30; 
+	Hinnom_Valley@Jos.15.8	H1516=גַּיְא+H2011=הִנֹּם	Valley of the Son of Hinnom	Jos.15.8; Jos.18.16; 2Ki.23.10; 2Ch.28.3; 2Ch.33.6; Jer.7.31; Jer.7.32; Jer.19.2; Jer.19.6; Jer.32.35; 
 $Hirah@Gen.38.1	Male living at the time of the first Patriarchs	 + 			
 	Hirah@Gen.38.1	H2437=חִירָה	Hirah	Gen.38.1; Gen.38.12 
 $Hiram@1Ki.7.13	Male living at the time of United monarchy	 + 			
@@ -4036,6 +4085,10 @@ $Hophni@1Sa.1.3	Male living at the time of United monarchy	Eli@1Sa.1.3 + 	Phine
 $Hophra@Jer.37.5	Male living at the time of Divided monarchy	 + 			
 	Hophra@Jer.37.5	H6547=פַּרְעֹה+H6548=חָפְרַע	Pharaoh-hophra	Jer.44.30; 
 	Pharaoh|Hophra@Jer.37.5	H6547=פַּרְעֹה	Pharaoh	Jer.37.5; Jer.37.7; Jer.37.11; Jer.43.9; Jer.47.1; Ezk.17.17; Ezk.29.2; Ezk.29.3; Ezk.30.21; Ezk.30.22; Ezk.30.24; Ezk.30.25; Ezk.31.2; Ezk.31.18; Ezk.32.2; Ezk.32.31a; Ezk.32.31b; Ezk.32.32 
+$Hor_Mount@Num.20.22	Place	Mount Hor_1	30.317396,35.407152
+	Hor_Mount@Num.20.22	H2023=הֹר	(Mount )Hor	Num.20.22; Num.20.23; Num.20.25; Num.20.27; Num.21.4; Num.33.37; Num.33.38; Num.33.39; Num.33.41; Deu.32.50; 
+$Hor_Mount@Num.34.7	Place	Mount Hor_2	35.710069,36.188080
+	Hor_Mount@Num.34.7	H2023=הֹר	(Mount )Hor	Num.34.7; Num.34.8; 
 $Horam@Jos.10.33	Male living at the time of Israel before the monarchy	 + 			
 	Horam@Jos.10.33	H2036=הֹרָם	Horam	Jos.10.33 
 $Horem@Jos.19.38	Place	Horem	33.166667,35.433333
@@ -4056,7 +4109,7 @@ $Horonaim@Isa.15.5	Place	Horonaim	31.288056,35.515000
 $Horonite@Neh.2.10	People descended from Horon?				
 	Horonite@Neh.2.10	H2772=חֹרֹנִי	Horonite	Neh.2.10; Neh.2.19; Neh.13.28 
 $Horse_Gate@Neh.3.28	Place	Horse Gate	31.777444,35.234935 = In Jerusalem
-	Horse_Gate@Neh.3.28	H8179=שַׁ֫עַר+H5483b=סוּס	Horse Gate	Neh.3.28; Jer.31.40; 
+	Horse_Gate@Neh.3.28	H5483b=סוּס	Horse( Gate)	Neh.3.28; Jer.31.40; 
 $Hosah@1Ch.16.38	Male living at the time of Divided monarchy	 + 			Shimri@1Ch.26.10, Hilkiah@1Ch.26.11, Tebaliah@1Ch.26.11, Zechariah@1Ch.26.11
 	Hosah@1Ch.16.38	H2621=חֹסָה	Hosah	1Ch.16.38; 1Ch.26.10; 1Ch.26.11; 1Ch.26.16 
 $Hosah@Jos.19.29	Place	Hosah	32.178502,35.227580
@@ -4228,6 +4281,8 @@ $Iphdeiah@1Ch.8.25	Male living at the time of Divided monarchy	Shashak@1Ch.8.14
 	Iphdeiah@1Ch.8.25	H3301=יִפְדְּיָה	Iphdeiah (KJV= Iphedeiah)	1Ch.8.25 
 $Iphtah@Jos.15.43	Place	Iphtah	31.8099,34.9365 = Near Ashnah
 	Iphtah@Jos.15.43	H3316=יִפְתָּח	Iphtah	Jos.15.43 
+$Iphtahel_Valley@Jos.19.14	Place	Valley of Iphtahel	32.832774,35.277225
+	Iphtahel_Valley@Jos.19.14	H1516=גַּיְא+H3317=יִפְתַּח־אֵל	Valley of Iphtahel (KJV:valley of Jiphthah-el; NIV= Valley of Iphtah El)	Jos.19.14; Jos.19.27; 
 $Ir@1Ch.7.12	Male living at the time of Divided monarchy	 + 			Shuppim@1Ch.7.12, Huppim@1Ch.7.12, Maacah@1Ch.7.15
 	Ir@1Ch.7.12	H5893=עִיר	Ir	1Ch.7.12 
 $Ira@2Sa.20.26	Male living at the time of United monarchy	 + 			
@@ -4314,8 +4369,7 @@ $Ismachiah@2Ch.31.13	Male living at the time of Divided monarchy	 +
 	Ismachiah@2Ch.31.13	H3253=יִסְמַכְיָהוּ	Ismachiah	2Ch.31.13 
 $Israel@Gen.25.26	Male living at the time of the first Patriarchs	Isaac@Gen.17.19 + Rebekah@Gen.22.23	Esau@Gen.25.25	Rachel@Gen.29.6, Leah@Gen.29.16, Zilpah@Gen.29.24, Bilhah@Gen.29.29	Reuben@Gen.29.32, Simeon@Gen.29.33, Levi@Gen.29.34, Judah@Gen.29.35, Dan@Gen.30.6, Naphtali@Gen.30.8, Gad@Gen.30.11, Asher@Gen.30.13, Issachar@Gen.30.18, Zebulun@Gen.30.20, Dinah@Gen.30.21, Joseph@Gen.30.24, Benjamin@Gen.35.18
 	God|Israel@Gen.25.26	H3478=יִשְׂרָאֵל	God (KJV= Israel)	Deu.32.8 
-	Israel@Gen.25.26	G1909=ἐπί	Israel	1Sa.10.1 
-	Israel@Gen.25.26	G2474=Ἰσραήλ	Israel	1Sa.14.41; 1Sa.14.41; Mat.2.6; Mat.2.20; Mat.2.21; Mat.8.10; Mat.9.33; Mat.10.6; Mat.10.23; Mat.15.24; Mat.15.31; Mat.19.28; Mat.27.9; Mat.27.42; Mrk.12.29; Mrk.15.32; Luk.1.16; Luk.1.54; Luk.1.68; Luk.1.80; Luk.2.25; Luk.2.32; Luk.2.34; Luk.4.25; Luk.4.27; Luk.7.9; Luk.22.30; Luk.24.21; Jhn.1.31; Jhn.1.49; Jhn.3.10; Jhn.12.13; Act.1.6; Act.2.36; Act.4.10; Act.4.27; Act.5.21; Act.5.31; Act.7.23; Act.7.42; Act.9.15; Act.10.36; Act.13.17; Act.13.23; Act.13.24; Act.28.20; Rom.9.6a; Rom.9.6b; Rom.9.27a; Rom.9.27b; Rom.9.31; Rom.10.19; Rom.10.21; Rom.11.2; Rom.11.7; Rom.11.25; Rom.11.26; 1Co.10.18; Gal.6.16; Eph.2.12; Php.3.5; Heb.8.8; Heb.8.10; Rev.2.14; Rev.7.4; Rev.21.12 
+	Israel@Gen.25.26	G2474=Ἰσραήλ	Israel	1Sa.10.1; 1Sa.14.41; 1Sa.14.41; Mat.2.6; Mat.2.20; Mat.2.21; Mat.8.10; Mat.9.33; Mat.10.6; Mat.10.23; Mat.15.24; Mat.15.31; Mat.19.28; Mat.27.9; Mat.27.42; Mrk.12.29; Mrk.15.32; Luk.1.16; Luk.1.54; Luk.1.68; Luk.1.80; Luk.2.25; Luk.2.32; Luk.2.34; Luk.4.25; Luk.4.27; Luk.7.9; Luk.22.30; Luk.24.21; Jhn.1.31; Jhn.1.49; Jhn.3.10; Jhn.12.13; Act.1.6; Act.2.36; Act.4.10; Act.4.27; Act.5.21; Act.5.31; Act.7.23; Act.7.42; Act.9.15; Act.10.36; Act.13.17; Act.13.23; Act.13.24; Act.28.20; Rom.9.6a; Rom.9.6b; Rom.9.27a; Rom.9.27b; Rom.9.31; Rom.10.19; Rom.10.21; Rom.11.2; Rom.11.7; Rom.11.25; Rom.11.26; 1Co.10.18; Gal.6.16; Eph.2.12; Php.3.5; Heb.8.8; Heb.8.10; Rev.2.14; Rev.7.4; Rev.21.12 
 	Israel@Gen.25.26	G2474=Ἰσραήλ	Israelite	Act.7.37; 2Co.3.7; 2Co.3.13; Heb.11.22 
 	Israel@Gen.25.26	G2475=Ἰσραηλίτης	Israel	Act.2.22; Act.3.12; Act.5.35; Act.13.16; Act.21.28 
 	Israel@Gen.25.26	G2475=Ἰσραηλίτης	Israelite	Jhn.1.47; Rom.9.4; Rom.11.1; 2Co.11.22 
@@ -4543,11 +4597,11 @@ $Jalon@1Ch.4.17	Male living at the time of Divided monarchy	Ezra@1Ch.4.17 + 	Je
 $Jambres@2Ti.3.8	Male living at the time of the New Testament 	 + 			
 	Jambres@2Ti.3.8	G2387=Ἰαμβρῆς	Jambres	2Ti.3.8 
 $James@Mat.10.3	Male living at the time of the New Testament 	Alphaeus@Mat.10.3 + 	Judas@Mat.10.3		
-	James@Mat.10.3	G2385=Ἰάκωβος	James	Mat.10.3; Mrk.3.18; Luk.6.15; Luk.6.16; Act.1.13b Act.1.13c; 
+	James@Mat.10.3	G2385=Ἰάκωβος	James	Mat.10.3; Mrk.3.18; Luk.6.15; Luk.6.16; Act.1.13b; Act.1.13c; 
 $James@Mat.13.55	Male living at the time of the New Testament 	Joseph@Mat.1.16 + Mary@Mat.1.16	Jesus@Mat.1.1, Joseph@Mat.13.55, Simon@Mat.13.55, Jude@Mat.13.55		
 	James@Mat.13.55	G2385=Ἰάκωβος	James	Mat.13.55; Mat.27.56; Mrk.6.3; Mrk.15.40; Mrk.16.1; Luk.24.10; Act.12.17; Act.15.13; Act.21.18; 1Co.15.7; Gal.1.19; Gal.2.9; Gal.2.12; Jas.1.1; Jud.1.1 
 $James@Mat.4.21	Male living at the time of the New Testament 	Zebedee@Mat.4.21 + wife_of_Zebedee@Mat.20.20	John@Mat.4.21		
-	James@Mat.4.21	G2385=Ἰάκωβος	James	Mat.4.21; Mat.10.2; Mat.17.1; Mrk.1.19; Mrk.1.29; Mrk.3.17a; Mrk.3.17b; Mrk.5.37a; Mrk.5.37b; Mrk.9.2; Mrk.10.35; Mrk.10.41; Mrk.13.3; Mrk.14.33; Luk.5.10; Luk.6.14; Luk.8.51; Luk.9.28; Luk.9.54; Act.1.13a Act.12.2 
+	James@Mat.4.21	G2385=Ἰάκωβος	James	Mat.4.21; Mat.10.2; Mat.17.1; Mrk.1.19; Mrk.1.29; Mrk.3.17a; Mrk.3.17b; Mrk.5.37a; Mrk.5.37b; Mrk.9.2; Mrk.10.35; Mrk.10.41; Mrk.13.3; Mrk.14.33; Luk.5.10; Luk.6.14; Luk.8.51; Luk.9.28; Luk.9.54; Act.1.13a; Act.12.2 
 $Jamin@1Ch.2.27	Male living at the time of Divided monarchy	Ram@1Ch.2.25 + 	Maaz@1Ch.2.27, Eker@1Ch.2.27		
 	Jamin@1Ch.2.27	H3226=יָמִין	Jamin	1Ch.2.27 
 $Jamin@Gen.46.10	Male living at the time of the first Patriarchs 	Simeon@Gen.29.33 + 	Jemuel@Gen.46.10, Ohad@Gen.46.10, Jachin@Gen.46.10, Zohar@Gen.46.10, Shaul@Gen.46.10		
@@ -4620,9 +4674,6 @@ $Jattir@Jos.15.48	Place	Jattir	31.40143851886152,35.06941349210527
 	Jattir@Jos.15.48	H3492=יַתִּיר	Jattir	Jos.15.48; Jos.21.14; 1Sa.30.27; 1Ch.6.57 
 $Javan@Gen.10.2	Male living at the time of the first Patriarchs 	Japheth@Gen.5.32 + 	Gomer@Gen.10.2, Magog@Gen.10.2, Madai@Gen.10.2, Tubal@Gen.10.2, Meshech@Gen.10.2, Tiras@Gen.10.2		Elishah@Gen.10.4, Tarshish@Gen.10.4, Kittim@Gen.10.4, Dodanim@Gen.10.4
 	Javan@Gen.10.2	H3120=יָוָן	Javan	Gen.10.2; Gen.10.4; 1Ch.1.5; 1Ch.1.7 
-$Javan@Isa.66.19	Place	Greece	37.98333333333333,23.73333333333333
-	Greece|Javan@Isa.66.19	G1671=Ἑλλάς	Greece	Act.20.2 
-	Greece|Javan@Isa.66.19	H3120=יָוָן	Greece	Dan.8.21; Dan.10.20; Dan.11.2; Zec.9.13 
 $Javan@Isa.66.19	A language	
 	Greek|Javan@Isa.66.19	G1673=Ἑλληνικός=Ἑλληνικός	Greek	Luk.23.38; Rev.9.11
 	Greek|Javan@Isa.66.19	G1674=Ἑλληνίς=Ἑλληνίς	Greek, Gentile	Mrk.7.26; Act.17.12
@@ -4635,8 +4686,13 @@ $Javan@Isa.66.19	Place for descendants of Javan@Gen.10.2	Javan	37.9533143366636
 	Hellenist|Javan@Isa.66.19	G1675=Ἑλληνιστής	Hellenist	Act.6.1; Act.9.29; Act.11.20 
 	Javan@Isa.66.19	H3120=יָוָן	Javan	Isa.66.19; Ezk.27.13 
 	wine|Javan@Isa.66.19	H3120=יָוָן	wine (KJV= Javan)	Ezk.27.19 
+$Javan@Isa.66.19	Place	Greece	37.98333333333333,23.73333333333333
+	Greece|Javan@Isa.66.19	G1671=Ἑλλάς	Greece	Act.20.2 
+	Greece|Javan@Isa.66.19	H3120=יָוָן	Greece	Dan.8.21; Dan.10.20; Dan.11.2; Zec.9.13 
 $Jazer@Num.21.32	Place	Jazer	31.94352951689796,35.72776961157128
 	Jazer@Num.21.32	H3270=יַעְזֵר	Jazer	Num.21.32; Num.32.1; Num.32.3; Num.32.35; Jos.13.25; Jos.21.39; 2Sa.24.5; 1Ch.6.81; 1Ch.26.31; Isa.16.8; Isa.16.9; Jer.48.32 
+$Jazer_Sea@Jer.48.32	Place	Sea of Jazer	31.94352951689796,35.72776961157128 = Near Jazer
+	Jazer_Sea@Jer.48.32	H3270=יַעְזֵר	(Sea of )Jazer	Jer.48.32; 
 $Jaziz@1Ch.27.31	Male living at the time of Divided monarchy	 + 			
 	Jaziz@1Ch.27.31	H3151=יָזִיז	Jaziz	1Ch.27.31 
 $Jeatherai@1Ch.6.21	Male living at the time of Divided monarchy	Zerah@1Ch.6.21 + 			Malchijah@1Ch.6.40
@@ -4764,7 +4820,7 @@ $Jehonathan@2Ch.17.8	Male living at the time of Divided monarchy	 +
 $Jehonathan@Neh.12.18	Male living at the time of Exile and return	 + 			
 	Jehonathan@Neh.12.18	H3083=יְהוֹנָתָן	Jehonathan	Neh.12.18 
 $Jehoram@1Ki.22.50	Male living at the time of Divided monarchy	Jehoshaphat@1Ki.15.24 + 	Azariah@2Ch.21.2a, Jehiel@2Ch.21.2, Zechariah@2Ch.21.2, Azariah@2Ch.21.2b, Michael@2Ch.21.2, Shephatiah@2Ch.21.2	Athaliah@2Ki.8.26	Ahaziah@2Ki.8.24, Jehosheba@2Ki.11.2
-	Jehoram@1Ki.22.50	H3088=יְהוֹרָם	Jehoram	1Ki.22.50; 2Ki.1.17b 2Ki.8.16; 2Ki.8.25; 2Ki.8.29; 2Ki.12.18; 2Ch.21.1; 2Ch.21.3; 2Ch.21.4; 2Ch.21.5; 2Ch.21.9; 2Ch.21.16; 2Ch.22.1; 2Ch.22.6a 2Ch.22.11 
+	Jehoram@1Ki.22.50	H3088=יְהוֹרָם	Jehoram	1Ki.22.50; 2Ki.1.17b; 2Ki.8.16; 2Ki.8.25; 2Ki.8.29; 2Ki.12.18; 2Ch.21.1; 2Ch.21.3; 2Ch.21.4; 2Ch.21.5; 2Ch.21.9; 2Ch.21.16; 2Ch.22.1; 2Ch.22.6a; 2Ch.22.11 
 	Joram|Jehoram@1Ki.22.50	G2496=Ἰωράμ	Joram (NIV= Jehoram)	Mat.1.8a; Mat.1.8b; 
 	Joram|Jehoram@1Ki.22.50	H3141=יוֹרָם	Joram (NIV= Jehoram)	2Ki.8.21; 2Ki.8.23; 2Ki.8.24; 2Ki.11.2; 1Ch.3.11 
 $Jehoram@2Ch.17.8	Male living at the time of Divided monarchy	 + 			
@@ -4898,7 +4954,10 @@ $Jeribai@1Ch.11.46	Male living at the time of Divided monarchy	Elnaam@1Ch.11.46
 	Jeribai@1Ch.11.46	H3403=יְרִיבַי	Jeribai	1Ch.11.46 
 $Jericho@Num.22.1	Place	Jericho	31.87060143818292,35.44386371224434
 	Jericho@Num.22.1	G2410=Ἱεριχώ	Jericho	Mat.20.29; Mrk.10.46a; Mrk.10.46b; Luk.10.30; Luk.18.35; Luk.19.1; Heb.11.30 
-	Jericho@Num.22.1	H3405=יְרִיחוֹ	Jericho	Num.22.1; Num.26.3; Num.26.63; Num.31.12; Num.33.48; Num.33.50; Num.34.15; Num.35.1; Num.36.13; Deu.32.49; Deu.34.1; Deu.34.3; Jos.2.1; Jos.2.2; Jos.2.3; Jos.3.16; Jos.4.13; Jos.4.19; Jos.5.10; Jos.5.13; Jos.6.1; Jos.6.2; Jos.6.25; Jos.6.26; Jos.7.2; Jos.8.2; Jos.9.3; Jos.10.1; Jos.10.28; Jos.10.30; Jos.12.9; Jos.13.32; Jos.16.1a; Jos.16.1b; Jos.16.1c; Jos.16.7; Jos.18.12; Jos.18.21; Jos.20.8; Jos.24.11a; Jos.24.11b; 2Sa.10.5; 1Ki.16.34; 2Ki.2.4a; 2Ki.2.4b; 2Ki.2.5; 2Ki.2.15; 2Ki.2.18; 2Ki.25.5; 1Ch.6.78; 1Ch.19.5; 2Ch.28.15; Ezr.2.34; Neh.3.2; Neh.7.36; Jer.39.5; Jer.52.8 
+	Jericho@Num.22.1	H3405=יְרִיחוֹ	Jericho	Num.22.1; Num.26.3; Num.26.63; Num.31.12; Num.33.48; Num.33.50; Num.34.15; Num.35.1; Num.36.13; Deu.32.49; Deu.34.1; Jos.2.1; Jos.2.2; Jos.2.3; Jos.3.16; Jos.4.13; Jos.4.19; Jos.5.10; Jos.5.13; Jos.6.1; Jos.6.2; Jos.6.25; Jos.6.26; Jos.7.2; Jos.8.2; Jos.9.3; Jos.10.1; Jos.10.28; Jos.10.30; Jos.12.9; Jos.13.32; Jos.16.1a; Jos.16.1b; Jos.16.1c; Jos.16.7; Jos.18.12; Jos.18.21; Jos.20.8; Jos.24.11a; Jos.24.11b; 2Sa.10.5; 1Ki.16.34; 2Ki.2.4a; 2Ki.2.4b; 2Ki.2.5; 2Ki.2.15; 2Ki.2.18; 2Ki.25.5; 1Ch.6.78; 1Ch.19.5; 2Ch.28.15; Ezr.2.34; Neh.3.2; Neh.7.36; Jer.39.5; Jer.52.8 
+$Jericho_Valley@Deu.34.3	Place	Jericho	31.87060143818292,35.44386371224434
+	Jericho_Valley@Deu.34.3	H1237=בִּקְעָה+H3405=יְרִיחוֹ	Valley of Jericho	Deu.34.3; 
+	Plain|Jericho_Valley@Deu.34.3	H3603=כִּכָּר	Plain (KJV= plain; NIV= region)	Deu.34.3 
 $Jeriel@1Ch.7.2	Male living at the time of the first Patriarchs	Tola@Gen.46.13 + 	Uzzi@1Ch.7.2, Rephaiah@1Ch.7.2, Jahmai@1Ch.7.2, Ibsam@1Ch.7.2, Shemuel@1Ch.7.2		
 	Jeriel@1Ch.7.2	H3400=יְרִיאֵל	Jeriel	1Ch.7.2 
 $Jerijah@1Ch.26.31	Male living at the time of Divided monarchy	 + 			
@@ -4957,7 +5016,9 @@ $Jerusalem@Jos.10.1	Place	Jerusalem	31.777444,35.234935
 	Salem|Jerusalem@Jos.10.1	H8004=שָׁלֵם	Salem	Gen.14.18; Psa.76.2 
 	Zion|Jerusalem@Jos.10.1	G4622=Σιών	Zion	Mat.21.5; Jhn.12.15; Rom.9.33; Rom.11.26; 1Pe.2.6 
 	Zion|Jerusalem@Jos.10.1	H6726=צִיּוֹן	Zion	2Sa.5.7; 1Ki.8.1; 2Ki.19.21; 1Ch.11.5; 2Ch.5.2; Psa.2.6; Psa.9.11; Psa.9.14; Psa.14.7; Psa.20.2; Psa.48.12; Psa.50.2; Psa.51.18; Psa.53.6; Psa.65.1; Psa.69.35; Psa.76.2; Psa.84.7; Psa.87.2; Psa.87.5; Psa.97.8; Psa.99.2; Psa.102.13; Psa.102.16; Psa.102.21; Psa.110.2; Psa.126.1; Psa.128.5; Psa.129.5; Psa.132.13; Psa.133.3; Psa.134.3; Psa.135.21; Psa.137.1; Psa.137.3; Psa.146.10; Psa.147.12; Psa.149.2; Sng.3.11; Isa.1.8; Isa.1.27; Isa.2.3; Isa.3.16; Isa.3.17; Isa.4.3; Isa.4.4; Isa.10.24; Isa.10.32; Isa.12.6; Isa.14.32; Isa.16.1; Isa.28.16; Isa.30.19; Isa.31.9; Isa.33.5; Isa.33.14; Isa.33.20; Isa.34.8; Isa.35.10; Isa.37.22; Isa.40.9; Isa.41.27; Isa.46.13; Isa.49.14; Isa.51.3; Isa.51.11; Isa.51.16; Isa.52.1; Isa.52.2; Isa.52.7; Isa.52.8; Isa.59.20; Isa.60.14; Isa.61.3; Isa.62.1; Isa.62.11; Isa.64.10; Isa.66.8; Jer.3.14; Jer.4.6; Jer.4.31; Jer.6.2; Jer.6.23; Jer.8.19; Jer.9.19; Jer.14.19; Jer.26.18; Jer.30.17; Jer.31.6; Jer.31.12; Jer.50.5; Jer.50.28; Jer.51.10; Jer.51.24; Jer.51.35; Lam.1.4; Lam.1.6; Lam.1.17; Lam.2.1; Lam.2.4; Lam.2.6; Lam.2.8; Lam.2.10; Lam.2.13; Lam.2.18; Lam.4.2; Lam.4.11; Lam.4.22; Lam.5.11; Jol.2.1; Jol.2.15; Jol.2.23; Jol.3.16; Jol.3.17; Jol.3.21; Amo.1.2; Amo.6.1; Mic.1.13; Mic.3.10; Mic.3.12; Mic.4.2; Mic.4.8; Mic.4.10; Mic.4.11; Mic.4.13; Zep.3.14; Zep.3.16; Zec.1.14; Zec.1.17; Zec.2.7; Zec.2.10; Zec.8.2; Zec.8.3; Zec.9.9; Zec.9.13 
-$Jerusha@2Ki.15.33	Female living at the time of Divided monarchy	Zadok@2Ki.15.33 + 		Uzziah@2Ki.14.21	Jotham@2Ki.15.5
+	Zion_Mount|Jerusalem@Jos.10.1	G4622=Σιών	(Mount )Zion (KJV= Sion)	Heb.12.22; Rev.14.1; 
+	Zion_Mount|Jerusalem@Jos.10.1	H6726=צִיּוֹן	(Mount )Zion	2Ki.19.31; Psa.48.2; Psa.48.11; Psa.74.2; Psa.78.68; Psa.125.1; Isa.4.5; Isa.8.18; Isa.10.12; Isa.18.7; Isa.24.23; Isa.29.8; Isa.31.4; Isa.37.32; Lam.5.18; Jol.2.32; Oba.1.17; Oba.1.21; Mic.4.7; 
+$$Jerusha@2Ki.15.33	Female living at the time of Divided monarchy	Zadok@2Ki.15.33 + 		Uzziah@2Ki.14.21	Jotham@2Ki.15.5
 	Jerusha@2Ki.15.33	H3388=יְרוּשָׁא, יְרוּשָׁה	Jerusha 	2Ki.15.33 
 	Jerusha@2Ki.15.33	H3388=יְרוּשָׁא, יְרוּשָׁה	Jerushah (NIV= Jerusha)	2Ch.27.1 
 $Jeshaiah@1Ch.25.3	Male living at the time of Divided monarchy	Jeduthun@1Ch.6.44 + 	Obed-edom@2Sa.6.10, Mattithiah@1Ch.15.18, Gedaliah@1Ch.25.3, Zeri@1Ch.25.3, Hashabiah@1Ch.25.3		
@@ -5092,8 +5153,10 @@ $Jezreel@Jos.15.56	Place	Jezreel	31.53577362133176,35.09409986578734 = Near Heb
 	Jezreel@Jos.15.56	H3157=יִזְרְעֶאל	Jezreel	Jos.15.56; 1Sa.25.43; 1Sa.29.1; 1Sa.29.11 
 	Jezreel@Jos.15.56	H3158=יִזְרְעֵאלִי	Jezreel	1Sa.27.3; 1Sa.30.5; 2Sa.2.2; 2Sa.3.2 
 $Jezreel@Jos.19.18	Place	Jezreel_2	32.5559631396043,35.33078927843792
-	Jezreel@Jos.19.18	H3157=יִזְרְעֶאל	Jezreel	Jos.19.18; 2Sa.2.9; 1Ki.4.12; 1Ki.18.45; 1Ki.18.46; 1Ki.21.1; 1Ki.21.23; 2Ki.8.29a; 2Ki.8.29b; 2Ki.9.10; 2Ki.9.15a; 2Ki.9.15b; 2Ki.9.16; 2Ki.9.17; 2Ki.9.30; 2Ki.9.36; 2Ki.9.37; 2Ki.10.6; 2Ki.10.7; 2Ki.10.11; 2Ch.22.6a; 2Ch.22.6b; Hos.1.4b Hos.1.11; Hos.2.22 
+	Jezreel@Jos.19.18	H3157=יִזְרְעֶאל	Jezreel	Jos.19.18; 2Sa.2.9; 1Ki.4.12; 1Ki.18.45; 1Ki.18.46; 1Ki.21.1; 1Ki.21.23; 2Ki.8.29a; 2Ki.8.29b; 2Ki.9.10; 2Ki.9.15a; 2Ki.9.15b; 2Ki.9.16; 2Ki.9.17; 2Ki.9.30; 2Ki.9.36; 2Ki.9.37; 2Ki.10.6; 2Ki.10.7; 2Ki.10.11; 2Ch.22.6a; 2Ch.22.6b; Hos.1.4b; Hos.1.11; Hos.2.22 
 	Jezreel@Jos.19.18	H3158=יִזְרְעֵאלִי	Jezreelite	1Ki.21.1; 1Ki.21.4; 1Ki.21.6; 1Ki.21.7; 1Ki.21.15; 1Ki.21.16; 2Ki.9.21; 2Ki.9.25; 1Ch.3.1 
+$Jezreel_Valley@Jos.17.16	Place	Valley of Jezreel	32.5559631396043,35.33078927843792 = Near Jezreel_2
+	Jezreel_Valley@Jos.17.16	H6010=עֵ֫מֶק+H3157=יִזְרְעֶאל	Valley of Jezreel	Jos.17.16; Jdg.6.33; Hos.1.5; 
 $Jidlaph@Gen.22.22	Male living at the time of the first Patriarchs	Nahor@Gen.11.26 + Milcah@Gen.11.29	Uz@Gen.22.21, Buz@Gen.22.21, Kemuel@Gen.22.21, Chesed@Gen.22.22, Hazo@Gen.22.22, Pildash@Gen.22.22, Bethuel@Gen.22.22, Tebah@Gen.22.24, Gaham@Gen.22.24, Tahash@Gen.22.24, Maacah@Gen.22.24		
 	Jidlaph@Gen.22.22	H3044=יִדְלָ֑ף	Jidlaph	Gen.22.22 
 $Joab@1Ch.4.14	Male living at the time of Divided monarchy	Seraiah@1Ch.4.13 + 			
@@ -5135,10 +5198,10 @@ $Joash@1Ki.22.26	Male living at the time of Divided monarchy	Ahab@1Ki.16.28 + 	
 	Joash@1Ki.22.26	H3101=יוֹאָשׁ	Joash	1Ki.22.26; 2Ch.18.25 
 $Joash@2Ki.11.2	Male living at the time of Divided monarchy	Ahaziah@2Ki.8.24 + Zibiah@2Ki.12.1		Jehoaddan@2Ki.14.2	Amaziah@2Ki.12.21
 	Jehoash|Joash@2Ki.11.2	H3060=יְהוֹאָשׁ	Jehoash	2Ki.11.21; 2Ki.12.1; 2Ki.12.2; 2Ki.12.4; 2Ki.12.6; 2Ki.12.7; 2Ki.12.18; 2Ki.14.13b 
-	Joash@2Ki.11.2	H3101=יוֹאָשׁ	Joash	2Ki.11.2; 2Ki.12.19; 2Ki.12.20; 2Ki.13.1; 2Ki.13.10; 2Ki.14.1b 2Ki.14.3; 2Ki.14.17; 2Ki.14.23a 1Ch.3.11; 2Ch.22.11; 2Ch.24.1; 2Ch.24.2; 2Ch.24.4; 2Ch.24.22; 2Ch.24.24; 2Ch.25.23b 2Ch.25.25a 
+	Joash@2Ki.11.2	H3101=יוֹאָשׁ	Joash	2Ki.11.2; 2Ki.12.19; 2Ki.12.20; 2Ki.13.1; 2Ki.13.10; 2Ki.14.1b; 2Ki.14.3; 2Ki.14.17; 2Ki.14.23a; 1Ch.3.11; 2Ch.22.11; 2Ch.24.1; 2Ch.24.2; 2Ch.24.4; 2Ch.24.22; 2Ch.24.24; 2Ch.25.23b; 2Ch.25.25a 
 $Joash@2Ki.13.9	Male living at the time of Divided monarchy	Jehoahaz@2Ki.10.35 + 			Jeroboam@2Ki.13.13
-	Jehoash|Joash@2Ki.13.9	H3060=יְהוֹאָשׁ	Jehoash	2Ki.13.10; 2Ki.13.25; 2Ki.14.8; 2Ki.14.9; 2Ki.14.11; 2Ki.14.13a 2Ki.14.15; 2Ki.14.16; 2Ki.14.17 
-	Joash@2Ki.13.9	H3101=יוֹאָשׁ	Joash	2Ki.13.9; 2Ki.13.12; 2Ki.13.13a; 2Ki.13.13b; 2Ki.13.14; 2Ki.13.25; 2Ki.14.23b 2Ki.14.27; 2Ch.25.17; 2Ch.25.18; 2Ch.25.21; 2Ch.25.23a 2Ch.25.25b Hos.1.1; Amo.1.1 
+	Jehoash|Joash@2Ki.13.9	H3060=יְהוֹאָשׁ	Jehoash	2Ki.13.10; 2Ki.13.25; 2Ki.14.8; 2Ki.14.9; 2Ki.14.11; 2Ki.14.13a; 2Ki.14.15; 2Ki.14.16; 2Ki.14.17 
+	Joash@2Ki.13.9	H3101=יוֹאָשׁ	Joash	2Ki.13.9; 2Ki.13.12; 2Ki.13.13a; 2Ki.13.13b; 2Ki.13.14; 2Ki.13.25; 2Ki.14.23b; 2Ki.14.27; 2Ch.25.17; 2Ch.25.18; 2Ch.25.21; 2Ch.25.23a; 2Ch.25.25b; Hos.1.1; Amo.1.1 
 	Joash@2Ki.13.9	H3135=יוֹעָשׁ	Joash (NIV= Jehoash)	2Ki.14.1a 
 $Joash@Jdg.6.11	Male living at the time of Israel before the monarchy	 + 			Gideon@Jdg.6.11
 	Joash@Jdg.6.11	H3101=יוֹאָשׁ	Joash	Jdg.6.11; Jdg.6.29; Jdg.6.30; Jdg.6.31; Jdg.7.14; Jdg.8.13; Jdg.8.29; Jdg.8.32a; Jdg.8.32b 
@@ -5299,8 +5362,6 @@ $Jonathan@Neh.12.14	Male living at the time of Exile and return	 +
 	Jonathan@Neh.12.14	H3129=יוֹנָתָן	Jonathan	Neh.12.14 
 $Jonathan@Neh.12.35	Male living at the time of Exile and return	Shemaiah@Neh.12.35 + 			Zechariah@Neh.12.35, Shemaiah@Neh.12.36, Azarel@Neh.12.36, Milalai@Neh.12.36, Gilalai@Neh.12.36, Maai@Neh.12.36, Nethanel@Neh.12.36, Judah@Neh.12.36, Hanani@Neh.12.36
 	Jonathan@Neh.12.35	H3129=יוֹנָתָן	Jonathan	Neh.12.35 
-$Dove_on_Far-off_Terebinths@Psa.56.1	A musical term				
-	Dove_on_Far-off_Terebinths@Psa.56.1	H3128=יוֹנַת אֵלֶם רְחֹקִים	Dove on Far-off Terebinths (KJV= Jonath-elem-rechokim; NIV= Dove on distant oaks)	Psa.56.1 
 $Joppa@Jos.19.46	Place	Joppa	32.05351968494696,34.75042606009946
 	Joppa@Jos.19.46	G2445=Ἰόππη	Joppa	Act.9.36; Act.9.38; Act.9.42; Act.9.43; Act.10.5; Act.10.8; Act.10.23; Act.10.32; Act.11.5; Act.11.13 
 	Joppa@Jos.19.46	H3305=יָפוֹ	Joppa	Jos.19.46; 2Ch.2.16; Ezr.3.7; Jon.1.3 
@@ -5312,7 +5373,7 @@ $Jorai@1Ch.5.13	Male living at the time of Divided monarchy	Abihail@1Ch.5.14 + 
 $Joram@1Ch.26.25	Male living at the time of Divided monarchy	Isshiah@1Ch.24.21 + 			Zichri@1Ch.26.25
 	Joram@1Ch.26.25	H3141=יוֹרָם	Joram	1Ch.26.25 
 $Joram@2Ki.1.17	Male living at the time of Divided monarchy	Ahab@1Ki.16.28 + Jezebel@1Ki.16.31	Joash@1Ki.22.26, Ahaziah@1Ki.22.40, Athaliah@2Ki.8.26		
-	Jehoram|Joram@2Ki.1.17	H3088=יְהוֹרָם	Jehoram	2Ki.1.17a 2Ki.3.1; 2Ki.3.6; 2Ch.22.5; 2Ch.22.6b 2Ch.22.7 
+	Jehoram|Joram@2Ki.1.17	H3088=יְהוֹרָם	Jehoram	2Ki.1.17a; 2Ki.3.1; 2Ki.3.6; 2Ch.22.5; 2Ch.22.6b; 2Ch.22.7 
 	Joram@2Ki.1.17	H3088=יְהוֹרָם	Joram	2Ki.9.15; 2Ki.9.17; 2Ki.9.21a; 2Ki.9.21b; 2Ki.9.22; 2Ki.9.23; 2Ki.9.24 
 	Joram@2Ki.1.17	H3141=יוֹרָם	Joram	2Ki.8.16; 2Ki.8.25; 2Ki.8.28a; 2Ki.8.28b; 2Ki.8.29a; 2Ki.8.29b; 2Ki.9.14a; 2Ki.9.14b; 2Ki.9.16a; 2Ki.9.16b; 2Ki.9.29; 2Ch.22.5; 2Ch.22.7 
 $Joram@2Sa.8.10	Male living at the time of United monarchy	Toi@2Sa.8.9 + 			
@@ -5465,12 +5526,12 @@ $Judas@Act.5.37	Male living at the time of the New Testament 	 +
 $Judas@Act.9.11	Male living at the time of the New Testament 	 + 			
 	Judas@Act.9.11	G2455=Ἰούδας	Judas	Act.9.11 
 $Judas@Mat.10.3	Male living at the time of the New Testament 	James@Mat.10.3 + 	James@Mat.10.3		
-	Judas@Mat.10.3	G2455=Ἰούδας	Judas	Luk.6.16a Jhn.14.22; Act.1.13 
+	Judas@Mat.10.3	G2455=Ἰούδας	Judas	Luk.6.16a; Jhn.14.22; Act.1.13 
 	Lebbaeus|Judas@Mat.10.3	G3002=Λεββαῖος	[ ] (KJV= Lebbaeus)	Mat.10.3 
 	Thaddaeus|Judas@Mat.10.3	G2280=Θαδδαῖος	Thaddaeus	Mat.10.3; Mrk.3.18 
 $Judas@Mat.10.4	Male living at the time of the New Testament 	Simon@Jhn.6.71 + 			
 	Iscariot|Judas@Mat.10.4	G2469=Ἰσκαριώτης, Ἰσκαριώθ	Iscariot	Mat.10.4; Mat.26.14; Mrk.3.19; Mrk.14.10; Luk.6.16; Luk.22.3; Jhn.6.71; Jhn.12.4; Jhn.13.2; Jhn.13.26; Jhn.14.22 
-	Judas@Mat.10.4	G2455=Ἰούδας	Judas	Mat.10.4; Mat.26.14; Mat.26.25; Mat.26.47; Mat.27.3; Mrk.3.19; Mrk.14.10; Mrk.14.43; Luk.6.16b Luk.22.3; Luk.22.47; Luk.22.48; Jhn.6.71; Jhn.12.4; Jhn.13.2; Jhn.13.26; Jhn.13.29; Jhn.18.2; Jhn.18.3; Jhn.18.5; Act.1.16; Act.1.25 
+	Judas@Mat.10.4	G2455=Ἰούδας	Judas	Mat.10.4; Mat.26.14; Mat.26.25; Mat.26.47; Mat.27.3; Mrk.3.19; Mrk.14.10; Mrk.14.43; Luk.6.16b; Luk.22.3; Luk.22.47; Luk.22.48; Jhn.6.71; Jhn.12.4; Jhn.13.2; Jhn.13.26; Jhn.13.29; Jhn.18.2; Jhn.18.3; Jhn.18.5; Act.1.16; Act.1.25 
 $Jude@Mat.13.55	Male living at the time of the New Testament 	Joseph@Mat.1.16 + Mary@Mat.1.16	Jesus@Mat.1.1, James@Mat.13.55, Joseph@Mat.13.55, Simon@Mat.13.55		
 	Judas|Jude@Mat.13.55	G2455=Ἰούδας	Judas	Mat.13.55 
 	Judas|Jude@Mat.13.55	G2455=Ἰούδας	Judas (KJV=Juda)	Mrk.6.3 
@@ -5483,6 +5544,8 @@ $Judea@Ezr.9.9	Place	Judea	31.777444,35.234935
 	Judea@Ezr.9.9	H3063=יְהוּדָה	Judea (KJV= Judah)	Ezr.9.9 
 	Judea@Ezr.9.9	H3063=יְהוּדָה	Judean	Jer.40.15 
 	Judea@Ezr.9.9	H3064=יְהוּדִי	Judean	Jer.32.12; Jer.38.19; Jer.40.11; Jer.40.12; Jer.41.3; Jer.44.1; Jer.52.28; Jer.52.30 
+$Judith@Gen.26.34	Female living at the time of the first Patriarchs	Beeri@Gen.26.34 + 		Esau@Gen.25.25	
+	Judith@Gen.26.34	H3067=יְהוּדִית	Judith	Gen.26.34 
 $Julia@Rom.16.15	Female living at the time of the New Testament	 + 			
 	Julia@Rom.16.15	G2456=Ἰουλία	Julia	Rom.16.15 
 $Julius@Act.27.1	Male living at the time of the New Testament 	 + 			
@@ -5728,6 +5791,10 @@ $Lebanah@Ezr.2.45	Male living at the time of Exile and return	 +
 	Lebanah@Ezr.2.45	H3838=לְבָנָא	Lebanah	Ezr.2.45 
 $Lebanon@Deu.1.7	Place	Lebanon	33.752479,35.590804
 	Lebanon@Deu.1.7	H3844=לְבָנוֹן	Lebanon	Deu.1.7; Deu.3.25; Deu.11.24; Jos.1.4; Jos.9.1; Jos.13.5; Jos.13.6; Jdg.9.15; 1Ki.4.33; 1Ki.5.6; 1Ki.5.9; 1Ki.5.14a; 1Ki.5.14b; 1Ki.9.19; 2Ki.14.9a; 2Ki.14.9b; 2Ki.14.9c; 2Ki.19.23; 2Ch.2.8a; 2Ch.2.8b; 2Ch.2.16; 2Ch.8.6; 2Ch.25.18a; 2Ch.25.18b; 2Ch.25.18c; Ezr.3.7; Psa.29.5; Psa.29.6; Psa.72.16; Psa.92.12; Psa.104.16; Sng.3.9; Sng.4.8a; Sng.4.8b; Sng.4.11; Sng.4.15; Sng.5.15; Sng.7.4; Isa.2.13; Isa.10.34; Isa.14.8; Isa.29.17; Isa.33.9; Isa.35.2; Isa.37.24; Isa.40.16; Isa.60.13; Jer.18.14; Jer.22.6; Jer.22.20; Jer.22.23; Ezk.17.3; Ezk.27.5; Ezk.31.3; Ezk.31.15; Ezk.31.16; Hos.14.5; Hos.14.6; Hos.14.7; Nam.1.4; Hab.2.17; Zec.10.10; Zec.11.1 
+$Lebanon_Mount@Jdg.3.3	Place	Mount Lebanon	33.752479,35.590804
+	Lebanon_Mount@Jdg.3.3	H3844=לְבָנוֹן	(Mount )Lebanon	Jdg.3.3; 
+$Lebanon_Valley@Jos.11.17	Place	Valley of Lebanon	
+	Lebanon_Valley@Jos.11.17	H1237=בִּקְעָה+H3844=לְבָנוֹן	Valley of Lebanon	Jos.11.17; Jos.12.7; 
 $Lebaoth@Jos.15.32	Place	Lebaoth	31.391668,34.940502 = Near Madmannah
 	Lebaoth@Jos.15.32	H3822=לְבָאוֹת	Lebaoth	Jos.15.32 
 $Leb-kamai@Jer.51.1	Place	Leb-kamai	30.9620520474569,46.10374195774169
@@ -5804,9 +5871,6 @@ $Lot@Gen.11.27	Male living at the time of the first Patriarchs	Haran@Gen.11.26 
 	Lot@Gen.11.27	H3876=לוֹט	Lot	Gen.11.27; Gen.11.31; Gen.12.4; Gen.12.5; Gen.13.1; Gen.13.5; Gen.13.7; Gen.13.8; Gen.13.10; Gen.13.11a; Gen.13.11b; Gen.13.12; Gen.13.14; Gen.14.12; Gen.14.16; Gen.19.1a; Gen.19.1b; Gen.19.5; Gen.19.6; Gen.19.9; Gen.19.10; Gen.19.12; Gen.19.14; Gen.19.15; Gen.19.18; Gen.19.23; Gen.19.29a; Gen.19.29b; Gen.19.30; Gen.19.36; Deu.2.9; Deu.2.19; Psa.83.8 
 $Lotan@Gen.36.20	Male living at the time of the first Patriarchs	Seir@Gen.36.20 + 	Shobal@Gen.36.20, Zibeon@Gen.36.20, Anah@Gen.36.20, Dishon@Gen.36.21, Ezer@Gen.36.21, Dishan@Gen.36.21, Timna@Gen.36.22		Hori@Gen.36.22, Hemam@Gen.36.22
 	Lotan@Gen.36.20	H3877=לוֹטָן	Lotan	Gen.36.20; Gen.36.22a; Gen.36.22b; Gen.36.29; 1Ch.1.38; 1Ch.1.39 
-$Lower_Beth-horon@Jos.16.3	Place	Lower Beth-horon	31.87892595986906,35.12356744466153
-	Lower_Beth-horon@Jos.16.3	H1032=בֵּית חוֹרֹן	Beth-horon	Jos.10.10; Jos.10.11; Jos.18.14; Jos.21.22; 1Sa.13.18; 1Ch.6.68; 2Ch.25.13 
-	Lower_Beth-horon@Jos.16.3	H1032=בֵּית חוֹרֹן+H8481=תַּחְתּוֹן	Lower Beth-horon	Jos.16.3; Jos.18.13; 1Ki.9.17; 1Ch.7.24; 2Ch.8.5; 
 $Lucifer@Isa.14.12	A deity	 + 			
 	Day_Star|Lucifer@Isa.14.12	H1966=הֵילֵל	Day Star (KJV= Lucifer; NIV= morning star)	Isa.14.12 
 $Lud@Gen.10.22	Male living at the time of the first Patriarchs	Shem@Gen.5.32 + 	Asshur@Gen.10.22, Elam@Gen.10.22, Arphaxad@Gen.10.22, Aram@Gen.10.22		
@@ -5957,7 +6021,7 @@ $Magadan@Mat.15.39	Place	Magadan	32.84733494629723,35.5229361797708
 $Magbish@Ezr.2.30	Place		
 	Magbish@Ezr.2.30	H4019=מַגְבִּישׁ	Magbish	Ezr.2.30 
 $Magdalene@Mat.27.56	Female living at the time of the New Testament	 + 			
-	Mary|Magdalene@Mat.27.56	G3137=Μαρία	Mary	Mat.27.56b Mat.27.61a Mat.28.1a Mrk.15.40a Mrk.15.47a Mrk.16.1a Mrk.16.9; Luk.8.2; Luk.24.10a Jhn.19.25b Jhn.20.1; Jhn.20.11; Jhn.20.16; Jhn.20.18 
+	Mary|Magdalene@Mat.27.56	G3137=Μαρία	Mary	Mat.27.56b; Mat.27.61a; Mat.28.1a; Mrk.15.40a; Mrk.15.47a; Mrk.16.1a; Mrk.16.9; Luk.8.2; Luk.24.10a; Jhn.19.25b; Jhn.20.1; Jhn.20.11; Jhn.20.16; Jhn.20.18 
 $Magdiel@Gen.36.43	Male living at the time of the first Patriarchs	 + 			
 	Magdiel@Gen.36.43	H4025=מַגְדִּיאֵל	Magdiel	Gen.36.43; 1Ch.1.54 
 $Magog@Ezk.38.2	Place for descendants of Magog@Gen.10.2	Magog	46,47 = Near Gog
@@ -6133,7 +6197,7 @@ $Mary@Jhn.19.25	Female living at the time of the New Testament	 + 		Cleopas@Luk
 $Mary@Luk.10.39	Female living at the time of the New Testament	father_of_Lazarus@Luk.10.39 + 	Martha@Luk.10.38, Lazarus@Jhn.11.1		
 	Mary@Luk.10.39	G3137=Μαρία	Mary	Luk.10.39; Luk.10.42; Jhn.11.1; Jhn.11.2; Jhn.11.19; Jhn.11.20; Jhn.11.28; Jhn.11.31; Jhn.11.32; Jhn.11.45; Jhn.12.3 
 $Mary@Mat.1.16	Female living at the time of the New Testament	Heli@Luk.3.23 + 		Joseph@Mat.1.16	Jesus@Mat.1.1, James@Mat.13.55, Joseph@Mat.13.55, Simon@Mat.13.55, Jude@Mat.13.55
-	Mary@Mat.1.16	G3137=Μαρία	Mary	Mat.1.16; Mat.1.18; Mat.1.20; Mat.2.11; Mat.13.55; Mat.27.56a Mat.27.61b Mat.28.1b Mrk.6.3; Mrk.15.40b Mrk.15.47b Mrk.16.1b Luk.1.27; Luk.1.30; Luk.1.34; Luk.1.38; Luk.1.39; Luk.1.41; Luk.1.46; Luk.1.56; Luk.2.5; Luk.2.16; Luk.2.19; Luk.2.34; Luk.24.10b Act.1.14 
+	Mary@Mat.1.16	G3137=Μαρία	Mary	Mat.1.16; Mat.1.18; Mat.1.20; Mat.2.11; Mat.13.55; Mat.27.56a; Mat.27.61b; Mat.28.1b; Mrk.6.3; Mrk.15.40b; Mrk.15.47b; Mrk.16.1b; Luk.1.27; Luk.1.30; Luk.1.34; Luk.1.38; Luk.1.39; Luk.1.41; Luk.1.46; Luk.1.56; Luk.2.5; Luk.2.16; Luk.2.19; Luk.2.34; Luk.24.10b; Act.1.14 
 $Mary@Rom.16.6	Female living at the time of the New Testament	 + 			
 	Mary@Rom.16.6	G3137=Μαρία	Mary	Rom.16.6 
 $Mash@Gen.10.23	Male living at the time of the first Patriarchs	Aram@Gen.10.22 + 	Uz@Gen.10.23, Hul@Gen.10.23, Gether@Gen.10.23		
@@ -6427,6 +6491,9 @@ $Mibzar@Gen.36.42	Male living at the time of the first Patriarchs	 +
 $Mica@1Ch.9.15	Male living at the time of Exile and return	Zichri@1Ch.9.15 + 			Mattaniah@1Ch.9.15
 	Mica@1Ch.9.15	H4316=מִיכָא	Mica (KJV= Micah; NIV= Mika)	1Ch.9.15 
 	Micah@1Ch.9.15	H4318=מִיכָה	Mica (KJV= Micha; NIV= Mika)	Neh.11.17 
+$Mica@2Sa.9.12	Male living at the time of United monarchy	Mephibosheth@2Sa.4.4 + 			Pithon@1Ch.8.35, Melech@1Ch.8.35, Tarea@1Ch.8.35, Ahaz@1Ch.8.35
+	Mica@2Sa.9.12	H4316=מִיכָא	Mica (KJV= Micha; NIV= Mika)	2Sa.9.12 
+	Mica@2Sa.9.12	H4318=מִיכָה	Micah	1Ch.8.34; 1Ch.8.35; 1Ch.9.40; 1Ch.9.41 
 $Mica@Neh.10.11	Male living at the time of Exile and return	 + 			
 	Mica@Neh.10.11	H4316=מִיכָא	Mica (KJV= Micha; NIV= Mika)	Neh.10.11 
 $Mica@Neh.11.22	Male living at the time of Exile and return	 + 			Mattaniah@Neh.11.22
@@ -6436,9 +6503,6 @@ $Micah@1Ch.23.20	Male living at the time of Egypt and Wilderness	Uzziel@Exo.6.1
 	Micah@1Ch.23.20	H4318=מִיכָה	Micah (KJV= Michah)	1Ch.23.20; 1Ch.24.24a; 1Ch.24.24b; 1Ch.24.25 
 $Micah@1Ch.5.5	Male living at the time of Divided monarchy	Shimei@1Ch.5.4 + 			Reaia@1Ch.5.5
 	Micah@1Ch.5.5	H4318=מִיכָה	Micah	1Ch.5.5 
-$Mica@2Sa.9.12	Male living at the time of United monarchy	Mephibosheth@2Sa.4.4 + 			Pithon@1Ch.8.35, Melech@1Ch.8.35, Tarea@1Ch.8.35, Ahaz@1Ch.8.35
-	Mica@2Sa.9.12	H4316=מִיכָא	Mica (KJV= Micha; NIV= Mika)	2Sa.9.12 
-	Mica@2Sa.9.12	H4318=מִיכָה	Micah	1Ch.8.34; 1Ch.8.35; 1Ch.9.40; 1Ch.9.41 
 $Micah@Jdg.17.1	Male living at the time of Israel before the monarchy	 + 			
 	Micah@Jdg.17.1	H4318=מִיכָה	Micah	Jdg.17.5; Jdg.17.8; Jdg.17.9; Jdg.17.10; Jdg.17.12a; Jdg.17.12b; Jdg.17.13; Jdg.18.2; Jdg.18.3; Jdg.18.4; Jdg.18.13; Jdg.18.15; Jdg.18.18; Jdg.18.22a; Jdg.18.22b; Jdg.18.23; Jdg.18.26; Jdg.18.27; Jdg.18.31 
 	Micah@Jdg.17.1	H4321=מִיכָֽיְהוּ	Micah	Jdg.17.1; Jdg.17.4 
@@ -6583,6 +6647,8 @@ $Mithredath@Ezr.4.7	Male living at the time of Exile and return	 +
 	Mithredath@Ezr.4.7	H4990=מִתְרְדָת	Mithredath	Ezr.4.7 
 $Mitylene@Act.20.14	Place	Mitylene	39.10033557286295,26.55180477541001
 	Mitylene@Act.20.14	G3412=Μιτυλήνη	Mitylene	Act.20.14 
+$Mizar_Mount@Psa.42.6	Place	Mount Mizar	33.41615982399708,35.85725617635589 = Near Mount Hermon
+	Mizar_Mount@Psa.42.6	H4706=מִצְעָר	(Mount )Mizar	Psa.42.6; 
 $Mizpah@Jdg.20.1	Place	Mizpah_3	31.83273947023218,35.1801628605877
 	Arimathea|Mizpah@Jdg.20.1	G0707=Ἀριμαθαία	Arimathea	Mat.27.57; Mrk.15.43; Luk.23.50; Jhn.19.38 
 	Mizpah@Jdg.20.1	H4709=מִצְפָּה	Mizpah (KJV= Mizpeh)	Jer.40.6; Jer.40.8; Jer.40.12; Jer.40.13; Jdg.20.1; Jdg.20.3; Jdg.21.1; Jdg.21.5; Jdg.21.8; 1Sa.7.5; 1Sa.7.6a; 1Sa.7.6b; 1Sa.7.7; 1Sa.7.11; 1Sa.7.12; 1Sa.7.16; 1Sa.10.17 
@@ -6592,6 +6658,9 @@ $Mizpah@Jdg.20.1	Place	Mizpah_3	31.83273947023218,35.1801628605877
 	Ramathaim-zophim|Mizpah@Jdg.20.1	H7436=רָמָתַיִם צוֹפִים	Ramathaim-zophim	1Sa.1.1 
 $Mizpeh@Jos.15.38	Place	Mizpeh_2	31.56485056116292,34.8467256730566 = Near Lachish
 	Mizpeh@Jos.15.38	H4708=מִצְפֶּה	Mizpeh	Jos.15.38 
+$Mizpeh_Valley@Jos.11.8	Place	Valley of Mizpeh	33.281770,35.573371
+	Mizpah|Mizpeh_Valley@Jos.11.8	H4709=מִצְפָּה	Mizpah	Jos.11.3 
+	Mizpeh_Valley@Jos.11.8	H1237=בִּקְעָה+H4708=מִצְפֶּה	Valley of Mizpeh	Jos.11.8; 
 $Mizzah@Gen.36.13	Male living at the time of the first Patriarchs	Reuel@Gen.36.4 + 	Nahath@Gen.36.13, Zerah@Gen.36.13, Shammah@Gen.36.13		
 	Mizzah@Gen.36.13	H4199=מִזָּה	Mizzah	Gen.36.13; Gen.36.17; 1Ch.1.37 
 $Mnason@Act.21.16	Male living at the time of the New Testament 	 + 			
@@ -6603,6 +6672,8 @@ $Moab@Gen.36.35	Place for descendants of Moab@Gen.19.37	Moab	31.49684513710609,
 	Moab@Gen.36.35	H4124=מוֹאָב	Moabite	Gen.19.37; Jdg.3.28a; Jdg.3.28b; Jdg.3.29; 2Sa.8.2; 2Ki.3.18; 2Ki.3.21; 2Ki.3.22; 2Ki.3.24a; 2Ki.3.24b; 2Ki.13.20; 2Ki.24.2; 1Ch.18.2; 2Ch.20.1 
 	Moab@Gen.36.35	H4125=מוֹאָבִי	Moab	Neh.13.23 
 	Moab@Gen.36.35	H4125=מוֹאָבִי	Moabite	Deu.2.11; Deu.2.29; Deu.23.3; Rut.1.4; Rut.1.22; Rut.2.2; Rut.2.6; Rut.2.21; Rut.4.5; Rut.4.10; 1Ki.11.1; 1Ch.11.46; 2Ch.24.26; Ezr.9.1; Neh.13.1 
+$Moab_Plains@Num.22.1	Place in Moab		
+	Moab_Plains@Num.22.1	H6160=עֲרָבָה+H4124=מוֹאָב	plains of Moab	Num.22.1; Num.26.3; Num.26.63; Num.31.12; Num.33.48; Num.33.49; Num.33.50; Num.35.1; Num.36.13; Deu.34.1; Deu.34.8; Jos.13.32; 
 $Moladah@Jos.15.26	Place	Moladah	31.162327,35.057114
 	Moladah@Jos.15.26	H4137=מוֹלָדָה	Moladah	Jos.15.26; Jos.19.2; 1Ch.4.28; Neh.11.26 
 $Molech@Lev.18.21	A deity	 + 			
@@ -6625,6 +6696,9 @@ $Moresheth@Jer.26.18	Place	Moresheth	31.60393321295081,34.90237777777779 = Near
 	Moresheth@Jer.26.18	H4183=מוֹרַשְׁתִּי	Moresheth (KJV= Moreshethite)	Jer.26.18; Mic.1.1 
 $Moresheth-gath@Mic.1.14	Place	Moresheth-gath	31.60393321295081,34.90237777777779 = Near Mareshah
 	Moresheth-gath@Mic.1.14	H4182=מוֹרֶ֫שֶׁת גַּת	Moresheth-gath	Mic.1.14 
+$Moriah_Mount@2Ch.3.1	Place	Mount Moriah	31.77759385009378,35.23525140955081
+	Moriah_Mount@2Ch.3.1	H4179=מֹרִיָּה	(Mount )Moriah	2Ch.3.1; 
+	Moriah_Mount@2Ch.3.1	H4179=מֹרִיָּה	Moriah	Gen.22.2 
 $Mortar@Zep.1.11	Place	Mortar	31.777444,35.234935 = In Jerusalem
 	Mortar@Zep.1.11	H4389=מַכְתֵּשׁ	Mortar	Zep.1.11 
 $Moserah@Deu.10.6	Place	Moserah	30.317396,35.407152 = Near Mount Hor_1
@@ -6644,84 +6718,6 @@ $Most_High@Gen.14.18	A deity
 $Most_Holy_Place@1Ki.6.16	Place	Most Holy Place	31.777444,35.234935 = In Jerusalem
 	Most_Holy_Place@1Ki.6.16	G0039=ἅγιον	Most Holy Place	Heb.9.3 
 	Most_Holy_Place@1Ki.6.16	H6944=קֹ֫דֶשׁ+H6944=קֹ֫דֶשׁ	Most Holy Place	1Ki.6.16; 1Ki.7.50; 1Ki.8.6; 1Ch.6.49; 2Ch.3.8; 2Ch.3.10; 2Ch.4.22; 2Ch.5.7; Ezk.41.4; Ezk.45.3 
-$Mount_Baalah@Jos.15.11	Place	Mount Baalah	31.865518,34.746856 = Near Jabneel_1
-	Mount_Baalah@Jos.15.11	H2022=הַר+H1173=בַּעֲלָה	Mount Baalah	Jos.15.11; 
-$Mount_Carmel@1Ki.18.19	Place	Mount Carmel	32.729350157734,35.04978957235391
-	Mount_Carmel@1Ki.18.19	H2022=הַר+H3760=כַּרְמֶל	Mount Carmel	1Ki.18.19; 1Ki.18.20; 2Ki.2.25; 2Ki.4.25; 
-	Mount_Carmel@1Ki.18.19	H3760=כַּרְמֶל	Carmel	1Ki.18.42 
-$Mount_Ebal@Deu.11.29	Place	Mount Ebal	32.23293813761263,35.27304180036391
-	Mount Ephraim|Mount_Ebal@Deu.11.29	H2022=הַר+H0669=אֶפְרַ֫יִם	Mount Ephraim	Jer.4.15; 
-	Mount Zalmon|Mount_Ebal@Deu.11.29	H2022=הַר+H6756a=צַלְמוֹן	Mount Zalmon	Jdg.9.48; 
-	Mount_Ebal@Deu.11.29	H2022=הַר+H5858c=עֵיבָל	Mount Ebal	Deu.11.29; Deu.27.4; Deu.27.13; Jos.8.30; Jos.8.33; 
-	Zalmon|Mount_Ebal@Deu.11.29	H6756a=צַלְמוֹן	Zalmon	Psa.68.14 
-$Mount_Ephron@Jos.15.9	Place	Mount Ephron	31.675746,35.042407
-	Mount_Ephron@Jos.15.9	H2022=הַר+H6085=עֶפְרוֹן	Mount Ephron	Jos.15.9; 
-$Mount_Esau@Oba.1.8	Place	Mount Esau	30.734691,35.606250
-	Mount_Esau@Oba.1.8	H2022=הַר+H6215=עֵשָׂו	Mount Esau	Oba.1.8; Oba.1.9; Oba.1.19; Oba.1.21; 
-$Mount_Gerizim@Deu.11.29	Place	Mount Gerizim	32.19956174365378,35.27285228460234
-	Mount_Gerizim@Deu.11.29	H2022=הַר+H1630=גְּרִזִים	Mount Gerizim	Deu.11.29; Deu.27.12; Jos.8.33; Jdg.9.7; 
-$Mount_Gilboa@1Sa.31.1	Place	Mount Gilboa	32.50984080716704,35.40843470396692
-	Mount_Gilboa@1Sa.31.1	H2022=הַר+H1533=גִּלְבֹּעַ	Mount Gilboa	1Sa.31.1; 1Sa.31.8; 2Sa.1.6; 1Ch.10.1; 1Ch.10.8; 
-	Mount_Gilboa@1Sa.31.1	H2022=הַר+H1568=גִּלְעָד	Mount Gilead	Jdg.7.3; 
-$Mount_Halak@Jos.11.17	Place	Mount Halak	30.916667,34.833333
-	Mount_Halak@Jos.11.17	H2022=הַר+H2510=חָלָק	Mount Halak	Jos.11.17; Jos.12.7; 
-$Mount_Hermon@Deu.3.8	Place	Mount Hermon	33.41615982399708,35.85725617635589
-	Baal-gad|Mount_Hermon@Deu.3.8	H1171=בַּ֫עַל גָּד	Baal-gad	Jos.11.17; Jos.12.7; Jos.13.5 
-	Baal-hamon|Mount_Hermon@Deu.3.8	H1174=בַּ֫עַל הָמוֹן	Baal-hamon	Sng.8.11 
-	Baal-hermon|Mount_Hermon@Deu.3.8	H1179=בַּ֫עַל חֶרְמוֹן	Baal-hermon	1Ch.5.23 
-	Mount_Hermon@Deu.3.8	H2022=הַר+H1179=בַּ֫עַל חֶרְמוֹן	Mount Baal-hermon	Jdg.3.3; 
-	Mount_Hermon@Deu.3.8	H2022=הַר+H2768=חֶרְמוֹן	Mount Hermon	Deu.3.8; Jos.11.17; Jos.12.1; Jos.12.5; Jos.13.5; Jos.13.11; 1Ch.5.23; 
-	Mount_Hermon@Deu.3.8	H2768=חֶרְמוֹן	Hermon	Deu.3.9; Deu.4.48; Jos.11.3; Psa.89.12; Psa.133.3; Sng.4.8 
-	Mount_Hermon@Deu.3.8	H2769=חֶרְמוֹנִים	Hermon	Psa.42.6 
-	Senir|Mount_Hermon@Deu.3.8	H8149=שְׂנִיר	Senir	Deu.3.9; 1Ch.5.23; Sng.4.8; Ezk.27.5 
-	Sirion|Mount_Hermon@Deu.3.8	H2022=הַר+H7865=שִׂיאֹן	Mount Sirion (KJV= Sion)	Deu.4.48; 
-	Sirion|Mount_Hermon@Deu.3.8	H7704a=שָׂדַי	Sirion	Jer.18.14 
-	Sirion|Mount_Hermon@Deu.3.8	H8303=שִׂרְיֹן	Sirion	Deu.3.9; Psa.29.6 
-	Valley_of_Lebanon|Mount_Hermon@Deu.3.8	H1237=בִּקְעָה+H3844=לְבָנוֹן	Valley of Lebanon	Jos.11.17; 
-	Valley_of_Lebanon|Mount_Hermon@Deu.3.8	H1237=בִּקְעָה+H3844=לְבָנוֹן	Valley of Lebanon	Jos.12.7; 
-$Mount_Hor@Num.20.22	Place	Mount Hor_1	30.317396,35.407152
-	Mount_Hor@Num.20.22	H2023=הֹר+H2022=הַר	Mount Hor	Num.20.22; Num.20.23; Num.20.25; Num.20.27; Num.21.4; Num.33.37; Num.33.38; Num.33.39; Num.33.41; Deu.32.50; 
-$Mount_Hor@Num.34.7	Place	Mount Hor_2	35.710069,36.188080
-	Mount_Hor@Num.34.7	H2023=הֹר+H2022=הַר	Mount Hor	Num.34.7; Num.34.8; 
-$Mount_Lebanon@Jdg.3.3	Place	Mount Lebanon	33.752479,35.590804
-	Mount_Lebanon@Jdg.3.3	H2022=הַר+H3844=לְבָנוֹן	Mount Lebanon	Jdg.3.3; 
-$Mount_Mizar@Psa.42.6	Place	Mount Mizar	33.41615982399708,35.85725617635589 = Near Mount Hermon
-	Mount_Mizar@Psa.42.6	H2022=הַר+H4706=מִצְעָר	Mount Mizar	Psa.42.6; 
-$Mount_Moriah@2Ch.3.1	Place	Mount Moriah	31.77759385009378,35.23525140955081
-	Mount_Moriah@2Ch.3.1	H2022=הַר+H4179=מֹרִיָּה	Mount Moriah	2Ch.3.1; 
-	Mount_Moriah@2Ch.3.1	H4179=מֹרִיָּה	Moriah	Gen.22.2 
-$Mount_Nebo@Deu.32.49	Place	Mount Nebo	31.76135780447535,35.74614824478083
-	Abarim|Mount_Nebo@Deu.32.49	H5682=עֲבָרִים	Abarim	Num.27.12; Num.33.47; Num.33.48; Deu.32.49; Jer.22.20 
-	Mount_Nebo@Deu.32.49	H2022=הַר+H5015a=נְבוֹ	Mount Nebo	Deu.32.49; Deu.34.1; 
-$Mount_of_Olives@2Sa.15.30	Place	Mount of Olives	31.77809503341373,35.2471976093501
-	Mount_of_Olives@2Sa.15.30	G1636=ἐλαία	Olivet	Luk.19.29; Luk.21.37 
-	Mount_of_Olives@2Sa.15.30	G1638=ἐλαιών	Olivet	Act.1.12 
-	Mount_of_Olives@2Sa.15.30	G3735=ὄρος+G1638=ἐλαιών	Mount of Olives	Mat.21.1; Mat.24.3; Mat.26.30; Mrk.11.1; Mrk.13.3; Mrk.14.26; Luk.19.37; Luk.22.39; Jhn.8.1; 
-	Mount_of_Olives@2Sa.15.30	H2022=הַר	Mount	Zec.14.4 
-	Mount_of_Olives@2Sa.15.30	H2022=הַר+H2132=זַ֫יִת	Mount of Olives	Zec.14.4; Zec.14.4; 
-	Mount_of_Olives@2Sa.15.30	H2132=זַ֫יִת	Olives	2Sa.15.30 
-$Mount_Paran@Deu.33.2	Place	Mount Paran	29.151667,33.541944 = In Paran
-	Mount_Paran@Deu.33.2	H2022=הַר+H6290=פָּארָן	Mount Paran	Deu.33.2; Hab.3.3; 
-$Mount_Perazim@Isa.28.21	Place	Mount Perazim	31.756332,35.223059 = Near Valley of Rephaim
-	Mount_Perazim@Isa.28.21	H2022=הַר+H6559=פְּרָצִים	Mount Perazim	Isa.28.21; 
-$Mount_Seir@Deu.1.2	Place	Mount Seir_1	30.734691,35.606250
-	Mount_Seir@Deu.1.2	H2022=הַר+H8165a=שֵׂעִיר	Mount Seir	Deu.1.2; Deu.2.1; Deu.2.5; 1Ch.4.42; 2Ch.20.10; 2Ch.20.22; 2Ch.20.23; Ezk.35.2; Ezk.35.3; Ezk.35.7; Ezk.35.15; 
-$Mount_Seir@Jos.15.10	Place	Mount Seir_2	31.783333,34.994000
-	Mount_Seir@Jos.15.10	H2022=הַר+H8165a=שֵׂעִיר	Mount Seir	Jos.15.10; 
-$Mount_Shepher@Num.33.23	Place	Mount Shepher	30.317396,35.407152 = Near Mount Hor_1
-	Mount_Shepher@Num.33.23	H2022=הַר+H8234=שֶׁ֫פֶר	Mount Shepher (KJV= mount Shapher)	Num.33.23; Num.33.24; 
-$Sinai@Exo.19.11	Place	Mount Sinai	28.539722,33.973333
-	Mount_Horeb|Sinai@Exo.19.11	H2022=הַר+H2722=חֹרֵב	Mount Horeb	Exo.33.6; 
-	Horeb|Sinai@Exo.19.11	H2722=חֹרֵב	Horeb	Exo.3.1; Exo.17.6; Deu.1.2; Deu.1.6; Deu.1.19; Deu.4.10; Deu.4.15; Deu.5.2; Deu.9.8; Deu.18.16; Deu.29.1; 1Ki.8.9; 1Ki.19.8; 2Ch.5.10; Psa.106.19; Mal.4.4 
-	Mount_Sinai|Sinai@Exo.19.11	G3735=ὄρος+G4614=Σινᾶ	Mount Sinai	Act.7.30; Act.7.38; Gal.4.24; Gal.4.25; 
-	Mount_Sinai|Sinai@Exo.19.11	H2022=הַר+H5514=סִינַי	Mount Sinai	Exo.19.11; Exo.19.18; Exo.19.20; Exo.19.23; Exo.24.16; Exo.31.18; Exo.34.2; Exo.34.4; Exo.34.29; Exo.34.32; Lev.7.38; Lev.25.1; Lev.26.46; Lev.27.34; Num.3.1; Num.28.6; Neh.9.13; 
-	Sinai@Exo.19.11	H5514=סִינַי	Sinai	Exo.16.1; Deu.33.2; Jdg.5.5; Psa.68.8; Psa.68.17 
-$Mount_Tabor@Jdg.4.6	Place	Mount Tabor	32.68695640243183,35.39091304299688
-	Mount_Tabor@Jdg.4.6	H2022=הַר+H8396=תָּבוֹר	Mount Tabor	Jdg.4.6; Jdg.4.12; Jdg.4.14; 
-	Mount_Tabor@Jdg.4.6	H8396=תָּבוֹר	Tabor	Jos.19.22; Jdg.8.18; Psa.89.12; Jer.46.18; Hos.5.1 
-$Mount_Zion@2Ki.19.31	Place	Mount Zion	31.777444,35.234935 = In Jerusalem
-	Mount_Zion@2Ki.19.31	G3735=ὄρος+G4622=Σιών	Mount Zion (KJV= Sion)	Heb.12.22; Rev.14.1; 
-	Mount_Zion@2Ki.19.31	H2022=הַר+H6726=צִיּוֹן	Mount Zion	2Ki.19.31; Psa.48.2; Psa.48.11; Psa.74.2; Psa.78.68; Psa.125.1; Isa.4.5; Isa.8.18; Isa.10.12; Isa.18.7; Isa.24.23; Isa.29.8; Isa.31.4; Isa.37.32; Lam.5.18; Jol.2.32; Oba.1.17; Oba.1.21; Mic.4.7; 
 $Moza@1Ch.2.46	Male living at the time of Egypt and Wilderness	Caleb@1Ch.2.9 + Ephah@1Ch.2.46	Hur@Exo.17.10, Jesher@1Ch.2.18, Shobab@1Ch.2.18, Ardon@1Ch.2.18, Mareshah@1Ch.2.42, Haran@1Ch.2.46, Gazez@1Ch.2.46a, Jahdai@1Ch.2.47, Sheber@1Ch.2.48, Tirhanah@1Ch.2.48, Shaaph@1Ch.2.49, Sheva@1Ch.2.49, Achsah@1Ch.2.49		
 	Moza@1Ch.2.46	H4162=מוֹצָא	Moza	1Ch.2.46 
 $Moza@1Ch.8.36	Male living at the time of Divided monarchy	Zimri@1Ch.8.36 + 			Binea@1Ch.8.37
@@ -6737,7 +6733,7 @@ $Mushi@Exo.6.19	Male living at the time of Egypt and Wilderness	Merari@Gen.46.1
 	Mushi@Exo.6.19	H4187=מוּשִׁי	Mushi	Exo.6.19; Num.3.20; 1Ch.6.19; 1Ch.6.47; 1Ch.23.21; 1Ch.23.23; 1Ch.24.26; 1Ch.24.30 
 	Mushi@Exo.6.19	H4188=מוּשִׁי	Mushite	Num.3.33; Num.26.58 
 $Muster_Gate@Neh.3.31	Place	Muster Gate	31.777444,35.234935 = In Jerusalem
-	Muster_Gate@Neh.3.31	H8179=שַׁ֫עַר+H4662=מִפְקָד	Muster Gate (KJV= gate Miphkad; NIV= Inspection gate)	Neh.3.31; 
+	Muster_Gate@Neh.3.31	H4662=מִפְקָד	Muster( Gate) (KJV= gate Miphkad; NIV= Inspection gate)	Neh.3.31; 
 $Muth-labben@Psa.9.1	A musical term				
 	Muth-labben@Psa.9.1	H4192=לַבֵּן	Muth-labben (KJV= Methlabben; NIV= Death of the Son)	Psa.9.1 
 $Myra@Act.27.5	Place	Myra	36.2307717908834,30.01145882074154
@@ -6889,6 +6885,9 @@ $Nebo@Isa.46.1	A non-physical place
 	Nebo@Isa.46.1	H5015b=נְבוֹ	Nebo	Isa.46.1 
 $Nebo@Num.32.3	Place	Nebo_1	31.748024,35.743257
 	Nebo@Num.32.3	H5015a=נְבוֹ	Nebo	Num.32.3; Num.32.38; Num.33.47; 1Ch.5.8; Isa.15.2; Jer.48.1; Jer.48.22 
+$Nebo_Mount@Deu.32.49	Place	Mount Nebo	31.76135780447535,35.74614824478083
+	Abarim|Nebo_Mount@Deu.32.49	H5682=עֲבָרִים	Abarim	Num.27.12; Num.33.47; Num.33.48; Deu.32.49; Jer.22.20 
+	Nebo_Mount@Deu.32.49	H5015a=נְבוֹ	(Mount )Nebo	Deu.32.49; Deu.34.1; 
 $Nebuchadnezzar@2Ki.24.1	Male living at the time of Divided monarchy	 + 			Belshazzar@Dan.5.1
 	Nebuchadnezzar@2Ki.24.1	H5019=נְבוּכַדְרֶאצַּר, נְבוּכַדְנֶצַּר	Nebuchadnezzar (KJV= Nebuchadrezzar)	Jer.21.2; Jer.21.7; Jer.22.25; Jer.24.1; Jer.25.1; Jer.25.9; Jer.29.21; Jer.32.1; Jer.32.28; Jer.35.11; Jer.37.1; Jer.39.1; Jer.39.11; Jer.43.10; Jer.44.30; Jer.46.2; Jer.46.13; Jer.46.26; Jer.49.28; Jer.49.30; Jer.50.17; Jer.51.34; Jer.52.4; Jer.52.12; Jer.52.28; Jer.52.29; Jer.52.30; Ezk.26.7; Ezk.29.18; Ezk.29.19; Ezk.30.10 
 	Nebuchadnezzar@2Ki.24.1	H5019=נְבוּכַדְרֶאצַּר, נְבוּכַדְנֶצַּר	Nebuchadnezzar	2Ki.24.1; 2Ki.24.10; 2Ki.24.11; 2Ki.25.1; 2Ki.25.8; 2Ki.25.22; 1Ch.6.15; 2Ch.36.6; 2Ch.36.7; 2Ch.36.10; 2Ch.36.13; Ezr.1.7; Ezr.2.1; Ezr.5.12; Ezr.5.14; Ezr.6.5; Neh.7.6; Est.2.6; Jer.27.6; Jer.27.8; Jer.27.20; Jer.28.3; Jer.28.11; Jer.28.14; Jer.29.1; Jer.29.3; Jer.34.1; Jer.39.5; Dan.1.1; Dan.1.18; Dan.2.1a; Dan.2.1b; Dan.2.28; Dan.2.46; Dan.3.1; Dan.3.2a; Dan.3.2b; Dan.3.3a; Dan.3.3b; Dan.3.5; Dan.3.7; Dan.3.9; Dan.3.13; Dan.3.14; Dan.3.16; Dan.3.19; Dan.3.24; Dan.3.26; Dan.3.28; Dan.4.1; Dan.4.4; Dan.4.18; Dan.4.28; Dan.4.31; Dan.4.33; Dan.4.34; Dan.4.37; Dan.5.2; Dan.5.11; Dan.5.18 
@@ -6947,7 +6946,7 @@ $Nergal@2Ki.17.30	A deity
 $Nergal-shar-ezer@Jer.39.3a	Male living at the time of Divided monarchy	 + 			
 	Nergal-shar-ezer@Jer.39.3a	H5371=נֵרְגַּל שַׁרְאֶ֫צֶר	Nergal-sar-ezer (KJV= Nergal-shar-ezer; NIV= Nergal-Sharezer)	Jer.39.3a 
 $Nergal-shar-ezer@Jer.39.3b	Male living at the time of Divided monarchy	 + 			
-	Nergal-shar-ezer@Jer.39.3b	H5371=נֵרְגַּל שַׁרְאֶ֫צֶר	Nergal-sar-ezer (KJV= Nergal-shar-ezer; NIV= Nergal-Sharezer)	Jer.39.3b Jer.39.13 
+	Nergal-shar-ezer@Jer.39.3b	H5371=נֵרְגַּל שַׁרְאֶ֫צֶר	Nergal-sar-ezer (KJV= Nergal-shar-ezer; NIV= Nergal-Sharezer)	Jer.39.3b; Jer.39.13 
 $Neri@Luk.3.27	Male living at the time ofExile and return	Melchi@Luk.3.28 + 			Shealtiel@Luk.3.27
 	Neri@Luk.3.27	G3518=Νηρί	Neri	Luk.3.27 
 $Neriah@Jer.32.12	Male living at the time of Divided monarchy	Mahseiah@Jer.32.12 + 			Baruch@Jer.32.12, Seraiah@Jer.51.59
@@ -6989,7 +6988,7 @@ $Netophah@2Sa.23.28	Place	Netophah	31.735465,35.220503
 	Netophah@2Sa.23.28	H5200=נְטֹפָתִי	Netophah	2Sa.23.28; 2Sa.23.29; 1Ch.11.30a; 1Ch.11.30b; 1Ch.27.13 
 	Netophah@2Sa.23.28	H5200=נְטֹפָתִי	Netophathite	2Ki.25.23; 1Ch.2.54; 1Ch.9.16; 1Ch.27.15; Neh.12.28; Jer.40.8 
 $New_Gate@Jer.26.10	Place	New Gate	31.777444,35.234935 = In Jerusalem
-	New_Gate@Jer.26.10	H8179=שַׁ֫עַר+H2319=חָדָשׁ	New Gate	Jer.26.10; Jer.36.10; 
+	New_Gate@Jer.26.10	H2319=חָדָשׁ	New( Gate)	Jer.26.10; Jer.36.10; 
 $Neziah@Ezr.2.54	Male living at the time of Exile and return	 + 			
 	Neziah@Ezr.2.54	H5335=נְצִיחַ	Neziah	Ezr.2.54; Neh.7.56 
 $Nezib@Jos.15.43	Place	Nezib	31.588050,34.992389
@@ -7120,6 +7119,12 @@ $Oholibamah@Gen.36.25	Female living at the time of the first Patriarchs	Anah@Ge
 	Oholibamah@Gen.36.25	H0173=אׇהֳלִיבָמָה	Oholibamah (KJV= Aholibamah)	Gen.36.25 
 $Oholibamah@Gen.36.41	Female living at the time of the first Patriarchs	 + 			
 	Oholibamah@Gen.36.41	H0173=אׇהֳלִיבָמָה	Oholibamah (KJV= Aholibamah)	Gen.36.41; 1Ch.1.52 
+$Olives_Mount@2Sa.15.30	Place	Mount of Olives	31.77809503341373,35.2471976093501
+	Olives_Mount@2Sa.15.30	G1636=ἐλαία	Olivet	Luk.19.29; Luk.21.37 
+	Olives_Mount@2Sa.15.30	G1638=ἐλαιών	Olivet	Act.1.12 
+	Olives_Mount@2Sa.15.30	G1638=ἐλαιών	(Mount_of )Olives	Mat.21.1; Mat.24.3; Mat.26.30; Mrk.11.1; Mrk.13.3; Mrk.14.26; Luk.19.37; Luk.22.39; Jhn.8.1; 
+	Olives_Mount@2Sa.15.30	H2132=זַ֫יִת	(Mount_of )Olives	Zec.14.4a; Zec.14.4b; 
+	Olives_Mount@2Sa.15.30	H2132=זַ֫יִת	Olives	2Sa.15.30 
 $Olympas@Rom.16.15	Male living at the time of the New Testament 	 + 			
 	Olympas@Rom.16.15	G3652=Ὀλυμπᾶς	Olympas	Rom.16.15 
 $Omar@Gen.36.11	Male living at the time of the first Patriarchs	Eliphaz@Gen.36.4 + 	Teman@Gen.36.11, Zepho@Gen.36.11, Gatam@Gen.36.11, Kenaz@Gen.36.11, Amalek@Gen.36.12, Korah@Gen.36.16		
@@ -7169,7 +7174,7 @@ $Ophrah@Jdg.6.11	Place	Ophrah_2	32.60868269540592,35.28826433084549
 	Ophrah@Jdg.6.11	H6084=עׇפְרָה	Ophrah	Jdg.6.11; Jdg.6.24; Jdg.8.27; Jdg.8.32; Jdg.9.5 
 $Ophrah@Jos.18.23	Place	Ophrah_1	31.95378955858199,35.29913577541004
 	Ophrah@Jos.18.23	H6084=עׇפְרָה	Ophrah	Jos.18.23; 1Sa.13.17 
-	Beth-le-aphrah|Ophrah@Jos.18.23	H1036=בֵּית לְעַפְרָה	Beth-le-aphrah(KJV= house of Aphrah; NIV= Beth Ophrah)	Mic.1.10 
+	Beth-le-aphrah|Ophrah@Jos.18.23	H1036=בֵּית לְעַפְרָה	Beth-le-aphrah (KJV= house of Aphrah; NIV= Beth Ophrah)	Mic.1.10 
 $Oreb@Jdg.7.25	Male living at the time of Israel before the monarchy	 + 			
 	Oreb@Jdg.7.25	H6159=עֹרֵב	Oreb	Jdg.7.25a; Jdg.7.25b; Jdg.7.25c; Jdg.7.25d; Jdg.8.3; Psa.83.11; Isa.10.26 
 $Oren@1Ch.2.25	Male living at the time of Divided monarchy	Jerahmeel@1Ch.2.9 + 	Ram@1Ch.2.25, Bunah@1Ch.2.25, Ozem@1Ch.2.25, Ahijah@1Ch.2.25, Onam@1Ch.2.26		
@@ -7193,6 +7198,11 @@ $Ozem@1Ch.2.25	Male living at the time of Divided monarchy	Jerahmeel@1Ch.2.9 + 
 	Ozem@1Ch.2.25	H0684=אֹ֫צֶם	Ozem	1Ch.2.25 
 $Paarai@2Sa.23.35	Male living at the time of United monarchy	 + 			
 	Paarai@2Sa.23.35	H6474=פַּעֲרַי	Paarai	2Sa.23.35 
+$Paddan-aram@Gen.25.20	Place for descendants of Aram@Gen.10.22	Paddan-aram	36.86386407659651,39.03219672227345
+	Paddan-aram@Gen.25.20	H6307=פַּדָּן+H0758=אֲרָם	Paddan-aram (KJV= Padan-aram)	Gen.25.20; Gen.28.2; Gen.28.5; Gen.28.6; Gen.28.7; Gen.31.18; Gen.33.18; Gen.35.9; Gen.35.26; Gen.46.15; 
+	Aramean|Paddan-aram@Gen.25.20	H0761=אֲרַמִּי	Aramean	Gen.25.20a; Gen.25.20b; Gen.28.5; Gen.31.20; Gen.31.24; Deu.26.5 
+	Aram|Paddan-aram@Gen.25.20	H0758=אֲרָם	Aram	Num.23.7; Hos.12.12 
+	Paddan|Paddan-aram@Gen.25.20	H6307=פַּדָּן	Paddan (KJV= Padan)	Gen.48.7 
 $Padon@Ezr.2.44	Male living at the time of Exile and return	 + 			
 	Padon@Ezr.2.44	H6303=פָּדוֹן	Padon	Ezr.2.44; Neh.7.47 
 $Pagiel@Num.1.13	Male living at the time of Egypt and Wilderness	Ocran@Num.1.13 + 			
@@ -7223,6 +7233,8 @@ $Parah@Jos.18.23	Place	Parah	31.833333,35.300000
 	Parah@Jos.18.23	H6511=פָּרָה	Parah	Jos.18.23 
 $Paran@Gen.21.21	Place	Paran	29.151667,33.541944
 	Paran@Gen.21.21	H6290=פָּארָן	Paran	Gen.21.21; Num.10.12; Num.12.16; Num.13.3; Num.13.26; Deu.1.1; 1Sa.25.1; 1Ki.11.18a; 1Ki.11.18b 
+$Paran_Mount@Deu.33.2	Place	Mount Paran	29.151667,33.541944 = In Paran
+	Paran_Mount@Deu.33.2	H6290=פָּארָן	(Mount )Paran	Deu.33.2; Hab.3.3; 
 $Parmashta@Est.9.9	Male living at the time of Exile and return	Haman@Est.3.1 + 	Parshandatha@Est.9.7, Dalphon@Est.9.7, Aspatha@Est.9.7, Poratha@Est.9.8, Adalia@Est.9.8, Aridatha@Est.9.8, Arisai@Est.9.9, Aridai@Est.9.9, Vaizatha@Est.9.9		
 	Parmashta@Est.9.9	H6534=פַּרְמַשְׁתָּא	Parmashta	Est.9.9 
 $Parmenas@Act.6.5	Male living at the time of the New Testament 	 + 			
@@ -7353,9 +7365,11 @@ $Penuel@1Ch.4.4	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10 +
 $Penuel@1Ch.8.25	Male living at the time of Divided monarchy	Shashak@1Ch.8.14 + 	Ishpan@1Ch.8.22, Eber@1Ch.8.22, Eliel@1Ch.8.22, Abdon@1Ch.8.23, Zichri@1Ch.8.23, Hanan@1Ch.8.23, Hananiah@1Ch.8.24, Elam@1Ch.8.24, Anthothijah@1Ch.8.24, Iphdeiah@1Ch.8.25		
 	Penuel@1Ch.8.25	H6439=פְּנוּאֵל	Penuel	1Ch.8.25 
 $People's_Gate@Jer.17.19	Place	People's Gate	31.777444,35.234935 = In Jerusalem
-	People's_Gate@Jer.17.19	H8179=שַׁ֫עַר+H5971a=עַם	People's Gate	Jer.17.19; 
+	People's_Gate@Jer.17.19	H5971a=עַם	People's( Gate)	Jer.17.19; 
 $Peor@Num.23.28	Place	Peor	31.76503129703305,35.71856575741812 = Near Pisgah
 	Peor@Num.23.28	H6465=פְּעוֹר	Peor	Num.23.28; Num.25.18a; Num.25.18b; Num.31.16; Jos.22.17 
+$Perazim_Mount@Isa.28.21	Place	Mount Perazim	31.756332,35.223059 = Near Valley of Rephaim
+	Perazim_Mount@Isa.28.21	H6559=פְּרָצִים	(Mount )Perazim	Isa.28.21; 
 $Peresh@1Ch.7.16	Male living at the time of the first Patriarchs	Machir@Gen.50.23 + Maacah@1Ch.7.15	Gilead@Num.26.29, daughter_of_Machir@1Ch.2.21, Sheresh@1Ch.7.16, Hammolecheth@1Ch.7.18		
 	Peresh@1Ch.7.16	H6570=פֶּ֫רֶשׁ	Peresh	1Ch.7.16 
 $Perez@Gen.38.29	Male living at the time of the first Patriarchs	Judah@Gen.29.35 + Tamar@Gen.38.6	Er@Gen.38.3, Onan@Gen.38.4, Shelah@Gen.38.5, Zerah@Gen.38.30		Hezron@Gen.46.12, Hamul@Gen.46.12
@@ -7383,7 +7397,7 @@ $Peter@Mat.4.18	Male living at the time of the New Testament 	John@Mat.16.17 + 
 	Cephas|Peter@Mat.4.18	G2786=Κηφᾶς	Cephas (KJV= Peter)	Gal.1.18; Gal.2.11; Gal.2.14 
 	Cephas|Peter@Mat.4.18	G2786=Κηφᾶς	Cephas	Jhn.1.42; 1Co.1.12; 1Co.3.22; 1Co.9.5; 1Co.15.5; Gal.2.9 
 	Peter@Mat.4.18	G4074=Πέτρος	Peter	Mat.4.18; Mat.8.14; Mat.10.2; Mat.14.28; Mat.14.29; Mat.15.15; Mat.16.16; Mat.16.18; Mat.16.22; Mat.16.23; Mat.17.1; Mat.17.4; Mat.17.24; Mat.18.21; Mat.19.27; Mat.26.33; Mat.26.35; Mat.26.37; Mat.26.40; Mat.26.58; Mat.26.69; Mat.26.73; Mat.26.75; Mrk.3.16; Mrk.5.37; Mrk.8.29; Mrk.8.32; Mrk.8.33; Mrk.9.2; Mrk.9.5; Mrk.10.28; Mrk.11.21; Mrk.13.3; Mrk.14.29; Mrk.14.33; Mrk.14.37; Mrk.14.54; Mrk.14.66; Mrk.14.67; Mrk.14.70; Mrk.14.72; Mrk.16.7; Luk.5.8; Luk.6.14; Luk.8.45; Luk.8.51; Luk.9.20; Luk.9.28; Luk.9.32; Luk.9.33; Luk.12.41; Luk.18.28; Luk.22.8; Luk.22.34; Luk.22.54; Luk.22.55; Luk.22.58; Luk.22.60; Luk.22.61a; Luk.22.61b; Luk.24.12; Jhn.1.40; Jhn.1.42; Jhn.1.44; Jhn.6.8; Jhn.6.68; Jhn.13.6; Jhn.13.8; Jhn.13.9; Jhn.13.24; Jhn.13.36; Jhn.13.37; Jhn.18.10; Jhn.18.11; Jhn.18.15; Jhn.18.16a; Jhn.18.16b; Jhn.18.17; Jhn.18.18; Jhn.18.25; Jhn.18.26; Jhn.18.27; Jhn.20.2; Jhn.20.3; Jhn.20.4; Jhn.20.6; Jhn.21.2; Jhn.21.3; Jhn.21.7a; Jhn.21.7b; Jhn.21.11; Jhn.21.15; Jhn.21.17; Jhn.21.20; Jhn.21.21; Act.1.13; Act.1.15; Act.2.14; Act.2.37; Act.2.38; Act.3.1; Act.3.3; Act.3.4; Act.3.6; Act.3.11; Act.3.12; Act.4.8; Act.4.13; Act.4.19; Act.5.3; Act.5.8; Act.5.9; Act.5.15; Act.5.29; Act.8.14; Act.8.20; Act.9.32; Act.9.34; Act.9.38; Act.9.39; Act.9.40a; Act.9.40b; Act.10.5; Act.10.9; Act.10.13; Act.10.14; Act.10.17; Act.10.18; Act.10.19; Act.10.21; Act.10.25; Act.10.26; Act.10.32; Act.10.34; Act.10.44; Act.10.45; Act.10.46; Act.11.2; Act.11.4; Act.11.7; Act.11.13; Act.12.3; Act.12.5; Act.12.6; Act.12.7; Act.12.11; Act.12.14a; Act.12.14b; Act.12.16; Act.12.18; Act.15.7; Gal.2.7; Gal.2.8; 1Pe.1.1; 2Pe.1.1 
-	Simon|Peter@Mat.4.18	G4613=Σίμων	Simon	Mat.4.18; Mat.10.2; Mat.16.16; Mat.16.17; Mat.17.25; Mrk.1.16; Mrk.1.29; Mrk.1.30; Mrk.1.36; Mrk.3.16; Mrk.14.37; Luk.4.38a; Luk.4.38b; Luk.5.3; Luk.5.4; Luk.5.5; Luk.5.8; Luk.5.10a; Luk.5.10b; Luk.6.14; Luk.22.31a; Luk.22.31b; Luk.24.34; Jhn.1.40; Jhn.1.41; Jhn.1.42; Jhn.6.8; Jhn.6.68; Jhn.13.6; Jhn.13.9; Jhn.13.24; Jhn.13.36; Jhn.18.10; Jhn.18.15; Jhn.18.25; Jhn.20.2; Jhn.20.6; Jhn.21.2; Jhn.21.3; Jhn.21.7; Jhn.21.11; Jhn.21.15a; Jhn.21.15b; Jhn.21.16; Jhn.21.17; Act.10.5; Act.10.18; Act.10.32a Act.11.13 
+	Simon|Peter@Mat.4.18	G4613=Σίμων	Simon	Mat.4.18; Mat.10.2; Mat.16.16; Mat.16.17; Mat.17.25; Mrk.1.16; Mrk.1.29; Mrk.1.30; Mrk.1.36; Mrk.3.16; Mrk.14.37; Luk.4.38a; Luk.4.38b; Luk.5.3; Luk.5.4; Luk.5.5; Luk.5.8; Luk.5.10a; Luk.5.10b; Luk.6.14; Luk.22.31a; Luk.22.31b; Luk.24.34; Jhn.1.40; Jhn.1.41; Jhn.1.42; Jhn.6.8; Jhn.6.68; Jhn.13.6; Jhn.13.9; Jhn.13.24; Jhn.13.36; Jhn.18.10; Jhn.18.15; Jhn.18.25; Jhn.20.2; Jhn.20.6; Jhn.21.2; Jhn.21.3; Jhn.21.7; Jhn.21.11; Jhn.21.15a; Jhn.21.15b; Jhn.21.16; Jhn.21.17; Act.10.5; Act.10.18; Act.10.32a; Act.11.13 
 	Simon|Peter@Mat.4.18	G4826=Συμεών	Simeon	Act.15.14; 2Pe.1.1 
 $Pethahiah@1Ch.24.16	Male living at the time of Divided monarchy	 + 			
 	Pethahiah@1Ch.24.16	H6611=פְּתַחְיָה	Pethahiah	1Ch.24.16 
@@ -7506,10 +7520,6 @@ $Pithom@Exo.1.11	Place	Pithom	30.59385132817632,32.18555803140015
 	Pithom@Exo.1.11	H6619=פִּתֹם	Pithom	Exo.1.11 
 $Pithon@1Ch.8.35	Male living at the time of Divided monarchy	Mica@2Sa.9.12 + 	Melech@1Ch.8.35, Tarea@1Ch.8.35, Ahaz@1Ch.8.35		
 	Pithon@1Ch.8.35	H6377=פִּיתוֹן	Pithon	1Ch.8.35; 1Ch.9.41 
-$Plain@Deu.34.3	Place	Plain	31.87060143818292,35.44386371224434
-	Plain@Deu.34.3	H3603=כִּכָּר	Plain (KJV= plain; NIV= region)	Deu.34.3 
-$Plains_of_Moab@Num.22.1	Place in Moab		
-	Plains_of_Moab@Num.22.1	H6160=עֲרָבָה+H4124=מוֹאָב	plains of Moab	Num.22.1; Num.26.3; Num.26.63; Num.31.12; Num.33.48; Num.33.49; Num.33.50; Num.35.1; Num.36.13; Deu.34.1; Deu.34.8; Jos.13.32; 
 $Pleiades@Job.9.9	A star or constellation				
 	Pleiades@Job.9.9	H3598=כִּימָה	Pleiades	Job.9.9; Job.38.31; Amo.5.8 
 $Pochereth-hazzebaim@Ezr.2.57	Male living at the time of Exile and return	 + 			
@@ -7517,8 +7527,6 @@ $Pochereth-hazzebaim@Ezr.2.57	Male living at the time of Exile and return	 +
 $Pontus@Act.2.9	Place	Pontus	40.905222,37.799969
 	Pontus@Act.2.9	G4193=Ποντικός	Pontus	Act.18.2 
 	Pontus@Act.2.9	G4195=Πόντος	Pontus	Act.2.9; 1Pe.1.1 
-$Pool_of_Shelah@Neh.3.15	Place	Pool of Shelah	31.777444,35.234935 = In Jerusalem
-	Pool_of_Shelah@Neh.3.15	H1295=בְּרֵכָה+H7975a=שֶׁ֫לַח	Pool of Shelah (KJV= Siloah; NIV= Siloam)	Neh.3.15; 
 $Poratha@Est.9.8	Male living at the time of Exile and return	Haman@Est.3.1 + 	Parshandatha@Est.9.7, Dalphon@Est.9.7, Aspatha@Est.9.7, Adalia@Est.9.8, Aridatha@Est.9.8, Parmashta@Est.9.9, Arisai@Est.9.9, Aridai@Est.9.9, Vaizatha@Est.9.9		
 	Poratha@Est.9.8	H6334=פּוֹרָתָא	Poratha	Est.9.8 
 $Potiphar@Gen.37.36	Male living at the time of the first Patriarchs	 + 			
@@ -7526,7 +7534,7 @@ $Potiphar@Gen.37.36	Male living at the time of the first Patriarchs	 +
 $Potiphera@Gen.41.45	Male living at the time of the first Patriarchs	 + 			Asenath@Gen.41.45
 	Potiphera@Gen.41.45	H6319=פּוֹטִי פֶ֫רַע	Potiphera (KJV= Poti-pherah)	Gen.41.45; Gen.41.50; Gen.46.20 
 $Potsherd_Gate@Jer.19.2	Place	Potsherd Gate	31.777444,35.234935 = In Jerusalem
-	Potsherd_Gate@Jer.19.2	H8179=שַׁ֫עַר+H2777=חַרְסִית	Potsherd Gate	Jer.19.2; 
+	Potsherd_Gate@Jer.19.2	H2777=חַרְסִית	Potsherd( Gate)	Jer.19.2; 
 $Priscilla@Act.18.2	Female living at the time of the New Testament	 + 		Aquila@Act.18.2	
 	Prisca|Priscilla@Act.18.2	G4251=Πρίσκα	Prisca (KJV, NIV= Priscilla)	Rom.16.3 
 	Prisca|Priscilla@Act.18.2	G4251=Πρίσκα	Prisca (NIV= Priscilla)	2Ti.4.19 
@@ -7573,11 +7581,11 @@ $Queen_of_Sheba@1Ki.10.1	Male living at the time of United monarchy	 +
 	Queen_of_Sheba@1Ki.10.1	H4436=מַלְכָּה+H7614=שְׁבָא	Queen of Sheba	1Ki.10.1; 1Ki.10.4; 1Ki.10.10; 1Ki.10.13; 2Ch.9.1; 2Ch.9.3; 2Ch.9.9; 2Ch.9.12; 
 $Quirinius@Luk.2.2	Male living at the time of the New Testament				
 	Quirinius@Luk.2.2	G2958=Κυρήνιος	Quirinius	Luk.2.2 
+$Raamah@Ezk.27.22	Place	Raamah	15.68,42.78
+	Raamah@Ezk.27.22	H7484=רַעְמָה	Raamah	Ezk.27.22 
 $Raamah@Gen.10.7	Male living at the time of the first Patriarchs	Cush@Gen.10.6 + 	Seba@Gen.10.7, Havilah@Gen.10.7, Sabtah@Gen.10.7, Sabteca@Gen.10.7, Nimrod@Gen.10.8		Sheba@Gen.10.7, Dedan@Gen.10.7
 	Raamah@Gen.10.7	H7484=רַעְמָה	Raama (KJV, NIV= Raamah)	1Ch.1.9 
 	Raamah@Gen.10.7	H7484=רַעְמָה	Raamah	Gen.10.7a; Gen.10.7b; 1Ch.1.9 
-$Raamah@Ezk.27.22	Place	Raamah	15.68,42.78
-	Raamah@Ezk.27.22	H7484=רַעְמָה	Raamah	Ezk.27.22 
 $Raamses@Exo.1.11	Place	Raamses	30.59385132817632,32.18555803140015 = Near Pithom
 	Raamses@Exo.1.11	H7486=רַֽעַמְסֵס	Raamses	Exo.1.11 
 $Rabbi@Mat.26.25	Title of a leader				
@@ -7674,8 +7682,8 @@ $Rechab@2Sa.4.2	Male living at the time of United monarchy	Rimmon@2Sa.4.2 + 	Ba
 $Rechab@Neh.3.14	Male living at the time of Exile and return	 + 			Malchijah@Neh.3.14
 	Rechab@Neh.3.14	H7394=רֵכָב	Rechab (NIV= Rekab)	Neh.3.14 
 $Red_Sea@Exo.10.19	Place	Red Sea	27.088473,34.771729
-	Red_Sea@Exo.10.19	G2063=ἐρυθρός+G2281=θάλασσα	Red Sea	Act.7.36; Heb.11.29; 
-	Red_Sea@Exo.10.19	H3220=יָם+H5488=סוּף	Red Sea	Exo.10.19; Exo.13.18; Exo.15.4; Exo.15.22; Exo.23.31; Num.14.25; Num.21.4; Num.33.10; Num.33.11; Deu.1.40; Deu.2.1; Deu.11.4; Jos.2.10; Jos.4.23; Jos.24.6; Jdg.11.16; 1Ki.9.26; Neh.9.9; Psa.106.7; Psa.106.9; Psa.106.22; Psa.136.13; Psa.136.15; Jer.49.21; 
+	Red_Sea@Exo.10.19	G2063=ἐρυθρός	Red( Sea)	Act.7.36; Heb.11.29; 
+	Red_Sea@Exo.10.19	H5488=סוּף	Red( Sea)	Exo.10.19; Exo.13.18; Exo.15.4; Exo.15.22; Exo.23.31; Num.14.25; Num.21.4; Num.33.10; Num.33.11; Deu.1.40; Deu.2.1; Deu.11.4; Jos.2.10; Jos.4.23; Jos.24.6; Jdg.11.16; 1Ki.9.26; Neh.9.9; Psa.106.7; Psa.106.9; Psa.106.22; Psa.136.13; Psa.136.15; Jer.49.21; 
 $Reelaiah@Ezr.2.2	Male living at the time of Exile and return	 + 			
 	Raamiah|Reelaiah@Ezr.2.2	H7485=רַעַמְיָה	Raamiah	Neh.7.7 
 	Reelaiah@Ezr.2.2	H7480=רְעֵלָיָה	Reelaiah	Ezr.2.2 
@@ -7738,6 +7746,8 @@ $Rephaiah@Neh.3.9	Male living at the time of Exile and return	Hur@Neh.3.9 +
 $Rephaim@Gen.14.5	People living in Repha?	Rephaim	32.80007552505443,35.93730130476259 = Near Golan
 	Rephaim@Gen.14.5	H7497b=רְפָאִים	Rephaim	Gen.14.5; Gen.15.20; Deu.2.11; Deu.2.20a; Deu.2.20b; Deu.3.11; Deu.3.13; Jos.12.4; Jos.13.12; Jos.17.15 
 	Zamzummin|Rephaim@Gen.14.5	H2157=זַמְזֻמִּים	Zamzummin	Deu.2.20 
+$Rephaim_Valley@Jos.15.8	Place	Valley of Rephaim	31.756332,35.223059
+	Rephaim_Valley@Jos.15.8	H6010=עֵ֫מֶק+H7497b=רְפָאִים	Valley of Rephaim	Jos.15.8; Jos.18.16; 2Sa.5.18; 2Sa.5.22; 2Sa.23.13; 1Ch.11.15; 1Ch.14.9; Isa.17.5; 
 $Rephidim@Exo.17.1	Place	Rephidim	28.73106102564323,33.84169995726504
 	Rephidim@Exo.17.1	H7508=רְפִידִים	Rephidim	Exo.17.1; Exo.17.8; Exo.19.2; Num.33.14; Num.33.15 
 $Resen@Gen.10.12	Place	Resen	36.359410,43.152887 = Near Nineveh
@@ -7831,7 +7841,7 @@ $Ruth@Rut.1.4	Female living at the time of Israel before the monarchy	 + 		Mahl
 $Sabbath@Exo.16.23	Name of a feastival				
 	Sabbath@Exo.16.23	G4315=προσάββατον	Sabbath	Mrk.15.42 
 	Sabbath@Exo.16.23	G4520=σαββατισμός	Sabbath rest	Heb.4.9 
-	Sabbath@Exo.16.23	G4521=σάββατον	Sabbath	Mat.12.1; Mat.12.2; Mat.12.5a; Mat.12.5b; Mat.12.8; Mat.12.10; Mat.12.11; Mat.12.12; Mat.24.20; Mat.28.1; Mrk.1.21; Mrk.2.23; Mrk.2.24; Mrk.2.27a; Mrk.2.27b; Mrk.2.28; Mrk.3.2; Mrk.3.4; Mrk.6.2; Mrk.16.1; Luk.4.16; Luk.4.31; Luk.6.1; Luk.6.2; Luk.6.5; Luk.6.6; Luk.6.7; Luk.6.9; Luk.13.10; Luk.13.14a; Luk.13.14b; Luk.13.15; Luk.13.16; Luk.14.1; Luk.14.3; Luk.14.5; Luk.23.54; Luk.23.56; Jhn.5.9; Jhn.5.10; Jhn.5.16; Jhn.5.18; Jhn.7.22; Jhn.7.23a; Jhn.7.23b; Jhn.9.14; Jhn.9.16; Jhn.19.31a; Jhn.19.31b; Act.1.12; Act.13.14; Act.13.27; Act.13.42; Act.13.44; Act.15.21; Act.16.13; Act.17.2; Act.18.4; Col.2.16 
+	Sabbath@Exo.16.23	G4521=σάββατον	Sabbath	Mat.12.1; Mat.12.2; Mat.12.5a; Mat.12.5b; Mat.12.8; Mat.12.10; Mat.12.11; Mat.12.12; Mat.24.20; Mat.28.1a; Mrk.1.21; Mrk.2.23; Mrk.2.24; Mrk.2.27a; Mrk.2.27b; Mrk.2.28; Mrk.3.2; Mrk.3.4; Mrk.6.2; Mrk.16.1; Luk.4.16; Luk.4.31; Luk.6.1; Luk.6.2; Luk.6.5; Luk.6.6; Luk.6.7; Luk.6.9; Luk.13.10; Luk.13.14a; Luk.13.14b; Luk.13.15; Luk.13.16; Luk.14.1; Luk.14.3; Luk.14.5; Luk.23.54; Luk.23.56; Jhn.5.9; Jhn.5.10; Jhn.5.16; Jhn.5.18; Jhn.7.22; Jhn.7.23a; Jhn.7.23b; Jhn.9.14; Jhn.9.16; Jhn.19.31a; Jhn.19.31b; Act.1.12; Act.13.14; Act.13.27; Act.13.42; Act.13.44; Act.15.21; Act.16.13; Act.17.2; Act.18.4; Col.2.16 
 	Sabbath@Exo.16.23	H7676=שַׁבָּת	Sabbath	Exo.16.23; Exo.16.25; Exo.16.26; Exo.16.29; Exo.20.8; Exo.20.10; Exo.20.11; Exo.31.13; Exo.31.14; Exo.31.15a; Exo.31.15b; Exo.31.16a; Exo.31.16b; Exo.35.2; Exo.35.3; Lev.16.31; Lev.19.3; Lev.19.30; Lev.23.3a; Lev.23.3b; Lev.23.11; Lev.23.15; Lev.23.16; Lev.23.32a; Lev.23.32b; Lev.23.38; Lev.24.8; Lev.25.2; Lev.25.4a; Lev.25.4b; Lev.25.6; Lev.26.2; Lev.26.34a; Lev.26.34b; Lev.26.35; Lev.26.43; Num.15.32; Num.28.9; Num.28.10; Deu.5.12; Deu.5.14; Deu.5.15; 2Ki.4.23; 2Ki.11.5; 2Ki.11.7; 2Ki.11.9a; 2Ki.11.9b; 2Ki.16.18; 1Ch.9.32; 1Ch.23.31; 2Ch.2.4; 2Ch.8.13; 2Ch.23.4; 2Ch.23.8a; 2Ch.23.8b; 2Ch.31.3; 2Ch.36.21; Neh.9.14; Neh.10.31a; Neh.10.31b; Neh.10.33; Neh.13.15a; Neh.13.15b; Neh.13.16; Neh.13.17; Neh.13.18; Neh.13.19a; Neh.13.19b; Neh.13.19c; Neh.13.21; Neh.13.22; Isa.1.13; Isa.56.2; Isa.56.4; Isa.56.6; Isa.58.13a; Isa.58.13b; Isa.66.23a; Isa.66.23b; Jer.17.21; Jer.17.22a; Jer.17.22b; Jer.17.24a; Jer.17.24b; Jer.17.27a; Jer.17.27b; Lam.2.6; Ezk.20.12; Ezk.20.13; Ezk.20.16; Ezk.20.20; Ezk.20.21; Ezk.20.24; Ezk.22.8; Ezk.22.26; Ezk.23.38; Ezk.44.24; Ezk.45.17; Ezk.46.1; Ezk.46.3; Ezk.46.4; Ezk.46.12; Hos.2.11; Amo.8.5 
 	week|Sabbath@Exo.16.23	G4521=σάββατον	week	Mat.28.1b; 
 $Sabtah@Gen.10.7	Male living at the time of the first Patriarchs	Cush@Gen.10.6 + 	Seba@Gen.10.7, Havilah@Gen.10.7, Raamah@Gen.10.7, Sabteca@Gen.10.7, Nimrod@Gen.10.8		
@@ -7875,8 +7885,10 @@ $Salmone@Act.27.7	Place	Salmone	35.21229729880597,26.27449174374278
 $Salome@Mrk.15.40	Female living at the time of the New Testament				
 	Salome@Mrk.15.40	G4539=Σαλώμη	Salome	Mrk.15.40; Mrk.16.1 
 $Salt_Sea@Gen.14.3	Place	Salt Sea	31.538593,35.482268
-	Arabah_Sea|Salt_Sea@Gen.14.3	H3220=יָם+H6160=עֲרָבָה	Sea of the Arabah (KJV= sea of the plain; NIV= Dead Sea)	Deu.3.17; Deu.4.49; Jos.3.16; Jos.12.3; 2Ki.14.25; 
-	Sea|Salt_Sea@Gen.14.3	H3220=יָם+H4417=מֶ֫לַח	Salt Sea	Gen.14.3; Num.34.3; Num.34.12; Deu.3.17; Jos.3.16; Jos.12.3; Jos.15.2; Jos.15.5; Jos.18.19; 
+	Arabah_Sea|Salt_Sea@Gen.14.3	H6160=עֲרָבָה	(Sea of the )Arabah (KJV= sea of the plain; NIV= Dead Sea)	Deu.3.17; Deu.4.49; Jos.3.16; Jos.12.3; 2Ki.14.25; 
+	Sea|Salt_Sea@Gen.14.3	H4417=מֶ֫לַח	Salt( Sea)	Gen.14.3; Num.34.3; Num.34.12; Deu.3.17; Jos.3.16; Jos.12.3; Jos.15.2; Jos.15.5; Jos.18.19; 
+$Salt_Valley@2Sa.8.13	Place	Valley of Salt	31.087328,35.383740
+	Salt_Valley@2Sa.8.13	H1516=גַּיְא+H4417=מֶ֫לַח	Valley of Salt	2Sa.8.13; 2Ki.14.7; 1Ch.18.12; 2Ch.25.11; Psa.60.1; 
 $Salu@Num.25.14	Male living at the time of Egypt and Wilderness	 + 			Zimri@Num.25.14
 	Salu@Num.25.14	H5543c=סַלוּא	Salu	Num.25.14 
 $Samaria@1Ki.13.32	Place	Samaria	32.28023100000001,35.19792900000002
@@ -7936,19 +7948,6 @@ $Sceva@Act.19.14	Male living at the time of the New Testament 	 +
 	Sceva@Act.19.14	G4630=Σκευᾶς	Sceva	Act.19.14 
 $Scythian@Col.3.11	People living in Scythia		
 	Scythian@Col.3.11	G4658=Σκύθης	Scythian	Col.3.11 
-$Sea_Galilee@Num.34.11	Place	Sea of Galilee	32.80677585520321,35.58936052679091
-	Chinnereth|Sea_Galilee@Num.34.11	H3672=כִּנֶּ֫רֶת	Chinnereth (NIV= Kinnereth)	Deu.3.17 
-	Chinnereth|Sea_Galilee@Num.34.11	H3220=יָם+H3672=כִּנֶּ֫רֶת	Sea of Chinnereth (NIV= Sea of Galilee)	Num.34.11; Jos.13.27; 
-	Chinneroth|Sea_Galilee@Num.34.11	H3220=יָם+H3672=כִּנֶּ֫רֶת	Sea of Chinneroth (NIV= Sea of Galilee)	Jos.12.3; 
-	Sea_Galilee@Num.34.11	G2281=θάλασσα+G1056=Γαλιλαία	Sea of Galilee	Mat.4.18; Mat.15.29; Mrk.1.16; Mrk.7.31; Jhn.6.1; 
-	Sea_Tiberias|Sea_Galilee@Num.34.11	G2281=θάλασσα+G5085=Τιβεριάς	Sea of Tiberias	Jhn.21.1; 
-	Sea_Tiberias|Sea_Galilee@Num.34.11	G5085=Τιβεριάς	Tiberias	Jhn.6.1 
-$Sea_of_Egypt@Isa.11.15	Place	Sea of Egypt	27.088473,34.771729
-	Sea_of_Egypt@Isa.11.15	H3220=יָם+H4714=מִצְרַ֫יִם	Sea of Egypt	Isa.11.15; 
-$Sea_of_Jazer@Jer.48.32	Place	Sea of Jazer	31.94352951689796,35.72776961157128 = Near Jazer
-	Sea_of_Jazer@Jer.48.32	H3220=יָם+H3270=יַעְזֵר	Sea of Jazer	Jer.48.32; 
-$Sea_of_the_Philistines@Exo.23.31	Place	Sea of the Philistines	33.24,33.47
-	Sea_of_the_Philistines@Exo.23.31	H3220=יָם+H6430=פְּלִשְׁתִּי	Sea of the Philistines (NIV= Mediterranean Sea)	Exo.23.31; 
 $Seba@Gen.10.7	Male living at the time of the first Patriarchs	Cush@Gen.10.6 + 	Havilah@Gen.10.7, Sabtah@Gen.10.7, Raamah@Gen.10.7, Sabteca@Gen.10.7, Nimrod@Gen.10.8		
 	Seba@Gen.10.7	H5434=סְבָא	Seba	Gen.10.7; 1Ch.1.9 
 $Seba@Psa.72.10	Place for descendants of Seba@Gen.10.7	Seba	9.022736,38.746799
@@ -7971,6 +7970,10 @@ $Seir@Gen.14.6	Place for descendants of Seir@Gen.36.20	Seir	30.734691,35.606250
 	Seir@Gen.14.6	H8165a=שֵׂעִיר	Seir	Gen.14.6; Gen.32.3; Gen.33.14; Gen.33.16; Gen.36.8; Gen.36.9; Gen.36.30; Num.24.18; Deu.1.44; Deu.2.4; Deu.2.8; Deu.2.12; Deu.2.22; Deu.2.29; Deu.33.2; Jos.11.17; Jos.12.7; Jos.24.4; Jdg.5.4; 2Ch.20.23; 2Ch.25.11; 2Ch.25.14; Isa.21.11; Ezk.25.8 
 $Seir@Gen.36.20	Male living at the time of the first Patriarchs	 + 			Lotan@Gen.36.20, Shobal@Gen.36.20, Zibeon@Gen.36.20, Anah@Gen.36.20, Dishon@Gen.36.21, Ezer@Gen.36.21, Dishan@Gen.36.21, Timna@Gen.36.22
 	Seir@Gen.36.20	H8165b=שֵׂעִיר	Seir	Gen.36.20; Gen.36.21; 1Ch.1.38 
+$Seir_Mount@Deu.1.2	Place	Mount Seir_1	30.734691,35.606250
+	Seir_Mount@Deu.1.2	H8165a=שֵׂעִיר	(Mount )Seir	Deu.1.2; Deu.2.1; Deu.2.5; 1Ch.4.42; 2Ch.20.10; 2Ch.20.22; 2Ch.20.23; Ezk.35.2; Ezk.35.3; Ezk.35.7; Ezk.35.15; 
+$Seir_Mount@Jos.15.10	Place	Mount Seir_2	31.783333,34.994000
+	Seir_Mount@Jos.15.10	H8165a=שֵׂעִיר	(Mount )Seir	Jos.15.10; 
 $Seirah@Jdg.3.26	Place	Seirah	31.93053920580005,35.22103274923676 = Near Bethel_1
 	Seirah@Jdg.3.26	H8167=שְׂעִירָה	Seirah	Jdg.3.26 
 $Sela@Jdg.1.36	Place	Sela	30.32243571223214,35.45627946919968
@@ -8189,6 +8192,8 @@ $Shaul@Gen.36.37	Male living at the time of the first Patriarchs	 +
 $Shaul@Gen.46.10	Male living at the time of the first Patriarchs 	Simeon@Gen.29.33 + Canaanite_woman@Gen.46.10	Jemuel@Gen.46.10, Jamin@Gen.46.10, Ohad@Gen.46.10, Jachin@Gen.46.10, Zohar@Gen.46.10		Shallum@1Ch.4.25
 	Shaul@Gen.46.10	H7586=שָׁאוּל	Shaul	Gen.46.10; Exo.6.15; Num.26.13; 1Ch.4.24 
 	Shaul@Gen.46.10	H7587=שָׁאוּלִי	Shaulite	Num.26.13 
+$Shaveh_Valley@Gen.14.17	Place	Valley of Shaveh	31.777444,35.234935 = Near Jerusalem
+	Shaveh_Valley@Gen.14.17	H6010=עֵ֫מֶק+H7740=שָׁוֵה	Valley of Shaveh	Gen.14.17; 
 $Shaveh-kiriathaim@Gen.14.5	Place	Shaveh-kiriathaim	31.58333333329998,35.70000000000012 = Near Kiriathaim_1
 	Shaveh-kiriathaim@Gen.14.5	H7740=שָׁוֵה	Shaveh-kiriathaim	Gen.14.5 
 $Sheal@Ezr.10.29	Male living at the time of Exile and return	 + 			
@@ -8260,7 +8265,7 @@ $Shechem@1Ch.7.19	Male living at the time of Egypt and Wilderness	Shemida@Num.2
 	Shechem@1Ch.7.19	H7928=שֶׁ֫כֶם	Shechem	1Ch.7.19 
 $Shechem@Gen.12.6	Place for descendants of Shechem@Gen.33.19	Shechem	32.21369123124062,35.2817986718367
 	Shechem@Gen.12.6	G4966=Συχέμ	Shechem	Act.7.16a; Act.7.16b; 
-	Shechem@Gen.12.6	H7927=שְׁכֶם	Shechem	Gen.12.6; Gen.33.18; Gen.35.4; Gen.37.12; Gen.37.13; Gen.37.14; Jos.17.7; Jos.20.7; Jos.21.21; Jos.24.1; Jos.24.25; Jos.24.32a; Jos.24.32b; Jdg.8.31; Jdg.9.1; Jdg.9.2; Jdg.9.3; Jdg.9.6a; Jdg.9.6b; Jdg.9.7; Jdg.9.18; Jdg.9.20a; Jdg.9.20b; Jdg.9.23a; Jdg.9.23b; Jdg.9.24; Jdg.9.25; Jdg.9.26a; Jdg.9.26b; Jdg.9.28a; Jdg.9.28b; Jdg.9.31; Jdg.9.34; Jdg.9.39; Jdg.9.41; Jdg.9.57; Jdg.21.19; 1Ki.12.1a; 1Ki.12.1b; 1Ki.12.25; 1Ch.6.67; 1Ch.7.28; 2Ch.10.1a; 2Ch.10.1b; Psa.60.6; Psa.108.7; Jer.41.5; Hos.6.9 
+	Shechem@Gen.12.6	H7927=שְׁכֶם	Shechem	Gen.12.6; Gen.33.18; Gen.35.4; Gen.37.12; Gen.37.13; Gen.37.14; Jos.17.7; Jos.20.7; Jos.21.21; Jos.24.1; Jos.24.25; Jos.24.32a; Jos.24.32b; Jdg.8.31; Jdg.9.1; Jdg.9.2; Jdg.9.3; Jdg.9.6a; Jdg.9.6b; Jdg.9.7; Jdg.9.18; Jdg.9.20a; Jdg.9.20b; Jdg.9.23a; Jdg.9.23b; Jdg.9.24; Jdg.9.25; Jdg.9.26a; Jdg.9.26b; Jdg.9.28a; Jdg.9.28b; Jdg.9.31; Jdg.9.34; Jdg.9.39; Jdg.9.41; Jdg.9.46; Jdg.9.47; Jdg.9.49; Jdg.9.57; Jdg.21.19; 1Ki.12.1a; 1Ki.12.1b; 1Ki.12.25; 1Ch.6.67; 1Ch.7.28; 2Ch.10.1a; 2Ch.10.1b; Psa.60.6; Psa.108.7; Jer.41.5; Hos.6.9 
 $Shechem@Gen.33.19	Male living at the time of the first Patriarchs	Hamor@Gen.33.19 + 			
 	Shechem@Gen.33.19	H7927=שְׁכֶם	Shechem (KJV= Sychem)	Gen.33.19; Gen.34.2; Gen.34.4; Gen.34.6; Gen.34.8; Gen.34.11; Gen.34.13; Gen.34.18; Gen.34.20; Gen.34.24; Gen.34.26a; Gen.34.26b 
 $Shechem@Num.26.31	Male living at the time of Egypt and Wilderness	Gilead@Num.26.29 + 	Abiezer@Num.26.30, Helek@Num.26.30, Asriel@Num.26.31, Shemida@Num.26.32, Hepher@Num.26.32		
@@ -8270,7 +8275,7 @@ $Shedeur@Num.1.5	Male living at the time of Egypt and Wilderness	 + 			Elizur@N
 	Shedeur@Num.1.5	H7707=שְׁדֵיאוּר	Shedeur	Num.1.5; Num.2.10; Num.7.30; Num.7.35; Num.10.18 
 $Sheep_Gate@Neh.3.1	Place	Sheep Gate	31.777444,35.234935 = In Jerusalem
 	Sheep_Gate@Neh.3.1	G4262=προβατικός	Sheep Gate	Jhn.5.2 
-	Sheep_Gate@Neh.3.1	H8179=שַׁ֫עַר+H6629=צֹאן	Sheep Gate	Neh.3.1; Neh.3.32; Neh.12.39; 
+	Sheep_Gate@Neh.3.1	H6629=צֹאן	Sheep( Gate)	Neh.3.1; Neh.3.32; Neh.12.39; 
 $Sheerah@1Ch.7.24	Female living at the time of Divided monarchy	Beriah@1Ch.7.23 + 	Rephah@1Ch.7.25, Resheph@1Ch.7.25		
 	Sheerah@1Ch.7.24	H7609=שֶׁאֱרָה	Sheerah (KJV= Sherah)	1Ch.7.24 
 $Shehariah@1Ch.8.26	Male living at the time of Divided monarchy	Jeroham@1Ch.8.27 + 	Shamsherai@1Ch.8.26, Athaliah@1Ch.8.26, Jaareshiah@1Ch.8.27, Elijah@1Ch.8.27, Zichri@1Ch.8.27		
@@ -8444,6 +8449,8 @@ $Shephatiah@Neh.11.4	Male living at the time of Exile and return	Mahalalel@Neh.
 	Shephatiah@Neh.11.4	H8203=שְׁפַטְיָהוּ	Shephatiah	Neh.11.4 
 $Shephelah@1Ki.10.27	Place	Shephelah	31.77761410537458,34.85214575880509
 	Shephelah@1Ki.10.27	H8219=שְׁפֵלָה	Shephelah (KJV= plain; NIV= foothills)	1Ki.10.27; 1Ch.27.28; 2Ch.1.15; 2Ch.9.27; 2Ch.26.10; 2Ch.28.18; Jer.17.26; Jer.32.44; Jer.33.13; Oba.1.19 
+$Shepher_Mount@Num.33.23	Place	Mount Shepher	30.317396,35.407152 = Near Mount Hor_1
+	Shepher_Mount@Num.33.23	H8234=שֶׁ֫פֶר	(Mount )Shepher (KJV= mount Shapher)	Num.33.23; Num.33.24; 
 $Shepho@Gen.36.23	Male living at the time of the first Patriarchs	Shobal@Gen.36.20 + 	Alvan@Gen.36.23, Manahath@Gen.36.23, Ebal@Gen.36.23, Onam@Gen.36.23		
 	Shepho@Gen.36.23	H8195=שְׁפוֹ, שְׁפִי	Shepho (KJV= Shephi)	1Ch.1.40 
 	Shepho@Gen.36.23	H8195=שְׁפוֹ, שְׁפִי	Shepho	Gen.36.23 
@@ -8579,6 +8586,8 @@ $Shishak@1Ki.11.40	Male living at the time of United monarchy	 +
 	Shishak@1Ki.11.40	H7895=שִׁישַׁק	Shishak	1Ki.11.40; 1Ki.14.25; 2Ch.12.2; 2Ch.12.5a; 2Ch.12.5b; 2Ch.12.7; 2Ch.12.9 
 $Shitrai@1Ch.27.29	Male living at the time of Divided monarchy	 + 			
 	Shitrai@1Ch.27.29	H7861=שִׁטְרַי	Shitrai	1Ch.27.29 
+$Shittim_Valley@Jol.3.18	Place	Valley of Shittim	31.85826217905818,35.64156652792805
+	Shittim_Valley@Jol.3.18	H5158a=נַ֫חַל+H7851=שִׁטִּים	Valley of Shittim (NIV= acacias)	Jol.3.18; 
 $Shiza@1Ch.11.42	Male living at the time of Divided monarchy	 + 			Adina@1Ch.11.42
 	Shiza@1Ch.11.42	H7877=שִׁיזָא	Shiza	1Ch.11.42 
 $Shoa@Ezk.23.23	Place	Shoa	34.798311,48.514966 = Near Ecbatana
@@ -8659,6 +8668,8 @@ $Sibmah@Num.32.38	Place	Sibmah	31.815283,35.766738
 	Sibmah@Num.32.38	H7643=שְׂבָם	Sibmah	Num.32.38; Jos.13.19; Isa.16.8; Isa.16.9; Jer.48.32 
 $Sibraim@Ezk.47.16	Place	Sibraim	35.136204,36.749488 = Near Hamath
 	Sibraim@Ezk.47.16	H5453=סִבְרַ֫יִם	Sibraim	Ezk.47.16 
+$Siddim_Valley@Gen.14.3	Place	Valley of Siddim	31.235341,35.517624
+	Siddim_Valley@Gen.14.3	H6010=עֵ֫מֶק+H7708=שִׂדִּים	Valley of Siddim	Gen.14.3; Gen.14.8; Gen.14.10; 
 $Sidon@Gen.10.15	Male living at the time of the first Patriarchs	Canaan@Gen.9.18 + 	Heth@Gen.10.15, Jebusite@Gen.10.16, Amorite@Gen.10.16, Girgasite@Gen.10.16, Hivite@Gen.10.17, Arkite@Gen.10.17, Sinite@Gen.10.17, Arvadite@Gen.10.18, Zemarite@Gen.10.18, Hamathite@Gen.10.18		
 	Sidon@Gen.10.15	H6721=צִידוֹן	Sidon (KJV= Zidon)	Gen.10.15; 1Ch.1.13 
 $Sidon@Gen.10.19	Place for descendants of Sidon@Gen.10.15	Sidon	33.56316734135746,35.36634649354799
@@ -8679,6 +8690,7 @@ $Silas@Act.15.22	Male living at the time of the New Testament 	 +
 $Silla@2Ki.12.20	Place	Silla	31.777444,35.234935 = Near Jerusalem
 	Silla@2Ki.12.20	H5538=סִלָּא	Silla	2Ki.12.20 
 $Siloam@Luk.13.4	Place	Siloam	31.777444,35.234935 = In Jerusalem
+	Shelah@Neh.3.15	H7975a=שֶׁ֫לַח	Shelah (KJV= Siloah; NIV= Siloam)	Neh.3.15; 
 	Siloam@Luk.13.4	G4611=Σιλωάμ	Siloam	Luk.13.4; Jhn.9.7; Jhn.9.11 
 $Simeon@Act.13.1	Male living at the time of the New Testament 	 + 			
 	Niger|Simeon@Act.13.1	G3526=Νίγερ	Niger	Act.13.1 
@@ -8713,6 +8725,14 @@ $Simon@Mat.27.32	Male living at the time of the New Testament 	 + 			Alexander@
 	Simon@Mat.27.32	G4613=Σίμων	Simon	Mat.27.32; Mrk.15.21; Luk.23.26 
 $Sin@Exo.16.1	Place	Sin	28.838778,33.420573
 	Sin@Exo.16.1	H5512b=סִין	Sin	Exo.16.1; Exo.17.1; Num.33.11; Num.33.12 
+$Sinai@Exo.19.11	Place	Mount Sinai	28.539722,33.973333
+	Horeb_Mount|Sinai@Exo.19.11	H2722=חֹרֵב	(Mount )Horeb	Exo.33.6; 
+	Horeb|Sinai@Exo.19.11	H2722=חֹרֵב	Horeb	Exo.3.1; Exo.17.6; Deu.1.2; Deu.1.6; Deu.1.19; Deu.4.10; Deu.4.15; Deu.5.2; Deu.9.8; Deu.18.16; Deu.29.1; 1Ki.8.9; 1Ki.19.8; 2Ch.5.10; Psa.106.19; Mal.4.4 
+	Sinai_Mount|Sinai@Exo.19.11	G4614=Σινᾶ	(Mount )Sinai	Act.7.30; Act.7.38; Gal.4.24; Gal.4.25; 
+	Sinai_Mount|Sinai@Exo.19.11	H5514=סִינַי	(Mount )Sinai	Exo.19.11; Exo.19.18; Exo.19.20; Exo.19.23; Exo.24.16; Exo.31.18; Exo.34.2; Exo.34.4; Exo.34.29; Exo.34.32; Lev.7.38; Lev.25.1; Lev.26.46; Lev.27.34; Num.3.1; Num.28.6; Neh.9.13; 
+	Sinai@Exo.19.11	H5514=סִינַי	Sinai	Exo.16.1; Deu.33.2; Jdg.5.5; Psa.68.8; Psa.68.17 
+$Sinai_Wilderness@Exo.19.1	Place		
+	Sinai_Wilderness@Exo.19.1	H4057b=מִדְבָּר+H5514=סִינַי	wilderness of Sinai	Exo.19.1; Exo.19.2; Lev.7.38; Num.1.1; Num.1.19; Num.3.4; Num.3.14; Num.9.1; Num.9.5; Num.10.12; Num.26.64; Num.33.15; Num.33.16; 
 $Sinite@Gen.10.17	People descended from Sin?	Canaan@Gen.9.18 + 	Sidon@Gen.10.15, Heth@Gen.10.15, Jebusite@Gen.10.16, Amorite@Gen.10.16, Girgasite@Gen.10.16, Hivite@Gen.10.17, Arkite@Gen.10.17, Arvadite@Gen.10.18, Zemarite@Gen.10.18, Hamathite@Gen.10.18		
 	Sinite@Gen.10.17	H5513=סִינִי	Sinite	Gen.10.17; 1Ch.1.15 
 $Siphmoth@1Sa.30.28	Place	Siphmoth	31.373521,35.074552 = Near Anim
@@ -8768,6 +8788,8 @@ $Sopater@Act.20.4	Male living at the time of the New Testament	Pyrrhus@Act.20.4
 $Sophereth@Ezr.2.55	Male living at the time of Exile and return	 + 			
 	Hassophereth|Sophereth@Ezr.2.55	H5618=סֹפֶ֫רֶת	Hassophereth	Ezr.2.55 
 	Sophereth@Ezr.2.55	H5618=סֹפֶ֫רֶת	Sophereth	Neh.7.57 
+$Sorek_Valley@Jdg.16.4	Place	Valley of Sorek	31.825731,34.989013
+	Sorek_Valley@Jdg.16.4	H5158a=נַ֫חַל+H7796=שֹׂרֵק	Valley of Sorek	Jdg.16.4; 
 $Sosthenes@Act.18.17	Male living at the time of the New Testament 	 + 			
 	Sosthenes@Act.18.17	G4988=Σωσθένης	Sosthenes	Act.18.17; 1Co.1.1 
 $Sotai@Ezr.2.55	Male living at the time of Exile and return	 + 			
@@ -8791,9 +8813,7 @@ $Sucathite@1Ch.2.55	A group in Old Testament times
 $Succoth@Exo.12.37	Place	Succoth_2	30.62077414398056,32.25869322351544
 	Succoth@Exo.12.37	H5523=סֻכּוֹת	Succoth	Exo.12.37; Exo.13.20; Num.33.5; Num.33.6 
 $Succoth@Gen.33.17	Place	Succoth_1	32.19998298531073,35.63331303389634
-	Succoth@Gen.33.17	H5523=סֻכּוֹת	Succoth	Gen.33.17a; Gen.33.17b; Jos.13.27; Jdg.8.5; Jdg.8.6; Jdg.8.8; Jdg.8.14a; Jdg.8.14b; Jdg.8.15; Jdg.8.16; 1Ki.7.46; 2Ch.4.17 
-	Succoth@Gen.33.17	H6010=עֵ֫מֶק+H5523=סֻכּוֹת	Vale of Succoth	Psa.60.6; 
-	Succoth@Gen.33.17	H6010=עֵ֫מֶק+H5523=סֻכּוֹת	Valley of Succoth	Psa.108.7; 
+	Succoth@Gen.33.17	H5523=סֻכּוֹת	Succoth	Gen.33.17a; Gen.33.17b; Jos.13.27; Jdg.8.5; Jdg.8.6; Jdg.8.8; Jdg.8.14a; Jdg.8.14b; Jdg.8.15; Jdg.8.16; 1Ki.7.46; 2Ch.4.17 Psa.60.6; Psa.108.7; 
 $Succoth-benoth@2Ki.17.30	A deity				
 	Succoth-benoth@2Ki.17.30	H5524=סֻכּוֹת בְּנוֹת	Succoth-benoth	2Ki.17.30 
 $Sukkiim@2Ch.12.3	People descended from Sukki?				
@@ -8820,6 +8840,14 @@ $Syntyche@Php.4.2	Female living at the time of the New Testament	 +
 	Syntyche@Php.4.2	G4941=Συντύχη	Syntyche	Php.4.2 
 $Syracuse@Act.28.12	Place	Syracuse	37.06823247873927,15.2948238829937
 	Syracuse@Act.28.12	G4946=Συράκουσαι	Syracuse	Act.28.12 
+$Syria@Jdg.10.6	Place for descendants of Aram@Gen.10.22	Syria	33.519299,36.31344999999999
+	Syria@Jdg.10.6	H0758=אֲרָם	Aram	2Sa.8.6; 2Sa.15.8 
+	Syria|Syria@Jdg.10.6	G4947=Συρία	Syria	Mat.4.24; Luk.2.2; Act.15.23; Act.15.41; Act.18.18; Act.20.3; Act.21.3; Gal.1.21 
+	Syria|Syria@Jdg.10.6	G4948=Σύρος	Syrian	Luk.4.27 
+	Syria|Syria@Jdg.10.6	H0758=אֲרָם	Syria	Jdg.10.6; 1Ki.10.29; 1Ki.11.25; 1Ki.15.18; 1Ki.19.15; 1Ki.20.1; 1Ki.20.20; 1Ki.20.22; 1Ki.20.23; 1Ki.22.1; 1Ki.22.3; 1Ki.22.31; 2Ki.5.1a; 2Ki.5.1b; 2Ki.5.5; 2Ki.6.8; 2Ki.6.11; 2Ki.6.24; 2Ki.8.7; 2Ki.8.9; 2Ki.8.13; 2Ki.8.28; 2Ki.8.29; 2Ki.9.14; 2Ki.9.15; 2Ki.12.17; 2Ki.12.18; 2Ki.13.3; 2Ki.13.4; 2Ki.13.7; 2Ki.13.17; 2Ki.13.19a; 2Ki.13.19b; 2Ki.13.22; 2Ki.13.24; 2Ki.15.37; 2Ki.16.5; 2Ki.16.6a; 2Ki.16.6b; 2Ki.16.7; 1Ch.18.6; 2Ch.1.17; 2Ch.16.2; 2Ch.16.7a; 2Ch.16.7b; 2Ch.18.30; 2Ch.22.5; 2Ch.22.6; 2Ch.28.5; 2Ch.28.23; Isa.7.1; Isa.7.2; Isa.7.4; Isa.7.5; Isa.7.8; Isa.17.3; Ezk.16.57; Ezk.27.16; Amo.1.5 
+	Syria|Syria@Jdg.10.6	H0758=אֲרָם	Syrian	2Sa.8.5a; 2Sa.8.5b; 2Sa.8.6; 2Sa.10.6a; 2Sa.10.6b; 2Sa.10.8; 2Sa.10.9; 2Sa.10.11; 2Sa.10.13; 2Sa.10.14; 2Sa.10.15; 2Sa.10.16; 2Sa.10.17; 2Sa.10.18a; 2Sa.10.18b; 2Sa.10.19; 1Ki.20.20; 1Ki.20.21; 1Ki.20.26; 1Ki.20.27; 1Ki.20.28; 1Ki.20.29; 1Ki.22.11; 1Ki.22.35; 2Ki.5.2; 2Ki.6.9; 2Ki.6.23; 2Ki.7.4; 2Ki.7.5a; 2Ki.7.5b; 2Ki.7.6; 2Ki.7.10; 2Ki.7.12; 2Ki.7.14; 2Ki.7.15; 2Ki.7.16; 2Ki.13.5; 2Ki.13.17; 2Ki.24.2; 1Ch.18.5a; 1Ch.18.5b; 1Ch.18.6; 1Ch.19.10; 1Ch.19.12; 1Ch.19.14; 1Ch.19.15; 1Ch.19.16a; 1Ch.19.16b; 1Ch.19.17; 1Ch.19.18a; 1Ch.19.18b; 1Ch.19.19; 2Ch.18.10; 2Ch.18.34; 2Ch.24.23; 2Ch.24.24; Isa.9.12; Jer.35.11; Amo.9.7 
+	Syria|Syria@Jdg.10.6	H0761=אֲרַמִּי	Syrian	2Ki.5.20; 2Ki.8.28; 2Ki.8.29; 2Ki.9.15; 2Ch.22.5 
+	Syrophoenician|Syria@Jdg.10.6	G4949=Συροφοίνισσα	Syrophoenician	Mrk.7.26 
 $Syrtis@Act.27.17	Place	Syrtis	31.766667,18.505556
 	Syrtis@Act.27.17	G4950=σύρτις	Syrtis	Act.27.17 
 $Taanach@Jos.12.21	Place	Taanach	32.51723975501718,35.21632508826309
@@ -8842,6 +8870,9 @@ $Tabitha@Act.9.36	Female living at the time of the New Testament	 +
 	Tabitha@Act.9.36	G5000=Ταβιθά	Tabitha	Act.9.36; Act.9.40 
 $Tabor@1Sa.10.3	Place	Tabor_3	31.93053920580005,35.22103274923676 = Near Bethel_1
 	Tabor@1Sa.10.3	H8396=תָּבוֹר	Tabor	1Sa.10.3 
+$Tabor_Mount@Jdg.4.6	Place	Mount Tabor	32.68695640243183,35.39091304299688
+	Tabor_Mount@Jdg.4.6	H8396=תָּבוֹר	(Mount )Tabor	Jdg.4.6; Jdg.4.12; Jdg.4.14; 
+	Tabor_Mount@Jdg.4.6	H8396=תָּבוֹר	Tabor	Jos.19.22; Jdg.8.18; Psa.89.12; Jer.46.18; Hos.5.1 
 $Tabrimmon@1Ki.15.18	Male living at the time of Divided monarchy	Hezion@1Ki.15.18 + 			Ben-hadad@1Ki.15.18
 	Tabrimmon@1Ki.15.18	H2886=טַבְרִמּוֹן	Tabrimmon (KJV= Tabrimon)	1Ki.15.18 
 $Tadmor@2Ch.8.4	Place	Tadmor	34.5540491686839,38.26590497164145
@@ -8964,9 +8995,9 @@ $Terah@Gen.11.24	Male living at the time of the first Patriarchs	Nahor@Gen.11.2
 $Terah@Num.33.27	Place	Terah	30.317396,35.407152 = Near Mount Hor_1
 	Terah@Num.33.27	H8646=תֶּ֫רַח	Terah	Num.33.27; Num.33.28 
 $Teraphim@Gen.31.19	Group of deities				
-	household gods|Teraphim@Gen.31.19	H8655=תְּרָפִים	household gods (KJV, NIV= idols)	Zec.10.2 
-	household gods|Teraphim@Gen.31.19	H8655=תְּרָפִים	household gods (KJV= images)	Gen.31.19; Gen.31.34; Gen.31.35; 2Ki.23.24 
-	household gods|Teraphim@Gen.31.19	H8655=תְּרָפִים	household gods (KJV= teraphim)	Jdg.17.5; Jdg.18.14; Jdg.18.17; Jdg.18.18; Jdg.18.20; Hos.3.4 
+	household_gods|Teraphim@Gen.31.19	H8655=תְּרָפִים	household gods (KJV, NIV= idols)	Zec.10.2 
+	household_gods|Teraphim@Gen.31.19	H8655=תְּרָפִים	household gods (KJV= images)	Gen.31.19; Gen.31.34; Gen.31.35; 2Ki.23.24 
+	household_gods|Teraphim@Gen.31.19	H8655=תְּרָפִים	household gods (KJV= teraphim)	Jdg.17.5; Jdg.18.14; Jdg.18.17; Jdg.18.18; Jdg.18.20; Hos.3.4 
 	idolatry|Teraphim@Gen.31.19	H8655=תְּרָפִים	idolatry	1Sa.15.23 
 	image|Teraphim@Gen.31.19	H8655=תְּרָפִים	image (NIV= idol)	1Sa.19.13; 1Sa.19.16 
 	Teraphim@Gen.31.19	H8655=תְּרָפִים	teraphim (KJV= images; NIV= idols)	Ezk.21.21 
@@ -9105,14 +9136,14 @@ $Tower_of_Eder@Gen.35.21	Place	Eder_1	31.70536129174666,35.21026630105202 = In 
 	Tower_of_Eder@Gen.35.21	H4029=מִגְדַּל־עֵ֫דֶר	tower of Eder (KJV= tower of Edar; NIV Migdal Eder)	Gen.35.21; Mic.4.8 
 $Tower_of_Hananel@Neh.3.1	Place	Tower of Hananel	31.777444,35.234935 = In Jerusalem
 	Tower_of_Hananel@Neh.3.1	H4026=מִגְדָּל+H2606=חֲנַנְאֵל	Tower of Hananel (KJV= Hananeel)	Neh.3.1; Neh.12.39; Jer.31.38; Zec.14.10; 
-$Tower_of_Shechem@Jdg.9.46	Place	Tower of Shechem	32.21369123124062,35.2817986718367 = In Shechem
-	Tower_of_Shechem@Jdg.9.46	H4026=מִגְדָּל+H7927=שְׁכֶם	Tower of Shechem	Jdg.9.46; Jdg.9.47; Jdg.9.49; 
 $Tower_of_the_Hundred@Neh.3.1	Place	Tower of the Hundred	31.777444,35.234935 = In Jerusalem
 	Tower_of_the_Hundred@Neh.3.1	H4026=מִגְדָּל+H3968=מֵאָה	Tower of the Hundred (KJV= tower of Meah)	Neh.3.1; Neh.12.39; 
 $Tower_of_the_Ovens@Neh.3.11	Place	Tower of the Ovens	31.777444,35.234935 = In Jerusalem
 	Tower_of_the_Ovens@Neh.3.11	H4026=מִגְדָּל+H8574=תַּנּוּר	Tower of the Ovens	Neh.3.11; Neh.12.38; 
 $Trachonitis@Luk.3.1	Place	Trachonitis	32.833333,36.5
 	Trachonitis@Luk.3.1	G5139=Τραχωνῖτις	Trachonitis	Luk.3.1 
+$Travelers_Valley@Ezk.39.11	Place	Valley of the Travelers	31.49684513710609,35.78284105296996 = Near Dibon_1
+	Travelers_Valley@Ezk.39.11	H1516=גַּיְא+H5674a=עָבַר	Valley of the Travelers (KJV= passengers; NIV= travel)	Ezk.39.11; 
 $Troas@Act.16.8	Place	Troas	39.50664305923271,26.08059270470616
 	Troas@Act.16.8	G5174=Τρωάς	Troas	Act.16.8; Act.16.11; Act.20.5; Act.20.6; 2Co.2.12; 2Ti.4.13 
 $Trophimus@Act.20.4	Male living at the time of the New Testament 	 + 			
@@ -9139,7 +9170,7 @@ $Tyre@Jos.19.29	Place	Tyre	33.27582782266882,35.19257453545583
 	Tyre@Jos.19.29	H6876=צֹרִי	Tyre	1Ki.7.14; 2Ch.2.14 
 	Tyre@Jos.19.29	H6876=צֹרִי	Tyrian	1Ch.22.4; Ezr.3.7; Neh.13.16 
 $Ucal@Pro.30.1	Male living at the time of United monarchy	 + 			
-	worn out|Ucal@Pro.30.1	H0401=אֻכָל	worn out (KJV= Ucal; NIV= prevail)	Pro.30.1 
+	worn_out|Ucal@Pro.30.1	H0401=אֻכָל	worn out (KJV= Ucal; NIV= prevail)	Pro.30.1 
 $Uel@Ezr.10.34	Male living at the time of Exile and return	 + 			
 	Uel@Ezr.10.34	H0177=אוּאֵל	Uel	Ezr.10.34 
 $Ulai@Dan.8.2	Place	Ulai	32.178696,48.224890
@@ -9156,8 +9187,6 @@ $Unni@Neh.12.9	Male living at the time of Exile and return	 +
 	Unni@Neh.12.9	H6042=עֻנִּי	Unni	Neh.12.9 
 $Uphaz@Jer.10.9	Place	Uphaz	22,77
 	Uphaz@Jer.10.9	H0210=אוּפָז	Uphaz	Jer.10.9; Dan.10.5 
-$Upper_Beth-horon@Jos.16.5	Place	Upper Beth-horon	31.85891795409998,35.12831317484221
-	Upper_Beth-horon@Jos.16.5	H1032=בֵּית חוֹרֹן+H5945a=עֶלְיוֹן	Upper Beth-horon	Jos.16.5; 1Ch.7.24; 2Ch.8.5; 
 $Ur@1Ch.11.35	Male living at the time of Divided monarchy	 + 			Eliphal@1Ch.11.35
 	Ur@1Ch.11.35	H0218a=אוּר	Ur	1Ch.11.35 
 $Ur@Gen.11.28	Place	Ur	30.9620520474569,46.10374195774169
@@ -9220,12 +9249,12 @@ $Uzza@2Ki.21.18	Place	garden of Uzza	31.777444,35.234935 = In Jerusalem
 	Uzza@2Ki.21.18	H5798a=עֻזָּא	Uzza	2Ki.21.26 
 $Uzza@Ezr.2.49	Male living at the time of Exile and return	 + 			
 	Uzza@Ezr.2.49	H5798a=עֻזָּא	Uzza	Ezr.2.49; Neh.7.51 
-$Uzzah@2Sa.6.3	Place	Perez-uzzah	31.777444,35.234935 = Near Jerusalem
-	Perez-uzza|Uzzah@2Sa.6.3	H6560=פֶּרֶץ עֻזָּא	Perez-uzza (NIV= Perez-uzzah)	1Ch.13.11 
 $Uzzah@2Sa.6.3	Male living at the time of United monarchy	Abinadab@1Sa.7.1 + 	Eleazar@1Sa.7.1, Ahio@2Sa.6.3		
 	Perez-uzzah|Uzzah@2Sa.6.3	H6560=פֶּרֶץ עֻזָּא	Perez-uzzah	2Sa.6.8 
 	Uzzah@2Sa.6.3	H5798a=עֻזָּא	Uzzah (KJV= Uzza)	1Ch.13.7; 1Ch.13.9; 1Ch.13.10; 1Ch.13.11 
 	Uzzah@2Sa.6.3	H5798a=עֻזָּא	Uzzah	2Sa.6.3; 2Sa.6.6; 2Sa.6.7; 2Sa.6.8 
+$Uzzah@2Sa.6.3	Place	Perez-uzzah	31.777444,35.234935 = Near Jerusalem
+	Perez-uzza|Uzzah@2Sa.6.3	H6560=פֶּרֶץ עֻזָּא	Perez-uzza (NIV= Perez-uzzah)	1Ch.13.11 
 $Uzzen-sheerah@1Ch.7.24	Place	Uzzen-sheerah	31.887821,35.045649
 	Uzzen-sheerah@1Ch.7.24	H0242=אֻזֵּן שֶׁאֱרָה	Uzzen-sheerah	1Ch.7.24 
 $Uzzi@1Ch.6.5	Male living at the time of Divided monarchy	Bukki@1Ch.6.5 + 			Zerahiah@1Ch.6.6
@@ -9274,57 +9303,7 @@ $Uzziel@Neh.3.8	Male living at the time of Exile and return	Harhaiah@Neh.3.8 +
 $Vaizatha@Est.9.9	Male living at the time of Exile and return	Haman@Est.3.1 + 	Parshandatha@Est.9.7, Dalphon@Est.9.7, Aspatha@Est.9.7, Poratha@Est.9.8, Adalia@Est.9.8, Aridatha@Est.9.8, Parmashta@Est.9.9, Arisai@Est.9.9, Aridai@Est.9.9		
 	Vaizatha@Est.9.9	H2055=וַיְזָתָא	Vaizatha (KJV= Vajezatha)	Est.9.9 
 $Valley_Gate@2Ch.26.9	Place	Valley Gate	31.777444,35.234935 = In Jerusalem
-	Valley_Gate@2Ch.26.9	H8179=שַׁ֫עַר+H1516=גַּיְא	Valley Gate	2Ch.26.9; Neh.2.13; Neh.2.15; Neh.3.13; 
-$Valley_of_Achor@Jos.7.24	Place	Valley of Achor	31.836890,35.399737
-	Valley_of_Achor@Jos.7.24	H6010=עֵ֫מֶק+H5911=עָכוֹר	Valley of Achor	Jos.7.24; Jos.7.26; Jos.15.7; Isa.65.10; Hos.2.15; 
-$Valley_of_Aven@Amo.1.5	Place	Valley of Aven	34.006944,36.203889
-	Valley_of_Aven@Amo.1.5	H1237=בִּקְעָה+H0206=אָ֫וֶן	Valley of Aven	Amo.1.5; 
-$Valley_of_Beracah@2Ch.20.26	Place	Valley of Beracah	31.610650,35.165648
-	Valley_of_Beracah@2Ch.20.26	H6010=עֵ֫מֶק+H1294=בְּרָכָה	Valley of Beracah (KJV= Berachah; NIV= Berakah)	2Ch.20.26; 2Ch.20.26; 
-$Valley_of_Elah@1Sa.17.2	Place	Valley of Elah	31.690629,34.963136
-	Valley_of_Elah@1Sa.17.2	H6010=עֵ֫מֶק+H0425=אֵלָה	Valley of Elah	1Sa.17.2; 1Sa.17.19; 1Sa.21.9; 
-$Valley_of_Eshcol@Num.13.23	Place	Valley of Eshcol	31.54909871686872,35.09356062020027
-	Valley_of_Eshcol@Num.13.23	H5158a=נַ֫חַל+H0812=אֶשְׁכֹּל	Valley of Eshcol (NIV= Eshkol)	Num.13.23; Num.13.24; Num.32.9; Deu.1.24; 
-$Valley_of_Gibeon@Isa.28.21	Place	Valley of Gibeon	31.84684772753698,35.18491237777512
-	Valley_of_Gibeon@Isa.28.21	H6010=עֵ֫מֶק+H1391=גִּבְעוֹן	Valley of Gibeon	Isa.28.21; 
-$Valley_of_Hamon-gog@Ezk.39.11	Place	Valley of Hamon-gog	31.49684513710609,35.78284105296996 = Near Dibon_1
-	Valley_of_Hamon-gog@Ezk.39.11	H1516=גַּיְא+H1996=הֲמוֹן גּוֹג	Valley of Hamon-gog	Ezk.39.11; Ezk.39.15; 
-$Valley_of_Hebron@Gen.37.14	Place	Valley of Hebron	31.54909871686872,35.09356062020027
-	Valley_of_Hebron@Gen.37.14	H6010=עֵ֫מֶק+H2275a=חֶבְרוֹן	Valley of Hebron	Gen.37.14; 
-$Valley_of_Hinnom@Jos.15.8	Place	Valley of Hinnom	31.769079,35.227994
-	Tophet|Valley_of_Hinnom@Jos.15.8	H8612=תֹּ֫פֶת, תׇּפְתֶּה	burning-place (KJV= Tophet; NIV= Topheth)	Isa.30.33 
-	Tophet|Valley_of_Hinnom@Jos.15.8	H8612=תֹּ֫פֶת, תׇּפְתֶּה	Topheth	2Ki.23.10; Jer.7.31; Jer.7.32a; Jer.7.32b; Jer.19.6; Jer.19.11; Jer.19.12; Jer.19.13; Jer.19.14 
-	Valley of Baca|Valley_of_Hinnom@Jos.15.8	H6010=עֵ֫מֶק+H1056=בָּכָא	Valley of Baca (NIV= Baka)	Psa.84.6; 
-	Valley of Slaughter|Valley_of_Hinnom@Jos.15.8	H1516=גַּיְא+H2028=הֲרֵגָה	Valley of Slaughter	Jer.7.32; Jer.19.6; 
-	Valley_of_Hinnom@Jos.15.8	H1516=גַּיְא+H2011=הִנֹּם	Valley of Hinnom	Jos.15.8; Jos.18.16; Neh.11.30; 
-	Valley_of_Hinnom@Jos.15.8	H1516=גַּיְא+H2011=הִנֹּם	Valley of the Son of Hinnom	Jos.15.8; Jos.18.16; 2Ki.23.10; 2Ch.28.3; 2Ch.33.6; Jer.7.31; Jer.7.32; Jer.19.2; Jer.19.6; Jer.32.35; 
-$Valley_of_Iphtahel@Jos.19.14	Place	Valley of Iphtahel	32.832774,35.277225
-	Valley_of_Iphtahel@Jos.19.14	H1516=גַּיְא+H3317=יִפְתַּח־אֵל	Valley of Iphtahel (KJV:valley of Jiphthah-el; NIV= Valley of Iphtah El)	Jos.19.14; Jos.19.27; 
-$Valley_of_Jericho@Deu.34.3	Place	Valley of Jericho	31.87060143818292,35.44386371224434
-	Valley_of_Jericho@Deu.34.3	H1237=בִּקְעָה+H3405=יְרִיחוֹ	Valley of Jericho	Deu.34.3; 
-$Valley_of_Jezreel@Jos.17.16	Place	Valley of Jezreel	32.5559631396043,35.33078927843792 = Near Jezreel_2
-	Valley_of_Jezreel@Jos.17.16	H6010=עֵ֫מֶק+H3157=יִזְרְעֶאל	Valley of Jezreel	Jos.17.16; Jdg.6.33; Hos.1.5; 
-$Valley_of_Mizpeh@Jos.11.8	Place	Valley of Mizpeh	33.281770,35.573371
-	Mizpah|Valley_of_Mizpeh@Jos.11.8	H4709=מִצְפָּה	Mizpah	Jos.11.3 
-	Valley_of_Mizpeh@Jos.11.8	H1237=בִּקְעָה+H4708=מִצְפֶּה	Valley of Mizpeh	Jos.11.8; 
-$Valley_of_Rephaim@Jos.15.8	Place	Valley of Rephaim	31.756332,35.223059
-	Valley_of_Rephaim@Jos.15.8	H6010=עֵ֫מֶק+H7497b=רְפָאִים	Valley of Rephaim	Jos.15.8; Jos.18.16; 2Sa.5.18; 2Sa.5.22; 2Sa.23.13; 1Ch.11.15; 1Ch.14.9; Isa.17.5; 
-$Valley_of_Salt@2Sa.8.13	Place	Valley of Salt	31.087328,35.383740
-	Valley_of_Salt@2Sa.8.13	H1516=גַּיְא+H4417=מֶ֫לַח	Valley of Salt	2Sa.8.13; 2Ki.14.7; 1Ch.18.12; 2Ch.25.11; Psa.60.1; 
-$Valley_of_Shaveh@Gen.14.17	Place	Valley of Shaveh	31.777444,35.234935 = Near Jerusalem
-	Valley_of_Shaveh@Gen.14.17	H6010=עֵ֫מֶק+H7740=שָׁוֵה	Valley of Shaveh	Gen.14.17; 
-$Valley_of_Shittim@Jol.3.18	Place	Valley of Shittim	31.85826217905818,35.64156652792805
-	Valley_of_Shittim@Jol.3.18	H5158a=נַ֫חַל+H7851=שִׁטִּים	Valley of Shittim (NIV= acacias)	Jol.3.18; 
-$Valley_of_Siddim@Gen.14.3	Place	Valley of Siddim	31.235341,35.517624
-	Valley_of_Siddim@Gen.14.3	H6010=עֵ֫מֶק+H7708=שִׂדִּים	Valley of Siddim	Gen.14.3; Gen.14.8; Gen.14.10; 
-$Valley_of_Sorek@Jdg.16.4	Place	Valley of Sorek	31.825731,34.989013
-	Valley_of_Sorek@Jdg.16.4	H5158a=נַ֫חַל+H7796=שֹׂרֵק	Valley of Sorek	Jdg.16.4; 
-$Valley_of_the_Travelers@Ezk.39.11	Place	Valley of the Travelers	31.49684513710609,35.78284105296996 = Near Dibon_1
-	Valley_of_the_Travelers@Ezk.39.11	H1516=גַּיְא+H5674a=עָבַר	Valley of the Travelers (KJV= passengers; NIV= travel)	Ezk.39.11; 
-$Valley_of_Zeboim@1Sa.13.18	Place	Valley of Zeboim	31.936283,35.424836
-	Valley_of_Zeboim@1Sa.13.18	H1516=גַּיְא+H6650=צְבֹעִים	Valley of Zeboim (NIV= Zeboyim)	1Sa.13.18; 
-$Valley_of_Zephathah@2Ch.14.10	Place	Valley of Zephathah	31.615198,34.910085
-	Valley_of_Zephathah@2Ch.14.10	H1516=גַּיְא+H6859=צְפַ֫תָה	Valley of Zephathah	2Ch.14.10; 
+	Valley_Gate@2Ch.26.9	H1516=גַּיְא	Valley( Gate)	2Ch.26.9; Neh.2.13; Neh.2.15; Neh.3.13; 
 $Vaniah@Ezr.10.36	Male living at the time of Exile and return	 + 			
 	Vaniah@Ezr.10.36	H2057=וַנְיָה	Vaniah	Ezr.10.36 
 $Vashti@Est.1.9	Female living at the time of Exile and return	 + 		Ahasuerus@Ezr.4.6	
@@ -9338,7 +9317,7 @@ $Waheb@Num.21.14	Place	Waheb	27.088473,34.771729 = Near Red Sea
 $Washer's_Field@2Ki.18.17	Place	Washer's Field	31.769079,35.227994 = Near Valley of Hinnom
 	Washer's_Field@2Ki.18.17	H7704b=שָׂדֶה+H3526=כָּבַס	Washer's Field (KJV= fuller's field; NIV= Launderer's Field)	2Ki.18.17; Isa.7.3; Isa.36.2; 
 $Water_Gate@Neh.3.26	Place	Water Gate	31.777444,35.234935 = In Jerusalem
-	Water_Gate@Neh.3.26	H8179=שַׁ֫עַר+H4325=מַי	Water Gate	Neh.3.26; Neh.8.1; Neh.8.3; Neh.8.16; Neh.12.37; 
+	Water_Gate@Neh.3.26	H4325=מַי	Water( Gate)	Neh.3.26; Neh.8.1; Neh.8.3; Neh.8.16; Neh.12.37; 
 $Way_of_Holiness@Isa.35.8	Place	Way of Holiness	31.777444,35.234935 = Near Jerusalem
 	Way_of_Holiness@Isa.35.8	H1870=דֶּ֫רֶךְ+H6944=קֹ֫דֶשׁ	Way of Holiness	Isa.35.8; 
 $Weeks@Exo.34.22	Name of a feastival				
@@ -9354,10 +9333,11 @@ $wife_of_Peter@Mat.8.14	Female living at the time of the New Testament	 + 		Pet
 	wife_of_Peter@Mat.8.14	[ ]	[ ]	[ ]	[ ]: Mat.8.14
 $wife_of_Zebedee@Mat.20.20	Female living at the time of the New Testament	 + 		Zebedee@Mat.4.21	James@Mat.4.21, John@Mat.4.21
 	wife_of_Zebedee@Mat.20.20	[ ]	[ ]	[ ]	[ ]: Mat.20.20
-$Wilderness_of_Sinai@Exo.19.1	Place		
-	Wilderness_of_Sinai@Exo.19.1	H4057b=מִדְבָּר+H5514=סִינַי	wilderness of Sinai	Exo.19.1; Exo.19.2; Lev.7.38; Num.1.1; Num.1.19; Num.3.4; Num.3.14; Num.9.1; Num.9.5; Num.10.12; Num.26.64; Num.33.15; Num.33.16; 
-$Wildgoats'_Rocks@1Sa.24.2	Place	Wildgoats' Rocks	31.46152536164766,35.39241108242345 = Near Engedi
-	Wildgoats'_Rocks@1Sa.24.2	H6697=צוּר+H3277=יָעֵל	Wildgoats' Rocks (KJV= rocks of wild goats; NIV= Crags of the Wild Goats)	1Sa.24.2; 
+$Wildgoats_Rocks@1Sa.24.2	Place	Wildgoats' Rocks	31.46152536164766,35.39241108242345 = Near Engedi
+	Wildgoats_Rocks@1Sa.24.2	H6697=צוּר+H3277=יָעֵל	Wildgoats' Rocks (KJV= rocks of wild goats; NIV= Crags of the Wild Goats)	1Sa.24.2; 
+$Yeshanah_Gate@Neh.3.6	Place	Gate of Yeshanah	31.777444,35.234935 = In Jerusalem
+	Yeshanah_Gate@Neh.3.6	H3465=יָשָׁן	(Gate of )Yeshanah	Neh.3.6; 
+	Yeshanah_Gate@Neh.3.6	H3466=יְשָׁנָה	(Gate of )Yeshanah (KJV= old gate)	Neh.12.39; 
 $Yiron@Jos.19.38	Place	Yiron	33.088748,35.414111
 	Yiron@Jos.19.38	H3375=יִרְאוֹן	Yiron	Jos.19.38 
 $Zaanan@Mic.1.11	Place	Zaanan	31.743719,34.694006 = Near Shaphir
@@ -9493,6 +9473,8 @@ $Zeboiim@Gen.10.19	Place	Zeboiim	31.11942270162137,35.41253049195169 = Near Adm
 	Zeboiim@Gen.10.19	H6636=צְבֹיִים	Zeboiim (KJV=Zeboim; NIV= Zeboyim)	Gen.10.19; Deu.29.23; Hos.11.8 
 $Zeboim@Neh.11.34	Place	Zeboim	31.10182240291489,35.47633656511371
 	Zeboim@Neh.11.34	H6650=צְבֹעִים	Zeboim	Neh.11.34 
+$Zeboim_Valley@1Sa.13.18	Place	Valley of Zeboim	31.936283,35.424836
+	Zeboim_Valley@1Sa.13.18	H1516=גַּיְא+H6650=צְבֹעִים	Valley of Zeboim (NIV= Zeboyim)	1Sa.13.18; 
 $Zebul@Jdg.9.28	Male living at the time of Israel before the monarchy	 + 			
 	Zebul@Jdg.9.28	H2083=זְבֻל	Zebul	Jdg.9.28; Jdg.9.30; Jdg.9.36a; Jdg.9.36b; Jdg.9.38; Jdg.9.41 
 $Zebulun@Gen.30.20	Male living at the time of the first Patriarchs	Israel@Gen.25.26 + Leah@Gen.29.16	Reuben@Gen.29.32, Simeon@Gen.29.33, Levi@Gen.29.34, Judah@Gen.29.35, Dan@Gen.30.6, Naphtali@Gen.30.8, Gad@Gen.30.11, Asher@Gen.30.13, Issachar@Gen.30.18, Dinah@Gen.30.21, Joseph@Gen.30.24, Benjamin@Gen.35.18		Sered@Gen.46.14, Elon@Gen.46.14, Jahleel@Gen.46.14
@@ -9588,7 +9570,7 @@ $Zelophehad@Num.26.33	Male living at the time of Egypt and Wilderness 	Hepher@N
 $Zelzah@1Sa.10.2	Place	Zelzah	31.717666,35.187019
 	Zelzah@1Sa.10.2	H6766=צֶלְצַח	Zelzah	1Sa.10.2 
 $Zemaraim@Jos.18.22	Place	Zemaraim	31.910999,35.457280
-	Zemaraim@Jos.18.22	H2022=הַר+H6787=צְמָרַיִם	Mount Zemaraim	2Ch.13.4; 
+	Zemaraim@Jos.18.22	H6787=צְמָרַיִם	(Mount )Zemaraim	2Ch.13.4; 
 	Zemaraim@Jos.18.22	H6787=צְמָרַיִם	Zemaraim	Jos.18.22 
 $Zemarite@Gen.10.18	People descended from Zemar?	Canaan@Gen.9.18 + 	Sidon@Gen.10.15, Heth@Gen.10.15, Jebusite@Gen.10.16, Amorite@Gen.10.16, Girgasite@Gen.10.16, Hivite@Gen.10.17, Arkite@Gen.10.17, Sinite@Gen.10.17, Arvadite@Gen.10.18, Hamathite@Gen.10.18		
 	Zemarite@Gen.10.18	H6786=צְמָרִי	Zemarite	Gen.10.18; 1Ch.1.16 
@@ -9607,6 +9589,8 @@ $Zephaniah@Zep.1.1	Male living at the time of Divided monarchy	Cushi@Zep.1.1 +
 $Zephath@Jdg.1.17	Place	Zephath	30.880918,34.630620
 	Hormah|Zephath@Jdg.1.17	H2767=חׇרְמָה	Hormah	Num.14.45; Num.21.3; Deu.1.44; Jos.12.14; Jos.15.30; Jos.19.4; Jdg.1.17; 1Sa.30.30; 1Ch.4.30 
 	Hormah|Zephath@Jdg.1.17	H6857=צְפַ֑ת	Zephath	Jdg.1.17 
+$Zephathah_Valley@2Ch.14.10	Place	Valley of Zephathah	31.615198,34.910085
+	Zephathah_Valley@2Ch.14.10	H1516=גַּיְא+H6859=צְפַ֫תָה	Valley of Zephathah	2Ch.14.10; 
 $Zepho@Gen.36.11	Male living at the time of the first Patriarchs	Eliphaz@Gen.36.4 + 	Teman@Gen.36.11, Omar@Gen.36.11, Gatam@Gen.36.11, Kenaz@Gen.36.11, Amalek@Gen.36.12, Korah@Gen.36.16		
 	Zepho@Gen.36.11	H6825=צְפוֹ, צְפִי	Zepho (KJV= Zephi)	1Ch.1.36 
 	Zepho@Gen.36.11	H6825=צְפוֹ, צְפִי	Zepho	Gen.36.11; Gen.36.15 
@@ -9629,9 +9613,8 @@ $Zerahiah@1Ch.6.6	Male living at the time of Divided monarchy	Uzzi@1Ch.6.5 + 		
 	Zerahiah@1Ch.6.6	H2228=זְרַחְיָה	Zerahiah	1Ch.6.6a; 1Ch.6.6b; 1Ch.6.51; Ezr.7.4 
 $Zerahiah@Ezr.8.4	Male living at the time of Exile and return	 + 			Eliehoenai@Ezr.8.4
 	Zerahiah@Ezr.8.4	H2228=זְרַחְיָה	Zerahiah	Ezr.8.4 
-$Zered@Deu.2.13	Place	Zered	30.884128,35.897633
-	Zered@Deu.2.13	H2218=זֶ֫רֶד	Zered	Deu.2.13a; Deu.2.13b; Deu.2.14 
-	Zered@Deu.2.13	H5158a=נַ֫חַל+H2218=זֶ֫רֶד	Valley of Zered (KJV= Zared)	Num.21.12; 
+$Zered@Num.21.12	Place	Zered	30.884128,35.897633
+	Zered@Deu.2.13	H2218=זֶ֫רֶד	Zered	Num.21.12; Deu.2.13a; Deu.2.13b; Deu.2.14 
 $Zeredah@1Ki.11.26	Place	Zeredah_1	32.23293813761263,35.27304180036391 = Near Mount Ebal
 	Zeredah@1Ki.11.26	H6868=צְרֵדָה	Zeredah	1Ki.11.26 
 $Zeresh@Est.5.10	Female living at the time of Exile and return	 + 		Haman@Est.3.1	
@@ -9864,7 +9847,7 @@ Rernamed Beer as Beer_1;
 Removed because they are people: Esau; Abiezer@Num.26.30; Jetur@1Ch.5.19; Nodab@1Ch.5.19; Naphish@1Ch.5.19; Kedar@Psa.120.5; Nebaioth@Isa.60.7; Nimrod@Mic.5.6
 Added refs: OT refs for Gog
 Move refs: Jos.19.2 from Sheba to Beer-sheba
-Added a few missing places: Addan@Ezr.2.59; Archile@2Sa.15.32; Ashurite@2Sa.2.9; Atad@Gen.50.10; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12; Eden@Gen.2.8; Eglath-shelishiyah@Isa.15.5; Elam@Ezr.4.9; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak@Jos.11.17; Havilah@Gen.2.11; Hazor@Jer.49.28; Hebrew@Gen.14.13; Hellenist|Greece@Dan.8.21; Jew@Est.2.5; Jew@Est.2.5; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothite@1Ch.27.30; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Plains_of_Moab@Num.22.1; Scythian@Col.3.11; Senaah@Ezr.2.35; Senaah@Ezr.2.35; 
+Added a few missing places: Addan@Ezr.2.59; Archile@2Sa.15.32; Ashurite@2Sa.2.9; Atad@Gen.50.10; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12; Eden@Gen.2.8; Eglath-shelishiyah@Isa.15.5; Elam@Ezr.4.9; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak@Jos.11.17; Havilah@Gen.2.11; Hazor@Jer.49.28; Hebrew@Gen.14.13; Hellenist|Greece@Dan.8.21; Jew@Est.2.5; Jew@Est.2.5; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothite@1Ch.27.30; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Moab_Plains@Num.22.1; Scythian@Col.3.11; Senaah@Ezr.2.35; Senaah@Ezr.2.35; 
 Added gentilics of places for place names that were known. Gentilics based on name unknown as people or places were assumed to be places
 
 Desriptions: 
@@ -9896,7 +9879,6 @@ Title:
 
 TO DO
 Check by exporting all names from KJV, NIV, ESV 
-Look for Strong numbers that are shared by another Name or another Word, then create unique numbers for each by adding "a", "b" etc
- - also add entries to STEP Lexicons
- - also add lines to BDB summaries
+ - add entries to STEP Lexicons
+ - add lines to BDB summaries
  - also change tagging in Heb OT, tagged ESV, tagged SBLG+var
