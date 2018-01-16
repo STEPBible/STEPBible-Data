@@ -7,7 +7,7 @@ Data created for www.STEPBible.org, licensed by Tyndale House Cambridge (CC BY-N
 * Request permission if your project is not free. A reasonable request is unlikely to be refused. 
 * Download the data and reformat it for your application, without changing the data
 * Send any proposed corrections to TyndaleStep@gmail.com
-#  - (Please do not implement any change to the data till Tyndale scholars have verified it.) 
+  - (Please do not implement any change to the data till Tyndale scholars have verified it.) 
 * Refer others to this repository as the source of the data. Please do not redistribute it yourself.
   - (Updates or corrections are easier to implement when the data is distributed from a single source)
   
