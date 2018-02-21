@@ -22,10 +22,12 @@ The data in this repository is created and curated collaboratively by Tyndale sc
 The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is derivative from other publically licenced sources, and has been compared with other non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to TyndaleStep@gmail.com for checking.
 
 # Data format 
-Data is in plain unicode text (UTF-8) with tabs separating fields so it can be loaded into any text editor or spreadsheet. 
+Data is in plain unicode text (UTF-8) with fields separated by tabs, so that they can be loaded into any text editor or spreadsheet. 
 
-In most data sets, each line has identical fields, so an end-of-line marks the end of a record.
-For some data (e.g. ProperNames), a record can consist of multiple lines and the record starts with "$". In this case the first line has data which applies to each succeeding line in the record. 
+* By default, datasets are one-line records, so a Record ends with a NewLine, and each line has identical fields.
+
+* Some datasets have multi-line records. Records are separated by a line starting with "$". The first line is a Header with fields that apply to each subsequent subRecord line. SubRecord lines all start with a tab. 
+For example, in the ProperNames dataset, the first line is a header with information about the type (individual, place, title etc) and other data. These details apply to each of the subsequent subRecords which contain fields for the specific tag, Hebrew/Greek, translation, and the list of references. So the Header effectively contains fields which belong to each of its subRecords and would be  identical for each of them if they were included on each line. 
 
 * Hebrew merged glyphs are separated and normalised in the order:  
   consonant; sin/shin dot; dagesh; vowel; metheg/raphe; accents
