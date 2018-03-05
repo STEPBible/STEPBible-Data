@@ -1,6 +1,26 @@
 ﻿Proper Nouns in the ESV (+ differences in KJV & NIV) with unique tag for each individual and location, with Hebrew/Greek forms and an exhaustive list of occurences
-==========================================================================================================
+=========================================================================================================
 
+===========================================================
+Data created for www.STEPBible.org by Tyndale House Cambridge (CC BY-NC-ND 4.0)
+===========================================================
+This licence allows you to:
+* Include any part of this data in free software or free publications without requesting permission 
+* Request permission if your project is not free. A reasonable request is unlikely to be refused.
+* Download the data and reformat it for your application, without changing the data
+* Send any proposed corrections to TyndaleStep@gmail.com to be verified by Tyndale scholars
+  (Do not make changes or corrections to any data you distribute or publish in any way) 
+* Refer others to this repository as the source of the data. Please do not redistribute it yourself. 
+  (Updates or corrections are easier to implement when the data is distributed from a single source)
+And you should:
+* Credit it to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, and to "STEP Bible" linked to www.STEPBible.org
+   (And we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com)
+==============================================================
+
+
+
+FIELD DESCRIPTIONS:
+==============
 Fields are separated by tabs, which become columns if viewed in a spreadsheet. They include: 
 
 Header fields for  Individuals: 
@@ -2031,6 +2051,7 @@ Bani@Neh.9.4b	Male living at the time of Exile and return	 +
 $==========
 Barabbas@Mat.27.16	Male living at the time of the New Testament 	 + 			
 	Barabbas@Mat.27.16	G0912=Βαραββᾶς	Barabbas	Mat.27.16, 17, 20, 21, 26; Mrk.15.7, 11, 15; Luk.23.18; Jhn.18.40a, 40b; 
+	Jesus|Barabbas@Mat.27.16	G2424=Ἰησοῦς	[ ] (NIV= Jesus)	Mat.27.16; 
 $==========
 Barachel@Job.32.2	Male living at the time of the first Patriarchs	 + 			Elihu@Job.32.2
 	Barachel@Job.32.2	H1292=בָּרַכְאֵל	Barachel	Job.32.2, 6; 
@@ -14308,19 +14329,6 @@ Zuzim@Gen.14.5	People descended from Zuz?
 
 ===================================
 
-
-===========================================================
-Data created for www.STEPBible.org, licensed by Tyndale House Cambridge (CC BY-NC-ND 4.0)
-===========================================================
-This public licence allows you to:
-* Include any part of STEPBible-Data in free software or free publications without requesting permission (Though we'd love to hear from you about your project when you make it available.)
-* Request permission if your project is not free. A reasonable request is unlikely to be refused.
-* Download the data and reformat it for your application, without changing the data
-* Send any proposed corrections to TyndaleStep@gmail.com (Please do not implement any change to the data till Tyndale scholars have verified it.) 
-* Refer others to this repository as the source of the data. Please do not redistribute it yourself. (Updates or corrections are easier to implement when the data is distributed from a single source)
-And you should:
-* Credit it to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, and to "STEP Bible" linked to www.STEPBible.org
-=============================================================================================================================
 
 
 
