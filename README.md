@@ -25,17 +25,17 @@ The repository aims to provide reliable and freely usable data for studying the 
 Some of the following are already posted while others are still being checked. 
 If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process. 
 
-* TOTHT - Tyndale OT Hebrew Text   
+* TOTHT - Tyndale OT Hebrew Text     
 Based on Westminster with corrections from BHS (when it is correct) and from Tyndale scholars (when other two are wrong). All stems and affixes are tagged with extended Strongs to BDB, with context sensitive defs, and ETCBC morphology, including for ketive and qere readings. 
 
 * TNTGT - Tyndale NT Greek Text  
 Amalgamated from the major editions (SBLGNT, Treg, TR, Byz, WH, NA) with each word marked with edition, extended Strongs tagged to LSJ, morphology and context sensitive defs, for all variants. 
 Planning to incorporate Bunning variants. 
 
-* TFBDB - Tyndale Formatted BDB
+* TFBDB - Tyndale Formatted BDB   
 Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures)
 
-* TFLSJ - Tyndale Formatted LSJ
+* TFLSJ - Tyndale Formatted LSJ  
 All the entries from Full LSJ for Bible words (LXX, Apoc & NT), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs. 
 
 * TOTGT - Tyndale OT Greek Text   
