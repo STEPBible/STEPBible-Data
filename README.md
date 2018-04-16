@@ -6,7 +6,7 @@ Data created for www.STEPBible.org, licensed by Tyndale House Cambridge (CC BY-N
   - (Though we'd love to hear from you about your project when you make it available.)
 * Request permission if your project is not free. A reasonable request is unlikely to be refused. 
 * Download the data and reformat it for your application, without changing the data itself.
-  - (This specifically relaxes the ND restriction)
+  - (This specifically relaxes the ND restriction, as allowed by CC - see https://creativecommons.org/licenses/by-nd/4.0/legalcode)
 * Send any proposed corrections to TyndaleStep@gmail.com
   - (Please do not implement any change to the data till Tyndale scholars have verified it.) 
 * Refer others to this repository as the source of the data. Please do not redistribute it yourself.
@@ -26,17 +26,23 @@ The repository aims to provide reliable and freely usable data for studying the 
 Some of the following are already posted while others are still being checked. 
 If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process. 
 
-* TOTHT - Tyndale OT Hebrew Text (aka HebOT Tags)   
+* TTESV - Tyndale Translation tags for ESV
+Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV. 
+* TOTHT - Tyndale OT Hebrew Tagged text        
 Based on Westminster with corrections from BHS (when it is correct) and from Tyndale scholars (when other two are wrong). All stems and affixes are tagged with extended Strongs to BDB, with context sensitive defs, and ETCBC morphology, including for ketive and qere readings.   
-* TANTM - Tyndale Amalgamated NT Manuscripts   
+* TANTT - Tyndale Amalgamated NT Tagged texts   
 A single NT Greek Text with all variants amalgamated from the major editions (SBLGNT, Treg, TR, Byz, WH, NA) based on SBLGNT+variants. Merged with 1st 4 centuries of MSS (from Bunning). One line per accented word form, each marked with the editions+MSS that include this form, so that deleting all other lines creates any of the individual texts with the option of including all variants. Each line is tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) and context sensitive glosses.   
-* TFBDB - Tyndale Formatted BDB  (aka HebLex Full)  
-Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with plain Strongs)  
-* TFLSJ - Tyndale Formatted LSJ (aka GkLex Full)  
-Full LSJ entries for all Bible words (LXX, Apoc & NT), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with plain Strongs).  
-* TOTGT - Tyndale OT Greek Text.   
-(Still being made): Aim to show the early Greek text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (an edition based on Complutensian & Alnine). Both already tagged to LSJ (compatible with extended Strongs) and most of morphology (based on CCAT) is added - variants still need some work.  
-* TIPNB - Tyndale Individualised Proper Names of the Bible (aka ProperNouns-ESV)  
+* TOTGT - Tyndale OT Greek Tagged text.   
+LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.  
+* TBESH - Tyndale Brief lexicon of Extented Strongs for Hebrew     
+Abridged BDB linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs) 
+* TFBDB - Tyndale Formatted full BDB lexicon   
+Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)  
+* TBESG - Tyndale Brief lexicon of Extented Strongs for Greek  
+Abbott-Smith linked to extended Strongs (backwardly compatible with original Strongs).
+* TFLSJ - Tyndale Formatted full LSJ lexicon   
+Full LSJ entries for all Bible words (LXX, Apoc & NT), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).  
+* TIPNR - Tyndale Individualised Proper Names with all References  
 Every name in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places. Each form of the names for each individual includes exhaustive refs for where that individual is named with data of their spouses, siblings and offspring or the places' geolocation (based on OpenBible).  
 * TOTMM - Tyndale OT Manuscripts and Meanings  
 Translation, Hebrew form and witnesses for each variant that affects the meaning of the text, as determined by Barthélemy's UBS committee. Also, alternate meanings found in standard translations. Shown as alternate renderings of a base text (ESV 2011).  
