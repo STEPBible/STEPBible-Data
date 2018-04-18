@@ -39,7 +39,7 @@ Abridged BDB linked to extended Strongs (compatible with OpenScriptures and back
 * TFBDB - Tyndale Formatted full BDB lexicon   
 Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)  
 * TBESG - Tyndale Brief lexicon of Extented Strongs for Greek  
-Abbott-Smith linked to extended Strongs (backwardly compatible with original Strongs).
+Abbott-Smith linked to extended Strongs for all Greek in NT & LXX (backwardly compatible with original Strongs).
 * TFLSJ - Tyndale Formatted full LSJ lexicon    
 Full LSJ entries for all Bible words (LXX, Apoc & NT), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).   
 * TIPNR - Tyndale Individualised Proper Names with all References  
