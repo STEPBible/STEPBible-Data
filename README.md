@@ -14,7 +14,8 @@ This public licence allows you to:
   - (Updates or corrections are easier to implement when the data is distributed from a single source)  
   
 And you should:   
-* **Credit it** to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, and to "STEP Bible" linked to www.STEPBible.org    
+* **Credit it** to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com,  
+  and to "STEP Bible" linked to www.STEPBible.org    
   and refer to the source as github.com/tyndale/STEPBible-Data
 
 # Tyndale House is...  
