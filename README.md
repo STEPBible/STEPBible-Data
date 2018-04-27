@@ -4,7 +4,7 @@ Licensed by Tyndale House Cambridge (CC BY-NC-ND 4.0 with additional specified r
 
 # This licence allows...
 This public licence allows you to: 
-* **Include any part of STEPBible-Data in free software or free publications** without requesting permission  
+* **Include any part of STEPBible-Data in free software or free publications** without requesting permission    
   (Though we'd love to hear from you about your project when you make it available.)  
 * **Request permission if your project is not free.** A reasonable request is unlikely to be refused.   
 * **Download the data and reformat it for your application, without changing the data itself.**  
