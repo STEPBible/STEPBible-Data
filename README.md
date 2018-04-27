@@ -5,14 +5,14 @@ Licensed by Tyndale House Cambridge (CC BY-NC-ND 4.0 with additional specified r
 # This licence allows...
 This public licence allows you to: 
 * **Include any part of STEPBible-Data in free software or free publications** without requesting permission  
-  - (Though we'd love to hear from you about your project when you make it available.)  
+  (Though we'd love to hear from you about your project when you make it available.)  
 * **Request permission if your project is not free.** A reasonable request is unlikely to be refused.   
 * **Download the data and reformat it for your application, without changing the data itself.**  
-  - (This specifically relaxes the ND restriction, as allowed by CC - see https://creativecommons.org/licenses/by-nd/4.0/legalcode)  
+  (This specifically relaxes the ND restriction, as allowed by CC - see https://creativecommons.org/licenses/by-nd/4.0/legalcode)  
 * **Send any proposed corrections to TyndaleStep@gmail.com**  
-  - (Please do not implement any change to the data till Tyndale scholars have verified it.)   
+  (Please do not implement any change to the data till Tyndale scholars have verified it.)   
 * **Refer others to this repository as the source of the data.** Please do not redistribute it yourself.  
-  - (Updates or corrections are easier to implement when the data is distributed from a single source)  
+  (Updates or corrections are easier to implement when the data is distributed from a single source)  
   
 And you should:   
 * **Credit it** to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com,  
