@@ -11,8 +11,8 @@ This public licence allows you to:
   (This specifically relaxes the ND restriction, as allowed by CC - see https://creativecommons.org/licenses/by-nd/4.0/legalcode)  
 * **Send any proposed corrections to TyndaleStep@gmail.com**  
   (Please do not implement any change to the data till Tyndale scholars have verified it.)   
-* **Refer others to this repository as the source of the data.** Please do not redistribute it yourself.  
-  (Updates or corrections are easier to implement when the data is distributed from a single source)  
+* **Refer others to this repository as the source of the data.**   
+  Please do not redistribute it yourself. Updates or corrections are easier to implement when the data is distributed from a single source  
   
 And you should:   
 * **Credit it** to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com,  
