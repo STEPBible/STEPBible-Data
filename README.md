@@ -1,6 +1,6 @@
-# STEPBible-Data
-Data created for www.STEPBible.org   
-Licensed by Tyndale House Cambridge (CC BY-NC-ND 4.0 with additional specified relaxations)
+# Tyndale STEPBible Data
+Data created for www.STEPBible.org by Tyndale by [Tyndale House Cambridge](www.tyndale.cam.ac.uk)   
+(CC BY-NC-ND 4.0 with additional specified relaxations)
 
 # This licence allows...
 This public licence allows you to: 
@@ -9,7 +9,7 @@ This public licence allows you to:
 * **Request permission if your project is not free.** A reasonable request is unlikely to be refused.   
 * **Download the data and reformat it for your application, without changing the data itself.**  
   (This specifically relaxes the ND restriction, as allowed by CC - see https://creativecommons.org/licenses/by-nd/4.0/legalcode)  
-* **Send any proposed corrections to TyndaleStep@gmail.com**  
+* **Send any proposed corrections** to TyndaleStepATgmail.com  
   (Please do not implement any change to the data till Tyndale scholars have verified it.)   
 * **Refer others to this repository as the source of the data.**   
   Please do not redistribute it yourself. Updates or corrections are easier to implement when the data is distributed from a single source  
