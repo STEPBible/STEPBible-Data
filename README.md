@@ -1,5 +1,6 @@
 # STEPBible-Data
-Data created for www.STEPBible.org, licensed by Tyndale House Cambridge (CC BY-NC-ND 4.0 with additional specified relaxations)
+Data created for www.STEPBible.org   
+Licensed by Tyndale House Cambridge (CC BY-NC-ND 4.0 with additional specified relaxations)
 
 # This licence allows...
 This public licence allows you to: 
