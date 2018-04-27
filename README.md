@@ -29,7 +29,7 @@ The repository aims to provide reliable and freely usable data for studying the 
 Some of the following are already posted while others are still being checked. 
 If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process.  
 
-* **[TTESV - Tyndale Translation tags for ESV](https://github.com/tyndale/STEPBible-Data)**  
+* [**TTESV - Tyndale Translation tags for ESV**](https://github.com/tyndale/STEPBible-Data)  
 Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV. 
 * **[TOTHT - Tyndale OT Hebrew Tagged text](https://github.com/tyndale/STEPBible-Data)**        
 Based on Westminster with corrections from BHS (when it is correct) and from Tyndale scholars (when other two are wrong). All stems and affixes are tagged with extended Strongs to BDB, with context sensitive defs, and ETCBC morphology, including for ketive and qere readings.   
