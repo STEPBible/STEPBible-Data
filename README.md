@@ -42,13 +42,13 @@ A single NT Greek Text with all variants amalgamated from the major editions (SB
 * **[TOTGT - Tyndale OT Greek Tagged text](https://github.com/tyndale/STEPBible-Data)**   
 LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
 
-* **[TBESH - Tyndale Brief lexicon of Extented Strongs for Hebrew](https://github.com/tyndale/STEPBible-Data)**     
+* **[TBESH - Tyndale Brief lexicon of Extended Strongs for Hebrew](https://github.com/tyndale/STEPBible-Data)**     
 Abridged BDB linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)   
 
 * **TFBDB - Tyndale Formatted full BDB lexicon**   
 Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)    
 
-* **[TBESG - Tyndale Brief lexicon of Extented Strongs for Greek](https://github.com/tyndale/STEPBible-Data)**  
+* **[TBESG - Tyndale Brief lexicon of Extended Strongs for Greek](https://github.com/tyndale/STEPBible-Data)**  
 Abbott-Smith linked to extended Strongs for all Greek in NT & LXX (backwardly compatible with original Strongs).  
 
 * **TFLSJ - Tyndale Formatted full LSJ lexicon**    
