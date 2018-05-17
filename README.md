@@ -1,5 +1,5 @@
 # Tyndale STEPBible Data
-Data created for www.STEPBible.org by Tyndale by [Tyndale House Cambridge](www.tyndale.cam.ac.uk)   
+Data created for www.STEPBible.org by [Tyndale House Cambridge](www.tyndale.cam.ac.uk)   
 (CC BY-NC-ND 4.0 with additional specified relaxations)
 
 # This licence allows...
@@ -39,7 +39,7 @@ Based on Westminster with corrections from BHS (when it is correct) and from Tyn
 * **TANTT - Tyndale Amalgamated NT Tagged texts**     
 A single NT Greek Text with all variants amalgamated from the major editions (SBLGNT, Treg, TR, Byz, WH, NA) based on SBLGNT+variants. Merged with 1st 4 centuries of MSS (from Bunning). One line per accented word form, each marked with the editions+MSS that include this form, so that deleting all other lines creates any of the individual texts with the option of including all variants. Each line is tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) and context sensitive glosses.     
 
-* **[TOTGT - Tyndale OT Greek Tagged text](https://github.com/tyndale/STEPBible-Data)**   
+* **TOTGT - Tyndale OT Greek Tagged text**   
 LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
 
 * **[TBESH - Tyndale Brief lexicon of Extended Strongs for Hebrew](https://github.com/tyndale/STEPBible-Data)**     
