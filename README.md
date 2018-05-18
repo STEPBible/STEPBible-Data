@@ -17,7 +17,7 @@ This public licence allows you to:
 And you should:   
 * **Credit it** to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com,  
   and to "STEP Bible" linked to www.STEPBible.org    
-  and refer to the source as github.com/tyndale/STEPBible-Data
+  and refer to the source as tyndale.github.io/STEPBible-Data/
 
 # Tyndale House is...  
 Tyndale House is an international Biblical Research Institute. About 50 scholars at a time work there, often from more than a dozen countries. Most work on private research, and some work on special projects for Tyndale House, such as this one.   
