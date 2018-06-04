@@ -1,4 +1,5 @@
 ﻿TBESH - Tyndale Brief lexicon of Extended Strongs for Hebrew - TyndaleHouse.com STEPBible.org CC BY-NC-ND.txt
+TFBDB - Tyndale Formatted full BDB lexicon - TyndaleHouse.com STEPBible.org CC BY-NC-ND.txt
 
 Extended Strongs for Hebrew is backward compatible with original Strong and extended to include all entries in BDB (compatible with OpenScriptures) and all prefixes, suffixes, personal pronoun endings and punctuation (as tagged in Tyndale House texts) 
 The Brief lexicon is based on Abridged BDB by Online Bible, and edited to conform with the extended Strongs. This is provided  for guidence only. Permission should be gained from Online Bible before these definitions are applied in any project. 
@@ -17,7 +18,8 @@ This licence allows you to:
 * Refer others to this repository as the source of the data. Please do not redistribute it yourself. 
   (Updates or corrections are easier to implement when the data is distributed from a single source)
 And you should:
-* Credit it to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, and to "STEP Bible" linked to www.STEPBible.org and to its source at https://github.com/tyndale/STEPBible-Data
+* Credit it to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, and to "STEP Bible" linked to www.STEPBible.org
+* Link to its source at https://tyndale.github.io/STEPBible-Data/
 If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
 ==============================================================
 
@@ -581,7 +583,7 @@ H0503	אָלַף	H:V	to produce thousands	v<br>1) (CLBL) to make thousand-fold, 
 H0504	אֶ֫לֶף	H:N-M	cattle	1) cattle, oxen<br>1a) in farming<br>1b) as a possession<br>	
 H0505	אֶ֫לֶף	H:N-M	thousand	1) a thousand<br>1a) as numeral<br>2) a thousand, company<br>2a) as a company of men under one leader, troops<br>	
 H0506	אֲלַ֑ף	A:N-M	thousand	1) a thousand, 1000<br>	
-H0507	אֶ֫לֶף	N:N--L	Haeleph	Eleph = "thousand"<br>1) a city in the territory of Benjamin<br>	
+H0507	הָאֶ֫לֶף	N:N--L	Haeleph	Eleph = "thousand"<br>1) a city in the territory of Benjamin<br>	
 H0508	אֶלְפַּ֫עַל	N:N-M-P	Elpaal	Elpaal = "God is maker"<br>1) a Benjamite<br>	
 H0509	אָלַץ	H:V	to urge	1) (Piel) to urge<br>	
 H0510	אַלְקוּם	H:N-M	army	1) (TWOT) (neg adv) no, not, nor, neither<br>2) (BDB) band of soldiers<br>3) (CLBL) no rebellion, no uprising (lit.)<br>	
@@ -2454,7 +2456,8 @@ H2282	חַג	H:N-M	feast	1) festival, feast, festival-gathering, pilgrim-feast<b
 H2283	חָגָּא	H:N-F	terror	1) terror, a reeling (in terror)<br>	
 H2284	חָגָב	H:N-M	locust	1) locust, grasshopper<br>	
 H2285	חָגָב	N:N-M-P	Hagab	Hagab = "locust"<br>1) head of a family of exiles who returned with Zerubbabel<br>	
-H2286	חֲגָבָה	N:N-M-P	Hagaba	Hagaba or Hagabah = "locust"<br>1) head of a family of exiles who returned with Zerubbabel<br>	
+H2286a	חֲגָבָא	N:N-M-P	Hagaba	Hagaba or Hagabah = "locust"<br>1) head of a family of exiles who returned with Zerubbabel<br>	
+H2286b	חֲגָבָה	N:N-M-P	Hagaba	Hagaba or Hagabah = "locust"<br>1) head of a family of exiles who returned with Zerubbabel<br>	
 H2287	חָגַג	H:V	to celebrate	1) to hold a feast, hold a festival, make pilgrimage, keep a pilgrim-feast, celebrate, dance, stagger<br>1a) (Qal)<br>1a1) to keep a pilgrim-feast<br>1a2) to reel<br>	
 H2288	חֲגָוִים	H:N-M	cleft	1) clefts, places of concealment, retreats<br>	
 H2289	חָגוֹר	H:A-M	blelted	1) clothed, girded, girt<br>	
@@ -4033,7 +4036,7 @@ H3753	כִּרְכָּרָה	H:N-F	dromedary	1) dromedary, dromedary camel, beas
 H3754	כֶּרֶם	H:N-M	vineyard	1) vineyard<br>	
 H3755	כָּרַם	H:V	to tend vineyards	1) to tend vines or vineyards, to dress vines or vineyards<br>1a) (Qal) vinedressers (participle)<br>	
 H3756	כַּרְמִי	N:N-M-P	Carmi	Carmi = "my vineyard"<br>1) the 4th son of Reuben and progenitor of the Carmites<br>2) a Judaite, father of Achan, the 'troubler of Israel' in the time of Joshua<br>	
-H3756	כַּרְמִי	N:N-M-P	Carmite	Carmi = "my vineyard"<br>1) the Carmites descended from the 4th son of Reuben 	
+H3757	כַּרְמִי	N:N-M-P	Carmite	Carmi = "my vineyard"<br>1) the Carmites descended from the 4th son of Reuben 	
 H3758	כַּרְמִיל	H:N-M	crimson	1) crimson, red, carmine<br>	
 H3759	כַּרְמֶל	H:N-M	plantation	1) plantation, garden-land, orchard, fruit orchard<br>2) fruit, garden-growth (meton)<br>	
 H3760	כַּרְמֶל	N:N--L	Carmel	Carmel = "garden-land"<br>1) a mountain on the Mediterranean coast of northern Israel, just below Haifa<br>2) a town in the mountains on the west side of the Dead Sea and south of Hebron<br>	
@@ -7528,7 +7531,7 @@ H6972	קיץ	H:V	to summer	1) (Qal) to spend the summer<br>
 H6973	קוּץ	H:V	to loathe	1) to be grieved, loathe, abhor, feel a loathing or abhorrence or sickening dread<br>1a) (Qal)<br>1a1) to feel a loathing at, abhor<br>1a2) to feel a sickening dread<br>1b) (Hiphil)<br>1b1) to cause sickening dread<br>1b2) to cause loathing<br>	
 H6974	קִיץ	H:V	to awake	1) to awake, wake up<br>1a) (Hiphil) to awaken, arouse, show signs of waking, awake<br>	
 H6975	קוֹץ	H:N-M	thorn	1) thorn, thornbush<br>1a) thornbush<br>1b) thorn<br>	
-H6976	קוֹץ	N:N-M-P	Hakkoz	Koz = "thorn"<br>1) a descendant of Judah<br>2) a priest who returned from exile with Zerubbabel<br>	
+H6976	הַקוֹץ	N:N-M-P	Hakkoz	Koz = "thorn"<br>1) a descendant of Judah<br>2) a priest who returned from exile with Zerubbabel<br>	
 H6977	קְוֻצּוֹת	H:N-F	lock	1) lock, locks of hair<br>	
 H6978	קַוְקָו	H:N-M	might	1) might<br>	
 H6979a	קוּר	H:V	to dig	1) (Qal) to bore, dig, dig for water<br>	
