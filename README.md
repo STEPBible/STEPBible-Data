@@ -37,7 +37,7 @@ Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for 
 * **[TOTHT - Tyndale OT Hebrew Tagged text](https://github.com/tyndale/STEPBible-Data)**        
 The Leningrad codex based on Westminster with corrections from BHS (when it is correct) and from Tyndale scholars (when other two are wrong).  Variants, including ketive and qere readings, Ben Chiyim, Massorah Itture & Tiqqune Sopherim, and Aleppo, are being added. All stems and affixes are tagged with extended Strongs to BDB, with context-sensitive meanings, and ETCBC morphology.
 
-* **TANTT - Tyndale Amalgamated NT Tagged texts**     
+* **[TANTT - Tyndale Amalgamated NT Tagged texts](https://github.com/tyndale/STEPBible-Data)**      
 Greek text created from the SBLGNT, following the decisions made by NA, listing the major editions that also use that form (SBL, Treg, TR, Byz, WH, NA28). Variants are being added from major editions plus the 1st 4 centuries of MSS (from Bunning). All words are tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) plus context-sensitive meanings for words with more than one meaning.     
 
 * **TOTGT - Tyndale OT Greek Tagged text**   
