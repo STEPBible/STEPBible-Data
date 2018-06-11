@@ -273,7 +273,7 @@ $==========
 Abimelech@Jdg.8.31	Male living at the time of Israel before the monarchy	Gideon@Jdg.6.11 + 	Jether@Jdg.8.20, Jotham@Jdg.9.5		
 	Abimelech@Jdg.8.31	H0040=אֲבִימֶ֫לֶךְ	Abimelech (NIV= Abimelek)	Jdg.8.31; Jdg.9.1; Jdg.9.3; Jdg.9.4; Jdg.9.6; Jdg.9.16; Jdg.9.18; Jdg.9.19; Jdg.9.20a; Jdg.9.20b; Jdg.9.21; Jdg.9.22; Jdg.9.23a; Jdg.9.23b; Jdg.9.24; Jdg.9.25; Jdg.9.27; Jdg.9.28; Jdg.9.29a; Jdg.9.29b; Jdg.9.31; Jdg.9.34; Jdg.9.35; Jdg.9.38; Jdg.9.39; Jdg.9.40; Jdg.9.41; Jdg.9.42; Jdg.9.44; Jdg.9.45; Jdg.9.47; Jdg.9.48a; Jdg.9.48b; Jdg.9.49; Jdg.9.50; Jdg.9.52; Jdg.9.53; Jdg.9.55; Jdg.9.56; Jdg.10.1; 2Sa.11.21; 
 $==========
-Abinadab@1Sa.14.49	Male living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ishbosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8		
+Abinadab@1Sa.14.49	Male living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8		
 	Abinadab@1Sa.14.49	H0041=אֲבִינָדָב	Abinadab	1Sa.31.2; 1Ch.8.33; 1Ch.9.39; 1Ch.10.2; 
 	Ishvi|Abinadab@1Sa.14.49	H3440=יִשְׁוִי	Ishvi (KJV= Ishui)	1Sa.14.49; 
 $==========
@@ -314,7 +314,7 @@ $==========
 Abitub@1Ch.8.11	Male living at the time of Divided monarchy	Shaharaim@1Ch.8.8 + Hushim@1Ch.8.8	Jobab@1Ch.8.9, Zibia@1Ch.8.9, Mesha@1Ch.8.9, Malcam@1Ch.8.9, Jeuz@1Ch.8.10, Sachia@1Ch.8.10, Mirma@1Ch.8.10, Elpaal@1Ch.8.11		
 	Abitub@1Ch.8.11	H0036=אֲבִיטוּב	Abitub	1Ch.8.11; 
 $==========
-Abiud@Mat.1.13	Male living at the time of Exile and return	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20		Eliakim@Mat.1.13
+Abiud@Mat.1.13	Male living at the time of Exile and return	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20		Eliakim@Mat.1.13
 	Abiud@Mat.1.13	G0010=Ἀβιούδ	Abiud	Mat.1.13a; Mat.1.13b; 
 $==========
 Abner@1Sa.14.50	Male living at the time of United monarchy	Ner@1Sa.14.50 + 			Jaasiel@1Ch.27.21
@@ -353,7 +353,7 @@ Achbor@2Ki.22.12	Male living at the time of Divided monarchy	Micaiah@2Ki.22.12 +
 	Abdon|Achbor@2Ki.22.12	H5658=עַבְדּוֹן	Abdon	2Ch.34.20; 
 	Achbor@2Ki.22.12	H5907=עַכְבּוֹר	Achbor (NIV= Akbor)	2Ki.22.12; 2Ki.22.14; 
 $==========
-Achbor@Gen.36.38	Male living at the time of the first Patriarchs	 + 			Baalhanan@Gen.36.38
+Achbor@Gen.36.38	Male living at the time of the first Patriarchs	 + 			Baal-hanan@Gen.36.38
 	Achbor@Gen.36.38	H5907=עַכְבּוֹר	Achbor (NIV= Akbor)	Gen.36.38; Gen.36.39; 1Ch.1.49; 
 $==========
 Achbor@Jer.26.22	Male living at the time of Divided monarchy	 + 			Elnathan@Jer.26.22
@@ -1028,7 +1028,7 @@ Ammon@Deu.2.19	Place	Ammon	31.95018855468469,35.92413135872749
 	Ham|Ammon@Deu.2.19	H1990=הָ֑ם	Ham	Gen.14.5; 
 	Rabbah|Ammon@Deu.2.19	H7237=רַבָּה	Rabbah	Deu.3.11; Jos.13.25; Jos.15.60; 2Sa.11.1; 2Sa.12.26; 2Sa.12.27; 2Sa.12.29; 2Sa.17.27; 1Ch.20.1a; 1Ch.20.1b; Jer.49.2; Jer.49.3; Ezk.21.20; Ezk.25.5; Amo.1.14; 
 $==========
-Amnon@1Ch.4.20	Male living at the time of Divided monarchy	Shimon@1Ch.4.20 + 	Rinnah@1Ch.4.20, Benhanan@1Ch.4.20, Tilon@1Ch.4.20		
+Amnon@1Ch.4.20	Male living at the time of Divided monarchy	Shimon@1Ch.4.20 + 	Rinnah@1Ch.4.20, Ben-hanan@1Ch.4.20, Tilon@1Ch.4.20		
 	Amnon@1Ch.4.20	H0550=אַמְנוֹן	Amnon	1Ch.4.20; 
 $==========
 Amnon@2Sa.3.2	Male living at the time of United monarchy	David@Rut.4.17 + Ahinoam@1Sa.25.43	Chileab@2Sa.3.3, Absalom@2Sa.3.3, Adonijah@2Sa.3.4, Shephatiah@2Sa.3.4, Ithream@2Sa.3.5, Shammua@2Sa.5.14, Shobab@2Sa.5.14, Nathan@2Sa.5.14, Solomon@2Sa.5.14, Ibhar@2Sa.5.15, Elishua@2Sa.5.15, Nepheg@2Sa.5.15, Japhia@2Sa.5.15, Elishama@2Sa.5.16, Eliada@2Sa.5.16, Eliphelet@2Sa.5.16, Tamar@2Sa.13.1, Eliphelet@1Ch.3.6, Nogah@1Ch.3.7, Jerimoth@2Ch.11.18		
@@ -1152,7 +1152,7 @@ $==========
 Andronicus@Rom.16.7	Male living at the time of the New Testament 	 + 			
 	Andronicus@Rom.16.7	G0408=Ἀνδρόνικος	Andronicus	Rom.16.7; 
 $==========
-Aner@Gen.14.13	Male living at the time of the first Patriarchs	father_of_Mamre_and_Eshcol_and_Aner@Gen.14.13 + 	Mamre@Gen.14.13, Eshcol@Gen.14.13		
+Aner@Gen.14.13	Male living at the time of the first Patriarchs	father_of_Mamre@Gen.14.13 + 	Mamre@Gen.14.13, Aner@Gen.14.13		
 	Aner@Gen.14.13	H6063=עָנֵר	Aner	Gen.14.13; Gen.14.24; 
 $==========
 Angle@2Ch.26.9	Place	Angle	31.777444,35.234935 = In Jerusalem
@@ -1251,7 +1251,7 @@ Arabia@2Sa.23.35	Place	Arabia	27.4,37.7
 	Arabia@2Sa.23.35	H6163b=עַרְבִי	Arab	Neh.2.19; Neh.4.7; Neh.6.1; 
 	Arabia@2Sa.23.35	H6163b=עַרְבִי	Arabian	2Ch.17.11; 2Ch.21.16; 2Ch.22.1; 2Ch.26.7; 
 	Arbite|Arabia@2Sa.23.35	H0701=אַרְבִּי	Arbite	2Sa.23.35; 
-	Arabia@2Sa.23.359	H6163b=עַרְבִי	Arab	Neh.2.1; 
+	Arabia@2Sa.23.35	H6163b=עַרְבִי	Arab	Neh.2.1; 
 $==========
 Arad@1Ch.8.15	Male living at the time of Egypt and Wilderness	Beriah@1Ch.8.13 + 	Ahio@1Ch.8.14, Shashak@1Ch.8.14, Jeremoth@1Ch.8.14, Zebadiah@1Ch.8.15, Eder@1Ch.8.15, Michael@1Ch.8.16, Ishpah@1Ch.8.16, Joha@1Ch.8.16		
 	Arad@1Ch.8.15	H6166b=עֲרָד	Arad	1Ch.8.15; 
@@ -1368,7 +1368,7 @@ $==========
 Arkite@Gen.10.17	People descended from Arak?	Canaan@Gen.9.18 + 	Sidon@Gen.10.15, Heth@Gen.10.15, Jebusite@Gen.10.16, Amorite@Gen.10.16, Girgasite@Gen.10.16, Hivite@Gen.10.17, Sinite@Gen.10.17, Arvadite@Gen.10.18, Zemarite@Gen.10.18, Hamathite@Gen.10.18		
 	Arkite@Gen.10.17	H6208=עַרְקִי	Arkite	Gen.10.17; 1Ch.1.15; 
 $==========
-Armoni@2Sa.21.8	Male living at the time of United monarchy	Saul@1Sa.9.2 + Rizpah@2Sa.3.7	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ishbosheth@2Sa.2.8, Mephibosheth@2Sa.21.8		
+Armoni@2Sa.21.8	Male living at the time of United monarchy	Saul@1Sa.9.2 + Rizpah@2Sa.3.7	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Mephibosheth@2Sa.21.8		
 	Armoni@2Sa.21.8	H0764=אַרְמֹנִי	Armoni	2Sa.21.8; 
 $==========
 Arnan@1Ch.3.21	Male living at the time of Divided monarchy	Hananiah@1Ch.3.19 + 	Pelatiah@1Ch.3.21, Jeshaiah@1Ch.3.21, Rephaiah@1Ch.3.21, Obadiah@1Ch.3.21, Shecaniah@1Ch.3.21		
@@ -2063,6 +2063,7 @@ $==========
 Barak@Jdg.4.6	Male living at the time of Israel before the monarchy	Abinoam@Jdg.4.6 + 			
 	Barak@Jdg.4.6	G0913=Βαράκ	Barak	Heb.11.32; 
 	Barak@Jdg.4.6	H1301=בָּרָק	Barak	Jdg.4.6; Jdg.4.8; Jdg.4.9; Jdg.4.10; Jdg.4.12; Jdg.4.14a; Jdg.4.14b; Jdg.4.15; Jdg.4.16; Jdg.4.22; Jdg.5.1; Jdg.5.12; Jdg.5.15; 
+	Barak@Jdg.4.6	H0917=בְּדָן	Barak (KJV= Bedan)	1Sa.12.11; 
 $==========
 Bariah@1Ch.3.22	Male living at the time of Divided monarchy	Shemaiah@1Ch.3.22 + 	Hattush@1Ch.3.22, Igal@1Ch.3.22, Neariah@1Ch.3.22, Shaphat@1Ch.3.22		
 	Bariah@1Ch.3.22	H1282=בָּרִיחַ	Bariah	1Ch.3.22; 
@@ -2090,7 +2091,7 @@ $==========
 Baruch@Neh.10.6	Male living at the time of Exile and return	 + 			
 	Baruch@Neh.10.6	H1263=בָּרוּךְ	Baruch	Neh.10.6; 
 $==========
-Baruch@Neh.11.5	Male living at the time of Exile and return	Colhozeh@Neh.11.5 + 			Maaseiah@Neh.11.5
+Baruch@Neh.11.5	Male living at the time of Exile and return	Col-hozeh@Neh.11.5 + 			Maaseiah@Neh.11.5
 	Baruch@Neh.11.5	H1263=בָּרוּךְ	Baruch	Neh.11.5; 
 $==========
 Baruch@Neh.3.20	Male living at the time of Exile and return	Zabbai@Neh.3.20 + 			
@@ -2159,9 +2160,6 @@ Bedad@Gen.36.35	Male living at the time of the first Patriarchs	 + 			Hadad@Gen.
 $==========
 Bedan@1Ch.7.17	Male living at the time of Divided monarchy	Ulam@1Ch.7.16 + 			
 	Bedan@1Ch.7.17	H0917=בְּדָן	Bedan	1Ch.7.17; 
-$==========
-Bedan@1Sa.12.11	Male living at the time of United monarchy	 + 			
-	Bedan@1Sa.12.11	H0917=בְּדָן	Barak (KJV= Bedan)	1Sa.12.11; 
 $==========
 Bedeiah@Ezr.10.35	Male living at the time of Exile and return	 + 			
 	Bedeiah@Ezr.10.35	H0912=בֵּֽדְיָה	Bedeiah	Ezr.10.35; 
@@ -2265,7 +2263,7 @@ $==========
 Ben-ammi@Gen.19.38	Male living at the time of the first Patriarchs	Lot@Gen.11.27 + daughter__of_Lot@Gen.19.30	daughter__of_Lot@Gen.19.30, daughter__of_Lot@Gen.19.30, Moab@Gen.19.37		
 	Ben-ammi@Gen.19.38	H1151=בֶּן־עַמִּי	Ben-ammi	Gen.19.38; 
 $==========
-Ben-deker@1Ki.4.9	Male living at the time of United monarchy	Dekar@1Ki.4.9 + 			
+Ben-deker@1Ki.4.9	Male living at the time of United monarchy	Deker@1Ki.4.9 + 			
 	Ben-deker@1Ki.4.9	H1128=בֶּן־דֶּ֫קֶר	Ben-deker (KJV= son of Dekar)	1Ki.4.9; 
 $==========
 Bene-berak@Jos.19.45	Place	Bene-berak	32.035782,34.827108
@@ -2360,7 +2358,7 @@ Berea@Act.17.10	Place	Berea	40.5167,22.2
 	Berea@Act.17.10	G0960=Βέροια	Berea	Act.17.10; Act.17.13; 
 	Berea@Act.17.10	G0961=Βεροιαῖος	Berean	Act.20.4; 
 $==========
-Berechiah@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13		
+Berechiah@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13		
 	Berechiah@1Ch.3.20	H1296=בֶּרֶכְיָה	Berechiah	1Ch.3.20; 
 $==========
 Berechiah@1Ch.6.39	Male living at the time of Divided monarchy	Shimea@1Ch.6.39 + 			Asaph@1Ch.6.39
@@ -2780,7 +2778,7 @@ $==========
 Bukki@Num.34.22	Male living at the time of Egypt and Wilderness	Jogli@Num.34.22 + 			
 	Bukki@Num.34.22	H1231=בֻּקִּי	Bukki	Num.34.22; 
 $==========
-Bukkiah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Bukkiah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Bukkiah@1Ch.25.4	H1232=בֻּקִּיָּ֫הוּ	Bukkiah	1Ch.25.4; 1Ch.25.13; 
 $==========
 Bul@1Ki.6.38	Name of month #8				
@@ -3251,10 +3249,10 @@ $==========
 Dathan@Num.16.1	Male living at the time of Egypt and Wilderness	Eliab@Num.16.1 + 	Abiram@Num.16.1, Nemuel@Num.26.9		
 	Dathan@Num.16.1	H1885=דָּתָן	Dathan	Num.16.1; Num.16.12; Num.16.24; Num.16.25; Num.16.27a; Num.16.27b; Num.26.9a; Num.26.9b; Deu.11.6; Psa.106.17; 
 $==========
-daughter__of_Lot@Gen.19.30	Female living at the time of the first Patriarchs - unnamed older daughter of Lot	Lot@Gen.11.27 + 	daughter__of_Lot@Gen.19.30, Moab@Gen.19.37, Benammi@Gen.19.38		Moab@Gen.19.37
+daughter__of_Lot@Gen.19.30	Female living at the time of the first Patriarchs - unnamed older daughter of Lot	Lot@Gen.11.27 + 	daughter__of_Lot@Gen.19.30, Moab@Gen.19.37, Ben-ammi@Gen.19.38		Moab@Gen.19.37
 	daughter__of_Lot@Gen.19.30	[ ]	[ ]	[ ]	[ ]: Gen.19.30; 
 $==========
-daughter__of_Lot@Gen.19.30	Female living at the time of the first Patriarchs - unnamed younger daughter of Lot	Lot@Gen.11.27 + 	daughter__of_Lot@Gen.19.30, Moab@Gen.19.37, Benammi@Gen.19.38		Benammi@Gen.19.38
+daughter__of_Lot@Gen.19.30	Female living at the time of the first Patriarchs - unnamed younger daughter of Lot	Lot@Gen.11.27 + 	daughter__of_Lot@Gen.19.30, Moab@Gen.19.37, Ben-ammi@Gen.19.38		Ben-ammi@Gen.19.38
 	daughter__of_Lot@Gen.19.30	[ ]	[ ]	[ ]	[ ]: Gen.19.30
 $==========
 daughter_of_Herodias@Mat.14.6	Female living at the time of New Testament - unnamed daughter of Herodias	 + Herodias@Mat.14.3			
@@ -3815,7 +3813,7 @@ $==========
 Eliashib@Neh.3.1	Male living at the time of Exile and return	 + 			
 	Eliashib@Neh.3.1	H0475=אֶלְיָשִׁיב	Eliashib	Neh.3.1; Neh.3.20; Neh.3.21a; Neh.3.21b 
 $==========
-Eliathah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Eliathah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Eliathah@1Ch.25.4	H0448=אֳלִיאָ֫תָה	Eliathah	1Ch.25.4; 1Ch.25.27; 
 $==========
 Elidad@Num.34.21	Male living at the time of Egypt and Wilderness	Chislon@Num.34.21 + 			
@@ -4335,7 +4333,7 @@ $==========
 Eshtemoa@1Ch.4.17	Male living at the time of Divided monarchy	Mered@1Ch.4.17 + Hodiah@1Ch.4.19	Miriam@1Ch.4.17, Shammai@1Ch.4.17, Ishbah@1Ch.4.17, Garmite@1Ch.4.19		
 	Eshtemoa@1Ch.4.17	H0851=אֶשְׁתְּמוֹעַ	Eshtemoa	1Ch.4.17; 1Ch.4.19; 
 $==========
-Eshton@1Ch.4.11	Male living at the time of Divided monarchy	Mehir@1Ch.4.11 + 			Bethrapha@1Ch.4.12, Paseah@1Ch.4.12, Tehinnah@1Ch.4.12
+Eshton@1Ch.4.11	Male living at the time of Divided monarchy	Mehir@1Ch.4.11 + 			Beth-rapha@1Ch.4.12, Paseah@1Ch.4.12, Tehinnah@1Ch.4.12
 	Eshton@1Ch.4.11	H0850=אֶשְׁתּוֹן	Eshton	1Ch.4.11; 1Ch.4.12; 
 $==========
 Esli@Luk.3.25	Male living at the time ofExile and return	Naggai@Luk.3.25 + 			Nahum@Luk.3.25
@@ -4840,7 +4838,7 @@ $==========
 Giah@2Sa.2.24	Place	Giah	31.869005,35.343177 = Near Ammah
 	Giah@2Sa.2.24	H1520=גִּיחַ	Giah	2Sa.2.24; 
 $==========
-giant_of_Gath@2Sa.21.16	Male living at the time of United monarchy	 + 			Goliath@1Sa.17.4, Ishbibenob@2Sa.21.16, Saph@2Sa.21.18, Lahmi@2Sa.21.19, huge_man@2Sa.21.20
+giant_of_Gath@2Sa.21.16	Male living at the time of United monarchy	 + 			Goliath@1Sa.17.4, Ishbi-benob@2Sa.21.16, Saph@2Sa.21.18, Lahmi@2Sa.21.19, huge_man@2Sa.21.20
 	giant_of_Gath@2Sa.21.16	H7497a=רָפָה	giant (NIV= Rapha)	2Sa.21.16; 2Sa.21.18; 2Sa.21.20; 2Sa.21.22; 1Ch.20.6; 1Ch.20.8; 
 	giant_of_Gath@2Sa.21.16	H7497b=רְפָאִים	giant (NIV= Rephaite)	1Ch.20.4; 
 $==========
@@ -4871,7 +4869,7 @@ Gibeon@Jos.9.3	Place	Gibeon	31.84684772753698,35.18491237777512
 	Gibeon@Jos.9.3	H1393=גִּבְעֹנִי	Gibeon	1Ch.12.4; 
 	Gibeon@Jos.9.3	H1393=גִּבְעֹנִי	Gibeonite	2Sa.21.1; 2Sa.21.2a; 2Sa.21.2b; 2Sa.21.3; 2Sa.21.4; 2Sa.21.9; Neh.3.7; 
 $==========
-Giddalti@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Giddalti@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Giddalti@1Ch.25.4	H1437=גִּדַּלְתִּי	Giddalti	1Ch.25.4; 1Ch.25.29; 
 $==========
 Giddel@Ezr.2.47	Male living at the time of Exile and return	 + 			
@@ -5002,13 +5000,13 @@ Golgotha@Mat.27.33	Place	Golgotha	31.777444,35.234935 = Near Jerusalem
 	Golgotha@Mat.27.33	G1115=Γολγοθᾶ	Golgotha	Mat.27.33; Mrk.15.22; Jhn.19.17; 
 	Skull|Golgotha@Mat.27.33	G2898=κρανίον	Skull (KJV= Calvary)	Luk.23.33; Jhn.19.17; 
 $==========
-Goliath@1Sa.17.4	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Ishbibenob@2Sa.21.16, Saph@2Sa.21.18, Lahmi@2Sa.21.19, huge_man@2Sa.21.20		
+Goliath@1Sa.17.4	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Ishbi-benob@2Sa.21.16, Saph@2Sa.21.18, Lahmi@2Sa.21.19, huge_man@2Sa.21.20		
 	Goliath@1Sa.17.4	H1555=גׇּלְיַת	Goliath	1Sa.17.4; 1Sa.17.23; 1Sa.21.9; 1Sa.22.10; 2Sa.21.19; 1Ch.20.5; 
 $==========
 Gomer@Gen.10.2	Male living at the time of the first Patriarchs 	Japheth@Gen.5.32 + 	Magog@Gen.10.2, Madai@Gen.10.2, Javan@Gen.10.2, Tubal@Gen.10.2, Meshech@Gen.10.2, Tiras@Gen.10.2		Ashkenaz@Gen.10.3, Riphath@Gen.10.3, Togarmah@Gen.10.3
 	Gomer@Gen.10.2	H1586=גֹּ֫מֶר	Gomer	Gen.10.2; Gen.10.3; 1Ch.1.5; 1Ch.1.6; Ezk.38.6; 
 $==========
-Gomer@Hos.1.3	Female living at the time of Divided monarchy	Diblaim@Hos.1.3 + 		Hosea@Hos.1.1	Jezreel@Hos.1.4, Loruhamah@Hos.1.6, Loammi@Hos.1.9
+Gomer@Hos.1.3	Female living at the time of Divided monarchy	Diblaim@Hos.1.3 + 		Hosea@Hos.1.1	Jezreel@Hos.1.4, Lo-ruhamah@Hos.1.6, Lo-ammi@Hos.1.9
 	Gomer@Hos.1.3	H1586=גֹּ֫מֶר	Gomer	Hos.1.3; 
 $==========
 Gomorrah@Gen.10.19	Place	Gomorrah	31.15724866533878,35.4739543300078
@@ -5111,7 +5109,7 @@ Hadrach@Zec.9.1	Place	Hadrach	33.519299,36.31344999999999 = Near Damascus
 	Hadrach@Zec.9.1	H2317=חַדְרָ֔ךְ	Hadrach (NIV= Hadrak)	Zec.9.1; 
 $==========
 Haeleph@Jos.18.28	Place	Haeleph	31.792733,35.196862
-	Haeleph@Jos.18.28	H0507=אֶ֫לֶף	Haeleph	Jos.18.28; 
+	Haeleph@Jos.18.28	H0507=הָאֶ֫לֶף	Haeleph (KJV= Eleph)	Jos.18.28; 
 $==========
 Hagab@Ezr.2.46	Male living at the time of Exile and return	 + 			
 	Hagab@Ezr.2.46	H2285=חָגָב	Hagab	Ezr.2.46; 
@@ -5149,13 +5147,13 @@ Hakkatan@Ezr.8.12	Male living at the time of Exile and return	 + 			Johanan@Ezr.
 	Hakkatan@Ezr.8.12	H6997=קָטָן	Hakkatan	Ezr.8.12; 
 $==========
 Hakkoz@1Ch.24.10	Male living at the time of Divided monarchy	 + 			
-	Hakkoz@1Ch.24.10	H6976=קוֹץ	Hakkoz	1Ch.24.10; 
+	Hakkoz@1Ch.24.10	H6976=הַקוֹץ	Hakkoz	1Ch.24.10; 
 $==========
 Hakkoz@Ezr.2.61	Male living at the time of Exile and return	 + 			
-	Hakkoz@Ezr.2.61	H6976=קוֹץ	Hakkoz (KJV= Koz)	Ezr.2.61; Neh.7.63; 
+	Hakkoz@Ezr.2.61	H6976=הַקוֹץ	Hakkoz (KJV= Koz)	Ezr.2.61; Neh.7.63; 
 $==========
 Hakkoz@Neh.3.4	Male living at the time of Exile and return	 + 			Uriah@Ezr.8.33
-	Hakkoz@Neh.3.4	H6976=קוֹץ	Hakkoz (KJV= Koz)	Neh.3.4; Neh.3.21; 
+	Hakkoz@Neh.3.4	H6976=הַקוֹץ	Hakkoz (KJV= Koz)	Neh.3.4; Neh.3.21; 
 $==========
 Hakupha@Ezr.2.51	Male living at the time of Exile and return	 + 			
 	Hakupha@Ezr.2.51	H2709=חֲקוּפָא	Hakupha	Ezr.2.51; Neh.7.53; 
@@ -5270,7 +5268,7 @@ $==========
 Hanan@Neh.8.7	Male living at the time of Exile and return	 + 			
 	Hanan@Neh.8.7	H2605=חָנָן	Hanan	Neh.8.7; Neh.10.10; 
 $==========
-Hanani@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Hanani@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Hanani@1Ch.25.4	H2607=חֲנָנִי	Hanani	1Ch.25.4; 1Ch.25.25; 
 $==========
 Hanani@1Ki.16.1	Male living at the time of Divided monarchy	 + 			Jehu@1Ki.16.1
@@ -5285,10 +5283,10 @@ $==========
 Hanani@Neh.12.36	Male living at the time of Exile and return	Jonathan@Neh.12.35 + 	Zechariah@Neh.12.35, Shemaiah@Neh.12.36, Azarel@Neh.12.36, Milalai@Neh.12.36, Gilalai@Neh.12.36, Maai@Neh.12.36, Nethanel@Neh.12.36, Judah@Neh.12.36		
 	Hanani@Neh.12.36	H2607=חֲנָנִי	Hanani	Neh.12.36; 
 $==========
-Hananiah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Hananiah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Hananiah@1Ch.25.4	H2608a=חֲנַנְיָ֫הוּ	Hananiah	1Ch.25.4; 1Ch.25.23; 
 $==========
-Hananiah@1Ch.3.19	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13		Pelatiah@1Ch.3.21, Jeshaiah@1Ch.3.21, Rephaiah@1Ch.3.21, Arnan@1Ch.3.21, Obadiah@1Ch.3.21, Shecaniah@1Ch.3.21
+Hananiah@1Ch.3.19	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13		Pelatiah@1Ch.3.21, Jeshaiah@1Ch.3.21, Rephaiah@1Ch.3.21, Arnan@1Ch.3.21, Obadiah@1Ch.3.21, Shecaniah@1Ch.3.21
 	Hananiah@1Ch.3.19	H2608a=חֲנַנְיָ֫הוּ	Hananiah	1Ch.3.19; 1Ch.3.21; 
 $==========
 Hananiah@1Ch.8.24	Male living at the time of Divided monarchy	Shashak@1Ch.8.14 + 	Ishpan@1Ch.8.22, Eber@1Ch.8.22, Eliel@1Ch.8.22, Abdon@1Ch.8.23, Zichri@1Ch.8.23, Hanan@1Ch.8.23, Elam@1Ch.8.24, Anthothijah@1Ch.8.24, Iphdeiah@1Ch.8.25, Penuel@1Ch.8.25		
@@ -5387,7 +5385,8 @@ Haran@Gen.11.31	Place	Haran	36.86386407659651,39.03219672227345
 	Haran@Gen.11.31	H2771a=חָרָן	Haran (NIV= Harran)	Gen.11.31; Gen.11.32; Gen.12.4; Gen.12.5; Gen.27.43; Gen.28.10; Gen.29.4; 2Ki.19.12; Isa.37.12; Ezk.27.23; 
 $==========
 Hararite@2Sa.23.11	People descended from Harar or Harod (cf. 2Sa.23.11, 25)				
-	Hararite@2Sa.23.11	H2043=הֲרָרִי	Hararite	2Sa.23.11; 2Sa.23.33a; 2Sa.23.33b; 1Ch.11.34; 1Ch.11.35; 
+	Hararite@2Sa.23.11	H2043=הֲרָרִי	Hararite	2Sa.23.11; 2Sa.23.33a; 1Ch.11.34; 1Ch.11.35; 
+	Hararite@2Sa.23.11	H2043=ארָרִֽי	Hararite	2Sa.23.33b; 
 $==========
 Harbona@Est.1.10	Male living at the time of Exile and return	 + 			
 	Harbona@Est.1.10	H2726=חַרְבוֹנָא	Harbona	Est.1.10; 
@@ -5456,7 +5455,7 @@ $==========
 Haruz@2Ki.21.19	Male living at the time of Divided monarchy	 + 			Meshullemeth@2Ki.21.19
 	Haruz@2Ki.21.19	H2743=חָרוּץ	Haruz	2Ki.21.19; 
 $==========
-Hasadiah@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13		
+Hasadiah@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13		
 	Hasadiah@1Ch.3.20	H2619=חֲסַדְיָה	Hasadiah	1Ch.3.20; 
 $==========
 Hashabiah@1Ch.25.3	Male living at the time of Divided monarchy	Jeduthun@1Ch.6.44 + 	Obed-edom@2Sa.6.10, Mattithiah@1Ch.15.18, Gedaliah@1Ch.25.3, Zeri@1Ch.25.3, Jeshaiah@1Ch.25.3		
@@ -5507,7 +5506,7 @@ $==========
 Hashmonah@Num.33.29	Place	Hashmonah	30.317396,35.407152 = Near Mount Hor_1
 	Hashmonah@Num.33.29	H2832=חַשְׁמֹנָה	Hashmonah	Num.33.29; Num.33.30; 
 $==========
-Hashubah@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13		
+Hashubah@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13		
 	Hashubah@1Ch.3.20	H2807=חֲשֻׁבָה	Hashubah	1Ch.3.20; 
 $==========
 Hashum@Ezr.2.19	Male living at the time of Exile and return	 + 			
@@ -5534,7 +5533,7 @@ $==========
 Hasshub@Neh.10.23	Male living at the time of Exile and return	 + 			
 	Hasshub@Neh.10.23	H2815=חַשּׁוּב	Hasshub (KJV= Hashub)	Neh.10.23; 
 $==========
-Hasshub@Neh.3.11	Male living at the time of Exile and return	Pahathmoab@Neh.3.11 + 			
+Hasshub@Neh.3.11	Male living at the time of Exile and return	Pahath-moab@Neh.3.11 + 			
 	Hasshub@Neh.3.11	H2815=חַשּׁוּב	Hasshub (KJV= Hashub)	Neh.3.11; 
 $==========
 Hasshub@Neh.3.23	Male living at the time of Exile and return	 + 			
@@ -5591,7 +5590,7 @@ $==========
 Hazael@1Ki.19.15	Male living at the time of Divided monarchy	 + 			Ben-hadad@2Ki.13.3
 	Hazael@1Ki.19.15	H2371=חֲזָהאֵל	Hazael	1Ki.19.15; 1Ki.19.17; 2Ki.8.8; 2Ki.8.9; 2Ki.8.12; 2Ki.8.13; 2Ki.8.15; 2Ki.8.28; 2Ki.8.29; 2Ki.9.14; 2Ki.9.15; 2Ki.10.32; 2Ki.12.17a; 2Ki.12.17b; 2Ki.12.18; 2Ki.13.3a; 2Ki.13.3b; 2Ki.13.22; 2Ki.13.24; 2Ki.13.25; 2Ch.22.5; 2Ch.22.6; Amo.1.4; 
 $==========
-Hazaiah@Neh.11.5	Male living at the time of Exile and return	Adaiah@Neh.11.5 + 			Colhozeh@Neh.11.5
+Hazaiah@Neh.11.5	Male living at the time of Exile and return	Adaiah@Neh.11.5 + 			Col-hozeh@Neh.11.5
 	Hazaiah@Neh.11.5	H2382=חֲזָיָה	Hazaiah	Neh.11.5; 
 $==========
 Hazar-addar@Num.34.4	Place	Hazar-addar	30.9522,34.7187 = Near Addar
@@ -5757,7 +5756,7 @@ $==========
 Heman@1Ch.2.6	Male living at the time of the first Patriarchs	Zerah@Gen.38.30 + 	Zabdi@Jos.7.1, Ethan@1Ch.2.6, Calcol@1Ch2.6, Dara@1Ch.2.6		
 	Heman@1Ch.2.6	H1968=הֵימָן	Heman	1Ch.2.6; 
 $==========
-Heman@1Ch.6.33	Male living at the time of Divided monarchy	Joel@1Sa.8.2 + 			Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4
+Heman@1Ch.6.33	Male living at the time of Divided monarchy	Joel@1Sa.8.2 + 			Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4
 	Heman@1Ch.6.33	H1968=הֵימָן	Heman	1Ch.6.33; 1Ch.15.17; 1Ch.15.19; 1Ch.16.41; 1Ch.16.42; 1Ch.25.1; 1Ch.25.4a; 1Ch.25.4b; 1Ch.25.5a; 1Ch.25.5b; 1Ch.25.6; 2Ch.5.12; 2Ch.29.14; 2Ch.35.15; 
 $==========
 Heman@1Ki.4.31	Male living at the time of United monarchy	Mahol@1Ki.4.31 + 	Ethan@1Ki.4.31, Calcol@1Ki.4.31, Darda@1Ki.4.31		
@@ -6077,7 +6076,7 @@ $==========
 Hosanna@Mat.21.9	Name of a chant				
 	Hosanna@Mat.21.9	G5614=ὡσαννά	Hosanna	Mat.21.9a; Mat.21.9b; Mat.21.15; Mrk.11.9; Mrk.11.10; Jhn.12.13; 
 $==========
-Hosea@Hos.1.1	Male living at the time of Divided monarchy	Beeri@Hos.1.1 + 		Gomer@Hos.1.3	Jezreel@Hos.1.4, Loruhamah@Hos.1.6, Loammi@Hos.1.9
+Hosea@Hos.1.1	Male living at the time of Divided monarchy	Beeri@Hos.1.1 + 		Gomer@Hos.1.3	Jezreel@Hos.1.4, Lo-ruhamah@Hos.1.6, Lo-ammi@Hos.1.9
 	Hosea@Hos.1.1	G5617=Ὡσηέ	Hosea	Rom.9.25; 
 	Hosea@Hos.1.1	H1954=הוֹשֵׁעַ	Hosea (KJV= Osee)	Hos.1.1; Hos.1.2a; Hos.1.2b 
 $==========
@@ -6106,7 +6105,7 @@ Hotham@1Ch.7.32	Male living at the time of the first Patriarchs	Heber@Gen.46.17 
 	Helem|Hotham@1Ch.7.32	H1987=הֶ֫לֶם	Helem	1Ch.7.35; 
 	Hotham@1Ch.7.32	H2369=חוֹתָם	Hotham	1Ch.7.32; 
 $==========
-Hothir@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Mahazioth@1Ch.25.4		
+Hothir@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Hothir@1Ch.25.4	H1956=הוֹתִיר	Hothir	1Ch.25.4; 1Ch.25.28; 
 $==========
 House_of_the_Forest@Isa.22.8	Place	House of the Forest	31.777444,35.234935 = In Jerusalem
@@ -6115,7 +6114,7 @@ $==========
 House_of_the_Forest_of_Lebanon@1Ki.7.2	Place	House of the Forest of Lebanon	31.777444,35.234935 = In Jerusalem
 	House_of_the_Forest_of_Lebanon@1Ki.7.2	H1004b=בַּ֫יִת+H3844=לְבָנוֹן	House of the Forest of Lebanon (NIV= Palace of the Forest of Lebanon)	1Ki.7.2; 1Ki.10.17; 1Ki.10.21; 2Ch.9.16; 2Ch.9.20; 
 $==========
-huge_man@2Sa.21.20	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Goliath@1Sa.17.4, Ishbibenob@2Sa.21.16, Saph@2Sa.21.18, Lahmi@2Sa.21.19		
+huge_man@2Sa.21.20	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Goliath@1Sa.17.4, Ishbi-benob@2Sa.21.16, Saph@2Sa.21.18, Lahmi@2Sa.21.19		
 	huge_man@2Sa.21.20	H4060a=מִדָּה	great stature	2Sa.21.20; 1Ch.20.6; 
 $==========
 Hukkok@Jos.19.34	Place	Hukkok	32.882153,35.496694
@@ -6360,7 +6359,7 @@ Isaac@Gen.17.19	Male living at the time of the first Patriarchs	Abraham@Gen.11.2
 	Isaac@Gen.17.19	H3327=יִצְחָק	Isaac	Gen.17.19; Gen.17.21; Gen.21.3; Gen.21.4; Gen.21.5; Gen.21.8; Gen.21.10; Gen.21.12; Gen.22.2; Gen.22.3; Gen.22.6; Gen.22.7; Gen.22.9; Gen.24.4; Gen.24.14; Gen.24.62; Gen.24.63; Gen.24.64; Gen.24.66; Gen.24.67a; Gen.24.67b; Gen.25.5; Gen.25.6; Gen.25.9; Gen.25.11a; Gen.25.11b; Gen.25.19a; Gen.25.19b; Gen.25.20; Gen.25.21; Gen.25.26; Gen.25.28; Gen.26.1; Gen.26.6; Gen.26.8; Gen.26.9a; Gen.26.9b; Gen.26.12; Gen.26.16; Gen.26.17; Gen.26.18; Gen.26.19; Gen.26.20; Gen.26.25; Gen.26.27; Gen.26.31; Gen.26.32; Gen.26.35; Gen.27.1; Gen.27.5; Gen.27.20; Gen.27.21; Gen.27.22; Gen.27.26; Gen.27.30a; Gen.27.30b; Gen.27.32; Gen.27.33; Gen.27.37; Gen.27.39; Gen.27.46; Gen.28.1; Gen.28.5; Gen.28.6; Gen.28.8; Gen.28.13; Gen.31.18; Gen.31.42; Gen.31.53; Gen.32.9; Gen.35.12; Gen.35.27a; Gen.35.27b; Gen.35.28; Gen.35.29; Gen.46.1; Gen.48.15; Gen.48.16; Gen.49.31; Gen.50.24; Exo.2.24; Exo.3.6; Exo.3.15; Exo.3.16; Exo.4.5; Exo.6.3; Exo.6.8; Exo.32.13; Exo.33.1; Lev.26.42; Num.32.11; Deu.1.8; Deu.6.10; Deu.9.5; Deu.9.27; Deu.29.13; Deu.30.20; Deu.34.4; Jos.24.3; Jos.24.4; 1Ki.18.36; 2Ki.13.23; 1Ch.1.28; 1Ch.1.34a; 1Ch.1.34b; 1Ch.16.16; 1Ch.29.18; 2Ch.30.6; 
 	Isaac@Gen.17.19	H3446=יִשְׂחָק	Isaac	Psa.105.9; Jer.33.26; Amo.7.9; Amo.7.16; 
 $==========
-Isaiah@2Ki.19.2	Male living at the time of Divided monarchy	Amoz@2Ki.19.2 + 			Shearjashub@Isa.7.3, Mahershalalhashbaz@Isa.8.1
+Isaiah@2Ki.19.2	Male living at the time of Divided monarchy	Amoz@2Ki.19.2 + 			Shear-jashub@Isa.7.3, Maher-shalal-hash-baz@Isa.8.1
 	Isaiah@2Ki.19.2	G2268=Ἡσαΐας	Isaiah	Mat.3.3; Mat.4.14; Mat.8.17; Mat.12.17; Mat.13.14; Mat.15.7; Mrk.1.2a; Mrk.1.2b; Mrk.7.6; Luk.3.4; Luk.4.17; Jhn.1.23; Jhn.12.38; Jhn.12.39; Jhn.12.41; Act.8.28; Act.8.30; Act.28.25; Rom.9.27; Rom.9.29; Rom.10.16; Rom.10.20; Rom.15.12; 
 	Isaiah@2Ki.19.2	H3470a=יְשַׁעְיָ֫הוּ	Isaiah (KJV= Esaias)	2Ki.19.2; 2Ki.19.5; 2Ki.19.6; 2Ki.19.20; 2Ki.20.1; 2Ki.20.4; 2Ki.20.7; 2Ki.20.8; 2Ki.20.9; 2Ki.20.11; 2Ki.20.14; 2Ki.20.16; 2Ki.20.19; 2Ch.26.22; 2Ch.32.20; 2Ch.32.32; Isa.1.1; Isa.2.1; Isa.7.3; Isa.13.1; Isa.20.2; Isa.20.3; Isa.37.2; Isa.37.5; Isa.37.6; Isa.37.21; Isa.38.1; Isa.38.4; Isa.38.21; Isa.39.3; Isa.39.5; Isa.39.8; 
 $==========
@@ -6601,7 +6600,7 @@ Jaaziel@1Ch.15.18	Male living at the time of Divided monarchy	 +
 	Aziel|Jaaziel@1Ch.15.18	H5815=עֲזִיאֵל	Aziel	1Ch.15.20; 
 	Jaaziel@1Ch.15.18	H3268=יַעֲזִיאֵל	Jaaziel	1Ch.15.18; 
 $==========
-Jabal@Gen.4.20	Male living at the time of the first Patriarchs	Lamech@Gen.4.18 + Adah@Gen.4.19	Jubal@Gen.4.21, Tubalcain@Gen.4.22, Naamah@Gen.4.22		
+Jabal@Gen.4.20	Male living at the time of the first Patriarchs	Lamech@Gen.4.18 + Adah@Gen.4.19	Jubal@Gen.4.21, Tubal-cain@Gen.4.22, Naamah@Gen.4.22		
 	Jabal@Gen.4.20	H2989=יָבָל	Jabal	Gen.4.20; 
 $==========
 Jabbok@Gen.32.22	Place	Jabbok	32.193237,35.676305
@@ -7204,7 +7203,7 @@ $==========
 Jekuthiel@1Ch.4.18	Male living at the time of Divided monarchy	Ishbah@1Ch.4.17 + Jehudijah@1Ch.4.18	Jered@1Ch.4.18, Heber@1Ch.4.18		
 	Jekuthiel@1Ch.4.18	H3354=יְקוּתִיאֵל	Jekuthiel	1Ch.4.18; 
 $==========
-Jemima@Job.42.14	Female living at the time of the first Patriarchs	Job@Job.1.1 + 	Kezia@Job.42.14, Kerenhappuch@Job.42.14		
+Jemima@Job.42.14	Female living at the time of the first Patriarchs	Job@Job.1.1 + 	Kezia@Job.42.14, Keren-happuch@Job.42.14		
 	Jemima@Job.42.14	H3224=יְמִימָה	Jemimah (KJV= Jemima)	Job.42.14; 
 $==========
 Jemuel@Gen.46.10	Male living at the time of the first Patriarchs	Simeon@Gen.29.33 + 	Jamin@Gen.46.10, Ohad@Gen.46.10, Jachin@Gen.46.10, Zohar@Gen.46.10, Shaul@Gen.46.10		
@@ -7310,7 +7309,7 @@ Jerimoth@1Ch.23.23	Male living at the time of Egypt and Wilderness	Mushi@Exo.6.1
 	Jerimoth@1Ch.23.23	H3406=יְרֵמוֹת, יְרִימוֹת	Jeremoth (NIV= Jerimoth)	1Ch.23.23; 
 	Jerimoth@1Ch.23.23	H3406=יְרֵמוֹת, יְרִימוֹת	Jerimoth	1Ch.24.30; 
 $==========
-Jerimoth@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Jerimoth@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Jerimoth@1Ch.25.4	H3406=יְרֵמוֹת, יְרִימוֹת	Jeremoth (NIV= Jerimoth)	1Ch.25.22; 
 	Jerimoth@1Ch.25.4	H3406=יְרֵמוֹת, יְרִימוֹת	Jerimoth	1Ch.25.4; 
 $==========
@@ -7430,7 +7429,7 @@ $==========
 Jeshua@Ezr.2.40	Male living at the time of Exile and return	Azaniah@Neh.10.9 + 			
 	Jeshua@Ezr.2.40	H3442=יֵשׁוּעַ	Jeshua	Ezr.2.40; Ezr.3.9; Neh.7.43; Neh.8.7; Neh.9.4; Neh.9.5; Neh.10.9; Neh.12.8; 
 $==========
-Jeshua@Ezr.2.6	Male living at the time of Exile and return	Pahathmoab@Ezr.2.6 + 	Joab@Ezr.2.6		
+Jeshua@Ezr.2.6	Male living at the time of Exile and return	Pahath-moab@Ezr.2.6 + 	Joab@Ezr.2.6		
 	Jeshua@Ezr.2.6	H3442=יֵשׁוּעַ	Jeshua	Ezr.2.6; Neh.7.11; 
 $==========
 Jeshua@Ezr.8.33	Male living at the time of Exile and return	 + 			Jozabad@Ezr.8.33
@@ -7559,7 +7558,7 @@ $==========
 Jezreel@2Sa.4.4	Place	Jezreel_3	32.5559631396043,35.33078927843792 = Near Jezreel_2
 	Jezreel@2Sa.4.4	H3157=יִזְרְעֶאל	Jezreel	2Sa.4.4; 
 $==========
-Jezreel@Hos.1.4	Male living at the time of Divided monarchy	Hosea@Hos.1.1 + Gomer@Hos.1.3	Loruhamah@Hos.1.6, Loammi@Hos.1.9		
+Jezreel@Hos.1.4	Male living at the time of Divided monarchy	Hosea@Hos.1.1 + Gomer@Hos.1.3	Lo-ruhamah@Hos.1.6, Lo-ammi@Hos.1.9		
 	Jezreel@Hos.1.4	H3157=יִזְרְעֶאל	Jezreel	Hos.1.4a 
 $==========
 Jezreel@Jos.15.56	Place	Jezreel	31.53577362133176,35.09409986578734 = Near Hebron
@@ -7582,7 +7581,7 @@ $==========
 Joab@1Sa.26.6	Male living at the time of United monarchy	 + Zeruiah@1Sa.26.6	Abishai@1Sa.26.6, Asahel@2Sa.2.18		
 	Joab@1Sa.26.6	H3097=יוֹאָב	Joab	1Sa.26.6; 2Sa.2.13; 2Sa.2.14a; 2Sa.2.14b; 2Sa.2.18; 2Sa.2.22; 2Sa.2.24; 2Sa.2.26; 2Sa.2.27; 2Sa.2.28; 2Sa.2.30; 2Sa.2.32; 2Sa.3.22; 2Sa.3.23a; 2Sa.3.23b; 2Sa.3.24; 2Sa.3.26; 2Sa.3.27; 2Sa.3.29a; 2Sa.3.29b; 2Sa.3.30; 2Sa.3.31; 2Sa.8.16; 2Sa.10.7; 2Sa.10.9; 2Sa.10.13; 2Sa.10.14; 2Sa.11.1; 2Sa.11.6a; 2Sa.11.6b; 2Sa.11.7; 2Sa.11.11; 2Sa.11.14; 2Sa.11.16; 2Sa.11.17; 2Sa.11.18; 2Sa.11.22; 2Sa.11.25; 2Sa.12.26; 2Sa.12.27; 2Sa.14.1; 2Sa.14.2; 2Sa.14.3; 2Sa.14.19a; 2Sa.14.19b; 2Sa.14.20; 2Sa.14.21; 2Sa.14.22a; 2Sa.14.22b; 2Sa.14.23; 2Sa.14.29; 2Sa.14.30; 2Sa.14.31; 2Sa.14.32; 2Sa.14.33; 2Sa.17.25a; 2Sa.17.25b; 2Sa.18.2a; 2Sa.18.2b; 2Sa.18.5; 2Sa.18.10; 2Sa.18.11; 2Sa.18.12; 2Sa.18.14; 2Sa.18.15; 2Sa.18.16a; 2Sa.18.16b; 2Sa.18.20; 2Sa.18.21a; 2Sa.18.21b; 2Sa.18.22a; 2Sa.18.22b; 2Sa.18.29; 2Sa.19.1; 2Sa.19.5; 2Sa.19.13; 2Sa.20.7; 2Sa.20.8; 2Sa.20.9a; 2Sa.20.9b; 2Sa.20.10a; 2Sa.20.10b; 2Sa.20.11a; 2Sa.20.11b; 2Sa.20.11c; 2Sa.20.13; 2Sa.20.15; 2Sa.20.16; 2Sa.20.17; 2Sa.20.20; 2Sa.20.21; 2Sa.20.22a; 2Sa.20.22b; 2Sa.20.23; 2Sa.23.18; 2Sa.23.24; 2Sa.23.37; 2Sa.24.2; 2Sa.24.3; 2Sa.24.4a; 2Sa.24.4b; 2Sa.24.9; 1Ki.1.7; 1Ki.1.19; 1Ki.1.41; 1Ki.2.5; 1Ki.2.22; 1Ki.2.28a; 1Ki.2.28b; 1Ki.2.28c; 1Ki.2.29; 1Ki.2.30; 1Ki.2.31; 1Ki.2.33; 1Ki.11.15; 1Ki.11.16; 1Ki.11.21; 1Ch.2.16; 1Ch.11.6; 1Ch.11.8; 1Ch.11.20; 1Ch.11.26; 1Ch.11.39; 1Ch.18.15; 1Ch.19.8; 1Ch.19.10; 1Ch.19.14; 1Ch.19.15; 1Ch.20.1a; 1Ch.20.1b; 1Ch.21.2; 1Ch.21.3; 1Ch.21.4a; 1Ch.21.4b; 1Ch.21.5; 1Ch.21.6; 1Ch.26.28; 1Ch.27.7; 1Ch.27.24; 1Ch.27.34; Psa.60.1; 
 $==========
-Joab@Ezr.2.6	Male living at the time of Exile and return	Pahathmoab@Ezr.2.6 + 	Jeshua@Ezr.2.6		
+Joab@Ezr.2.6	Male living at the time of Exile and return	Pahath-moab@Ezr.2.6 + 	Jeshua@Ezr.2.6		
 	Joab@Ezr.2.6	H3097=יוֹאָב	Joab	Ezr.2.6; Neh.7.11; 
 $==========
 Joab@Ezr.8.9	Male living at the time of Exile and return	 + 			
@@ -7838,7 +7837,7 @@ $==========
 Jonathan@1Ch.27.25	Male living at the time of Divided monarchy	Uzziah@1Ch.27.25 + 			
 	Jonathan@1Ch.27.25	H3083=יְהוֹנָתָן	Jonathan (KJV= Jehonathan)	1Ch.27.25; 
 $==========
-Jonathan@1Sa.13.2	Male living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ishbosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8		Mephibosheth@2Sa.4.4
+Jonathan@1Sa.13.2	Male living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8		Mephibosheth@2Sa.4.4
 	Jonathan@1Sa.13.2	H3083=יְהוֹנָתָן	Jonathan	1Sa.14.6; 1Sa.14.8; 1Sa.18.1a; 1Sa.18.1b; 1Sa.18.3; 1Sa.18.4; 1Sa.19.1; 1Sa.19.2; 1Sa.19.4; 1Sa.19.6; 1Sa.19.7a; 1Sa.19.7b; 1Sa.19.7c; 1Sa.20.1; 1Sa.20.3; 1Sa.20.4; 1Sa.20.5; 1Sa.20.9; 1Sa.20.10; 1Sa.20.11; 1Sa.20.12; 1Sa.20.13; 1Sa.20.16; 1Sa.20.17; 1Sa.20.18; 1Sa.20.25; 1Sa.20.27; 1Sa.20.28; 1Sa.20.30; 1Sa.20.32; 1Sa.20.33; 1Sa.20.34; 1Sa.20.35; 1Sa.20.37a; 1Sa.20.37b; 1Sa.20.38a; 1Sa.20.38b; 1Sa.20.39; 1Sa.20.40; 1Sa.20.42a; 1Sa.20.42b; 1Sa.23.16; 1Sa.23.18; 1Sa.31.2; 2Sa.1.4; 2Sa.1.5; 2Sa.1.12; 2Sa.1.17; 2Sa.1.22; 2Sa.1.23; 2Sa.1.25; 2Sa.1.26; 2Sa.4.4a; 2Sa.4.4b; 2Sa.9.1; 2Sa.9.3; 2Sa.9.6; 2Sa.9.7; 2Sa.21.7a; 2Sa.21.7b; 2Sa.21.12; 2Sa.21.13; 2Sa.21.14; 1Ch.8.33; 1Ch.8.34; 1Ch.9.39; 1Ch.9.40; 
 	Jonathan@1Sa.13.2	H3129=יוֹנָתָן	Jonathan	1Sa.13.2; 1Sa.13.3; 1Sa.13.16; 1Sa.13.22a; 1Sa.13.22b; 1Sa.14.1; 1Sa.14.3; 1Sa.14.4; 1Sa.14.12a; 1Sa.14.12b; 1Sa.14.13a; 1Sa.14.13b; 1Sa.14.14; 1Sa.14.17; 1Sa.14.21; 1Sa.14.27; 1Sa.14.29; 1Sa.14.39; 1Sa.14.40; 1Sa.14.41; 1Sa.14.42a; 1Sa.14.42b; 1Sa.14.43a; 1Sa.14.43b; 1Sa.14.44; 1Sa.14.45a; 1Sa.14.45b; 1Sa.14.49; 1Sa.19.1; 1Ch.10.2; 
 $==========
@@ -7970,7 +7969,7 @@ $==========
 Joshaviah@1Ch.11.46	Male living at the time of Divided monarchy	Elnaam@1Ch.11.46 + 	Jeribai@1Ch.11.46		
 	Joshaviah@1Ch.11.46	H3145=יוֹשַׁוְיָה	Joshaviah	1Ch.11.46; 
 $==========
-Joshbekashah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Joshbekashah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Joshbekashah@1Ch.25.4	H3436=יׇשְׁבְּקָ֫שָׁה	Joshbekashah	1Ch.25.4; 1Ch.25.24; 
 $==========
 Joshibiah@1Ch.4.35	Male living at the time of Divided monarchy	Seraiah@1Ch.4.35 + 			Jehu@1Ch.4.35
@@ -8064,7 +8063,7 @@ $==========
 Jozadak@Ezr.10.18	Male living at the time of Exile and return	 + 			Jeshua@1Ch.24.11
 	Jozadak@Ezr.10.18	H3136a=יוֹצָדָק	Jozadak	Ezr.10.18; 
 $==========
-Jubal@Gen.4.21	Male living at the time of the first Patriarchs	Lamech@Gen.4.18 + Adah@Gen.4.19	Jabal@Gen.4.20, Tubalcain@Gen.4.22, Naamah@Gen.4.22		
+Jubal@Gen.4.21	Male living at the time of the first Patriarchs	Lamech@Gen.4.18 + Adah@Gen.4.19	Jabal@Gen.4.20, Tubal-cain@Gen.4.22, Naamah@Gen.4.22		
 	Jubal@Gen.4.21	H3106=יוּבָ֑ל	Jubal	Gen.4.21; 
 $==========
 Juda@Luk.3.30	Male living at the time of Divided monarchy	Joseph@Luk.3.30 + 			Simeon@Luk.3.30
@@ -8274,7 +8273,7 @@ $==========
 Keturah@Gen.25.1	Female living at the time of the first Patriarchs	 + 		Abraham@Gen.11.26	Zimran@Gen.25.2, Jokshan@Gen.25.2, Medan@Gen.25.2, Midian@Gen.25.2, Ishbak@Gen.25.2, Shuah@Gen.25.2
 	Keturah@Gen.25.1	H6989=קְטוּרָה	Keturah	Gen.25.1; Gen.25.4; 1Ch.1.32; 1Ch.1.33; 
 $==========
-Kezia@Job.42.14	Female living at the time of the first Patriarchs	Job@Job.1.1 + 	Jemima@Job.42.14, Kerenhappuch@Job.42.14		
+Kezia@Job.42.14	Female living at the time of the first Patriarchs	Job@Job.1.1 + 	Jemima@Job.42.14, Keren-happuch@Job.42.14		
 	Kezia@Job.42.14	H7103=קְצִיעָה	Keziah (KJV= Kezia)	Job.42.14; 
 $==========
 Kibroth-hattaavah@Num.11.34	Place	Kibroth-hattaavah	28.916667,34.500000 = Near Hazeroth
@@ -8427,7 +8426,7 @@ $==========
 Lahmam@Jos.15.40	Place	Lahmam	31.566667,34.900000
 	Lahmam@Jos.15.40	H3903=לַחְמָס	Lahmam	Jos.15.40; 
 $==========
-Lahmi@2Sa.21.19	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Goliath@1Sa.17.4, Ishbibenob@2Sa.21.16, Saph@2Sa.21.18, huge_man@2Sa.21.20		
+Lahmi@2Sa.21.19	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Goliath@1Sa.17.4, Ishbi-benob@2Sa.21.16, Saph@2Sa.21.18, huge_man@2Sa.21.20		
 	Lahmi@2Sa.21.19	H3902=לַחְמִי	Lahmi	1Ch.20.5; 
 	Bethlehemite|Lahmi@2Sa.21.19	H3902=לַחְמִי	[brother of] Goliath	2Sa.21.16; 
 $==========
@@ -8441,7 +8440,7 @@ $==========
 Lakkum@Jos.19.33	Place	Lakkum	32.68695640243183,35.39091304299688 = Near Mount Tabor
 	Lakkum@Jos.19.33	H3946=לַקּוּם	Lakkum	Jos.19.33; 
 $==========
-Lamech@Gen.4.18	Male living at the time of the first Patriarchs	Methushael@Gen.4.18 + 		Adah@Gen.4.19, Zillah@Gen.4.19	Jabal@Gen.4.20, Jubal@Gen.4.21, Tubalcain@Gen.4.22, Naamah@Gen.4.22
+Lamech@Gen.4.18	Male living at the time of the first Patriarchs	Methushael@Gen.4.18 + 		Adah@Gen.4.19, Zillah@Gen.4.19	Jabal@Gen.4.20, Jubal@Gen.4.21, Tubal-cain@Gen.4.22, Naamah@Gen.4.22
 	Lamech@Gen.4.18	H3929=לֶ֫מֶךְ	Lamech	Gen.4.18; Gen.4.19; Gen.4.23a; Gen.4.23b; Gen.4.24; 
 $==========
 Lamech@Gen.5.25	Male living at the time of the first Patriarchs	Methuselah@Gen.5.21 + 			Noah@Gen.5.29
@@ -8568,7 +8567,7 @@ $==========
 Linus@2Ti.4.21	Male living at the time of the New Testament 	 + 			
 	Linus@2Ti.4.21	G3044=Λίνος	Linus	2Ti.4.21; 
 $==========
-Lo-ammi@Hos.1.9	Male living at the time of Divided monarchy	Hosea@Hos.1.1 + Gomer@Hos.1.3	Jezreel@Hos.1.4, Loruhamah@Hos.1.6		
+Lo-ammi@Hos.1.9	Male living at the time of Divided monarchy	Hosea@Hos.1.1 + Gomer@Hos.1.3	Jezreel@Hos.1.4, Lo-ruhamah@Hos.1.6		
 	Lo-ammi@Hos.1.9	H3818=לֹא עַמִּי	Not My People (KJV= Lo-ammi)	Hos.1.9; 
 $==========
 Lod@1Ch.8.12	Place	Lod	31.95138888888889,34.89527777777778
@@ -8582,10 +8581,10 @@ $==========
 Lois@2Ti.1.5	Female living at the time of the New Testament	 + 			Eunice@2Ti.1.5
 	Lois@2Ti.1.5	G3090=Λωΐς	Lois	2Ti.1.5; 
 $==========
-Lo-ruhamah@Hos.1.6	Female living at the time of Divided monarchy	Hosea@Hos.1.1 + Gomer@Hos.1.3	Jezreel@Hos.1.4, Loammi@Hos.1.9		
+Lo-ruhamah@Hos.1.6	Female living at the time of Divided monarchy	Hosea@Hos.1.1 + Gomer@Hos.1.3	Jezreel@Hos.1.4, Lo-ammi@Hos.1.9		
 	Lo-ruhamah@Hos.1.6	H3819=לֹא רֻחָ֫מָה	No Mercy (KJV= Lo-ruhamah)	Hos.1.6; Hos.1.8; 
 $==========
-Lot@Gen.11.27	Male living at the time of the first Patriarchs	Haran@Gen.11.26 + 	Milcah@Gen.11.29, Iscah@Gen.11.29		daughter__of_Lot@Gen.19.30, daughter__of_Lot@Gen.19.30, Moab@Gen.19.37, Benammi@Gen.19.38
+Lot@Gen.11.27	Male living at the time of the first Patriarchs	Haran@Gen.11.26 + 	Milcah@Gen.11.29, Iscah@Gen.11.29		daughter__of_Lot@Gen.19.30, daughter__of_Lot@Gen.19.30, Moab@Gen.19.37, Ben-ammi@Gen.19.38
 	Lot@Gen.11.27	G3091=Λώτ	Lot	Luk.17.28; Luk.17.29; Luk.17.32; 2Pe.2.7; 
 	Lot@Gen.11.27	H3876=לוֹט	Lot	Gen.11.27; Gen.11.31; Gen.12.4; Gen.12.5; Gen.13.1; Gen.13.5; Gen.13.7; Gen.13.8; Gen.13.10; Gen.13.11a; Gen.13.11b; Gen.13.12; Gen.13.14; Gen.14.12; Gen.14.16; Gen.19.1a; Gen.19.1b; Gen.19.5; Gen.19.6; Gen.19.9; Gen.19.10; Gen.19.12; Gen.19.14; Gen.19.15; Gen.19.18; Gen.19.23; Gen.19.29a; Gen.19.29b; Gen.19.30; Gen.19.36; Deu.2.9; Deu.2.19; Psa.83.8; 
 $==========
@@ -8862,10 +8861,10 @@ $==========
 Mahavite@1Ch.11.46	People descended from Mahav?				
 	Mahavite@1Ch.11.46	H4233=מַחֲוִים	Mahavite	1Ch.11.46; 
 $==========
-Mahazioth@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4		
+Mahazioth@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4		
 	Mahazioth@1Ch.25.4	H4238=מַחֲזִיאֹת	Mahazioth	1Ch.25.4; 1Ch.25.30; 
 $==========
-Maher-shalal-hash-baz@Isa.8.1	Male living at the time of Divided monarchy	Isaiah@2Ki.19.2 + 	Shearjashub@Isa.7.3		
+Maher-shalal-hash-baz@Isa.8.1	Male living at the time of Divided monarchy	Isaiah@2Ki.19.2 + 	Shear-jashub@Isa.7.3		
 	Maher-shalal-hash-baz@Isa.8.1	H4122=מַהֵר שָׁלָל חָשׁ בַּז	Maher-shalal-hash-baz	Isa.8.1; Isa.8.3; 
 $==========
 Mahlah@1Ch.7.18	Female living at the time of Divided monarchy	 + Hammolecheth@1Ch.7.18	Ishhod@1Ch.7.18, Abiezer@1Ch.7.18		
@@ -8949,13 +8948,13 @@ $==========
 Malchiram@1Ch.3.18	Male living at the time of Divided monarchy	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18		
 	Malchiram@1Ch.3.18	H4443=מַלְכִּירָם	Malchiram	1Ch.3.18; 
 $==========
-Malchi-shua@1Sa.14.49	Male living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ishbosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8		
+Malchi-shua@1Sa.14.49	Male living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8		
 	Malchi-shua@1Sa.14.49	H4444=מַלְכִּישׁוּעַ	Malchi-shua (KJV= Melchi-shua; NIV= Malki-Shua)	1Sa.14.49; 1Sa.31.2; 1Ch.8.33; 1Ch.9.39; 1Ch.10.2; 
 $==========
 Malchus@Jhn.18.10	Male living at the time of the New Testament 	 + 			
 	Malchus@Jhn.18.10	G3124=Μάλχος	Malchus	Jhn.18.10; 
 $==========
-Mallothi@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Mallothi@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Mallothi@1Ch.25.4	H4413=מַלּוֹתִי	Mallothi	1Ch.25.4; 1Ch.25.26; 
 $==========
 Malluch@1Ch.6.44	Male living at the time of Divided monarchy	Hashabiah@1Ch.6.45 + 			Abdi@1Ch.6.44
@@ -9109,7 +9108,7 @@ $==========
 Mattanah@Num.21.18	Place	Mattanah	31.718148,35.584826 = Near Lasha
 	Mattanah@Num.21.18	H4980=מַתָּנָה	Mattanah	Num.21.18; Num.21.19; 
 $==========
-Mattaniah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Mattaniah@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Uzziel@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Mattaniah@1Ch.25.4	H4983=מַתַּנְיָ֫הוּ	Mattaniah	1Ch.25.4; 1Ch.25.16; 
 $==========
 Mattaniah@1Ch.9.15	Male living at the time of Exile and return	Mica@1Ch.9.15 + 			
@@ -9139,7 +9138,7 @@ $==========
 Mattaniah@Neh.13.13	Male living at the time of Exile and return	 + 			Zaccur@Neh.13.13
 	Mattaniah@Neh.13.13	H4983=מַתַּנְיָ֫הוּ	Mattaniah	Neh.13.13; 
 $==========
-Mattatha@Luk.3.31	Male living at the time of United monarchy	Nathan@2Sa.5.14 + 			Menan@Luk.3.31
+Mattatha@Luk.3.31	Male living at the time of United monarchy	Nathan@2Sa.5.14 + 			Menna@Luk.3.31
 	Mattatha@Luk.3.31	G3160=Ματταθά	Mattatha	Luk.3.31; 
 $==========
 Mattathias@Luk.3.25	Male living at the time ofExile and return	Amos@Luk.3.25 + 			Joseph@Luk.3.24
@@ -9260,7 +9259,7 @@ Melchizedek@Gen.14.18	Male living at the time of the first Patriarchs	 +
 	Melchizedek@Gen.14.18	G3198=Μελχισεδέκ	Melchizedek (KJV= Melchisedec)	Heb.5.6; Heb.5.10; Heb.6.20; Heb.7.1; Heb.7.10; Heb.7.11; Heb.7.15; Heb.7.17; Heb.7.21; 
 	Melchizedek@Gen.14.18	H4442=מַלְכִּי־צֶ֫דֶק	Melchizedek	Gen.14.18; Psa.110.4; 
 $==========
-Melea@Luk.3.31	Male living at the time of Divided monarchy	Menan@Luk.3.31 + 			Eliakim@Luk.3.30
+Melea@Luk.3.31	Male living at the time of Divided monarchy	Menna@Luk.3.31 + 			Eliakim@Luk.3.30
 	Melea@Luk.3.31	G3190=Μελεᾶς	Melea	Luk.3.31; 
 $==========
 Melech@1Ch.8.35	Male living at the time of Divided monarchy	Mica@2Sa.9.12 + 	Pithon@1Ch.8.35, Tarea@1Ch.8.35, Ahaz@1Ch.8.35		
@@ -9291,7 +9290,7 @@ $==========
 Mephaath@Jos.13.18	Place	Mephaath	31.850000,35.933333
 	Mephaath@Jos.13.18	H4158=מֵיפַ֫עַת	Mephaath	Jos.13.18; Jos.21.37; 1Ch.6.79; Jer.48.21; 
 $==========
-Mephibosheth@2Sa.21.8	Male living at the time of United monarchy	Saul@1Sa.9.2 + Rizpah@2Sa.3.7	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ishbosheth@2Sa.2.8, Armoni@2Sa.21.8		
+Mephibosheth@2Sa.21.8	Male living at the time of United monarchy	Saul@1Sa.9.2 + Rizpah@2Sa.3.7	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8		
 	Mephibosheth@2Sa.21.8	H4648=מְפִיבֹשֶׁת	Mephibosheth	2Sa.21.8; 
 $==========
 Mephibosheth@2Sa.4.4	Male living at the time of United monarchy	Jonathan@1Sa.13.2 + 			Mica@2Sa.9.12
@@ -9299,7 +9298,7 @@ Mephibosheth@2Sa.4.4	Male living at the time of United monarchy	Jonathan@1Sa.13.
 	Merib-baal|Mephibosheth@2Sa.4.4	H4807=מְרִיב בַּ֫עַל	Merib-baal	1Ch.8.34a; 1Ch.8.34b; 1Ch.9.40; 1Ch.9.40a 
 	Meri-baal|Mephibosheth@2Sa.4.4	H4810=מְרִי בַעַל	Meri-baal	1Ch.9.40b 
 $==========
-Merab@1Sa.14.49	Female living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Michal@1Sa.14.49, Ishbosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8	Adriel@1Sa.18.19	
+Merab@1Sa.14.49	Female living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Michal@1Sa.14.49, Is-hbosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8	Adriel@1Sa.18.19	
 	Merab@1Sa.14.49	H4324=מִיכַל	Merab (KJV= Michal)	2Sa.21.8; 
 	Merab@1Sa.14.49	H4764=מֵרָב	Merab	1Sa.14.49; 1Sa.18.17; 1Sa.18.19; 
 $==========
@@ -9395,7 +9394,7 @@ $==========
 Meshobab@1Ch.4.34	Male living at the time of Divided monarchy	 + 			
 	Meshobab@1Ch.4.34	H4877=מְשׁוֹבָב	Meshobab	1Ch.4.34; 
 $==========
-Meshullam@1Ch.3.19	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13		
+Meshullam@1Ch.3.19	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13		
 	Meshullam@1Ch.3.19	H4918=מְשֻׁלָּם	Meshullam	1Ch.3.19; 
 $==========
 Meshullam@1Ch.5.13	Male living at the time of Divided monarchy	Abihail@1Ch.5.14 + 	Michael@1Ch.5.13, Sheba@1Ch.5.13, Jorai@1Ch.5.13, Jacan@1Ch.5.13, Zia@1Ch.5.13, Eber@1Ch.5.13		
@@ -9582,7 +9581,7 @@ $==========
 Michael@Num.13.13	Male living at the time of Egypt and Wilderness	 + 			Sethur@Num.13.13
 	Michael@Num.13.13	H4317=מִיכָאֵל	Michael	Num.13.13; 
 $==========
-Michal@1Sa.14.49	Female living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Ishbosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8	David@Rut.4.17, Palti@1Sa.25.44	
+Michal@1Sa.14.49	Female living at the time of United monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8	David@Rut.4.17, Palti@1Sa.25.44	
 	Michal@1Sa.14.49	H4324=מִיכַל	Michal	1Sa.14.49; 1Sa.18.20; 1Sa.18.27; 1Sa.18.28; 1Sa.19.11; 1Sa.19.12; 1Sa.19.13; 1Sa.19.17a; 1Sa.19.17b; 1Sa.25.44; 2Sa.3.13; 2Sa.3.14; 2Sa.6.16; 2Sa.6.20; 2Sa.6.21; 2Sa.6.23; 1Ch.15.29; 
 $==========
 Michmash@1Sa.13.2	Place	Michmash	31.87018434231688,35.27923581936973
@@ -9759,7 +9758,7 @@ $==========
 Mnason@Act.21.16	Male living at the time of the New Testament 	 + 			
 	Mnason@Act.21.16	G3416=Μνάσων	Mnason	Act.21.16; 
 $==========
-Moab@Gen.19.37	Male living at the time of the first Patriarchs 	Lot@Gen.11.27 + daughter__of_Lot@Gen.19.30	daughter__of_Lot@Gen.19.30, daughter__of_Lot@Gen.19.30, Benammi@Gen.19.38		
+Moab@Gen.19.37	Male living at the time of the first Patriarchs 	Lot@Gen.11.27 + daughter__of_Lot@Gen.19.30	daughter__of_Lot@Gen.19.30, daughter__of_Lot@Gen.19.30, Ben-ammi@Gen.19.38		
 	Moab@Gen.19.37	H4124=מוֹאָב	Moab	Gen.19.37a 
 $==========
 Moab@Gen.36.35	Place for descendants of Moab@Gen.19.37	Moab	31.49684513710609,35.78284105296996
@@ -9869,7 +9868,7 @@ $==========
 Naamah@1Ki.14.21	Female living at the time of Divided monarchy	 + 		Solomon@2Sa.5.14	Rehoboam@1Ki.11.43
 	Naamah@1Ki.14.21	H5279a=נַעֲמָה	Naamah	1Ki.14.21; 1Ki.14.31; 2Ch.12.13; 
 $==========
-Naamah@Gen.4.22	Female living at the time of the first Patriarchs	Lamech@Gen.4.18 + Zillah@Gen.4.19	Jabal@Gen.4.20, Jubal@Gen.4.21, Tubalcain@Gen.4.22		
+Naamah@Gen.4.22	Female living at the time of the first Patriarchs	Lamech@Gen.4.18 + Zillah@Gen.4.19	Jabal@Gen.4.20, Jubal@Gen.4.21, Tubal-cain@Gen.4.22		
 	Naamah@Gen.4.22	H5279a=נַעֲמָה	Naamah	Gen.4.22; 
 $==========
 Naamah@Jos.15.41	Place	Naamah	31.871782,34.871894
@@ -10400,7 +10399,7 @@ $==========
 Ohad@Gen.46.10	Male living at the time of the first Patriarchs	Simeon@Gen.29.33 + 	Jemuel@Gen.46.10, Jamin@Gen.46.10, Jachin@Gen.46.10, Zohar@Gen.46.10, Shaul@Gen.46.10		
 	Ohad@Gen.46.10	H0161=אֹ֫הַד	Ohad	Gen.46.10; Exo.6.15; 
 $==========
-Ohel@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13		
+Ohel@1Ch.3.20	Male living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13		
 	Ohel@1Ch.3.20	H0169=אֹ֫הֶל	Ohel	1Ch.3.20; 
 $==========
 Oholah@Ezk.23.4	Female living at the time of Exile and return	 + 	Oholibah@Ezk.23.4		
@@ -11422,7 +11421,7 @@ $==========
 Rimmon-perez@Num.33.19	Place	Rimmon-perez	31.8099,34.9365 = Near Ashnah
 	Rimmon-perez@Num.33.19	H7428=רִמֹּן פָּ֑רֶץ	Rimmon-perez	Num.33.19; Num.33.20; 
 $==========
-Rinnah@1Ch.4.20	Male living at the time of Divided monarchy	Shimon@1Ch.4.20 + 	Amnon@1Ch.4.20, Benhanan@1Ch.4.20, Tilon@1Ch.4.20		
+Rinnah@1Ch.4.20	Male living at the time of Divided monarchy	Shimon@1Ch.4.20 + 	Amnon@1Ch.4.20, Ben-hanan@1Ch.4.20, Tilon@1Ch.4.20		
 	Rinnah@1Ch.4.20	H7441=רִנָּה	Rinnah	1Ch.4.20; 
 $==========
 Riphath@Gen.10.3	Male living at the time of the first Patriarchs	Gomer@Gen.10.2 + 	Ashkenaz@Gen.10.3, Togarmah@Gen.10.3		
@@ -11588,7 +11587,7 @@ $==========
 Sansannah@Jos.15.31	Place	Sansannah	31.391668,34.940502 = Near Madmannah
 	Sansannah@Jos.15.31	H5578=סַנְסַנָּה	Sansannah	Jos.15.31; 
 $==========
-Saph@2Sa.21.18	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Goliath@1Sa.17.4, Ishbibenob@2Sa.21.16, Lahmi@2Sa.21.19, huge_man@2Sa.21.20		
+Saph@2Sa.21.18	Male living at the time of United monarchy	giant_of_Gath@2Sa.21.16 + 	Goliath@1Sa.17.4, Ishbi-benob@2Sa.21.16, Lahmi@2Sa.21.19, huge_man@2Sa.21.20		
 	Saph@2Sa.21.18	H5593=סַף	Saph	2Sa.21.18; 
 	Sippai|Saph@2Sa.21.18	H5598=סִפַּי	Sippai	1Ch.20.4; 
 $==========
@@ -11624,7 +11623,7 @@ Satan@Deu.13.13	A deity/angel
 	Satan@Deu.13.13	G4567=Σατανᾶς	Satan	Mat.4.10; Mat.12.26a; Mat.12.26b; Mat.16.23; Mrk.1.13; Mrk.3.23a; Mrk.3.23b; Mrk.3.26; Mrk.4.15; Mrk.8.33; Luk.10.18; Luk.11.18; Luk.13.16; Luk.22.3; Luk.22.31; Jhn.13.27; Act.5.3; Act.26.18; Rom.16.20; 1Co.5.5; 1Co.7.5; 2Co.2.11; 2Co.11.14; 1Th.2.18; 2Th.2.9; 1Ti.1.20; 1Ti.5.15; Rev.2.9; Rev.2.13a; Rev.2.13b; Rev.2.24; Rev.3.9; Rev.12.9; Rev.20.2; Rev.20.7; 
 	Satan@Deu.13.13	H7854=שָׂטָן	Satan	1Ch.21.1; Job.1.6; Job.1.7a; Job.1.7b; Job.1.8; Job.1.9; Job.1.12a; Job.1.12b; Job.2.1; Job.2.2a; Job.2.2b; Job.2.3; Job.2.4; Job.2.6; Job.2.7; Zec.3.1; Zec.3.2a; Zec.3.2b 
 $==========
-Saul@1Sa.9.2	Male living at the time of United monarchy	Kish@1Sa.9.1 + 		Ahinoam@1Sa.14.50, Rizpah@2Sa.3.7	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ishbosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8
+Saul@1Sa.9.2	Male living at the time of United monarchy	Kish@1Sa.9.1 + 		Ahinoam@1Sa.14.50, Rizpah@2Sa.3.7	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8
 	Saul@1Sa.9.2	G4549=Σαούλ	Saul	Act.13.21; 
 	Saul@1Sa.9.2	G4569=Σαῦλος	Saul	Act.9.19; Act.9.26; 
 	Saul@1Sa.9.2	H7586=שָׁאוּל	Saul	1Sa.9.2; 1Sa.9.3a; 1Sa.9.3b; 1Sa.9.5; 1Sa.9.7; 1Sa.9.8; 1Sa.9.10; 1Sa.9.15; 1Sa.9.17; 1Sa.9.18; 1Sa.9.19; 1Sa.9.21; 1Sa.9.22; 1Sa.9.24a; 1Sa.9.24b; 1Sa.9.25; 1Sa.9.26a; 1Sa.9.26b; 1Sa.9.27; 1Sa.10.11; 1Sa.10.12; 1Sa.10.14; 1Sa.10.15; 1Sa.10.16; 1Sa.10.21; 1Sa.10.26; 1Sa.11.4; 1Sa.11.5a; 1Sa.11.5b; 1Sa.11.6; 1Sa.11.7; 1Sa.11.11; 1Sa.11.12; 1Sa.11.13; 1Sa.11.15a; 1Sa.11.15b; 1Sa.13.1; 1Sa.13.2a; 1Sa.13.2b; 1Sa.13.3; 1Sa.13.4a; 1Sa.13.4b; 1Sa.13.7; 1Sa.13.9; 1Sa.13.10; 1Sa.13.11; 1Sa.13.13; 1Sa.13.15; 1Sa.13.16; 1Sa.13.22a; 1Sa.13.22b; 1Sa.14.1; 1Sa.14.2; 1Sa.14.16; 1Sa.14.17; 1Sa.14.18; 1Sa.14.19a; 1Sa.14.19b; 1Sa.14.20; 1Sa.14.21; 1Sa.14.24; 1Sa.14.33; 1Sa.14.34; 1Sa.14.35; 1Sa.14.36; 1Sa.14.37; 1Sa.14.38; 1Sa.14.40; 1Sa.14.41a; 1Sa.14.41b; 1Sa.14.42; 1Sa.14.43; 1Sa.14.44; 1Sa.14.45; 1Sa.14.46; 1Sa.14.47; 1Sa.14.49; 1Sa.14.50a; 1Sa.14.50b; 1Sa.14.51; 1Sa.14.52a; 1Sa.14.52b; 1Sa.15.1; 1Sa.15.4; 1Sa.15.5; 1Sa.15.6; 1Sa.15.7; 1Sa.15.9; 1Sa.15.11; 1Sa.15.12a; 1Sa.15.12b; 1Sa.15.13a; 1Sa.15.13b; 1Sa.15.15; 1Sa.15.16; 1Sa.15.20; 1Sa.15.24; 1Sa.15.26; 1Sa.15.31a; 1Sa.15.31b; 1Sa.15.34a; 1Sa.15.34b; 1Sa.15.35a; 1Sa.15.35b; 1Sa.15.35c; 1Sa.16.1; 1Sa.16.2; 1Sa.16.14; 1Sa.16.15; 1Sa.16.17; 1Sa.16.19; 1Sa.16.20; 1Sa.16.21; 1Sa.16.22; 1Sa.16.23a; 1Sa.16.23b; 1Sa.17.2; 1Sa.17.8; 1Sa.17.11; 1Sa.17.12; 1Sa.17.13; 1Sa.17.14; 1Sa.17.15; 1Sa.17.19; 1Sa.17.31; 1Sa.17.32; 1Sa.17.33; 1Sa.17.34; 1Sa.17.37; 1Sa.17.38; 1Sa.17.39; 1Sa.17.55; 1Sa.17.57; 1Sa.17.58; 1Sa.18.1; 1Sa.18.2; 1Sa.18.5a; 1Sa.18.5b; 1Sa.18.5c; 1Sa.18.6; 1Sa.18.7; 1Sa.18.8; 1Sa.18.9; 1Sa.18.10a; 1Sa.18.10b; 1Sa.18.11; 1Sa.18.12a; 1Sa.18.12b; 1Sa.18.13; 1Sa.18.15; 1Sa.18.17a; 1Sa.18.17b; 1Sa.18.18; 1Sa.18.19; 1Sa.18.20a; 1Sa.18.20b; 1Sa.18.21a; 1Sa.18.21b; 1Sa.18.22; 1Sa.18.23; 1Sa.18.24; 1Sa.18.25a; 1Sa.18.25b; 1Sa.18.27; 1Sa.18.28a; 1Sa.18.28b; 1Sa.18.29a; 1Sa.18.29b; 1Sa.18.30; 1Sa.19.1a; 1Sa.19.1b; 1Sa.19.2; 1Sa.19.4; 1Sa.19.6a; 1Sa.19.6b; 1Sa.19.7; 1Sa.19.9; 1Sa.19.10a; 1Sa.19.10b; 1Sa.19.11; 1Sa.19.14; 1Sa.19.15; 1Sa.19.17a; 1Sa.19.17b; 1Sa.19.18; 1Sa.19.19; 1Sa.19.20a; 1Sa.19.20b; 1Sa.19.21a; 1Sa.19.21b; 1Sa.19.24; 1Sa.20.25; 1Sa.20.26; 1Sa.20.27; 1Sa.20.28; 1Sa.20.30; 1Sa.20.32; 1Sa.20.33; 1Sa.21.7a; 1Sa.21.7b; 1Sa.21.10; 1Sa.21.11; 1Sa.22.6a; 1Sa.22.6b; 1Sa.22.7; 1Sa.22.9; 1Sa.22.12; 1Sa.22.13; 1Sa.22.21; 1Sa.22.22; 1Sa.23.7a; 1Sa.23.7b; 1Sa.23.8; 1Sa.23.9; 1Sa.23.10; 1Sa.23.11; 1Sa.23.12; 1Sa.23.13; 1Sa.23.14; 1Sa.23.15; 1Sa.23.16; 1Sa.23.17a; 1Sa.23.17b; 1Sa.23.19; 1Sa.23.21; 1Sa.23.24; 1Sa.23.25a; 1Sa.23.25b; 1Sa.23.26a; 1Sa.23.26b; 1Sa.23.26c; 1Sa.23.27; 1Sa.23.28; 1Sa.24.1; 1Sa.24.2; 1Sa.24.3; 1Sa.24.4; 1Sa.24.5; 1Sa.24.7a; 1Sa.24.7b; 1Sa.24.8a; 1Sa.24.8b; 1Sa.24.9; 1Sa.24.16a; 1Sa.24.16b; 1Sa.24.16c; 1Sa.24.22a; 1Sa.24.22b; 1Sa.25.44; 1Sa.26.1; 1Sa.26.2; 1Sa.26.3a; 1Sa.26.3b; 1Sa.26.4; 1Sa.26.5a; 1Sa.26.5b; 1Sa.26.5c; 1Sa.26.6; 1Sa.26.7; 1Sa.26.12; 1Sa.26.17; 1Sa.26.21; 1Sa.26.25a; 1Sa.26.25b; 1Sa.27.1a; 1Sa.27.1b; 1Sa.27.4; 1Sa.28.3; 1Sa.28.4; 1Sa.28.5; 1Sa.28.6; 1Sa.28.7; 1Sa.28.8; 1Sa.28.9; 1Sa.28.10; 1Sa.28.12a; 1Sa.28.12b; 1Sa.28.13; 1Sa.28.14; 1Sa.28.15a; 1Sa.28.15b; 1Sa.28.20; 1Sa.28.21; 1Sa.28.25; 1Sa.29.3; 1Sa.29.5; 1Sa.31.2a; 1Sa.31.2b; 1Sa.31.3; 1Sa.31.4a; 1Sa.31.4b; 1Sa.31.5; 1Sa.31.6; 1Sa.31.7; 1Sa.31.8; 1Sa.31.11; 1Sa.31.12; 2Sa.1.1; 2Sa.1.2; 2Sa.1.4; 2Sa.1.5; 2Sa.1.6; 2Sa.1.12; 2Sa.1.17; 2Sa.1.21; 2Sa.1.22; 2Sa.1.23; 2Sa.1.24; 2Sa.2.4; 2Sa.2.5; 2Sa.2.7; 2Sa.2.8a; 2Sa.2.8b; 2Sa.2.10; 2Sa.2.12; 2Sa.2.15; 2Sa.3.1a; 2Sa.3.1b; 2Sa.3.6a; 2Sa.3.6b; 2Sa.3.7; 2Sa.3.8; 2Sa.3.10; 2Sa.3.13; 2Sa.3.14; 2Sa.4.1; 2Sa.4.2; 2Sa.4.4a; 2Sa.4.4b; 2Sa.4.8a; 2Sa.4.8b; 2Sa.4.10; 2Sa.5.2; 2Sa.6.16; 2Sa.6.20; 2Sa.6.23; 2Sa.7.15; 2Sa.9.1; 2Sa.9.2; 2Sa.9.3; 2Sa.9.6; 2Sa.9.7; 2Sa.9.9a; 2Sa.9.9b; 2Sa.12.7; 2Sa.16.5; 2Sa.16.8; 2Sa.19.17; 2Sa.19.24; 2Sa.21.1; 2Sa.21.2; 2Sa.21.4; 2Sa.21.6; 2Sa.21.7a; 2Sa.21.7b; 2Sa.21.8a; 2Sa.21.8b; 2Sa.21.11; 2Sa.21.12a; 2Sa.21.12b; 2Sa.21.13; 2Sa.21.14; 2Sa.22.1; 1Ch.5.10; 1Ch.8.33a; 1Ch.8.33b; 1Ch.9.39a; 1Ch.9.39b; 1Ch.10.2a; 1Ch.10.2b; 1Ch.10.3; 1Ch.10.4a; 1Ch.10.4b; 1Ch.10.5; 1Ch.10.6; 1Ch.10.7; 1Ch.10.8; 1Ch.10.11; 1Ch.10.12; 1Ch.10.13; 1Ch.11.2; 1Ch.12.1; 1Ch.12.2; 1Ch.12.19a; 1Ch.12.19b; 1Ch.12.23; 1Ch.12.29a; 1Ch.12.29b; 1Ch.13.3; 1Ch.15.29; 1Ch.26.28; Psa.18.1; Psa.52.1; Psa.54.1; Psa.57.1; Psa.59.1; Isa.10.29; 
@@ -11850,7 +11849,7 @@ $==========
 Shallum@Neh.3.12	Male living at the time of Exile and return	Hallohesh@Neh.3.12 + 			
 	Shallum@Neh.3.12	H7967=שַׁלּוּם	Shallum	Neh.3.12; 
 $==========
-Shallum@Neh.3.15	Male living at the time of Exile and return	Colhozeh@Neh.3.15 + 			
+Shallum@Neh.3.15	Male living at the time of Exile and return	Col-hozeh@Neh.3.15 + 			
 	Shallum@Neh.3.15	H7968=שַׁלּוּן	Shallum (KJV, NIV= Shallun)	Neh.3.15; 
 $==========
 Shalmai@Ezr.2.46	Male living at the time of Exile and return	 + 			
@@ -12012,7 +12011,7 @@ $==========
 Sheariah@1Ch.8.38	Male living at the time of Divided monarchy	Azel@1Ch.8.37 + 	Azrikam@1Ch.8.38, Bocheru@1Ch.8.38, Ishmael@1Ch.8.38, Obadiah@1Ch.8.38, Hanan@1Ch.8.38		
 	Sheariah@1Ch.8.38	H8187=שְׁעַרְיָה	Sheariah	1Ch.8.38; 1Ch.9.44; 
 $==========
-Shear-jashub@Isa.7.3	Male living at the time of Divided monarchy	Isaiah@2Ki.19.2 + 	Mahershalalhashbaz@Isa.8.1		
+Shear-jashub@Isa.7.3	Male living at the time of Divided monarchy	Isaiah@2Ki.19.2 + 	Maher-shalal-hash-baz@Isa.8.1		
 	Shear-jashub@Isa.7.3	H7610=שְׁאָר יָשׁוּב	Shear-jashub	Isa.7.3; 
 $==========
 Sheba@1Ch.5.13	Male living at the time of Divided monarchy	Abihail@1Ch.5.14 + 	Michael@1Ch.5.13, Meshullam@1Ch.5.13, Jorai@1Ch.5.13, Jacan@1Ch.5.13, Zia@1Ch.5.13, Eber@1Ch.5.13		
@@ -12067,7 +12066,7 @@ Shebuel@1Ch.23.16	Male living at the time of Egypt and Wilderness	Gershom@Exo.2.
 	Shebuel@1Ch.23.16	H7619=שְׁבוּאֵל	Shebuel (NIV= Shubael)	1Ch.23.16; 1Ch.26.24; 
 	Shubael|Shebuel@1Ch.23.16	H7619=שְׁבוּאֵל	Shubael	1Ch.24.20a; 1Ch.24.20b 
 $==========
-Shebuel@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Shebuel@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Uzziel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Shebuel@1Ch.25.4	H7619=שְׁבוּאֵל	Shebuel (NIV= Shubael)	1Ch.25.4; 
 	Shubael|Shebuel@1Ch.25.4	H7619=שְׁבוּאֵל	Shubael	1Ch.25.20; 
 $==========
@@ -12164,7 +12163,7 @@ Shelomith@1Ch.23.18	Male living at the time of Egypt and Wilderness	Izhar@Exo.6.
 	Shelomith@1Ch.23.18	H8019a=שְׁלֹמִית	Shelomith	1Ch.23.18; 
 	Shelomoth|Shelomith@1Ch.23.18	H8013=שְׁלֹמוֹת	Shelomoth	1Ch.24.22a; 1Ch.24.22b 
 $==========
-Shelomith@1Ch.3.19	Female living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13		
+Shelomith@1Ch.3.19	Female living at the time of Divided monarchy	Zerubbabel@1Ch.3.17 + 	Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13		
 	Shelomith@1Ch.3.19	H8019b=שְׁלֹמִית	Shelomith	1Ch.3.19; 
 $==========
 Shelomith@2Ch.11.20	Female living at the time of Divided monarchy	Rehoboam@1Ki.11.43 + Maacah@1Ki.15.2	Abijah@1Ki.14.31, Jeush@2Ch.11.19, Shemariah@2Ch.11.19, Zaham@2Ch.11.19, Attai@2Ch.11.20, Ziza@2Ch.11.20		
@@ -12513,7 +12512,7 @@ $==========
 Shimeon@Ezr.10.31	Male living at the time of Exile and return	 + 			
 	Shimeon@Ezr.10.31	H8095=שִׁמְעוֹן	Shimeon	Ezr.10.31; 
 $==========
-Shimon@1Ch.4.20	Male living at the time of Divided monarchy	 + 			Amnon@1Ch.4.20, Rinnah@1Ch.4.20, Benhanan@1Ch.4.20, Tilon@1Ch.4.20
+Shimon@1Ch.4.20	Male living at the time of Divided monarchy	 + 			Amnon@1Ch.4.20, Rinnah@1Ch.4.20, Ben-hanan@1Ch.4.20, Tilon@1Ch.4.20
 	Shimon@1Ch.4.20	H7889=שִׁימוֹן	Shimon	1Ch.4.20; 
 $==========
 Shimrath@1Ch.8.21	Male living at the time of Divided monarchy	Shimei@1Ch.8.21 + 	Jakim@1Ch.8.19, Zichri@1Ch.8.19, Zabdi@1Ch.8.19, Elienai@1Ch.8.20, Zillethai@1Ch.8.20, Eliel@1Ch.8.20, Adaiah@1Ch.8.21, Beraiah@1Ch.8.21		
@@ -13236,7 +13235,7 @@ $==========
 Tikvah@Ezr.10.15	Male living at the time of Exile and return	 + 			Jahzeiah@Ezr.10.15
 	Tikvah@Ezr.10.15	H8616=תִּקְוָה	Tikvah	Ezr.10.15; 
 $==========
-Tilon@1Ch.4.20	Male living at the time of Divided monarchy	Shimon@1Ch.4.20 + 	Amnon@1Ch.4.20, Rinnah@1Ch.4.20, Benhanan@1Ch.4.20		
+Tilon@1Ch.4.20	Male living at the time of Divided monarchy	Shimon@1Ch.4.20 + 	Amnon@1Ch.4.20, Rinnah@1Ch.4.20, Ben-hanan@1Ch.4.20		
 	Tilon@1Ch.4.20	H8436=תִּילוֹן	Tilon	1Ch.4.20; 
 $==========
 Timaeus@Mrk.10.46	Male living at the time of the New Testament 	 + 			Bartimaeus@Mrk.10.46
@@ -13584,7 +13583,7 @@ $==========
 Uzziah@Neh.11.4	Male living at the time of Exile and return	Zechariah@Neh.11.4 + 			Athaiah@Neh.11.4
 	Uzziah@Neh.11.4	H5818=עֻזִּיָּהוּ	Uzziah	Neh.11.4; 
 $==========
-Uzziel@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamtiezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
+Uzziel@1Ch.25.4	Male living at the time of Divided monarchy	Heman@1Ch.6.33 + 	Bukkiah@1Ch.25.4, Mattaniah@1Ch.25.4, Shebuel@1Ch.25.4, Jerimoth@1Ch.25.4, Hananiah@1Ch.25.4, Hanani@1Ch.25.4, Eliathah@1Ch.25.4, Giddalti@1Ch.25.4, Romamti-ezer@1Ch.25.4, Joshbekashah@1Ch.25.4, Mallothi@1Ch.25.4, Hothir@1Ch.25.4, Mahazioth@1Ch.25.4		
 	Azarel|Uzziel@1Ch.25.4	H5832=עֲזַרְאֵל	Azarel (KJV= Azareel)	1Ch.25.18; 
 	Uzziel@1Ch.25.4	H5816=עֻזִּיאֵל	Uzziel	1Ch.25.4; 
 $==========
@@ -14093,7 +14092,7 @@ $==========
 Zeruah@1Ki.11.26	Female living at the time of United monarchy	 + 		Nebat@1Ki.11.26	Jeroboam@1Ki.11.26
 	Zeruah@1Ki.11.26	H6871=צְרוּעָה	Zeruah	1Ki.11.26; 
 $==========
-Zerubbabel@1Ch.3.17	Male living at the time of Exile and return	Shealtiel@1Ch.3.17 + 	Shimei@1Ch.3.19		Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushabhesed@1Ch.3.20, Abiud@Mat.1.13
+Zerubbabel@1Ch.3.17	Male living at the time of Exile and return	Shealtiel@1Ch.3.17 + 	Shimei@1Ch.3.19		Meshullam@1Ch.3.19, Hananiah@1Ch.3.19, Shelomith@1Ch.3.19, Hashubah@1Ch.3.20, Ohel@1Ch.3.20, Berechiah@1Ch.3.20, Hasadiah@1Ch.3.20, Jushab-hesed@1Ch.3.20, Abiud@Mat.1.13
 	Sheshbazzar|Zerubbabel@1Ch.3.17	H8339=שֵׁשְׁבַּצַּר	Sheshbazzar	Ezr.1.8; Ezr.1.11; 
 	Sheshbazzar|Zerubbabel@1Ch.3.17	H8340=שֵׁשְׁבַּצַּר	Sheshbazzar	Ezr.5.14; Ezr.5.16; 
 	Zerubbabel@1Ch.3.17	G2216=Ζοροβάβελ	Zerubbabel (KJV= Zorobabel)	Mat.1.12; Mat.1.13; 
@@ -14183,7 +14182,7 @@ $==========
 Ziklag@Jos.15.31	Place	Ziklag	31.37760000000001,34.87356199999998
 	Ziklag@Jos.15.31	H6860=צִקְלַג	Ziklag	Jos.15.31; Jos.19.5; 1Sa.27.6a; 1Sa.27.6b; 1Sa.30.1a; 1Sa.30.1b; 1Sa.30.1c; 1Sa.30.14; 1Sa.30.26; 2Sa.1.1; 2Sa.4.10; 1Ch.4.30; 1Ch.12.1; 1Ch.12.20; Neh.11.28; 
 $==========
-Zillah@Gen.4.19	Female living at the time of the first Patriarchs	 + 		Lamech@Gen.4.18	Tubalcain@Gen.4.22, Naamah@Gen.4.22
+Zillah@Gen.4.19	Female living at the time of the first Patriarchs	 + 		Lamech@Gen.4.18	Tubal-cain@Gen.4.22, Naamah@Gen.4.22
 	Zillah@Gen.4.19	H6741=צִלָּה	Zillah	Gen.4.19; Gen.4.22; Gen.4.23; 
 $==========
 Zillethai@1Ch.12.20	Male living at the time of Divided monarchy	 + 			
@@ -14386,12 +14385,12 @@ PLACES
 
 Based on data from From https://www.openbible.info/geo/atlas
 Changes: 
-Merged: Gabbatha & Stone Pavement; Golgotha & The Skull; Solomon's & Solomon's Portico; Rahab@Job.9:13 & Egypt (and removed ref Job.9.13; Job.26.12; Psa.89.10; Isa.1.9);
+Merged: Gabbatha & Stone Pavement; Golgotha & The Skull; Solomon's & Solomon's Portico; Rahab@Job.9.13 & Egypt (and removed ref Job.9.13; Job.26.12; Psa.89.10; Isa.1.9);
 Rernamed Beer as Beer_1; 
 Removed because they are people: Esau; Abiezer@Num.26.30; Jetur@1Ch.5.19; Nodab@1Ch.5.19; Naphish@1Ch.5.19; Kedar@Psa.120.5; Nebaioth@Isa.60.7; Nimrod@Mic.5.6
 Added refs: OT refs for Gog
 Move refs: Jos.19.2 from Sheba to Beer-sheba
-Added a few missing places: Addan@Ezr.2.59; Archile@Jos.16.2; Ashurite@2Sa.2.9; Atad@Gen.50.10; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12; Eden@Gen.2.8; Eglath-shelishiyah@Isa.15.5; Elam@Ezr.4.9; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak@Jos.11.17; Havilah@Gen.2.11; Hazor@Jer.49.28; Hebrew@Gen.14.13; Hellenist|Greece@Dan.8.21; Jew@2Ki.25.25; Jew@2Ki.25.25; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothite@1Ch.27.30; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Moab_Plains@Num.22.1; Scythian@Col.3.11; Senaah@Ezr.2.35; Senaah@Ezr.2.35; Pacatiana@1Ti.6.21; 
+Added a few missing places: Addan@Ezr.2.59; Archile@Jos.16.2; Ashurite@2Sa.2.9; Atad@Gen.50.10; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12; Eden@Gen.2.8; Eglath-shelishiyah@Isa.15.5; Elam@Ezr.4.9; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak_Mount@Jos.11.17; Havilah@Gen.2.11; Hazor@Jer.49.28; Hebrew@Gen.14.13; Hellenist|Greece@Dan.8.21; Jew@2Ki.25.25; Jew@2Ki.25.25; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothite@1Ch.27.30; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Moab_Plains@Num.22.1; Scythian@Col.3.11; Senaah@Ezr.2.35; Senaah@Ezr.2.35; Pacatiana@1Ti.6.21; 
 Added gentilics of places for place names that were known. Gentilics based on name unknown as people or places were assumed to be places
 
 Desriptions: 
