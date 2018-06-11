@@ -35,10 +35,10 @@ If you see data that you have need of which isn't yet available, please contact 
 Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV.   
 
 * **[TOTHT - Tyndale OT Hebrew Tagged text](https://github.com/tyndale/STEPBible-Data)**        
-Based on Westminster with corrections from BHS (when it is correct) and from Tyndale scholars (when other two are wrong). All stems and affixes are tagged with extended Strongs to BDB, with context sensitive defs, and ETCBC morphology, including for ketive and qere readings.     
+The Leningrad codex based on Westminster with corrections from BHS (when it is correct) and from Tyndale scholars (when other two are wrong).  Variants, including ketive and qere readings, Ben Chiyim, Massorah Itture & Tiqqune Sopherim, and Aleppo, are being added. All stems and affixes are tagged with extended Strongs to BDB, with context-sensitive meanings, and ETCBC morphology.
 
 * **TANTT - Tyndale Amalgamated NT Tagged texts**     
-A single NT Greek Text with all variants amalgamated from the major editions (SBLGNT, Treg, TR, Byz, WH, NA) based on SBLGNT+variants. Merged with 1st 4 centuries of MSS (from Bunning). One line per accented word form, each marked with the editions+MSS that include this form, so that deleting all other lines creates any of the individual texts with the option of including all variants. Each line is tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) and context sensitive glosses.     
+A NT Greek Text based on the SBLGNT text, following the decisions made by NA28, listing the major editions that also use that form (SBL, Treg, TR, Byz, WH). Variants are being added from major editions plus the 1st 4 centuries of MSS (from Bunning). All words are tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) plus context-sensitive meanings for words with more than one meaning.     
 
 * **TOTGT - Tyndale OT Greek Tagged text**   
 LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
