@@ -31,6 +31,9 @@ The repository aims to provide reliable and freely usable data for studying the 
 Some of the following are already posted while others are still being checked. 
 If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process.  
 
+* **[Bible modules for OSIS Sword software](http://public.modules.stepbible.org/packages/)**
+Bibles in the same format as [Crosswire modules](https://www.crosswire.org/sword/modules/) which can be used in any Sword-compatible software.
+
 * **[TTESV - Tyndale Translation tags for ESV](https://github.com/tyndale/STEPBible-Data)**  
 Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV.   
 
