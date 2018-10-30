@@ -1,6 +1,5 @@
 # Tyndale House STEPBible Data Repository
-Data created for [www.STEPBible.org](www.STEPBible.org) by [Tyndale House Cambridge](www.tyndale.cam.ac.uk)   
-**CC BY-NC-ND 4.0 with additional specified relaxations**  
+Data created for [www.STEPBible.org](www.STEPBible.org) by [Tyndale House Cambridge](www.tyndale.cam.ac.uk) with **CC BY-NC 4.0**   
 (the [code for STEPBible.org](https://github.com/tyndale/step) is on a separate licence)
 
 # This licence allows...
@@ -9,11 +8,13 @@ This public licence allows you to:
   (Though we'd love to hear from you about your project when you make it available.)  
 * **Request permission if your project is not free.** A reasonable request is unlikely to be refused.   
 * **Download the data and reformat it for your application, without changing the data itself.**  
-  (This specifically relaxes the ND restriction, as allowed by CC - see https://creativecommons.org/licenses/by-nd/4.0/legalcode)  
-* **Send any proposed corrections** to TyndaleStepATgmail.com  
-  (Please do not implement any change to the data till Tyndale scholars have verified it.)   
+  Any changes to the formatting, order and application can be made without needing to record it
+* **Make changes to the data and record the differences**   
+  You can make corrections or report possible errors to be checked at TyndaleStepATgmail.com
+  Any changes made to data should be recorded and made available to subsequent users.   
 * **Refer others to this repository as the source of the data.**   
-  Please do not redistribute it yourself. Updates or corrections are easier to implement when the data is distributed from a single source  
+  Updates or corrections are easier to implement when the data is distributed from a single source. 
+  You are welcome to make a mirror, so long as it is kept up-to-date and has a link back here. 
   
 And you should:   
 * **Credit it** to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com,  
