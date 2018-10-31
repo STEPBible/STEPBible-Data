@@ -1,28 +1,21 @@
-﻿Probs:
-* Zeruiah@1Sa.26.6 has the Siblings {David@Rut.4.17, Abigail@2Sa.17.25} 
-   and Abigail@2Sa.17.25 has {David@Rut.4.17, Zeruiah@1Sa.26.6}, 
-   but it would be better with the full set, per David:  {Eliab@1Sa.16.6, Abinadab@1Sa.16.8, Shimeah@1Sa.16.9, Zeruiah@1Sa.26.6, Abigail@2Sa.17.25, Nethanel@1Ch.2.14, Raddai@1Ch.2.14, Ozem@1Ch.2.15, Elihu@1Ch.27.18}
-
-
-
-TIPNR - Tyndale Individualised Proper Names with all References - TyndaleHouse.com STEPBible.org CC BY-NC-ND
+﻿TIPNR - Tyndale Individualised Proper Names with all References - TyndaleHouse.com STEPBible.org CC BY-NC
 =========================================================================
 Proper Nouns in the ESV (+ differences in KJV & NIV) with unique tag for each individual and location, with Hebrew/Greek forms and an exhaustive list of occurences
 
 ===========================================================
-Data created for www.STEPBible.org by Tyndale House Cambridge (CC BY-NC-ND 4.0)
+Data created for www.STEPBible.org by Tyndale House Cambridge (CC BY-NC 4.0)
 ===========================================================
 This licence allows you to:
 * Include any part of this data in free software or free publications without requesting permission 
 * Request permission if your project is not free. A reasonable request is unlikely to be refused.
-* Download the data and reformat it for your application, without changing the data
-* Send any proposed corrections to TyndaleStep@gmail.com to be verified by Tyndale scholars
-  (Do not make changes or corrections to any data you distribute or publish in any way) 
-* Refer others to this repository as the source of the data. Please do not redistribute it yourself. 
-  (Updates or corrections are easier to implement when the data is distributed from a single source)
+* Download the data and reformat it for your application
+* Refer others to this repository as the source of the data.
 And you should:
-* Credit it to "Tyndale House, Cambridge" (linked to www.TyndaleHouse.com), and to "STEP Bible" (linked to www.STEPBible.org) 
+* List any changes you make to the data. Please also send changes to TyndaleStep@gmail.com so that others can benefit.
+* Attribute the original data to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, 
+  and to "STEP Bible" linked to www.STEPBible.org
 * Link to its source at https://tyndale.github.io/STEPBible-Data/
+
 If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
 ==============================================================
 
@@ -6705,8 +6698,11 @@ Jahath@2Ch.34.12	Male living at the time of Divided monarchy	 +
 	Jahath@2Ch.34.12	H3189=יַ֫חַת	Jahath	2Ch.34.12; 
 $==========
 Jahaz@Num.21.23	Place	Jahaz	31.50100308502659,35.92063125199366
-	Jahaz@Num.21.23	H3096=יַ֫הַץ	Jahaz	Num.21.23; Deu.2.32; Jos.13.18; Jos.21.36; Jdg.11.20; Isa.15.4; Jer.48.34; 
-	Jahzah|Jahaz@Num.21.23	H3096=יַ֫הַץ	Jahzah (KJV= Jahazah)	1Ch.6.78; Jer.48.21; 
+	Jahaz@Num.21.23	H3096=יַ֫הַץה	Jahaz	Num.21.23; Deu.2.32; Jdg.11.20; 
+	Jahaz@Num.21.23	H3096=יַ֫הַץ	Jahaz	Isa.15.4; Jer.48.34; 
+	Jahaz@Num.21.23	H3096=יַ֫הַץה	Jahaz (KJV= Jahazah)	Jos.13.18; Jos.21.36; 
+	Jahzah|Jahaz@Num.21.23	H3096=יַ֫הַץה	Jahzah (KJV= Jahazah)	Jer.48.21; 
+	Jahzah|Jahaz@Num.21.23	H3096=יַ֫הַץה	Jahzah	1Ch.6.78; 
 $==========
 Jahaziel@1Ch.12.4	Male living at the time of Divided monarchy	 + 			
 	Jahaziel@1Ch.12.4	H3166=יַחֲזִיאֵל	Jahaziel	1Ch.12.4; 
@@ -11048,7 +11044,8 @@ Potiphera@Gen.41.45	Male living at the time of the first Patriarchs	 + 			Asenat
 	Potiphera@Gen.41.45	H6319=פּוֹטִי פֶ֫רַע	Potiphera (KJV= Poti-pherah)	Gen.41.45; Gen.41.50; Gen.46.20; 
 $==========
 Potsherd_Gate@Jer.19.2	Place	Potsherd Gate	31.777444,35.234935 = In Jerusalem
-	Potsherd_Gate@Jer.19.2	H2777=חַרְסִית	Potsherd( Gate)	Jer.19.2; 
+	Potsherd_Gate@Jer.19.2	H2777=חֲרָסוּת	Potsherd( Gate) (=Ketiv) 	Jer.19.2; 
+	Potsherd_Gate@Jer.19.2	H2777=חַרְסִית	Potsherd( Gate) (=Qere)	Jer.19.2; 
 $==========
 Preparation_Festival@Mat.27.62	Name of festival			
 	Preparation_Festival@Mat.27.62	G3904=παρασκευή	Preparation	Mat.27.62; Mrk.15.42; Luk.23.54; Jhn.19.14; Jhn.19.31a; Jhn.19.31b; Jhn.19.42; 
