@@ -37,7 +37,8 @@ Subverses occur when text is added to verses in some Bibles. The text that occur
 
 TEST: 
 These examine the points at which the traditions are different. They can be used to determine which tradition is being followed in a specific Bible. 
-English Bibles follow mostly the Hebrew tradition, with some differences. Because so many Bibles and most commentaries follow this same set of differences, "English"  is the standard versification, as defined by the NRSV
+English Bibles follow mostly the Hebrew tradition, with some differences. Because so many Bibles and most commentaries follow this same set of differences, 
+English standard is defined by the NRSV which is virtually identical to KJV (it divides 1Jn.14 to create the extra verse 15). 
 East-European or Orthodox Bibles tend to follow the Greek traditions, and West-European or Catholic Bibles tend to follow the Latin tradition. Jewish translations tend to follow the Hebrew tradition. 
 However, many Bibles employ a mixture of traditions by following English, Hebrew, Latin or Greek traditional versification for different sections of the Bible. 
 
@@ -88,7 +89,7 @@ Occasionally the differences result in a change to verse order. This is marked b
 Section (in Eng refs)	Alignment	English	Hebrew	Latin	Greek	[Other Greek, Slavonic etc.]		
 ============================================================================================================================================
 
-$Gen.5:31-6:1	English	Hebrew	Latin	Greek	Greek undivided 	Latin undived
+$Gen.5:31-6:1	English	Hebrew	Latin	Greek	Greek undivided 	Latin undivided
 TEST: If... 	Gen.5:32=Last	Gen.5:32=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	
 TEST: And if... 	Gen.6:1<6:2	Gen.6:1<6:2	Gen.6:1<6:2	Gen.6:1>6:2	Gen.6:1>6:2	Gen.6:1<6:2
 TEST: And if... 	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=Exist 	Gen.5:31.2=Exist
@@ -371,7 +372,7 @@ DuplicateTarget	Jdg.21:24-25	Jdg.21:24-25	Jdg.21:24	Jdg.21:24-25
 
 $1Sa.20:42-21:15	English	Hebrew	Latin	Greek	
 TEST: If...	1Sa.21:15=Last	1Sa.21:16=Last	1Sa.21:15=Last	1Sa.21:16=Last			
-TEST: And if... 	1Sa.20:42=Last		1Sa.20:43=Last				
+TEST: And if... 	1Sa.20:42=Last	1Sa.20:42=Last	1Sa.20:43=Last	1Sa.20:42=Last			
 Concatenation	1Sa.20:42	1Sa.20:42; 21:1	1Sa.20:42-43	1Sa.20:42; 21:1			
 OneToOne	1Sa.21:1-15	1Sa.21:2-16	1Sa.21:1-15	1Sa.21:2-16			
 
@@ -638,13 +639,15 @@ TEST: If...	Job.16:22=Last	Job.16:22=Last	Job.16:23=Last	Job.16:22=Last
 Concatenation	Job.16:4	Job.16:4	Job.16:4-5	Job.16:4			
 OneToOne	Job.16:5-22	Job.16:5-22	Job.16:6-23	Job.16:5-22			
 
-$Job.40:1-41:34	English	Hebrew	Latin	Greek	
-TEST: If...	Job.41:34=Last	Job.41:26=Last	Job.41:25=Last	Job.41:26=Last			
-OneToOne	Job.40:1-5	Job.40:1-5	Job.39:31-35	Job.40:1-5			
-OneToOne	Job.40:6-24	Job.40:6-24	Job.40:1-19	Job.40:6-24			
-OneToOne	Job.41:1-8	Job.40:25-32	Job.40:20-27	Job.40:25-32			
-OneToOne	Job.41:9	Job.41:1	Job.40:28	Job.41:1			
-OneToOne	Job.41:10-34	Job.41:2-26	Job.41:1-25	Job.41:2-26			
+$Job.40:1-41:34	English	Hebrew	Latin	Greek	Spanish RV 	
+TEST: If...	Job.40:24	Job.40:32	Job.40:28	Job.40:32	Job.40:30
+OneToOne	Job.38:38-41	Job.38:38-41	Job.38:38-41	Job.38:38-41	Job.39:1-3
+OneToOne	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:4-33
+OneToOne	Job.40:1-5	Job.40:1-5	Job.39:31-35	Job.40:1-5	Job.39:34-38		
+OneToOne	Job.40:6-24	Job.40:6-24	Job.40:1-19	Job.40:6-24	Job.40:1-19		
+OneToOne	Job.41:1-8	Job.40:25-32	Job.40:20-27	Job.40:25-32	Job.41:1-8
+OneToOne	Job.41:9	Job.41:1	Job.40:28	Job.41:1	Job.41:9
+OneToOne	Job.41:10-34	Job.41:2-26	Job.41:1-25	Job.41:2-26	Job.41:10-34
 
 $Job.42:16-17	English	Hebrew	Latin	Greek	
 TEST: If...	Job.42:17=Last	Job.42:17=Last	Job.42:16=Last	Job.42:17=Last			
@@ -2147,8 +2150,6 @@ DuplicateTarget	Wis.19:21-22	Wis.19:20	Wis.19:21-22
 
 
 
-
-
 $Mat.17:14-17:27	English	Latin	Greek	
 TEST: If...	Mat.17:27=Last	Mat.17:26=Last	Mat.17:27=Last	
 DuplicateTarget	Mat.17:14-15	Mat.17:14	Mat.17:14-15	
@@ -2189,11 +2190,13 @@ $3Jn.14-15	English	English RSV etc	KJV etc
 TEST: If...	3Jn.15=Last	3Jn.15=Last	3Jn.14=Last
 DuplicateTarget	3Jn.14-15	3Jn.14-15	3Jn.1:14
 
+
+
 $Mrk.16:9-20	English	English RSV etc	KJV etc
 TEST: If...	Mrk.16:8=Last	Mrk.16:8=Last	Mrk.16:20=Last
 PassageMissing	Mrk.16:9-20	Absent 	Mrk.16:9-20
 
-$Mrk.16:9-20	English	English RSV etc	KJV etc
+$Jhn.7:38-8:11	English	English RSV etc	KJV etc
 TEST: If...	Jhn.8:1=NotExist	Jhn.8:1=NotExist	Jhn.8:1=Exist
 PassageMissing	Jhn.7:53-8:11	Absent	Jhn.7:53-8:11
 
@@ -2256,7 +2259,6 @@ TextMayBeMissing	Luk.23:17	Absent [=Mat.27:15; Mrk.15:6]	Luk.23:17
 $Jhn.5:3b-4	English	English RSV etc	KJV etc
 TEST: If...	Jhn.5:4=NotExist	Jhn.5:4=NotExist	Jhn.5:4=Exist
 TextMayBeMissing	Jhn.5:4	Absent	Jhn.5:4
-
 
 $Act.24:6b-8a	English	English RSV etc	KJV etc
 TEST: If...	Act.24:7=NotExist	Act.24:7=NotExist	Act.24:7=Exist
