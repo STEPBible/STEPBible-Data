@@ -17,8 +17,7 @@ yndale.github.io/STEPBible-Data/
 
 If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
 ==============================================================
-
-For fuller notes and expanded data for each verse, see https://drive.google.com/file/d/1lRbxrC-Sn8CHMsA9t5bTyYb036wz8awM
+For fuller notes and expanded data for each verse, see https://drive.google.com/file/d/1lRbxrC-Sn8CHMsA9t5bTyYb036wz8awM - created by Jamie Critos who did most of the programming for creating this data. 
 
 
 FIELD DESCRIPTIONS:
@@ -82,7 +81,7 @@ PassageMissing	occurs at the start of passages that are missing in some manuscri
 StartDifferent	occurs where verse divisions can occur in slightly different positions, e.g. Rev.13:1 
 Concatenation	occurs when one verse merges more than one verse in another Bible, e.g. 3Jn.1:14-15]
 
-Occasionally the differences result in a change to verse order. This is marked by "(incl. order changes)". This occurs only in Latin "Sir" and Greek at   Exo.20:13-15; 21.16-17; 35:8-27; 37:1--38:31; 39:32-42; 40:30-31; Num.1.24-25; 10:34; 26:15-47; Jos.24:31;  1Ki.3:1; 4.20-21, 25-28; 6:1; 7:1-12, 21, 25; 9:16, 23-25; 11:5-8; 22:46-49;  Jer.31:37; 49:7-39; Ezk.7:3-5; Mal.4.6; (using English verse numbers)
+Occasionally the differences result in a change to verse order. This is marked by an asterix in the top row, e.g."Greek *". This occurs only in Latin "Sir" and in Greek at   Exo.20:13-15; 21.16-17; 35:8-27; 37:1--38:31; 39:32-42; 40:30-31; Num.1.24-25; 10:34; 26:15-47; Jos.24:31;  1Ki.3:1; 4.20-21, 25-28; 6:1; 7:1-12, 21, 25; 9:16, 23-25; 11:5-8; 22:46-49;  Jer.31:37; 49:7-39; Ezk.7:3-5; Mal.4.6; (using English verse numbers)
 
 
 
