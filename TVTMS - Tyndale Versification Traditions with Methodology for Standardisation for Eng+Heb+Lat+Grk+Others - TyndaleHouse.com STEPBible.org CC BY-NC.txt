@@ -192,7 +192,7 @@ LongVerseElsewhereJoin	Exo.37:23	Exo.37:23	Exo.37:23	Exo.38:17.0, 17.7	Exo.38:17
 LongVerseElsewhere	Exo.37:24-28	Exo.37:24-28	Exo.37:24-28	Exo.38:17.8-12	NoVerse [=Exo.38:17.8-12]			
 OneToOne	Exo.37:29	Exo.37:29	Exo.37:29	Exo.38:25	Exo.38:25			
 
-$Exo.38:1-38:31	English	Hebrew	Latin	Greek *						(incl. order changes)
+$Exo.38:1-38:31	English	Hebrew	Latin	Greek *		
 TEST: If...	Exo.38:31=Last	Exo.38:31=Last	Exo.38:31=Last	Exo.38:27=Last			
 OneToOne	Exo.38:1	Exo.38:1	Exo.38:1	Exo.38:22			
 OneToOne	Exo.38:2	Exo.38:2	Exo.38:2	Exo.39:10			
@@ -207,7 +207,7 @@ OneToOne	Exo.38:24-26	Exo.38:24-26	Exo.38:24-26	Exo.39:1-3
 Concatenation	Exo.38:27	Exo.38:27	Exo.38:27	Exo.39:4-5			
 OneToOne	Exo.38:28-31	Exo.38:28-31	Exo.38:28-31	Exo.39:6-9			
 
-$Exo.39:1-39:43	English	Hebrew	Latin	Greek *						(incl. order changes)
+$Exo.39:1-39:43	English	Hebrew	Latin	Greek *			
 TEST: If...	Exo.39:43=Last	Exo.39:43=Last	Exo.39:43=Last	Exo.39:23=Last			
 Concatenation	Exo.39:1	Exo.39:1	Exo.39:1	Exo.36:8; 39:13			
 OneToOne	Exo.39:2-15	Exo.39:2-15	Exo.39:2-15	Exo.36:9-22			
@@ -227,7 +227,7 @@ OneToOne	Exo.39:40	Exo.39:40	Exo.39:40	Exo.39:20
 OneToOne	Exo.39:41	Exo.39:41	Exo.39:41	Exo.39:19			
 OneToOne	Exo.39:42-43	Exo.39:42-43	Exo.39:42-43	Exo.39:22-23			
 
-$Exo.40:9-40:38	English	Hebrew	Latin	Greek *						(incl. order changes)
+$Exo.40:9-40:38	English	Hebrew	Latin	Greek *		
 TEST: If...	Exo.40:38=Last	Exo.40:38=Last	Exo.40:36=Last	Exo.40:32=Last			
 OneToOne	Exo.40:9	Exo.40:9	Exo.40:9	Exo.40:7			
 Concatenation	Exo.40:10	Exo.40:10	Exo.40:10	Exo.40:8-9			
@@ -425,7 +425,7 @@ LongVerse/LVElsewhere	1Ki.6:1	1Ki.6:1	1Ki.6:1	1Ki.6:1.0-4 [=5:17-18; 6:37-38]	1K
 LongVerseElsewhere	1Ki.6:37	1Ki.6:37	1Ki.6:37	1Ki.6:1.3	NoVerse [=1Ki.6:1.3]		
 LongVerseElsewhere	1Ki.6:38	1Ki.6:38	1Ki.6:38	1Ki.6:1.4	NoVerse [=1Ki.6:1.4]		
 
-$1Ki.7:1-7:51	English	Hebrew	Latin	Greek *						(incl. order changes)
+$1Ki.7:1-7:51	English	Hebrew	Latin	Greek *		
 TEST: If...	1Ki.7:51=Last	1Ki.7:51=Last	1Ki.7:51=Last	1Ki.7:50=Last			
 Concatenation	1Ki.7:1	1Ki.7:1	1Ki.7:1	1Ki.7:38, 50			
 OneToOne	1Ki.7:2-12	1Ki.7:2-12	1Ki.7:2-12	1Ki.7:39-49			
@@ -464,7 +464,7 @@ LongVerse/LVElsewhere	1Ki.9:9	1Ki.9:9	1Ki.9:9	1Ki.9:9.0-1 [=9:24]	1Ki.9:9 [=9:24
 LongVerse/LVElsewhere	1Ki.10:22	1Ki.10:22	1Ki.10:22	1Ki.10:22.0-3 [=9:15,17-22]	1Ki.10:22 [=9:15,17-22]		
 LongVerse/LVElsewhere	1Ki.10:26	1Ki.10:26	1Ki.10:26	1Ki.10:26.0-1 [=4:21]	1Ki.10:26 [=4:21]		
 
-$1Ki.11:5-11:8	English	Hebrew	Latin	Greek *	Greek undivided *
+$1Ki.11:5-11:8	English	Hebrew	Latin	Greek *	
 TEST: If...	1Ki.11:5<11:7	1Ki.11:5<11:7	1Ki.11:5<11:7	1Ki.11:5>11:7			
 OneToOne	1Ki.11:5	1Ki.11:5	1Ki.11:5	1Ki.11:6			
 OneToOne	1Ki.11:6	1Ki.11:6	1Ki.11:6	1Ki.11:8			
@@ -1603,7 +1603,7 @@ TEST: If...	Zec.2:13=Last	Zec.2:17=Last	Zec.2:13=Last	Zec.2:13=Last
 OneToOne	Zec.1:18-21	Zec.2:1-4	Zec.1:18-21	Zec.1:18-21			
 OneToOne	Zec.2:1-13	Zec.2:5-17	Zec.2:1-13	Zec.2:1-13			
 
-$Mal.4:1-4:6	English	Hebrew	Latin	Greek						(incl. order changes)
+$Mal.4:1-4:6	English	Hebrew	Latin	Greek*
 TEST: If...	Mal.3:18=Last	Mal.3:24=Last	Mal.3:18=Last	Mal.3:18=Last			
 TEST: And if... 	Mal.4:5<4:6	Mal.3:23<3:24	Mal.4:5<4:6	Mal.4:5>4:6			
 OneToOne	Mal.4:1-3	Mal.3:19-21	Mal.4:1-3	Mal.4:1-3			
@@ -1678,11 +1678,12 @@ OneToOne	Sir.5:8-13	Sir.5:10-15	Sir.5:8-13
 Concatenation	Sir.5:14	Sir.5:16-17	Sir.5:14			
 OneToOne	Sir.5:15	Sir.5:18	Sir.5:15			
 
-$Sir.6:19-7:36	English	Latin	Greek					(incl changed order)
+$Sir.6:19-7:36	English	Latin*	Greek	
 TEST: If...	Sir.7:36=Last	Sir.7:40=Last	Sir.7:36=Last			
 Concatenation	Sir.6:19	Sir.6:19-20	Sir.6:19			
 OneToOne	Sir.6:20-33	Sir.6:21-34	Sir.6:20-33			
-DuplicateTarget	Sir.6:34-35	Sir.6:35	Sir.6:34-35OneToOne	Sir.7:9	Sir.7:11	Sir.7:9			
+DuplicateTarget	Sir.6:34-35	Sir.6:35	Sir.6:34-35
+OneToOne	Sir.7:9	Sir.7:11	Sir.7:9			
 Concatenation	Sir.7:10	Sir.7:9-10	Sir.7:10			
 OneToOne	Sir.7:11-15	Sir.7:12-16	Sir.7:11-15			
 Concatenation	Sir.7:16	Sir.7:17-18	Sir.7:16			
@@ -1698,7 +1699,7 @@ Concatenation	Sir.8:8	Sir.8:9-10	Sir.8:8
 Concatenation	Sir.8:9	Sir.8:11-12	Sir.8:9			
 OneToOne	Sir.8:10-19	Sir.8:13-22	Sir.8:10-19			
 
-$Sir.9:8-9:18	English	Latin	Greek					(incl changed order)
+$Sir.9:8-9:18	English	Latin*	Greek	
 TEST: If...	Sir.9:18=Last	Sir.9:25=Last	Sir.9:18=Last			
 Concatenation	Sir.9:8	Sir.9:8-11	Sir.9:8			
 Concatenation	Sir.9:9	Sir.9:12-13	Sir.9:9			
@@ -1753,8 +1754,10 @@ Concatenation	Sir.14:16	Sir.14:16-17	Sir.14:16
 OneToOne	Sir.14:17-18	Sir.14:18-19	Sir.14:17-18			
 Concatenation	Sir.14:19	Sir.14:20-21	Sir.14:19			
 OneToOne	Sir.14:20	Sir.14:22	Sir.14:20			
-DuplicateTarget	Sir.14:21-22	Sir.14:23	Sir.14:21-22			OneToOne	Sir.14:23	Sir.14:24	Sir.14:23			
-DuplicateTarget	Sir.14:24-25	Sir.14:25	Sir.14:24-25			Concatenation	Sir.15:15	Sir.15:15-16	Sir.15:15			
+DuplicateTarget	Sir.14:21-22	Sir.14:23	Sir.14:21-22			
+OneToOne	Sir.14:23	Sir.14:24	Sir.14:23			
+DuplicateTarget	Sir.14:24-25	Sir.14:25	Sir.14:24-25			
+Concatenation	Sir.15:15	Sir.15:15-16	Sir.15:15			
 OneToOne	Sir.15:16-20	Sir.15:17-21	Sir.15:16-20			
 
 $Sir.16:1-16:30	English	Latin	Greek	
@@ -1772,8 +1775,10 @@ $Sir.17:2-17:32	English	Latin	Greek
 TEST: If...	Sir.17:32=Last	Sir.17:31=Last	Sir.17:32=Last			
 OneToOne	Sir.17:2	Sir.17:3	Sir.17:2			
 OneToOne	Sir.17:3	Sir.17:2	Sir.17:3			
-DuplicateTarget	Sir.17:5-6	Sir.17:5	Sir.17:5-6			OneToOne	Sir.17:7-8	Sir.17:6-7	Sir.17:7-8			
-DuplicateTarget	Sir.17:9-10	Sir.17:8	Sir.17:9-10			OneToOne	Sir.17:11-15	Sir.17:9-13	Sir.17:11-15			
+DuplicateTarget	Sir.17:5-6	Sir.17:5	Sir.17:5-6			
+OneToOne	Sir.17:7-8	Sir.17:6-7	Sir.17:7-8			
+DuplicateTarget	Sir.17:9-10	Sir.17:8	Sir.17:9-10			
+OneToOne	Sir.17:11-15	Sir.17:9-13	Sir.17:11-15			
 TextMayBeMissing	Sir.17:16	NoVerse	Sir.17:16			
 OneToOne	Sir.17:17	Sir.17:14	Sir.17:17			
 OneToOne	Sir.17:18	Sir.17:15	Sir.17:18			
@@ -1789,8 +1794,10 @@ OneToOne	Sir.17:29-32	Sir.17:28-31	Sir.17:29-32
 $Sir.18:1-19:27	English	Latin *	Greek	
 TEST: If...	Sir.19:30=Last	Sir.19:28=Last	Sir.19:30=Last			
 TEST: And if... 			Sir.18:10>18:12			
-DuplicateTarget	Sir.18:1-2	Sir.18:1	Sir.18:1-2			OneToOne	Sir.18:3-8	Sir.18:2-7	Sir.18:3-8			
-DuplicateTarget	Sir.18:9-10	Sir.18:8	Sir.18:9-10			OneToOne	Sir.18:11	Sir.18:9	Sir.18:11			
+DuplicateTarget	Sir.18:1-2	Sir.18:1	Sir.18:1-2			
+OneToOne	Sir.18:3-8	Sir.18:2-7	Sir.18:3-8			
+DuplicateTarget	Sir.18:9-10	Sir.18:8	Sir.18:9-10			
+OneToOne	Sir.18:11	Sir.18:9	Sir.18:11			
 Concatenation	Sir.18:12	Sir.18:10-11	Sir.18:12			
 Concatenation	Sir.18:13	Sir.18:12-13	Sir.18:13			
 TextMayBeMissing	Sir.19:18-19	Absent	Sir.19:18-19			
@@ -1799,12 +1806,14 @@ TextMayBeMissing	Sir.19:21	Absent	Sir.19:21
 OneToOne	Sir.19:22	Sir.19:19	Sir.19:22			
 OneToOne	Sir.19:23-24	Sir.19:20-21	Sir.19:23-24			
 Concatenation	Sir.19:25	Sir.19:22-23	Sir.19:25			
-DuplicateTarget	Sir.19:26-27	Sir.19:26	Sir.19:24			OneToOne	Sir.19:28-30	Sir.19:25-27	Sir.19:28-30			
+DuplicateTarget	Sir.19:26-27	Sir.19:26	Sir.19:24			
+OneToOne	Sir.19:28-30	Sir.19:25-27	Sir.19:28-30			
 
 $Sir.20:1-20:31	English	Latin	Greek	
 TEST: If...	Sir.20:31=Last	Sir.20:33=Last	Sir.20:31=Last			
 OneToOne	Sir.20:1	Sir.19:28	Sir.20:1			
-DuplicateTarget	Sir.20:2-3	Sir.20:1	Sir.20:2-3			Concatenation	Sir.20:4	Sir.20:2-3	Sir.20:4			
+DuplicateTarget	Sir.20:2-3	Sir.20:1	Sir.20:2-3			
+Concatenation	Sir.20:4	Sir.20:2-3	Sir.20:4			
 Concatenation	Sir.20:5	Sir.20:4-5	Sir.20:5			
 Concatenation	Sir.20:15	Sir.20:15-16	Sir.20:15			
 OneToOne	Sir.20:16	Sir.20:17	Sir.20:16			
@@ -1966,13 +1975,15 @@ OneToOne	Sir.32:9	Sir.32:13	Sir.32:9
 OneToOne	Sir.32:10-17	Sir.32:14-21	Sir.32:10-17			
 Concatenation	Sir.32:18	Sir.32:22-23	Sir.32:18			
 OneToOne	Sir.32:19	Sir.32:24	Sir.32:19			
-DuplicateTarget	Sir.32:20-21	Sir.32:25	Sir.32:20-21			OneToOne	Sir.32:22-24	Sir.32:26-28	Sir.32:22-24			
+DuplicateTarget	Sir.32:20-21	Sir.32:25	Sir.32:20-21			
+OneToOne	Sir.32:22-24	Sir.32:26-28	Sir.32:22-24			
 
 $Sir.33:28-37:18	English	Latin	Greek	
 TEST: If...	Sir.37:31=Last	Sir.37:34=Last	Sir.37:31=Last			
 Concatenation	Sir.33:28	Sir.33:28-29	Sir.33:28			
 OneToOne	Sir.33:29	Sir.33:30	Sir.33:29			
-DuplicateTarget	Sir.33:30-31	Sir.33:31	Sir.33:30-31			Concatenation	Sir.34:10	Sir.34:10-11	Sir.34:10			
+DuplicateTarget	Sir.33:30-31	Sir.33:31	Sir.33:30-31			
+Concatenation	Sir.34:10	Sir.34:10-11	Sir.34:10			
 OneToOne	Sir.34:11-12	Sir.34:12-13	Sir.34:11-12			
 Concatenation	Sir.34:13	Sir.34:14-15	Sir.34:13			
 OneToOne	Sir.34:14	Sir.34:16	Sir.34:14			
@@ -1990,7 +2001,8 @@ OneToOne	Sir.37:10	Sir.37:7	Sir.37:10
 Concatenation	Sir.37:11	Sir.37:12-14	Sir.37:11			
 Concatenation	Sir.37:12	Sir.37:15-16	Sir.37:12			
 OneToOne	Sir.37:13-16	Sir.37:17-20	Sir.37:13-16			
-DuplicateTarget	Sir.37:17-18	Sir.37:21	Sir.37:17-18			OneToOne	Sir.37:19-31	Sir.37:22-34	Sir.37:19-31			
+DuplicateTarget	Sir.37:17-18	Sir.37:21	Sir.37:17-18			
+OneToOne	Sir.37:19-31	Sir.37:22-34	Sir.37:19-31			
 
 $Sir.38:18-38:34	English	Latin	Greek	
 TEST: If...	Sir.38:34=Last	Sir.38:39=Last	Sir.38:34=Last			
@@ -2071,7 +2083,8 @@ Concatenation	Sir.45:19	Sir.45:23-24	Sir.45:19
 OneToOne	Sir.45:20-22	Sir.45:25-27	Sir.45:20-22			
 Concatenation	Sir.45:23	Sir.45:28-29	Sir.45:23			
 OneToOne	Sir.45:24	Sir.45:30	Sir.45:24			
-DuplicateTarget	Sir.45:25-26	Sir.45:31	Sir.45:25-26			
+DuplicateTarget	Sir.45:25-26	Sir.45:31	Sir.45:25-26			
+
 $Sir.46:1-46:20	English	Latin	Greek	
 TEST: If...	Sir.46:20=Last	Sir.46:23=Last	Sir.46:20=Last			
 Concatenation	Sir.46:1	Sir.46:1-2	Sir.46:1			
@@ -2087,7 +2100,8 @@ Concatenation	Sir.47:4	Sir.47:4-5	Sir.47:4
 OneToOne	Sir.47:5-7	Sir.47:6-8	Sir.47:5-7			
 Concatenation	Sir.47:8	Sir.47:9-10	Sir.47:8			
 OneToOne	Sir.47:9-12	Sir.47:11-14	Sir.47:9-12			
-DuplicateTarget	Sir.47:13-14	Sir.47:15	Sir.47:13-14			OneToOne	Sir.47:15-17	Sir.47:16-18	Sir.47:15-17			
+DuplicateTarget	Sir.47:13-14	Sir.47:15	Sir.47:13-14			
+OneToOne	Sir.47:15-17	Sir.47:16-18	Sir.47:15-17			
 Concatenation	Sir.47:18	Sir.47:19-20	Sir.47:18			
 OneToOne	Sir.47:19-21	Sir.47:21-23	Sir.47:19-21			
 Concatenation	Sir.47:22	Sir.47:24-25	Sir.47:22			
