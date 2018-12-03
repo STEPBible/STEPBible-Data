@@ -81,14 +81,14 @@ PassageMissing	occurs at the start of passages that are missing in some manuscri
 StartDifferent	occurs where verse divisions can occur in slightly different positions, e.g. Rev.13:1 
 Concatenation	occurs when one verse merges more than one verse in another Bible, e.g. 3Jn.1:14-15]
 
-Occasionally the differences result in a change to verse order. This is marked by an asterix in the top row, e.g."Greek *". This occurs only in Latin "Sir" and in Greek at   Exo.20:13-15; 21.16-17; 35:8-27; 37:1--38:31; 39:32-42; 40:30-31; Num.1.24-25; 10:34; 26:15-47; Jos.24:31;  1Ki.3:1; 4.20-21, 25-28; 6:1; 7:1-12, 21, 25; 9:16, 23-25; 11:5-8; 22:46-49;  Jer.31:37; 49:7-39; Ezk.7:3-5; Mal.4.6; (using English verse numbers)
+Occasionally the differences result in a change to verse order. This is marked by an asterix in the top row, e.g."Greek*". This occurs only in Latin "Sir" and in Greek at   Exo.20:13-15; 21.16-17; 35:8-27; 37:1--38:31; 39:32-42; 40:30-31; Num.1.24-25; 10:34; 26:15-47; Jos.24:31;  1Ki.3:1; 4.20-21, 25-28; 6:1; 7:1-12, 21, 25; 9:16, 23-25; 11:5-8; 22:46-49;  Jer.31:37; 49:7-39; Ezk.7:3-5; Mal.4.6; (using English verse numbers)
 
 
 
-Section (in Eng refs)	Alignment	English	Hebrew	Latin	Greek	[Other Greek, Slavonic etc.]		
+Section (in Eng refs)	Alignment	English	Hebrew	Latin	Greek	[Greek2, Slavonic etc.]		
 ============================================================================================================================================
 
-$Gen.5:31-6:1	English	Hebrew	Latin	Greek	Greek undivided 	Latin undivided
+$Gen.5:31-6:1	English	Hebrew	Latin	Greek	GreekUndivided	LatinUndivided
 TEST: If... 	Gen.5:32=Last	Gen.5:32=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	
 TEST: And if... 	Gen.6:1<6:2	Gen.6:1<6:2	Gen.6:1<6:2	Gen.6:1>6:2	Gen.6:1>6:2	Gen.6:1<6:2
 TEST: And if... 	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=Exist 	Gen.5:31.2=Exist
@@ -117,7 +117,7 @@ TEST: If...	Exo.7:25=Last	Exo.7:29=Last	Exo.7:25=Last	Exo.7:25=Last
 OneToOne	Exo.8:1-4	Exo.7:26-29	Exo.8:1-4	Exo.8:1-4			
 OneToOne	Exo.8:5-32	Exo.8:1-28	Exo.8:5-32	Exo.8:5-32			
 
-$Exo.20:13-20:15	English	Hebrew	Latin	Greek *
+$Exo.20:13-20:15	English	Hebrew	Latin	Greek*
 TEST: If...	Exo.37:29=Last	Exo.37:29=Last	Exo.37:29=Last	Exo.37:21=Last			
 OneToOne	Exo.20:13	Exo.20:13	Exo.20:13	Exo.20:15			
 OneToOne	Exo.20:14	Exo.20:14	Exo.20:14	Exo.20:13			
@@ -128,7 +128,7 @@ TEST: If...	Exo.21:36=Last	Exo.21:37=Last	Exo.21:36=Last	Exo.21:36=Last
 OneToOne	Exo.22:1	Exo.21:37	Exo.22:1	Exo.22:1			
 OneToOne	Exo.22:2-31	Exo.22:1-30	Exo.22:2-31	Exo.22:2-31			
 
-$Exo.21:16-21:17	English	Hebrew	Latin	Greek *
+$Exo.21:16-21:17	English	Hebrew	Latin	Greek*
 TEST: If...	Exo.21:16>21:17	Exo.21:16>21:17	Exo.21:16>21:17	Exo.21:16<21:17			
 OneToOne	Exo.21:16	Exo.21:16	Exo.21:16	Exo.21:17			
 OneToOne	Exo.21:17	Exo.21:17	Exo.21:17	Exo.21:16			
@@ -138,7 +138,7 @@ TEST: If...	Exo.25:34<25:33	Exo.25:34<25:33	Exo.25:34<25:33	Exo.25:34>25:33
 OneToOne	Exo.25:6-34	Exo.25:6-34	Exo.25:6-34	Exo.25:7-35			
 TextMayBeMissing	Exo.25:35	Exo.25:35	Exo.25:35	Absent			
 
-$Exo.28:22-28:43	English	Hebrew	Latin	Greek	Greek undivided
+$Exo.28:22-28:43	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	Exo.28:43=Last	Exo.28:43=Last	Exo.28:43=Last	Exo.28:39=Last	Exo.28:39=Last
 TEST: And if... 	Exo.28:21>28:22	Exo.28:21>28:22	Exo.28:21>28:22	Exo.28:21<28:22	Exo.28:21<28:22	
 TEST: And if... 				Exo.28:22.1=Exist	Exo.28:22.1=NotExist	
@@ -147,7 +147,7 @@ LongVerseElsewhere	Exo.28:23-28	Exo.28:23-28	Exo.28:23-28	Exo.28:22.1-6	NoVerse 
 Concatenation	Exo.28:29	Exo.28:29	Exo.28:29	Exo.28:23-25	Exo.28:23-25		
 OneToOne	Exo.28:30-43	Exo.28:30-43	Exo.28:30-43	Exo.28:26-39	Exo.28:26-39		
 
-$Exo.35:8-35:27	English	Hebrew	Latin	Greek *
+$Exo.35:8-35:27	English	Hebrew	Latin	Greek*
 TEST: If...	Exo.35:16>35:18	Exo.35:16>35:18	Exo.35:16>35:18	Exo.35:16<35:18			
 OneToOne	Exo.35:8	Exo.35:8	Exo.35:8	Exo.35:14			
 OneToOne	Exo.35:9	Exo.35:9	Exo.35:9	Exo.35:13			
@@ -161,7 +161,7 @@ DuplicateTarget	Exo.35:17-18	Exo.35:17-18	Exo.35:17-18	Exo.35:12
 Concatenation	Exo.35:19	Exo.35:19	Exo.35:19	Exo.35:18-19			
 Concatenation	Exo.35:27	Exo.35:27	Exo.35:27	Exo.35:27-28			
 
-$Exo.36:8-36:38	English	Hebrew	Latin	Greek	Greek undivided
+$Exo.36:8-36:38	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	Exo.36:38=Last	Exo.36:38=Last	Exo.36:38=Last	Exo.36:40=Last	Exo.36:40=Last		
 TEST: And if... 				Exo.37:2.1=Exist	Exo.37:2.1=NotExist
 LongVerseElsewhereJoin	Exo.36:8	Exo.36:8	Exo.36:8	Exo.37:1,2.1	Exo.37:1			
@@ -171,7 +171,7 @@ LongVerseElsewhere	Exo.36:13	Exo.36:13	Exo.36:13	Exo.37:2.6	NoVerse [=Exo.37:2.6
 LongVerseElsewhere	Exo.36:14-34	Exo.36:14-34	Exo.36:14-34	Exo.37:2.7-27	NoVerse [=Exo.37:2.7-27]			
 OneToOne	Exo.36:35-38	Exo.36:35-38	Exo.36:35-38	Exo.37:3-6	Exo.37:3-6			
 
-$Exo.37:1-37:29	English	Hebrew	Latin	Greek *	Greek undivided *
+$Exo.37:1-37:29	English	Hebrew	Latin	Greek*	GreekUndivided*
 TEST: If...	Exo.37:29=Last	Exo.37:29=Last	Exo.37:29=Last	Exo.37:21=Last	Exo.37:21=Last		
 TEST: And if... 				Exo.38:11.1=Exist	Exo.38:11.1=NotExist
 OneToOne	Exo.37:1-3	Exo.37:1-3	Exo.37:1-3	Exo.38:1-3	Exo.38:1-3			
@@ -192,7 +192,7 @@ LongVerseElsewhereJoin	Exo.37:23	Exo.37:23	Exo.37:23	Exo.38:17.0, 17.7	Exo.38:17
 LongVerseElsewhere	Exo.37:24-28	Exo.37:24-28	Exo.37:24-28	Exo.38:17.8-12	NoVerse [=Exo.38:17.8-12]			
 OneToOne	Exo.37:29	Exo.37:29	Exo.37:29	Exo.38:25	Exo.38:25			
 
-$Exo.38:1-38:31	English	Hebrew	Latin	Greek *		
+$Exo.38:1-38:31	English	Hebrew	Latin	Greek*		
 TEST: If...	Exo.38:31=Last	Exo.38:31=Last	Exo.38:31=Last	Exo.38:27=Last			
 OneToOne	Exo.38:1	Exo.38:1	Exo.38:1	Exo.38:22			
 OneToOne	Exo.38:2	Exo.38:2	Exo.38:2	Exo.39:10			
@@ -207,7 +207,7 @@ OneToOne	Exo.38:24-26	Exo.38:24-26	Exo.38:24-26	Exo.39:1-3
 Concatenation	Exo.38:27	Exo.38:27	Exo.38:27	Exo.39:4-5			
 OneToOne	Exo.38:28-31	Exo.38:28-31	Exo.38:28-31	Exo.39:6-9			
 
-$Exo.39:1-39:43	English	Hebrew	Latin	Greek *			
+$Exo.39:1-39:43	English	Hebrew	Latin	Greek*			
 TEST: If...	Exo.39:43=Last	Exo.39:43=Last	Exo.39:43=Last	Exo.39:23=Last			
 Concatenation	Exo.39:1	Exo.39:1	Exo.39:1	Exo.36:8; 39:13			
 OneToOne	Exo.39:2-15	Exo.39:2-15	Exo.39:2-15	Exo.36:9-22			
@@ -227,7 +227,7 @@ OneToOne	Exo.39:40	Exo.39:40	Exo.39:40	Exo.39:20
 OneToOne	Exo.39:41	Exo.39:41	Exo.39:41	Exo.39:19			
 OneToOne	Exo.39:42-43	Exo.39:42-43	Exo.39:42-43	Exo.39:22-23			
 
-$Exo.40:9-40:38	English	Hebrew	Latin	Greek *		
+$Exo.40:9-40:38	English	Hebrew	Latin	Greek*		
 TEST: If...	Exo.40:38=Last	Exo.40:38=Last	Exo.40:36=Last	Exo.40:32=Last			
 OneToOne	Exo.40:9	Exo.40:9	Exo.40:9	Exo.40:7			
 Concatenation	Exo.40:10	Exo.40:10	Exo.40:10	Exo.40:8-9			
@@ -260,7 +260,7 @@ $Lev.26:45-46	English	Hebrew	Latin	Greek
 TEST: If...	Lev.26:46=Last	Lev.26:46=Last	Lev.26:45=Last	Lev.26:46=Last			
 DuplicateTarget	Lev.26:45-46	Lev.26:45-46	Lev.26:45	Lev.26:45-46			
 
-$Num.1:24-1:37	English	Hebrew	Latin	Greek *
+$Num.1:24-1:37	English	Hebrew	Latin	Greek*
 TEST: If...	Num.1:30<1:32	Num.1:30<1:32	Num.1:30<1:32	Num.1:30>1:32			
 OneToOne	Num.1:24-25	Num.1:24-25	Num.1:24-25	Num.1:36-37			
 OneToOne	Num.1:26-37	Num.1:26-37	Num.1:26-37	Num.1:24-35			
@@ -270,7 +270,7 @@ TEST: If...	Num.6:24<6:25	Num.6:24<6:25	Num.6:24<6:25	Num.6:24>6:25
 OneToOne	Num.6:24	Num.6:24	Num.6:24	Num.6:27			
 OneToOne	Num.6:25-27	Num.6:25-27	Num.6:25-27	Num.6:24-26			
 
-$Num.10:34-10:36	English	Hebrew	Latin	Greek *
+$Num.10:34-10:36	English	Hebrew	Latin	Greek*
 TEST: If...	Num.10:34<10:35	Num.10:34<10:35	Num.10:34<10:35	Num.10:34>10:35			
 OneToOne	Num.10:34	Num.10:34	Num.10:34	Num.10:36			
 OneToOne	Num.10:35	Num.10:35	Num.10:35	Num.10:34			
@@ -290,7 +290,7 @@ TEST: If...	Num.17:13=Last	Num.17:28=Last	Num.17:13=Last	Num.17:13=Last
 OneToOne	Num.16:36-50	Num.17:1-15	Num.16:36-50	Num.16:36-50			
 OneToOne	Num.17:1-13	Num.17:16-28	Num.17:1-13	Num.17:1-13			
 
-$Num.26:1-26:47	English	Hebrew	Latin	Greek *
+$Num.26:1-26:47	English	Hebrew	Latin	Greek*
 TEST: If...	Num.25:18=Last	Num.25:19=Last	Num.25:18=Last	Num.25:18=Last			
 TEST: And if... 	Num.26:31<26:40	Num.26:31<26:40	Num.26:31<26:40	Num.26:31>26:40			
 Concatenation	Num.26:1	Num.25:19; 26:1	Num.26:1	Num.26:1			
@@ -342,7 +342,7 @@ OneToOne	Jos.5:15	Jos.5:15	Jos.5:16	Jos.5:15	Jos.5:15
 OneToOne	Jos.6:1	Jos.6:1	Jos.6:1	Jos.6:1	Jos.5:16		
 OneToOne	Jos.6:2-27	Jos.6:2-27	Jos.6:2-27	Jos.6:2-27	Jos.6:1-26		
 
-$Jos.8:30-9:2	English	Hebrew	Latin	Greek	Greek undivided
+$Jos.8:30-9:2	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	Jos.8:35=Last	Jos.8:36=Last	Jos.8:35=Last	Jos.8:29=Last	Jos.8:29=Last
 TEST: And if... 	Jos.9:1>9:2	Jos.9:1>9:2	Jos.9:1<9:2	Jos.9:1<9:2	Jos.9:1<9:2
 TEST: And if... 				Jos.9:2.1=Exist	Jos.9:2.1=NotExist
@@ -355,7 +355,7 @@ DuplicateTarget	Jos.21:36-37	Jos.21:36-37	Jos.21:36	Jos.21:36-37
 DuplicateTarget	Jos.21:38-39	Jos.21:38-39	Jos.21:37	Jos.21:38-39			
 OneToOne	Jos.21:40-45	Jos.21:40-45	Jos.21:38-43	Jos.21:40-45			
 
-$Jos.24:29-24:31	English	Hebrew	Latin	Greek *
+$Jos.24:29-24:31	English	Hebrew	Latin	Greek*
 TEST: If...	Jos.24:26>24:29	Jos.24:26>24:29	Jos.24:26>24:29	Jos.24:26<24:29			
 OneToOne	Jos.24:29	Jos.24:29	Jos.24:29	Jos.24:30			
 OneToOne	Jos.24:30	Jos.24:30	Jos.24:30	Jos.24:31			
@@ -385,7 +385,7 @@ TEST: If...	2Sa.19:43=Last	2Sa.19:44=Last	2Sa.19:43=Last	2Sa.19:44=Last
 OneToOne	2Sa.18:33	2Sa.19:1	2Sa.18:33	2Sa.19:1			
 OneToOne	2Sa.19:1-43	2Sa.19:2-44	2Sa.19:1-43	2Sa.19:2-44			
 
-$1Ki.2:8-7:23	English	Hebrew	Latin	Greek *	Greek undivided *
+$1Ki.2:8-7:23	English	Hebrew	Latin	Greek*	GreekUndivided*
 TEST: If...	1Ki.4:34=Last	1Ki.4:20=Last	1Ki.4:34=Last	1Ki.4:19=Last	1Ki.4:19=Last		
 TEST: And if... 		1Ki.2:33>2:35		1Ki.2:33<2:35	1Ki.2:33<2:35		
 TEST: And if... 				1Ki.2:35.1=Exist	1Ki.2:35.1=NotExist		
@@ -414,7 +414,7 @@ OneToOne	1Ki.5:15	1Ki.5:29	1Ki.5:15	1Ki.5:29 [=2:35.4]	1Ki.5:29 [=2:35.4]
 OneToOne	1Ki.5:16	1Ki.5:30	1Ki.5:16	1Ki.5:30 [=2:35.8]	1Ki.5:30 [=2:35.8]			
 LongVerseDuplicated	1Ki.7:23	1Ki.7:23	1Ki.7:23	1Ki.7:10 [=2:35.5]	1Ki.7:10 [=2:35.5]		
 
-$1Ki.5:17-6:38	English	Hebrew	Latin	Greek	Greek undivided
+$1Ki.5:17-6:38	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	1Ki.5:18=Last	1Ki.5:32=Last	1Ki.5:18=Last	1Ki.5:32=Last	1Ki.6:36=Last		
 TEST: And if... 	1Ki.6:38=Last	1Ki.6:38=Last	1Ki.6:38=Last	1Ki.6:36=Last	1Ki.6:1>6:6*2		
 TEST: And if... 	1Ki.6:1<6:6*2	1Ki.6:1<6:6*2	1Ki.6:1<6:6*2	1Ki.6:1>6:6*2	1Ki.6:1.1=NotExist		
@@ -425,7 +425,7 @@ LongVerse/LVElsewhere	1Ki.6:1	1Ki.6:1	1Ki.6:1	1Ki.6:1.0-4 [=5:17-18; 6:37-38]	1K
 LongVerseElsewhere	1Ki.6:37	1Ki.6:37	1Ki.6:37	1Ki.6:1.3	NoVerse [=1Ki.6:1.3]		
 LongVerseElsewhere	1Ki.6:38	1Ki.6:38	1Ki.6:38	1Ki.6:1.4	NoVerse [=1Ki.6:1.4]		
 
-$1Ki.7:1-7:51	English	Hebrew	Latin	Greek *		
+$1Ki.7:1-7:51	English	Hebrew	Latin	Greek*		
 TEST: If...	1Ki.7:51=Last	1Ki.7:51=Last	1Ki.7:51=Last	1Ki.7:50=Last			
 Concatenation	1Ki.7:1	1Ki.7:1	1Ki.7:1	1Ki.7:38, 50			
 OneToOne	1Ki.7:2-12	1Ki.7:2-12	1Ki.7:2-12	1Ki.7:39-49			
@@ -446,7 +446,7 @@ OneToOne	1Ki.7:46	1Ki.7:46	1Ki.7:46	1Ki.7:33
 OneToOne	1Ki.7:47	1Ki.7:47	1Ki.7:47	1Ki.7:32			
 OneToOne	1Ki.7:48-51	1Ki.7:48-51	1Ki.7:48-51	1Ki.7:34-37			
 
-$1Ki.8:12-10:26	English	Hebrew	Latin	Greek *	Greek undivided *
+$1Ki.8:12-10:26	English	Hebrew	Latin	Greek*	GreekUndivided*
 TEST: If...	1Ki.9:14<9:23	1Ki.9:14<9:23	1Ki.9:14<9:23	1Ki.9:14>9:23	1Ki.9:14>9:23		
 TEST: And if... 	1Ki.10:21*2>10:22	1Ki.10:21*2>10:22	1Ki.10:21*2>10:22	1Ki.10:21*2<10:22	1Ki.10:21*2<10:22		
 TEST: And if... 				1Ki.10:22.1=Exist	1Ki.10:22.1=NotExist		
@@ -464,14 +464,14 @@ LongVerse/LVElsewhere	1Ki.9:9	1Ki.9:9	1Ki.9:9	1Ki.9:9.0-1 [=9:24]	1Ki.9:9 [=9:24
 LongVerse/LVElsewhere	1Ki.10:22	1Ki.10:22	1Ki.10:22	1Ki.10:22.0-3 [=9:15,17-22]	1Ki.10:22 [=9:15,17-22]		
 LongVerse/LVElsewhere	1Ki.10:26	1Ki.10:26	1Ki.10:26	1Ki.10:26.0-1 [=4:21]	1Ki.10:26 [=4:21]		
 
-$1Ki.11:5-11:8	English	Hebrew	Latin	Greek *	
+$1Ki.11:5-11:8	English	Hebrew	Latin	Greek*	
 TEST: If...	1Ki.11:5<11:7	1Ki.11:5<11:7	1Ki.11:5<11:7	1Ki.11:5>11:7			
 OneToOne	1Ki.11:5	1Ki.11:5	1Ki.11:5	1Ki.11:6			
 OneToOne	1Ki.11:6	1Ki.11:6	1Ki.11:6	1Ki.11:8			
 OneToOne	1Ki.11:7	1Ki.11:7	1Ki.11:7	1Ki.11:5			
 OneToOne	1Ki.11:8	1Ki.11:8	1Ki.11:8	1Ki.11:7			
 
-$1Ki.11:21-14:20	English	Hebrew	Latin	Greek	Greek undivided
+$1Ki.11:21-14:20	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	1Ki.12:24.1=NotExist	1Ki.12:24.1=NotExist	1Ki.12:24.1=NotExist	1Ki.12:24.1=Exist	1Ki.12:24.1=NotExist		
 TEST: And if... 	1Ki.12:21*2>12:24	1Ki.12:21*2>12:24	1Ki.12:21*2>12:24	1Ki.12:21*2<12:24	1Ki.12:21*2<12:24		
 LongVerseDuplicated	1Ki.11:21	1Ki.11:21	1Ki.11:21	1Ki.11:21 [=12:24.4]	1Ki.11:21 [=12:24.4]			
@@ -514,7 +514,7 @@ TEST: If...	1Ki.20:43=Last	1Ki.20:43=Last	1Ki.20:43=Last	1Ki.20:29=Last
 OneToOne	1Ki.20:1-43	1Ki.20:1-43	1Ki.20:1-43	1Ki.21:1-43			
 OneToOne	1Ki.21:1-29	1Ki.21:1-29	1Ki.21:1-29	1Ki.20:1-29			
 
-$1Ki.22:41-16:28	English	Hebrew	Latin	Greek *	Greek undivided *
+$1Ki.22:41-16:28	English	Hebrew	Latin	Greek*	GreekUndivided*
 TEST: If...	1Ki.22:53=Last	1Ki.22:54=Last	1Ki.22:54=Last	1Ki.22:54=Last	1Ki.22:54=Last		
 TEST: And if... 	1Ki.16:28<16:34	1Ki.16:28<16:34	1Ki.16:28<16:34	1Ki.16:28>16:34	1Ki.16:28>16:34		
 TEST: And if... 	1Ki.16:28.1=NotExist	1Ki.16:28.1=NotExist	1Ki.16:28.1=NotExist	1Ki.16:28.1=Exist	1Ki.16:28.1=NotExist		
@@ -561,7 +561,7 @@ TEST: If...	2Ch.14:15=Last	2Ch.14:14=Last	2Ch.14:15=Last	2Ch.14:14=Last
 OneToOne	2Ch.14:1	2Ch.13:23	2Ch.14:1	2Ch.13:23			
 OneToOne	2Ch.14:2-15	2Ch.14:1-14	2Ch.14:2-15	2Ch.14:1-14			
 
-$Neh.3:30-4:23	English	Hebrew	Latin	Greek	Greek undivided
+$Neh.3:30-4:23	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	Neh.3:32=Last	Neh.3:38=Last	Neh.3:31=Last	Neh.3:37=Last	Neh.3:32=Last		
 TEST: And if... 	Neh.4:23=Last	Neh.4:17=Last	Neh.4:23=Last	Neh.4:17=Last	Neh.4:23=Last		
 TEST: And if... 	Neh.4:6*2>4:3	Neh.4:6*2>4:3	Neh.4:6*2>4:3	Neh.4:6*2>4:3	Neh.4:6*2<4:3		
@@ -590,7 +590,7 @@ DuplicateTarget	Neh.12:33-34	Neh.12:33-34	Neh.12:33	Neh.12:33-34
 OneToOne	Neh.12:35-47	Neh.12:35-47	Neh.12:34-46	Neh.12:35-47			
 
 
-$Est.4.8	English	Hebrew	Latin	Greek	Greek undivided
+$Est.4.8	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	Est.4:8.1=NotExist	Est.4:8.1=NotExist	Est.4:8.1=Exist	Est.4:8.1=Exist	Est.4:8.1=NotExist			
 TEST: And if... 	Est.4:8<Est.4:11	Est.4:8<Est.4:11	Est.4:8>Est.4:11	Est.4:8>Est.4:11	Est.4:8>Est.4:11			
 TEST: And if... 			Est.4:8.1*5>Est.4.8.2	Est.4:8.1*5<Est.4.8.2				
@@ -598,7 +598,7 @@ LongVerse/LVExtra	Est.4:8	Est.4:8	Est.4:8.0-3 [ShowAs= 15:1-3 / 15:1 / 15:2 / 15
 LongVerse/LVElsewhere	Esg.4:8	Esg.4:8	Esg.4:8.0-3[ShowAs=15:1-3]	Esg.4:8.0-2 [ShowAs=15:2-3]	Esg.4:8 [ShowAs=15:2-3] 			
 
 
-$Est.1:1-10:3	English	Hebrew	Latin	Greek	Greek undivided
+$Est.1:1-10:3	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	Est.10:3.1=NotExist	Est.10:3.1=NotExist	Est.10:3.1=Exist	Est.10:3.1=Exist	Est.10:3.1=NotExist		
 TEST: And if... 	Esg.15:1=NotExist	Esg.15:1=NotExist	Esg.15:19=Last	Esg.15:16=Last	Esg.15:16=Last		
 TEST: And if... 	Est.8:9>8:12.0	Est.8:9>8:12.0	Est.8:9>8:12.0	Est.8:9>8:12.0	Est.8:9<8:12.0		
@@ -1356,7 +1356,7 @@ $Isa.56:12	English	Hebrew	Latin	Greek
 TEST: If...	Isa.56:12=Last	Isa.56:12=Last	Isa.56:12=Last	Isa.56:11=Last			
 TextMayBeMissing	Isa.56:12	Isa.56:12	Isa.56:12	Absent			
 
-$Isa.63:19-64:12	English	Hebrew	Latin	Greek	Hebrew 2
+$Isa.63:19-64:12	English	Hebrew	Latin	Greek	Hebrew2
 TEST: If...	Isa.64:12=Last	Isa.64:11=Last	Isa.64:12=Last	Isa.64:12=Last	Isa.64:11=Last			
 TEST: And if... 		Isa.63:19.2=Exist			Isa.63:19.2=NotExist			
 LongVerseElsewhere	Isa.63:19	Isa.63:19.1	Isa.63:19	Isa.63:19	Isa.63:19 [=Isa.63:19.1]		
@@ -1399,7 +1399,7 @@ $Jer.30:1-24	English	Hebrew	Latin	Greek
 TEST: If...	Jer.37:21=Last	Jer.37:21=Last	Jer.37:20=Last	Jer.37:24=Last			
 OneToOne	Jer.30:1-24	Jer.30:1-24	Jer.30:1-24	Jer.37:1-24			
 
-$Jer.31:1-31:40	English	Hebrew	Latin	Greek *
+$Jer.31:1-31:40	English	Hebrew	Latin	Greek*
 TEST: If...	Jer.31:40=Last	Jer.31:40=Last	Jer.31:40=Last	Jer.31:44=Last			
 OneToOne	Jer.31:1-34	Jer.31:1-34	Jer.31:1-34	Jer.38:1-34			
 OneToOne	Jer.31:35	Jer.31:35	Jer.31:35	Jer.38:36			
@@ -1481,7 +1481,7 @@ TEST: If...	Jer.48:47=Last	Jer.48:47=Last	Jer.48:47=Last	Jer.48:18=Last
 OneToOne	Jer.48:1-44	Jer.48:1-44	Jer.48:1-44	Jer.31:1-44			
 TextMayBeMissing	Jer.48:45-47	Jer.48:45-47	Jer.48:45-47	Absent			
 
-$Jer.49:1-49:39	English	Hebrew	Latin	Greek *
+$Jer.49:1-49:39	English	Hebrew	Latin	Greek*
 TEST: If...	Jer.30:24=Last	Jer.30:24=Last	Jer.30:24=Last	Jer.30:16=Last			
 OneToOne	Jer.49:1-5	Jer.49:1-5	Jer.49:1-5	Jer.30:1-5			
 TextMayBeMissing	Jer.49:6	Jer.49:6	Jer.49:6	Absent			
@@ -1502,7 +1502,7 @@ $Ezk.2:9-10	English	Hebrew	Latin	Greek
 TEST: If...	Ezk.2:10=Last	Ezk.2:10=Last	Ezk.2:9=Last	Ezk.2:10=Last			
 DuplicateTarget	Ezk.2:9-10	Ezk.2:9-10	Ezk.2:9	Ezk.2:9-10			
 
-$Ezk.7:3-7:9	English	Hebrew	Latin	Greek *
+$Ezk.7:3-7:9	English	Hebrew	Latin	Greek*
 TEST: If...	Ezk.7:4>7:5	Ezk.7:4>7:5	Ezk.7:4>7:5	Ezk.7:4<7:5			
 OneToOne	Ezk.7:3-5	Ezk.7:3-5	Ezk.7:3-5	Ezk.7:7-9			
 OneToOne	Ezk.7:6	Ezk.7:6	Ezk.7:6	Ezk.7:3			
@@ -1513,7 +1513,7 @@ TEST: If...	Ezk.21:32=Last	Ezk.21:37=Last	Ezk.21:32=Last	Ezk.21:32=Last
 OneToOne	Ezk.20:45-49	Ezk.21:1-5	Ezk.20:45-49	Ezk.20:45-49			
 OneToOne	Ezk.21:1-32	Ezk.21:6-37	Ezk.21:1-32	Ezk.21:1-32			
 
-$Dan.3:23-4:37	English	Hebrew	Latin	Greek	Greek 2 (BW BGT)	Greek 3 (NETS)	Greek 4 (BW)
+$Dan.3:23-4:37	English	Hebrew	Latin	Greek	Greek2-BW+BGT	Greek3-NETS	Greek4-BW
 TEST: If...	Dan.4:37=Last	Dan.4:34=Last	Dan.4:34=Last	Dan.4:34.3=Last	Dan.4:37.3=Last	Dan.4:34=Last	Dan.4:37=Last
 TEST: And if... 	Dan.3:30=Last	Dan.3:33=Last	Dan.3:100=Last	Dan.3:97=Last	Dan.3:97=Last	Dan.3:97=Last	Dan.3:97=Last
 TEST: And if... 							Dan.4:18*2<4:33
@@ -1531,7 +1531,7 @@ TEST: If...	Dan.6:28=Last	Dan.6:29=Last	Dan.6:28=Last	Dan.6:29=Last
 OneToOne	Dan.5:31	Dan.6:1	Dan.5:31	Dan.6:1			
 OneToOne	Dan.6:1-28	Dan.6:2-29	Dan.6:1-28	Dan.6:2-29			
 
-$Dan.12:13-1:42	English	Hebrew	Latin	Greek	Greek 2 (NETS)
+$Dan.12:13-1:42	English	Hebrew	Latin	Greek	Greek2-NETS
 TEST: If...	Sus.1:10=NotExist	Sus.1:10=NotExist	Sus.1:10=Exist	Sus.1:64=Last	Sus.1:62=Last		
 TEST: And if... 	Dan.13:1=NotExist	Dan.13:1=NotExist	Dan.13:1=Exist	Dan.13:1=NotExist	Dan.13:1=NotExist		
 LongVerse/LVExtra	Dan.12:13	Dan.12:13	Dan.12:13 [=13:1-65; 14:1-42]	Dan.12:13 [=Sus.1:1-64; Bel.1:1-42]	Dan.12:13 [=Sus.1:1-62; Bel.1:1-42]		
@@ -1711,7 +1711,7 @@ OneToOne	Sir.9:15	Sir.9:23	Sir.9:15
 OneToOne	Sir.9:16	Sir.9:22	Sir.9:16			
 OneToOne	Sir.9:17-18	Sir.9:24-25	Sir.9:17-18			
 
-$Sir.10:9-10:31	English	Latin *	Greek
+$Sir.10:9-10:31	English	Latin*	Greek
 TEST: If...	Sir.10:31=Last	Sir.10:34=Last	Sir.10:31=Last			
 Concatenation	Sir.10:9	Sir.10:9-10	Sir.10:9			
 Concatenation	Sir.10:10	Sir.10:11-12	Sir.10:10			
@@ -1791,7 +1791,7 @@ Concatenation	Sir.17:27	Sir.17:24-25	Sir.17:27
 Concatenation	Sir.17:28	Sir.17:26-27	Sir.17:28			
 OneToOne	Sir.17:29-32	Sir.17:28-31	Sir.17:29-32			
 
-$Sir.18:1-19:27	English	Latin *	Greek	
+$Sir.18:1-19:27	English	Latin*	Greek	
 TEST: If...	Sir.19:30=Last	Sir.19:28=Last	Sir.19:30=Last			
 TEST: And if... 			Sir.18:10>18:12			
 DuplicateTarget	Sir.18:1-2	Sir.18:1	Sir.18:1-2			
@@ -1930,7 +1930,7 @@ Concatenation	Sir.28:14	Sir.28:16-18	Sir.28:14
 OneToOne	Sir.28:15-24	Sir.28:19-28	Sir.28:15-24			
 Concatenation	Sir.28:26	Sir.28:29-30	Sir.28:26			
 
-$Sir.29:5-29:28	English	Latin	Greek	Latin 2 (DRA)
+$Sir.29:5-29:28	English	Latin	Greek	Latin2-DRA
 TEST: If...	Sir.29:28=Last	Sir.29:35=Last	Sir.29:28=Last	Sir.29:34=Last		
 Concatenation	Sir.29:5	Sir.29:5-6	Sir.29:5	Sir.29:5-6		
 Concatenation	Sir.29:6	Sir.29:7-9	Sir.29:6	Sir.29:7-9		
@@ -1964,7 +1964,7 @@ OneToOne	Sir.31:29	Sir.31:38	Sir.31:29
 Concatenation	Sir.31:30	Sir.31:39-40	Sir.31:30			
 Concatenation	Sir.31:31	Sir.31:41-42	Sir.31:31			
 
-$Sir.32:2-32:21	English	Latin *	Greek	
+$Sir.32:2-32:21	English	Latin*	Greek	
 TEST: If...	Sir.32:24=Last	Sir.32:28=Last	Sir.32:24=Last			
 Concatenation	Sir.32:2	Sir.32:2-3	Sir.32:2			
 Concatenation	Sir.32:3	Sir.32:4-5	Sir.32:3			
@@ -2187,7 +2187,7 @@ TEST: If...	Act.14:28=Last	Act.14:27=Last	Act.14:28=Last
 DuplicateTarget	Act.14:6-7	Act.14:6	Act.14:6-7	
 OneToOne	Act.14:8-28	Act.14:7-27	Act.14:8-28	
 
-$Rom.14:22-23; 16:24-27	English	Greek	Greek 2	
+$Rom.14:22-23; 16:24-27	English	Greek	Greek2	
 TEST: If...	Rom.16:27=Last	Rom.16:27=Last	Rom.16:24=Last	
 DuplicateTarget	Rom.14:22-23	Rom.14:22-23	Rom.14:22
 PassageMoved	Absent	Absent	Rom.14:23
@@ -2195,89 +2195,89 @@ TextMayBeMissing	Rom.16:24	Rom.16:24	Rom.16:24
 PassageMoved	Rom.16:25-27	Rom.16:25-27	Absent
 Colophon	Rom.16:27.1	Rom.16:27.1	Rom.16:27.1	
 
-$2Co.13.12-13	English	English RSV etc	KJV etc
+$2Co.13.12-13	English	English-RSV+	English-KJV+
 TEST: If...	2Co.13:13=Last	2Co.13:13=Last	2Co.13:12=Last
 DuplicateTarget	2Co.13:12-13	2Co.13:12-13	2Co.13:12
 
-$3Jn.14-15	English	English RSV etc	KJV etc
+$3Jn.14-15	English	English-RSV+	English-KJV+
 TEST: If...	3Jn.15=Last	3Jn.15=Last	3Jn.14=Last
 DuplicateTarget	3Jn.14-15	3Jn.14-15	3Jn.1:14
 
 
 
-$Mrk.16:9-20	English	English RSV etc	KJV etc
+$Mrk.16:9-20	English	English-RSV+	English-KJV+
 TEST: If...	Mrk.16:8=Last	Mrk.16:8=Last	Mrk.16:20=Last
 PassageMissing	Mrk.16:9-20	Absent 	Mrk.16:9-20
 
-$Jhn.7:38-8:11	English	English RSV etc	KJV etc
+$Jhn.7:38-8:11	English	English-RSV+	English-KJV+
 TEST: If...	Jhn.8:1=NotExist	Jhn.8:1=NotExist	Jhn.8:1=Exist
 PassageMissing	Jhn.7:53-8:11	Absent	Jhn.7:53-8:11
 
-$1Jn.5.7-8	English	English RSV etc	KJV etc
+$1Jn.5.7-8	English	English-RSV+	English-KJV+
 TEST: If...	1Jh.5.7<5.19	1Jh.5.7<5.19	1Jh.5.7>5.19
 TextMayBeMissing	1Jn.5.7-8	1Jn.5.7a, 8b	1Jn.5.7-8
 
-$Mat.12:47	English	English RSV etc	KJV etc
+$Mat.12:47	English	English-RSV+	English-KJV+
 TEST: If...	Mat.12:47=NotExist	Mat.12:47=NotExist	Mat.12:47=Exist
 TextMayBeMissing	Mat.12:47	Absent [=Luk.8:20]	Mat.12:47
 
-$Mat.17:21	English	English RSV etc	KJV etc
+$Mat.17:21	English	English-RSV+	English-KJV+
 TEST: If...	Mat.17:21=NotExist	Mat.17:21=NotExist	Mat.17:21=Exist
 TextMayBeMissing	Mat.17:21	Absent [=Mrk.9:29]	Mat.17:21
 
-$Mat.18:11	English	English RSV etc	KJV etc
+$Mat.18:11	English	English-RSV+	English-KJV+
 TEST: If...	Mat.18:11=NotExist	Mat.18:11=NotExist	Mat.18:11=Exist
 TextMayBeMissing	Mat.18:11	Absent [=Luke 19:10]	Mat.18:11
 
-$Mat.21:44	English	English RSV etc	KJV etc
+$Mat.21:44	English	English-RSV+	English-KJV+
 TEST: If...	Mat.21:44=NotExist	Mat.21:44=NotExist	Mat.21:44=Exist
 TextMayBeMissing	Mat.21:44	Absent [=Luk.20:18]	Mat.21:44
 
-$Mat.23:14	English	English RSV etc	KJV etc
+$Mat.23:14	English	English-RSV+	English-KJV+
 TEST: If...	Mat.23:14=NotExist	Mat.23:14=NotExist	Mat.23:14=Exist
 TextMayBeMissing	Mat.23:14	Absent [=Mrk.12:40; Luk.20:47]	Mat.23:14
 
-$Mrk.7:16	English	English RSV etc	KJV etc
+$Mrk.7:16	English	English-RSV+	English-KJV+
 TEST: If...	Mrk.7:16=NotExist	Mrk.7:16=NotExist	Mrk.7:16=Exist
 TextMayBeMissing	Mrk.7:16	Absent [=Mrk.4:9,23]	Mrk.7:16
 
-$Mrk.9:44	English	English RSV etc	KJV etc
+$Mrk.9:44	English	English-RSV+	English-KJV+
 TEST: If...	Mrk.9:44=NotExist	Mrk.9:44=NotExist	Mrk.9:44=Exist
 TextMayBeMissing	Mrk.9:44	Absent [=Mrk.9:48]	Mrk.9:44
 
-$Mrk.9:46	English	English RSV etc	KJV etc
+$Mrk.9:46	English	English-RSV+	English-KJV+
 TEST: If...	Mrk.9:46=NotExist	Mrk.9:46=NotExist	Mrk.9:46=Exist
 TextMayBeMissing	Mrk.9:46	Absent [=Mrk.9:48]	Mrk.9:46
 
-$Mrk.11:26	English	English RSV etc	KJV etc
+$Mrk.11:26	English	English-RSV+	English-KJV+
 TEST: If...	Mrk.11:26=NotExist	Mrk.11:26=NotExist	Mrk.11:26=Exist
 TextMayBeMissing	Mrk.11:26	Absent [Mat.6:15]	Mrk.11:26
 
-$Mrk.15:28	English	English RSV etc	KJV etc
+$Mrk.15:28	English	English-RSV+	English-KJV+
 TEST: If...	Mrk.15:28=NotExist	Mrk.15:28=NotExist	Mrk.15:28=Exist
 TextMayBeMissing	Mrk.15:28	Absent [=Luk.22:37]	Mrk.15:28
 
-$Luk.17:36	English	English RSV etc	KJV etc
+$Luk.17:36	English	English-RSV+	English-KJV+
 TEST: If...	Luk.17:36=NotExist	Luk.17:36=NotExist	Luk.17:36=Exist
 TextMayBeMissing	Luk.17:36	Absent [=Mat.24:40]	Luk.17:36
 
-$Luk.22:43-44	English	English RSV etc	KJV etc
+$Luk.22:43-44	English	English-RSV+	English-KJV+
 TEST: If...	Luk.22:43-44=NotExist	Luk.22:43-44=NotExist	Luk.22:43-44=Exist
 TextMayBeMissing	Luk.22:43-44	Absent	Luk.22:43-44
 
-$Luk.23:17	English	English RSV etc	KJV etc
+$Luk.23:17	English	English-RSV+	English-KJV+
 TEST: If...	Luk.23:17=NotExist	Luk.23:17=NotExist	Luk.23:17=Exist
 TextMayBeMissing	Luk.23:17	Absent [=Mat.27:15; Mrk.15:6]	Luk.23:17
 
-$Jhn.5:3b-4	English	English RSV etc	KJV etc
+$Jhn.5:3b-4	English	English-RSV+	English-KJV+
 TEST: If...	Jhn.5:4=NotExist	Jhn.5:4=NotExist	Jhn.5:4=Exist
 TextMayBeMissing	Jhn.5:4	Absent	Jhn.5:4
 
-$Act.24:6b-8a	English	English RSV etc	KJV etc
+$Act.24:6b-8a	English	English-RSV+	English-KJV+
 TEST: If...	Act.24:7=NotExist	Act.24:7=NotExist	Act.24:7=Exist
 TextMayBeMissing	Act.24:7	Absent	Act.24:7
 
-$Act.28:29	English	English RSV etc	KJV etc
+$Act.28:29	English	English-RSV+	English-KJV+
 TEST: If...	Act.28:29=NotExist	Act.28:29=NotExist	Act.28:29=Exist
 TextMayBeMissing	Act.28:29	Absent	Act.28:29
 
