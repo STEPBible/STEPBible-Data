@@ -2283,7 +2283,7 @@ TextMayBeMissing	Act.28:29	Absent	Act.28:29
 
 
 
-$==========
+/* ==========
 The following do not change any verse numbers
 
 Colophon	1Co.16:24; 2Co.13:14; Gal.6:18; Eph.6:24; Php.4:23; Col.4:18; 1Th.5:28; 2Th.3:18; 1Ti.6:21; 2Ti.4:22; Tit.3:15; Phm.1:25; Heb.13:25.1
@@ -2298,5 +2298,5 @@ StartDifferent	Gal.2:20; Gal.5:23; Eph.1:11; Eph.2:15; Eph.3:18; Eph.5:14; Php.1
 StartDifferent	Heb.1:2; Heb.3:10; Heb.7:21; Heb.10:23; Heb.12:23; 1Pe.2:8; 1Pe.3:16; 1Jn.2:14; Rev.2:28; Rev.13:1; Rev.17:10; Rev.18:17; 
 (this list is created from https://archive.org/stream/authorshipoffour00abbo#page/464/mode/2up)
 
-
+========== */
 
