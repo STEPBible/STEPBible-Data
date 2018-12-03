@@ -28,9 +28,8 @@ The data in this repository is created and curated collaboratively by Tyndale sc
 
 The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is derivative from other publically licenced sources, and has been compared with other non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to TyndaleStepATgmail.com for checking.  
 
-# Datasets  
-Some of the following are already posted while others are still being checked. 
-If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process.  
+# Datasets available 
+The following datasets are already posted 
 
 * **[Bible modules for OSIS Sword software](http://public.modules.stepbible.org/packages/)**
 Bibles in the same format as [Crosswire modules](https://www.crosswire.org/sword/modules/) which can be used in any Sword-compatible software.
@@ -44,26 +43,30 @@ The Leningrad codex based on Westminster via OpenScriptures, with full morpholog
 * **[TANTT - Tyndale Amalgamated NT Tagged texts](https://github.com/tyndale/STEPBible-Data)**      
 Greek text created from the SBLGNT+apparatus, following the decisions made by NA28, listing the major editions that also use that form (SBL, Treg, TR, Byz, WH, NA28). Variants are being added from major editions plus the 1st 4 centuries of MSS (from Bunning). All words are tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) plus context-sensitive meanings for words with more than one meaning. An independant scholar checked the result against NA28 and pointed out a few differences which were fixed (see the issues in github).     
 
-* **TOTGT - Tyndale OT Greek Tagged text**   
-LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
-
 * **[TBESH - Tyndale Brief lexicon of Extended Strongs for Hebrew](https://github.com/tyndale/STEPBible-Data)**     
 Abridged BDB linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)   
 
-* **TFBDB - Tyndale Formatted full BDB lexicon**   
-Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)    
-
 * **[TBESG - Tyndale Brief lexicon of Extended Strongs for Greek](https://github.com/tyndale/STEPBible-Data)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
-
-* **TFLSJ - Tyndale Formatted full LSJ lexicon**    
-Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
 * **[TIPNR - Tyndale Individualised Proper Names with all References](https://github.com/tyndale/STEPBible-Data)**  
 Every name in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places. Each form of the names for each individual includes exhaustive refs for where that individual is named with data of their spouses, siblings and offspring or the places' geolocation (based on OpenBible).    
 
 * **[TVTMS - Tyndale Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://github.com/tyndale/STEPBible-Data)**  
 All the versification differences in the OT traditional texts in Hebrew, Latin and Greek, and NT early versification, compared with English standard (defined by NRSV which is virtually identical to KJV). Bible translations have an almost infinite variety of versifications because they may follow (for example) Latin in several sections, Hebrew in a few and English most of the time. The Methodology provides simple rules for every section, such as "if this chapter has 29 verses, it is using Greek versification". Using this, a whole Bible can be reversified according to English or traditional Hebrew or Greek or Latin versification, or compared with Bibles using that versification.   
+
+# Datasets coming
+The followins datasets are still being finished and/or being checked. 
+If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process.  
+
+* **TOTGT - Tyndale OT Greek Tagged text**   
+LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
+
+* **TFBDB - Tyndale Formatted full BDB lexicon**   
+Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)    
+
+* **TFLSJ - Tyndale Formatted full LSJ lexicon**    
+Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
 * **TOTMM - Tyndale OT Manuscripts and Meanings**  
 Translation, Hebrew form and witnesses for each variant that affects the meaning of the text, as determined by Barthélemy's UBS committee. Also, alternate meanings found in standard translations. Shown as alternate renderings of a base text (ESV 2011).    
