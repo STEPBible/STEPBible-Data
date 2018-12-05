@@ -2195,7 +2195,7 @@ TextMayBeMissing	Rom.16:24	Rom.16:24	Rom.16:24
 PassageMoved	Rom.16:25-27	Rom.16:25-27	Absent
 Colophon	Rom.16:27.1	Rom.16:27.1	Rom.16:27.1	
 
-$2Co.13.12-13	English	English-RSV+	English-KJV+
+$2Co.13:12-13	English	English-RSV+	English-KJV+
 TEST: If...	2Co.13:13=Last	2Co.13:13=Last	2Co.13:12=Last
 DuplicateTarget	2Co.13:12-13	2Co.13:12-13	2Co.13:12
 
@@ -2213,9 +2213,10 @@ $Jhn.7:38-8:11	English	English-RSV+	English-KJV+
 TEST: If...	Jhn.8:1=NotExist	Jhn.8:1=NotExist	Jhn.8:1=Exist
 PassageMissing	Jhn.7:53-8:11	Absent	Jhn.7:53-8:11
 
-$1Jn.5.7-8	English	English-RSV+	English-KJV+
-TEST: If...	1Jh.5.7<5.19	1Jh.5.7<5.19	1Jh.5.7>5.19
-TextMayBeMissing	1Jn.5.7-8	1Jn.5.7a, 8b	1Jn.5.7-8
+$1Jn.5:7-8	English	English-RSV+	English-KJV+
+TEST: If...	1Jh.5:7<5:19	1Jh.5:7<5:19	1Jh.5:7>5:19
+TextMayBeMissing	1Jn.5:7	1Jn.5:7.1	1Jn.5:7
+TextMayBeMissing	1Jn.5:8	1Jn.5:8.2	1Jn.5:8
 
 $Mat.12:47	English	English-RSV+	English-KJV+
 TEST: If...	Mat.12:47=NotExist	Mat.12:47=NotExist	Mat.12:47=Exist
@@ -2269,7 +2270,7 @@ $Luk.23:17	English	English-RSV+	English-KJV+
 TEST: If...	Luk.23:17=NotExist	Luk.23:17=NotExist	Luk.23:17=Exist
 TextMayBeMissing	Luk.23:17	Absent [=Mat.27:15; Mrk.15:6]	Luk.23:17
 
-$Jhn.5:3b-4	English	English-RSV+	English-KJV+
+$Jhn.5:3.2-5:4	English	English-RSV+	English-KJV+
 TEST: If...	Jhn.5:4=NotExist	Jhn.5:4=NotExist	Jhn.5:4=Exist
 TextMayBeMissing	Jhn.5:4	Absent	Jhn.5:4
 
@@ -2283,8 +2284,8 @@ TextMayBeMissing	Act.28:29	Absent	Act.28:29
 
 
 
-/* ==========
-The following do not change any verse numbers
+# ==========
+# The following do not change any verse numbers
 
 Colophon	1Co.16:24; 2Co.13:14; Gal.6:18; Eph.6:24; Php.4:23; Col.4:18; 1Th.5:28; 2Th.3:18; 1Ti.6:21; 2Ti.4:22; Tit.3:15; Phm.1:25; Heb.13:25.1
 
@@ -2296,7 +2297,5 @@ StartDifferent	Act.2:11; Act.3:1; Act.3:20; Act.5:9; Act.5:40; Act.7:56; Act.8:1
 StartDifferent	Rom.1:10; Rom.1:30; Rom.3:26; Rom.5:21; Rom.7:10; Rom.9:12; 1Co.7:34; 2Co.1:7; 2Co.2:11; 2Co.2:13; 2Co.5:15; 2Co.8:14; 2Co.10:5; 2Co.11:9; 
 StartDifferent	Gal.2:20; Gal.5:23; Eph.1:11; Eph.2:15; Eph.3:18; Eph.5:14; Php.1:17; Php.2:8; Php.3:14; Php.4:22; Col.1:22; 1Th.1:3; 1Th.2:7; 1Th.2:12; 1Th.4:12; 2Th.2:11; Phm.1:12; Phm.1:24; 
 StartDifferent	Heb.1:2; Heb.3:10; Heb.7:21; Heb.10:23; Heb.12:23; 1Pe.2:8; 1Pe.3:16; 1Jn.2:14; Rev.2:28; Rev.13:1; Rev.17:10; Rev.18:17; 
-(this list is created from https://archive.org/stream/authorshipoffour00abbo#page/464/mode/2up)
-
-========== */
+# (this list is created from https://archive.org/stream/authorshipoffour00abbo#page/464/mode/2up)
 
