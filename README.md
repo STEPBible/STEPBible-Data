@@ -96,4 +96,4 @@ References are e.g. Gen.1.10-12; 1Ki.2.4,5; Phm.2; Job.1.3--2.4;
 Gen, Exo, Lev, Num, Deu, Jos, Jdg, Rut, 1Sa, 2Sa, 1Ki, 2Ki, 1Ch, 2Ch, Ezr, Neh, Est, Job, Psa, Pro, Ecc, Sng, Isa, Jer, Lam, Ezk, Dan, Hos, Jol, Amo, Oba, Jon, Mic, Nam, Hab, Zep, Hag, Zec, Mal,  
 Tob, Jdt, Esg, Wis, Sir, Bar, Lje, S3y, Sus, Bel, 1Ma, 2Ma, 3Ma, 4Ma, 1Es, 2Es, Man, Ps2, Oda, Pss, Jsa, Jdb, Tbs, Sst, Dnt, Blt,  
 Mat, Mrk, Luk, Jhn, Act, Rom, 1Co, 2Co, Gal, Eph, Php, Col, 1Th, 2Th, 1Ti, 2Ti, Tit, Phm, Heb, Jas, 1Pe, 2Pe, 1Jn, 2Jn, 3Jn, Jud, Rev  
-(The OT+NT ones are all based on the first three characters, except: Jdg, Sng, Ezk, Jol, Nam, Mrk, Jhn, Php, Phm, Jas, 1Jn, 2Jn, 3Jn)
+(OT+NT are all based on the first 3 characters, except: Jdg, Sng, Ezk, Jol, Nam, Mrk, Jhn, Php, Phm, Jas, 1Jn, 2Jn, 3Jn)
