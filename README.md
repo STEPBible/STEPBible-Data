@@ -91,3 +91,9 @@ For example, in the ProperNames dataset, the first line is a header with informa
 * Glyphs NOT used for Greek include:  
 ; ' ᾿ ` ῾ ’ ‘ ‛ ′ ΄ ʹ̛̀́̓̒̓̔̕ ʹ ʻ ʼ ʽ ʾ ʿ ˈ ˊ ˋ ' ` ´ o ά ὰ ᾷ ἀ Ἀ ἁ Ἁ ἄ Ἄ ἅ ἂ ἃ ᾶ ᾳ ἆ έ ὲ ἐ Ἐ ἑ Ἑ ἔ Ἔ ἕ Ἕ ἓ ή ὴ ῇ ἠ Ἠ ἡ Ἡ ἤ Ἤ ἢ ἥ Ἢ ἣ ᾗ ῆ ῃ ῄ ἦ Ἦ ᾖ ἧ ᾐ ᾑ ᾔ i ί ὶ ϊ ΐ ῒ ἰ Ἰ ἱ Ἱ ἴ Ἴ ἵ Ἵ ἳ ῖ ἶ ἷ ό ὸ ὀ Ὀ ὁ Ὁ ὄ Ὄ ὅ ὂ Ὅ ὃ Ὃ ῥ Ῥ ύ ὺ ϋ ΰ ῢ ὐ ὑ Ὑ ὔ ὕ ὒ ὓ ῦ ὖ ὗ ώ ὼ ῷ ὠ ὡ Ὡ ὤ Ὤ ὢ ὥ Ὥ ᾦ ᾧ ᾯ ῶ ῳ ῴ ὦ Ὦ ὧ Ὧ ᾠ ϛ   
 
+* **Bible reference abbreviations** are based on UBS with slightly different formatting: 
+References are e.g. Gen.1.10-12; 1Ki.2.4,5; Phm.2; Job.1.3--2.4; 
+Gen, Exo, Lev, Num, Deu, Jos, Jdg, Rut, 1Sa, 2Sa, 1Ki, 2Ki, 1Ch, 2Ch, Ezr, Neh, Est, Job, Psa, Pro, Ecc, Sng, Isa, Jer, Lam, Ezk, Dan, Hos, Jol, Amo, Oba, Jon, Mic, Nam, Hab, Zep, Hag, Zec, Mal, 
+Tob, Jdt, Esg, Wis, Sir, Bar, Lje, S3y, Sus, Bel, 1Ma, 2Ma, 3Ma, 4Ma, 1Es, 2Es, Man, Ps2, Oda, Pss, Jsa, Jdb, Tbs, Sst, Dnt, Blt, 
+Mat, Mrk, Luk, Jhn, Act, Rom, 1Co, 2Co, Gal, Eph, Php, Col, 1Th, 2Th, 1Ti, 2Ti, Tit, Phm, Heb, Jas, 1Pe, 2Pe, 1Jn, 2Jn, 3Jn, Jud, Rev
+(The OT+NT ones are all based on the first three characters, except: Jdg, Sng, Ezk, Jol, Nam, Mrk, Jhn, Php, Phm, Jas, 1Jn, 2Jn, 3Jn)
