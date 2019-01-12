@@ -38,7 +38,7 @@ Additional "undivided" columns are supplied for texts where extra text has not b
 Some editions of Hebrew, Latin or Greek texts have variations which may conform exactly with another tradition (such as English); if they do not conform with any other tradition their pattern is placed in an additional column. 
 
 Subverses occur when text is added to verses in some Bibles. The text that occurs in that verse in all Bibles is called subverse '0'. Additional verses are called subverse '1', '2' etc. 
-        For example, the moving of 6 verses from Jos.8:30-35 to follow Josh.9.2 in Greek Bibles results in the text of Jos.9.2 being numbered Jos.9:2.0 and the moved text being numbered Jos.9:1-6
+        For example, the moving of 6 verses from Jos.8:30-35 to follow Josh.9:2 in Greek Bibles results in the text of Jos.9:2 being numbered Jos.9:2.0 and the moved text being numbered Jos.9:1-6
 
 
 TEST: 
@@ -58,7 +58,7 @@ A Bible is following the numbering in a specific column if the tests above that 
 * REF.1:30>1:29	is TRUE if the Bible has more words in REF.1:30 than in REF.1:29 (this test is designed with enough leeway to work for whatever language the Bible is written in)
 * REF.1:30<1:29	is TRUE if the Bible has fewer words in REF.1:30 than in REF.1:29 
 * REF.1:30<1:29*2	is TRUE if the Bible has fewer words in REF.1:30 than twice the number of words in REF.1:29
-* REF.1.30<1:29.0	is TRUE if the Bible has fewer words in REF.1:30 than in the subverse '0' (i.e. the text which is found in all Bibles, whether or not subverses are added) 
+* REF.1:30<1:29.0	is TRUE if the Bible has fewer words in REF.1:30 than in the subverse '0' (i.e. the text which is found in all Bibles, whether or not subverses are added) 
 	(subverse 0 is identical to the text found in all Bibles. Additional text that occurs in some Bibles is put into subverse 1 onwards. There are no tests for the length of those subverses because the text may not be divided into subverses)
 
 
@@ -84,11 +84,11 @@ NT:
 TextMayBeMissing	occurs where some ancient manuscripts do not include any words in a verse, e.g. Mat.12:47
 PassageMoved	occurs only at Rom.16:25-27 which is found at Rom.14:24-26 in some manuscripts 
 Colophon	occurs at the end of epistles, which have a verse about provenance in some manuscripts, e.g. 1Co.16:24
-PassageMissing	occurs at the start of passages that are missing in some manuscripts, i.e. Mrk.9-20 & Jhn.7:53-8:11 (& 1Jn.5.7b-8a which does not alter any versification)
+PassageMissing	occurs at the start of passages that are missing in some manuscripts, i.e. Mrk.9-20 & Jhn.7:53-8:11 (& 1Jn.5:7b-8a which does not alter any versification)
 StartDifferent	occurs where verse divisions can occur in slightly different positions, e.g. Rev.13:1 
 Concatenation	occurs when one verse merges more than one verse in another Bible, e.g. 3Jn.1:14-15]
 
-Occasionally the differences result in a change to verse order. This is marked by an asterix in the top row, e.g."Greek*". This occurs only in Latin "Sir" and in Greek at  Exo.20:13-15; 21.16-17; 35:8-27; 37:1--38:31; 39:32-42; 40:30-31; Num.1.24-25; 10:34; 26:15-47; Jos.24:31; 1Ki.3:1; 4.20-21, 25-28; 6:1; 7:1-12, 21, 25; 9:16, 23-25; 11:5-8; 22:46-49; Jer.31:37; 49:7-39; Ezk.7:3-5; Mal.4.6; (using English verse numbers)
+Occasionally the differences result in a change to verse order. This is marked by an asterix in the top row, e.g."Greek*". This occurs only in Latin "Sir" and in Greek at  Exo.20:13-15; 21.16-17; 35:8-27; 37:1--38:31; 39:32-42; 40:30-31; Num.1:24-25; 10:34; 26:15-47; Jos.24:31; 1Ki.3:1; 4.20-21, 25-28; 6:1; 7:1-12, 21, 25; 9:16, 23-25; 11:5-8; 22:46-49; Jer.31:37; 49:7-39; Ezk.7:3-5; Mal.4:6; (using English verse numbers)
 
 
 
@@ -596,10 +596,10 @@ DuplicateTarget	Neh.12:33-34	Neh.12:33-34	Neh.12:33	Neh.12:33-34
 OneToOne	Neh.12:35-47	Neh.12:35-47	Neh.12:34-46	Neh.12:35-47			
 
 
-$Est.4.8	English	Hebrew	Latin	Greek	GreekUndivided
+$Est.4:8	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	Est.4:8.1=NotExist	Est.4:8.1=NotExist	Est.4:8.1=Exist	Est.4:8.1=Exist	Est.4:8.1=NotExist			
 TEST: And if... 	Est.4:8<Est.4:11	Est.4:8<Est.4:11	Est.4:8>Est.4:11	Est.4:8>Est.4:11	Est.4:8>Est.4:11			
-TEST: And if... 			Est.4:8.1*5>Est.4.8.2	Est.4:8.1*5<Est.4.8.2				
+TEST: And if... 			Est.4:8.1*5>Est.4:8.2	Est.4:8.1*5<Est.4:8.2				
 LongVerse/LVExtra	Est.4:8	Est.4:8	Est.4:8.0-3 [ShowAs= 15:1-3 / 15:1 / 15:2 / 15:3]	Est.4:8.0, 4:8.99, 4:8.1, 4:8.2 [ShowAs=15:2-3 / 15:99 / 15:2 / 15:3]	Est.4:8 [ShowAs=15:2-3]			
 LongVerse/LVElsewhere	Esg.4:8	Esg.4:8	Esg.4:8.0-3[ShowAs=15:1-3]	Esg.4:8.0-2 [ShowAs=15:2-3]	Esg.4:8 [ShowAs=15:2-3] 			
 
@@ -2245,7 +2245,7 @@ TextMayBeMissing	Jhn.5:4	Absent	Jhn.5:4
 
 $Jhn.7:38-8:11	English	English-RSV+	English-KJV+
 TEST: If...	Jhn.8:1=NotExist	Jhn.8:1=NotExist	Jhn.8:1=Exist
-PassageMissing	Jhn.7:53	Jhn.7.53 [=7:53-8:11]	Jhn.7:53 [=7:53-8:11]
+PassageMissing	Jhn.7:53	Jhn.7:53 [=7:53-8:11]	Jhn.7:53 [=7:53-8:11]
 
 $Act.7:55-7:60	English	Latin	Greek	
 TEST: If...	Act.7:60=Last	Act.7:59=Last	Act.7:60=Last	
@@ -2288,7 +2288,7 @@ DuplicateTarget	3Jn.14-15	3Jn.14-15	3Jn.1:14
 # ==========
 # The following do not change any verse numbers
 
-Colophon	Rom.16.27; 1Co.16:24; 2Co.13:14; Gal.6:18; Eph.6:24; Php.4:23; Col.4:18; 1Th.5:28; 2Th.3:18; 1Ti.6:21; 2Ti.4:22; Tit.3:15; Phm.1:25; Heb.13:25.1
+Colophon	Rom.16:27; 1Co.16:24; 2Co.13:14; Gal.6:18; Eph.6:24; Php.4:23; Col.4:18; 1Th.5:28; 2Th.3:18; 1Ti.6:21; 2Ti.4:22; Tit.3:15; Phm.1:25; Heb.13:25.1
 StartDifferent	Hebrew: Num.26:1; 1Sam.21:1; 1Ki.18:34; 1Ki.20:3; 1Ki.22:22; 1Ki.22:44; 1Ch.12:5; 
 StartDifferent	Mat.2:2; Mat.5:5; Mat.9:24; Mat.10:3; Mat.15:6; Mat.20:5; Mat.21:2; Mat.21:26; Mat.22:42; Mat.23:14; Mat.28:9; Mrk.3:20; Mrk.6:28; Mrk.13:9; Mrk.12:15; 
 StartDifferent	Luk.1:74; Luk.4:19; Luk.6:18; Luk.7:19; Luk.9:43; Luk.10:22; Luk.14:4; Luk.14:35; Luk.16:23; Luk.17:36; Luk.19:42; Luk.22:67; Luk.24:46; Jhn.1:39; Jhn.4:14; Jhn.4:36; Jhn.6:52; Jhn.9:12; Jhn.11:35; Jhn.13:31; 
@@ -2341,7 +2341,7 @@ Tests	These tests have to be TRUE. If they aren't, move on to the next line. The
 
 See notes at the end on how it works, but briefly: 
 eg: at Gen.32:1: if Gen.32:33=Last (ie if v.33 is the last verse in Gen.32) then:
-* renumber the verse as Gen.31.55
+* renumber the verse as Gen.31:55
 * add a note: [1] "In some Bibles the verse numbering here is 32:1 (Hebrew=32:1 • Latin=31:55 • Greek=31:55)"
 
 
@@ -2851,7 +2851,7 @@ Exo.38:12	Exo.37:16	Renumber verse	[38:12]	%Normally in this Bible% %the verse n
 Exo.38:12	Exo.37:16	Renumber verse	[38:12]	%Normally in this Bible% %the verse numbering here is% 38:12 (Hebrew=37:16 • Latin=37:16 • Greek=38:12)	GreekUndivided	Exo.37:21=Last & Exo.38:11.1=NotExist	
 Exo.37:17	Exo.37:17	Keep verse	[13, 17.1]	%In some Bibles% %the verse numbering here is% 38:13, 17.1 (Hebrew=37:17 • Latin=37:17 • Greek=38:13; 17.1)	English+Hebrew+Latin	Exo.37:29=Last	
 Exo.38:13	Exo.37:17.1	Renumber verse	[38:13]	%Normally in this Bible% %the verse numbering here is% 38:13 (Hebrew=37:17 • Latin=37:17 • Greek=38:13)	Greek	Exo.37:21=Last & Exo.38:11.1=Exist	
-Exo.17:1	Exo.37:17.2	Renumber verse	[17:1]	%Normally in this Bible% %the verse numbering here is% Exo.17.1 (Hebrew=37:17 • Latin=37:17 • Greek=38:17.1)	Greek	Exo.37:21=Last & Exo.38:11.1=Exist	
+Exo.17:1	Exo.37:17.2	Renumber verse	[17:1]	%Normally in this Bible% %the verse numbering here is% Exo.17:1 (Hebrew=37:17 • Latin=37:17 • Greek=38:17.1)	Greek	Exo.37:21=Last & Exo.38:11.1=Exist	
 Exo.38:13	Exo.37:17	Renumber verse	[38:13]	%Normally in this Bible% %the verse numbering here is% 38:13 (Hebrew=37:17 • Latin=37:17 • Greek=38:13; 17.1)	GreekUndivided	Exo.37:21=Last & Exo.38:11.1=NotExist	
 Exo.37:18	Exo.37:18	Keep verse	[14, 15, 17.2]	%In some Bibles% %the verse numbering here is% 38:14, 15, 17.2 (Hebrew=37:18 • Latin=37:18 • Greek=38:14, 15; 17.2)	English+Hebrew+Latin	Exo.37:29=Last	
 Exo.38:14	Exo.37:18.1	Renumber verse	[38:14]	%Normally in this Bible% %the verse numbering here is% 38:14 (Hebrew=37:18 • Latin=37:18 • Greek=38:14)	Greek	Exo.37:21=Last & Exo.38:11.1=Exist	
@@ -5434,13 +5434,13 @@ Neh.12:45	Neh.12:46	Renumber verse	[45]	%Normally in this Bible% %the verse numb
 Neh.12:47	Neh.12:47	Keep verse	[46]	%In some Bibles% %the verse numbering here is% 12:46 (Hebrew=12:47 • Latin=12:46 • Greek=12:47)	English+Hebrew+Greek	Neh.12:47=Last	
 Neh.12:46	Neh.12:47	Renumber verse	[46]	%Normally in this Bible% %the verse numbering here is% 12:46 (Hebrew=12:47 • Latin=12:46 • Greek=12:47)	Latin	Neh.12:46=Last	
 Est.4:8	Est.4:8	Keep verse	[8.0-3]	%In some Bibles% %the verse numbering here is% 4:8.0-3; %this verse includes words that are alternately at% 15:1-3 (Hebrew=4:8 • Latin=4:8.0-3[=15:1-3] • Greek=4:8.0-2[=15:2-3])	English+Hebrew	Est.4:8.1=NotExist & Est.4:8<Est.4:11	
-Est.4:8	Est.4:8	Keep verse	[8.0-3]	%In some Bibles% %the verse numbering here is% 4:8.0-3; %this verse includes words that are alternately at% 15:1-3 (Hebrew=4:8 • Latin=4:8.0-3[=15:1-3] • Greek=4:8.0-2[=15:2-3])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4.8.2	
-Est.4:8.1	Est.4:8.1	Keep verse	[1]	%In some Bibles% %the verse numbering here is% 15:1; %this verse includes words that are alternately at% 15:1 (Hebrew= -- • Latin=4:8.1[=15:1] • Greek=4:8.1[=15:1])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4.8.2	
-Est.4:8.2	Est.4:8.2	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 15:2; %this verse includes words that are alternately at% 15:2 (Hebrew= -- • Latin=4:8.2[=15:2] • Greek=4:8.2[=15:2])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4.8.2	
-Est.4:8.3	Est.4:8.3	Keep verse	[3]	%In some Bibles% %the verse numbering here is% 15:3; %this verse includes words that are alternately at% 15:3 (Hebrew= -- • Latin=4:8.3[=15:3] • Greek=4:8.2[=15:3])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4.8.2	
-Est.4:8	Est.4:8	Keep verse	[8.0-2]	%In some Bibles% %the verse numbering here is% 4:8.0-2; %this verse includes words that are alternately at% 15:2-3 (Hebrew=4:8 • Latin=4:8.0-3[=15:1-3] • Greek=4:8.0-2[=15:2-3])	Greek	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5<Est.4.8.2	
-Est.4:8.1	Est.4:8.1	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 15:2; %this verse includes words that are alternately at% 15:2 (Hebrew= -- • Latin=4:8.2[=15:2] • Greek=4:8.1[=15:2])	Greek	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5<Est.4.8.2	
-Est.4:8.2	Est.4:8.2	Keep verse	[3]	%In some Bibles% %the verse numbering here is% 15:3; %this verse includes words that are alternately at% 15:3 (Hebrew= -- • Latin=4:8.2[=15:2] • Greek=4:8.2[=15:3])	Greek	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5<Est.4.8.2	
+Est.4:8	Est.4:8	Keep verse	[8.0-3]	%In some Bibles% %the verse numbering here is% 4:8.0-3; %this verse includes words that are alternately at% 15:1-3 (Hebrew=4:8 • Latin=4:8.0-3[=15:1-3] • Greek=4:8.0-2[=15:2-3])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4:8.2	
+Est.4:8.1	Est.4:8.1	Keep verse	[1]	%In some Bibles% %the verse numbering here is% 15:1; %this verse includes words that are alternately at% 15:1 (Hebrew= -- • Latin=4:8.1[=15:1] • Greek=4:8.1[=15:1])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4:8.2	
+Est.4:8.2	Est.4:8.2	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 15:2; %this verse includes words that are alternately at% 15:2 (Hebrew= -- • Latin=4:8.2[=15:2] • Greek=4:8.2[=15:2])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4:8.2	
+Est.4:8.3	Est.4:8.3	Keep verse	[3]	%In some Bibles% %the verse numbering here is% 15:3; %this verse includes words that are alternately at% 15:3 (Hebrew= -- • Latin=4:8.3[=15:3] • Greek=4:8.2[=15:3])	Latin	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5>Est.4:8.2	
+Est.4:8	Est.4:8	Keep verse	[8.0-2]	%In some Bibles% %the verse numbering here is% 4:8.0-2; %this verse includes words that are alternately at% 15:2-3 (Hebrew=4:8 • Latin=4:8.0-3[=15:1-3] • Greek=4:8.0-2[=15:2-3])	Greek	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5<Est.4:8.2	
+Est.4:8.1	Est.4:8.1	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 15:2; %this verse includes words that are alternately at% 15:2 (Hebrew= -- • Latin=4:8.2[=15:2] • Greek=4:8.1[=15:2])	Greek	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5<Est.4:8.2	
+Est.4:8.2	Est.4:8.2	Keep verse	[3]	%In some Bibles% %the verse numbering here is% 15:3; %this verse includes words that are alternately at% 15:3 (Hebrew= -- • Latin=4:8.2[=15:2] • Greek=4:8.2[=15:3])	Greek	Est.4:8.1=Exist & Est.4:8>Est.4:11 & Est.4:8.1*5<Est.4:8.2	
 Est.4:8	Est.4:8	Keep verse	[8.0-2]	%In some Bibles% %the verse numbering here is% 4:8.0-2; %this verse includes words that are alternately at% 15:2-3 (Hebrew=4:8 • Latin=4:8.0-3[=15:1-3] • Greek=4:8.0-2[=15:2-3])	GreekUndivided	Est.4:8.1=NotExist & Est.4:8>Est.4:11	
 Est.1:1	Est.1:1	Keep verse	[1.0-17]	%In some Bibles% %the verse numbering here is% 1:1.0-17; %this verse includes words that are alternately at% 11:2-12; 12:1-6 (Hebrew=1:1 • Latin=1:1.0-17[=11:2-12; 12:1-6] • Greek=1:1.0-17[=11:2-12; 12:1-6 (A:1-17)])	English+Hebrew	Est.10:3.1=NotExist & Esg.15:1=NotExist & Est.8:9>8:12.0	
 Est.1:1	Est.1:1	Keep verse	[1.0-17]	%In some Bibles% %the verse numbering here is% 1:1.0-17; %this verse includes words that are alternately at% 11:2-12; 12:1-6 (Hebrew=1:1 • Latin=1:1.0-17[=11:2-12; 12:1-6] • Greek=1:1.0-17[=11:2-12; 12:1-6 (A:1-17)])	Latin	Est.10:3.1=Exist & Esg.15:19=Last & Est.8:9>8:12.0	
@@ -18319,7 +18319,7 @@ Heb.13:25	Heb.13:25	Keep verse	[+]	%At the end of this verse, some manuscripts a
 1Pe.2:8	1Pe.2:8	Keep verse	[+]	%In some Bibles% %this verse starts on a different word% 	All		
 1Pe.3:16	1Pe.3:16	Keep verse	[+]	%In some Bibles% %this verse starts on a different word% 	All		
 1Jn.2:14	1Jn.2:14	Keep verse	[+]	%In some Bibles% %this verse starts on a different word% 	All		
-1Jn.5.7	1Jn.5.7	Keep verse	[+]	%Some manuscripts have no text at% 5.7b-8a 	All		
+1Jn.5:7	1Jn.5:7	Keep verse	[+]	%Some manuscripts have no text at% 5.7b-8a 	All		
 Rev.2:28	Rev.2:28	Keep verse	[+]	%In some Bibles% %this verse starts on a different word% 	All		
 Rev.13:1	Rev.13:1	Keep verse	[+]	%In some Bibles% %this verse starts on a different word% 	All		
 Rev.17:10	Rev.17:10	Keep verse	[+]	%In some Bibles% %this verse starts on a different word% 	All		
@@ -18334,7 +18334,7 @@ Col.3 has the marker for the note, eg "[2]". This is the verse number in the sou
 Col 4 has the note to insert at the start of this verse
 
 EG at Gen.32:1, if "Gen.32:33=Last" (ie if v.33 is the last verse in Gen.32) then:
-* renumber the verse as Gen.31.55
+* renumber the verse as Gen.31:55
 * add a note: [1] "In some Bibles the verse numbering here is 32:1 (Hebrew=32:1 • Latin=31:55 • Greek=31:55)"
 Exo.21:17	Exo.21:16	Renumber verse	[17]	%Normally in this Bible% %the verse numbering here is% 21:17 (Hebrew=21:16 • Latin=21:16 • Greek=21:17)	Greek	21:16<21:17	
 
@@ -18368,8 +18368,8 @@ If you want to produce a Bible that does not change the verse numbers:
 Psalm Titles
 ========
 In Standard versification, the Titles (when they occur) are the first part of verse 1. However, they are normally formatted in italics, so it is useful if they are distinguished in some way from the rest of the verse. 
-In ancient Hebrew, Greek and Latin texts, the Psalm titles are normally in their own verse(s). These are marked as verse ".0" (eg Psa.51.1.0) to indicate that this part of the verse can be put in italics.
-Occasionally a long Title may be found in two verses, in which case the contents of the second verse is also labelled ".0" (eg Psa.51.1.0). 
+In ancient Hebrew, Greek and Latin texts, the Psalm titles are normally in their own verse(s). These are marked as verse ".0" (eg Psa.51:1.0) to indicate that this part of the verse can be put in italics.
+Occasionally a long Title may be found in two verses, in which case the contents of the second verse is also labelled ".0" (eg Psa.51:1.0). 
 When the first verse of a Psalm has a title, the part of the verse after the Title is called ".1" to indicate there should not be a verse break at this point, but it should be merged into the end of v.1 after the Title. 
 LongVerses do not occur in the Psalms, so ".0" in the Psalms indicates a Title, whereas elsewhere it indicates the equivalent text of the Standard verse. 
 If an English source has Titles separately, they should be marked as "T", eg Psa.51:1T then Psa.51:1
@@ -18380,14 +18380,14 @@ Subverses
 EG at Dan.4:34.3 (which is only found in Bibles with subverses, eg editions of the Septuagint) "Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist" (ie if chaps 4 & 5 end at v.34 & 39, and if the subverse Dan.4:34.3 does actually exist) then renumber and add a note.
 
 Some versions (esp. the Septuagint and translations of it) have lots of subverses. If they aren't separate in the source, then the tests that are True will follow the "GreekUndivided" scheme. 
-So when you are testing for something like Dan.4:34.3, you are looking to see if there is a separate subverse like that. Of course, in some systems, the subverses might be labelled differently - eg. Exo.38.11b - in which case you'll have to conform the text with the rules (or vice versa)
+So when you are testing for something like Dan.4:34.3, you are looking to see if there is a separate subverse like that. Of course, in some systems, the subverses might be labelled differently - eg. Exo.38:11b - in which case you'll have to conform the text with the rules (or vice versa)
 
-Subverses occur when the LXX moves verses (such as the last few verses of Josh.8) to another place (in this case, just after the text found in Josh.9.2). They are added as subverses at the new location, because if they were inserted as verses, all the subsequent verses would need renumbering. 
-So, in this example, the normal text of Josh.9.2 becomes subverse "0" and the inserted verses get numbered as subverses .1-.6 (though some Bibles label them as "a"-"f"). For an example, see p.181 at http://ccat.sas.upenn.edu/nets/edition/06-iesous-nets.pdf
+Subverses occur when the LXX moves verses (such as the last few verses of Josh.8) to another place (in this case, just after the text found in Josh.9:2). They are added as subverses at the new location, because if they were inserted as verses, all the subsequent verses would need renumbering. 
+So, in this example, the normal text of Josh.9:2 becomes subverse "0" and the inserted verses get numbered as subverses .1-.6 (though some Bibles label them as "a"-"f"). For an example, see p.181 at http://ccat.sas.upenn.edu/nets/edition/06-iesous-nets.pdf
 
 Notional Subverses
 =============
-Subverses are labelled here as numbers, eg. Exo.28:22.6 - which indicates the 6th verse which has been inserted into the end of Exo.28.22
+Subverses are labelled here as numbers, eg. Exo.28:22.6 - which indicates the 6th verse which has been inserted into the end of Exo.28:22
 
 However there is also a different kind of subverse - a 'notional' subverse - which is labelled with "a" or "b" etc, eg. Exo.28:29b - which indicates a part of a verse and not a proper subverse. 
 
@@ -18399,12 +18399,12 @@ This results in the whole text for the two verses being put into Exo.35:15 leavi
 Rearrangements
 ===========
 Subverses usually result in Rearrangements of the text - that is, parts of the text occur in a different order. This almost always occurs in the LXX. We don't know the reason for this, but probably the LXX was translated from an early version of the Hebrew text where the exact order was not yet settled. 
-One interesting place is Exo.20:13-15 where the order of some of the 10 Commandments is different, which may be reflected in Jer.7.9. The has yet another order (see https://www.stepbible.org/?q=version=ESV%7Ctext=steal%20and%20adultery%20and%20murder&options=HVNUG&pos=1 )
+One interesting place is Exo.20:13-15 where the order of some of the 10 Commandments is different, which may be reflected in Jer.7:9. The has yet another order (see https://www.stepbible.org/?q=version=ESV%7Ctext=steal%20and%20adultery%20and%20murder&options=HVNUG&pos=1 )
 Some scholars will want to study these texts in the order in which they have been transmitted, but most work on the LXX depends on comparing the translations, for which it is more useful to have the Greek in the same order as the Hebrew, English and Latin. 
 
 Rearrangements also occur in a couple of other places:
 • Ben Sirah (or Sirach) has a couple of places in Latin where a few verses are in a different order: 7:9-11; 9:21-23; 10:21-24; 19:25-26; 32:9-11. These are sections of individual sayings, like proverbs, so the order doesn't make any difference to the sense. 
-• Rom.14.23 - Byzantine MSS place the 'final' benediction here, though most editions place it at the end of the letter - where almost all translations put it. A notable exception is WEB - see https://www.stepbible.org/?q=version=WEB%7Creference=Rom.14&options=VHNUG&pos=1
+• Rom.14:23 - Byzantine MSS place the 'final' benediction here, though most editions place it at the end of the letter - where almost all translations put it. A notable exception is WEB - see https://www.stepbible.org/?q=version=WEB%7Creference=Rom.14&options=VHNUG&pos=1
 
 
 Phrases to translate to different languages: 
