@@ -6101,17 +6101,6 @@ Job.42:16	Job.42:17	Merged above	[16b]	%Normally in this Bible% %this verse is m
 Psa.2:12	Psa.2:12	Keep verse	[12-13]	%In some Bibles% %the verse numbering here is% 2:12-13 (Hebrew=2:12 • Latin=2:12-13 • Greek=2:12)	English+Hebrew+Greek	Psa.2:12=Last	
 Psa.2:12	Psa.2:12.1	Renumber verse	[12]	%In some Bibles% %the verse numbering here is% 2:12-13 (Hebrew=2:12 • Latin=2:12-13 • Greek=2:12)	Latin	Psa.2:13=Last	
 Psa.2:13	Psa.2:12.2	Renumber verse	[13]	%Normally in this Bible% %the verse numbering here is% 2:13 (Hebrew=2:12 • Latin=2:12-13 • Greek=2:12)	Latin	Psa.2:13=Last	
-
-$Psa.3:1-3:8	English	Hebrew	Latin	Greek	EngTitleSeparate
-TEST: If...	Psa.3:8=Last	Psa.3:9=Last	Psa.3:9=Last	Psa.3:9=Last	Psa.3:8=Last
-TEST: And if... 	Psa.3:1.1=NotExist	Psa.3:1.1=NotExist	Psa.3:1.1=NotExist	Psa.3:1.1=NotExist	Psa.3:1.1=Exist		
-Concatenation	Psa.3:1	Psa.3:1-2	Psa.3:1-2	Psa.3:1-2	Psa.3:1.0-1		
-OneToOne	Psa.3:2-8	Psa.3:3-9	Psa.3:3-9	Psa.3:3-9	Psa.3:2-8		
-
-Psa.3:1.0	Psa.3:1.0	Keep verse	[1]	%In some Bibles% %the verse numbering here is% 3:1 (Hebrew=3:1 • Latin=3:1 • Greek=3:1)	EngTitleSeparate	Psa.3:1.1=Exists	
-Psa.3:1.1	Psa.3:1.1	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 3:2 (Hebrew=3:2 • Latin=3:2 • Greek=3:2)	EngTitleSeparate	Psa.3:1.1=Exists	
-
-
 Psa.3:1	Psa.3:1	Keep verse	[1-2]	%In some Bibles% %the verse numbering here is% 3:1-2 (Hebrew=3:1-2 • Latin=3:1-2 • Greek=3:1-2)	English	Psa.3:8=Last	
 Psa.3:1	Psa.3:1.0	Renumber verse	[1]	%Normally in this Bible% %the verse numbering here is% 3:1 (Hebrew=3:1-2 • Latin=3:1-2 • Greek=3:1-2)	Hebrew+Latin+Greek	Psa.3:9=Last	
 Psa.3:2	Psa.3:1.1	Renumber verse	[2]	%Normally in this Bible% %the verse numbering here is% 3:2 (Hebrew=3:1-2 • Latin=3:1-2 • Greek=3:1-2)	Hebrew+Latin+Greek	Psa.3:9=Last	
