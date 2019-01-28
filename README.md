@@ -77,6 +77,8 @@ Translation, Greek form and witnesses up to 400 AD for each variant that affects
 # Data format 
 Data is in plain unicode text (UTF-8) with fields separated by tabs, so that they can be loaded into any text editor or spreadsheet.   
   
+* **To open in spreadsheets**, (e.g. Excel): In Github, click on the file, then "Download" then Save (Ctr+S) to your drive. In Excel "Browse" for it using "All Files" (not "All Excel Files") and open it. When asked, select "Delimited", "Tab", "General". 
+  
 * **By default, datasets are one-line records**, so a Record ends with a NewLine, and each line has identical fields.  
   
 * Some datasets have multi-line records. Records are separated by a line starting with "$". The first line is a Header with fields that apply to each subsequent subRecord line. SubRecord lines all start with a tab.   
