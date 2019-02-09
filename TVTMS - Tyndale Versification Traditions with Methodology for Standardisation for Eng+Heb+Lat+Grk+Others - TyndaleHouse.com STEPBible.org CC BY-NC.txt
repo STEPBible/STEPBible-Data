@@ -15880,8 +15880,8 @@ Sir.3:17	Sir.3:17	Keep verse	[19]	%In some Bibles% %the verse numbering here is%
 Sir.3:19	Sir.3:17	Renumber verse	[19]	%Normally in this Bible% %the verse numbering here is% 3:19 % (Latin=3:19 • Greek=3:17)	Latin	Sir.3:34=Last	
 Sir.3:18	Sir.3:18	Keep verse	[20]	%In some Bibles% %the verse numbering here is% 3:20 % (Latin=3:20 • Greek=3:18)	English+Greek	Sir.3:31=Last	
 Sir.3:20	Sir.3:18	Renumber verse	[20]	%Normally in this Bible% %the verse numbering here is% 3:20 % (Latin=3:20 • Greek=3:18)	Latin	Sir.3:34=Last	
-Sir.3:19	Sir.3:19	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=3:19)	English+Greek	Sir.3:31=Last	
-Sir.3:19	Sir.3:19	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=3:19)	Latin	Sir.3:34=Last	
+Sir.3:19	Sir.3:19	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=3:19)	English+Greek	Sir.3:31=Last	
+Sir.3:19	Sir.3:19	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=3:19)	Latin	Sir.3:34=Last	
 Sir.3:20	Sir.3:20	Keep verse	[21]	%In some Bibles% %the verse numbering here is% 3:21 % (Latin=3:21 • Greek=3:20)	English+Greek	Sir.3:31=Last	
 Sir.3:21	Sir.3:20	Renumber verse	[21]	%Normally in this Bible% %the verse numbering here is% 3:21 % (Latin=3:21 • Greek=3:20)	Latin	Sir.3:34=Last	
 Sir.3:21	Sir.3:21	Keep verse	[22]	%In some Bibles% %the verse numbering here is% 3:22 % (Latin=3:22 • Greek=3:21)	English+Greek	Sir.3:31=Last	
@@ -16351,12 +16351,12 @@ Sir.16:13	Sir.16:13	Keep verse	[14]	%In some Bibles% %the verse numbering here i
 Sir.16:14	Sir.16:13	Renumber verse	[14]	%Normally in this Bible% %the verse numbering here is% 16:14 % (Latin=16:14 • Greek=16:13)	Latin	Sir.16:31=Last	
 Sir.16:14	Sir.16:14	Keep verse	[15]	%In some Bibles% %the verse numbering here is% 16:15 % (Latin=16:15 • Greek=16:14)	English+Greek	Sir.16:30=Last	
 Sir.16:15	Sir.16:14	Renumber verse	[15]	%Normally in this Bible% %the verse numbering here is% 16:15 % (Latin=16:15 • Greek=16:14)	Latin	Sir.16:31=Last	
-Sir.16:15	Sir.16:15	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=16:15)	English+Greek	Sir.16:30=Last	
-Sir.16:15	Sir.16:15	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=16:15)	Latin	Sir.16:31=Last	
+Sir.16:15	Sir.16:15	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=16:15)	English+Greek	Sir.16:30=Last	
+Sir.16:15	Sir.16:15	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=16:15)	Latin	Sir.16:31=Last	
 Sir.16:17	Sir.16:17	Keep verse	[16-17]	%In some Bibles% %the verse numbering here is% 16:16-17 % (Latin=16:16-17 • Greek=16:17)	English+Greek	Sir.16:30=Last	
 Sir.16:16	Sir.16:17.1	Renumber verse	[16]	%Normally in this Bible% %the verse numbering here is% 16:16 % (Latin=16:16-17 • Greek=16:17)	Latin	Sir.16:31=Last	
-Sir.16:16	Sir.16:16	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=16:16)	English+Greek	Sir.16:30=Last	
-Sir.16:16	Sir.16:16	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=16:16)	Latin	Sir.16:31=Last	
+Sir.16:16	Sir.16:16	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=16:16)	English+Greek	Sir.16:30=Last	
+Sir.16:16	Sir.16:16	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=16:16)	Latin	Sir.16:31=Last	
 Sir.16:17	Sir.16:17.2	Renumber verse	[17]	%Normally in this Bible% %the verse numbering here is% 16:17 % (Latin=16:16-17 • Greek=16:17)	Latin	Sir.16:31=Last	
 Sir.16:28	Sir.16:28	Keep verse	[28-29]	%In some Bibles% %the verse numbering here is% 16:28-29 % (Latin=16:28-29 • Greek=16:28)	English+Greek	Sir.16:30=Last	
 Sir.16:28	Sir.16:28.1	Renumber verse	[28]	%In some Bibles% %the verse numbering here is% 16:28-29 % (Latin=16:28-29 • Greek=16:28)	Latin	Sir.16:31=Last	
@@ -16397,8 +16397,8 @@ Sir.17:18	Sir.17:18	Keep verse	[15]	%In some Bibles% %the verse numbering here i
 Sir.17:15	Sir.17:18	Renumber verse	[15]	%Normally in this Bible% %the verse numbering here is% 17:15 % (Latin=17:15 • Greek=17:18)	Latin	Sir.17:31=Last	
 Sir.17:19	Sir.17:19	Keep verse	[16]	%In some Bibles% %the verse numbering here is% 17:16 % (Latin=17:16 • Greek=17:19)	English+Greek	Sir.17:32=Last	
 Sir.17:16	Sir.17:19	Renumber verse	[16]	%Normally in this Bible% %the verse numbering here is% 17:16 % (Latin=17:16 • Greek=17:19)	Latin	Sir.17:31=Last	
-Sir.17:16	Sir.17:16	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=17:16)	English+Greek	Sir.17:32=Last	
-Sir.17:16	Sir.17:16	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (• Latin= -- • Greek=17:16)	Latin	Sir.17:31=Last	
+Sir.17:16	Sir.17:16	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=17:16)	English+Greek	Sir.17:32=Last	
+Sir.17:16	Sir.17:16	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=17:16)	Latin	Sir.17:31=Last	
 Sir.17:20	Sir.17:20	Keep verse	[17]	%In some Bibles% %the verse numbering here is% 17:17 % (Latin=17:17 • Greek=17:20)	English+Greek	Sir.17:32=Last	
 Sir.17:17	Sir.17:20	Renumber verse	[17]	%Normally in this Bible% %the verse numbering here is% 17:17 % (Latin=17:17 • Greek=17:20)	Latin	Sir.17:31=Last	
 Sir.17:22	Sir.17:22	Keep verse	[18]	%In some Bibles% %the verse numbering here is% 17:18 % (Latin=17:18 • Greek=17:22)	English+Greek	Sir.17:32=Last	
@@ -18428,4 +18428,9 @@ Phrases to translate to different languages:
 %this verse is merged with the verse above, so the text may be missing here%
 %Some manuscripts have no text at% 
 %At the end of this verse, some manuscripts add information such as where this letter was written%
-
+In the refs: 
+Hebrew
+Latin
+Greek
+Slavonic
+Spanish RV
