@@ -14436,7 +14436,7 @@ Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible% %the verse numbering
 Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible% %the verse numbering here is% 4:2 (Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
 Dan.4:5	Dan.4:5	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 4:2 (Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
 Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible% %the verse numbering here is% 4:2 (Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
-Dan.4:2	Dan.4:2	Empty verse	[0]	%In some Bibles% %this verse may not contain any text%; (Hebrew=3:32 • Latin=3:99 • Greek= --)	Greek	Dan.3:97=Last	
+Dan.4:2	Dan.4:2	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (Hebrew=3:32 • Latin=3:99 • Greek= --)	Greek	Dan.3:97=Last	
 Dan.4:5	Dan.4:5	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 4:2 (Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:6	Dan.4:6	Keep verse	[3]	%In some Bibles% %the verse numbering here is% 4:3 (Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:3	Dan.4:6	Renumber verse	[3]	%Normally in this Bible% %the verse numbering here is% 4:3 (Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
@@ -14632,13 +14632,13 @@ Dan.4:33	Dan.4:33	Keep verse	[30]	%In some Bibles% %the verse numbering here is%
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible% %the verse numbering here is% 4:30 (Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible% %the verse numbering here is% 4:30 (Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Latin	Dan.4:34=Last & Dan.3:100=Last	
 Dan.4:30	Dan.4:33	Renumber verse	[30,a-c]	%In some Bibles% %the verse numbering here is% 4:30,a-c (Hebrew=4:30 • Latin=4:30 • Greek=4:30,a-c • Greek2=4:33,a-c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.1	Dan.4:33.1	Renumber verse	[30a]	%In some Bibles% % 4:30a (Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.2	Dan.4:33.2	Renumber verse	[30b]	%In some Bibles% % 4:30b (Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.3	Dan.4:33.3	Renumber verse	[30c]	%In some Bibles% % 4:30c (Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:30.1	Dan.4:33.1	Renumber verse	[30a]	%In some Bibles% 4:30a (Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:30.2	Dan.4:33.2	Renumber verse	[30b]	%In some Bibles% 4:30b (Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:30.3	Dan.4:33.3	Renumber verse	[30c]	%In some Bibles% 4:30c (Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
 Dan.4:33	Dan.4:33	Keep verse	[33,a-c]	%In some Bibles% %the verse numbering here is% 4:33,a-c (Hebrew=4:30 • Latin=4:30 • Greek=4:30,a-c • Greek2=4:33,a-c)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
-Dan.4:33.1	Dan.4:33.1	Keep verse	[33a]	%In some Bibles% % 4:33a (Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:33.2	Dan.4:33.2	Keep verse	[33b]	%In some Bibles% % 4:33b (Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:33.3	Dan.4:33.3	Keep verse	[33c]	%In some Bibles% % 4:33c (Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:33.1	Dan.4:33.1	Keep verse	[33a]	%In some Bibles% 4:33a (Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:33.2	Dan.4:33.2	Keep verse	[33b]	%In some Bibles% 4:33b (Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:33.3	Dan.4:33.3	Keep verse	[33c]	%In some Bibles% 4:33c (Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible% %the verse numbering here is% 4:30 (Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:33	Dan.4:33	Keep verse	[30]	%In some Bibles% %the verse numbering here is% 4:30 (Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:34	Dan.4:34	Keep verse	[31]	%In some Bibles% %the verse numbering here is% 4:31 (Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	English	Dan.4:37=Last & Dan.3:30=Last	
@@ -15699,11 +15699,11 @@ Bar.6:49	Bar.6:49	Keep verse	[49]	%In some Bibles% %the verse numbering here is%
 Bar.6:49	Bar.6:49	Keep verse	[49]	%In some Bibles% %the verse numbering here is% 1:49 (Latin=6:49 • Greek=1:49)	Latin	Bar.6:72=Last	
 Lje.1:49	Bar.6:49	Renumber verse	[49]	%Normally in this Bible% %the verse numbering here is% 1:49 (Latin=6:49 • Greek=1:49)	Greek	LJe.1:72=Last	
 Bar.6:50	Bar.6:50	Keep verse	[50a]	%In some Bibles% %the verse numbering here is% 6:50a % (Latin=6:50a • Greek=1:50a)	English	Bar.6:73=Last	
-Bar.6:50	Bar.6:50	Keep verse	[50-51]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 6:50 % % (Latin=6:50a • Greek=1:50a)	Latin	Bar.6:72=Last	
-Lje.1:50	Bar.6:50	Renumber verse	[50-51]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 1:50 % % (Latin=6:50a • Greek=1:50a)	Greek	LJe.1:72=Last	
+Bar.6:50	Bar.6:50	Keep verse	[50-51]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 6:50 % (Latin=6:50a • Greek=1:50a)	Latin	Bar.6:72=Last	
+Lje.1:50	Bar.6:50	Renumber verse	[50-51]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 1:50 % (Latin=6:50a • Greek=1:50a)	Greek	LJe.1:72=Last	
 Bar.6:51	Bar.6:51	Keep verse	[50b]	%In some Bibles% %the verse numbering here is% 6:50b % (Latin=6:50b • Greek=1:50b)	English	Bar.6:73=Last	
-Bar.6:50	Bar.6:51	Merged above	[50b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=6:50b • Greek=1:50b)	Latin	Bar.6:72=Last	
-Lje.1:50	Bar.6:51	Merged above	[50b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=6:50b • Greek=1:50b)	Greek	LJe.1:72=Last	
+Bar.6:50	Bar.6:51	Merged above	[50b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=6:50b • Greek=1:50b)	Latin	Bar.6:72=Last	
+Lje.1:50	Bar.6:51	Merged above	[50b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=6:50b • Greek=1:50b)	Greek	LJe.1:72=Last	
 Bar.6:52	Bar.6:52	Keep verse	[51]	%In some Bibles% %the verse numbering here is% 6:51 (Latin=6:51 • Greek=1:51)	English	Bar.6:73=Last	
 Bar.6:51	Bar.6:52	Renumber verse	[51]	%Normally in this Bible% %the verse numbering here is% 6:51 (Latin=6:51 • Greek=1:51)	Latin	Bar.6:72=Last	
 Lje.1:51	Bar.6:52	Renumber verse	[51]	%Normally in this Bible% %the verse numbering here is% 1:51 (Latin=6:51 • Greek=1:51)	Greek	LJe.1:72=Last	
@@ -15775,9 +15775,9 @@ Sir.1:13	Sir.1:13.1	Renumber verse	[13]	%In some Bibles% %the verse numbering he
 Sir.1:14	Sir.1:13.2	Renumber verse	[14]	%Normally in this Bible% %the verse numbering here is% 1:14 (Latin=1:13-15 • Greek=1:13)	Latin	Sir.1:40=Last	
 Sir.1:15	Sir.1:13.3	Renumber verse	[15]	%Normally in this Bible% %the verse numbering here is% 1:15 (Latin=1:13-15 • Greek=1:13)	Latin	Sir.1:40=Last	
 Sir.1:14	Sir.1:14	Keep verse	[16a]	%In some Bibles% %the verse numbering here is% 1:16a % (Latin=1:16a • Greek=1:14)	English+Greek	Sir.1:30=Last	
-Sir.1:16	Sir.1:14	Renumber verse	[14-16]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 1:16 % % (Latin=1:16a • Greek=1:14)	Latin	Sir.1:40=Last	
+Sir.1:16	Sir.1:14	Renumber verse	[14-16]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 1:16 % (Latin=1:16a • Greek=1:14)	Latin	Sir.1:40=Last	
 Sir.1:15	Sir.1:15	Keep verse	[16b]	%In some Bibles% %the verse numbering here is% 1:16b % (Latin=1:16b • Greek=1:15)	English+Greek	Sir.1:30=Last	
-Sir.1:16	Sir.1:15	Merged above	[16b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=1:16b • Greek=1:15)	Latin	Sir.1:40=Last	
+Sir.1:16	Sir.1:15	Merged above	[16b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=1:16b • Greek=1:15)	Latin	Sir.1:40=Last	
 Sir.1:16	Sir.1:16	Keep verse	[17-20]	%In some Bibles% %the verse numbering here is% 1:17-20 (Latin=1:17-20 • Greek=1:16)	English+Greek	Sir.1:30=Last	
 Sir.1:17	Sir.1:16.1	Renumber verse	[17]	%Normally in this Bible% %the verse numbering here is% 1:17 (Latin=1:17-20 • Greek=1:16)	Latin	Sir.1:40=Last	
 Sir.1:18	Sir.1:16.2	Renumber verse	[18]	%Normally in this Bible% %the verse numbering here is% 1:18 (Latin=1:17-20 • Greek=1:16)	Latin	Sir.1:40=Last	
@@ -15891,9 +15891,9 @@ Sir.3:23	Sir.3:23.1	Renumber verse	[23]	%In some Bibles% %the verse numbering he
 Sir.3:24	Sir.3:23.2	Renumber verse	[24]	%Normally in this Bible% %the verse numbering here is% 3:24 (Latin=3:23-25 • Greek=3:23)	Latin	Sir.3:34=Last	
 Sir.3:25	Sir.3:23.3	Renumber verse	[25]	%Normally in this Bible% %the verse numbering here is% 3:25 (Latin=3:23-25 • Greek=3:23)	Latin	Sir.3:34=Last	
 Sir.3:24	Sir.3:24	Keep verse	[26a]	%In some Bibles% %the verse numbering here is% 3:26a % (Latin=3:26a • Greek=3:24)	English+Greek	Sir.3:31=Last	
-Sir.3:26	Sir.3:24	Renumber verse	[24-25]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 3:26 % % (Latin=3:26a • Greek=3:24)	Latin	Sir.3:34=Last	
+Sir.3:26	Sir.3:24	Renumber verse	[24-25]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 3:26 % (Latin=3:26a • Greek=3:24)	Latin	Sir.3:34=Last	
 Sir.3:25	Sir.3:25	Keep verse	[26b]	%In some Bibles% %the verse numbering here is% 3:26b % (Latin=3:26b • Greek=3:25)	English+Greek	Sir.3:31=Last	
-Sir.3:26	Sir.3:25	Merged above	[26b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=3:26b • Greek=3:25)	Latin	Sir.3:34=Last	
+Sir.3:26	Sir.3:25	Merged above	[26b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=3:26b • Greek=3:25)	Latin	Sir.3:34=Last	
 Sir.3:26	Sir.3:26	Keep verse	[27-28]	%In some Bibles% %the verse numbering here is% 3:27-28 (Latin=3:27-28 • Greek=3:26)	English+Greek	Sir.3:31=Last	
 Sir.3:27	Sir.3:26.1	Renumber verse	[27]	%Normally in this Bible% %the verse numbering here is% 3:27 (Latin=3:27-28 • Greek=3:26)	Latin	Sir.3:34=Last	
 Sir.3:28	Sir.3:26.2	Renumber verse	[28]	%Normally in this Bible% %the verse numbering here is% 3:28 (Latin=3:27-28 • Greek=3:26)	Latin	Sir.3:34=Last	
@@ -16012,9 +16012,9 @@ Sir.6:33	Sir.6:32	Renumber verse	[33]	%Normally in this Bible% %the verse number
 Sir.6:33	Sir.6:33	Keep verse	[34]	%In some Bibles% %the verse numbering here is% 6:34 (Latin=6:34 • Greek=6:33)	English+Greek	Sir.7:36=Last	
 Sir.6:34	Sir.6:33	Renumber verse	[34]	%Normally in this Bible% %the verse numbering here is% 6:34 (Latin=6:34 • Greek=6:33)	Latin	Sir.7:40=Last	
 Sir.6:34	Sir.6:34	Keep verse	[35a]	%In some Bibles% %the verse numbering here is% 6:35a % (Latin=6:35a • Greek=6:34)	English+Greek	Sir.7:36=Last	
-Sir.6:35	Sir.6:34	Renumber verse	[34-35]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 6:35 % % (Latin=6:35a • Greek=6:34)	Latin	Sir.7:40=Last	
+Sir.6:35	Sir.6:34	Renumber verse	[34-35]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 6:35 % (Latin=6:35a • Greek=6:34)	Latin	Sir.7:40=Last	
 Sir.6:35	Sir.6:35	Keep verse	[35b]	%In some Bibles% %the verse numbering here is% 6:35b % (Latin=6:35b • Greek=6:35)	English+Greek	Sir.7:36=Last	
-Sir.6:35	Sir.6:35	Merged above	[35b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=6:35b • Greek=6:35)	Latin	Sir.7:40=Last	
+Sir.6:35	Sir.6:35	Merged above	[35b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=6:35b • Greek=6:35)	Latin	Sir.7:40=Last	
 Sir.7:9	Sir.7:9	Keep verse	[11]	%In some Bibles% %the verse numbering here is% 7:11 (Latin=7:11 • Greek=7:9)	English+Greek	Sir.7:36=Last	
 Sir.7:11	Sir.7:9	Renumber verse	[11]	%Normally in this Bible% %the verse numbering here is% 7:11 (Latin=7:11 • Greek=7:9)	Latin	Sir.7:40=Last	
 Sir.7:10	Sir.7:10	Keep verse	[9-10]	%In some Bibles% %the verse numbering here is% 7:9-10 (Latin=7:9-10 • Greek=7:10)	English+Greek	Sir.7:36=Last	
@@ -16299,15 +16299,15 @@ Sir.14:21	Sir.14:19.2	Renumber verse	[21]	%Normally in this Bible% %the verse nu
 Sir.14:20	Sir.14:20	Keep verse	[22]	%In some Bibles% %the verse numbering here is% 14:22 (Latin=14:22 • Greek=14:20)	English+Greek	Sir.15:20=Last	
 Sir.14:22	Sir.14:20	Renumber verse	[22]	%Normally in this Bible% %the verse numbering here is% 14:22 (Latin=14:22 • Greek=14:20)	Latin	Sir.15:22=Last	
 Sir.14:21	Sir.14:21	Keep verse	[21-22]	%In some Bibles% %the verse numbering here is% 14:23a % (Latin=14:23a • Greek=14:21)	English+Greek	Sir.15:20=Last	
-Sir.14:23	Sir.14:21	Renumber verse	[21-22]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 14:23 % % (Latin=14:23a • Greek=14:21)	Latin	Sir.15:22=Last	
+Sir.14:23	Sir.14:21	Renumber verse	[21-22]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 14:23 % (Latin=14:23a • Greek=14:21)	Latin	Sir.15:22=Last	
 Sir.14:22	Sir.14:22	Keep verse	[23b]	%In some Bibles% %the verse numbering here is% 14:23b % (Latin=14:23b • Greek=14:22)	English+Greek	Sir.15:20=Last	
-Sir.14:23	Sir.14:22	Merged above	[23b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=14:23b • Greek=14:22)	Latin	Sir.15:22=Last	
+Sir.14:23	Sir.14:22	Merged above	[23b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=14:23b • Greek=14:22)	Latin	Sir.15:22=Last	
 Sir.14:23	Sir.14:23	Keep verse	[24]	%In some Bibles% %the verse numbering here is% 14:24 (Latin=14:24 • Greek=14:23)	English+Greek	Sir.15:20=Last	
 Sir.14:24	Sir.14:23	Renumber verse	[24]	%Normally in this Bible% %the verse numbering here is% 14:24 (Latin=14:24 • Greek=14:23)	Latin	Sir.15:22=Last	
 Sir.14:24	Sir.14:24	Keep verse	[25a]	%In some Bibles% %the verse numbering here is% 14:25a % (Latin=14:25a • Greek=14:24)	English+Greek	Sir.15:20=Last	
-Sir.14:25	Sir.14:24	Renumber verse	[4-5]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 14:25 % % (Latin=14:25a • Greek=14:24)	Latin	Sir.15:22=Last	
+Sir.14:25	Sir.14:24	Renumber verse	[4-5]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 14:25 % (Latin=14:25a • Greek=14:24)	Latin	Sir.15:22=Last	
 Sir.14:25	Sir.14:25	Keep verse	[25b]	%In some Bibles% %the verse numbering here is% 14:25b % (Latin=14:25b • Greek=14:25)	English+Greek	Sir.15:20=Last	
-Sir.14:25	Sir.14:25	Merged above	[25b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=14:25b • Greek=14:25)	Latin	Sir.15:22=Last	
+Sir.14:25	Sir.14:25	Merged above	[25b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=14:25b • Greek=14:25)	Latin	Sir.15:22=Last	
 Sir.15:15	Sir.15:15	Keep verse	[15-16]	%In some Bibles% %the verse numbering here is% 15:15-16 (Latin=15:15-16 • Greek=15:15)	English+Greek	Sir.15:20=Last	
 Sir.15:15	Sir.15:15.1	Renumber verse	[15]	%In some Bibles% %the verse numbering here is% 15:15-16 (Latin=15:15-16 • Greek=15:15)	Latin	Sir.15:22=Last	
 Sir.15:16	Sir.15:15.2	Renumber verse	[16]	%Normally in this Bible% %the verse numbering here is% 15:16 (Latin=15:15-16 • Greek=15:15)	Latin	Sir.15:22=Last	
@@ -16370,17 +16370,17 @@ Sir.17:3	Sir.17:2	Renumber verse	[3]	%Normally in this Bible% %the verse numberi
 Sir.17:3	Sir.17:3	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 17:2 (Latin=17:2 • Greek=17:3)	English+Greek	Sir.17:32=Last	
 Sir.17:2	Sir.17:3	Renumber verse	[2]	%Normally in this Bible% %the verse numbering here is% 17:2 (Latin=17:2 • Greek=17:3)	Latin	Sir.17:31=Last	
 Sir.17:5	Sir.17:5	Keep verse	[5a]	%In some Bibles% %the verse numbering here is% 17:5a % (Latin=17:5a • Greek=17:5)	English+Greek	Sir.17:32=Last	
-Sir.17:5	Sir.17:5	Keep verse	[5-6]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:5 % % (Latin=17:5a • Greek=17:5)	Latin	Sir.17:31=Last	
+Sir.17:5	Sir.17:5	Keep verse	[5-6]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:5 % (Latin=17:5a • Greek=17:5)	Latin	Sir.17:31=Last	
 Sir.17:6	Sir.17:6	Keep verse	[5b]	%In some Bibles% %the verse numbering here is% 17:5b % (Latin=17:5b • Greek=17:6)	English+Greek	Sir.17:32=Last	
-Sir.17:5	Sir.17:6	Merged above	[5b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=17:5b • Greek=17:6)	Latin	Sir.17:31=Last	
+Sir.17:5	Sir.17:6	Merged above	[5b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=17:5b • Greek=17:6)	Latin	Sir.17:31=Last	
 Sir.17:7	Sir.17:7	Keep verse	[6]	%In some Bibles% %the verse numbering here is% 17:6 (Latin=17:6 • Greek=17:7)	English+Greek	Sir.17:32=Last	
 Sir.17:6	Sir.17:7	Renumber verse	[6]	%Normally in this Bible% %the verse numbering here is% 17:6 (Latin=17:6 • Greek=17:7)	Latin	Sir.17:31=Last	
 Sir.17:8	Sir.17:8	Keep verse	[7]	%In some Bibles% %the verse numbering here is% 17:7 (Latin=17:7 • Greek=17:8)	English+Greek	Sir.17:32=Last	
 Sir.17:7	Sir.17:8	Renumber verse	[7]	%Normally in this Bible% %the verse numbering here is% 17:7 (Latin=17:7 • Greek=17:8)	Latin	Sir.17:31=Last	
 Sir.17:9	Sir.17:9	Keep verse	[8a]	%In some Bibles% %the verse numbering here is% 17:8a % (Latin=17:8a • Greek=17:9)	English+Greek	Sir.17:32=Last	
-Sir.17:8	Sir.17:9	Renumber verse	[9-10]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:8 % % (Latin=17:8a • Greek=17:9)	Latin	Sir.17:31=Last	
+Sir.17:8	Sir.17:9	Renumber verse	[9-10]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:8 % (Latin=17:8a • Greek=17:9)	Latin	Sir.17:31=Last	
 Sir.17:10	Sir.17:10	Keep verse	[8b]	%In some Bibles% %the verse numbering here is% 17:8b % (Latin=17:8b • Greek=17:10)	English+Greek	Sir.17:32=Last	
-Sir.17:8	Sir.17:10	Merged above	[8b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=17:8b • Greek=17:10)	Latin	Sir.17:31=Last	
+Sir.17:8	Sir.17:10	Merged above	[8b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=17:8b • Greek=17:10)	Latin	Sir.17:31=Last	
 Sir.17:11	Sir.17:11	Keep verse	[9]	%In some Bibles% %the verse numbering here is% 17:9 (Latin=17:9 • Greek=17:11)	English+Greek	Sir.17:32=Last	
 Sir.17:9	Sir.17:11	Renumber verse	[9]	%Normally in this Bible% %the verse numbering here is% 17:9 (Latin=17:9 • Greek=17:11)	Latin	Sir.17:31=Last	
 Sir.17:12	Sir.17:12	Keep verse	[10]	%In some Bibles% %the verse numbering here is% 17:10 (Latin=17:10 • Greek=17:12)	English+Greek	Sir.17:32=Last	
@@ -16429,10 +16429,10 @@ Sir.17:30	Sir.17:31	Renumber verse	[30]	%Normally in this Bible% %the verse numb
 Sir.17:32	Sir.17:32	Keep verse	[31]	%In some Bibles% %the verse numbering here is% 17:31 (Latin=17:31 • Greek=17:32)	English+Greek	Sir.17:32=Last	
 Sir.17:31	Sir.17:32	Renumber verse	[31]	%Normally in this Bible% %the verse numbering here is% 17:31 (Latin=17:31 • Greek=17:32)	Latin	Sir.17:31=Last	
 Sir.18:1	Sir.18:1	Keep verse	[1a]	%In some Bibles% %the verse numbering here is% 18:1a % (Latin=18:1a • Greek=18:1)	English	Sir.19:30=Last	
-Sir.18:1	Sir.18:1	Keep verse	[1-2]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 18:1 % % (Latin=18:1a • Greek=18:1)	Latin	Sir.19:28=Last	
+Sir.18:1	Sir.18:1	Keep verse	[1-2]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 18:1 % (Latin=18:1a • Greek=18:1)	Latin	Sir.19:28=Last	
 Sir.18:1	Sir.18:1	Keep verse	[1a]	%In some Bibles% %the verse numbering here is% 18:1a % (Latin=18:1a • Greek=18:1)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.18:2	Sir.18:2	Keep verse	[1b]	%In some Bibles% %the verse numbering here is% 18:1b % (Latin=18:1b • Greek=18:2)	English	Sir.19:30=Last	
-Sir.18:1	Sir.18:2	Merged above	[1b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=18:1b • Greek=18:2)	Latin	Sir.19:28=Last	
+Sir.18:1	Sir.18:2	Merged above	[1b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=18:1b • Greek=18:2)	Latin	Sir.19:28=Last	
 Sir.18:2	Sir.18:2	Keep verse	[1b]	%In some Bibles% %the verse numbering here is% 18:1b % (Latin=18:1b • Greek=18:2)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.18:3	Sir.18:3	Keep verse	[2]	%In some Bibles% %the verse numbering here is% 18:2 (Latin=18:2 • Greek=18:3)	English	Sir.19:30=Last	
 Sir.18:2	Sir.18:3	Renumber verse	[2]	%Normally in this Bible% %the verse numbering here is% 18:2 (Latin=18:2 • Greek=18:3)	Latin	Sir.19:28=Last	
@@ -16453,10 +16453,10 @@ Sir.18:8	Sir.18:8	Keep verse	[7]	%In some Bibles% %the verse numbering here is% 
 Sir.18:7	Sir.18:8	Renumber verse	[7]	%Normally in this Bible% %the verse numbering here is% 18:7 (Latin=18:7 • Greek=18:8)	Latin	Sir.19:28=Last	
 Sir.18:8	Sir.18:8	Keep verse	[7]	%In some Bibles% %the verse numbering here is% 18:7 (Latin=18:7 • Greek=18:8)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.18:9	Sir.18:9	Keep verse	[8a]	%In some Bibles% %the verse numbering here is% 18:8a % (Latin=18:8a • Greek=18:9)	English	Sir.19:30=Last	
-Sir.18:8	Sir.18:9	Renumber verse	[9-10]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 18:8 % % (Latin=18:8a • Greek=18:9)	Latin	Sir.19:28=Last	
+Sir.18:8	Sir.18:9	Renumber verse	[9-10]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 18:8 % (Latin=18:8a • Greek=18:9)	Latin	Sir.19:28=Last	
 Sir.18:9	Sir.18:9	Keep verse	[8a]	%In some Bibles% %the verse numbering here is% 18:8a % (Latin=18:8a • Greek=18:9)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.18:10	Sir.18:10	Keep verse	[8b]	%In some Bibles% %the verse numbering here is% 18:8b % (Latin=18:8b • Greek=18:10)	English	Sir.19:30=Last	
-Sir.18:8	Sir.18:10	Merged above	[8b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=18:8b • Greek=18:10)	Latin	Sir.19:28=Last	
+Sir.18:8	Sir.18:10	Merged above	[8b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=18:8b • Greek=18:10)	Latin	Sir.19:28=Last	
 Sir.18:10	Sir.18:10	Keep verse	[8b]	%In some Bibles% %the verse numbering here is% 18:8b % (Latin=18:8b • Greek=18:10)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.18:11	Sir.18:11	Keep verse	[9]	%In some Bibles% %the verse numbering here is% 18:9 (Latin=18:9 • Greek=18:11)	English	Sir.19:30=Last	
 Sir.18:9	Sir.18:11	Renumber verse	[9]	%Normally in this Bible% %the verse numbering here is% 18:9 (Latin=18:9 • Greek=18:11)	Latin	Sir.19:28=Last	
@@ -16495,11 +16495,11 @@ Sir.19:22	Sir.19:25.1	Renumber verse	[22]	%Normally in this Bible% %the verse nu
 Sir.19:23	Sir.19:25.2	Renumber verse	[23]	%Normally in this Bible% %the verse numbering here is% 19:23 (Latin=19:22-23 • Greek=19:25)	Latin	Sir.19:28=Last	
 Sir.19:25	Sir.19:25	Keep verse	[22-23]	%In some Bibles% %the verse numbering here is% 19:22-23 (Latin=19:22-23 • Greek=19:25)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.19:26	Sir.19:26	Keep verse	[26a]	%In some Bibles% %the verse numbering here is% 19:26a % (Latin=19:26a • Greek=19:24a)	English	Sir.19:30=Last	
-Sir.19:26	Sir.19:26	Keep verse	[26-27]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:26 % % (Latin=19:26a • Greek=19:24a)	Latin	Sir.19:28=Last	
-Sir.19:24	Sir.19:26	Renumber verse	[26-27]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:24 % % (Latin=19:26a • Greek=19:24a)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
+Sir.19:26	Sir.19:26	Keep verse	[26-27]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:26 % (Latin=19:26a • Greek=19:24a)	Latin	Sir.19:28=Last	
+Sir.19:24	Sir.19:26	Renumber verse	[26-27]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:24 % (Latin=19:26a • Greek=19:24a)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.19:27	Sir.19:27	Keep verse	[26b]	%In some Bibles% %the verse numbering here is% 19:26b % (Latin=19:26b • Greek=19:24b)	English	Sir.19:30=Last	
-Sir.19:26	Sir.19:27	Merged above	[26b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=19:26b • Greek=19:24b)	Latin	Sir.19:28=Last	
-Sir.19:24	Sir.19:27	Merged above	[24b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=19:26b • Greek=19:24b)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
+Sir.19:26	Sir.19:27	Merged above	[26b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=19:26b • Greek=19:24b)	Latin	Sir.19:28=Last	
+Sir.19:24	Sir.19:27	Merged above	[24b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=19:26b • Greek=19:24b)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.19:28	Sir.19:28	Keep verse	[25]	%In some Bibles% %the verse numbering here is% 19:25 (Latin=19:25 • Greek=19:28)	English	Sir.19:30=Last	
 Sir.19:25	Sir.19:28	Renumber verse	[25]	%Normally in this Bible% %the verse numbering here is% 19:25 (Latin=19:25 • Greek=19:28)	Latin	Sir.19:28=Last	
 Sir.19:28	Sir.19:28	Keep verse	[25]	%In some Bibles% %the verse numbering here is% 19:25 (Latin=19:25 • Greek=19:28)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
@@ -16512,9 +16512,9 @@ Sir.19:30	Sir.19:30	Keep verse	[27]	%In some Bibles% %the verse numbering here i
 Sir.20:1	Sir.20:1	Keep verse	[28]	%In some Bibles% %the verse numbering here is% 19:28 (Latin=19:28 • Greek=20:1)	English+Greek	Sir.20:31=Last	
 Sir.19:28	Sir.20:1	Renumber verse	[19:28]	%Normally in this Bible% %the verse numbering here is% 19:28 (Latin=19:28 • Greek=20:1)	Latin	Sir.20:33=Last	
 Sir.20:2	Sir.20:2	Keep verse	[1a]	%In some Bibles% %the verse numbering here is% 20:1a % (Latin=20:1a • Greek=20:2)	English+Greek	Sir.20:31=Last	
-Sir.20:1	Sir.20:2	Renumber verse	[2-3]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 20:1 % % (Latin=20:1a • Greek=20:2)	Latin	Sir.20:33=Last	
+Sir.20:1	Sir.20:2	Renumber verse	[2-3]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 20:1 % (Latin=20:1a • Greek=20:2)	Latin	Sir.20:33=Last	
 Sir.20:3	Sir.20:3	Keep verse	[1b]	%In some Bibles% %the verse numbering here is% 20:1b % (Latin=20:1b • Greek=20:3)	English+Greek	Sir.20:31=Last	
-Sir.20:1	Sir.20:3	Merged above	[1b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=20:1b • Greek=20:3)	Latin	Sir.20:33=Last	
+Sir.20:1	Sir.20:3	Merged above	[1b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=20:1b • Greek=20:3)	Latin	Sir.20:33=Last	
 Sir.20:4	Sir.20:4	Keep verse	[2-3]	%In some Bibles% %the verse numbering here is% 20:2-3 (Latin=20:2-3 • Greek=20:4)	English+Greek	Sir.20:31=Last	
 Sir.20:2	Sir.20:4.1	Renumber verse	[2]	%Normally in this Bible% %the verse numbering here is% 20:2 (Latin=20:2-3 • Greek=20:4)	Latin	Sir.20:33=Last	
 Sir.20:3	Sir.20:4.2	Renumber verse	[3]	%Normally in this Bible% %the verse numbering here is% 20:3 (Latin=20:2-3 • Greek=20:4)	Latin	Sir.20:33=Last	
@@ -16641,9 +16641,9 @@ Sir.22:19	Sir.22:16.1	Renumber verse	[19]	%Normally in this Bible% %the verse nu
 Sir.22:20	Sir.22:16.2	Renumber verse	[20]	%Normally in this Bible% %the verse numbering here is% 22:20 (Latin=22:19-21 • Greek=22:16)	Latin	Sir.22:33=Last	
 Sir.22:21	Sir.22:16.3	Renumber verse	[21]	%Normally in this Bible% %the verse numbering here is% 22:21 (Latin=22:19-21 • Greek=22:16)	Latin	Sir.22:33=Last	
 Sir.22:17	Sir.22:17	Keep verse	[22a]	%In some Bibles% %the verse numbering here is% 22:22a % (Latin=22:22a • Greek=22:17)	English+Greek	Sir.22:27=Last	
-Sir.22:22	Sir.22:17	Renumber verse	[17-18]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 22:22 % % (Latin=22:22a • Greek=22:17)	Latin	Sir.22:33=Last	
+Sir.22:22	Sir.22:17	Renumber verse	[17-18]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 22:22 % (Latin=22:22a • Greek=22:17)	Latin	Sir.22:33=Last	
 Sir.22:18	Sir.22:18	Keep verse	[22b]	%In some Bibles% %the verse numbering here is% 22:22b % (Latin=22:22b • Greek=22:18)	English+Greek	Sir.22:27=Last	
-Sir.22:22	Sir.22:18	Merged above	[22b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=22:22b • Greek=22:18)	Latin	Sir.22:33=Last	
+Sir.22:22	Sir.22:18	Merged above	[22b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=22:22b • Greek=22:18)	Latin	Sir.22:33=Last	
 Sir.22:19	Sir.22:19	Keep verse	[23]	%In some Bibles% %the verse numbering here is% 22:23 (Latin=22:23 • Greek=22:19)	English+Greek	Sir.22:27=Last	
 Sir.22:23	Sir.22:19	Renumber verse	[23]	%Normally in this Bible% %the verse numbering here is% 22:23 (Latin=22:23 • Greek=22:19)	Latin	Sir.22:33=Last	
 Sir.22:20	Sir.22:20	Keep verse	[24]	%In some Bibles% %the verse numbering here is% 22:24 (Latin=22:24 • Greek=22:20)	English+Greek	Sir.22:27=Last	
@@ -16988,9 +16988,9 @@ Sir.28:13	Sir.28:10	Renumber verse	[13]	%Normally in this Bible% %the verse numb
 Sir.28:11	Sir.28:11	Keep verse	[14]	%In some Bibles% %the verse numbering here is% 28:14 (Latin=28:14 • Greek=28:11)	English+Greek	Sir.28:26=Last	
 Sir.28:14	Sir.28:11	Renumber verse	[14]	%Normally in this Bible% %the verse numbering here is% 28:14 (Latin=28:14 • Greek=28:11)	Latin	Sir.28:30=Last	
 Sir.28:12	Sir.28:12	Keep verse	[15a]	%In some Bibles% %the verse numbering here is% 28:15a % (Latin=28:15a • Greek=28:12)	English+Greek	Sir.28:26=Last	
-Sir.28:15	Sir.28:12	Renumber verse	[12-13]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 28:15 % % (Latin=28:15a • Greek=28:12)	Latin	Sir.28:30=Last	
+Sir.28:15	Sir.28:12	Renumber verse	[12-13]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 28:15 % (Latin=28:15a • Greek=28:12)	Latin	Sir.28:30=Last	
 Sir.28:13	Sir.28:13	Keep verse	[15b]	%In some Bibles% %the verse numbering here is% 28:15b % (Latin=28:15b • Greek=28:13)	English+Greek	Sir.28:26=Last	
-Sir.28:15	Sir.28:13	Merged above	[15b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=28:15b • Greek=28:13)	Latin	Sir.28:30=Last	
+Sir.28:15	Sir.28:13	Merged above	[15b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=28:15b • Greek=28:13)	Latin	Sir.28:30=Last	
 Sir.28:14	Sir.28:14	Keep verse	[16-18]	%In some Bibles% %the verse numbering here is% 28:16-18 (Latin=28:16-18 • Greek=28:14)	English+Greek	Sir.28:26=Last	
 Sir.28:16	Sir.28:14.1	Renumber verse	[16]	%Normally in this Bible% %the verse numbering here is% 28:16 (Latin=28:16-18 • Greek=28:14)	Latin	Sir.28:30=Last	
 Sir.28:17	Sir.28:14.2	Renumber verse	[17]	%Normally in this Bible% %the verse numbering here is% 28:17 (Latin=28:16-18 • Greek=28:14)	Latin	Sir.28:30=Last	
@@ -17212,9 +17212,9 @@ Sir.32:23	Sir.32:18.2	Renumber verse	[23]	%Normally in this Bible% %the verse nu
 Sir.32:19	Sir.32:19	Keep verse	[24]	%In some Bibles% %the verse numbering here is% 32:24 (Latin=32:24 • Greek=32:19)	English+Greek	Sir.32:24=Last	
 Sir.32:24	Sir.32:19	Renumber verse	[24]	%Normally in this Bible% %the verse numbering here is% 32:24 (Latin=32:24 • Greek=32:19)	Latin	Sir.32:28=Last	
 Sir.32:20	Sir.32:20	Keep verse	[25a]	%In some Bibles% %the verse numbering here is% 32:25a % (Latin=32:25a • Greek=32:20)	English+Greek	Sir.32:24=Last	
-Sir.32:25	Sir.32:20	Renumber verse	[20-21]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 32:25 % % (Latin=32:25a • Greek=32:20)	Latin	Sir.32:28=Last	
+Sir.32:25	Sir.32:20	Renumber verse	[20-21]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 32:25 % (Latin=32:25a • Greek=32:20)	Latin	Sir.32:28=Last	
 Sir.32:21	Sir.32:21	Keep verse	[25b]	%In some Bibles% %the verse numbering here is% 32:25b % (Latin=32:25b • Greek=32:21)	English+Greek	Sir.32:24=Last	
-Sir.32:25	Sir.32:21	Merged above	[25b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=32:25b • Greek=32:21)	Latin	Sir.32:28=Last	
+Sir.32:25	Sir.32:21	Merged above	[25b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=32:25b • Greek=32:21)	Latin	Sir.32:28=Last	
 Sir.32:22	Sir.32:22	Keep verse	[26]	%In some Bibles% %the verse numbering here is% 32:26 (Latin=32:26 • Greek=32:22)	English+Greek	Sir.32:24=Last	
 Sir.32:26	Sir.32:22	Renumber verse	[26]	%Normally in this Bible% %the verse numbering here is% 32:26 (Latin=32:26 • Greek=32:22)	Latin	Sir.32:28=Last	
 Sir.32:23	Sir.32:23	Keep verse	[27]	%In some Bibles% %the verse numbering here is% 32:27 (Latin=32:27 • Greek=32:23)	English+Greek	Sir.32:24=Last	
@@ -17227,9 +17227,9 @@ Sir.33:29	Sir.33:28.2	Renumber verse	[29]	%Normally in this Bible% %the verse nu
 Sir.33:29	Sir.33:29	Keep verse	[30]	%In some Bibles% %the verse numbering here is% 33:30 (Latin=33:30 • Greek=33:29)	English+Greek	Sir.37:31=Last	
 Sir.33:30	Sir.33:29	Renumber verse	[30]	%Normally in this Bible% %the verse numbering here is% 33:30 (Latin=33:30 • Greek=33:29)	Latin	Sir.37:34=Last	
 Sir.33:30	Sir.33:30	Keep verse	[31a]	%In some Bibles% %the verse numbering here is% 33:31a % (Latin=33:31a • Greek=33:30)	English+Greek	Sir.37:31=Last	
-Sir.33:31	Sir.33:30	Renumber verse	[30-31]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 33:31 % % (Latin=33:31a • Greek=33:30)	Latin	Sir.37:34=Last	
+Sir.33:31	Sir.33:30	Renumber verse	[30-31]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 33:31 % (Latin=33:31a • Greek=33:30)	Latin	Sir.37:34=Last	
 Sir.33:31	Sir.33:31	Keep verse	[31b]	%In some Bibles% %the verse numbering here is% 33:31b % (Latin=33:31b • Greek=33:31)	English+Greek	Sir.37:31=Last	
-Sir.33:31	Sir.33:31	Merged above	[31b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=33:31b • Greek=33:31)	Latin	Sir.37:34=Last	
+Sir.33:31	Sir.33:31	Merged above	[31b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=33:31b • Greek=33:31)	Latin	Sir.37:34=Last	
 Sir.34:10	Sir.34:10	Keep verse	[10-11]	%In some Bibles% %the verse numbering here is% 34:10-11 (Latin=34:10-11 • Greek=34:10)	English+Greek	Sir.37:31=Last	
 Sir.34:10	Sir.34:10.1	Renumber verse	[10]	%In some Bibles% %the verse numbering here is% 34:10-11 (Latin=34:10-11 • Greek=34:10)	Latin	Sir.37:34=Last	
 Sir.34:11	Sir.34:10.2	Renumber verse	[11]	%Normally in this Bible% %the verse numbering here is% 34:11 (Latin=34:10-11 • Greek=34:10)	Latin	Sir.37:34=Last	
@@ -17269,13 +17269,13 @@ Sir.34:25	Sir.34:25	Empty verse	[0]	%In some Bibles% %this verse may not contain
 Sir.34:26	Sir.34:26	Keep verse	[+]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=34:26)	English+Greek	Sir.37:31=Last	
 Sir.34:26	Sir.34:26	Empty verse	[0]	%In some Bibles% %this verse may not contain any text% (Latin= -- • Greek=34:26)	Latin	Sir.37:34=Last	
 Sir.36:14	Sir.36:14	Keep verse	[14a]	%In some Bibles% %the verse numbering here is% 36:14a % (Latin=36:14a • Greek=36:14)	English+Greek	Sir.37:31=Last	
-Sir.36:14	Sir.36:14	Keep verse	[14-17]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 36:14 % % (Latin=36:14a • Greek=36:14)	Latin	Sir.37:34=Last	
+Sir.36:14	Sir.36:14	Keep verse	[14-17]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 36:14 % (Latin=36:14a • Greek=36:14)	Latin	Sir.37:34=Last	
 Sir.36:15	Sir.36:15	Keep verse	[14b]	%In some Bibles% %the verse numbering here is% 36:14b % (Latin=36:14b • Greek=36:15)	English+Greek	Sir.37:31=Last	
-Sir.36:14	Sir.36:15	Merged above	[14b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=36:14b • Greek=36:15)	Latin	Sir.37:34=Last	
+Sir.36:14	Sir.36:15	Merged above	[14b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=36:14b • Greek=36:15)	Latin	Sir.37:34=Last	
 Sir.36:16	Sir.36:16	Keep verse	[14c]	%In some Bibles% %the verse numbering here is% 36:14c % (Latin=36:14c • Greek=36:16)	English+Greek	Sir.37:31=Last	
-Sir.36:14	Sir.36:16	Merged above	[14c]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=36:14c • Greek=36:16)	Latin	Sir.37:34=Last	
+Sir.36:14	Sir.36:16	Merged above	[14c]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=36:14c • Greek=36:16)	Latin	Sir.37:34=Last	
 Sir.36:17	Sir.36:17	Keep verse	[14d]	%In some Bibles% %the verse numbering here is% 36:14d % (Latin=36:14d • Greek=36:17)	English+Greek	Sir.37:31=Last	
-Sir.36:14	Sir.36:17	Merged above	[14d]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=36:14d • Greek=36:17)	Latin	Sir.37:34=Last	
+Sir.36:14	Sir.36:17	Merged above	[14d]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=36:14d • Greek=36:17)	Latin	Sir.37:34=Last	
 Sir.36:18	Sir.36:18	Keep verse	[15]	%In some Bibles% %the verse numbering here is% 36:15 (Latin=36:15 • Greek=36:18)	English+Greek	Sir.37:31=Last	
 Sir.36:15	Sir.36:18	Renumber verse	[15]	%Normally in this Bible% %the verse numbering here is% 36:15 (Latin=36:15 • Greek=36:18)	Latin	Sir.37:34=Last	
 Sir.36:19	Sir.36:19	Keep verse	[16]	%In some Bibles% %the verse numbering here is% 36:16 (Latin=36:16 • Greek=36:19)	English+Greek	Sir.37:31=Last	
@@ -17329,9 +17329,9 @@ Sir.37:19	Sir.37:15	Renumber verse	[19]	%Normally in this Bible% %the verse numb
 Sir.37:16	Sir.37:16	Keep verse	[20]	%In some Bibles% %the verse numbering here is% 37:20 (Latin=37:20 • Greek=37:16)	English+Greek	Sir.37:31=Last	
 Sir.37:20	Sir.37:16	Renumber verse	[20]	%Normally in this Bible% %the verse numbering here is% 37:20 (Latin=37:20 • Greek=37:16)	Latin	Sir.37:34=Last	
 Sir.37:17	Sir.37:17	Keep verse	[21a]	%In some Bibles% %the verse numbering here is% 37:21a % (Latin=37:21a • Greek=37:17)	English+Greek	Sir.37:31=Last	
-Sir.37:21	Sir.37:17	Renumber verse	[17-18]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 37:21 % % (Latin=37:21a • Greek=37:17)	Latin	Sir.37:34=Last	
+Sir.37:21	Sir.37:17	Renumber verse	[17-18]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 37:21 % (Latin=37:21a • Greek=37:17)	Latin	Sir.37:34=Last	
 Sir.37:18	Sir.37:18	Keep verse	[21b]	%In some Bibles% %the verse numbering here is% 37:21b % (Latin=37:21b • Greek=37:18)	English+Greek	Sir.37:31=Last	
-Sir.37:21	Sir.37:18	Merged above	[21b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=37:21b • Greek=37:18)	Latin	Sir.37:34=Last	
+Sir.37:21	Sir.37:18	Merged above	[21b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=37:21b • Greek=37:18)	Latin	Sir.37:34=Last	
 Sir.37:19	Sir.37:19	Keep verse	[22]	%In some Bibles% %the verse numbering here is% 37:22 (Latin=37:22 • Greek=37:19)	English+Greek	Sir.37:31=Last	
 Sir.37:22	Sir.37:19	Renumber verse	[22]	%Normally in this Bible% %the verse numbering here is% 37:22 (Latin=37:22 • Greek=37:19)	Latin	Sir.37:34=Last	
 Sir.37:20	Sir.37:20	Keep verse	[23]	%In some Bibles% %the verse numbering here is% 37:23 (Latin=37:23 • Greek=37:20)	English+Greek	Sir.37:31=Last	
@@ -17660,9 +17660,9 @@ Sir.45:29	Sir.45:23.2	Renumber verse	[29]	%Normally in this Bible% %the verse nu
 Sir.45:24	Sir.45:24	Keep verse	[30]	%In some Bibles% %the verse numbering here is% 45:30 (Latin=45:30 • Greek=45:24)	English+Greek	Sir.45:26=Last	
 Sir.45:30	Sir.45:24	Renumber verse	[30]	%Normally in this Bible% %the verse numbering here is% 45:30 (Latin=45:30 • Greek=45:24)	Latin	Sir.45:31=Last	
 Sir.45:25	Sir.45:25	Keep verse	[31a]	%In some Bibles% %the verse numbering here is% 45:31a % (Latin=45:31a • Greek=45:25)	English+Greek	Sir.45:26=Last	
-Sir.45:31	Sir.45:25	Renumber verse	[25-26]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 45:31 % % (Latin=45:31a • Greek=45:25)	Latin	Sir.45:31=Last	
+Sir.45:31	Sir.45:25	Renumber verse	[25-26]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 45:31 % (Latin=45:31a • Greek=45:25)	Latin	Sir.45:31=Last	
 Sir.45:26	Sir.45:26	Keep verse	[31b]	%In some Bibles% %the verse numbering here is% 45:31b % (Latin=45:31b • Greek=45:26)	English+Greek	Sir.45:26=Last	
-Sir.45:31	Sir.45:26	Merged above	[31b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=45:31b • Greek=45:26)	Latin	Sir.45:31=Last	
+Sir.45:31	Sir.45:26	Merged above	[31b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=45:31b • Greek=45:26)	Latin	Sir.45:31=Last	
 Sir.46:1	Sir.46:1	Keep verse	[1-2]	%In some Bibles% %the verse numbering here is% 46:1-2 (Latin=46:1-2 • Greek=46:1)	English+Greek	Sir.46:20=Last	
 Sir.46:1	Sir.46:1.1	Renumber verse	[1]	%In some Bibles% %the verse numbering here is% 46:1-2 (Latin=46:1-2 • Greek=46:1)	Latin	Sir.46:23=Last	
 Sir.46:2	Sir.46:1.2	Renumber verse	[2]	%Normally in this Bible% %the verse numbering here is% 46:2 (Latin=46:1-2 • Greek=46:1)	Latin	Sir.46:23=Last	
@@ -17727,9 +17727,9 @@ Sir.47:13	Sir.47:11	Renumber verse	[13]	%Normally in this Bible% %the verse numb
 Sir.47:12	Sir.47:12	Keep verse	[14]	%In some Bibles% %the verse numbering here is% 47:14 (Latin=47:14 • Greek=47:12)	English+Greek	Sir.47:25=Last	
 Sir.47:14	Sir.47:12	Renumber verse	[14]	%Normally in this Bible% %the verse numbering here is% 47:14 (Latin=47:14 • Greek=47:12)	Latin	Sir.47:31=Last	
 Sir.47:13	Sir.47:13	Keep verse	[15a]	%In some Bibles% %the verse numbering here is% 47:15a % (Latin=47:15a • Greek=47:13)	English+Greek	Sir.47:25=Last	
-Sir.47:15	Sir.47:13	Renumber verse	[13-14]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 47:15 % % (Latin=47:15a • Greek=47:13)	Latin	Sir.47:31=Last	
+Sir.47:15	Sir.47:13	Renumber verse	[13-14]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 47:15 % (Latin=47:15a • Greek=47:13)	Latin	Sir.47:31=Last	
 Sir.47:14	Sir.47:14	Keep verse	[15b]	%In some Bibles% %the verse numbering here is% 47:15b % (Latin=47:15b • Greek=47:14)	English+Greek	Sir.47:25=Last	
-Sir.47:15	Sir.47:14	Merged above	[15b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=47:15b • Greek=47:14)	Latin	Sir.47:31=Last	
+Sir.47:15	Sir.47:14	Merged above	[15b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=47:15b • Greek=47:14)	Latin	Sir.47:31=Last	
 Sir.47:15	Sir.47:15	Keep verse	[16]	%In some Bibles% %the verse numbering here is% 47:16 (Latin=47:16 • Greek=47:15)	English+Greek	Sir.47:25=Last	
 Sir.47:16	Sir.47:15	Renumber verse	[16]	%Normally in this Bible% %the verse numbering here is% 47:16 (Latin=47:16 • Greek=47:15)	Latin	Sir.47:31=Last	
 Sir.47:16	Sir.47:16	Keep verse	[17]	%In some Bibles% %the verse numbering here is% 47:17 (Latin=47:17 • Greek=47:16)	English+Greek	Sir.47:25=Last	
@@ -17930,9 +17930,9 @@ Sir.51:37	Sir.51:29	Renumber verse	[37]	%Normally in this Bible% %the verse numb
 Sir.51:30	Sir.51:30	Keep verse	[38]	%In some Bibles% %the verse numbering here is% 51:38 (Latin=51:38 • Greek=51:30)	English+Greek	Sir.51:30=Last	
 Sir.51:38	Sir.51:30	Renumber verse	[38]	%Normally in this Bible% %the verse numbering here is% 51:38 (Latin=51:38 • Greek=51:30)	Latin	Sir.51:38=Last	
 Wis.17:9	Wis.17:9	Keep verse	[9a]	%In some Bibles% %the verse numbering here is% 17:9a % (Latin=17:9a • Greek=17:9)	English+Greek	Wis.17:21=Last	
-Wis.17:9	Wis.17:9	Keep verse	[9-10]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:9 % % (Latin=17:9a • Greek=17:9)	Latin	Wis.17:20=Last	
+Wis.17:9	Wis.17:9	Keep verse	[9-10]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:9 % (Latin=17:9a • Greek=17:9)	Latin	Wis.17:20=Last	
 Wis.17:10	Wis.17:10	Keep verse	[9b]	%In some Bibles% %the verse numbering here is% 17:9b % (Latin=17:9b • Greek=17:10)	English+Greek	Wis.17:21=Last	
-Wis.17:9	Wis.17:10	Merged above	[9b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=17:9b • Greek=17:10)	Latin	Wis.17:20=Last	
+Wis.17:9	Wis.17:10	Merged above	[9b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=17:9b • Greek=17:10)	Latin	Wis.17:20=Last	
 Wis.17:11	Wis.17:11	Keep verse	[10]	%In some Bibles% %the verse numbering here is% 17:10 (Latin=17:10 • Greek=17:11)	English+Greek	Wis.17:21=Last	
 Wis.17:10	Wis.17:11	Renumber verse	[10]	%Normally in this Bible% %the verse numbering here is% 17:10 (Latin=17:10 • Greek=17:11)	Latin	Wis.17:20=Last	
 Wis.17:12	Wis.17:12	Keep verse	[11]	%In some Bibles% %the verse numbering here is% 17:11 (Latin=17:11 • Greek=17:12)	English+Greek	Wis.17:21=Last	
@@ -17956,10 +17956,10 @@ Wis.17:19	Wis.17:20	Renumber verse	[19]	%Normally in this Bible% %the verse numb
 Wis.17:21	Wis.17:21	Keep verse	[20]	%In some Bibles% %the verse numbering here is% 17:20 (Latin=17:20 • Greek=17:21)	English+Greek	Wis.17:21=Last	
 Wis.17:20	Wis.17:21	Renumber verse	[20]	%Normally in this Bible% %the verse numbering here is% 17:20 (Latin=17:20 • Greek=17:21)	Latin	Wis.17:20=Last	
 Wis.19:12	Wis.19:12	Keep verse	[12a]	%In some Bibles% %the verse numbering here is% 19:12a % (Latin=19:12a • Greek=19:12)	English	Wis.19:21=Last	
-Wis.19:12	Wis.19:12	Keep verse	[12-13]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:12 % % (Latin=19:12a • Greek=19:12)	Latin	Wis.19:20=Last	
+Wis.19:12	Wis.19:12	Keep verse	[12-13]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:12 % (Latin=19:12a • Greek=19:12)	Latin	Wis.19:20=Last	
 Wis.19:12	Wis.19:12	Keep verse	[12a]	%In some Bibles% %the verse numbering here is% 19:12a % (Latin=19:12a • Greek=19:12)	Greek	Wis.19:22=Last	
 Wis.19:13	Wis.19:13	Keep verse	[12b]	%In some Bibles% %the verse numbering here is% 19:12b % (Latin=19:12b • Greek=19:13)	English	Wis.19:21=Last	
-Wis.19:12	Wis.19:13	Merged above	[12b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=19:12b • Greek=19:13)	Latin	Wis.19:20=Last	
+Wis.19:12	Wis.19:13	Merged above	[12b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=19:12b • Greek=19:13)	Latin	Wis.19:20=Last	
 Wis.19:13	Wis.19:13	Keep verse	[12b]	%In some Bibles% %the verse numbering here is% 19:12b % (Latin=19:12b • Greek=19:13)	Greek	Wis.19:22=Last	
 Wis.19:14	Wis.19:14	Keep verse	[13]	%In some Bibles% %the verse numbering here is% 19:13 (Latin=19:13 • Greek=19:14)	English	Wis.19:21=Last	
 Wis.19:13	Wis.19:14	Renumber verse	[13]	%Normally in this Bible% %the verse numbering here is% 19:13 (Latin=19:13 • Greek=19:14)	Latin	Wis.19:20=Last	
@@ -17983,15 +17983,15 @@ Wis.19:20	Wis.19:20	Keep verse	[19]	%In some Bibles% %the verse numbering here i
 Wis.19:19	Wis.19:20	Renumber verse	[19]	%Normally in this Bible% %the verse numbering here is% 19:19 (Latin=19:19 • Greek=19:20)	Latin	Wis.19:20=Last	
 Wis.19:20	Wis.19:20	Keep verse	[19]	%In some Bibles% %the verse numbering here is% 19:19 (Latin=19:19 • Greek=19:20)	Greek	Wis.19:22=Last	
 Wis.19:21	Wis.19:21	Keep verse	[20a]	%In some Bibles% %the verse numbering here is% 19:20a % (Latin=19:20a • Greek=19:21)	English	Wis.19:21=Last	
-Wis.19:20	Wis.19:21	Renumber verse	[21-22]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:20 % % (Latin=19:20a • Greek=19:21)	Latin	Wis.19:20=Last	
+Wis.19:20	Wis.19:21	Renumber verse	[21-22]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 19:20 % (Latin=19:20a • Greek=19:21)	Latin	Wis.19:20=Last	
 Wis.19:21	Wis.19:21	Keep verse	[20a]	%In some Bibles% %the verse numbering here is% 19:20a % (Latin=19:20a • Greek=19:21)	Greek	Wis.19:22=Last	
 Wis.19:22	Wis.19:22	Keep verse	[20b]	%In some Bibles% %the verse numbering here is% 19:20b % (Latin=19:20b • Greek=19:22)	English	Wis.19:21=Last	
-Wis.19:20	Wis.19:22	Merged above	[20b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=19:20b • Greek=19:22)	Latin	Wis.19:20=Last	
+Wis.19:20	Wis.19:22	Merged above	[20b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=19:20b • Greek=19:22)	Latin	Wis.19:20=Last	
 Wis.19:22	Wis.19:22	Keep verse	[20b]	%In some Bibles% %the verse numbering here is% 19:20b % (Latin=19:20b • Greek=19:22)	Greek	Wis.19:22=Last	
 Mat.17:14	Mat.17:14	Keep verse	[14a]	%In some Bibles% %the verse numbering here is% 17:14a % (Latin=17:14a • Greek=17:14)	English+Greek	Mat.17:27=Last	
-Mat.17:14	Mat.17:14	Keep verse	[14-15]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:14 % % (Latin=17:14a • Greek=17:14)	Latin	Mat.17:26=Last	
+Mat.17:14	Mat.17:14	Keep verse	[14-15]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 17:14 % (Latin=17:14a • Greek=17:14)	Latin	Mat.17:26=Last	
 Mat.17:15	Mat.17:15	Keep verse	[14b]	%In some Bibles% %the verse numbering here is% 17:14b % (Latin=17:14b • Greek=17:15)	English+Greek	Mat.17:27=Last	
-Mat.17:14	Mat.17:15	Merged above	[14b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=17:14b • Greek=17:15)	Latin	Mat.17:26=Last	
+Mat.17:14	Mat.17:15	Merged above	[14b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=17:14b • Greek=17:15)	Latin	Mat.17:26=Last	
 Mat.17:16	Mat.17:16	Keep verse	[15]	%In some Bibles% %the verse numbering here is% 17:15 (Latin=17:15 • Greek=17:16)	English+Greek	Mat.17:27=Last	
 Mat.17:15	Mat.17:16	Renumber verse	[15]	%Normally in this Bible% %the verse numbering here is% 17:15 (Latin=17:15 • Greek=17:16)	Latin	Mat.17:26=Last	
 Mat.17:17	Mat.17:17	Keep verse	[16]	%In some Bibles% %the verse numbering here is% 17:16 (Latin=17:16 • Greek=17:17)	English+Greek	Mat.17:27=Last	
@@ -18017,9 +18017,9 @@ Mat.17:25	Mat.17:26	Renumber verse	[25]	%Normally in this Bible% %the verse numb
 Mat.17:27	Mat.17:27	Keep verse	[26]	%In some Bibles% %the verse numbering here is% 17:26 (Latin=17:26 • Greek=17:27)	English+Greek	Mat.17:27=Last	
 Mat.17:26	Mat.17:27	Renumber verse	[26]	%Normally in this Bible% %the verse numbering here is% 17:26 (Latin=17:26 • Greek=17:27)	Latin	Mat.17:26=Last	
 Mrk.4:40	Mrk.4:40	Keep verse	[40a]	%In some Bibles% %the verse numbering here is% 4:40a % (Latin=4:40a • Greek=4:40)	English+Greek	Mrk.4:41=Last	
-Mrk.4:40	Mrk.4:40	Keep verse	[40-41]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 4:40 % % (Latin=4:40a • Greek=4:40)	Latin	Mrk.4:40=Last	
+Mrk.4:40	Mrk.4:40	Keep verse	[40-41]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 4:40 % (Latin=4:40a • Greek=4:40)	Latin	Mrk.4:40=Last	
 Mrk.4:41	Mrk.4:41	Keep verse	[40b]	%In some Bibles% %the verse numbering here is% 4:40b % (Latin=4:40b • Greek=4:41)	English+Greek	Mrk.4:41=Last	
-Mrk.4:40	Mrk.4:41	Merged above	[40b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=4:40b • Greek=4:41)	Latin	Mrk.4:40=Last	
+Mrk.4:40	Mrk.4:41	Merged above	[40b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=4:40b • Greek=4:41)	Latin	Mrk.4:40=Last	
 Mrk.9:1	Mrk.9:1	Keep verse	[39]	%In some Bibles% %the verse numbering here is% 8:39 (Latin=8:39 • Greek=9:1)	English+Greek	Mrk.8:38=Last	
 Mrk.8:39	Mrk.9:1	Renumber verse	[8:39]	%Normally in this Bible% %the verse numbering here is% 8:39 (Latin=8:39 • Greek=9:1)	Latin	Mrk.8:39=Last	
 Mrk.9:2	Mrk.9:2	Keep verse	[1]	%In some Bibles% %the verse numbering here is% 9:1 (Latin=9:1 • Greek=9:2)	English+Greek	Mrk.8:38=Last	
@@ -18121,9 +18121,9 @@ Mrk.9:48	Mrk.9:49	Renumber verse	[48]	%Normally in this Bible% %the verse number
 Mrk.9:50	Mrk.9:50	Keep verse	[49]	%In some Bibles% %the verse numbering here is% 9:49 (Latin=9:49 • Greek=9:50)	English+Greek	Mrk.8:38=Last	
 Mrk.9:49	Mrk.9:50	Renumber verse	[49]	%Normally in this Bible% %the verse numbering here is% 9:49 (Latin=9:49 • Greek=9:50)	Latin	Mrk.8:39=Last	
 Act.7:55	Act.7:55	Keep verse	[55a]	%In some Bibles% %the verse numbering here is% 7:55a % (Latin=7:55a • Greek=7:55)	English+Greek	Act.7:60=Last	
-Act.7:55	Act.7:55	Keep verse	[55-56]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 7:55 % % (Latin=7:55a • Greek=7:55)	Latin	Act.7:59=Last	
+Act.7:55	Act.7:55	Keep verse	[55-56]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 7:55 % (Latin=7:55a • Greek=7:55)	Latin	Act.7:59=Last	
 Act.7:56	Act.7:56	Keep verse	[55b]	%In some Bibles% %the verse numbering here is% 7:55b % (Latin=7:55b • Greek=7:56)	English+Greek	Act.7:60=Last	
-Act.7:55	Act.7:56	Merged above	[55b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=7:55b • Greek=7:56)	Latin	Act.7:59=Last	
+Act.7:55	Act.7:56	Merged above	[55b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=7:55b • Greek=7:56)	Latin	Act.7:59=Last	
 Act.7:57	Act.7:57	Keep verse	[56]	%In some Bibles% %the verse numbering here is% 7:56 (Latin=7:56 • Greek=7:57)	English+Greek	Act.7:60=Last	
 Act.7:56	Act.7:57	Renumber verse	[56]	%Normally in this Bible% %the verse numbering here is% 7:56 (Latin=7:56 • Greek=7:57)	Latin	Act.7:59=Last	
 Act.7:58	Act.7:58	Keep verse	[57]	%In some Bibles% %the verse numbering here is% 7:57 (Latin=7:57 • Greek=7:58)	English+Greek	Act.7:60=Last	
@@ -18133,9 +18133,9 @@ Act.7:58	Act.7:59	Renumber verse	[58]	%Normally in this Bible% %the verse number
 Act.7:60	Act.7:60	Keep verse	[59]	%In some Bibles% %the verse numbering here is% 7:59 (Latin=7:59 • Greek=7:60)	English+Greek	Act.7:60=Last	
 Act.7:59	Act.7:60	Renumber verse	[59]	%Normally in this Bible% %the verse numbering here is% 7:59 (Latin=7:59 • Greek=7:60)	Latin	Act.7:59=Last	
 Act.14:6	Act.14:6	Keep verse	[6a]	%In some Bibles% %the verse numbering here is% 14:6a % (Latin=14:6a • Greek=14:6)	English+Greek	Act.14:28=Last	
-Act.14:6	Act.14:6	Keep verse	[6-7]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 14:6 % % (Latin=14:6a • Greek=14:6)	Latin	Act.14:27=Last	
+Act.14:6	Act.14:6	Keep verse	[6-7]	%Normally in this Bible% %this verse and the next are merged into one verse that is numbered% 14:6 % (Latin=14:6a • Greek=14:6)	Latin	Act.14:27=Last	
 Act.14:7	Act.14:7	Keep verse	[6b]	%In some Bibles% %the verse numbering here is% 14:6b % (Latin=14:6b • Greek=14:7)	English+Greek	Act.14:28=Last	
-Act.14:6	Act.14:7	Merged above	[6b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% % (Latin=14:6b • Greek=14:7)	Latin	Act.14:27=Last	
+Act.14:6	Act.14:7	Merged above	[6b]	%Normally in this Bible% %this verse is merged with the verse above, so the text may be missing here% (Latin=14:6b • Greek=14:7)	Latin	Act.14:27=Last	
 Act.14:8	Act.14:8	Keep verse	[7]	%In some Bibles% %the verse numbering here is% 14:7 (Latin=14:7 • Greek=14:8)	English+Greek	Act.14:28=Last	
 Act.14:7	Act.14:8	Renumber verse	[7]	%Normally in this Bible% %the verse numbering here is% 14:7 (Latin=14:7 • Greek=14:8)	Latin	Act.14:27=Last	
 Act.14:9	Act.14:9	Keep verse	[8]	%In some Bibles% %the verse numbering here is% 14:8 (Latin=14:8 • Greek=14:9)	English+Greek	Act.14:28=Last	
