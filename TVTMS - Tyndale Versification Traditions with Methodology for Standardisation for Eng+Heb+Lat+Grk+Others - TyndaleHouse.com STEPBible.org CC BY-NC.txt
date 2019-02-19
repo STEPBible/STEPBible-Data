@@ -14474,13 +14474,13 @@ Dan.4:33	Dan.4:33	Keep verse	[30]	%In some Bibles the verse numbering here is% 4
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Latin	Dan.4:34=Last & Dan.3:100=Last	
 Dan.4:30	Dan.4:33	Renumber verse	[30,a-c]	%In some Bibles the verse numbering here is% 4:30, 30a-c.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30,a-c • Greek2=4:33,a-c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.1	Dan.4:33.1	Renumber verse	[30a]	%In some Bibles% 4:30a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.2	Dan.4:33.2	Renumber verse	[30b]	%In some Bibles% 4:30b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.3	Dan.4:33.3	Renumber verse	[30c]	%In some Bibles% 4:30c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:30.1	Dan.4:33.1	Renumber verse	[30a]	%In some Bibles the verse numbering here is% 4:30a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:30.2	Dan.4:33.2	Renumber verse	[30b]	%In some Bibles the verse numbering here is% 4:30b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:30.3	Dan.4:33.3	Renumber verse	[30c]	%In some Bibles the verse numbering here is% 4:30c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
 Dan.4:33	Dan.4:33	Keep verse	[33,a-c]	%In some Bibles the verse numbering here is% 4:33, 33a-c.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30,a-c • Greek2=4:33,a-c)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
-Dan.4:33.1	Dan.4:33.1	Keep verse	[33a]	%In some Bibles% 4:33a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:33.2	Dan.4:33.2	Keep verse	[33b]	%In some Bibles% 4:33b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:33.3	Dan.4:33.3	Keep verse	[33c]	%In some Bibles% 4:33c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:33.1	Dan.4:33.1	Keep verse	[33a]	%In some Bibles the verse numbering here is% 4:33a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:33.2	Dan.4:33.2	Keep verse	[33b]	%In some Bibles the verse numbering here is% 4:33b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:33.3	Dan.4:33.3	Keep verse	[33c]	%In some Bibles the verse numbering here is% 4:33c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:33	Dan.4:33	Keep verse	[30]	%In some Bibles the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:34	Dan.4:34	Keep verse	[31]	%In some Bibles the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	English	Dan.4:37=Last & Dan.3:30=Last	
