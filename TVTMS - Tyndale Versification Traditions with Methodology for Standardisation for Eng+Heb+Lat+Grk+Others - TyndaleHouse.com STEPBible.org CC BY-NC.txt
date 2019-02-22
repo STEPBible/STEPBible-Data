@@ -44,7 +44,7 @@ Subverses occur when text is added to verses in some Bibles. The text that occur
 TEST: 
 These examine the points at which the traditions are different. They can be used to determine which tradition is being followed in a specific Bible. 
 English Bibles follow mostly the Hebrew tradition, with some differences. Because so many Bibles and most commentaries follow this same set of differences, 
-English standard is defined by the NRSV which is virtually identical to KJV (it divides 1Jn.14 to create the extra verse 15). 
+English standard is defined by the NRSV which is virtually identical to KJV: it divides 3Jn.14 to create the extra verse 15; and it put the final phrase of Rev.12.17 ("And he stood on thje sand by the sea") into v.18 (Some Bibles eg ESV put this at the end of v.17; most Bibles eg KJV, NIV have it at the start of 13:1; a few Bibles eg HCSB, NLT, follow NRSV and put it in a new v.18)
 East-European or Orthodox Bibles tend to follow the Greek traditions, and West-European or Catholic Bibles tend to follow the Latin tradition. Jewish translations tend to follow the Hebrew tradition. 
 However, many Bibles employ a mixture of traditions by following English, Hebrew, Latin or Greek traditional versification for different sections of the Bible. 
 
@@ -2288,8 +2288,12 @@ TextMayBeMissing	1Jn.5:7	1Jn.5:7.1	1Jn.5:7
 TextMayBeMissing	1Jn.5:8	1Jn.5:8.2	1Jn.5:8
 
 $3Jn.14-15	English	English-RSV+	English-KJV+
-TEST: If...	3Jn.15=Last	3Jn.15=Last	3Jn.14=Last
-DuplicateTarget	3Jn.14-15	3Jn.14-15	3Jn.1:14
+TEST: If...	3Jn.1:14=Last	3Jn.1:15=Last	3Jn.1:14=Last
+DuplicateTarget	3Jn.1:14-15	3Jn.1:14-15	3Jn.1:14
+
+$Rev.12.1-13.1a	English	English-RSV+	English-KJV+
+TEST: If...	Rev.12.17=Last	Rev.12.18=Last	Rev.12.17=Last
+DuplicateTarget	Rev.12.17-18	Rev.12.17-18	Rev.12.17-13.1a
 
 
 # ==========
@@ -18030,6 +18034,14 @@ Rom.16:26	Rom.16:26	Keep verse	[23b]	%In some Bibles the verse numbering here is
 Rom.14:23.2	Rom.16:26	Renumber verse	[14:23b]	%Normally in this Bible, this verse is merged with the verse above, so the text may be missing here%.		(Greek=16:25-27 • Greek2=14:23)	Greek2	Rom.16:24=Last	
 Rom.16:27	Rom.16:27	Keep verse	[23c]	%In some Bibles the verse numbering here is% 14:23c.		(Greek=16:25-27 • Greek2=14:23)	English+Greek	Rom.16:27=Last	
 Rom.14:23.3	Rom.16:27	Renumber verse	[14:23c]	%Normally in this Bible, this verse is merged with the verse above, so the text may be missing here%.		(Greek=16:25-27 • Greek2=14:23)	Greek2	Rom.16:24=Last	
+3Jn.1:14	3Jn.1:14	Keep verse	[22-23]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 1:14.		(Greek=1:14 • Greek2=1:14a)	Greek2	3Jn.1:14=Last	
+3Jn.1:14	3Jn.1:14	Keep verse	[22a]	%In some Bibles the verse numbering here is% 1:14a.		(Greek=1:14 • Greek2=1:14a)	English+Greek	3Jn.1:15=Last	
+3Jn.1:15	3Jn.1:15	Keep verse	[22b]	%In some Bibles the verse numbering here is% 1:14b.		(Greek=1:15 • Greek2=1:14b)	English+Greek	3Jn.1:15=Last	
+3Jn.1:14	3Jn.1:15	Merged above	[22b]	%Normally in this Bible, this verse is merged with the verse above, so the text may be missing here%.		(Greek=1:15 • Greek2=1:14b)	Greek2	3Jn.1:14=Last	
+Rev.12:17	Rev.12:17	Keep verse	[22-23]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 12:17.		(Greek=12:17 • Greek2=12:17a)	Greek2	Rev.12:17=Last	
+Rev.12:17	Rev.12:17	Keep verse	[22a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 • Greek2=12:17a)	English+Greek	Rev.12:18=Last	
+Rev.12:18	Rev.12:18	Keep verse	[22b]	%In some Bibles the verse numbering here is% 12:17b.		(Greek=12:18 • Greek2=12:17b)	English+Greek	Rev.12:18=Last	
+Rev.12:17	Rev.12:18	Merged above	[22b]	%Normally in this Bible, this verse is merged with the verse above, so the text may be missing here%.		(Greek=12:18 • Greek2=12:17b)	Greek2	Rev.12:17=Last	
 
 
 NO TESTS: 
