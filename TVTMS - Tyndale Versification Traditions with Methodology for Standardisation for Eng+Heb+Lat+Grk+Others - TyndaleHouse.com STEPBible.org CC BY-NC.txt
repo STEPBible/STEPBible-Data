@@ -2347,7 +2347,7 @@ Action	This is what you do with the text in the verse found in the Source
 	- Keep verse = the text retains the same verse number
 	- Renumber verse = the text moves to a verse with a different number. If the StandardRef is a subverse (ending in ".1", ".2" etc) then the text is appended to what is already in that verse
 	- Empty verse = the verse does not exist in the source, so an empty verse with this number should be created, along with the note explaining that it is empty. 
-	- Merged above = the verse is empty because the contents is merged with a verse above
+	- Merged with = the verse is empty because the contents is merged with another verse
 NoteMarker	This is a suggested marker for the note. It is normally the verse number of the most important alternate version. The chapter number is included if it is different to the chapter in the StandardRef
 NoteA & Note B 	This is the text of a note that is suited to that version of the Bible at that verse in the StandardRef. Note B contains a second sentence used in some notes. They use standard phrases (listed at the end) bounded by "%" to aid replacement by translated phrases.
 Ancient Versions 	This is a list of the refs as occurring in traditional Hebrew, Latin & Septuagint editions. 
@@ -2764,7 +2764,7 @@ Exo.36:10	Exo.36:10	Keep verse	[2c]	%In some Bibles the verse numbering here is%
 Exo.36:10	Exo.36:10	Merged with	[2c]	%Normally in this Bible, text may be missing here because this verse is merged with% 36:9.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist
 Exo.37:2.3	Exo.36:10	Renumber verse	[37:2c]	%Normally in this Bible the verse numbering here is% 37:2c.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	Greek	Exo.36:40=Last & Exo.37:2.1=Exist	
 Exo.36:11	Exo.36:11	Keep verse	[2d]	%In some Bibles the verse numbering here is% 37:2d.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	English+Hebrew+Latin	Exo.36:38=Last	
-Exo.36:11	Exo.36:11	Merged above	[2d]	%In some Bibles the verse numbering here is% 37:2d.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist	
+Exo.36:11	Exo.36:11	Merged with	[2d]	%Normally in this Bible, text may be missing here because this verse is merged with% 36:9.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist	
 Exo.37:2.4	Exo.36:11	Renumber verse	[37:2d]	%Normally in this Bible the verse numbering here is% 37:2d.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	Greek	Exo.36:40=Last & Exo.37:2.1=Exist	
 Exo.36:12	Exo.36:12	Keep verse	[2e]	%In some Bibles the verse numbering here is% 37:2e.		(Hebrew=36:12 • Latin=36:12 • Greek=37:2e)	English+Hebrew+Latin	Exo.36:38=Last	
 Exo.36:12	Exo.36:12	Merged with	[2e]	%Normally in this Bible, text may be missing here because this verse is merged with%  36:9		(Hebrew=36:12 • Latin=36:12 • Greek=37:2e)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist	
@@ -4462,7 +4462,7 @@ Jdg.21:24	Jdg.21:25	Merged with	[24b]	%Normally in this Bible, text may be missi
 1Ki.10:22	1Ki.10:22	Keep verse	[22,a-c]	%In some Bibles the verse numbering here is% 10:22, 22a-c.	%This verse includes words that are at% 9:15,17-22.	(Hebrew=10:22 • Latin=10:22 • Greek=10:22, 22a-c[+9:15,17-22])	GreekUndivided	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=NotExist	
 1Ki.10:26	1Ki.10:26	Keep verse	[26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%This verse includes words that are at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	English+Hebrew+Latin	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
 1Ki.10:26.0	1Ki.10:26	Renumber verse	[26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%This verse includes words that are at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	Greek	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-1Ki.10:26.1	1Ki.4:21.3	Merged above	[10:26a]	%Normally in this Bible the verse numbering here is% 10:26c.	%This verse may not contain any text%.	(Hebrew=4:1 • Latin=4:1 • Greek=10:26a)	Greek	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+1Ki.10:26.1	1Ki.4:21.3	Merged with	[10:26a]	%Normally in this Bible, text may be missing here because this verse is merged with% 10:26.	%This verse may not contain any text%.	(Hebrew=4:1 • Latin=4:1 • Greek=10:26a)	Greek	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 1Ki.10:26	1Ki.10:26	Keep verse	[26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%This verse includes words that are at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	GreekUndivided	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=NotExist	
 1Ki.11:5	1Ki.11:5	Keep verse	[6]	%In some Bibles the verse numbering here is% 11:6.		(Hebrew=11:5 • Latin=11:5 • Greek=11:6)	English+Hebrew+Latin	1Ki.11:5<1Ki.11:7	
 1Ki.11:6	1Ki.11:5	Renumber verse	[6]	%Normally in this Bible the verse numbering here is% 11:6.		(Hebrew=11:5 • Latin=11:5 • Greek=11:6)	Greek	1Ki.11:5>1Ki.11:7	
@@ -16398,7 +16398,7 @@ Sir.19:23	Sir.19:25.2	Renumber verse	[23]	%Normally in this Bible the verse numb
 Sir.19:25	Sir.19:25	Keep verse	[22-23]	%In some Bibles the verse numbering here is% 19:22-23.		(Latin=19:22-23 • Greek=19:25)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.19:26	Sir.19:26	Keep verse	[26a]	%In some Bibles the verse numbering here is% 19:26a.		(Latin=19:26a • Greek=19:24a)	English	Sir.19:30=Last	
 Sir.19:26	Sir.19:26	Keep verse	[26-27]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 19:26.		(Latin=19:26a • Greek=19:24a)	Latin	Sir.19:28=Last	
-Sir.19:24	Sir.19:26	Merged above	[24]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 19:24.		(Latin=19:26a • Greek=19:24a)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
+Sir.19:24	Sir.19:26	Merged with	[24]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 19:24.		(Latin=19:26a • Greek=19:24a)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Sir.19:27	Sir.19:27	Keep verse	[26b]	%In some Bibles the verse numbering here is% 19:26b.		(Latin=19:26b • Greek=19:24b)	English	Sir.19:30=Last	
 Sir.19:26	Sir.19:27	Merged with	[26b]	%Normally in this Bible, text may be missing here because this verse is merged with% 19:26.		(Latin=19:26b • Greek=19:24b)	Latin	Sir.19:28=Last	
 Sir.19:24	Sir.19:27	Merged with	[24]	%Normally in this Bible, text may be missing here because this verse is merged with% 19:26.		(Latin=19:26b • Greek=19:24b)	Greek	Sir.19:30=Last & Sir.18:10>Sir.18:12	
