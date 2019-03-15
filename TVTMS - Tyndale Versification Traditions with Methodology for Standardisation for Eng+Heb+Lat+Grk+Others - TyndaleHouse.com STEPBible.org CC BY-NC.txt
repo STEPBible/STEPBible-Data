@@ -1526,7 +1526,7 @@ OneToOne	Dan.4:1-3	Dan.3:31-33	Dan.3:98-100 	Absent
 
 $Dan.4:4-37	English	Hebrew	Latin	Greek	Greek2	Greek Undivided	Greek2 Undivided
 TEST: If...	Dan.4:37=Last	Dan.4:34=Last	Dan.4:34=Last	Dan.4:34=Last	Dan.4:37=Last	Dan.4:34=Last	Dan.4:37=Last
-TEST: If...				Dan.4:34.3=Exists	Dan.4:37.3=Exists	Dan.4:34.3=NotExist	Dan.4:37.3=NotExist
+TEST: If...				Dan.4:34.3=Exist	Dan.4:37.3=Exist	Dan.4:34.3=NotExist	Dan.4:37.3=NotExist
 TEST: And if... 	Dan.3:30=Last	Dan.3:33=Last	Dan.3:100=Last	Dan.3:97=Last	Dan.3:97=Last	Dan.3:97=Last	Dan.3:97=Last
 OneToOne	Dan.4:4-32	Dan.4:1-29	Dan.4:1-29	Dan.4:1-29	Dan.4:4-32	Dan.4:1-29	Dan.4:4-32		
 OneToOne	Dan.4:33	Dan.4:30	Dan.4:30	Dan.4:30.0-3 [=4:30.1-3]	Dan.4:33.0-3 [=4:30.1-3]	Dan.4:30	Dan.4:33		
@@ -2365,18 +2365,18 @@ SourceRef	StandardRef	Action	NoteMarker	Note A	Note B	Ancient Versions 	SourceTy
 ==========================================================================================================================================================
 
 Gen.5:31	Gen.5:31	Keep verse	[31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	English+Hebrew	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
-Gen.5:31	Gen.5:31	Keep verse	[31-32]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 5:31.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Latin	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exists	
-Gen.5:31	Gen.5:31	Keep verse	[31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Greek	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exists & Gen.5:31.2=Exist	
+Gen.5:31	Gen.5:31	Keep verse	[31-32]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 5:31.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Latin	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
+Gen.5:31	Gen.5:31	Keep verse	[31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Greek	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
 Gen.5:31	Gen.5:31	Keep verse	[31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	GreekUndivided	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=NotExist	
 Gen.5:31	Gen.5:31	Keep verse	[31-32]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 5:31.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	LatinUndivided	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Gen.5:32	Gen.5:32	Keep verse	[31b]	%In some Bibles the verse numbering here is% 5:31b.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	English+Hebrew	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
-Gen.5:31	Gen.5:32	Merged with	[31b]	%Normally in this Bible, text may be missing here because this verse is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Latin	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exists	
-Gen.6:1	Gen.5:32	Renumber verse	[32-1]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Greek	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exists & Gen.5:31.2=Exist	
+Gen.5:31	Gen.5:32	Merged with	[31b]	%Normally in this Bible, text may be missing here because this verse is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Latin	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
+Gen.6:1	Gen.5:32	Renumber verse	[32-1]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Greek	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
 Gen.6:1	Gen.5:32	Renumber verse	[32-1]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	GreekUndivided	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=NotExist	
 Gen.5:31	Gen.5:32	Merged with	[31b]	%Normally in this Bible, text may be missing here because this verse is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek=6:1a)	LatinUndivided	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Gen.6:1	Gen.6:1	Keep verse	[1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	English+Hebrew	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
-Gen.6:1	Gen.6:1	Keep verse	[1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Latin	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exists	
-Gen.6:1	Gen.6:1	Merged with	[1b]	%Normally in this Bible, text may be missing here because this verse is merged with% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Greek	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exists & Gen.5:31.2=Exist	
+Gen.6:1	Gen.6:1	Keep verse	[1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Latin	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
+Gen.6:1	Gen.6:1	Merged with	[1b]	%Normally in this Bible, text may be missing here because this verse is merged with% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Greek	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
 Gen.6:1	Gen.6:1	Merged with	[1b]	%Normally in this Bible, text may be missing here because this verse is merged with% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	GreekUndivided	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=NotExist	
 Gen.6:1	Gen.6:1	Keep verse	[1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	LatinUndivided	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Gen.31:55	Gen.31:55	Keep verse	[1]	%In some Bibles the verse numbering here is% 32:1.		(Hebrew=32:1 • Latin=31:55 • Greek=31:55)	English+Latin+Greek	Gen.32:32=Last	
@@ -2761,7 +2761,7 @@ Exo.37:2٠	Exo.36:9.1	Renumber verse	[37:2]	%Normally in this Bible the verse nu
 Exo.37:2.2	Exo.36:9.2	Renumber verse	[37:2b]	%Normally in this Bible the verse numbering here is% 37:2b.		(Hebrew=36:9 • Latin=36:9 • Greek=37:2b)	Greek	Exo.36:40=Last & Exo.37:2.1=Exist	
 Exo.37:2	Exo.36:9	Renumber verse	[37:2]	%Normally in this Bible the verse numbering here is% 37:2.		(Hebrew=36:9 • Latin=36:9 • Greek=37:2, 2b)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist	
 Exo.36:10	Exo.36:10	Keep verse	[2c]	%In some Bibles the verse numbering here is% 37:2b.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	English+Hebrew+Latin	Exo.36:38=Last	
-Exo.36:10	Exo.36:10	Merged with	[2c]	%Normally in this Bible, text may be missing here because this verse is merged with% 36:9.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist
+Exo.36:10	Exo.36:10	Merged with	[2c]	%Normally in this Bible, text may be missing here because this verse is merged with% 36:9.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist	
 Exo.37:2.3	Exo.36:10	Renumber verse	[37:2c]	%Normally in this Bible the verse numbering here is% 37:2c.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	Greek	Exo.36:40=Last & Exo.37:2.1=Exist	
 Exo.36:11	Exo.36:11	Keep verse	[2d]	%In some Bibles the verse numbering here is% 37:2d.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	English+Hebrew+Latin	Exo.36:38=Last	
 Exo.36:11	Exo.36:11	Merged with	[2d]	%Normally in this Bible, text may be missing here because this verse is merged with% 36:9.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	GreekUndivided	Exo.36:40=Last & Exo.37:2.1=NotExist	
@@ -4795,19 +4795,19 @@ Jdg.21:24	Jdg.21:25	Merged with	[24b]	%Normally in this Bible, text may be missi
 1Ki.22:46	1Ki.22:45	Renumber verse	[46]	%Normally in this Bible the verse numbering here is% 22:46 [16:28c].		(Hebrew=22:46 • Latin=22:46 • Greek=22:46[=16:28c])	Greek	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 1Ki.22:46	1Ki.22:45	Renumber verse	[46]	%Normally in this Bible the verse numbering here is% 22:46 [16:28c].		(Hebrew=22:46 • Latin=22:46 • Greek=22:46[=16:28c])	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.22:46	1Ki.22:46	Keep verse	[47]	%In some Bibles the verse numbering here is% 22:47.		(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	English	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-1Ki.22:46	1Ki.22:46	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.	(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+1Ki.22:46	1Ki.22:46	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.		(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.22:47	1Ki.22:46	Renumber verse	[47]	%Normally in this Bible the verse numbering here is% 22:47.		(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	Hebrew+Latin	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.16:28.4	1Ki.22:46	Renumber verse	[16:28d]	%Normally in this Bible the verse numbering here is% 16:28d.		(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	Greek	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 1Ki.22:47	1Ki.22:47	Keep verse	[48]	%In some Bibles the verse numbering here is% 22:48.		(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	English	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-1Ki.22:47	1Ki.22:47	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.	(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+1Ki.22:47	1Ki.22:47	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.		(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.22:48	1Ki.22:47	Renumber verse	[48]	%Normally in this Bible the verse numbering here is% 22:48.		(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	Hebrew+Latin	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.16:28.5	1Ki.22:47	Renumber verse	[16:28e]	%Normally in this Bible the verse numbering here is% 16:28e.		(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	Greek	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 1Ki.22:48	1Ki.22:48	Keep verse	[49]	%In some Bibles the verse numbering here is% 22:49.		(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	English	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-1Ki.22:48	1Ki.22:48	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.	(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+1Ki.22:48	1Ki.22:48	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.		(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.22:49	1Ki.22:48	Renumber verse	[49]	%Normally in this Bible the verse numbering here is% 22:49.		(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	Hebrew+Latin	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.16:28.6	1Ki.22:48	Renumber verse	[16:28f]	%Normally in this Bible the verse numbering here is% 16:28f.		(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	Greek	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 1Ki.22:49	1Ki.22:49	Keep verse	[50]	%In some Bibles the verse numbering here is% 22:50.		(Hebrew=22:50 • Latin=22:50 • Greek=16:28g)	English	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-1Ki.22:49	1Ki.22:49	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.	(Hebrew=22:50 • Latin=22:50 • Greek=16:28g)	English	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+1Ki.22:49	1Ki.22:49	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 16:28.		(Hebrew=22:50 • Latin=22:50 • Greek=16:28g)	GreekUndivided	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.22:50	1Ki.22:49	Renumber verse	[50]	%Normally in this Bible the verse numbering here is% 22:50.		(Hebrew=22:50 • Latin=22:50 • Greek=16:28g)	Hebrew+Latin	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 1Ki.16:28.7	1Ki.22:49	Renumber verse	[16:28g]	%Normally in this Bible the verse numbering here is% 16:28g.		(Hebrew=22:50 • Latin=22:50 • Greek=16:28g)	Greek	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 1Ki.22:50	1Ki.22:50	Keep verse	[51]	%In some Bibles the verse numbering here is% 22:51.		(Hebrew=22:51 • Latin=22:51 • Greek=22:51)	English	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
@@ -6006,8 +6006,8 @@ Psa.2:13	Psa.2:12.2	Renumber verse	[13]	%Normally in this Bible the verse number
 Psa.3:1	Psa.3:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 3:1-2.		(Hebrew=3:1-2 • Latin=3:1-2 • Greek=3:1-2)	English	Psa.3:8=Last	
 Psa.3:1	Psa.3:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 3:1.		(Hebrew=3:1-2 • Latin=3:1-2 • Greek=3:1-2)	Hebrew+Latin+Greek	Psa.3:9=Last	
 Psa.3:2	Psa.3:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 3:2.		(Hebrew=3:1-2 • Latin=3:1-2 • Greek=3:1-2)	Hebrew+Latin+Greek	Psa.3:9=Last	
-Psa.3:1.0	Psa.3:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 3:1.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1)	EngTitleSeparate	Psa.3:1.1=Exists	
-Psa.3:1.1	Psa.3:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 3:2.		(Hebrew=3:2 • Latin=3:2 • Greek=3:2)	EngTitleSeparate	Psa.3:1.1=Exists	
+Psa.3:1.0	Psa.3:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 3:1.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1)	EngTitleSeparate	Psa.3:1.1=Exist	
+Psa.3:1.1	Psa.3:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 3:2.		(Hebrew=3:2 • Latin=3:2 • Greek=3:2)	EngTitleSeparate	Psa.3:1.1=Exist	
 Psa.3:2	Psa.3:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 3:3.		(Hebrew=3:3 • Latin=3:3 • Greek=3:3)	English	Psa.3:8=Last	
 Psa.3:3	Psa.3:2	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 3:3.		(Hebrew=3:3 • Latin=3:3 • Greek=3:3)	Hebrew+Latin+Greek	Psa.3:9=Last	
 Psa.3:3	Psa.3:3	Keep verse	[4]	%In some Bibles the verse numbering here is% 3:4.		(Hebrew=3:4 • Latin=3:4 • Greek=3:4)	English	Psa.3:8=Last	
@@ -6025,8 +6025,8 @@ Psa.3:9	Psa.3:8	Renumber verse	[9]	%Normally in this Bible the verse numbering h
 Psa.4:1	Psa.4:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 4:1-2.		(Hebrew=4:1-2 • Latin=4:1-2 • Greek=4:1-2)	English	Psa.4:8=Last	
 Psa.4:1	Psa.4:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 4:1.		(Hebrew=4:1-2 • Latin=4:1-2 • Greek=4:1-2)	Hebrew+Greek	Psa.4:9=Last	
 Psa.4:2	Psa.4:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 4:2.		(Hebrew=4:1-2 • Latin=4:1-2 • Greek=4:1-2)	Hebrew+Greek	Psa.4:9=Last	
-Psa.4:1.0	Psa.4:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1)	EngTitleSeparate	Psa.4:1.1=Exists	
-Psa.4:1.1	Psa.4:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2)	EngTitleSeparate	Psa.4:1.1=Exists	
+Psa.4:1.0	Psa.4:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1)	EngTitleSeparate	Psa.4:1.1=Exist	
+Psa.4:1.1	Psa.4:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2)	EngTitleSeparate	Psa.4:1.1=Exist	
 Psa.4:1	Psa.4:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 4:1.		(Hebrew=4:1-2 • Latin=4:1-2 • Greek=4:1-2)	Latin	Psa.4:10=Last	
 Psa.4:2	Psa.4:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 4:2.		(Hebrew=4:1-2 • Latin=4:1-2 • Greek=4:1-2)	Latin	Psa.4:10=Last	
 Psa.4:2	Psa.4:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3)	English	Psa.4:8=Last	
@@ -6054,8 +6054,8 @@ Psa.4:10	Psa.4:8.2	Renumber verse	[10]	%Normally in this Bible the verse numberi
 Psa.5:1	Psa.5:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 5:1-2.		(Hebrew=5:1-2 • Latin=5:1-2 • Greek=5:1-2)	English	Psa.5:12=Last	
 Psa.5:1	Psa.5:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 5:1.		(Hebrew=5:1-2 • Latin=5:1-2 • Greek=5:1-2)	Hebrew+Latin+Greek	Psa.5:13=Last	
 Psa.5:2	Psa.5:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 5:2.		(Hebrew=5:1-2 • Latin=5:1-2 • Greek=5:1-2)	Hebrew+Latin+Greek	Psa.5:13=Last	
-Psa.5:1.0	Psa.5:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 5:1.		(Hebrew=5:1 • Latin=5:1 • Greek=5:1)	EngTitleSeparate	Psa.5:1.1=Exists	
-Psa.5:1.1	Psa.5:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=5:2 • Greek=5:2)	EngTitleSeparate	Psa.5:1.1=Exists	
+Psa.5:1.0	Psa.5:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 5:1.		(Hebrew=5:1 • Latin=5:1 • Greek=5:1)	EngTitleSeparate	Psa.5:1.1=Exist	
+Psa.5:1.1	Psa.5:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=5:2 • Greek=5:2)	EngTitleSeparate	Psa.5:1.1=Exist	
 Psa.5:2	Psa.5:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=5:3 • Greek=5:3)	English	Psa.5:12=Last	
 Psa.5:3	Psa.5:2	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=5:3 • Greek=5:3)	Hebrew+Latin+Greek	Psa.5:13=Last	
 Psa.5:3	Psa.5:3	Keep verse	[4]	%In some Bibles the verse numbering here is% 5:4.		(Hebrew=5:4 • Latin=5:4 • Greek=5:4)	English	Psa.5:12=Last	
@@ -6081,8 +6081,8 @@ Psa.5:13	Psa.5:12	Renumber verse	[13]	%Normally in this Bible the verse numberin
 Psa.6:1	Psa.6:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 6:1-2.		(Hebrew=6:1-2 • Latin=6:1-2 • Greek=6:1-2)	English	Psa.6:10=Last	
 Psa.6:1	Psa.6:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 6:1.		(Hebrew=6:1-2 • Latin=6:1-2 • Greek=6:1-2)	Hebrew+Latin+Greek	Psa.6:11=Last	
 Psa.6:2	Psa.6:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 6:2.		(Hebrew=6:1-2 • Latin=6:1-2 • Greek=6:1-2)	Hebrew+Latin+Greek	Psa.6:11=Last	
-Psa.6:1.0	Psa.6:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1)	EngTitleSeparate	Psa.6:1.1=Exists	
-Psa.6:1.1	Psa.6:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 6:2.		(Hebrew=6:2 • Latin=6:2 • Greek=6:2)	EngTitleSeparate	Psa.6:1.1=Exists	
+Psa.6:1.0	Psa.6:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1)	EngTitleSeparate	Psa.6:1.1=Exist	
+Psa.6:1.1	Psa.6:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 6:2.		(Hebrew=6:2 • Latin=6:2 • Greek=6:2)	EngTitleSeparate	Psa.6:1.1=Exist	
 Psa.6:2	Psa.6:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 6:3.		(Hebrew=6:3 • Latin=6:3 • Greek=6:3)	English	Psa.6:10=Last	
 Psa.6:3	Psa.6:2	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 6:3.		(Hebrew=6:3 • Latin=6:3 • Greek=6:3)	Hebrew+Latin+Greek	Psa.6:11=Last	
 Psa.6:3	Psa.6:3	Keep verse	[4]	%In some Bibles the verse numbering here is% 6:4.		(Hebrew=6:4 • Latin=6:4 • Greek=6:4)	English	Psa.6:10=Last	
@@ -6104,8 +6104,8 @@ Psa.6:11	Psa.6:10	Renumber verse	[11]	%Normally in this Bible the verse numberin
 Psa.7:1	Psa.7:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 7:1-2.		(Hebrew=7:1-2 • Latin=7:1-2 • Greek=7:1-2)	English	Psa.7:17=Last	
 Psa.7:1	Psa.7:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 7:1.		(Hebrew=7:1-2 • Latin=7:1-2 • Greek=7:1-2)	Hebrew+Latin+Greek	Psa.7:18=Last	
 Psa.7:2	Psa.7:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 7:2.		(Hebrew=7:1-2 • Latin=7:1-2 • Greek=7:1-2)	Hebrew+Latin+Greek	Psa.7:18=Last	
-Psa.7:1.0	Psa.7:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 7:1.		(Hebrew=7:1 • Latin=7:1 • Greek=7:1)	EngTitleSeparate	Psa.7:1.1=Exists	
-Psa.7:1.1	Psa.7:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 7:2.		(Hebrew=7:2 • Latin=7:2 • Greek=7:2)	EngTitleSeparate	Psa.7:1.1=Exists	
+Psa.7:1.0	Psa.7:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 7:1.		(Hebrew=7:1 • Latin=7:1 • Greek=7:1)	EngTitleSeparate	Psa.7:1.1=Exist	
+Psa.7:1.1	Psa.7:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 7:2.		(Hebrew=7:2 • Latin=7:2 • Greek=7:2)	EngTitleSeparate	Psa.7:1.1=Exist	
 Psa.7:2	Psa.7:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 7:3.		(Hebrew=7:3 • Latin=7:3 • Greek=7:3)	English	Psa.7:17=Last	
 Psa.7:3	Psa.7:2	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 7:3.		(Hebrew=7:3 • Latin=7:3 • Greek=7:3)	Hebrew+Latin+Greek	Psa.7:18=Last	
 Psa.7:3	Psa.7:3	Keep verse	[4]	%In some Bibles the verse numbering here is% 7:4.		(Hebrew=7:4 • Latin=7:4 • Greek=7:4)	English	Psa.7:17=Last	
@@ -6141,8 +6141,8 @@ Psa.7:18	Psa.7:17	Renumber verse	[18]	%Normally in this Bible the verse numberin
 Psa.8:1	Psa.8:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 8:1-2.		(Hebrew=8:1-2 • Latin=8:1-2 • Greek=8:1-2)	English	Psa.8:9=Last	
 Psa.8:1	Psa.8:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 8:1.		(Hebrew=8:1-2 • Latin=8:1-2 • Greek=8:1-2)	Hebrew+Latin+Greek	Psa.8:10=Last	
 Psa.8:2	Psa.8:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 8:2.		(Hebrew=8:1-2 • Latin=8:1-2 • Greek=8:1-2)	Hebrew+Latin+Greek	Psa.8:10=Last	
-Psa.8:1.0	Psa.8:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 8:1.		(Hebrew=8:1 • Latin=8:1 • Greek=8:1)	EngTitleSeparate	Psa.8:1.1=Exists	
-Psa.8:1.1	Psa.8:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 8:2.		(Hebrew=8:2 • Latin=8:2 • Greek=8:2)	EngTitleSeparate	Psa.8:1.1=Exists	
+Psa.8:1.0	Psa.8:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 8:1.		(Hebrew=8:1 • Latin=8:1 • Greek=8:1)	EngTitleSeparate	Psa.8:1.1=Exist	
+Psa.8:1.1	Psa.8:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 8:2.		(Hebrew=8:2 • Latin=8:2 • Greek=8:2)	EngTitleSeparate	Psa.8:1.1=Exist	
 Psa.8:2	Psa.8:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 8:3.		(Hebrew=8:3 • Latin=8:3 • Greek=8:3)	English	Psa.8:9=Last	
 Psa.8:3	Psa.8:2	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 8:3.		(Hebrew=8:3 • Latin=8:3 • Greek=8:3)	Hebrew+Latin+Greek	Psa.8:10=Last	
 Psa.8:3	Psa.8:3	Keep verse	[4]	%In some Bibles the verse numbering here is% 8:4.		(Hebrew=8:4 • Latin=8:4 • Greek=8:4)	English	Psa.8:9=Last	
@@ -6162,8 +6162,8 @@ Psa.8:10	Psa.8:9	Renumber verse	[10]	%Normally in this Bible the verse numbering
 Psa.9:1	Psa.9:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 9:1-2.		(Hebrew=9:1-2 • Latin=9:1-2 • Greek=9:1-2)	English	Psa.9:20=Last	
 Psa.9:1	Psa.9:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 9:1.		(Hebrew=9:1-2 • Latin=9:1-2 • Greek=9:1-2)	Hebrew	Psa.9:21=Last	
 Psa.9:2	Psa.9:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 9:2.		(Hebrew=9:1-2 • Latin=9:1-2 • Greek=9:1-2)	Hebrew	Psa.9:21=Last	
-Psa.9:1.0	Psa.9:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 9:1.		(Hebrew=9:1 • Latin=9:1 • Greek=9:1)	EngTitleSeparate	Psa.9:1.1=Exists	
-Psa.9:1.1	Psa.9:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 9:2.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2)	EngTitleSeparate	Psa.9:1.1=Exists	
+Psa.9:1.0	Psa.9:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 9:1.		(Hebrew=9:1 • Latin=9:1 • Greek=9:1)	EngTitleSeparate	Psa.9:1.1=Exist	
+Psa.9:1.1	Psa.9:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 9:2.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2)	EngTitleSeparate	Psa.9:1.1=Exist	
 Psa.9:1	Psa.9:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 9:1.		(Hebrew=9:1-2 • Latin=9:1-2 • Greek=9:1-2)	Latin+Greek	Psa.9:39=Last	
 Psa.9:2	Psa.9:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 9:2.		(Hebrew=9:1-2 • Latin=9:1-2 • Greek=9:1-2)	Latin+Greek	Psa.9:39=Last	
 Psa.9:2	Psa.9:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 9:3.		(Hebrew=9:3 • Latin=9:3 • Greek=9:3)	English	Psa.9:20=Last	
@@ -6302,8 +6302,8 @@ Psa.10:7	Psa.11:7	Renumber verse	[10:7]	%Normally in this Bible the verse number
 Psa.12:1	Psa.12:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 12:1-2.		(Hebrew=12:1-2 • Latin=11:1-2 • Greek=11:1-2)	English	Psa.12:8=Last	
 Psa.12:1	Psa.12:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 12:1.		(Hebrew=12:1-2 • Latin=11:1-2 • Greek=11:1-2)	Hebrew	Psa.12:9=Last	
 Psa.12:2	Psa.12:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 12:2.		(Hebrew=12:1-2 • Latin=11:1-2 • Greek=11:1-2)	Hebrew	Psa.12:9=Last	
-Psa.12:1.0	Psa.12:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 12:1.		(Hebrew=12:1 • Latin=11:1 • Greek=11:1)	EngTitleSeparate	Psa.12:1.1=Exists	
-Psa.12:1.1	Psa.12:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 12:2.		(Hebrew=12:2 • Latin=11:2 • Greek=11:2)	EngTitleSeparate	Psa.12:1.1=Exists	
+Psa.12:1.0	Psa.12:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 12:1.		(Hebrew=12:1 • Latin=11:1 • Greek=11:1)	EngTitleSeparate	Psa.12:1.1=Exist	
+Psa.12:1.1	Psa.12:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 12:2.		(Hebrew=12:2 • Latin=11:2 • Greek=11:2)	EngTitleSeparate	Psa.12:1.1=Exist	
 Psa.11:1	Psa.12:1.0	Renumber verse	[11:1]	%Normally in this Bible the verse numbering here is% 11:1.		(Hebrew=12:1-2 • Latin=11:1-2 • Greek=11:1-2)	Latin+Greek	Psa.12:6=Last	
 Psa.11:2	Psa.12:1.1	Renumber verse	[11:2]	%Normally in this Bible the verse numbering here is% 11:2.		(Hebrew=12:1-2 • Latin=11:1-2 • Greek=11:1-2)	Latin+Greek	Psa.12:6=Last	
 Psa.12:2	Psa.12:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 12:3.		(Hebrew=12:3 • Latin=11:3 • Greek=11:3)	English	Psa.12:8=Last	
@@ -6433,8 +6433,8 @@ Psa.16:15	Psa.17:15	Renumber verse	[16:15]	%Normally in this Bible the verse num
 Psa.18:1	Psa.18:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 18:1-2.		(Hebrew=18:1-2 • Latin=17:1-2 • Greek=17:1-2)	English	Psa.18:50=Last	
 Psa.18:1	Psa.18:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 18:1.		(Hebrew=18:1-2 • Latin=17:1-2 • Greek=17:1-2)	Hebrew	Psa.18:51=Last	
 Psa.18:2	Psa.18:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 18:2.		(Hebrew=18:1-2 • Latin=17:1-2 • Greek=17:1-2)	Hebrew	Psa.18:51=Last	
-Psa.18:1.0	Psa.18:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 18:1.		(Hebrew=18:1 • Latin=17:1 • Greek=17:1)	EngTitleSeparate	Psa.18:1.1=Exists	
-Psa.18:1.1	Psa.18:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 18:2.		(Hebrew=18:2 • Latin=17:2 • Greek=17:2)	EngTitleSeparate	Psa.18:1.1=Exists	
+Psa.18:1.0	Psa.18:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 18:1.		(Hebrew=18:1 • Latin=17:1 • Greek=17:1)	EngTitleSeparate	Psa.18:1.1=Exist	
+Psa.18:1.1	Psa.18:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 18:2.		(Hebrew=18:2 • Latin=17:2 • Greek=17:2)	EngTitleSeparate	Psa.18:1.1=Exist	
 Psa.17:1	Psa.18:1.0	Renumber verse	[17:1]	%Normally in this Bible the verse numbering here is% 17:1.		(Hebrew=18:1-2 • Latin=17:1-2 • Greek=17:1-2)	Latin+Greek	Psa.18:15=Last	
 Psa.17:2	Psa.18:1.1	Renumber verse	[17:2]	%Normally in this Bible the verse numbering here is% 17:2.		(Hebrew=18:1-2 • Latin=17:1-2 • Greek=17:1-2)	Latin+Greek	Psa.18:15=Last	
 Psa.18:2	Psa.18:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 18:3.		(Hebrew=18:3 • Latin=17:3 • Greek=17:3)	English	Psa.18:50=Last	
@@ -6587,8 +6587,8 @@ Psa.17:51	Psa.18:50	Renumber verse	[17:51]	%Normally in this Bible the verse num
 Psa.19:1	Psa.19:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 19:1-2.		(Hebrew=19:1-2 • Latin=18:1-2 • Greek=18:1-2)	English	Psa.19:14=Last	
 Psa.19:1	Psa.19:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 19:1.		(Hebrew=19:1-2 • Latin=18:1-2 • Greek=18:1-2)	Hebrew	Psa.19:15=Last	
 Psa.19:2	Psa.19:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 19:2.		(Hebrew=19:1-2 • Latin=18:1-2 • Greek=18:1-2)	Hebrew	Psa.19:15=Last	
-Psa.19:1.0	Psa.19:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 19:1.		(Hebrew=19:1 • Latin=18:1 • Greek=18:1)	EngTitleSeparate	Psa.19:1.1=Exists	
-Psa.19:1.1	Psa.19:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 19:2.		(Hebrew=19:2 • Latin=18:2 • Greek=18:2)	EngTitleSeparate	Psa.19:1.1=Exists	
+Psa.19:1.0	Psa.19:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 19:1.		(Hebrew=19:1 • Latin=18:1 • Greek=18:1)	EngTitleSeparate	Psa.19:1.1=Exist	
+Psa.19:1.1	Psa.19:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 19:2.		(Hebrew=19:2 • Latin=18:2 • Greek=18:2)	EngTitleSeparate	Psa.19:1.1=Exist	
 Psa.18:1	Psa.19:1.0	Renumber verse	[18:1]	%Normally in this Bible the verse numbering here is% 18:1.		(Hebrew=19:1-2 • Latin=18:1-2 • Greek=18:1-2)	Latin+Greek	Psa.19:10=Last	
 Psa.18:2	Psa.19:1.1	Renumber verse	[18:2]	%Normally in this Bible the verse numbering here is% 18:2.		(Hebrew=19:1-2 • Latin=18:1-2 • Greek=18:1-2)	Latin+Greek	Psa.19:10=Last	
 Psa.19:2	Psa.19:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 19:3.		(Hebrew=19:3 • Latin=18:3 • Greek=18:3)	English	Psa.19:14=Last	
@@ -6633,8 +6633,8 @@ Psa.18:15	Psa.19:14	Renumber verse	[18:15]	%Normally in this Bible the verse num
 Psa.20:1	Psa.20:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 20:1-2.		(Hebrew=20:1-2 • Latin=19:1-2 • Greek=19:1-2)	English	Psa.20:9=Last	
 Psa.20:1	Psa.20:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 20:1.		(Hebrew=20:1-2 • Latin=19:1-2 • Greek=19:1-2)	Hebrew	Psa.20:10=Last	
 Psa.20:2	Psa.20:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 20:2.		(Hebrew=20:1-2 • Latin=19:1-2 • Greek=19:1-2)	Hebrew	Psa.20:10=Last	
-Psa.20:1.0	Psa.20:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 20:1.		(Hebrew=20:1 • Latin=19:1 • Greek=19:1)	EngTitleSeparate	Psa.20:1.1=Exists	
-Psa.20:1.1	Psa.20:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 20:2.		(Hebrew=20:2 • Latin=19:2 • Greek=19:2)	EngTitleSeparate	Psa.20:1.1=Exists	
+Psa.20:1.0	Psa.20:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 20:1.		(Hebrew=20:1 • Latin=19:1 • Greek=19:1)	EngTitleSeparate	Psa.20:1.1=Exist	
+Psa.20:1.1	Psa.20:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 20:2.		(Hebrew=20:2 • Latin=19:2 • Greek=19:2)	EngTitleSeparate	Psa.20:1.1=Exist	
 Psa.19:1	Psa.20:1.0	Renumber verse	[19:1]	%Normally in this Bible the verse numbering here is% 19:1.		(Hebrew=20:1-2 • Latin=19:1-2 • Greek=19:1-2)	Latin+Greek	Psa.20:14=Last	
 Psa.19:2	Psa.20:1.1	Renumber verse	[19:2]	%Normally in this Bible the verse numbering here is% 19:2.		(Hebrew=20:1-2 • Latin=19:1-2 • Greek=19:1-2)	Latin+Greek	Psa.20:14=Last	
 Psa.20:2	Psa.20:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 20:3.		(Hebrew=20:3 • Latin=19:3 • Greek=19:3)	English	Psa.20:9=Last	
@@ -6664,8 +6664,8 @@ Psa.19:10	Psa.20:9	Renumber verse	[19:10]	%Normally in this Bible the verse numb
 Psa.21:1	Psa.21:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 21:1-2.		(Hebrew=21:1-2 • Latin=20:1-2 • Greek=20:1-2)	English	Psa.21:13=Last	
 Psa.21:1	Psa.21:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 21:1.		(Hebrew=21:1-2 • Latin=20:1-2 • Greek=20:1-2)	Hebrew	Psa.21:14=Last	
 Psa.21:2	Psa.21:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 21:2.		(Hebrew=21:1-2 • Latin=20:1-2 • Greek=20:1-2)	Hebrew	Psa.21:14=Last	
-Psa.21:1.0	Psa.21:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 21:1.		(Hebrew=21:1 • Latin=20:1 • Greek=20:1)	EngTitleSeparate	Psa.21:1.1=Exists	
-Psa.21:1.1	Psa.21:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 21:2.		(Hebrew=21:2 • Latin=20:2 • Greek=20:2)	EngTitleSeparate	Psa.21:1.1=Exists	
+Psa.21:1.0	Psa.21:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 21:1.		(Hebrew=21:1 • Latin=20:1 • Greek=20:1)	EngTitleSeparate	Psa.21:1.1=Exist	
+Psa.21:1.1	Psa.21:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 21:2.		(Hebrew=21:2 • Latin=20:2 • Greek=20:2)	EngTitleSeparate	Psa.21:1.1=Exist	
 Psa.20:1	Psa.21:1.0	Renumber verse	[20:1]	%Normally in this Bible the verse numbering here is% 20:1.		(Hebrew=21:1-2 • Latin=20:1-2 • Greek=20:1-2)	Latin+Greek	Psa.21:32=Last	
 Psa.20:2	Psa.21:1.1	Renumber verse	[20:2]	%Normally in this Bible the verse numbering here is% 20:2.		(Hebrew=21:1-2 • Latin=20:1-2 • Greek=20:1-2)	Latin+Greek	Psa.21:32=Last	
 Psa.21:2	Psa.21:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 21:3.		(Hebrew=21:3 • Latin=20:3 • Greek=20:3)	English	Psa.21:13=Last	
@@ -6707,8 +6707,8 @@ Psa.20:14	Psa.21:13	Renumber verse	[20:14]	%Normally in this Bible the verse num
 Psa.22:1	Psa.22:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 22:1-2.		(Hebrew=22:1-2 • Latin=21:1-2 • Greek=21:1-2)	English	Psa.22:31=Last	
 Psa.22:1	Psa.22:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 22:1.		(Hebrew=22:1-2 • Latin=21:1-2 • Greek=21:1-2)	Hebrew	Psa.22:32=Last	
 Psa.22:2	Psa.22:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 22:2.		(Hebrew=22:1-2 • Latin=21:1-2 • Greek=21:1-2)	Hebrew	Psa.22:32=Last	
-Psa.22:1.0	Psa.22:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 22:1.		(Hebrew=22:1 • Latin=21:1 • Greek=21:1)	EngTitleSeparate	Psa.22:1.1=Exists	
-Psa.22:1.1	Psa.22:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 22:2.		(Hebrew=22:2 • Latin=21:2 • Greek=21:2)	EngTitleSeparate	Psa.22:1.1=Exists	
+Psa.22:1.0	Psa.22:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 22:1.		(Hebrew=22:1 • Latin=21:1 • Greek=21:1)	EngTitleSeparate	Psa.22:1.1=Exist	
+Psa.22:1.1	Psa.22:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 22:2.		(Hebrew=22:2 • Latin=21:2 • Greek=21:2)	EngTitleSeparate	Psa.22:1.1=Exist	
 Psa.21:1	Psa.22:1.0	Renumber verse	[21:1]	%Normally in this Bible the verse numbering here is% 21:1.		(Hebrew=22:1-2 • Latin=21:1-2 • Greek=21:1-2)	Latin+Greek	Psa.22:6=Last	
 Psa.21:2	Psa.22:1.1	Renumber verse	[21:2]	%Normally in this Bible the verse numbering here is% 21:2.		(Hebrew=22:1-2 • Latin=21:1-2 • Greek=21:1-2)	Latin+Greek	Psa.22:6=Last	
 Psa.22:2	Psa.22:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 22:3.		(Hebrew=22:3 • Latin=21:3 • Greek=21:3)	English	Psa.22:31=Last	
@@ -6972,8 +6972,8 @@ Psa.28:11	Psa.29:11	Renumber verse	[28:11]	%Normally in this Bible the verse num
 Psa.30:1	Psa.30:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 30:1-2.		(Hebrew=30:1-2 • Latin=29:1-2 • Greek=29:1-2)	English	Psa.30:12=Last	
 Psa.30:1	Psa.30:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 30:1.		(Hebrew=30:1-2 • Latin=29:1-2 • Greek=29:1-2)	Hebrew	Psa.30:13=Last	
 Psa.30:2	Psa.30:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 30:2.		(Hebrew=30:1-2 • Latin=29:1-2 • Greek=29:1-2)	Hebrew	Psa.30:13=Last	
-Psa.30:1.0	Psa.30:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 30:1.		(Hebrew=30:1 • Latin=29:1 • Greek=29:1)	EngTitleSeparate	Psa.30:1.1=Exists	
-Psa.30:1.1	Psa.30:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 30:2.		(Hebrew=30:2 • Latin=29:2 • Greek=29:2)	EngTitleSeparate	Psa.30:1.1=Exists	
+Psa.30:1.0	Psa.30:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 30:1.		(Hebrew=30:1 • Latin=29:1 • Greek=29:1)	EngTitleSeparate	Psa.30:1.1=Exist	
+Psa.30:1.1	Psa.30:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 30:2.		(Hebrew=30:2 • Latin=29:2 • Greek=29:2)	EngTitleSeparate	Psa.30:1.1=Exist	
 Psa.29:1	Psa.30:1.0	Renumber verse	[29:1]	%Normally in this Bible the verse numbering here is% 29:1.		(Hebrew=30:1-2 • Latin=29:1-2 • Greek=29:1-2)	Latin+Greek	Psa.30:25=Last	
 Psa.29:2	Psa.30:1.1	Renumber verse	[29:2]	%Normally in this Bible the verse numbering here is% 29:2.		(Hebrew=30:1-2 • Latin=29:1-2 • Greek=29:1-2)	Latin+Greek	Psa.30:25=Last	
 Psa.30:2	Psa.30:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 30:3.		(Hebrew=30:3 • Latin=29:3 • Greek=29:3)	English	Psa.30:12=Last	
@@ -7012,8 +7012,8 @@ Psa.29:13	Psa.30:12	Renumber verse	[29:13]	%Normally in this Bible the verse num
 Psa.31:1	Psa.31:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 31:1-2.		(Hebrew=31:1-2 • Latin=30:1-2 • Greek=30:1-2)	English	Psa.31:24=Last	
 Psa.31:1	Psa.31:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 31:1.		(Hebrew=31:1-2 • Latin=30:1-2 • Greek=30:1-2)	Hebrew	Psa.31:25=Last	
 Psa.31:2	Psa.31:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 31:2.		(Hebrew=31:1-2 • Latin=30:1-2 • Greek=30:1-2)	Hebrew	Psa.31:25=Last	
-Psa.31:1.0	Psa.31:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 31:1.		(Hebrew=31:1 • Latin=30:1 • Greek=30:1)	EngTitleSeparate	Psa.31:1.1=Exists	
-Psa.31:1.1	Psa.31:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 31:2.		(Hebrew=31:2 • Latin=30:2 • Greek=30:2)	EngTitleSeparate	Psa.31:1.1=Exists	
+Psa.31:1.0	Psa.31:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 31:1.		(Hebrew=31:1 • Latin=30:1 • Greek=30:1)	EngTitleSeparate	Psa.31:1.1=Exist	
+Psa.31:1.1	Psa.31:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 31:2.		(Hebrew=31:2 • Latin=30:2 • Greek=30:2)	EngTitleSeparate	Psa.31:1.1=Exist	
 Psa.30:1	Psa.31:1.0	Renumber verse	[30:1]	%Normally in this Bible the verse numbering here is% 30:1.		(Hebrew=31:1-2 • Latin=30:1-2 • Greek=30:1-2)	Latin+Greek	Psa.31:11=Last	
 Psa.30:2	Psa.31:1.1	Renumber verse	[30:2]	%Normally in this Bible the verse numbering here is% 30:2.		(Hebrew=31:1-2 • Latin=30:1-2 • Greek=30:1-2)	Latin+Greek	Psa.31:11=Last	
 Psa.31:2	Psa.31:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 31:3.		(Hebrew=31:3 • Latin=30:3 • Greek=30:3)	English	Psa.31:24=Last	
@@ -7154,8 +7154,8 @@ Psa.32:22	Psa.33:22	Renumber verse	[32:22]	%Normally in this Bible the verse num
 Psa.34:1	Psa.34:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 34:1-2.		(Hebrew=34:1-2 • Latin=33:1-2 • Greek=33:1-2)	English	Psa.34:22=Last	
 Psa.34:1	Psa.34:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 34:1.		(Hebrew=34:1-2 • Latin=33:1-2 • Greek=33:1-2)	Hebrew	Psa.34:23=Last	
 Psa.34:2	Psa.34:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 34:2.		(Hebrew=34:1-2 • Latin=33:1-2 • Greek=33:1-2)	Hebrew	Psa.34:23=Last	
-Psa.34:1.0	Psa.34:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 34:1.		(Hebrew=34:1 • Latin=33:1 • Greek=33:1)	EngTitleSeparate	Psa.34:1.1=Exists	
-Psa.34:1.1	Psa.34:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 34:2.		(Hebrew=34:2 • Latin=33:2 • Greek=33:2)	EngTitleSeparate	Psa.34:1.1=Exists	
+Psa.34:1.0	Psa.34:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 34:1.		(Hebrew=34:1 • Latin=33:1 • Greek=33:1)	EngTitleSeparate	Psa.34:1.1=Exist	
+Psa.34:1.1	Psa.34:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 34:2.		(Hebrew=34:2 • Latin=33:2 • Greek=33:2)	EngTitleSeparate	Psa.34:1.1=Exist	
 Psa.33:1	Psa.34:1.0	Renumber verse	[33:1]	%Normally in this Bible the verse numbering here is% 33:1.		(Hebrew=34:1-2 • Latin=33:1-2 • Greek=33:1-2)	Latin+Greek	Psa.34:28=Last	
 Psa.33:2	Psa.34:1.1	Renumber verse	[33:2]	%Normally in this Bible the verse numbering here is% 33:2.		(Hebrew=34:1-2 • Latin=33:1-2 • Greek=33:1-2)	Latin+Greek	Psa.34:28=Last	
 Psa.34:2	Psa.34:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 34:3.		(Hebrew=34:3 • Latin=33:3 • Greek=33:3)	English	Psa.34:22=Last	
@@ -7280,8 +7280,8 @@ Psa.34:28	Psa.35:28	Renumber verse	[34:28]	%Normally in this Bible the verse num
 Psa.36:1	Psa.36:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 36:1-2.		(Hebrew=36:1-2 • Latin=35:1-2 • Greek=35:1-2)	English	Psa.36:12=Last	
 Psa.36:1	Psa.36:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 36:1.		(Hebrew=36:1-2 • Latin=35:1-2 • Greek=35:1-2)	Hebrew	Psa.36:13=Last	
 Psa.36:2	Psa.36:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 36:2.		(Hebrew=36:1-2 • Latin=35:1-2 • Greek=35:1-2)	Hebrew	Psa.36:13=Last	
-Psa.36:1.0	Psa.36:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 36:1.		(Hebrew=36:1 • Latin=35:1 • Greek=35:1)	EngTitleSeparate	Psa.36:1.1=Exists	
-Psa.36:1.1	Psa.36:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 36:2.		(Hebrew=36:2 • Latin=35:2 • Greek=35:2)	EngTitleSeparate	Psa.36:1.1=Exists	
+Psa.36:1.0	Psa.36:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 36:1.		(Hebrew=36:1 • Latin=35:1 • Greek=35:1)	EngTitleSeparate	Psa.36:1.1=Exist	
+Psa.36:1.1	Psa.36:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 36:2.		(Hebrew=36:2 • Latin=35:2 • Greek=35:2)	EngTitleSeparate	Psa.36:1.1=Exist	
 Psa.35:1	Psa.36:1.0	Renumber verse	[35:1]	%Normally in this Bible the verse numbering here is% 35:1.		(Hebrew=36:1-2 • Latin=35:1-2 • Greek=35:1-2)	Latin+Greek	Psa.36:40=Last	
 Psa.35:2	Psa.36:1.1	Renumber verse	[35:2]	%Normally in this Bible the verse numbering here is% 35:2.		(Hebrew=36:1-2 • Latin=35:1-2 • Greek=35:1-2)	Latin+Greek	Psa.36:40=Last	
 Psa.36:2	Psa.36:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 36:3.		(Hebrew=36:3 • Latin=35:3 • Greek=35:3)	English	Psa.36:12=Last	
@@ -7400,8 +7400,8 @@ Psa.36:40	Psa.37:40	Renumber verse	[36:40]	%Normally in this Bible the verse num
 Psa.38:1	Psa.38:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 38:1-2.		(Hebrew=38:1-2 • Latin=37:1-2 • Greek=37:1-2)	English	Psa.38:22=Last	
 Psa.38:1	Psa.38:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 38:1.		(Hebrew=38:1-2 • Latin=37:1-2 • Greek=37:1-2)	Hebrew	Psa.38:23=Last	
 Psa.38:2	Psa.38:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 38:2.		(Hebrew=38:1-2 • Latin=37:1-2 • Greek=37:1-2)	Hebrew	Psa.38:23=Last	
-Psa.38:1.0	Psa.38:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 38:1.		(Hebrew=38:1 • Latin=37:1 • Greek=37:1)	EngTitleSeparate	Psa.38:1.1=Exists	
-Psa.38:1.1	Psa.38:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 38:2.		(Hebrew=38:2 • Latin=37:2 • Greek=37:2)	EngTitleSeparate	Psa.38:1.1=Exists	
+Psa.38:1.0	Psa.38:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 38:1.		(Hebrew=38:1 • Latin=37:1 • Greek=37:1)	EngTitleSeparate	Psa.38:1.1=Exist	
+Psa.38:1.1	Psa.38:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 38:2.		(Hebrew=38:2 • Latin=37:2 • Greek=37:2)	EngTitleSeparate	Psa.38:1.1=Exist	
 Psa.37:1	Psa.38:1.0	Renumber verse	[37:1]	%Normally in this Bible the verse numbering here is% 37:1.		(Hebrew=38:1-2 • Latin=37:1-2 • Greek=37:1-2)	Latin+Greek	Psa.38:14=Last	
 Psa.37:2	Psa.38:1.1	Renumber verse	[37:2]	%Normally in this Bible the verse numbering here is% 37:2.		(Hebrew=38:1-2 • Latin=37:1-2 • Greek=37:1-2)	Latin+Greek	Psa.38:14=Last	
 Psa.38:2	Psa.38:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 38:3.		(Hebrew=38:3 • Latin=37:3 • Greek=37:3)	English	Psa.38:22=Last	
@@ -7470,8 +7470,8 @@ Psa.37:23	Psa.38:22	Renumber verse	[37:23]	%Normally in this Bible the verse num
 Psa.39:1	Psa.39:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 39:1-2.		(Hebrew=39:1-2 • Latin=38:1-2 • Greek=38:1-2)	English	Psa.39:13=Last	
 Psa.39:1	Psa.39:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 39:1.		(Hebrew=39:1-2 • Latin=38:1-2 • Greek=38:1-2)	Hebrew	Psa.39:14=Last	
 Psa.39:2	Psa.39:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 39:2.		(Hebrew=39:1-2 • Latin=38:1-2 • Greek=38:1-2)	Hebrew	Psa.39:14=Last	
-Psa.39:1.0	Psa.39:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 39:1.		(Hebrew=39:1 • Latin=38:1 • Greek=38:1)	EngTitleSeparate	Psa.39:1.1=Exists	
-Psa.39:1.1	Psa.39:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 39:2.		(Hebrew=39:2 • Latin=38:2 • Greek=38:2)	EngTitleSeparate	Psa.39:1.1=Exists	
+Psa.39:1.0	Psa.39:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 39:1.		(Hebrew=39:1 • Latin=38:1 • Greek=38:1)	EngTitleSeparate	Psa.39:1.1=Exist	
+Psa.39:1.1	Psa.39:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 39:2.		(Hebrew=39:2 • Latin=38:2 • Greek=38:2)	EngTitleSeparate	Psa.39:1.1=Exist	
 Psa.38:1	Psa.39:1.0	Renumber verse	[38:1]	%Normally in this Bible the verse numbering here is% 38:1.		(Hebrew=39:1-2 • Latin=38:1-2 • Greek=38:1-2)	Latin+Greek	Psa.39:18=Last	
 Psa.38:2	Psa.39:1.1	Renumber verse	[38:2]	%Normally in this Bible the verse numbering here is% 38:2.		(Hebrew=39:1-2 • Latin=38:1-2 • Greek=38:1-2)	Latin+Greek	Psa.39:18=Last	
 Psa.39:2	Psa.39:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 39:3.		(Hebrew=39:3 • Latin=38:3 • Greek=38:3)	English	Psa.39:13=Last	
@@ -7513,8 +7513,8 @@ Psa.38:14	Psa.39:13	Renumber verse	[38:14]	%Normally in this Bible the verse num
 Psa.40:1	Psa.40:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 40:1-2.		(Hebrew=40:1-2 • Latin=39:1-2 • Greek=39:1-2)	English	Psa.40:17=Last	
 Psa.40:1	Psa.40:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 40:1.		(Hebrew=40:1-2 • Latin=39:1-2 • Greek=39:1-2)	Hebrew	Psa.40:18=Last	
 Psa.40:2	Psa.40:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 40:2.		(Hebrew=40:1-2 • Latin=39:1-2 • Greek=39:1-2)	Hebrew	Psa.40:18=Last	
-Psa.40:1.0	Psa.40:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 40:1.		(Hebrew=40:1 • Latin=39:1 • Greek=39:1)	EngTitleSeparate	Psa.40:1.1=Exists	
-Psa.40:1.1	Psa.40:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 40:2.		(Hebrew=40:2 • Latin=39:2 • Greek=39:2)	EngTitleSeparate	Psa.40:1.1=Exists	
+Psa.40:1.0	Psa.40:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 40:1.		(Hebrew=40:1 • Latin=39:1 • Greek=39:1)	EngTitleSeparate	Psa.40:1.1=Exist	
+Psa.40:1.1	Psa.40:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 40:2.		(Hebrew=40:2 • Latin=39:2 • Greek=39:2)	EngTitleSeparate	Psa.40:1.1=Exist	
 Psa.39:1	Psa.40:1.0	Renumber verse	[39:1]	%Normally in this Bible the verse numbering here is% 39:1.		(Hebrew=40:1-2 • Latin=39:1-2 • Greek=39:1-2)	Latin+Greek	Psa.40:14=Last	
 Psa.39:2	Psa.40:1.1	Renumber verse	[39:2]	%Normally in this Bible the verse numbering here is% 39:2.		(Hebrew=40:1-2 • Latin=39:1-2 • Greek=39:1-2)	Latin+Greek	Psa.40:14=Last	
 Psa.40:2	Psa.40:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 40:3.		(Hebrew=40:3 • Latin=39:3 • Greek=39:3)	English	Psa.40:17=Last	
@@ -7568,8 +7568,8 @@ Psa.39:18	Psa.40:17	Renumber verse	[39:18]	%Normally in this Bible the verse num
 Psa.41:1	Psa.41:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 41:1-2.		(Hebrew=41:1-2 • Latin=40:1-2 • Greek=40:1-2)	English	Psa.41:13=Last	
 Psa.41:1	Psa.41:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=41:1-2 • Latin=40:1-2 • Greek=40:1-2)	Hebrew	Psa.41:14=Last	
 Psa.41:2	Psa.41:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 41:2.		(Hebrew=41:1-2 • Latin=40:1-2 • Greek=40:1-2)	Hebrew	Psa.41:14=Last	
-Psa.41:1.0	Psa.41:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:1 • Greek=40:1)	EngTitleSeparate	Psa.41:1.1=Exists	
-Psa.41:1.1	Psa.41:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=40:2 • Greek=40:2)	EngTitleSeparate	Psa.41:1.1=Exists	
+Psa.41:1.0	Psa.41:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:1 • Greek=40:1)	EngTitleSeparate	Psa.41:1.1=Exist	
+Psa.41:1.1	Psa.41:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=40:2 • Greek=40:2)	EngTitleSeparate	Psa.41:1.1=Exist	
 Psa.40:1	Psa.41:1.0	Renumber verse	[40:1]	%Normally in this Bible the verse numbering here is% 40:1.		(Hebrew=41:1-2 • Latin=40:1-2 • Greek=40:1-2)	Latin+Greek	Psa.41:12=Last	
 Psa.40:2	Psa.41:1.1	Renumber verse	[40:2]	%Normally in this Bible the verse numbering here is% 40:2.		(Hebrew=41:1-2 • Latin=40:1-2 • Greek=40:1-2)	Latin+Greek	Psa.41:12=Last	
 Psa.41:2	Psa.41:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=40:3 • Greek=40:3)	English	Psa.41:13=Last	
@@ -7611,8 +7611,8 @@ Psa.40:14	Psa.41:13	Renumber verse	[40:14]	%Normally in this Bible the verse num
 Psa.42:1	Psa.42:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 42:1-2.		(Hebrew=42:1-2 • Latin=41:1-2 • Greek=41:1-2)	English	Psa.42:11=Last	
 Psa.42:1	Psa.42:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 42:1.		(Hebrew=42:1-2 • Latin=41:1-2 • Greek=41:1-2)	Hebrew	Psa.42:12=Last	
 Psa.42:2	Psa.42:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 42:2.		(Hebrew=42:1-2 • Latin=41:1-2 • Greek=41:1-2)	Hebrew	Psa.42:12=Last	
-Psa.42:1.0	Psa.42:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 42:1.		(Hebrew=42:1 • Latin=41:1 • Greek=41:1)	EngTitleSeparate	Psa.42:1.1=Exists	
-Psa.42:1.1	Psa.42:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 42:2.		(Hebrew=42:2 • Latin=41:2 • Greek=41:2)	EngTitleSeparate	Psa.42:1.1=Exists	
+Psa.42:1.0	Psa.42:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 42:1.		(Hebrew=42:1 • Latin=41:1 • Greek=41:1)	EngTitleSeparate	Psa.42:1.1=Exist	
+Psa.42:1.1	Psa.42:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 42:2.		(Hebrew=42:2 • Latin=41:2 • Greek=41:2)	EngTitleSeparate	Psa.42:1.1=Exist	
 Psa.41:1	Psa.42:1.0	Renumber verse	[41:1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=42:1-2 • Latin=41:1-2 • Greek=41:1-2)	Latin	Psa.42:6=Last	
 Psa.41:2	Psa.42:1.1	Renumber verse	[41:2]	%Normally in this Bible the verse numbering here is% 41:2.		(Hebrew=42:1-2 • Latin=41:1-2 • Greek=41:1-2)	Latin	Psa.42:6=Last	
 Psa.41:1	Psa.42:1.0	Renumber verse	[41:1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=42:1-2 • Latin=41:1-2 • Greek=41:1-2)	Greek	Psa.42:5=Last	
@@ -7676,8 +7676,8 @@ Psa.42:5	Psa.43:5	Renumber verse	[42:5]	%Normally in this Bible the verse number
 Psa.44:1	Psa.44:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 44:1-2.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	English	Psa.44:26=Last	
 Psa.44:1	Psa.44:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 44:1.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Hebrew	Psa.44:27=Last	
 Psa.44:2	Psa.44:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 44:2.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Hebrew	Psa.44:27=Last	
-Psa.44:1.0	Psa.44:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 44:1.		(Hebrew=44:1 • Latin=43:1 • Greek=43:1)	EngTitleSeparate	Psa.44:1.1=Exists	
-Psa.44:1.1	Psa.44:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 44:2.		(Hebrew=44:2 • Latin=43:2 • Greek=43:2)	EngTitleSeparate	Psa.44:1.1=Exists	
+Psa.44:1.0	Psa.44:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 44:1.		(Hebrew=44:1 • Latin=43:1 • Greek=43:1)	EngTitleSeparate	Psa.44:1.1=Exist	
+Psa.44:1.1	Psa.44:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 44:2.		(Hebrew=44:2 • Latin=43:2 • Greek=43:2)	EngTitleSeparate	Psa.44:1.1=Exist	
 Psa.43:1	Psa.44:1.0	Renumber verse	[43:1]	%Normally in this Bible the verse numbering here is% 43:1.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Latin	Psa.43:26=Last	
 Psa.43:2	Psa.44:1.1	Renumber verse	[43:2]	%Normally in this Bible the verse numbering here is% 43:2.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Latin	Psa.43:26=Last	
 Psa.43:1	Psa.44:1.0	Renumber verse	[43:1]	%Normally in this Bible the verse numbering here is% 43:1.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Greek	Psa.43:27=Last	
@@ -7785,8 +7785,8 @@ Psa.43:27	Psa.44:26	Renumber verse	[43:27]	%Normally in this Bible the verse num
 Psa.45:1	Psa.45:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 45:1-2.		(Hebrew=45:1-2 • Latin=44:1-2 • Greek=44:1-2)	English	Psa.45:17=Last	
 Psa.45:1	Psa.45:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 45:1.		(Hebrew=45:1-2 • Latin=44:1-2 • Greek=44:1-2)	Hebrew	Psa.45:18=Last	
 Psa.45:2	Psa.45:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 45:2.		(Hebrew=45:1-2 • Latin=44:1-2 • Greek=44:1-2)	Hebrew	Psa.45:18=Last	
-Psa.45:1.0	Psa.45:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 45:1.		(Hebrew=45:1 • Latin=44:1 • Greek=44:1)	EngTitleSeparate	Psa.45:1.1=Exists	
-Psa.45:1.1	Psa.45:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 45:2.		(Hebrew=45:2 • Latin=44:2 • Greek=44:2)	EngTitleSeparate	Psa.45:1.1=Exists	
+Psa.45:1.0	Psa.45:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 45:1.		(Hebrew=45:1 • Latin=44:1 • Greek=44:1)	EngTitleSeparate	Psa.45:1.1=Exist	
+Psa.45:1.1	Psa.45:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 45:2.		(Hebrew=45:2 • Latin=44:2 • Greek=44:2)	EngTitleSeparate	Psa.45:1.1=Exist	
 Psa.44:1	Psa.45:1.0	Renumber verse	[44:1]	%Normally in this Bible the verse numbering here is% 44:1.		(Hebrew=45:1-2 • Latin=44:1-2 • Greek=44:1-2)	Latin+Greek	Psa.45:12=Last	
 Psa.44:2	Psa.45:1.1	Renumber verse	[44:2]	%Normally in this Bible the verse numbering here is% 44:2.		(Hebrew=45:1-2 • Latin=44:1-2 • Greek=44:1-2)	Latin+Greek	Psa.45:12=Last	
 Psa.45:2	Psa.45:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 45:3.		(Hebrew=45:3 • Latin=44:3 • Greek=44:3)	English	Psa.45:17=Last	
@@ -7840,8 +7840,8 @@ Psa.44:18	Psa.45:17	Renumber verse	[44:18]	%Normally in this Bible the verse num
 Psa.46:1	Psa.46:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 46:1-2.		(Hebrew=46:1-2 • Latin=45:1-2 • Greek=45:1-2)	English	Psa.46:11=Last	
 Psa.46:1	Psa.46:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 46:1.		(Hebrew=46:1-2 • Latin=45:1-2 • Greek=45:1-2)	Hebrew	Psa.46:12=Last	
 Psa.46:2	Psa.46:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 46:2.		(Hebrew=46:1-2 • Latin=45:1-2 • Greek=45:1-2)	Hebrew	Psa.46:12=Last	
-Psa.46:1.0	Psa.46:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 46:1.		(Hebrew=46:1 • Latin=45:1 • Greek=45:1)	EngTitleSeparate	Psa.46:1.1=Exists	
-Psa.46:1.1	Psa.46:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 46:2.		(Hebrew=46:2 • Latin=45:2 • Greek=45:2)	EngTitleSeparate	Psa.46:1.1=Exists	
+Psa.46:1.0	Psa.46:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 46:1.		(Hebrew=46:1 • Latin=45:1 • Greek=45:1)	EngTitleSeparate	Psa.46:1.1=Exist	
+Psa.46:1.1	Psa.46:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 46:2.		(Hebrew=46:2 • Latin=45:2 • Greek=45:2)	EngTitleSeparate	Psa.46:1.1=Exist	
 Psa.45:1	Psa.46:1.0	Renumber verse	[45:1]	%Normally in this Bible the verse numbering here is% 45:1.		(Hebrew=46:1-2 • Latin=45:1-2 • Greek=45:1-2)	Latin+Greek	Psa.46:10=Last	
 Psa.45:2	Psa.46:1.1	Renumber verse	[45:2]	%Normally in this Bible the verse numbering here is% 45:2.		(Hebrew=46:1-2 • Latin=45:1-2 • Greek=45:1-2)	Latin+Greek	Psa.46:10=Last	
 Psa.46:2	Psa.46:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 46:3.		(Hebrew=46:3 • Latin=45:3 • Greek=45:3)	English	Psa.46:11=Last	
@@ -7877,8 +7877,8 @@ Psa.45:12	Psa.46:11	Renumber verse	[45:12]	%Normally in this Bible the verse num
 Psa.47:1	Psa.47:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 47:1-2.		(Hebrew=47:1-2 • Latin=46:1-2 • Greek=46:1-2)	English	Psa.47:9=Last	
 Psa.47:1	Psa.47:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 47:1.		(Hebrew=47:1-2 • Latin=46:1-2 • Greek=46:1-2)	Hebrew	Psa.47:10=Last	
 Psa.47:2	Psa.47:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 47:2.		(Hebrew=47:1-2 • Latin=46:1-2 • Greek=46:1-2)	Hebrew	Psa.47:10=Last	
-Psa.47:1.0	Psa.47:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 47:1.		(Hebrew=47:1 • Latin=46:1 • Greek=46:1)	EngTitleSeparate	Psa.47:1.1=Exists	
-Psa.47:1.1	Psa.47:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 47:2.		(Hebrew=47:2 • Latin=46:2 • Greek=46:2)	EngTitleSeparate	Psa.47:1.1=Exists	
+Psa.47:1.0	Psa.47:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 47:1.		(Hebrew=47:1 • Latin=46:1 • Greek=46:1)	EngTitleSeparate	Psa.47:1.1=Exist	
+Psa.47:1.1	Psa.47:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 47:2.		(Hebrew=47:2 • Latin=46:2 • Greek=46:2)	EngTitleSeparate	Psa.47:1.1=Exist	
 Psa.46:1	Psa.47:1.0	Renumber verse	[46:1]	%Normally in this Bible the verse numbering here is% 46:1.		(Hebrew=47:1-2 • Latin=46:1-2 • Greek=46:1-2)	Latin+Greek	Psa.47:15=Last	
 Psa.46:2	Psa.47:1.1	Renumber verse	[46:2]	%Normally in this Bible the verse numbering here is% 46:2.		(Hebrew=47:1-2 • Latin=46:1-2 • Greek=46:1-2)	Latin+Greek	Psa.47:15=Last	
 Psa.47:2	Psa.47:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 47:3.		(Hebrew=47:3 • Latin=46:3 • Greek=46:3)	English	Psa.47:9=Last	
@@ -7908,8 +7908,8 @@ Psa.46:10	Psa.47:9	Renumber verse	[46:10]	%Normally in this Bible the verse numb
 Psa.48:1	Psa.48:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 48:1-2.		(Hebrew=48:1-2 • Latin=47:1-2 • Greek=47:1-2)	English	Psa.48:14=Last	
 Psa.48:1	Psa.48:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 48:1.		(Hebrew=48:1-2 • Latin=47:1-2 • Greek=47:1-2)	Hebrew	Psa.48:15=Last	
 Psa.48:2	Psa.48:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 48:2.		(Hebrew=48:1-2 • Latin=47:1-2 • Greek=47:1-2)	Hebrew	Psa.48:15=Last	
-Psa.48:1.0	Psa.48:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 48:1.		(Hebrew=48:1 • Latin=47:1 • Greek=47:1)	EngTitleSeparate	Psa.48:1.1=Exists	
-Psa.48:1.1	Psa.48:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 48:2.		(Hebrew=48:2 • Latin=47:2 • Greek=47:2)	EngTitleSeparate	Psa.48:1.1=Exists	
+Psa.48:1.0	Psa.48:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 48:1.		(Hebrew=48:1 • Latin=47:1 • Greek=47:1)	EngTitleSeparate	Psa.48:1.1=Exist	
+Psa.48:1.1	Psa.48:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 48:2.		(Hebrew=48:2 • Latin=47:2 • Greek=47:2)	EngTitleSeparate	Psa.48:1.1=Exist	
 Psa.47:1	Psa.48:1.0	Renumber verse	[47:1]	%Normally in this Bible the verse numbering here is% 47:1.		(Hebrew=48:1-2 • Latin=47:1-2 • Greek=47:1-2)	Latin+Greek	Psa.48:21=Last	
 Psa.47:2	Psa.48:1.1	Renumber verse	[47:2]	%Normally in this Bible the verse numbering here is% 47:2.		(Hebrew=48:1-2 • Latin=47:1-2 • Greek=47:1-2)	Latin+Greek	Psa.48:21=Last	
 Psa.48:2	Psa.48:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 48:3.		(Hebrew=48:3 • Latin=47:3 • Greek=47:3)	English	Psa.48:14=Last	
@@ -7954,8 +7954,8 @@ Psa.47:15	Psa.48:14	Renumber verse	[47:15]	%Normally in this Bible the verse num
 Psa.49:1	Psa.49:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 49:1-2.		(Hebrew=49:1-2 • Latin=48:1-2 • Greek=48:1-2)	English	Psa.49:20=Last	
 Psa.49:1	Psa.49:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 49:1.		(Hebrew=49:1-2 • Latin=48:1-2 • Greek=48:1-2)	Hebrew	Psa.49:21=Last	
 Psa.49:2	Psa.49:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 49:2.		(Hebrew=49:1-2 • Latin=48:1-2 • Greek=48:1-2)	Hebrew	Psa.49:21=Last	
-Psa.49:1.0	Psa.49:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 49:1.		(Hebrew=49:1 • Latin=48:1 • Greek=48:1)	EngTitleSeparate	Psa.49:1.1=Exists	
-Psa.49:1.1	Psa.49:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 49:2.		(Hebrew=49:2 • Latin=48:2 • Greek=48:2)	EngTitleSeparate	Psa.49:1.1=Exists	
+Psa.49:1.0	Psa.49:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 49:1.		(Hebrew=49:1 • Latin=48:1 • Greek=48:1)	EngTitleSeparate	Psa.49:1.1=Exist	
+Psa.49:1.1	Psa.49:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 49:2.		(Hebrew=49:2 • Latin=48:2 • Greek=48:2)	EngTitleSeparate	Psa.49:1.1=Exist	
 Psa.48:1	Psa.49:1.0	Renumber verse	[48:1]	%Normally in this Bible the verse numbering here is% 48:1.		(Hebrew=49:1-2 • Latin=48:1-2 • Greek=48:1-2)	Latin+Greek	Psa.49:23=Last	
 Psa.48:2	Psa.49:1.1	Renumber verse	[48:2]	%Normally in this Bible the verse numbering here is% 48:2.		(Hebrew=49:1-2 • Latin=48:1-2 • Greek=48:1-2)	Latin+Greek	Psa.49:23=Last	
 Psa.49:2	Psa.49:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 49:3.		(Hebrew=49:3 • Latin=48:3 • Greek=48:3)	English	Psa.49:20=Last	
@@ -8065,8 +8065,8 @@ Psa.51:1	Psa.51:1	Keep verse	[1-3]	%In some Bibles the verse numbering here is% 
 Psa.51:1	Psa.51:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 51:1.		(Hebrew=51:1-3 • Latin=50:1-3 • Greek=50:1-3)	Hebrew	Psa.51:21=Last	
 Psa.51:2	Psa.51:1.0	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 51:2.		(Hebrew=51:1-3 • Latin=50:1-3 • Greek=50:1-3)	Hebrew	Psa.51:21=Last	
 Psa.51:3	Psa.51:1.1	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 51:3.		(Hebrew=51:1-3 • Latin=50:1-3 • Greek=50:1-3)	Hebrew	Psa.51:21=Last	
-Psa.51:1.0	Psa.51:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 51:1-2.		(Hebrew=51:1-2 • Latin=50:1-2 • Greek=50:1-2)	EngTitleSeparate	Psa.51:1.1=Exists	
-Psa.51:1.1	Psa.51:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 51:3.		(Hebrew=51:3 • Latin=50:3 • Greek=50:3)	EngTitleSeparate	Psa.51:1.1=Exists	
+Psa.51:1.0	Psa.51:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 51:1-2.		(Hebrew=51:1-2 • Latin=50:1-2 • Greek=50:1-2)	EngTitleSeparate	Psa.51:1.1=Exist	
+Psa.51:1.1	Psa.51:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 51:3.		(Hebrew=51:3 • Latin=50:3 • Greek=50:3)	EngTitleSeparate	Psa.51:1.1=Exist	
 Psa.50:1	Psa.51:1.0	Renumber verse	[50:1]	%Normally in this Bible the verse numbering here is% 50:1.		(Hebrew=51:1-3 • Latin=50:1-3 • Greek=50:1-3)	Latin+Greek	Psa.51:11=Last	
 Psa.50:2	Psa.51:1.0	Renumber verse	[50:2]	%Normally in this Bible the verse numbering here is% 50:2.		(Hebrew=51:1-3 • Latin=50:1-3 • Greek=50:1-3)	Latin+Greek	Psa.51:11=Last	
 Psa.50:3	Psa.51:1.1	Renumber verse	[50:3]	%Normally in this Bible the verse numbering here is% 50:3.		(Hebrew=51:1-3 • Latin=50:1-3 • Greek=50:1-3)	Latin+Greek	Psa.51:11=Last	
@@ -8131,8 +8131,8 @@ Psa.52:3	Psa.52:1.1	Renumber verse	[3]	%Normally in this Bible the verse numberi
 Psa.51:1	Psa.52:1.0	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 51:1.		(Hebrew=52:1-3 • Latin=51:1-3 • Greek=51:1-3)	Latin+Greek	Psa.52:7=Last	
 Psa.51:2	Psa.52:1.0	Renumber verse	[51:2]	%Normally in this Bible the verse numbering here is% 51:2.		(Hebrew=52:1-3 • Latin=51:1-3 • Greek=51:1-3)	Latin+Greek	Psa.52:7=Last	
 Psa.51:3	Psa.52:1.1	Renumber verse	[51:3]	%Normally in this Bible the verse numbering here is% 51:3.		(Hebrew=52:1-3 • Latin=51:1-3 • Greek=51:1-3)	Latin+Greek	Psa.52:7=Last	
-Psa.52:1.0	Psa.52:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 52:1-2.		(Hebrew=52:1-2 • Latin=51:1-2 • Greek=51:1-2)	EngTitleSeparate	Psa.52:1.1=Exists	
-Psa.52:1.1	Psa.52:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 52:3.		(Hebrew=52:3 • Latin=51:3 • Greek=51:3)	EngTitleSeparate	Psa.52:1.1=Exists	
+Psa.52:1.0	Psa.52:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 52:1-2.		(Hebrew=52:1-2 • Latin=51:1-2 • Greek=51:1-2)	EngTitleSeparate	Psa.52:1.1=Exist	
+Psa.52:1.1	Psa.52:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 52:3.		(Hebrew=52:3 • Latin=51:3 • Greek=51:3)	EngTitleSeparate	Psa.52:1.1=Exist	
 Psa.52:2	Psa.52:2	Keep verse	[4]	%In some Bibles the verse numbering here is% 52:4.		(Hebrew=52:4 • Latin=51:4 • Greek=51:4)	English	Psa.52:9=Last	
 Psa.52:4	Psa.52:2	Renumber verse	[4]	%Normally in this Bible the verse numbering here is% 52:4.		(Hebrew=52:4 • Latin=51:4 • Greek=51:4)	Hebrew	Psa.52:11=Last	
 Psa.51:4	Psa.52:2	Renumber verse	[51:4]	%Normally in this Bible the verse numbering here is% 51:4.		(Hebrew=52:4 • Latin=51:4 • Greek=51:4)	Latin+Greek	Psa.52:7=Last	
@@ -8160,8 +8160,8 @@ Psa.51:11	Psa.52:9	Renumber verse	[51:11]	%Normally in this Bible the verse numb
 Psa.53:1	Psa.53:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 53:1-2.		(Hebrew=53:1-2 • Latin=52:1-2 • Greek=52:1-2)	English	Psa.53:6=Last	
 Psa.53:1	Psa.53:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 53:1.		(Hebrew=53:1-2 • Latin=52:1-2 • Greek=52:1-2)	Hebrew	Psa.53:7=Last	
 Psa.53:2	Psa.53:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 53:2.		(Hebrew=53:1-2 • Latin=52:1-2 • Greek=52:1-2)	Hebrew	Psa.53:7=Last	
-Psa.53:1.0	Psa.53:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 53:1.		(Hebrew=53:1 • Latin=52:1 • Greek=52:1)	EngTitleSeparate	Psa.53:1.1=Exists	
-Psa.53:1.1	Psa.53:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 53:2.		(Hebrew=53:2 • Latin=52:2 • Greek=52:2)	EngTitleSeparate	Psa.53:1.1=Exists	
+Psa.53:1.0	Psa.53:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 53:1.		(Hebrew=53:1 • Latin=52:1 • Greek=52:1)	EngTitleSeparate	Psa.53:1.1=Exist	
+Psa.53:1.1	Psa.53:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 53:2.		(Hebrew=53:2 • Latin=52:2 • Greek=52:2)	EngTitleSeparate	Psa.53:1.1=Exist	
 Psa.52:1	Psa.53:1.0	Renumber verse	[52:1]	%Normally in this Bible the verse numbering here is% 52:1.		(Hebrew=53:1-2 • Latin=52:1-2 • Greek=52:1-2)	Latin+Greek	Psa.53:9=Last	
 Psa.52:2	Psa.53:1.1	Renumber verse	[52:2]	%Normally in this Bible the verse numbering here is% 52:2.		(Hebrew=53:1-2 • Latin=52:1-2 • Greek=52:1-2)	Latin+Greek	Psa.53:9=Last	
 Psa.53:2	Psa.53:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 53:3.		(Hebrew=53:3 • Latin=52:3 • Greek=52:3)	English	Psa.53:6=Last	
@@ -8183,8 +8183,8 @@ Psa.54:1	Psa.54:1	Keep verse	[1-3]	%In some Bibles the verse numbering here is% 
 Psa.54:1	Psa.54:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 54:1.		(Hebrew=54:1-3 • Latin=53:1-3 • Greek=53:1-3)	Hebrew	Psa.54:9=Last	
 Psa.54:2	Psa.54:1.0	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 54:2.		(Hebrew=54:1-3 • Latin=53:1-3 • Greek=53:1-3)	Hebrew	Psa.54:9=Last	
 Psa.54:3	Psa.54:1.1	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 54:3.		(Hebrew=54:1-3 • Latin=53:1-3 • Greek=53:1-3)	Hebrew	Psa.54:9=Last	
-Psa.54:1.0	Psa.54:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 54:1-2.		(Hebrew=54:1-2 • Latin=53:1-2 • Greek=53:1-2)	EngTitleSeparate	Psa.54:1.1=Exists	
-Psa.54:1.1	Psa.54:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 54:3.		(Hebrew=54:3 • Latin=53:3 • Greek=53:3)	EngTitleSeparate	Psa.54:1.1=Exists	
+Psa.54:1.0	Psa.54:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 54:1-2.		(Hebrew=54:1-2 • Latin=53:1-2 • Greek=53:1-2)	EngTitleSeparate	Psa.54:1.1=Exist	
+Psa.54:1.1	Psa.54:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 54:3.		(Hebrew=54:3 • Latin=53:3 • Greek=53:3)	EngTitleSeparate	Psa.54:1.1=Exist	
 Psa.53:1	Psa.54:1.0	Renumber verse	[53:1]	%Normally in this Bible the verse numbering here is% 53:1.		(Hebrew=54:1-3 • Latin=53:1-3 • Greek=53:1-3)	Latin+Greek	Psa.54:24=Last	
 Psa.53:2	Psa.54:1.0	Renumber verse	[53:2]	%Normally in this Bible the verse numbering here is% 53:2.		(Hebrew=54:1-3 • Latin=53:1-3 • Greek=53:1-3)	Latin+Greek	Psa.54:24=Last	
 Psa.53:3	Psa.54:1.1	Renumber verse	[53:3]	%Normally in this Bible the verse numbering here is% 53:3.		(Hebrew=54:1-3 • Latin=53:1-3 • Greek=53:1-3)	Latin+Greek	Psa.54:24=Last	
@@ -8209,8 +8209,8 @@ Psa.53:9	Psa.54:7	Renumber verse	[53:9]	%Normally in this Bible the verse number
 Psa.55:1	Psa.55:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 55:1-2.		(Hebrew=55:1-2 • Latin=54:1-2 • Greek=54:1-2)	English	Psa.55:23=Last	
 Psa.55:1	Psa.55:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 55:1.		(Hebrew=55:1-2 • Latin=54:1-2 • Greek=54:1-2)	Hebrew	Psa.55:24=Last	
 Psa.55:2	Psa.55:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 55:2.		(Hebrew=55:1-2 • Latin=54:1-2 • Greek=54:1-2)	Hebrew	Psa.55:24=Last	
-Psa.55:1.0	Psa.55:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 55:1.		(Hebrew=55:1 • Latin=54:1 • Greek=54:1)	EngTitleSeparate	Psa.55:1.1=Exists	
-Psa.55:1.1	Psa.55:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 55:2.		(Hebrew=55:2 • Latin=54:2 • Greek=54:2)	EngTitleSeparate	Psa.55:1.1=Exists	
+Psa.55:1.0	Psa.55:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 55:1.		(Hebrew=55:1 • Latin=54:1 • Greek=54:1)	EngTitleSeparate	Psa.55:1.1=Exist	
+Psa.55:1.1	Psa.55:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 55:2.		(Hebrew=55:2 • Latin=54:2 • Greek=54:2)	EngTitleSeparate	Psa.55:1.1=Exist	
 Psa.54:1	Psa.55:1.0	Renumber verse	[54:1]	%Normally in this Bible the verse numbering here is% 54:1.		(Hebrew=55:1-2 • Latin=54:1-2 • Greek=54:1-2)	Latin	Psa.55:13=Last	
 Psa.54:2	Psa.55:1.1	Renumber verse	[54:2]	%Normally in this Bible the verse numbering here is% 54:2.		(Hebrew=55:1-2 • Latin=54:1-2 • Greek=54:1-2)	Latin	Psa.55:13=Last	
 Psa.54:1	Psa.55:1.0	Renumber verse	[54:1]	%Normally in this Bible the verse numbering here is% 54:1.		(Hebrew=55:1-2 • Latin=54:1-2 • Greek=54:1-2)	Greek	Psa.55:14=Last	
@@ -8306,8 +8306,8 @@ Psa.54:24	Psa.55:23	Renumber verse	[54:24]	%Normally in this Bible the verse num
 Psa.56:1	Psa.56:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 56:1-2.		(Hebrew=56:1-2 • Latin=55:1-2 • Greek=55:1-2)	English	Psa.56:13=Last	
 Psa.56:1	Psa.56:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 56:1.		(Hebrew=56:1-2 • Latin=55:1-2 • Greek=55:1-2)	Hebrew	Psa.56:14=Last	
 Psa.56:2	Psa.56:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 56:2.		(Hebrew=56:1-2 • Latin=55:1-2 • Greek=55:1-2)	Hebrew	Psa.56:14=Last	
-Psa.56:1.0	Psa.56:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 56:1.		(Hebrew=56:1 • Latin=55:1 • Greek=55:1)	EngTitleSeparate	Psa.56:1.1=Exists	
-Psa.56:1.1	Psa.56:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 56:2.		(Hebrew=56:2 • Latin=55:2 • Greek=55:2)	EngTitleSeparate	Psa.56:1.1=Exists	
+Psa.56:1.0	Psa.56:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 56:1.		(Hebrew=56:1 • Latin=55:1 • Greek=55:1)	EngTitleSeparate	Psa.56:1.1=Exist	
+Psa.56:1.1	Psa.56:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 56:2.		(Hebrew=56:2 • Latin=55:2 • Greek=55:2)	EngTitleSeparate	Psa.56:1.1=Exist	
 Psa.55:1	Psa.56:1.0	Renumber verse	[55:1]	%Normally in this Bible the verse numbering here is% 55:1.		(Hebrew=56:1-2 • Latin=55:1-2 • Greek=55:1-2)	Latin	Psa.55:13=Last	
 Psa.55:2	Psa.56:1.1	Renumber verse	[55:2]	%Normally in this Bible the verse numbering here is% 55:2.		(Hebrew=56:1-2 • Latin=55:1-2 • Greek=55:1-2)	Latin	Psa.55:13=Last	
 Psa.55:1	Psa.56:1.0	Renumber verse	[55:1]	%Normally in this Bible the verse numbering here is% 55:1.		(Hebrew=56:1-2 • Latin=55:1-2 • Greek=55:1-2)	Greek	Psa.55:14=Last	
@@ -8363,8 +8363,8 @@ Psa.55:14	Psa.56:13	Renumber verse	[55:14]	%Normally in this Bible the verse num
 Psa.57:1	Psa.57:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 57:1-2.		(Hebrew=57:1-2 • Latin=56:1-2 • Greek=56:1-2)	English	Psa.57:11=Last & Psa.58:11=Last	
 Psa.57:1	Psa.57:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 57:1.		(Hebrew=57:1-2 • Latin=56:1-2 • Greek=56:1-2)	Hebrew	Psa.57:12=Last & Psa.58:12=Last	
 Psa.57:2	Psa.57:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 57:2.		(Hebrew=57:1-2 • Latin=56:1-2 • Greek=56:1-2)	Hebrew	Psa.57:12=Last & Psa.58:12=Last	
-Psa.57:1.0	Psa.57:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 57:1.		(Hebrew=57:1 • Latin=56:1 • Greek=56:1)	EngTitleSeparate	Psa.57:1.1=Exists	
-Psa.57:1.1	Psa.57:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 57:2.		(Hebrew=57:2 • Latin=56:2 • Greek=56:2)	EngTitleSeparate	Psa.57:1.1=Exists	
+Psa.57:1.0	Psa.57:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 57:1.		(Hebrew=57:1 • Latin=56:1 • Greek=56:1)	EngTitleSeparate	Psa.57:1.1=Exist	
+Psa.57:1.1	Psa.57:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 57:2.		(Hebrew=57:2 • Latin=56:2 • Greek=56:2)	EngTitleSeparate	Psa.57:1.1=Exist	
 Psa.56:1	Psa.57:1.0	Renumber verse	[56:1]	%Normally in this Bible the verse numbering here is% 56:1.		(Hebrew=57:1-2 • Latin=56:1-2 • Greek=56:1-2)	Latin+Greek	Psa.56:12=Last & Psa.57:12=Last	
 Psa.56:2	Psa.57:1.1	Renumber verse	[56:2]	%Normally in this Bible the verse numbering here is% 56:2.		(Hebrew=57:1-2 • Latin=56:1-2 • Greek=56:1-2)	Latin+Greek	Psa.56:12=Last & Psa.57:12=Last	
 Psa.57:2	Psa.57:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 57:3.		(Hebrew=57:3 • Latin=56:3 • Greek=56:3)	English	Psa.57:11=Last & Psa.58:11=Last	
@@ -8400,8 +8400,8 @@ Psa.56:12	Psa.57:11	Renumber verse	[56:12]	%Normally in this Bible the verse num
 Psa.58:1	Psa.58:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 58:1-2.		(Hebrew=58:1-2 • Latin=57:1-2 • Greek=57:1-2)	English	Psa.58:11=Last	
 Psa.58:1	Psa.58:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 58:1.		(Hebrew=58:1-2 • Latin=57:1-2 • Greek=57:1-2)	Hebrew	Psa.58:12=Last	
 Psa.58:2	Psa.58:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 58:2.		(Hebrew=58:1-2 • Latin=57:1-2 • Greek=57:1-2)	Hebrew	Psa.58:12=Last	
-Psa.58:1.0	Psa.58:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 58:1.		(Hebrew=58:1 • Latin=57:1 • Greek=57:1)	EngTitleSeparate	Psa.58:1.1=Exists	
-Psa.58:1.1	Psa.58:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 58:2.		(Hebrew=58:2 • Latin=57:2 • Greek=57:2)	EngTitleSeparate	Psa.58:1.1=Exists	
+Psa.58:1.0	Psa.58:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 58:1.		(Hebrew=58:1 • Latin=57:1 • Greek=57:1)	EngTitleSeparate	Psa.58:1.1=Exist	
+Psa.58:1.1	Psa.58:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 58:2.		(Hebrew=58:2 • Latin=57:2 • Greek=57:2)	EngTitleSeparate	Psa.58:1.1=Exist	
 Psa.57:1	Psa.58:1.0	Renumber verse	[57:1]	%Normally in this Bible the verse numbering here is% 57:1.		(Hebrew=58:1-2 • Latin=57:1-2 • Greek=57:1-2)	Latin+Greek	Psa.58:18=Last	
 Psa.57:2	Psa.58:1.1	Renumber verse	[57:2]	%Normally in this Bible the verse numbering here is% 57:2.		(Hebrew=58:1-2 • Latin=57:1-2 • Greek=57:1-2)	Latin+Greek	Psa.58:18=Last	
 Psa.58:2	Psa.58:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 58:3.		(Hebrew=58:3 • Latin=57:3 • Greek=57:3)	English	Psa.58:11=Last	
@@ -8437,8 +8437,8 @@ Psa.57:12	Psa.58:11	Renumber verse	[57:12]	%Normally in this Bible the verse num
 Psa.59:1	Psa.59:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 59:1-2.		(Hebrew=59:1-2 • Latin=58:1-2 • Greek=58:1-2)	English	Psa.59:17=Last	
 Psa.59:1	Psa.59:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 59:1.		(Hebrew=59:1-2 • Latin=58:1-2 • Greek=58:1-2)	Hebrew	Psa.59:18=Last	
 Psa.59:2	Psa.59:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 59:2.		(Hebrew=59:1-2 • Latin=58:1-2 • Greek=58:1-2)	Hebrew	Psa.59:18=Last	
-Psa.59:1.0	Psa.59:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 59:1.		(Hebrew=59:1 • Latin=58:1 • Greek=58:1)	EngTitleSeparate	Psa.59:1.1=Exists	
-Psa.59:1.1	Psa.59:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 59:2.		(Hebrew=59:2 • Latin=58:2 • Greek=58:2)	EngTitleSeparate	Psa.59:1.1=Exists	
+Psa.59:1.0	Psa.59:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 59:1.		(Hebrew=59:1 • Latin=58:1 • Greek=58:1)	EngTitleSeparate	Psa.59:1.1=Exist	
+Psa.59:1.1	Psa.59:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 59:2.		(Hebrew=59:2 • Latin=58:2 • Greek=58:2)	EngTitleSeparate	Psa.59:1.1=Exist	
 Psa.58:1	Psa.59:1.0	Renumber verse	[58:1]	%Normally in this Bible the verse numbering here is% 58:1.		(Hebrew=59:1-2 • Latin=58:1-2 • Greek=58:1-2)	Latin+Greek	Psa.59:14=Last	
 Psa.58:2	Psa.59:1.1	Renumber verse	[58:2]	%Normally in this Bible the verse numbering here is% 58:2.		(Hebrew=59:1-2 • Latin=58:1-2 • Greek=58:1-2)	Latin+Greek	Psa.59:14=Last	
 Psa.59:2	Psa.59:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 59:3.		(Hebrew=59:3 • Latin=58:3 • Greek=58:3)	English	Psa.59:17=Last	
@@ -8493,8 +8493,8 @@ Psa.60:1	Psa.60:1	Keep verse	[1-3]	%In some Bibles the verse numbering here is% 
 Psa.60:1	Psa.60:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 60:1.		(Hebrew=60:1-3 • Latin=59:1-3 • Greek=59:1-3)	Hebrew	Psa.60:14=Last	
 Psa.60:2	Psa.60:1.0	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 60:2.		(Hebrew=60:1-3 • Latin=59:1-3 • Greek=59:1-3)	Hebrew	Psa.60:14=Last	
 Psa.60:3	Psa.60:1.1	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 60:3.		(Hebrew=60:1-3 • Latin=59:1-3 • Greek=59:1-3)	Hebrew	Psa.60:14=Last	
-Psa.60:1.0	Psa.60:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 60:1-2.		(Hebrew=60:1-2 • Latin=59:1-2 • Greek=59:1-2)	EngTitleSeparate	Psa.60:1.1=Exists	
-Psa.60:1.1	Psa.60:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 60:3.		(Hebrew=60:3 • Latin=59:3 • Greek=59:3)	EngTitleSeparate	Psa.60:1.1=Exists	
+Psa.60:1.0	Psa.60:1.0	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 60:1-2.		(Hebrew=60:1-2 • Latin=59:1-2 • Greek=59:1-2)	EngTitleSeparate	Psa.60:1.1=Exist	
+Psa.60:1.1	Psa.60:1.1	Keep verse	[3]	%In some Bibles the verse numbering here is% 60:3.		(Hebrew=60:3 • Latin=59:3 • Greek=59:3)	EngTitleSeparate	Psa.60:1.1=Exist	
 Psa.59:1	Psa.60:1.0	Renumber verse	[59:1]	%Normally in this Bible the verse numbering here is% 59:1.		(Hebrew=60:1-3 • Latin=59:1-3 • Greek=59:1-3)	Latin+Greek	Psa.60:9=Last	
 Psa.59:2	Psa.60:1.0	Renumber verse	[59:2]	%Normally in this Bible the verse numbering here is% 59:2.		(Hebrew=60:1-3 • Latin=59:1-3 • Greek=59:1-3)	Latin+Greek	Psa.60:9=Last	
 Psa.59:3	Psa.60:1.1	Renumber verse	[59:3]	%Normally in this Bible the verse numbering here is% 59:3.		(Hebrew=60:1-3 • Latin=59:1-3 • Greek=59:1-3)	Latin+Greek	Psa.60:9=Last	
@@ -8534,8 +8534,8 @@ Psa.59:14	Psa.60:12	Renumber verse	[59:14]	%Normally in this Bible the verse num
 Psa.61:1	Psa.61:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 61:1-2.		(Hebrew=61:1-2 • Latin=60:1-2 • Greek=60:1-2)	English	Psa.61:8=Last	
 Psa.61:1	Psa.61:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 61:1.		(Hebrew=61:1-2 • Latin=60:1-2 • Greek=60:1-2)	Hebrew	Psa.61:9=Last	
 Psa.61:2	Psa.61:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 61:2.		(Hebrew=61:1-2 • Latin=60:1-2 • Greek=60:1-2)	Hebrew	Psa.61:9=Last	
-Psa.61:1.0	Psa.61:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 61:1.		(Hebrew=61:1 • Latin=60:1 • Greek=60:1)	EngTitleSeparate	Psa.61:1.1=Exists	
-Psa.61:1.1	Psa.61:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 61:2.		(Hebrew=61:2 • Latin=60:2 • Greek=60:2)	EngTitleSeparate	Psa.61:1.1=Exists	
+Psa.61:1.0	Psa.61:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 61:1.		(Hebrew=61:1 • Latin=60:1 • Greek=60:1)	EngTitleSeparate	Psa.61:1.1=Exist	
+Psa.61:1.1	Psa.61:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 61:2.		(Hebrew=61:2 • Latin=60:2 • Greek=60:2)	EngTitleSeparate	Psa.61:1.1=Exist	
 Psa.60:1	Psa.61:1.0	Renumber verse	[60:1]	%Normally in this Bible the verse numbering here is% 60:1.		(Hebrew=61:1-2 • Latin=60:1-2 • Greek=60:1-2)	Latin+Greek	Psa.61:13=Last	
 Psa.60:2	Psa.61:1.1	Renumber verse	[60:2]	%Normally in this Bible the verse numbering here is% 60:2.		(Hebrew=61:1-2 • Latin=60:1-2 • Greek=60:1-2)	Latin+Greek	Psa.61:13=Last	
 Psa.61:2	Psa.61:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 61:3.		(Hebrew=61:3 • Latin=60:3 • Greek=60:3)	English	Psa.61:8=Last	
@@ -8562,8 +8562,8 @@ Psa.60:9	Psa.61:8	Renumber verse	[60:9]	%Normally in this Bible the verse number
 Psa.62:1	Psa.62:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 62:1-2.		(Hebrew=62:1-2 • Latin=61:1-2 • Greek=61:1-2)	English	Psa.64:10=Last	
 Psa.62:1	Psa.62:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 62:1.		(Hebrew=62:1-2 • Latin=61:1-2 • Greek=61:1-2)	Hebrew	Psa.64:11=Last	
 Psa.62:2	Psa.62:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 62:2.		(Hebrew=62:1-2 • Latin=61:1-2 • Greek=61:1-2)	Hebrew	Psa.64:11=Last	
-Psa.62:1.0	Psa.62:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 62:1.		(Hebrew=62:1 • Latin=61:1 • Greek=61:1)	EngTitleSeparate	Psa.62:1.1=Exists	
-Psa.62:1.1	Psa.62:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 62:2.		(Hebrew=62:2 • Latin=61:2 • Greek=61:2)	EngTitleSeparate	Psa.62:1.1=Exists	
+Psa.62:1.0	Psa.62:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 62:1.		(Hebrew=62:1 • Latin=61:1 • Greek=61:1)	EngTitleSeparate	Psa.62:1.1=Exist	
+Psa.62:1.1	Psa.62:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 62:2.		(Hebrew=62:2 • Latin=61:2 • Greek=61:2)	EngTitleSeparate	Psa.62:1.1=Exist	
 Psa.61:1	Psa.62:1.0	Renumber verse	[61:1]	%Normally in this Bible the verse numbering here is% 61:1.		(Hebrew=62:1-2 • Latin=61:1-2 • Greek=61:1-2)	Latin+Greek	Psa.64:14=Last	
 Psa.61:2	Psa.62:1.1	Renumber verse	[61:2]	%Normally in this Bible the verse numbering here is% 61:2.		(Hebrew=62:1-2 • Latin=61:1-2 • Greek=61:1-2)	Latin+Greek	Psa.64:14=Last	
 Psa.62:2	Psa.62:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 62:3.		(Hebrew=62:3 • Latin=61:3 • Greek=61:3)	English	Psa.64:10=Last	
@@ -8602,8 +8602,8 @@ Psa.61:13	Psa.62:12	Renumber verse	[61:13]	%Normally in this Bible the verse num
 Psa.63:1	Psa.63:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 63:1-2.		(Hebrew=63:1-2 • Latin=62:1-2 • Greek=62:1-2)	English	Psa.64:10=Last	
 Psa.63:1	Psa.63:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 63:1.		(Hebrew=63:1-2 • Latin=62:1-2 • Greek=62:1-2)	Hebrew	Psa.64:11=Last	
 Psa.63:2	Psa.63:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 63:2.		(Hebrew=63:1-2 • Latin=62:1-2 • Greek=62:1-2)	Hebrew	Psa.64:11=Last	
-Psa.63:1.0	Psa.63:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 63:1.		(Hebrew=63:1 • Latin=62:1 • Greek=62:1)	EngTitleSeparate	Psa.63:1.1=Exists	
-Psa.63:1.1	Psa.63:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 63:2.		(Hebrew=63:2 • Latin=62:2 • Greek=62:2)	EngTitleSeparate	Psa.63:1.1=Exists	
+Psa.63:1.0	Psa.63:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 63:1.		(Hebrew=63:1 • Latin=62:1 • Greek=62:1)	EngTitleSeparate	Psa.63:1.1=Exist	
+Psa.63:1.1	Psa.63:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 63:2.		(Hebrew=63:2 • Latin=62:2 • Greek=62:2)	EngTitleSeparate	Psa.63:1.1=Exist	
 Psa.62:1	Psa.63:1.0	Renumber verse	[62:1]	%Normally in this Bible the verse numbering here is% 62:1.		(Hebrew=63:1-2 • Latin=62:1-2 • Greek=62:1-2)	Latin+Greek	Psa.64:14=Last	
 Psa.62:2	Psa.63:1.1	Renumber verse	[62:2]	%Normally in this Bible the verse numbering here is% 62:2.		(Hebrew=63:1-2 • Latin=62:1-2 • Greek=62:1-2)	Latin+Greek	Psa.64:14=Last	
 Psa.63:2	Psa.63:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 63:3.		(Hebrew=63:3 • Latin=62:3 • Greek=62:3)	English	Psa.64:10=Last	
@@ -8639,8 +8639,8 @@ Psa.62:12	Psa.63:11	Renumber verse	[62:12]	%Normally in this Bible the verse num
 Psa.64:1	Psa.64:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 64:1-2.		(Hebrew=64:1-2 • Latin=63:1-2 • Greek=63:1-2)	English	Psa.64:10=Last	
 Psa.64:1	Psa.64:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 64:1.		(Hebrew=64:1-2 • Latin=63:1-2 • Greek=63:1-2)	Hebrew	Psa.64:11=Last	
 Psa.64:2	Psa.64:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 64:2.		(Hebrew=64:1-2 • Latin=63:1-2 • Greek=63:1-2)	Hebrew	Psa.64:11=Last	
-Psa.64:1.0	Psa.64:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 64:1.		(Hebrew=64:1 • Latin=63:1 • Greek=63:1)	EngTitleSeparate	Psa.64:1.1=Exists	
-Psa.64:1.1	Psa.64:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 64:2.		(Hebrew=64:2 • Latin=63:2 • Greek=63:2)	EngTitleSeparate	Psa.64:1.1=Exists	
+Psa.64:1.0	Psa.64:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 64:1.		(Hebrew=64:1 • Latin=63:1 • Greek=63:1)	EngTitleSeparate	Psa.64:1.1=Exist	
+Psa.64:1.1	Psa.64:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 64:2.		(Hebrew=64:2 • Latin=63:2 • Greek=63:2)	EngTitleSeparate	Psa.64:1.1=Exist	
 Psa.63:1	Psa.64:1.0	Renumber verse	[63:1]	%Normally in this Bible the verse numbering here is% 63:1.		(Hebrew=64:1-2 • Latin=63:1-2 • Greek=63:1-2)	Latin+Greek	Psa.64:14=Last	
 Psa.63:2	Psa.64:1.1	Renumber verse	[63:2]	%Normally in this Bible the verse numbering here is% 63:2.		(Hebrew=64:1-2 • Latin=63:1-2 • Greek=63:1-2)	Latin+Greek	Psa.64:14=Last	
 Psa.64:2	Psa.64:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 64:3.		(Hebrew=64:3 • Latin=63:3 • Greek=63:3)	English	Psa.64:10=Last	
@@ -8673,8 +8673,8 @@ Psa.63:11	Psa.64:10	Renumber verse	[63:11]	%Normally in this Bible the verse num
 Psa.65:1	Psa.65:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 65:1-2.		(Hebrew=65:1-2 • Latin=64:1-2 • Greek=64:1-2)	English	Psa.65:13=Last	
 Psa.65:1	Psa.65:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 65:1.		(Hebrew=65:1-2 • Latin=64:1-2 • Greek=64:1-2)	Hebrew	Psa.65:14=Last	
 Psa.65:2	Psa.65:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 65:2.		(Hebrew=65:1-2 • Latin=64:1-2 • Greek=64:1-2)	Hebrew	Psa.65:14=Last	
-Psa.65:1.0	Psa.65:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 65:1.		(Hebrew=65:1 • Latin=64:1 • Greek=64:1)	EngTitleSeparate	Psa.65:1.1=Exists	
-Psa.65:1.1	Psa.65:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 65:2.		(Hebrew=65:2 • Latin=64:2 • Greek=64:2)	EngTitleSeparate	Psa.65:1.1=Exists	
+Psa.65:1.0	Psa.65:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 65:1.		(Hebrew=65:1 • Latin=64:1 • Greek=64:1)	EngTitleSeparate	Psa.65:1.1=Exist	
+Psa.65:1.1	Psa.65:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 65:2.		(Hebrew=65:2 • Latin=64:2 • Greek=64:2)	EngTitleSeparate	Psa.65:1.1=Exist	
 Psa.64:1	Psa.65:1.0	Renumber verse	[64:1]	%Normally in this Bible the verse numbering here is% 64:1.		(Hebrew=65:1-2 • Latin=64:1-2 • Greek=64:1-2)	Latin+Greek	Psa.65:20=Last	
 Psa.64:2	Psa.65:1.1	Renumber verse	[64:2]	%Normally in this Bible the verse numbering here is% 64:2.		(Hebrew=65:1-2 • Latin=64:1-2 • Greek=64:1-2)	Latin+Greek	Psa.65:20=Last	
 Psa.65:2	Psa.65:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 65:3.		(Hebrew=65:3 • Latin=64:3 • Greek=64:3)	English	Psa.65:13=Last	
@@ -8756,8 +8756,8 @@ Psa.65:20	Psa.66:20	Renumber verse	[65:20]	%Normally in this Bible the verse num
 Psa.67:1	Psa.67:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 67:1-2.		(Hebrew=67:1-2 • Latin=66:1-2 • Greek=66:1-2)	English	Psa.67:7=Last	
 Psa.67:1	Psa.67:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 67:1.		(Hebrew=67:1-2 • Latin=66:1-2 • Greek=66:1-2)	Hebrew	Psa.67:8=Last	
 Psa.67:2	Psa.67:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 67:2.		(Hebrew=67:1-2 • Latin=66:1-2 • Greek=66:1-2)	Hebrew	Psa.67:8=Last	
-Psa.67:1.0	Psa.67:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 67:1.		(Hebrew=67:1 • Latin=66:1 • Greek=66:1)	EngTitleSeparate	Psa.67:1.1=Exists	
-Psa.67:1.1	Psa.67:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 67:2.		(Hebrew=67:2 • Latin=66:2 • Greek=66:2)	EngTitleSeparate	Psa.67:1.1=Exists	
+Psa.67:1.0	Psa.67:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 67:1.		(Hebrew=67:1 • Latin=66:1 • Greek=66:1)	EngTitleSeparate	Psa.67:1.1=Exist	
+Psa.67:1.1	Psa.67:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 67:2.		(Hebrew=67:2 • Latin=66:2 • Greek=66:2)	EngTitleSeparate	Psa.67:1.1=Exist	
 Psa.66:1	Psa.67:1.0	Renumber verse	[66:1]	%Normally in this Bible the verse numbering here is% 66:1.		(Hebrew=67:1-2 • Latin=66:1-2 • Greek=66:1-2)	Latin+Greek	Psa.67:36=Last	
 Psa.66:2	Psa.67:1.1	Renumber verse	[66:2]	%Normally in this Bible the verse numbering here is% 66:2.		(Hebrew=67:1-2 • Latin=66:1-2 • Greek=66:1-2)	Latin+Greek	Psa.67:36=Last	
 Psa.67:2	Psa.67:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 67:3.		(Hebrew=67:3 • Latin=66:3 • Greek=66:3)	English	Psa.67:7=Last	
@@ -8781,8 +8781,8 @@ Psa.66:8	Psa.67:7	Renumber verse	[66:8]	%Normally in this Bible the verse number
 Psa.68:1	Psa.68:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 68:1-2.		(Hebrew=68:1-2 • Latin=67:1-2 • Greek=67:1-2)	English	Psa.68:35=Last	
 Psa.68:1	Psa.68:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 68:1.		(Hebrew=68:1-2 • Latin=67:1-2 • Greek=67:1-2)	Hebrew	Psa.68:36=Last	
 Psa.68:2	Psa.68:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 68:2.		(Hebrew=68:1-2 • Latin=67:1-2 • Greek=67:1-2)	Hebrew	Psa.68:36=Last	
-Psa.68:1.0	Psa.68:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 68:1.		(Hebrew=68:1 • Latin=67:1 • Greek=67:1)	EngTitleSeparate	Psa.68:1.1=Exists	
-Psa.68:1.1	Psa.68:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 68:2.		(Hebrew=68:2 • Latin=67:2 • Greek=67:2)	EngTitleSeparate	Psa.68:1.1=Exists	
+Psa.68:1.0	Psa.68:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 68:1.		(Hebrew=68:1 • Latin=67:1 • Greek=67:1)	EngTitleSeparate	Psa.68:1.1=Exist	
+Psa.68:1.1	Psa.68:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 68:2.		(Hebrew=68:2 • Latin=67:2 • Greek=67:2)	EngTitleSeparate	Psa.68:1.1=Exist	
 Psa.67:1	Psa.68:1.0	Renumber verse	[67:1]	%Normally in this Bible the verse numbering here is% 67:1.		(Hebrew=68:1-2 • Latin=67:1-2 • Greek=67:1-2)	Latin+Greek	Psa.68:37=Last	
 Psa.67:2	Psa.68:1.1	Renumber verse	[67:2]	%Normally in this Bible the verse numbering here is% 67:2.		(Hebrew=68:1-2 • Latin=67:1-2 • Greek=67:1-2)	Latin+Greek	Psa.68:37=Last	
 Psa.68:2	Psa.68:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 68:3.		(Hebrew=68:3 • Latin=67:3 • Greek=67:3)	English	Psa.68:35=Last	
@@ -8890,8 +8890,8 @@ Psa.67:36	Psa.68:35	Renumber verse	[67:36]	%Normally in this Bible the verse num
 Psa.69:1	Psa.69:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 69:1-2.		(Hebrew=69:1-2 • Latin=68:1-2 • Greek=68:1-2)	English	Psa.69:36=Last	
 Psa.69:1	Psa.69:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 69:1.		(Hebrew=69:1-2 • Latin=68:1-2 • Greek=68:1-2)	Hebrew	Psa.69:37=Last	
 Psa.69:2	Psa.69:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 69:2.		(Hebrew=69:1-2 • Latin=68:1-2 • Greek=68:1-2)	Hebrew	Psa.69:37=Last	
-Psa.69:1.0	Psa.69:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 69:1.		(Hebrew=69:1 • Latin=68:1 • Greek=68:1)	EngTitleSeparate	Psa.69:1.1=Exists	
-Psa.69:1.1	Psa.69:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 69:2.		(Hebrew=69:2 • Latin=68:2 • Greek=68:2)	EngTitleSeparate	Psa.69:1.1=Exists	
+Psa.69:1.0	Psa.69:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 69:1.		(Hebrew=69:1 • Latin=68:1 • Greek=68:1)	EngTitleSeparate	Psa.69:1.1=Exist	
+Psa.69:1.1	Psa.69:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 69:2.		(Hebrew=69:2 • Latin=68:2 • Greek=68:2)	EngTitleSeparate	Psa.69:1.1=Exist	
 Psa.68:1	Psa.69:1.0	Renumber verse	[68:1]	%Normally in this Bible the verse numbering here is% 68:1.		(Hebrew=69:1-2 • Latin=68:1-2 • Greek=68:1-2)	Latin+Greek	Psa.69:6=Last	
 Psa.68:2	Psa.69:1.1	Renumber verse	[68:2]	%Normally in this Bible the verse numbering here is% 68:2.		(Hebrew=69:1-2 • Latin=68:1-2 • Greek=68:1-2)	Latin+Greek	Psa.69:6=Last	
 Psa.69:2	Psa.69:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 69:3.		(Hebrew=69:3 • Latin=68:3 • Greek=68:3)	English	Psa.69:36=Last	
@@ -9002,8 +9002,8 @@ Psa.68:37	Psa.69:36	Renumber verse	[68:37]	%Normally in this Bible the verse num
 Psa.70:1	Psa.70:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 70:1-2.		(Hebrew=70:1-2 • Latin=69:1-2 • Greek=69:1-2)	English	Psa.70:5=Last	
 Psa.70:1	Psa.70:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 70:1.		(Hebrew=70:1-2 • Latin=69:1-2 • Greek=69:1-2)	Hebrew	Psa.70:6=Last	
 Psa.70:2	Psa.70:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 70:2.		(Hebrew=70:1-2 • Latin=69:1-2 • Greek=69:1-2)	Hebrew	Psa.70:6=Last	
-Psa.70:1.0	Psa.70:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 70:1.		(Hebrew=70:1 • Latin=69:1 • Greek=69:1)	EngTitleSeparate	Psa.70:1.1=Exists	
-Psa.70:1.1	Psa.70:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 70:2.		(Hebrew=70:2 • Latin=69:2 • Greek=69:2)	EngTitleSeparate	Psa.70:1.1=Exists	
+Psa.70:1.0	Psa.70:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 70:1.		(Hebrew=70:1 • Latin=69:1 • Greek=69:1)	EngTitleSeparate	Psa.70:1.1=Exist	
+Psa.70:1.1	Psa.70:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 70:2.		(Hebrew=70:2 • Latin=69:2 • Greek=69:2)	EngTitleSeparate	Psa.70:1.1=Exist	
 Psa.69:1	Psa.70:1.0	Renumber verse	[69:1]	%Normally in this Bible the verse numbering here is% 69:1.		(Hebrew=70:1-2 • Latin=69:1-2 • Greek=69:1-2)	Latin+Greek	Psa.70:24=Last	
 Psa.69:2	Psa.70:1.1	Renumber verse	[69:2]	%Normally in this Bible the verse numbering here is% 69:2.		(Hebrew=70:1-2 • Latin=69:1-2 • Greek=69:1-2)	Latin+Greek	Psa.70:24=Last	
 Psa.70:2	Psa.70:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 70:3.		(Hebrew=70:3 • Latin=69:3 • Greek=69:3)	English	Psa.70:5=Last	
@@ -9211,8 +9211,8 @@ Psa.73:23	Psa.74:23	Renumber verse	[73:23]	%Normally in this Bible the verse num
 Psa.75:1	Psa.75:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 75:1-2.		(Hebrew=75:1-2 • Latin=74:1-2 • Greek=74:1-2)	English	Psa.75:10=Last	
 Psa.75:1	Psa.75:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 75:1.		(Hebrew=75:1-2 • Latin=74:1-2 • Greek=74:1-2)	Hebrew	Psa.75:11=Last	
 Psa.75:2	Psa.75:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 75:2.		(Hebrew=75:1-2 • Latin=74:1-2 • Greek=74:1-2)	Hebrew	Psa.75:11=Last	
-Psa.75:1.0	Psa.75:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 75:1.		(Hebrew=75:1 • Latin=74:1 • Greek=74:1)	EngTitleSeparate	Psa.75:1.1=Exists	
-Psa.75:1.1	Psa.75:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 75:2.		(Hebrew=75:2 • Latin=74:2 • Greek=74:2)	EngTitleSeparate	Psa.75:1.1=Exists	
+Psa.75:1.0	Psa.75:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 75:1.		(Hebrew=75:1 • Latin=74:1 • Greek=74:1)	EngTitleSeparate	Psa.75:1.1=Exist	
+Psa.75:1.1	Psa.75:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 75:2.		(Hebrew=75:2 • Latin=74:2 • Greek=74:2)	EngTitleSeparate	Psa.75:1.1=Exist	
 Psa.74:1	Psa.75:1.0	Renumber verse	[74:1]	%Normally in this Bible the verse numbering here is% 74:1.		(Hebrew=75:1-2 • Latin=74:1-2 • Greek=74:1-2)	Latin+Greek	Psa.75:13=Last	
 Psa.74:2	Psa.75:1.1	Renumber verse	[74:2]	%Normally in this Bible the verse numbering here is% 74:2.		(Hebrew=75:1-2 • Latin=74:1-2 • Greek=74:1-2)	Latin+Greek	Psa.75:13=Last	
 Psa.75:2	Psa.75:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 75:3.		(Hebrew=75:3 • Latin=74:3 • Greek=74:3)	English	Psa.75:10=Last	
@@ -9245,8 +9245,8 @@ Psa.74:11	Psa.75:10	Renumber verse	[74:11]	%Normally in this Bible the verse num
 Psa.76:1	Psa.76:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 76:1-2.		(Hebrew=76:1-2 • Latin=75:1-2 • Greek=75:1-2)	English	Psa.76:12=Last	
 Psa.76:1	Psa.76:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 76:1.		(Hebrew=76:1-2 • Latin=75:1-2 • Greek=75:1-2)	Hebrew	Psa.76:13=Last	
 Psa.76:2	Psa.76:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 76:2.		(Hebrew=76:1-2 • Latin=75:1-2 • Greek=75:1-2)	Hebrew	Psa.76:13=Last	
-Psa.76:1.0	Psa.76:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 76:1.		(Hebrew=76:1 • Latin=75:1 • Greek=75:1)	EngTitleSeparate	Psa.76:1.1=Exists	
-Psa.76:1.1	Psa.76:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 76:2.		(Hebrew=76:2 • Latin=75:2 • Greek=75:2)	EngTitleSeparate	Psa.76:1.1=Exists	
+Psa.76:1.0	Psa.76:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 76:1.		(Hebrew=76:1 • Latin=75:1 • Greek=75:1)	EngTitleSeparate	Psa.76:1.1=Exist	
+Psa.76:1.1	Psa.76:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 76:2.		(Hebrew=76:2 • Latin=75:2 • Greek=75:2)	EngTitleSeparate	Psa.76:1.1=Exist	
 Psa.75:1	Psa.76:1.0	Renumber verse	[75:1]	%Normally in this Bible the verse numbering here is% 75:1.		(Hebrew=76:1-2 • Latin=75:1-2 • Greek=75:1-2)	Latin+Greek	Psa.76:21=Last	
 Psa.75:2	Psa.76:1.1	Renumber verse	[75:2]	%Normally in this Bible the verse numbering here is% 75:2.		(Hebrew=76:1-2 • Latin=75:1-2 • Greek=75:1-2)	Latin+Greek	Psa.76:21=Last	
 Psa.76:2	Psa.76:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 76:3.		(Hebrew=76:3 • Latin=75:3 • Greek=75:3)	English	Psa.76:12=Last	
@@ -9285,8 +9285,8 @@ Psa.75:13	Psa.76:12	Renumber verse	[75:13]	%Normally in this Bible the verse num
 Psa.77:1	Psa.77:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 77:1-2.		(Hebrew=77:1-2 • Latin=76:1-2 • Greek=76:1-2)	English	Psa.77:20=Last	
 Psa.77:1	Psa.77:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 77:1.		(Hebrew=77:1-2 • Latin=76:1-2 • Greek=76:1-2)	Hebrew	Psa.77:21=Last	
 Psa.77:2	Psa.77:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 77:2.		(Hebrew=77:1-2 • Latin=76:1-2 • Greek=76:1-2)	Hebrew	Psa.77:21=Last	
-Psa.77:1.0	Psa.77:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 77:1.		(Hebrew=77:1 • Latin=76:1 • Greek=76:1)	EngTitleSeparate	Psa.77:1.1=Exists	
-Psa.77:1.1	Psa.77:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 77:2.		(Hebrew=77:2 • Latin=76:2 • Greek=76:2)	EngTitleSeparate	Psa.77:1.1=Exists	
+Psa.77:1.0	Psa.77:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 77:1.		(Hebrew=77:1 • Latin=76:1 • Greek=76:1)	EngTitleSeparate	Psa.77:1.1=Exist	
+Psa.77:1.1	Psa.77:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 77:2.		(Hebrew=77:2 • Latin=76:2 • Greek=76:2)	EngTitleSeparate	Psa.77:1.1=Exist	
 Psa.76:1	Psa.77:1.0	Renumber verse	[76:1]	%Normally in this Bible the verse numbering here is% 76:1.		(Hebrew=77:1-2 • Latin=76:1-2 • Greek=76:1-2)	Latin+Greek	Psa.77:72=Last	
 Psa.76:2	Psa.77:1.1	Renumber verse	[76:2]	%Normally in this Bible the verse numbering here is% 76:2.		(Hebrew=77:1-2 • Latin=76:1-2 • Greek=76:1-2)	Latin+Greek	Psa.77:72=Last	
 Psa.77:2	Psa.77:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 77:3.		(Hebrew=77:3 • Latin=76:3 • Greek=76:3)	English	Psa.77:20=Last	
@@ -9519,8 +9519,8 @@ Psa.78:13	Psa.79:13	Renumber verse	[78:13]	%Normally in this Bible the verse num
 Psa.80:1	Psa.80:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 80:1-2.		(Hebrew=80:1-2 • Latin=79:1-2 • Greek=79:1-2)	English	Psa.80:19=Last	
 Psa.80:1	Psa.80:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 80:1.		(Hebrew=80:1-2 • Latin=79:1-2 • Greek=79:1-2)	Hebrew	Psa.80:20=Last	
 Psa.80:2	Psa.80:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 80:2.		(Hebrew=80:1-2 • Latin=79:1-2 • Greek=79:1-2)	Hebrew	Psa.80:20=Last	
-Psa.80:1.0	Psa.80:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 80:1.		(Hebrew=80:1 • Latin=79:1 • Greek=79:1)	EngTitleSeparate	Psa.80:1.1=Exists	
-Psa.80:1.1	Psa.80:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 80:2.		(Hebrew=80:2 • Latin=79:2 • Greek=79:2)	EngTitleSeparate	Psa.80:1.1=Exists	
+Psa.80:1.0	Psa.80:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 80:1.		(Hebrew=80:1 • Latin=79:1 • Greek=79:1)	EngTitleSeparate	Psa.80:1.1=Exist	
+Psa.80:1.1	Psa.80:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 80:2.		(Hebrew=80:2 • Latin=79:2 • Greek=79:2)	EngTitleSeparate	Psa.80:1.1=Exist	
 Psa.79:1	Psa.80:1.0	Renumber verse	[79:1]	%Normally in this Bible the verse numbering here is% 79:1.		(Hebrew=80:1-2 • Latin=79:1-2 • Greek=79:1-2)	Latin+Greek	Psa.80:17=Last	
 Psa.79:2	Psa.80:1.1	Renumber verse	[79:2]	%Normally in this Bible the verse numbering here is% 79:2.		(Hebrew=80:1-2 • Latin=79:1-2 • Greek=79:1-2)	Latin+Greek	Psa.80:17=Last	
 Psa.80:2	Psa.80:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 80:3.		(Hebrew=80:3 • Latin=79:3 • Greek=79:3)	English	Psa.80:19=Last	
@@ -9580,8 +9580,8 @@ Psa.79:20	Psa.80:19	Renumber verse	[79:20]	%Normally in this Bible the verse num
 Psa.81:1	Psa.81:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 81:1-2.		(Hebrew=81:1-2 • Latin=80:1-2 • Greek=80:1-2)	English	Psa.81:16=Last	
 Psa.81:1	Psa.81:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 81:1.		(Hebrew=81:1-2 • Latin=80:1-2 • Greek=80:1-2)	Hebrew	Psa.81:17=Last	
 Psa.81:2	Psa.81:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 81:2.		(Hebrew=81:1-2 • Latin=80:1-2 • Greek=80:1-2)	Hebrew	Psa.81:17=Last	
-Psa.81:1.0	Psa.81:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 81:1.		(Hebrew=81:1 • Latin=80:1 • Greek=80:1)	EngTitleSeparate	Psa.81:1.1=Exists	
-Psa.81:1.1	Psa.81:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 81:2.		(Hebrew=81:2 • Latin=80:2 • Greek=80:2)	EngTitleSeparate	Psa.81:1.1=Exists	
+Psa.81:1.0	Psa.81:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 81:1.		(Hebrew=81:1 • Latin=80:1 • Greek=80:1)	EngTitleSeparate	Psa.81:1.1=Exist	
+Psa.81:1.1	Psa.81:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 81:2.		(Hebrew=81:2 • Latin=80:2 • Greek=80:2)	EngTitleSeparate	Psa.81:1.1=Exist	
 Psa.80:1	Psa.81:1.0	Renumber verse	[80:1]	%Normally in this Bible the verse numbering here is% 80:1.		(Hebrew=81:1-2 • Latin=80:1-2 • Greek=80:1-2)	Latin+Greek	Psa.81:8=Last	
 Psa.80:2	Psa.81:1.1	Renumber verse	[80:2]	%Normally in this Bible the verse numbering here is% 80:2.		(Hebrew=81:1-2 • Latin=80:1-2 • Greek=80:1-2)	Latin+Greek	Psa.81:8=Last	
 Psa.81:2	Psa.81:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 81:3.		(Hebrew=81:3 • Latin=80:3 • Greek=80:3)	English	Psa.81:16=Last	
@@ -9648,8 +9648,8 @@ Psa.81:8	Psa.82:8	Renumber verse	[81:8]	%Normally in this Bible the verse number
 Psa.83:1	Psa.83:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 83:1-2.		(Hebrew=83:1-2 • Latin=82:1-2 • Greek=82:1-2)	English	Psa.83:18=Last	
 Psa.83:1	Psa.83:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 83:1.		(Hebrew=83:1-2 • Latin=82:1-2 • Greek=82:1-2)	Hebrew	Psa.83:19=Last	
 Psa.83:2	Psa.83:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 83:2.		(Hebrew=83:1-2 • Latin=82:1-2 • Greek=82:1-2)	Hebrew	Psa.83:19=Last	
-Psa.83:1.0	Psa.83:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 83:1.		(Hebrew=83:1 • Latin=82:1 • Greek=82:1)	EngTitleSeparate	Psa.83:1.1=Exists	
-Psa.83:1.1	Psa.83:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 83:2.		(Hebrew=83:2 • Latin=82:2 • Greek=82:2)	EngTitleSeparate	Psa.83:1.1=Exists	
+Psa.83:1.0	Psa.83:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 83:1.		(Hebrew=83:1 • Latin=82:1 • Greek=82:1)	EngTitleSeparate	Psa.83:1.1=Exist	
+Psa.83:1.1	Psa.83:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 83:2.		(Hebrew=83:2 • Latin=82:2 • Greek=82:2)	EngTitleSeparate	Psa.83:1.1=Exist	
 Psa.82:1	Psa.83:1.0	Renumber verse	[82:1]	%Normally in this Bible the verse numbering here is% 82:1.		(Hebrew=83:1-2 • Latin=82:1-2 • Greek=82:1-2)	Latin+Greek	Psa.83:13=Last	
 Psa.82:2	Psa.83:1.1	Renumber verse	[82:2]	%Normally in this Bible the verse numbering here is% 82:2.		(Hebrew=83:1-2 • Latin=82:1-2 • Greek=82:1-2)	Latin+Greek	Psa.83:13=Last	
 Psa.83:2	Psa.83:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 83:3.		(Hebrew=83:3 • Latin=82:3 • Greek=82:3)	English	Psa.83:18=Last	
@@ -9706,8 +9706,8 @@ Psa.82:19	Psa.83:18	Renumber verse	[82:19]	%Normally in this Bible the verse num
 Psa.84:1	Psa.84:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 84:1-2.		(Hebrew=84:1-2 • Latin=83:1-2 • Greek=83:1-2)	English	Psa.84:12=Last	
 Psa.84:1	Psa.84:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 84:1.		(Hebrew=84:1-2 • Latin=83:1-2 • Greek=83:1-2)	Hebrew	Psa.84:13=Last	
 Psa.84:2	Psa.84:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 84:2.		(Hebrew=84:1-2 • Latin=83:1-2 • Greek=83:1-2)	Hebrew	Psa.84:13=Last	
-Psa.84:1.0	Psa.84:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 84:1.		(Hebrew=84:1 • Latin=83:1 • Greek=83:1)	EngTitleSeparate	Psa.84:1.1=Exists	
-Psa.84:1.1	Psa.84:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 84:2.		(Hebrew=84:2 • Latin=83:2 • Greek=83:2)	EngTitleSeparate	Psa.84:1.1=Exists	
+Psa.84:1.0	Psa.84:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 84:1.		(Hebrew=84:1 • Latin=83:1 • Greek=83:1)	EngTitleSeparate	Psa.84:1.1=Exist	
+Psa.84:1.1	Psa.84:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 84:2.		(Hebrew=84:2 • Latin=83:2 • Greek=83:2)	EngTitleSeparate	Psa.84:1.1=Exist	
 Psa.83:1	Psa.84:1.0	Renumber verse	[83:1]	%Normally in this Bible the verse numbering here is% 83:1.		(Hebrew=84:1-2 • Latin=83:1-2 • Greek=83:1-2)	Latin+Greek	Psa.84:14=Last	
 Psa.83:2	Psa.84:1.1	Renumber verse	[83:2]	%Normally in this Bible the verse numbering here is% 83:2.		(Hebrew=84:1-2 • Latin=83:1-2 • Greek=83:1-2)	Latin+Greek	Psa.84:14=Last	
 Psa.84:2	Psa.84:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 84:3.		(Hebrew=84:3 • Latin=83:3 • Greek=83:3)	English	Psa.84:12=Last	
@@ -9746,8 +9746,8 @@ Psa.83:13	Psa.84:12	Renumber verse	[83:13]	%Normally in this Bible the verse num
 Psa.85:1	Psa.85:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 85:1-2.		(Hebrew=85:1-2 • Latin=84:1-2 • Greek=84:1-2)	English	Psa.85:13=Last	
 Psa.85:1	Psa.85:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 85:1.		(Hebrew=85:1-2 • Latin=84:1-2 • Greek=84:1-2)	Hebrew	Psa.85:14=Last	
 Psa.85:2	Psa.85:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 85:2.		(Hebrew=85:1-2 • Latin=84:1-2 • Greek=84:1-2)	Hebrew	Psa.85:14=Last	
-Psa.85:1.0	Psa.85:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 85:1.		(Hebrew=85:1 • Latin=84:1 • Greek=84:1)	EngTitleSeparate	Psa.85:1.1=Exists	
-Psa.85:1.1	Psa.85:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 85:2.		(Hebrew=85:2 • Latin=84:2 • Greek=84:2)	EngTitleSeparate	Psa.85:1.1=Exists	
+Psa.85:1.0	Psa.85:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 85:1.		(Hebrew=85:1 • Latin=84:1 • Greek=84:1)	EngTitleSeparate	Psa.85:1.1=Exist	
+Psa.85:1.1	Psa.85:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 85:2.		(Hebrew=85:2 • Latin=84:2 • Greek=84:2)	EngTitleSeparate	Psa.85:1.1=Exist	
 Psa.84:1	Psa.85:1.0	Renumber verse	[84:1]	%Normally in this Bible the verse numbering here is% 84:1.		(Hebrew=85:1-2 • Latin=84:1-2 • Greek=84:1-2)	Latin+Greek	Psa.85:17=Last	
 Psa.84:2	Psa.85:1.1	Renumber verse	[84:2]	%Normally in this Bible the verse numbering here is% 84:2.		(Hebrew=85:1-2 • Latin=84:1-2 • Greek=84:1-2)	Latin+Greek	Psa.85:17=Last	
 Psa.85:2	Psa.85:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 85:3.		(Hebrew=85:3 • Latin=84:3 • Greek=84:3)	English	Psa.85:13=Last	
@@ -9837,8 +9837,8 @@ Psa.86:7	Psa.87:7	Renumber verse	[86:7]	%Normally in this Bible the verse number
 Psa.88:1	Psa.88:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 88:1-2.		(Hebrew=88:1-2 • Latin=87:1-2 • Greek=87:1-2)	English	Psa.88:18=Last	
 Psa.88:1	Psa.88:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 88:1.		(Hebrew=88:1-2 • Latin=87:1-2 • Greek=87:1-2)	Hebrew	Psa.88:19=Last	
 Psa.88:2	Psa.88:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 88:2.		(Hebrew=88:1-2 • Latin=87:1-2 • Greek=87:1-2)	Hebrew	Psa.88:19=Last	
-Psa.88:1.0	Psa.88:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 88:1.		(Hebrew=88:1 • Latin=87:1 • Greek=87:1)	EngTitleSeparate	Psa.88:1.1=Exists	
-Psa.88:1.1	Psa.88:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 88:2.		(Hebrew=88:2 • Latin=87:2 • Greek=87:2)	EngTitleSeparate	Psa.88:1.1=Exists	
+Psa.88:1.0	Psa.88:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 88:1.		(Hebrew=88:1 • Latin=87:1 • Greek=87:1)	EngTitleSeparate	Psa.88:1.1=Exist	
+Psa.88:1.1	Psa.88:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 88:2.		(Hebrew=88:2 • Latin=87:2 • Greek=87:2)	EngTitleSeparate	Psa.88:1.1=Exist	
 Psa.87:1	Psa.88:1.0	Renumber verse	[87:1]	%Normally in this Bible the verse numbering here is% 87:1.		(Hebrew=88:1-2 • Latin=87:1-2 • Greek=87:1-2)	Latin+Greek	Psa.88:53=Last	
 Psa.87:2	Psa.88:1.1	Renumber verse	[87:2]	%Normally in this Bible the verse numbering here is% 87:2.		(Hebrew=88:1-2 • Latin=87:1-2 • Greek=87:1-2)	Latin+Greek	Psa.88:53=Last	
 Psa.88:2	Psa.88:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 88:3.		(Hebrew=88:3 • Latin=87:3 • Greek=87:3)	English	Psa.88:18=Last	
@@ -9895,8 +9895,8 @@ Psa.87:19	Psa.88:18	Renumber verse	[87:19]	%Normally in this Bible the verse num
 Psa.89:1	Psa.89:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 89:1-2.		(Hebrew=89:1-2 • Latin=88:1-2 • Greek=88:1-2)	English	Psa.89:52=Last	
 Psa.89:1	Psa.89:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 89:1.		(Hebrew=89:1-2 • Latin=88:1-2 • Greek=88:1-2)	Hebrew	Psa.89:53=Last	
 Psa.89:2	Psa.89:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 89:2.		(Hebrew=89:1-2 • Latin=88:1-2 • Greek=88:1-2)	Hebrew	Psa.89:53=Last	
-Psa.89:1.0	Psa.89:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 89:1.		(Hebrew=89:1 • Latin=88:1 • Greek=88:1)	EngTitleSeparate	Psa.89:1.1=Exists	
-Psa.89:1.1	Psa.89:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 89:2.		(Hebrew=89:2 • Latin=88:2 • Greek=88:2)	EngTitleSeparate	Psa.89:1.1=Exists	
+Psa.89:1.0	Psa.89:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 89:1.		(Hebrew=89:1 • Latin=88:1 • Greek=88:1)	EngTitleSeparate	Psa.89:1.1=Exist	
+Psa.89:1.1	Psa.89:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 89:2.		(Hebrew=89:2 • Latin=88:2 • Greek=88:2)	EngTitleSeparate	Psa.89:1.1=Exist	
 Psa.88:1	Psa.89:1.0	Renumber verse	[88:1]	%Normally in this Bible the verse numbering here is% 88:1.		(Hebrew=89:1-2 • Latin=88:1-2 • Greek=88:1-2)	Latin+Greek	Psa.89:17=Last	
 Psa.88:2	Psa.89:1.1	Renumber verse	[88:2]	%Normally in this Bible the verse numbering here is% 88:2.		(Hebrew=89:1-2 • Latin=88:1-2 • Greek=88:1-2)	Latin+Greek	Psa.89:17=Last	
 Psa.89:2	Psa.89:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 89:3.		(Hebrew=89:3 • Latin=88:3 • Greek=88:3)	English	Psa.89:52=Last	
@@ -10121,8 +10121,8 @@ Psa.90:16	Psa.91:16	Renumber verse	[90:16]	%Normally in this Bible the verse num
 Psa.92:1	Psa.92:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 92:1-2.		(Hebrew=92:1-2 • Latin=91:1-2 • Greek=91:1-2)	English	Psa.92:15=Last	
 Psa.92:1	Psa.92:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 92:1.		(Hebrew=92:1-2 • Latin=91:1-2 • Greek=91:1-2)	Hebrew	Psa.92:16=Last	
 Psa.92:2	Psa.92:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 92:2.		(Hebrew=92:1-2 • Latin=91:1-2 • Greek=91:1-2)	Hebrew	Psa.92:16=Last	
-Psa.92:1.0	Psa.92:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 92:1.		(Hebrew=92:1 • Latin=91:1 • Greek=91:1)	EngTitleSeparate	Psa.92:1.1=Exists	
-Psa.92:1.1	Psa.92:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 92:2.		(Hebrew=92:2 • Latin=91:2 • Greek=91:2)	EngTitleSeparate	Psa.92:1.1=Exists	
+Psa.92:1.0	Psa.92:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 92:1.		(Hebrew=92:1 • Latin=91:1 • Greek=91:1)	EngTitleSeparate	Psa.92:1.1=Exist	
+Psa.92:1.1	Psa.92:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 92:2.		(Hebrew=92:2 • Latin=91:2 • Greek=91:2)	EngTitleSeparate	Psa.92:1.1=Exist	
 Psa.91:1	Psa.92:1.0	Renumber verse	[91:1]	%Normally in this Bible the verse numbering here is% 91:1.		(Hebrew=92:1-2 • Latin=91:1-2 • Greek=91:1-2)	Latin+Greek	Psa.92:5=Last	
 Psa.91:2	Psa.92:1.1	Renumber verse	[91:2]	%Normally in this Bible the verse numbering here is% 91:2.		(Hebrew=92:1-2 • Latin=91:1-2 • Greek=91:1-2)	Latin+Greek	Psa.92:5=Last	
 Psa.92:2	Psa.92:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 92:3.		(Hebrew=92:3 • Latin=91:3 • Greek=91:3)	English	Psa.92:15=Last	
@@ -10360,8 +10360,8 @@ Psa.100:8	Psa.101:8	Renumber verse	[100:8]	%Normally in this Bible the verse num
 Psa.102:1	Psa.102:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 102:1-2.		(Hebrew=102:1-2 • Latin=101:1-2 • Greek=101:1-2)	English	Psa.102:28=Last	
 Psa.102:1	Psa.102:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 102:1.		(Hebrew=102:1-2 • Latin=101:1-2 • Greek=101:1-2)	Hebrew	Psa.102:29=Last	
 Psa.102:2	Psa.102:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 102:2.		(Hebrew=102:1-2 • Latin=101:1-2 • Greek=101:1-2)	Hebrew	Psa.102:29=Last	
-Psa.102:1.0	Psa.102:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 102:1.		(Hebrew=102:1 • Latin=101:1 • Greek=101:1)	EngTitleSeparate	Psa.102:1.1=Exists	
-Psa.102:1.1	Psa.102:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 102:2.		(Hebrew=102:2 • Latin=101:2 • Greek=101:2)	EngTitleSeparate	Psa.102:1.1=Exists	
+Psa.102:1.0	Psa.102:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 102:1.		(Hebrew=102:1 • Latin=101:1 • Greek=101:1)	EngTitleSeparate	Psa.102:1.1=Exist	
+Psa.102:1.1	Psa.102:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 102:2.		(Hebrew=102:2 • Latin=101:2 • Greek=101:2)	EngTitleSeparate	Psa.102:1.1=Exist	
 Psa.101:1	Psa.102:1.0	Renumber verse	[101:1]	%Normally in this Bible the verse numbering here is% 101:1.		(Hebrew=102:1-2 • Latin=101:1-2 • Greek=101:1-2)	Latin+Greek	Psa.102:22=Last	
 Psa.101:2	Psa.102:1.1	Renumber verse	[101:2]	%Normally in this Bible the verse numbering here is% 101:2.		(Hebrew=102:1-2 • Latin=101:1-2 • Greek=101:1-2)	Latin+Greek	Psa.102:22=Last	
 Psa.102:2	Psa.102:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 102:3.		(Hebrew=102:3 • Latin=101:3 • Greek=101:3)	English	Psa.102:28=Last	
@@ -10834,8 +10834,8 @@ Psa.106:43	Psa.107:43	Renumber verse	[106:43]	%Normally in this Bible the verse 
 Psa.108:1	Psa.108:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 108:1-2.		(Hebrew=108:1-2 • Latin=107:1-2 • Greek=107:1-2)	English	Psa.108:13=Last	
 Psa.108:1	Psa.108:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 108:1.		(Hebrew=108:1-2 • Latin=107:1-2 • Greek=107:1-2)	Hebrew	Psa.108:14=Last	
 Psa.108:2	Psa.108:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 108:2.		(Hebrew=108:1-2 • Latin=107:1-2 • Greek=107:1-2)	Hebrew	Psa.108:14=Last	
-Psa.108:1.0	Psa.108:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 108:1.		(Hebrew=108:1 • Latin=107:1 • Greek=107:1)	EngTitleSeparate	Psa.108:1.1=Exists	
-Psa.108:1.1	Psa.108:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 108:2.		(Hebrew=108:2 • Latin=107:2 • Greek=107:2)	EngTitleSeparate	Psa.108:1.1=Exists	
+Psa.108:1.0	Psa.108:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 108:1.		(Hebrew=108:1 • Latin=107:1 • Greek=107:1)	EngTitleSeparate	Psa.108:1.1=Exist	
+Psa.108:1.1	Psa.108:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 108:2.		(Hebrew=108:2 • Latin=107:2 • Greek=107:2)	EngTitleSeparate	Psa.108:1.1=Exist	
 Psa.107:1	Psa.108:1.0	Renumber verse	[107:1]	%Normally in this Bible the verse numbering here is% 107:1.		(Hebrew=108:1-2 • Latin=107:1-2 • Greek=107:1-2)	Latin+Greek	Psa.108:31=Last	
 Psa.107:2	Psa.108:1.1	Renumber verse	[107:2]	%Normally in this Bible the verse numbering here is% 107:2.		(Hebrew=108:1-2 • Latin=107:1-2 • Greek=107:1-2)	Latin+Greek	Psa.108:31=Last	
 Psa.108:2	Psa.108:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 108:3.		(Hebrew=108:3 • Latin=107:3 • Greek=107:3)	English	Psa.108:13=Last	
@@ -11953,8 +11953,8 @@ Psa.138:24	Psa.139:24	Renumber verse	[138:24]	%Normally in this Bible the verse 
 Psa.140:1	Psa.140:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 140:1-2.		(Hebrew=140:1-2 • Latin=139:1-2 • Greek=139:1-2)	English	Psa.140:13=Last	
 Psa.140:1	Psa.140:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 140:1.		(Hebrew=140:1-2 • Latin=139:1-2 • Greek=139:1-2)	Hebrew	Psa.140:14=Last	
 Psa.140:2	Psa.140:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 140:2.		(Hebrew=140:1-2 • Latin=139:1-2 • Greek=139:1-2)	Hebrew	Psa.140:14=Last	
-Psa.140:1.0	Psa.140:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 140:1.		(Hebrew=140:1 • Latin=139:1 • Greek=139:1)	EngTitleSeparate	Psa.140:1.1=Exists	
-Psa.140:1.1	Psa.140:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 140:2.		(Hebrew=140:2 • Latin=139:2 • Greek=139:2)	EngTitleSeparate	Psa.140:1.1=Exists	
+Psa.140:1.0	Psa.140:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 140:1.		(Hebrew=140:1 • Latin=139:1 • Greek=139:1)	EngTitleSeparate	Psa.140:1.1=Exist	
+Psa.140:1.1	Psa.140:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 140:2.		(Hebrew=140:2 • Latin=139:2 • Greek=139:2)	EngTitleSeparate	Psa.140:1.1=Exist	
 Psa.139:1	Psa.140:1.0	Renumber verse	[139:1]	%Normally in this Bible the verse numbering here is% 139:1.		(Hebrew=140:1-2 • Latin=139:1-2 • Greek=139:1-2)	Latin+Greek	Psa.140:10=Last	
 Psa.139:2	Psa.140:1.1	Renumber verse	[139:2]	%Normally in this Bible the verse numbering here is% 139:2.		(Hebrew=140:1-2 • Latin=139:1-2 • Greek=139:1-2)	Latin+Greek	Psa.140:10=Last	
 Psa.140:2	Psa.140:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 140:3.		(Hebrew=140:3 • Latin=139:3 • Greek=139:3)	English	Psa.140:13=Last	
@@ -12016,8 +12016,8 @@ Psa.140:10	Psa.141:10	Renumber verse	[140:10]	%Normally in this Bible the verse 
 Psa.142:1	Psa.142:1	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 142:1-2.		(Hebrew=142:1-2 • Latin=141:1-2 • Greek=141:1-2)	English	Psa.142:7=Last	
 Psa.142:1	Psa.142:1.0	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 142:1.		(Hebrew=142:1-2 • Latin=141:1-2 • Greek=141:1-2)	Hebrew	Psa.142:8=Last	
 Psa.142:2	Psa.142:1.1	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 142:2.		(Hebrew=142:1-2 • Latin=141:1-2 • Greek=141:1-2)	Hebrew	Psa.142:8=Last	
-Psa.142:1.0	Psa.142:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 142:1.		(Hebrew=142:1 • Latin=141:1 • Greek=141:1)	EngTitleSeparate	Psa.142:1.1=Exists	
-Psa.142:1.1	Psa.142:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 142:2.		(Hebrew=142:2 • Latin=141:2 • Greek=141:2)	EngTitleSeparate	Psa.142:1.1=Exists	
+Psa.142:1.0	Psa.142:1.0	Keep verse	[1]	%In some Bibles the verse numbering here is% 142:1.		(Hebrew=142:1 • Latin=141:1 • Greek=141:1)	EngTitleSeparate	Psa.142:1.1=Exist	
+Psa.142:1.1	Psa.142:1.1	Keep verse	[2]	%In some Bibles the verse numbering here is% 142:2.		(Hebrew=142:2 • Latin=141:2 • Greek=141:2)	EngTitleSeparate	Psa.142:1.1=Exist	
 Psa.141:1	Psa.142:1.0	Renumber verse	[141:1]	%Normally in this Bible the verse numbering here is% 141:1.		(Hebrew=142:1-2 • Latin=141:1-2 • Greek=141:1-2)	Latin+Greek	Psa.142:12=Last	
 Psa.141:2	Psa.142:1.1	Renumber verse	[141:2]	%Normally in this Bible the verse numbering here is% 141:2.		(Hebrew=142:1-2 • Latin=141:1-2 • Greek=141:1-2)	Latin+Greek	Psa.142:12=Last	
 Psa.142:2	Psa.142:2	Keep verse	[3]	%In some Bibles the verse numbering here is% 142:3.		(Hebrew=142:3 • Latin=141:3 • Greek=141:3)	English	Psa.142:7=Last	
@@ -14327,254 +14327,254 @@ Dan.3:100	Dan.4:3	Renumber verse	[3:100]	%Normally in this Bible the verse numbe
 Dan.4:4	Dan.4:4	Keep verse	[1]	%In some Bibles the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:1	Dan.4:4	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:1	Dan.4:4	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:1	Dan.4:4	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:4	Dan.4:4	Keep verse	[1]	%In some Bibles the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:1	Dan.4:4	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:4	Dan.4:4	Keep verse	[1]	%In some Bibles the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:1	Dan.4:4	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:1	Dan.4:1	Empty verse	[0]	%In some Bibles this verse may not contain any text%.		(Hebrew=3:31 • Latin=3:98 • Greek= --)	Greek	Dan.3:97=Last	
 Dan.4:4	Dan.4:4	Keep verse	[1]	%In some Bibles the verse numbering here is% 4:1.		(Hebrew=4:1 • Latin=4:1 • Greek=4:1 • Greek2=4:4)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:5	Dan.4:5	Keep verse	[2]	%In some Bibles the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:5	Dan.4:5	Keep verse	[2]	%In some Bibles the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:5	Dan.4:5	Keep verse	[2]	%In some Bibles the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:2	Dan.4:5	Renumber verse	[2]	%Normally in this Bible the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:2	Dan.4:2	Empty verse	[0]	%In some Bibles this verse may not contain any text%.		(Hebrew=3:32 • Latin=3:99 • Greek= --)	Greek	Dan.3:97=Last	
 Dan.4:5	Dan.4:5	Keep verse	[2]	%In some Bibles the verse numbering here is% 4:2.		(Hebrew=4:2 • Latin=4:2 • Greek=4:2 • Greek2=4:5)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:6	Dan.4:6	Keep verse	[3]	%In some Bibles the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:3	Dan.4:6	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:3	Dan.4:6	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:3	Dan.4:6	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:3	Dan.4:6	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
 Dan.4:3	Dan.4:3	Empty verse	[0]	%In some Bibles this verse may not contain any text%.		(Hebrew=3:33 • Latin=3:100 • Greek= --)	Greek	Dan.3:97=Last	
-Dan.4:6	Dan.4:6	Keep verse	[3]	%In some Bibles the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:6	Dan.4:6	Keep verse	[3]	%In some Bibles the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:3	Dan.4:6	Renumber verse	[3]	%Normally in this Bible the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:6	Dan.4:6	Keep verse	[3]	%In some Bibles the verse numbering here is% 4:3.		(Hebrew=4:3 • Latin=4:3 • Greek=4:3 • Greek2=4:6)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:7	Dan.4:7	Keep verse	[4]	%In some Bibles the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:4	Dan.4:7	Renumber verse	[4]	%Normally in this Bible the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:4	Dan.4:7	Renumber verse	[4]	%Normally in this Bible the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:4	Dan.4:7	Renumber verse	[4]	%Normally in this Bible the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:7	Dan.4:7	Keep verse	[4]	%In some Bibles the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:4	Dan.4:7	Renumber verse	[4]	%Normally in this Bible the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:7	Dan.4:7	Keep verse	[4]	%In some Bibles the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:4	Dan.4:7	Renumber verse	[4]	%Normally in this Bible the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:7	Dan.4:7	Keep verse	[4]	%In some Bibles the verse numbering here is% 4:4.		(Hebrew=4:4 • Latin=4:4 • Greek=4:4 • Greek2=4:7)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:8	Dan.4:8	Keep verse	[5]	%In some Bibles the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:5	Dan.4:8	Renumber verse	[5]	%Normally in this Bible the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:5	Dan.4:8	Renumber verse	[5]	%Normally in this Bible the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:5	Dan.4:8	Renumber verse	[5]	%Normally in this Bible the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:8	Dan.4:8	Keep verse	[5]	%In some Bibles the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:5	Dan.4:8	Renumber verse	[5]	%Normally in this Bible the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:8	Dan.4:8	Keep verse	[5]	%In some Bibles the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:5	Dan.4:8	Renumber verse	[5]	%Normally in this Bible the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:8	Dan.4:8	Keep verse	[5]	%In some Bibles the verse numbering here is% 4:5.		(Hebrew=4:5 • Latin=4:5 • Greek=4:5 • Greek2=4:8)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:9	Dan.4:9	Keep verse	[6]	%In some Bibles the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:6	Dan.4:9	Renumber verse	[6]	%Normally in this Bible the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:6	Dan.4:9	Renumber verse	[6]	%Normally in this Bible the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:6	Dan.4:9	Renumber verse	[6]	%Normally in this Bible the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:9	Dan.4:9	Keep verse	[6]	%In some Bibles the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:6	Dan.4:9	Renumber verse	[6]	%Normally in this Bible the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:9	Dan.4:9	Keep verse	[6]	%In some Bibles the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:6	Dan.4:9	Renumber verse	[6]	%Normally in this Bible the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:9	Dan.4:9	Keep verse	[6]	%In some Bibles the verse numbering here is% 4:6.		(Hebrew=4:6 • Latin=4:6 • Greek=4:6 • Greek2=4:9)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:10	Dan.4:10	Keep verse	[7]	%In some Bibles the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:7	Dan.4:10	Renumber verse	[7]	%Normally in this Bible the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:7	Dan.4:10	Renumber verse	[7]	%Normally in this Bible the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:7	Dan.4:10	Renumber verse	[7]	%Normally in this Bible the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:10	Dan.4:10	Keep verse	[7]	%In some Bibles the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:7	Dan.4:10	Renumber verse	[7]	%Normally in this Bible the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:10	Dan.4:10	Keep verse	[7]	%In some Bibles the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:7	Dan.4:10	Renumber verse	[7]	%Normally in this Bible the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:10	Dan.4:10	Keep verse	[7]	%In some Bibles the verse numbering here is% 4:7.		(Hebrew=4:7 • Latin=4:7 • Greek=4:7 • Greek2=4:10)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:11	Dan.4:11	Keep verse	[8]	%In some Bibles the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:8	Dan.4:11	Renumber verse	[8]	%Normally in this Bible the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:8	Dan.4:11	Renumber verse	[8]	%Normally in this Bible the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:8	Dan.4:11	Renumber verse	[8]	%Normally in this Bible the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:11	Dan.4:11	Keep verse	[8]	%In some Bibles the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:8	Dan.4:11	Renumber verse	[8]	%Normally in this Bible the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:11	Dan.4:11	Keep verse	[8]	%In some Bibles the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:8	Dan.4:11	Renumber verse	[8]	%Normally in this Bible the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:11	Dan.4:11	Keep verse	[8]	%In some Bibles the verse numbering here is% 4:8.		(Hebrew=4:8 • Latin=4:8 • Greek=4:8 • Greek2=4:11)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:12	Dan.4:12	Keep verse	[9]	%In some Bibles the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:9	Dan.4:12	Renumber verse	[9]	%Normally in this Bible the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:9	Dan.4:12	Renumber verse	[9]	%Normally in this Bible the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:9	Dan.4:12	Renumber verse	[9]	%Normally in this Bible the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:12	Dan.4:12	Keep verse	[9]	%In some Bibles the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:9	Dan.4:12	Renumber verse	[9]	%Normally in this Bible the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:12	Dan.4:12	Keep verse	[9]	%In some Bibles the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:9	Dan.4:12	Renumber verse	[9]	%Normally in this Bible the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:12	Dan.4:12	Keep verse	[9]	%In some Bibles the verse numbering here is% 4:9.		(Hebrew=4:9 • Latin=4:9 • Greek=4:9 • Greek2=4:12)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:13	Dan.4:13	Keep verse	[10]	%In some Bibles the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:10	Dan.4:13	Renumber verse	[10]	%Normally in this Bible the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:10	Dan.4:13	Renumber verse	[10]	%Normally in this Bible the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:10	Dan.4:13	Renumber verse	[10]	%Normally in this Bible the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:13	Dan.4:13	Keep verse	[10]	%In some Bibles the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:10	Dan.4:13	Renumber verse	[10]	%Normally in this Bible the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:13	Dan.4:13	Keep verse	[10]	%In some Bibles the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:10	Dan.4:13	Renumber verse	[10]	%Normally in this Bible the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:13	Dan.4:13	Keep verse	[10]	%In some Bibles the verse numbering here is% 4:10.		(Hebrew=4:10 • Latin=4:10 • Greek=4:10 • Greek2=4:13)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:14	Dan.4:14	Keep verse	[11]	%In some Bibles the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:11	Dan.4:14	Renumber verse	[11]	%Normally in this Bible the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:11	Dan.4:14	Renumber verse	[11]	%Normally in this Bible the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:11	Dan.4:14	Renumber verse	[11]	%Normally in this Bible the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:14	Dan.4:14	Keep verse	[11]	%In some Bibles the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:11	Dan.4:14	Renumber verse	[11]	%Normally in this Bible the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:14	Dan.4:14	Keep verse	[11]	%In some Bibles the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:11	Dan.4:14	Renumber verse	[11]	%Normally in this Bible the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:14	Dan.4:14	Keep verse	[11]	%In some Bibles the verse numbering here is% 4:11.		(Hebrew=4:11 • Latin=4:11 • Greek=4:11 • Greek2=4:14)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:15	Dan.4:15	Keep verse	[12]	%In some Bibles the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:12	Dan.4:15	Renumber verse	[12]	%Normally in this Bible the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:12	Dan.4:15	Renumber verse	[12]	%Normally in this Bible the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:12	Dan.4:15	Renumber verse	[12]	%Normally in this Bible the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:15	Dan.4:15	Keep verse	[12]	%In some Bibles the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:12	Dan.4:15	Renumber verse	[12]	%Normally in this Bible the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:15	Dan.4:15	Keep verse	[12]	%In some Bibles the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:12	Dan.4:15	Renumber verse	[12]	%Normally in this Bible the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:15	Dan.4:15	Keep verse	[12]	%In some Bibles the verse numbering here is% 4:12.		(Hebrew=4:12 • Latin=4:12 • Greek=4:12 • Greek2=4:15)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:16	Dan.4:16	Keep verse	[13]	%In some Bibles the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:13	Dan.4:16	Renumber verse	[13]	%Normally in this Bible the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:13	Dan.4:16	Renumber verse	[13]	%Normally in this Bible the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:13	Dan.4:16	Renumber verse	[13]	%Normally in this Bible the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:16	Dan.4:16	Keep verse	[13]	%In some Bibles the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:13	Dan.4:16	Renumber verse	[13]	%Normally in this Bible the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:16	Dan.4:16	Keep verse	[13]	%In some Bibles the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:13	Dan.4:16	Renumber verse	[13]	%Normally in this Bible the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:16	Dan.4:16	Keep verse	[13]	%In some Bibles the verse numbering here is% 4:13.		(Hebrew=4:13 • Latin=4:13 • Greek=4:13 • Greek2=4:16)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:17	Dan.4:17	Keep verse	[14]	%In some Bibles the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:14	Dan.4:17	Renumber verse	[14]	%Normally in this Bible the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:14	Dan.4:17	Renumber verse	[14]	%Normally in this Bible the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:14	Dan.4:17	Renumber verse	[14]	%Normally in this Bible the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:17	Dan.4:17	Keep verse	[14]	%In some Bibles the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:14	Dan.4:17	Renumber verse	[14]	%Normally in this Bible the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:17	Dan.4:17	Keep verse	[14]	%In some Bibles the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:14	Dan.4:17	Renumber verse	[14]	%Normally in this Bible the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:17	Dan.4:17	Keep verse	[14]	%In some Bibles the verse numbering here is% 4:14.		(Hebrew=4:14 • Latin=4:14 • Greek=4:14 • Greek2=4:17)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:18	Dan.4:18	Keep verse	[15]	%In some Bibles the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:15	Dan.4:18	Renumber verse	[15]	%Normally in this Bible the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:15	Dan.4:18	Renumber verse	[15]	%Normally in this Bible the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:15	Dan.4:18	Renumber verse	[15]	%Normally in this Bible the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:18	Dan.4:18	Keep verse	[15]	%In some Bibles the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:15	Dan.4:18	Renumber verse	[15]	%Normally in this Bible the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:18	Dan.4:18	Keep verse	[15]	%In some Bibles the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:15	Dan.4:18	Renumber verse	[15]	%Normally in this Bible the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:18	Dan.4:18	Keep verse	[15]	%In some Bibles the verse numbering here is% 4:15.		(Hebrew=4:15 • Latin=4:15 • Greek=4:15 • Greek2=4:18)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:19	Dan.4:19	Keep verse	[16]	%In some Bibles the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:16	Dan.4:19	Renumber verse	[16]	%Normally in this Bible the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:16	Dan.4:19	Renumber verse	[16]	%Normally in this Bible the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:16	Dan.4:19	Renumber verse	[16]	%Normally in this Bible the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:19	Dan.4:19	Keep verse	[16]	%In some Bibles the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:16	Dan.4:19	Renumber verse	[16]	%Normally in this Bible the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:19	Dan.4:19	Keep verse	[16]	%In some Bibles the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:16	Dan.4:19	Renumber verse	[16]	%Normally in this Bible the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:19	Dan.4:19	Keep verse	[16]	%In some Bibles the verse numbering here is% 4:16.		(Hebrew=4:16 • Latin=4:16 • Greek=4:16 • Greek2=4:19)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:20	Dan.4:20	Keep verse	[17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:17	Dan.4:20	Renumber verse	[17]	%Normally in this Bible the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:17	Dan.4:20	Renumber verse	[17]	%Normally in this Bible the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:17	Dan.4:20	Renumber verse	[17]	%Normally in this Bible the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:20	Dan.4:20	Keep verse	[17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:17	Dan.4:20	Renumber verse	[17]	%Normally in this Bible the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:20	Dan.4:20	Keep verse	[17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:17	Dan.4:20	Renumber verse	[17]	%Normally in this Bible the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:20	Dan.4:20	Keep verse	[17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:17 • Latin=4:17 • Greek=4:17 • Greek2=4:20)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:21	Dan.4:21	Keep verse	[18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:18	Dan.4:21	Renumber verse	[18]	%Normally in this Bible the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:18	Dan.4:21	Renumber verse	[18]	%Normally in this Bible the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:18	Dan.4:21	Renumber verse	[18]	%Normally in this Bible the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:21	Dan.4:21	Keep verse	[18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:18	Dan.4:21	Renumber verse	[18]	%Normally in this Bible the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:21	Dan.4:21	Keep verse	[18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:18	Dan.4:21	Renumber verse	[18]	%Normally in this Bible the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:21	Dan.4:21	Keep verse	[18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:18 • Latin=4:18 • Greek=4:18 • Greek2=4:21)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:22	Dan.4:22	Keep verse	[19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:19	Dan.4:22	Renumber verse	[19]	%Normally in this Bible the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:19	Dan.4:22	Renumber verse	[19]	%Normally in this Bible the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:19	Dan.4:22	Renumber verse	[19]	%Normally in this Bible the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:22	Dan.4:22	Keep verse	[19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:19	Dan.4:22	Renumber verse	[19]	%Normally in this Bible the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:22	Dan.4:22	Keep verse	[19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:19	Dan.4:22	Renumber verse	[19]	%Normally in this Bible the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:22	Dan.4:22	Keep verse	[19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:19 • Latin=4:19 • Greek=4:19 • Greek2=4:22)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:23	Dan.4:23	Keep verse	[20]	%In some Bibles the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:20	Dan.4:23	Renumber verse	[20]	%Normally in this Bible the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:20	Dan.4:23	Renumber verse	[20]	%Normally in this Bible the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:20	Dan.4:23	Renumber verse	[20]	%Normally in this Bible the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:23	Dan.4:23	Keep verse	[20]	%In some Bibles the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:20	Dan.4:23	Renumber verse	[20]	%Normally in this Bible the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:23	Dan.4:23	Keep verse	[20]	%In some Bibles the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:20	Dan.4:23	Renumber verse	[20]	%Normally in this Bible the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:23	Dan.4:23	Keep verse	[20]	%In some Bibles the verse numbering here is% 4:20.		(Hebrew=4:20 • Latin=4:20 • Greek=4:20 • Greek2=4:23)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:24	Dan.4:24	Keep verse	[21]	%In some Bibles the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:21	Dan.4:24	Renumber verse	[21]	%Normally in this Bible the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:21	Dan.4:24	Renumber verse	[21]	%Normally in this Bible the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:21	Dan.4:24	Renumber verse	[21]	%Normally in this Bible the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:24	Dan.4:24	Keep verse	[21]	%In some Bibles the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:21	Dan.4:24	Renumber verse	[21]	%Normally in this Bible the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:24	Dan.4:24	Keep verse	[21]	%In some Bibles the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:21	Dan.4:24	Renumber verse	[21]	%Normally in this Bible the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:24	Dan.4:24	Keep verse	[21]	%In some Bibles the verse numbering here is% 4:21.		(Hebrew=4:21 • Latin=4:21 • Greek=4:21 • Greek2=4:24)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:25	Dan.4:25	Keep verse	[22]	%In some Bibles the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:22	Dan.4:25	Renumber verse	[22]	%Normally in this Bible the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:22	Dan.4:25	Renumber verse	[22]	%Normally in this Bible the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:22	Dan.4:25	Renumber verse	[22]	%Normally in this Bible the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:25	Dan.4:25	Keep verse	[22]	%In some Bibles the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:22	Dan.4:25	Renumber verse	[22]	%Normally in this Bible the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:25	Dan.4:25	Keep verse	[22]	%In some Bibles the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:22	Dan.4:25	Renumber verse	[22]	%Normally in this Bible the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:25	Dan.4:25	Keep verse	[22]	%In some Bibles the verse numbering here is% 4:22.		(Hebrew=4:22 • Latin=4:22 • Greek=4:22 • Greek2=4:25)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:26	Dan.4:26	Keep verse	[23]	%In some Bibles the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:23	Dan.4:26	Renumber verse	[23]	%Normally in this Bible the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:23	Dan.4:26	Renumber verse	[23]	%Normally in this Bible the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:23	Dan.4:26	Renumber verse	[23]	%Normally in this Bible the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:26	Dan.4:26	Keep verse	[23]	%In some Bibles the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:23	Dan.4:26	Renumber verse	[23]	%Normally in this Bible the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:26	Dan.4:26	Keep verse	[23]	%In some Bibles the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:23	Dan.4:26	Renumber verse	[23]	%Normally in this Bible the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:26	Dan.4:26	Keep verse	[23]	%In some Bibles the verse numbering here is% 4:23.		(Hebrew=4:23 • Latin=4:23 • Greek=4:23 • Greek2=4:26)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:27	Dan.4:27	Keep verse	[24]	%In some Bibles the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:24	Dan.4:27	Renumber verse	[24]	%Normally in this Bible the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:24	Dan.4:27	Renumber verse	[24]	%Normally in this Bible the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:24	Dan.4:27	Renumber verse	[24]	%Normally in this Bible the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:27	Dan.4:27	Keep verse	[24]	%In some Bibles the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:24	Dan.4:27	Renumber verse	[24]	%Normally in this Bible the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:27	Dan.4:27	Keep verse	[24]	%In some Bibles the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:24	Dan.4:27	Renumber verse	[24]	%Normally in this Bible the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:27	Dan.4:27	Keep verse	[24]	%In some Bibles the verse numbering here is% 4:24.		(Hebrew=4:24 • Latin=4:24 • Greek=4:24 • Greek2=4:27)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:28	Dan.4:28	Keep verse	[25]	%In some Bibles the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:25	Dan.4:28	Renumber verse	[25]	%Normally in this Bible the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:25	Dan.4:28	Renumber verse	[25]	%Normally in this Bible the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:25	Dan.4:28	Renumber verse	[25]	%Normally in this Bible the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:28	Dan.4:28	Keep verse	[25]	%In some Bibles the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:25	Dan.4:28	Renumber verse	[25]	%Normally in this Bible the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:28	Dan.4:28	Keep verse	[25]	%In some Bibles the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:25	Dan.4:28	Renumber verse	[25]	%Normally in this Bible the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:28	Dan.4:28	Keep verse	[25]	%In some Bibles the verse numbering here is% 4:25.		(Hebrew=4:25 • Latin=4:25 • Greek=4:25 • Greek2=4:28)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:29	Dan.4:29	Keep verse	[26]	%In some Bibles the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:26	Dan.4:29	Renumber verse	[26]	%Normally in this Bible the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:26	Dan.4:29	Renumber verse	[26]	%Normally in this Bible the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:26	Dan.4:29	Renumber verse	[26]	%Normally in this Bible the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:29	Dan.4:29	Keep verse	[26]	%In some Bibles the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:26	Dan.4:29	Renumber verse	[26]	%Normally in this Bible the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:29	Dan.4:29	Keep verse	[26]	%In some Bibles the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:26	Dan.4:29	Renumber verse	[26]	%Normally in this Bible the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:29	Dan.4:29	Keep verse	[26]	%In some Bibles the verse numbering here is% 4:26.		(Hebrew=4:26 • Latin=4:26 • Greek=4:26 • Greek2=4:29)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:30	Dan.4:30	Keep verse	[27]	%In some Bibles the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:27	Dan.4:30	Renumber verse	[27]	%Normally in this Bible the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:27	Dan.4:30	Renumber verse	[27]	%Normally in this Bible the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:27	Dan.4:30	Renumber verse	[27]	%Normally in this Bible the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30	Dan.4:30	Keep verse	[27]	%In some Bibles the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:27	Dan.4:30	Renumber verse	[27]	%Normally in this Bible the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:30	Dan.4:30	Keep verse	[27]	%In some Bibles the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:27	Dan.4:30	Renumber verse	[27]	%Normally in this Bible the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:30	Dan.4:30	Keep verse	[27]	%In some Bibles the verse numbering here is% 4:27.		(Hebrew=4:27 • Latin=4:27 • Greek=4:27 • Greek2=4:30)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:31	Dan.4:31	Keep verse	[28]	%In some Bibles the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:28	Dan.4:31	Renumber verse	[28]	%Normally in this Bible the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:28	Dan.4:31	Renumber verse	[28]	%Normally in this Bible the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:28	Dan.4:31	Renumber verse	[28]	%Normally in this Bible the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:31	Dan.4:31	Keep verse	[28]	%In some Bibles the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:28	Dan.4:31	Renumber verse	[28]	%Normally in this Bible the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:31	Dan.4:31	Keep verse	[28]	%In some Bibles the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:28	Dan.4:31	Renumber verse	[28]	%Normally in this Bible the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:31	Dan.4:31	Keep verse	[28]	%In some Bibles the verse numbering here is% 4:28.		(Hebrew=4:28 • Latin=4:28 • Greek=4:28 • Greek2=4:31)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:32	Dan.4:32	Keep verse	[29]	%In some Bibles the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:29	Dan.4:32	Renumber verse	[29]	%Normally in this Bible the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:29	Dan.4:32	Renumber verse	[29]	%Normally in this Bible the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:29	Dan.4:32	Renumber verse	[29]	%Normally in this Bible the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:32	Dan.4:32	Keep verse	[29]	%In some Bibles the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:29	Dan.4:32	Renumber verse	[29]	%Normally in this Bible the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:32	Dan.4:32	Keep verse	[29]	%In some Bibles the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:29	Dan.4:32	Renumber verse	[29]	%Normally in this Bible the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:32	Dan.4:32	Keep verse	[29]	%In some Bibles the verse numbering here is% 4:29.		(Hebrew=4:29 • Latin=4:29 • Greek=4:29 • Greek2=4:32)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:33	Dan.4:33	Keep verse	[30]	%In some Bibles the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:30	Dan.4:33	Renumber verse	[30,a-c]	%In some Bibles the verse numbering here is% 4:30, 30a-c.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30, 30a-c • Greek2=4:33, 33a-c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.1	Dan.4:33.1	Renumber verse	[30a]	%In some Bibles the verse numbering here is% 4:30a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.2	Dan.4:33.2	Renumber verse	[30b]	%In some Bibles the verse numbering here is% 4:30b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:30.3	Dan.4:33.3	Renumber verse	[30c]	%In some Bibles the verse numbering here is% 4:30c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:33	Dan.4:33	Keep verse	[33,a-c]	%In some Bibles the verse numbering here is% 4:33, 33a-c.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30, 30a-c • Greek2=4:33, 33a-c)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
-Dan.4:33.1	Dan.4:33.1	Keep verse	[33a]	%In some Bibles the verse numbering here is% 4:33a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:33.2	Dan.4:33.2	Keep verse	[33b]	%In some Bibles the verse numbering here is% 4:33b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:33.3	Dan.4:33.3	Keep verse	[33c]	%In some Bibles the verse numbering here is% 4:33c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
+Dan.4:30	Dan.4:33	Renumber verse	[30,a-c]	%In some Bibles the verse numbering here is% 4:30, 30a-c.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30, 30a-c • Greek2=4:33, 33a-c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:30.1	Dan.4:33.1	Renumber verse	[30a]	%In some Bibles the verse numbering here is% 4:30a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:30.2	Dan.4:33.2	Renumber verse	[30b]	%In some Bibles the verse numbering here is% 4:30b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:30.3	Dan.4:33.3	Renumber verse	[30c]	%In some Bibles the verse numbering here is% 4:30c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:33	Dan.4:33	Keep verse	[33,a-c]	%In some Bibles the verse numbering here is% 4:33, 33a-c.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30, 30a-c • Greek2=4:33, 33a-c)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
+Dan.4:33.1	Dan.4:33.1	Keep verse	[33a]	%In some Bibles the verse numbering here is% 4:33a.		(Hebrew= -- • Latin= -- • Greek=4:30a • Greek2=4:33a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:33.2	Dan.4:33.2	Keep verse	[33b]	%In some Bibles the verse numbering here is% 4:33b.		(Hebrew= -- • Latin= -- • Greek=4:30b • Greek2=4:33b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:33.3	Dan.4:33.3	Keep verse	[33c]	%In some Bibles the verse numbering here is% 4:33c.		(Hebrew= -- • Latin= -- • Greek=4:30c • Greek2=4:33c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
 Dan.4:30	Dan.4:33	Renumber verse	[30]	%Normally in this Bible the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:33	Dan.4:33	Keep verse	[30]	%In some Bibles the verse numbering here is% 4:30.		(Hebrew=4:30 • Latin=4:30 • Greek=4:30 • Greek2=4:33)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:34	Dan.4:34	Keep verse	[31]	%In some Bibles the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:31	Dan.4:34	Renumber verse	[31]	%Normally in this Bible the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:31	Dan.4:34	Renumber verse	[31]	%Normally in this Bible the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:31	Dan.4:34	Renumber verse	[31]	%Normally in this Bible the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:34	Dan.4:34	Keep verse	[31]	%In some Bibles the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:31	Dan.4:34	Renumber verse	[31]	%Normally in this Bible the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:34	Dan.4:34	Keep verse	[31]	%In some Bibles the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:31	Dan.4:34	Renumber verse	[31]	%Normally in this Bible the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:34	Dan.4:34	Keep verse	[31]	%In some Bibles the verse numbering here is% 4:31.		(Hebrew=4:31 • Latin=4:31 • Greek=4:31 • Greek2=4:34)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:35	Dan.4:35	Keep verse	[32]	%In some Bibles the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:32	Dan.4:35	Renumber verse	[32]	%Normally in this Bible the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:32	Dan.4:35	Renumber verse	[32]	%Normally in this Bible the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:32	Dan.4:35	Renumber verse	[32]	%Normally in this Bible the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:35	Dan.4:35	Keep verse	[32]	%In some Bibles the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:32	Dan.4:35	Renumber verse	[32]	%Normally in this Bible the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:35	Dan.4:35	Keep verse	[32]	%In some Bibles the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:32	Dan.4:35	Renumber verse	[32]	%Normally in this Bible the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:35	Dan.4:35	Keep verse	[32]	%In some Bibles the verse numbering here is% 4:32.		(Hebrew=4:32 • Latin=4:32 • Greek=4:32 • Greek2=4:35)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:36	Dan.4:36	Keep verse	[33]	%In some Bibles the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:33	Dan.4:36	Renumber verse	[33]	%Normally in this Bible the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:33	Dan.4:36	Renumber verse	[33]	%Normally in this Bible the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:33	Dan.4:36	Renumber verse	[33]	%Normally in this Bible the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:36	Dan.4:36	Keep verse	[33]	%In some Bibles the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:33	Dan.4:36	Renumber verse	[33]	%Normally in this Bible the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:36	Dan.4:36	Keep verse	[33]	%In some Bibles the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:33	Dan.4:36	Renumber verse	[33]	%Normally in this Bible the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:36	Dan.4:36	Keep verse	[33]	%In some Bibles the verse numbering here is% 4:33.		(Hebrew=4:33 • Latin=4:33 • Greek=4:33 • Greek2=4:36)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.4:37	Dan.4:37	Keep verse	[34]	%In some Bibles the verse numbering here is% 4:34.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	English	Dan.4:37=Last & Dan.3:30=Last	
 Dan.4:34	Dan.4:37	Renumber verse	[34]	%Normally in this Bible the verse numbering here is% 4:34.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	Hebrew	Dan.4:34=Last & Dan.3:33=Last	
 Dan.4:34	Dan.4:37	Renumber verse	[34]	%Normally in this Bible the verse numbering here is% 4:34.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	Latin	Dan.4:34=Last & Dan.3:100=Last	
-Dan.4:34	Dan.4:37	Renumber verse	[34,a-c]	%In some Bibles the verse numbering here is% 4:34, 34a-c.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:34.1	Dan.4:37.1	Renumber verse	[34a]	%Normally in this Bible the verse numbering here is% 4:34a.		(Hebrew= -- • Latin= -- • Greek=4:34a • Greek2=4:37a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:34.2	Dan.4:37.2	Renumber verse	[34b]	%Normally in this Bible the verse numbering here is% 4:34b.		(Hebrew= -- • Latin= -- • Greek=4:34b • Greek2=4:37b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:34.3	Dan.4:37.3	Renumber verse	[34c]	%Normally in this Bible the verse numbering here is% 4:34c.		(Hebrew= -- • Latin= -- • Greek=4:34c • Greek2=4:37c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exists	
-Dan.4:37	Dan.4:37	Keep verse	[37,a-c]	%In some Bibles the verse numbering here is% 4:37, 37a-c.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
-Dan.4:34.1	Dan.4:37.1	Renumber verse	[34a]	%Normally in this Bible the verse numbering here is% 4:34a.		(Hebrew= -- • Latin= -- • Greek=4:34a • Greek2=4:37a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
-Dan.4:34.2	Dan.4:37.2	Renumber verse	[34b]	%Normally in this Bible the verse numbering here is% 4:34b.		(Hebrew= -- • Latin= -- • Greek=4:34b • Greek2=4:37b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
-Dan.4:34.3	Dan.4:37.3	Renumber verse	[34c]	%Normally in this Bible the verse numbering here is% 4:34c.		(Hebrew= -- • Latin= -- • Greek=4:34c • Greek2=4:37c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:37.3=Exists	
+Dan.4:34	Dan.4:37	Renumber verse	[34,a-c]	%In some Bibles the verse numbering here is% 4:34, 34a-c.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:34.1	Dan.4:37.1	Renumber verse	[34a]	%Normally in this Bible the verse numbering here is% 4:34a.		(Hebrew= -- • Latin= -- • Greek=4:34a • Greek2=4:37a)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:34.2	Dan.4:37.2	Renumber verse	[34b]	%Normally in this Bible the verse numbering here is% 4:34b.		(Hebrew= -- • Latin= -- • Greek=4:34b • Greek2=4:37b)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:34.3	Dan.4:37.3	Renumber verse	[34c]	%Normally in this Bible the verse numbering here is% 4:34c.		(Hebrew= -- • Latin= -- • Greek=4:34c • Greek2=4:37c)	Greek	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=Exist	
+Dan.4:37	Dan.4:37	Keep verse	[37,a-c]	%In some Bibles the verse numbering here is% 4:37, 37a-c.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	Greek2	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
+Dan.4:34.1	Dan.4:37.1	Renumber verse	[34a]	%Normally in this Bible the verse numbering here is% 4:34a.		(Hebrew= -- • Latin= -- • Greek=4:34a • Greek2=4:37a)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
+Dan.4:34.2	Dan.4:37.2	Renumber verse	[34b]	%Normally in this Bible the verse numbering here is% 4:34b.		(Hebrew= -- • Latin= -- • Greek=4:34b • Greek2=4:37b)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
+Dan.4:34.3	Dan.4:37.3	Renumber verse	[34c]	%Normally in this Bible the verse numbering here is% 4:34c.		(Hebrew= -- • Latin= -- • Greek=4:34c • Greek2=4:37c)	Greek2	Dan.4:34=Last & Dan.3:97=Last & Dan.4:37.3=Exist	
 Dan.4:34	Dan.4:37	Renumber verse	[34]	%Normally in this Bible the verse numbering here is% 4:34.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	GreekUndivided	Dan.4:34=Last & Dan.3:97=Last & Dan.4:34.3=NotExist	
 Dan.4:37	Dan.4:37	Keep verse	[34]	%In some Bibles the verse numbering here is% 4:34.		(Hebrew=4:34 • Latin=4:34 • Greek=4:34, 34a-c • Greek2=4:37, 37a-c)	Greek2Undivided	Dan.4:37=Last & Dan.3:97=Last & Dan.4:37.3=NotExist	
 Dan.5:31	Dan.5:31	Keep verse	[1]	%In some Bibles the verse numbering here is% 6:1.		(Hebrew=6:1 • Latin=5:31 • Greek=6:1)	English+Latin	Dan.6:28=Last	
