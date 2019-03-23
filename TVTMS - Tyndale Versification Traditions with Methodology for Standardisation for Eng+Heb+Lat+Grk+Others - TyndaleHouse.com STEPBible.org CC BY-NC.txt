@@ -1,3 +1,6 @@
+(Gen.27:7|Exo.10:8|Exo.25:2|Lev.1:2|Num.5:31|Num.25:9|Deu.1:35|Deu.1:36|Jdg.2:21|Jdg.4:20|Jdg.5:8|Jdg.9:2|Jdg.16:31|2Sa.15:16|1Ki.1:46|1Ki.2:11|1Ki.20:32|1Ki.21:18|2Ki.1:7|2Ki.3:17|2Ki.10:13|2Ki.22:16|1Ch.23:4|2Ch.16:9|2Ch.29:30|Job.6:9|Psa.135:2|Pro.2:22|Jer.3:5|Jer.49:9|Eze.4:7|Eze.21:16|Eze.24:5|Eze.24:8|Eze.34:10|Dan.7:19|
+Mrk.15:28|Luk.17:36|Act.8:37|Act.15:34|Act.24:7|Act.28:29)
+
 TVTMS - Tyndale Versification Traditions with Methodology for Standardisation for Eng+Heb+Lat+Grk+Others - TyndaleHouse.com STEPBible.org CC BY-NC.txt
 ﻿============================================================================================
 
@@ -2175,7 +2178,7 @@ DuplicateTarget	Wis.19:21-22	Wis.19:20	Wis.19:21-22
 
 
 
-$Mat.12:47 ??????	English	English-RSV+	English-KJV+
+$Mat.12:47	English	Greek	Greek2
 TEST: If...	Mat.12:47=NotExist	Mat.12:47=NotExist	Mat.12:47=Exist
 TextMayBeMissing	Mat.12:47	Absent [=Luk.8:20]	Mat.12:47
 
@@ -2184,19 +2187,19 @@ TEST: If...	Mat.17:27=Last	Mat.17:26=Last	Mat.17:27=Last
 DuplicateTarget	Mat.17:14-15	Mat.17:14	Mat.17:14-15	
 OneToOne	Mat.17:16-27	Mat.17:15-26	Mat.17:16-27	
 
-$Mat.17:21	English	English-RSV+	English-KJV+
+$Mat.17:21	English	Greek	Greek2
 TEST: If...	Mat.17:21=NotExist	Mat.17:21=NotExist	Mat.17:21=Exist
 TextMayBeMissing	Mat.17:21	Absent [=Mrk.9:29]	Mat.17:21
 
-$Mat.18:11	English	English-RSV+	English-KJV+
+$Mat.18:11	English	Greek	Greek2
 TEST: If...	Mat.18:11=NotExist	Mat.18:11=NotExist	Mat.18:11=Exist
 TextMayBeMissing	Mat.18:11	Absent [=Luke 19:10]	Mat.18:11
 
-$Mat.21:44	English	English-RSV+	English-KJV+
+$Mat.21:44	English	Greek	Greek2
 TEST: If...	Mat.21:44=NotExist	Mat.21:44=NotExist	Mat.21:44=Exist
 TextMayBeMissing	Mat.21:44	Absent [=Luk.20:18]	Mat.21:44
 
-$Mat.23:14	English	English-RSV+	English-KJV+
+$Mat.23:14	English	Greek	Greek2
 TEST: If...	Mat.23:14=NotExist	Mat.23:14=NotExist	Mat.23:14=Exist
 TextMayBeMissing	Mat.23:14	Absent [=Mrk.12:40; Luk.20:47]	Mat.23:14
 
@@ -2204,7 +2207,7 @@ $Mrk.4:40-41	English	Latin	Greek
 TEST: If...	Mrk.4:41=Last	Mrk.4:40=Last	Mrk.4:41=Last	
 DuplicateTarget	Mrk.4:40-41	Mrk.4:40	Mrk.4:40-41	
 
-$Mrk.7:16	English	English-RSV+	English-KJV+
+$Mrk.7:16	English	Greek	Greek2
 TEST: If...	Mrk.7:16=NotExist	Mrk.7:16=NotExist	Mrk.7:16=Exist
 TextMayBeMissing	Mrk.7:16	Absent [=Mrk.4:9,23]	Mrk.7:16
 
@@ -2213,43 +2216,43 @@ TEST: If...	Mrk.8:38=Last	Mrk.8:39=Last	Mrk.8:38=Last
 OneToOne	Mrk.9:1	Mrk.8:39	Mrk.9:1	
 OneToOne	Mrk.9:2-50	Mrk.9:1-49	Mrk.9:2-50	
 
-$Mrk.9:44	English	English-RSV+	English-KJV+
+$Mrk.9:44	English	Greek	Greek2
 TEST: If...	Mrk.9:44=NotExist	Mrk.9:44=NotExist	Mrk.9:44=Exist
 TextMayBeMissing	Mrk.9:44	Absent [=Mrk.9:48]	Mrk.9:44
 
-$Mrk.9:46 ???????	English	English-RSV+	English-KJV+
+$Mrk.9:46	English	Greek	Greek2
 TEST: If...	Mrk.9:46=NotExist	Mrk.9:46=NotExist	Mrk.9:46=Exist
 TextMayBeMissing	Mrk.9:46	Absent [=Mrk.9:48]	Mrk.9:46
 
-$Mrk.11:26 ??????	English	English-RSV+	English-KJV+
+$Mrk.11:26	English	Greek	Greek2
 TEST: If...	Mrk.11:26=NotExist	Mrk.11:26=NotExist	Mrk.11:26=Exist
 TextMayBeMissing	Mrk.11:26	Absent [Mat.6:15]	Mrk.11:26
 
-$Mrk.15:28 ???????	English	English-RSV+	English-KJV+
+$Mrk.15:28	English	Greek	Greek2
 TEST: If...	Mrk.15:28=NotExist	Mrk.15:28=NotExist	Mrk.15:28=Exist
 TextMayBeMissing	Mrk.15:28	Absent [=Luk.22:37]	Mrk.15:28
 
-$Mrk.16:9-20 ????????	English	English-RSV+	English-KJV+
+$Mrk.16:9-20	English	Greek	Greek2
 TEST: If...	Mrk.16:8=Last	Mrk.16:8=Last	Mrk.16:20=Last
 PassageMissing	Mrk.16:8	Mrk 16:9 [=16.9-20]	Mrk.16:9 [=16.9-20]
 
-$Luk.17:36	English	English-RSV+	English-KJV+
+$Luk.17:36	English	Greek	Greek2
 TEST: If...	Luk.17:36=NotExist	Luk.17:36=NotExist	Luk.17:36=Exist
 TextMayBeMissing	Luk.17:36	Absent [=Mat.24:40]	Luk.17:36
 
-$Luk.22:43-44	English	English-RSV+	English-KJV+
+$Luk.22:43-44	English	Greek	Greek2
 TEST: If...	Luk.22:43-44=NotExist	Luk.22:43-44=NotExist	Luk.22:43-44=Exist
 TextMayBeMissing	Luk.22:43-44	Absent	Luk.22:43-44
 
-$Luk.23:17	English	English-RSV+	English-KJV+
+$Luk.23:17	English	Greek	Greek2
 TEST: If...	Luk.23:17=NotExist	Luk.23:17=NotExist	Luk.23:17=Exist
 TextMayBeMissing	Luk.23:17	Absent [=Mat.27:15; Mrk.15:6]	Luk.23:17
 
-$Jhn.5:3.2-5:4	English	English-RSV+	English-KJV+
+$Jhn.5:3.2-5:4	English	Greek	Greek2
 TEST: If...	Jhn.5:4=NotExist	Jhn.5:4=NotExist	Jhn.5:4=Exist
 TextMayBeMissing	Jhn.5:4	Absent	Jhn.5:4
 
-$Jhn.7:38-8:11 ?????	English	English-RSV+	English-KJV+
+$Jhn.7:38-8:11	English	Greek	Greek2
 TEST: If...	Jhn.8:1=NotExist	Jhn.8:1=NotExist	Jhn.8:1=Exist
 PassageMissing	Jhn.7:53	Jhn.7:53 [=7:53-8:11]	Jhn.7:53 [=7:53-8:11]
 
@@ -2263,11 +2266,23 @@ TEST: If...	Act.14:28=Last	Act.14:27=Last	Act.14:28=Last
 DuplicateTarget	Act.14:6-7	Act.14:6	Act.14:6-7	
 OneToOne	Act.14:8-28	Act.14:7-27	Act.14:8-28	
 
-$Act.24:6b-8a	English	English-RSV+	English-KJV+
+$Act.19:40-41	English	Latin	Greek	Greek2	
+TEST: If...	Act.19:41=Last	Act.19:40=Last	Act.19:40=Last	Act.19:41=Last
+DuplicateTarget	Act.19:40-41	Act.19:40	Act.19:40	Act.19:40-41
+
+$Act.24:6b-8a	English	Greek	Greek2
 TEST: If...	Act.24:7=NotExist	Act.24:7=NotExist	Act.24:7=Exist
 TextMayBeMissing	Act.24:7	Absent	Act.24:7
 
-$Act.28:29	English	English-RSV+	English-KJV+
+$Act.8:37	English	Greek	Greek2
+TEST: If...	Act.8:37=NotExist	Act.8:37=NotExist	Act.8:37=Exist
+TextMayBeMissing	Act.8:37	Absent	Act.8:37
+
+$Act.15:34	English	Greek	Greek2
+TEST: If...	Act.15:34=NotExist	Act.15:34=NotExist	Act.15:34=Exist
+TextMayBeMissing	Act.15:34	Absent	Act.15:34
+
+$Act.28:29	English	Greek	Greek2
 TEST: If...	Act.28:29=NotExist	Act.28:29=NotExist	Act.28:29=Exist
 TextMayBeMissing	Act.28:29	Absent	Act.28:29
 
@@ -2277,22 +2292,27 @@ DuplicateTarget	Rom.14:22-23	Rom.14:22-23	Rom.14:22
 TextMayBeMissing	Rom.16:24	Rom.16:24	Rom.16:24	
 DuplicateTarget	Rom.16:25-27	Rom.16:25-27	Rom.14:23
 
-$2Co.13:12-13 ?????	English	English-RSV+	English-KJV+
+$1Co.10:33--11:2	English	Greek	Bangladeshi see https://www.bible.com/en-GB/bible/1681/1CO.10.bengali-bsi
+TEST: If...	1Co.10:33=Last	1Co.10:33=Last	1Co.10:34=Last
+OneToOne	1Co.11:1	1Co.11:1	1Co.10:34
+Concatenation	1Co.11:2	1Co.11:2	1Co.11:1-2
+
+$2Co.13:12-13	English	Greek	Greek2
 TEST: If...	2Co.13:13=Last	2Co.13:13=Last	2Co.13:12=Last
 DuplicateTarget	2Co.13:12-13	2Co.13:12-13	2Co.13:12
 
-$1Jn.5:7-8	English	English-RSV+	English-KJV+
+$1Jn.5:7-8	English	Greek	Greek2
 TEST: If...	1Jh.5:7<1Jh.5:19	1Jh.5:7<1Jh.5:19	1Jh.5:7>1Jh.5:19
 TextMayBeMissing	1Jn.5:7	1Jn.5:7.1	1Jn.5:7
 TextMayBeMissing	1Jn.5:8	1Jn.5:8.2	1Jn.5:8
 
-$3Jn.14-15	English	English-RSV+	English-KJV+
+$3Jn.14-15	English	Greek	Greek2
 TEST: If...	3Jn.1:14=Last	3Jn.1:15=Last	3Jn.1:14=Last
 DuplicateTarget	3Jn.1:14-15	3Jn.1:14-15	3Jn.1:14
 
-$Rev.12.17-13.1a	English	English-RSV+	English-KJV+
-TEST: If...	Rev.12.17=Last	Rev.12.18=Last	Rev.12.17=Last
-DuplicateTarget	Rev.12.17-18	Rev.12.17-18	Rev.12.17-13.1a
+$Rev.12:17-13.1a	English	Greek	Greek2
+TEST: If...	Rev.12:17=Last	Rev.12.18=Last	Rev.12:17=Last
+DuplicateTarget	Rev.12:17-18	Rev.12:17-18	Rev.12:17-13.1a
 
 
 # ==========
@@ -18347,6 +18367,11 @@ Latin	Act.14:25	Act.14:26	Renumber verse	[25]	%Normally in this Bible the verse 
 Latin	Act.14:26	Act.14:27	Renumber verse	[26]	%Normally in this Bible the verse numbering here is% 14:26.		(Latin=14:26 • Greek=14:27)	Act.14:27=Last	
 Latin	Act.14:27	Act.14:28	Renumber verse	[27]	%Normally in this Bible the verse numbering here is% 14:27.		(Latin=14:27 • Greek=14:28)	Act.14:27=Last	
 
+English+Greek2	Act.19:40	Act.19:40	Keep verse	[40a]	%In some Bibles the verse numbering here is% 19:40a.		(Latin=19:40a • Greek=19:40a • Greek2=19:40)	Act.19:41=Last	
+English+Greek2	Act.19:41	Act.19:41	Keep verse	[40b]	%In some Bibles the verse numbering here is% 19:40b.		(Latin=19:40b • Greek=19:40b • Greek2=19:41)	Act.19:41=Last	
+Latin+Greek	Act.19:40	Act.19:40	Keep verse	[40-41]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 19:40.		(Latin=19:40a • Greek=19:40a • Greek2=19:40)	Act.19:40=Last	
+Latin+Greek	Act.19:40	Act.19:41	Merged with	[40b]	%Normally in this Bible, text may be missing here because this verse is merged with% 19:40.		(Latin=19:40b • Greek=19:40b • Greek2=19:41)	Act.19:40=Last	
+
 English+Greek	Rom.14:22	Rom.14:22	Keep verse	[22a]	%In some Bibles the verse numbering here is% 14:22a.		(Greek=14:22 • Greek2=14:22a)	Rom.16:27=Last	
 English+Greek	Rom.14:23	Rom.14:23	Keep verse	[22b]	%In some Bibles the verse numbering here is% 14:22b.		(Greek=14:23 • Greek2=14:22b)	Rom.16:27=Last	
 English+Greek	Rom.16:25	Rom.16:25	Keep verse	[23a]	%In some Bibles the verse numbering here is% 14:23a.		(Greek=16:25-27 • Greek2=14:23)	Rom.16:27=Last	
@@ -18358,15 +18383,26 @@ Greek2	Rom.14:23.1	Rom.16:25	Renumber verse	[14:23a]	%Normally in this Bible, th
 Greek2	Rom.14:23.2	Rom.16:26	Renumber verse	[14:23b]	%Normally in this Bible, text may be missing here because this verse is merged with% 14:23.		(Greek=16:25-27 • Greek2=14:23)	Rom.16:24=Last	
 Greek2	Rom.14:23.3	Rom.16:27	Renumber verse	[14:23c]	%Normally in this Bible, text may be missing here because this verse is merged with% 14:23.		(Greek=16:25-27 • Greek2=14:23)	Rom.16:24=Last	
 
-English+Greek	3Jn.1:14	3Jn.1:14	Keep verse	[22a]	%In some Bibles the verse numbering here is% 1:14a.		(Greek=1:14 • Greek2=1:14a)	3Jn.1:15=Last	
-English+Greek	3Jn.1:15	3Jn.1:15	Keep verse	[22b]	%In some Bibles the verse numbering here is% 1:14b.		(Greek=1:15 • Greek2=1:14b)	3Jn.1:15=Last	
-Greek2	3Jn.1:14	3Jn.1:14	Keep verse	[22-23]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 1:14.		(Greek=1:14 • Greek2=1:14a)	3Jn.1:14=Last	
-Greek2	3Jn.1:14	3Jn.1:15	Merged with	[22b]	%Normally in this Bible, text may be missing here because this verse is merged with% 1:14.		(Greek=1:15 • Greek2=1:14b)	3Jn.1:14=Last	
+English+Greek	1Co.11:1	1Co.11:1	Keep verse	[34]	%In some Bibles the verse numbering here is% 10:34.		(Greek=11:1)	1Co.10:33=Last	
+English+Greek	1Co.11:2	1Co.11:2	Keep verse	[1-2]	%In some Bibles the verse numbering here is% 11:1-2.		(Greek=11:2)	1Co.10:33=Last	
+Bangladeshi	1Co.10:34	1Co.11:1	Renumber verse	[1]	%Normally in this Bible the verse numbering here is% 10:34.		(Greek=11:1)	1Co.10:34=Last	
+Bangladeshi	1Co.11:1	1Co.11:2	Renumber verse	[2a]	%Normally in this Bible the verse numbering here is% 11:1.		(Greek=11:2a)	1Co.10:34=Last	
+Bangladeshi	1Co.11:2	1Co.11:2.2	Renumber verse	[2b]	%Normally in this Bible the verse numbering here is% 11:2.		(Greek=11:2b)	1Co.10:34=Last	
 
-English+Greek	Rev.12:17	Rev.12:17	Keep verse	[22a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 • Greek2=12:17a)	Rev.12:18=Last	
-English+Greek	Rev.12:18	Rev.12:18	Keep verse	[22b]	%In some Bibles the verse numbering here is% 12:17b.		(Greek=12:18 • Greek2=12:17b)	Rev.12:18=Last	
-Greek2	Rev.12:17	Rev.12:17	Keep verse	[22-23]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 12:17.		(Greek=12:17 • Greek2=12:17a)	Rev.12:17=Last	
-Greek2	Rev.12:17	Rev.12:18	Merged with	[22b]	%Normally in this Bible, text may be missing here because this verse is merged with% 12:17.		(Greek=12:18 • Greek2=12:17b)	Rev.12:17=Last	
+English+Greek	2Co.13:12	2Co.13:12	Keep verse	[12a]	%In some Bibles the verse numbering here is% 1:12a.		(Greek=1:14 • Greek2=1:14a)	2Co.13:13=Last	
+English+Greek	2Co.13:13	2Co.13:13	Keep verse	[12b]	%In some Bibles the verse numbering here is% 1:12b.		(Greek=1:15 • Greek2=1:14b)	2Co.13:13=Last	
+Greek2	2Co.13:12	2Co.13:12	Keep verse	[12-13]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 1:12.		(Greek=1:12 • Greek2=1:12a)	2Co.13:12=Last	
+Greek2	2Co.13:12	2Co.13:13	Merged with	[12b]	%Normally in this Bible, text may be missing here because this verse is merged with% 1:12.		(Greek=1:13 • Greek2=1:12b)	2Co.13:12=Last	
+
+English+Greek	3Jn.1:14	3Jn.1:14	Keep verse	[14a]	%In some Bibles the verse numbering here is% 1:14a.		(Greek=1:14 • Greek2=1:14a)	3Jn.1:15=Last	
+English+Greek	3Jn.1:15	3Jn.1:15	Keep verse	[14b]	%In some Bibles the verse numbering here is% 1:14b.		(Greek=1:15 • Greek2=1:14b)	3Jn.1:15=Last	
+Greek2	3Jn.1:14	3Jn.1:14	Keep verse	[14-15]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 1:14.		(Greek=1:14 • Greek2=1:14a)	3Jn.1:14=Last	
+Greek2	3Jn.1:14	3Jn.1:15	Merged with	[14b]	%Normally in this Bible, text may be missing here because this verse is merged with% 1:14.		(Greek=1:15 • Greek2=1:14b)	3Jn.1:14=Last	
+
+English+Greek	Rev.12:17	Rev.12:17	Keep verse	[17a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 • Greek2=12:17a)	Rev.12:18=Last	
+English+Greek	Rev.12:18	Rev.12:18	Keep verse	[17b]	%In some Bibles the verse numbering here is% 12:17b.		(Greek=12:18 • Greek2=12:17b)	Rev.12:18=Last	
+Greek2	Rev.12:17	Rev.12:17	Keep verse	[17-18]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 12:17.		(Greek=12:17 • Greek2=12:17a)	Rev.12:17=Last	
+Greek2	Rev.12:17	Rev.12:18	Merged with	[17b]	%Normally in this Bible, text may be missing here because this verse is merged with% 12:17.		(Greek=12:18 • Greek2=12:17b)	Rev.12:17=Last	
 
 
 # NO TESTS: 
@@ -18383,26 +18419,26 @@ Greek2	Rev.12:17	Rev.12:18	Merged with	[22b]	%Normally in this Bible, text may b
 	Mat.5:5	Mat.5:5	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Mat.9:24	Mat.9:24	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Mat.10:3	Mat.10:3	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Mat.12:47	Mat.12:47	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Luk.8:20.				
+	Mat.12:47	Mat.12:47	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Luk.8:20.				
 	Mat.15:6	Mat.15:6	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Mat.17:21	Mat.17:21	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mrk.9:29.				
-	Mat.18:11	Mat.18:11	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Luk.19:10.				
+	Mat.17:21	Mat.17:21	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mrk.9:29.				
+	Mat.18:11	Mat.18:11	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Luk.19:10.				
 	Mat.20:5	Mat.20:5	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Mat.21:2	Mat.21:2	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Mat.21:26	Mat.21:26	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Mat.21:44	Mat.21:44	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Luk.20:18.				
+	Mat.21:44	Mat.21:44	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Luk.20:18.				
 	Mat.22:42	Mat.22:42	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Mat.23:14	Mat.23:14	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mrk.12:40; Luk.20:47.	%In some Bibles this verse starts on a different word%.			
+	Mat.23:14	Mat.23:14	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mrk.12:40; Luk.20:47.	%In some Bibles this verse starts on a different word%.			
 	Mat.28:9	Mat.28:9	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Mrk.3:20	Mrk.3:20	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Mrk.6:28	Mrk.6:28	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Mrk.7:16	Mrk.7:16	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mrk.4:9,23.				
-	Mrk.9:44	Mrk.9:44	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mrk.9:48.				
-	Mrk.9:46	Mrk.9:46	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mrk.9:48.				
-	Mrk.11:26	Mrk.11:26	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mat.6:15.				
+	Mrk.7:16	Mrk.7:16	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mrk.4:9,23.				
+	Mrk.9:44	Mrk.9:44	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mrk.9:48.				
+	Mrk.9:46	Mrk.9:46	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mrk.9:48.				
+	Mrk.11:26	Mrk.11:26	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mat.6:15.				
 	Mrk.12:15	Mrk.12:15	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Mrk.13:9	Mrk.13:9	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Mrk.15:28	Mrk.15:28	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Luk.22:37.				
+	Mrk.15:28	Mrk.15:28	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Luk.22:37.				
 	Mrk.16:8	Mrk.16:8	Keep verse	[+]	%Some manuscripts have no text at% 16.9-20.				
 	Luk.1:74	Luk.1:74	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Luk.4:19	Luk.4:19	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
@@ -18413,12 +18449,12 @@ Greek2	Rev.12:17	Rev.12:18	Merged with	[22b]	%Normally in this Bible, text may b
 	Luk.14:4	Luk.14:4	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Luk.14:35	Luk.14:35	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Luk.16:23	Luk.16:23	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Luk.17:36	Luk.17:36	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mat.24:40.	%In some Bibles this verse starts on a different word%.			
+	Luk.17:36	Luk.17:36	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mat.24:40.	%In some Bibles this verse starts on a different word%.			
 	Luk.19:42	Luk.19:42	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Luk.22:43	Luk.22:43	Keep verse	[0]	%In some Bibles this verse may not contain any text%.				
 	Luk.22:44	Luk.22:44	Keep verse	[0]	%In some Bibles this verse may not contain any text%.				
 	Luk.22:67	Luk.22:67	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
-	Luk.23:17	Luk.23:17	Keep verse	[0]	%In some Bibles this verse may contain text similar to% Mat.27:15; Mrk.15:6.				
+	Luk.23:17	Luk.23:17	Keep verse	[0]	%Some manuscripts have no text here. Others have text similar to% Mat.27:15; Mrk.15:6.				
 	Luk.24:46	Luk.24:46	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Jhn.1:39	Jhn.1:39	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Jhn.4:14	Jhn.4:14	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
@@ -18437,11 +18473,13 @@ Greek2	Rev.12:17	Rev.12:18	Merged with	[22b]	%Normally in this Bible, text may b
 	Act.7:56	Act.7:56	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.8:1	Act.8:1	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.8:20	Act.8:20	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
+	Act.8:37	Act.8:37	Keep verse	[0]	%In some Bibles this verse may not contain any text%.				
 	Act.9:29	Act.9:29	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.11:26	Act.11:26	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.13:33	Act.13:33	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.13:31	Act.13:31	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.13:39	Act.13:39	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
+	Act.15:34	Act.15:34	Keep verse	[0]	%In some Bibles this verse may not contain any text%.				
 	Act.16:38	Act.16:38	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.18:13	Act.18:13	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
 	Act.19:41	Act.19:41	Keep verse	[+]	%In some Bibles this verse starts on a different word%.				
@@ -18632,6 +18670,7 @@ Phrases to translate to different languages:
 %This verse includes words that are alternatively at% REF
 %In some Bibles this verse includes words that are alternatively at% REF
 %In some Bibles this verse may contain text similar to% REF
+%Some manuscripts have no text here. Others have text similar to% REF
 %Some manuscripts have no text at% REF
 %In some Bibles this chapter is a separate book%
 %In some Bibles this verse may not contain any text%
