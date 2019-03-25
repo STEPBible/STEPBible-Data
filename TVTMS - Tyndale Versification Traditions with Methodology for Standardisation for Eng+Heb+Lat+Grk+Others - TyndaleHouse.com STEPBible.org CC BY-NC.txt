@@ -1,6 +1,3 @@
-(Gen.27:7|Exo.10:8|Exo.25:2|Lev.1:2|Num.5:31|Num.25:9|Deu.1:35|Deu.1:36|Jdg.2:21|Jdg.4:20|Jdg.5:8|Jdg.9:2|Jdg.16:31|2Sa.15:16|1Ki.1:46|1Ki.2:11|1Ki.20:32|1Ki.21:18|2Ki.1:7|2Ki.3:17|2Ki.10:13|2Ki.22:16|1Ch.23:4|2Ch.16:9|2Ch.29:30|Job.6:9|Psa.135:2|Pro.2:22|Jer.3:5|Jer.49:9|Eze.4:7|Eze.21:16|Eze.24:5|Eze.24:8|Eze.34:10|Dan.7:19|
-Mrk.15:28|Luk.17:36|Act.8:37|Act.15:34|Act.24:7|Act.28:29)
-
 TVTMS - Tyndale Versification Traditions with Methodology for Standardisation for Eng+Heb+Lat+Grk+Others - TyndaleHouse.com STEPBible.org CC BY-NC.txt
 ﻿============================================================================================
 
@@ -4476,11 +4473,6 @@ English+Hebrew+Latin	1Ki.9:24	1Ki.9:24	Keep verse	[35f]	%In some Bibles the vers
 English+Hebrew+Latin	1Ki.9:25	1Ki.9:25	Keep verse	[35g]	%In some Bibles the verse numbering here is% 2:35g.	%This verse may not contain any text%.	(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
 English+Hebrew+Latin	1Ki.10:22	1Ki.10:22	Keep verse	[22,a-c]	%In some Bibles the verse numbering here is% 10:22, 22a-c.	%This verse includes words that are at% 9:15,17-22.	(Hebrew=10:22 • Latin=10:22 • Greek=10:22, 22a-c[+9:15,17-22])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
 English+Hebrew+Latin	1Ki.10:26	1Ki.10:26	Keep verse	[26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%This verse includes words that are at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-Greek	1Ki.2:35.6	1Ki.9:24	Renumber verse	[2:35f]	%Normally in this Bible the verse numbering here is% 2:35c.	%This verse includes words that are also at% 9:9c.	(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.7	1Ki.9:25	Renumber verse	[2:35g]	%Normally in this Bible the verse numbering here is% 2:35g.		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.8	1Ki.9:23.1	Renumber verse	[2:35h]	%Normally in this Bible the verse numbering here is% 2:35h.		(Hebrew=9:23a • Latin=9:23a • Greek=2:35h)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.9	1Ki.9:23.2	Renumber verse	[2:35i]	%Normally in this Bible the verse numbering here is% 2:35i.		(Hebrew=9:23b • Latin=9:23b • Greek=2:35i)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.10	1Ki.9:23.3	Renumber verse	[2:35j]	%Normally in this Bible the verse numbering here is% 2:35j.		(Hebrew=9:23c • Latin=9:23c • Greek=2:35j)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.5:14.2	1Ki.9:16	Renumber verse	[5:14b]	%Normally in this Bible the verse numbering here is% 5:14b.		(Hebrew=9:16 • Latin=9:16 • Greek=5:14b)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.8:53	1Ki.8:53	Keep verse	[53,a-b]	%In some Bibles the verse numbering here is% 8:53, 53a-b.	%This verse includes words that are at% 8:12-13.	(Hebrew=8:53 • Latin=8:53 • Greek=8:53, 53a-b[+8:12-13])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.8:53.1	1Ki.8:12	Renumber verse	[53a]	%Normally in this Bible, this verse and the next are merged into one verse that is numbered% 8:53.		(Hebrew=8:12 • Latin=8:12 • Greek=8:53a)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
@@ -4493,7 +4485,12 @@ Greek	1Ki.9:19	1Ki.9:19	Merged with	[0]	%Normally in this Bible, text may be mis
 Greek	1Ki.9:20	1Ki.9:20	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 10:22.		(Hebrew=9:20 • Latin=9:20 • Greek=10:22b)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:21	1Ki.9:21	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 10:22.		(Hebrew=9:21 • Latin=9:21 • Greek=10:22b)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:22	1Ki.9:22	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 10:22.		(Hebrew=9:22 • Latin=9:22 • Greek=10:22c)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.6	1Ki.9:24	Renumber verse	[2:35f]	%Normally in this Bible the verse numbering here is% 2:35c.	%This verse includes words that are also at% 9:9c.	(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.7	1Ki.9:25	Renumber verse	[2:35g]	%Normally in this Bible the verse numbering here is% 2:35g.		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:23	1Ki.9:23	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 2:35.		(Hebrew=9:23 • Latin=9:23 • Greek=2:35i-k)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.8	1Ki.9:23.1	Renumber verse	[2:35h]	%Normally in this Bible the verse numbering here is% 2:35h.		(Hebrew=9:23a • Latin=9:23a • Greek=2:35h)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.9	1Ki.9:23.2	Renumber verse	[2:35i]	%Normally in this Bible the verse numbering here is% 2:35i.		(Hebrew=9:23b • Latin=9:23b • Greek=2:35i)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.10	1Ki.9:23.3	Renumber verse	[2:35j]	%Normally in this Bible the verse numbering here is% 2:35j.		(Hebrew=9:23c • Latin=9:23c • Greek=2:35j)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:24	1Ki.9:24	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 2:35.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:25	1Ki.9:25	Merged with	[0]	%Normally in this Bible, text may be missing here because this verse is merged with% 2:35.		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.10:22	1Ki.10:22	Keep verse	[22,a-c]	%In some Bibles the verse numbering here is% 10:22, 22a-c.	%This verse includes words that are at% 9:15,17-22.	(Hebrew=10:22 • Latin=10:22 • Greek=10:22, 22a-c[+9:15,17-22])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
