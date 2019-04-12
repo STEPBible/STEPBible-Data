@@ -561,6 +561,11 @@ TEST: If...	2Ch.14:15=Last	2Ch.14:14=Last	2Ch.14:15=Last	2Ch.14:14=Last
 OneToOne	2Ch.14:1	2Ch.13:23	2Ch.14:1	2Ch.13:23			
 OneToOne	2Ch.14:2-15	2Ch.14:1-14	2Ch.14:2-15	2Ch.14:1-14			
 
+$2Ch.36:24-38	English	Hebrew	Latin	Greek	
+TEST: If...	Man.1:15=Last	Man.1:1=NotExist	Man.1:1=NotExist	Man.1:15=Last			
+TEST: And if... 	2Ch.36:24=NotExist	2Ch.36:24=NotExist	2Ch.36:24=Exist	2Ch.36:24=NotExist			
+OneToOne	Man.1.1-15	NoVerse	2Ch.36:24-38	Man.1.1-15			
+
 $Neh.3:30-4:23	English	Hebrew	Latin	Greek	Greek2
 TEST: If...	Neh.3:32=Last	Neh.3:38=Last	Neh.3:31=Last	Neh.3:37=Last	Neh.3:32=Last		
 TEST: And if... 	Neh.4:23=Last	Neh.4:17=Last	Neh.4:23=Last	Neh.4:17=Last	Neh.4:23=Last		
@@ -1542,6 +1547,12 @@ TEST: If...	Bel.1:42=Last	Bel.1:10=NotExist	Bel.1:10=NotExist	Bel.1:42=Last
 TEST: And if... 	Dan.14:1=NotExist	Dan.14:1=NotExist	Dan.14:1=Exist	Dan.14:1=NotExist			
 TextMayBeMissing	Bel.1:1	NoVerse	Absent	Bel.1:1			
 OneToOne	Bel.1:2-42	NoVerse	Dan.14:1-41	Bel.1:2-42			
+
+$2Ch.14:1-14:15	English	Hebrew	Latin	Greek	
+TEST: If...	Man.1:15=Last	Man.1:1=NotExist	Man.1:1=NotExist	Man.1:15=Last			
+TEST: And if... 	2Ch.36:24=NotExist	2Ch.36:24=NotExist	2Ch.36:24=Exist	2Ch.36:24=NotExist			
+OneToOne	Man.1.1-15	NoVerse	2Ch.36:24-38	Man.1.1-15			
+
 
 $Hos.1:10-2:23	English	Hebrew	Latin	Greek	
 TEST: If...	Hos.2:23=Last	Hos.2:25=Last	Hos.2:24=Last	Hos.2:23=Last			
@@ -5252,6 +5263,52 @@ Hebrew+Greek	2Ch.14:11	2Ch.14:12	Renumber verse	[11]	%Normally in this Bible the
 Hebrew+Greek	2Ch.14:12	2Ch.14:13	Renumber verse	[12]	%Normally in this Bible the verse numbering here is% 14:12.		(Hebrew=14:12 • Latin=14:13 • Greek=14:12)	2Ch.14:14=Last	
 Hebrew+Greek	2Ch.14:13	2Ch.14:14	Renumber verse	[13]	%Normally in this Bible the verse numbering here is% 14:13.		(Hebrew=14:13 • Latin=14:14 • Greek=14:13)	2Ch.14:14=Last	
 Hebrew+Greek	2Ch.14:14	2Ch.14:15	Renumber verse	[14]	%Normally in this Bible the verse numbering here is% 14:14.		(Hebrew=14:14 • Latin=14:15 • Greek=14:14)	2Ch.14:14=Last	
+
+English	Man.1:1	Man.1:1	Keep verse	[24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:15=Last & 2Ch.36:24=NotExist	
+English	Man.1:10	Man.1:10	Keep verse	[33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:105=Last & 2Ch.36:33=NotExist	
+English	Man.1:11	Man.1:11	Keep verse	[34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:115=Last & 2Ch.36:34=NotExist	
+English	Man.1:12	Man.1:12	Keep verse	[35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:125=Last & 2Ch.36:35=NotExist	
+English	Man.1:13	Man.1:13	Keep verse	[36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:135=Last & 2Ch.36:36=NotExist	
+English	Man.1:14	Man.1:14	Keep verse	[37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:145=Last & 2Ch.36:37=NotExist	
+English	Man.1:15	Man.1:15	Keep verse	[38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:155=Last & 2Ch.36:38=NotExist	
+English	Man.1:2	Man.1:2	Keep verse	[25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:25=Last & 2Ch.36:25=NotExist	
+English	Man.1:3	Man.1:3	Keep verse	[26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:35=Last & 2Ch.36:26=NotExist	
+English	Man.1:4	Man.1:4	Keep verse	[27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:45=Last & 2Ch.36:27=NotExist	
+English	Man.1:5	Man.1:5	Keep verse	[28]	%In some Bibles the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:55=Last & 2Ch.36:28=NotExist	
+English	Man.1:6	Man.1:6	Keep verse	[29]	%In some Bibles the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:65=Last & 2Ch.36:29=NotExist	
+English	Man.1:7	Man.1:7	Keep verse	[30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:75=Last & 2Ch.36:30=NotExist	
+English	Man.1:8	Man.1:8	Keep verse	[31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:85=Last & 2Ch.36:31=NotExist	
+English	Man.1:9	Man.1:9	Keep verse	[32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:95=Last & 2Ch.36:32=NotExist	
+Greek	Man.1:1	Man.1:1	Keep verse	[24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:15=Last & 2Ch.36:24=NotExist	
+Greek	Man.1:10	Man.1:10	Keep verse	[33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:105=Last & 2Ch.36:33=NotExist	
+Greek	Man.1:11	Man.1:11	Keep verse	[34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:115=Last & 2Ch.36:34=NotExist	
+Greek	Man.1:12	Man.1:12	Keep verse	[35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:125=Last & 2Ch.36:35=NotExist	
+Greek	Man.1:13	Man.1:13	Keep verse	[36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:135=Last & 2Ch.36:36=NotExist	
+Greek	Man.1:14	Man.1:14	Keep verse	[37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:145=Last & 2Ch.36:37=NotExist	
+Greek	Man.1:15	Man.1:15	Keep verse	[38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:155=Last & 2Ch.36:38=NotExist	
+Greek	Man.1:2	Man.1:2	Keep verse	[25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:25=Last & 2Ch.36:25=NotExist	
+Greek	Man.1:3	Man.1:3	Keep verse	[26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:35=Last & 2Ch.36:26=NotExist	
+Greek	Man.1:4	Man.1:4	Keep verse	[27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:45=Last & 2Ch.36:27=NotExist	
+Greek	Man.1:5	Man.1:5	Keep verse	[28]	%In some Bibles the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:55=Last & 2Ch.36:28=NotExist	
+Greek	Man.1:6	Man.1:6	Keep verse	[29]	%In some Bibles the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:65=Last & 2Ch.36:29=NotExist	
+Greek	Man.1:7	Man.1:7	Keep verse	[30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:75=Last & 2Ch.36:30=NotExist	
+Greek	Man.1:8	Man.1:8	Keep verse	[31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:85=Last & 2Ch.36:31=NotExist	
+Greek	Man.1:9	Man.1:9	Keep verse	[32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:95=Last & 2Ch.36:32=NotExist	
+Latin	2Ch.36:24	Man.1:1	Renumber verse	[24]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=NotExist & 2Ch.36:24=Exist	
+Latin	2Ch.36:25	Man.1:2	Renumber verse	[25]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=NotExist & 2Ch.36:25=Exist	
+Latin	2Ch.36:26	Man.1:3	Renumber verse	[26]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=NotExist & 2Ch.36:26=Exist	
+Latin	2Ch.36:27	Man.1:4	Renumber verse	[27]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:4=NotExist & 2Ch.36:27=Exist	
+Latin	2Ch.36:28	Man.1:5	Renumber verse	[28]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:5=NotExist & 2Ch.36:28=Exist	
+Latin	2Ch.36:29	Man.1:6	Renumber verse	[29]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:6=NotExist & 2Ch.36:29=Exist	
+Latin	2Ch.36:30	Man.1:7	Renumber verse	[30]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:7=NotExist & 2Ch.36:30=Exist	
+Latin	2Ch.36:31	Man.1:8	Renumber verse	[31]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:8=NotExist & 2Ch.36:31=Exist	
+Latin	2Ch.36:32	Man.1:9	Renumber verse	[32]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:9=NotExist & 2Ch.36:32=Exist	
+Latin	2Ch.36:33	Man.1:10	Renumber verse	[33]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:10=NotExist & 2Ch.36:33=Exist	
+Latin	2Ch.36:34	Man.1:11	Renumber verse	[34]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:11=NotExist & 2Ch.36:34=Exist	
+Latin	2Ch.36:35	Man.1:12	Renumber verse	[35]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:12=NotExist & 2Ch.36:35=Exist	
+Latin	2Ch.36:36	Man.1:13	Renumber verse	[36]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:13=NotExist & 2Ch.36:36=Exist	
+Latin	2Ch.36:37	Man.1:14	Renumber verse	[37]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:14=NotExist & 2Ch.36:37=Exist	
+Latin	2Ch.36:38	Man.1:15	Renumber verse	[38]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:15=NotExist & 2Ch.36:38=Exist	
 
 English	Neh.3:30	Neh.3:30	Keep verse	[30a]	%In some Bibles the verse numbering here is% 3:30a.		(Hebrew=3:30 • Latin=3:30a • Greek=3:30 • Greek2=3:30)	Neh.3:32=Last & Neh.4:23=Last & Neh.4:6*2>Neh.4:3	
 English	Neh.3:31	Neh.3:31	Keep verse	[30b]	%In some Bibles the verse numbering here is% 3:30b.		(Hebrew=3:31 • Latin=3:30b • Greek=3:31 • Greek2=3:31)	Neh.3:32=Last & Neh.4:23=Last & Neh.4:6*2>Neh.4:3	
@@ -15156,48 +15213,48 @@ Latin	Dan.13:62	Sus.1:62	Renumber verse	[62]	%Normally in this Bible the verse n
 Latin	Dan.13:63	Sus.1:63	Renumber verse	[63]	%In some Bibles the verse numbering here is Daniel% 13:63.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:63 • Greek=Sus.1:63 • Greek2= --)	Sus.1:10=NotExist & Dan.13:1=Exist	
 Latin	Dan.13:64	Sus.1:64	Renumber verse	[64]	%In some Bibles the verse numbering here is Daniel% 13:64.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:64 • Greek=Sus.1:64 • Greek2= --)	Sus.1:10=NotExist & Dan.13:1=Exist	
 
-English+Hebrew	Bel.1:1	Bel.1:1	Keep verse	[1]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:2	Bel.1:2	Keep verse	[1]	%In some Bibles the verse numbering here is Daniel% 14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:3	Bel.1:3	Keep verse	[2]	%In some Bibles the verse numbering here is Daniel% 14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:4	Bel.1:4	Keep verse	[3]	%In some Bibles the verse numbering here is Daniel% 14:3.		(Hebrew= -- • Latin=Dan.14:3 • Greek=Bel.1:4)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:5	Bel.1:5	Keep verse	[4]	%In some Bibles the verse numbering here is Daniel% 14:4.		(Hebrew= -- • Latin=Dan.14:4 • Greek=Bel.1:5)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:6	Bel.1:6	Keep verse	[5]	%In some Bibles the verse numbering here is Daniel% 14:5.		(Hebrew= -- • Latin=Dan.14:5 • Greek=Bel.1:6)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:7	Bel.1:7	Keep verse	[6]	%In some Bibles the verse numbering here is Daniel% 14:6.		(Hebrew= -- • Latin=Dan.14:6 • Greek=Bel.1:7)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:8	Bel.1:8	Keep verse	[7]	%In some Bibles the verse numbering here is Daniel% 14:7.		(Hebrew= -- • Latin=Dan.14:7 • Greek=Bel.1:8)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:9	Bel.1:9	Keep verse	[8]	%In some Bibles the verse numbering here is Daniel% 14:8.		(Hebrew= -- • Latin=Dan.14:8 • Greek=Bel.1:9)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:10	Bel.1:10	Keep verse	[9]	%In some Bibles the verse numbering here is Daniel% 14:9.		(Hebrew= -- • Latin=Dan.14:9 • Greek=Bel.1:10)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:11	Bel.1:11	Keep verse	[10]	%In some Bibles the verse numbering here is Daniel% 14:10.		(Hebrew= -- • Latin=Dan.14:10 • Greek=Bel.1:11)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:12	Bel.1:12	Keep verse	[11]	%In some Bibles the verse numbering here is Daniel% 14:11.		(Hebrew= -- • Latin=Dan.14:11 • Greek=Bel.1:12)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:13	Bel.1:13	Keep verse	[12]	%In some Bibles the verse numbering here is Daniel% 14:12.		(Hebrew= -- • Latin=Dan.14:12 • Greek=Bel.1:13)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:14	Bel.1:14	Keep verse	[13]	%In some Bibles the verse numbering here is Daniel% 14:13.		(Hebrew= -- • Latin=Dan.14:13 • Greek=Bel.1:14)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:15	Bel.1:15	Keep verse	[14]	%In some Bibles the verse numbering here is Daniel% 14:14.		(Hebrew= -- • Latin=Dan.14:14 • Greek=Bel.1:15)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:16	Bel.1:16	Keep verse	[15]	%In some Bibles the verse numbering here is Daniel% 14:15.		(Hebrew= -- • Latin=Dan.14:15 • Greek=Bel.1:16)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:17	Bel.1:17	Keep verse	[16]	%In some Bibles the verse numbering here is Daniel% 14:16.		(Hebrew= -- • Latin=Dan.14:16 • Greek=Bel.1:17)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:18	Bel.1:18	Keep verse	[17]	%In some Bibles the verse numbering here is Daniel% 14:17.		(Hebrew= -- • Latin=Dan.14:17 • Greek=Bel.1:18)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:19	Bel.1:19	Keep verse	[18]	%In some Bibles the verse numbering here is Daniel% 14:18.		(Hebrew= -- • Latin=Dan.14:18 • Greek=Bel.1:19)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:20	Bel.1:20	Keep verse	[19]	%In some Bibles the verse numbering here is Daniel% 14:19.		(Hebrew= -- • Latin=Dan.14:19 • Greek=Bel.1:20)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:21	Bel.1:21	Keep verse	[20]	%In some Bibles the verse numbering here is Daniel% 14:20.		(Hebrew= -- • Latin=Dan.14:20 • Greek=Bel.1:21)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:22	Bel.1:22	Keep verse	[21]	%In some Bibles the verse numbering here is Daniel% 14:21.		(Hebrew= -- • Latin=Dan.14:21 • Greek=Bel.1:22)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:23	Bel.1:23	Keep verse	[22]	%In some Bibles the verse numbering here is Daniel% 14:22.		(Hebrew= -- • Latin=Dan.14:22 • Greek=Bel.1:23)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:24	Bel.1:24	Keep verse	[23]	%In some Bibles the verse numbering here is Daniel% 14:23.		(Hebrew= -- • Latin=Dan.14:23 • Greek=Bel.1:24)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:25	Bel.1:25	Keep verse	[24]	%In some Bibles the verse numbering here is Daniel% 14:24.		(Hebrew= -- • Latin=Dan.14:24 • Greek=Bel.1:25)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:26	Bel.1:26	Keep verse	[25]	%In some Bibles the verse numbering here is Daniel% 14:25.		(Hebrew= -- • Latin=Dan.14:25 • Greek=Bel.1:26)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:27	Bel.1:27	Keep verse	[26]	%In some Bibles the verse numbering here is Daniel% 14:26.		(Hebrew= -- • Latin=Dan.14:26 • Greek=Bel.1:27)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:28	Bel.1:28	Keep verse	[27]	%In some Bibles the verse numbering here is Daniel% 14:27.		(Hebrew= -- • Latin=Dan.14:27 • Greek=Bel.1:28)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:29	Bel.1:29	Keep verse	[28]	%In some Bibles the verse numbering here is Daniel% 14:28.		(Hebrew= -- • Latin=Dan.14:28 • Greek=Bel.1:29)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:30	Bel.1:30	Keep verse	[29]	%In some Bibles the verse numbering here is Daniel% 14:29.		(Hebrew= -- • Latin=Dan.14:29 • Greek=Bel.1:30)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:31	Bel.1:31	Keep verse	[30]	%In some Bibles the verse numbering here is Daniel% 14:30.		(Hebrew= -- • Latin=Dan.14:30 • Greek=Bel.1:31)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:32	Bel.1:32	Keep verse	[31]	%In some Bibles the verse numbering here is Daniel% 14:31.		(Hebrew= -- • Latin=Dan.14:31 • Greek=Bel.1:32)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:33	Bel.1:33	Keep verse	[32]	%In some Bibles the verse numbering here is Daniel% 14:32.		(Hebrew= -- • Latin=Dan.14:32 • Greek=Bel.1:33)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:34	Bel.1:34	Keep verse	[33]	%In some Bibles the verse numbering here is Daniel% 14:33.		(Hebrew= -- • Latin=Dan.14:33 • Greek=Bel.1:34)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:35	Bel.1:35	Keep verse	[34]	%In some Bibles the verse numbering here is Daniel% 14:34.		(Hebrew= -- • Latin=Dan.14:34 • Greek=Bel.1:35)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:36	Bel.1:36	Keep verse	[35]	%In some Bibles the verse numbering here is Daniel% 14:35.		(Hebrew= -- • Latin=Dan.14:35 • Greek=Bel.1:36)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:37	Bel.1:37	Keep verse	[36]	%In some Bibles the verse numbering here is Daniel% 14:36.		(Hebrew= -- • Latin=Dan.14:36 • Greek=Bel.1:37)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:38	Bel.1:38	Keep verse	[37]	%In some Bibles the verse numbering here is Daniel% 14:37.		(Hebrew= -- • Latin=Dan.14:37 • Greek=Bel.1:38)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:39	Bel.1:39	Keep verse	[38]	%In some Bibles the verse numbering here is Daniel% 14:38.		(Hebrew= -- • Latin=Dan.14:38 • Greek=Bel.1:39)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:40	Bel.1:40	Keep verse	[39]	%In some Bibles the verse numbering here is Daniel% 14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:41	Bel.1:41	Keep verse	[40]	%In some Bibles the verse numbering here is Daniel% 14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:42=Last & Dan.14:1=NotExist	
-English+Hebrew	Bel.1:42	Bel.1:42	Keep verse	[41]	%In some Bibles the verse numbering here is Daniel% 14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:1	Bel.1:1	Keep verse	[1]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:2	Bel.1:2	Keep verse	[1]	%In some Bibles the verse numbering here is Daniel% 14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:3	Bel.1:3	Keep verse	[2]	%In some Bibles the verse numbering here is Daniel% 14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:4	Bel.1:4	Keep verse	[3]	%In some Bibles the verse numbering here is Daniel% 14:3.		(Hebrew= -- • Latin=Dan.14:3 • Greek=Bel.1:4)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:5	Bel.1:5	Keep verse	[4]	%In some Bibles the verse numbering here is Daniel% 14:4.		(Hebrew= -- • Latin=Dan.14:4 • Greek=Bel.1:5)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:6	Bel.1:6	Keep verse	[5]	%In some Bibles the verse numbering here is Daniel% 14:5.		(Hebrew= -- • Latin=Dan.14:5 • Greek=Bel.1:6)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:7	Bel.1:7	Keep verse	[6]	%In some Bibles the verse numbering here is Daniel% 14:6.		(Hebrew= -- • Latin=Dan.14:6 • Greek=Bel.1:7)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:8	Bel.1:8	Keep verse	[7]	%In some Bibles the verse numbering here is Daniel% 14:7.		(Hebrew= -- • Latin=Dan.14:7 • Greek=Bel.1:8)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:9	Bel.1:9	Keep verse	[8]	%In some Bibles the verse numbering here is Daniel% 14:8.		(Hebrew= -- • Latin=Dan.14:8 • Greek=Bel.1:9)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:10	Bel.1:10	Keep verse	[9]	%In some Bibles the verse numbering here is Daniel% 14:9.		(Hebrew= -- • Latin=Dan.14:9 • Greek=Bel.1:10)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:11	Bel.1:11	Keep verse	[10]	%In some Bibles the verse numbering here is Daniel% 14:10.		(Hebrew= -- • Latin=Dan.14:10 • Greek=Bel.1:11)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:12	Bel.1:12	Keep verse	[11]	%In some Bibles the verse numbering here is Daniel% 14:11.		(Hebrew= -- • Latin=Dan.14:11 • Greek=Bel.1:12)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:13	Bel.1:13	Keep verse	[12]	%In some Bibles the verse numbering here is Daniel% 14:12.		(Hebrew= -- • Latin=Dan.14:12 • Greek=Bel.1:13)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:14	Bel.1:14	Keep verse	[13]	%In some Bibles the verse numbering here is Daniel% 14:13.		(Hebrew= -- • Latin=Dan.14:13 • Greek=Bel.1:14)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:15	Bel.1:15	Keep verse	[14]	%In some Bibles the verse numbering here is Daniel% 14:14.		(Hebrew= -- • Latin=Dan.14:14 • Greek=Bel.1:15)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:16	Bel.1:16	Keep verse	[15]	%In some Bibles the verse numbering here is Daniel% 14:15.		(Hebrew= -- • Latin=Dan.14:15 • Greek=Bel.1:16)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:17	Bel.1:17	Keep verse	[16]	%In some Bibles the verse numbering here is Daniel% 14:16.		(Hebrew= -- • Latin=Dan.14:16 • Greek=Bel.1:17)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:18	Bel.1:18	Keep verse	[17]	%In some Bibles the verse numbering here is Daniel% 14:17.		(Hebrew= -- • Latin=Dan.14:17 • Greek=Bel.1:18)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:19	Bel.1:19	Keep verse	[18]	%In some Bibles the verse numbering here is Daniel% 14:18.		(Hebrew= -- • Latin=Dan.14:18 • Greek=Bel.1:19)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:20	Bel.1:20	Keep verse	[19]	%In some Bibles the verse numbering here is Daniel% 14:19.		(Hebrew= -- • Latin=Dan.14:19 • Greek=Bel.1:20)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:21	Bel.1:21	Keep verse	[20]	%In some Bibles the verse numbering here is Daniel% 14:20.		(Hebrew= -- • Latin=Dan.14:20 • Greek=Bel.1:21)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:22	Bel.1:22	Keep verse	[21]	%In some Bibles the verse numbering here is Daniel% 14:21.		(Hebrew= -- • Latin=Dan.14:21 • Greek=Bel.1:22)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:23	Bel.1:23	Keep verse	[22]	%In some Bibles the verse numbering here is Daniel% 14:22.		(Hebrew= -- • Latin=Dan.14:22 • Greek=Bel.1:23)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:24	Bel.1:24	Keep verse	[23]	%In some Bibles the verse numbering here is Daniel% 14:23.		(Hebrew= -- • Latin=Dan.14:23 • Greek=Bel.1:24)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:25	Bel.1:25	Keep verse	[24]	%In some Bibles the verse numbering here is Daniel% 14:24.		(Hebrew= -- • Latin=Dan.14:24 • Greek=Bel.1:25)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:26	Bel.1:26	Keep verse	[25]	%In some Bibles the verse numbering here is Daniel% 14:25.		(Hebrew= -- • Latin=Dan.14:25 • Greek=Bel.1:26)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:27	Bel.1:27	Keep verse	[26]	%In some Bibles the verse numbering here is Daniel% 14:26.		(Hebrew= -- • Latin=Dan.14:26 • Greek=Bel.1:27)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:28	Bel.1:28	Keep verse	[27]	%In some Bibles the verse numbering here is Daniel% 14:27.		(Hebrew= -- • Latin=Dan.14:27 • Greek=Bel.1:28)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:29	Bel.1:29	Keep verse	[28]	%In some Bibles the verse numbering here is Daniel% 14:28.		(Hebrew= -- • Latin=Dan.14:28 • Greek=Bel.1:29)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:30	Bel.1:30	Keep verse	[29]	%In some Bibles the verse numbering here is Daniel% 14:29.		(Hebrew= -- • Latin=Dan.14:29 • Greek=Bel.1:30)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:31	Bel.1:31	Keep verse	[30]	%In some Bibles the verse numbering here is Daniel% 14:30.		(Hebrew= -- • Latin=Dan.14:30 • Greek=Bel.1:31)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:32	Bel.1:32	Keep verse	[31]	%In some Bibles the verse numbering here is Daniel% 14:31.		(Hebrew= -- • Latin=Dan.14:31 • Greek=Bel.1:32)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:33	Bel.1:33	Keep verse	[32]	%In some Bibles the verse numbering here is Daniel% 14:32.		(Hebrew= -- • Latin=Dan.14:32 • Greek=Bel.1:33)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:34	Bel.1:34	Keep verse	[33]	%In some Bibles the verse numbering here is Daniel% 14:33.		(Hebrew= -- • Latin=Dan.14:33 • Greek=Bel.1:34)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:35	Bel.1:35	Keep verse	[34]	%In some Bibles the verse numbering here is Daniel% 14:34.		(Hebrew= -- • Latin=Dan.14:34 • Greek=Bel.1:35)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:36	Bel.1:36	Keep verse	[35]	%In some Bibles the verse numbering here is Daniel% 14:35.		(Hebrew= -- • Latin=Dan.14:35 • Greek=Bel.1:36)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:37	Bel.1:37	Keep verse	[36]	%In some Bibles the verse numbering here is Daniel% 14:36.		(Hebrew= -- • Latin=Dan.14:36 • Greek=Bel.1:37)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:38	Bel.1:38	Keep verse	[37]	%In some Bibles the verse numbering here is Daniel% 14:37.		(Hebrew= -- • Latin=Dan.14:37 • Greek=Bel.1:38)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:39	Bel.1:39	Keep verse	[38]	%In some Bibles the verse numbering here is Daniel% 14:38.		(Hebrew= -- • Latin=Dan.14:38 • Greek=Bel.1:39)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:40	Bel.1:40	Keep verse	[39]	%In some Bibles the verse numbering here is Daniel% 14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:41	Bel.1:41	Keep verse	[40]	%In some Bibles the verse numbering here is Daniel% 14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:42	Bel.1:42	Keep verse	[41]	%In some Bibles the verse numbering here is Daniel% 14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:1	Bel.1:1	Keep verse	[+]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:2	Bel.1:2	Keep verse	[1]	%In some Bibles the verse numbering here is Daniel% 14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:3	Bel.1:3	Keep verse	[2]	%In some Bibles the verse numbering here is Daniel% 14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:42=Last & Dan.14:1=NotExist	
@@ -15240,48 +15297,48 @@ Greek	Bel.1:39	Bel.1:39	Keep verse	[38]	%In some Bibles the verse numbering here
 Greek	Bel.1:40	Bel.1:40	Keep verse	[39]	%In some Bibles the verse numbering here is Daniel% 14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:41	Bel.1:41	Keep verse	[40]	%In some Bibles the verse numbering here is Daniel% 14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:42	Bel.1:42	Keep verse	[41]	%In some Bibles the verse numbering here is Daniel% 14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:42=Last & Dan.14:1=NotExist	
-Latin	Bel.1:1	Bel.1:1	Empty verse	[0]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:1	Bel.1:2	Renumber verse	[1]	%Normally in this Bible the verse numbering here is Daniel% 14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:2	Bel.1:3	Renumber verse	[2]	%Normally in this Bible the verse numbering here is Daniel% 14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:3	Bel.1:4	Renumber verse	[3]	%Normally in this Bible the verse numbering here is Daniel% 14:3.		(Hebrew= -- • Latin=Dan.14:3 • Greek=Bel.1:4)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:4	Bel.1:5	Renumber verse	[4]	%Normally in this Bible the verse numbering here is Daniel% 14:4.		(Hebrew= -- • Latin=Dan.14:4 • Greek=Bel.1:5)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:5	Bel.1:6	Renumber verse	[5]	%Normally in this Bible the verse numbering here is Daniel% 14:5.		(Hebrew= -- • Latin=Dan.14:5 • Greek=Bel.1:6)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:6	Bel.1:7	Renumber verse	[6]	%Normally in this Bible the verse numbering here is Daniel% 14:6.		(Hebrew= -- • Latin=Dan.14:6 • Greek=Bel.1:7)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:7	Bel.1:8	Renumber verse	[7]	%Normally in this Bible the verse numbering here is Daniel% 14:7.		(Hebrew= -- • Latin=Dan.14:7 • Greek=Bel.1:8)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:8	Bel.1:9	Renumber verse	[8]	%Normally in this Bible the verse numbering here is Daniel% 14:8.		(Hebrew= -- • Latin=Dan.14:8 • Greek=Bel.1:9)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:9	Bel.1:10	Renumber verse	[9]	%Normally in this Bible the verse numbering here is Daniel% 14:9.		(Hebrew= -- • Latin=Dan.14:9 • Greek=Bel.1:10)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:10	Bel.1:11	Renumber verse	[10]	%Normally in this Bible the verse numbering here is Daniel% 14:10.		(Hebrew= -- • Latin=Dan.14:10 • Greek=Bel.1:11)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:11	Bel.1:12	Renumber verse	[11]	%Normally in this Bible the verse numbering here is Daniel% 14:11.		(Hebrew= -- • Latin=Dan.14:11 • Greek=Bel.1:12)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:12	Bel.1:13	Renumber verse	[12]	%Normally in this Bible the verse numbering here is Daniel% 14:12.		(Hebrew= -- • Latin=Dan.14:12 • Greek=Bel.1:13)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:13	Bel.1:14	Renumber verse	[13]	%Normally in this Bible the verse numbering here is Daniel% 14:13.		(Hebrew= -- • Latin=Dan.14:13 • Greek=Bel.1:14)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:14	Bel.1:15	Renumber verse	[14]	%Normally in this Bible the verse numbering here is Daniel% 14:14.		(Hebrew= -- • Latin=Dan.14:14 • Greek=Bel.1:15)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:15	Bel.1:16	Renumber verse	[15]	%Normally in this Bible the verse numbering here is Daniel% 14:15.		(Hebrew= -- • Latin=Dan.14:15 • Greek=Bel.1:16)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:16	Bel.1:17	Renumber verse	[16]	%Normally in this Bible the verse numbering here is Daniel% 14:16.		(Hebrew= -- • Latin=Dan.14:16 • Greek=Bel.1:17)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:17	Bel.1:18	Renumber verse	[17]	%Normally in this Bible the verse numbering here is Daniel% 14:17.		(Hebrew= -- • Latin=Dan.14:17 • Greek=Bel.1:18)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:18	Bel.1:19	Renumber verse	[18]	%Normally in this Bible the verse numbering here is Daniel% 14:18.		(Hebrew= -- • Latin=Dan.14:18 • Greek=Bel.1:19)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:19	Bel.1:20	Renumber verse	[19]	%Normally in this Bible the verse numbering here is Daniel% 14:19.		(Hebrew= -- • Latin=Dan.14:19 • Greek=Bel.1:20)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:20	Bel.1:21	Renumber verse	[20]	%Normally in this Bible the verse numbering here is Daniel% 14:20.		(Hebrew= -- • Latin=Dan.14:20 • Greek=Bel.1:21)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:21	Bel.1:22	Renumber verse	[21]	%Normally in this Bible the verse numbering here is Daniel% 14:21.		(Hebrew= -- • Latin=Dan.14:21 • Greek=Bel.1:22)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:22	Bel.1:23	Renumber verse	[22]	%Normally in this Bible the verse numbering here is Daniel% 14:22.		(Hebrew= -- • Latin=Dan.14:22 • Greek=Bel.1:23)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:23	Bel.1:24	Renumber verse	[23]	%Normally in this Bible the verse numbering here is Daniel% 14:23.		(Hebrew= -- • Latin=Dan.14:23 • Greek=Bel.1:24)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:24	Bel.1:25	Renumber verse	[24]	%Normally in this Bible the verse numbering here is Daniel% 14:24.		(Hebrew= -- • Latin=Dan.14:24 • Greek=Bel.1:25)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:25	Bel.1:26	Renumber verse	[25]	%Normally in this Bible the verse numbering here is Daniel% 14:25.		(Hebrew= -- • Latin=Dan.14:25 • Greek=Bel.1:26)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:26	Bel.1:27	Renumber verse	[26]	%Normally in this Bible the verse numbering here is Daniel% 14:26.		(Hebrew= -- • Latin=Dan.14:26 • Greek=Bel.1:27)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:27	Bel.1:28	Renumber verse	[27]	%Normally in this Bible the verse numbering here is Daniel% 14:27.		(Hebrew= -- • Latin=Dan.14:27 • Greek=Bel.1:28)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:28	Bel.1:29	Renumber verse	[28]	%Normally in this Bible the verse numbering here is Daniel% 14:28.		(Hebrew= -- • Latin=Dan.14:28 • Greek=Bel.1:29)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:29	Bel.1:30	Renumber verse	[29]	%Normally in this Bible the verse numbering here is Daniel% 14:29.		(Hebrew= -- • Latin=Dan.14:29 • Greek=Bel.1:30)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:30	Bel.1:31	Renumber verse	[30]	%Normally in this Bible the verse numbering here is Daniel% 14:30.		(Hebrew= -- • Latin=Dan.14:30 • Greek=Bel.1:31)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:31	Bel.1:32	Renumber verse	[31]	%Normally in this Bible the verse numbering here is Daniel% 14:31.		(Hebrew= -- • Latin=Dan.14:31 • Greek=Bel.1:32)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:32	Bel.1:33	Renumber verse	[32]	%Normally in this Bible the verse numbering here is Daniel% 14:32.		(Hebrew= -- • Latin=Dan.14:32 • Greek=Bel.1:33)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:33	Bel.1:34	Renumber verse	[33]	%Normally in this Bible the verse numbering here is Daniel% 14:33.		(Hebrew= -- • Latin=Dan.14:33 • Greek=Bel.1:34)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:34	Bel.1:35	Renumber verse	[34]	%Normally in this Bible the verse numbering here is Daniel% 14:34.		(Hebrew= -- • Latin=Dan.14:34 • Greek=Bel.1:35)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:35	Bel.1:36	Renumber verse	[35]	%Normally in this Bible the verse numbering here is Daniel% 14:35.		(Hebrew= -- • Latin=Dan.14:35 • Greek=Bel.1:36)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:36	Bel.1:37	Renumber verse	[36]	%Normally in this Bible the verse numbering here is Daniel% 14:36.		(Hebrew= -- • Latin=Dan.14:36 • Greek=Bel.1:37)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:37	Bel.1:38	Renumber verse	[37]	%Normally in this Bible the verse numbering here is Daniel% 14:37.		(Hebrew= -- • Latin=Dan.14:37 • Greek=Bel.1:38)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:38	Bel.1:39	Renumber verse	[38]	%Normally in this Bible the verse numbering here is Daniel% 14:38.		(Hebrew= -- • Latin=Dan.14:38 • Greek=Bel.1:39)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:39	Bel.1:40	Renumber verse	[39]	%Normally in this Bible the verse numbering here is Daniel% 14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:40	Bel.1:41	Renumber verse	[40]	%Normally in this Bible the verse numbering here is Daniel% 14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:10=Exist & Dan.14:1=Exist	
-Latin	Dan.14:41	Bel.1:42	Renumber verse	[41]	%Normally in this Bible the verse numbering here is Daniel% 14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:10=Exist & Dan.14:1=Exist	
+Latin	Bel.1:1	Bel.1:1	Empty verse	[0]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:1	Bel.1:2	Renumber verse	[1]	%Normally in this Bible the verse numbering here is Daniel% 14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:2	Bel.1:3	Renumber verse	[2]	%Normally in this Bible the verse numbering here is Daniel% 14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:3	Bel.1:4	Renumber verse	[3]	%Normally in this Bible the verse numbering here is Daniel% 14:3.		(Hebrew= -- • Latin=Dan.14:3 • Greek=Bel.1:4)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:4	Bel.1:5	Renumber verse	[4]	%Normally in this Bible the verse numbering here is Daniel% 14:4.		(Hebrew= -- • Latin=Dan.14:4 • Greek=Bel.1:5)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:5	Bel.1:6	Renumber verse	[5]	%Normally in this Bible the verse numbering here is Daniel% 14:5.		(Hebrew= -- • Latin=Dan.14:5 • Greek=Bel.1:6)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:6	Bel.1:7	Renumber verse	[6]	%Normally in this Bible the verse numbering here is Daniel% 14:6.		(Hebrew= -- • Latin=Dan.14:6 • Greek=Bel.1:7)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:7	Bel.1:8	Renumber verse	[7]	%Normally in this Bible the verse numbering here is Daniel% 14:7.		(Hebrew= -- • Latin=Dan.14:7 • Greek=Bel.1:8)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:8	Bel.1:9	Renumber verse	[8]	%Normally in this Bible the verse numbering here is Daniel% 14:8.		(Hebrew= -- • Latin=Dan.14:8 • Greek=Bel.1:9)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:9	Bel.1:10	Renumber verse	[9]	%Normally in this Bible the verse numbering here is Daniel% 14:9.		(Hebrew= -- • Latin=Dan.14:9 • Greek=Bel.1:10)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:10	Bel.1:11	Renumber verse	[10]	%Normally in this Bible the verse numbering here is Daniel% 14:10.		(Hebrew= -- • Latin=Dan.14:10 • Greek=Bel.1:11)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:11	Bel.1:12	Renumber verse	[11]	%Normally in this Bible the verse numbering here is Daniel% 14:11.		(Hebrew= -- • Latin=Dan.14:11 • Greek=Bel.1:12)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:12	Bel.1:13	Renumber verse	[12]	%Normally in this Bible the verse numbering here is Daniel% 14:12.		(Hebrew= -- • Latin=Dan.14:12 • Greek=Bel.1:13)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:13	Bel.1:14	Renumber verse	[13]	%Normally in this Bible the verse numbering here is Daniel% 14:13.		(Hebrew= -- • Latin=Dan.14:13 • Greek=Bel.1:14)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:14	Bel.1:15	Renumber verse	[14]	%Normally in this Bible the verse numbering here is Daniel% 14:14.		(Hebrew= -- • Latin=Dan.14:14 • Greek=Bel.1:15)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:15	Bel.1:16	Renumber verse	[15]	%Normally in this Bible the verse numbering here is Daniel% 14:15.		(Hebrew= -- • Latin=Dan.14:15 • Greek=Bel.1:16)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:16	Bel.1:17	Renumber verse	[16]	%Normally in this Bible the verse numbering here is Daniel% 14:16.		(Hebrew= -- • Latin=Dan.14:16 • Greek=Bel.1:17)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:17	Bel.1:18	Renumber verse	[17]	%Normally in this Bible the verse numbering here is Daniel% 14:17.		(Hebrew= -- • Latin=Dan.14:17 • Greek=Bel.1:18)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:18	Bel.1:19	Renumber verse	[18]	%Normally in this Bible the verse numbering here is Daniel% 14:18.		(Hebrew= -- • Latin=Dan.14:18 • Greek=Bel.1:19)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:19	Bel.1:20	Renumber verse	[19]	%Normally in this Bible the verse numbering here is Daniel% 14:19.		(Hebrew= -- • Latin=Dan.14:19 • Greek=Bel.1:20)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:20	Bel.1:21	Renumber verse	[20]	%Normally in this Bible the verse numbering here is Daniel% 14:20.		(Hebrew= -- • Latin=Dan.14:20 • Greek=Bel.1:21)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:21	Bel.1:22	Renumber verse	[21]	%Normally in this Bible the verse numbering here is Daniel% 14:21.		(Hebrew= -- • Latin=Dan.14:21 • Greek=Bel.1:22)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:22	Bel.1:23	Renumber verse	[22]	%Normally in this Bible the verse numbering here is Daniel% 14:22.		(Hebrew= -- • Latin=Dan.14:22 • Greek=Bel.1:23)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:23	Bel.1:24	Renumber verse	[23]	%Normally in this Bible the verse numbering here is Daniel% 14:23.		(Hebrew= -- • Latin=Dan.14:23 • Greek=Bel.1:24)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:24	Bel.1:25	Renumber verse	[24]	%Normally in this Bible the verse numbering here is Daniel% 14:24.		(Hebrew= -- • Latin=Dan.14:24 • Greek=Bel.1:25)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:25	Bel.1:26	Renumber verse	[25]	%Normally in this Bible the verse numbering here is Daniel% 14:25.		(Hebrew= -- • Latin=Dan.14:25 • Greek=Bel.1:26)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:26	Bel.1:27	Renumber verse	[26]	%Normally in this Bible the verse numbering here is Daniel% 14:26.		(Hebrew= -- • Latin=Dan.14:26 • Greek=Bel.1:27)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:27	Bel.1:28	Renumber verse	[27]	%Normally in this Bible the verse numbering here is Daniel% 14:27.		(Hebrew= -- • Latin=Dan.14:27 • Greek=Bel.1:28)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:28	Bel.1:29	Renumber verse	[28]	%Normally in this Bible the verse numbering here is Daniel% 14:28.		(Hebrew= -- • Latin=Dan.14:28 • Greek=Bel.1:29)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:29	Bel.1:30	Renumber verse	[29]	%Normally in this Bible the verse numbering here is Daniel% 14:29.		(Hebrew= -- • Latin=Dan.14:29 • Greek=Bel.1:30)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:30	Bel.1:31	Renumber verse	[30]	%Normally in this Bible the verse numbering here is Daniel% 14:30.		(Hebrew= -- • Latin=Dan.14:30 • Greek=Bel.1:31)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:31	Bel.1:32	Renumber verse	[31]	%Normally in this Bible the verse numbering here is Daniel% 14:31.		(Hebrew= -- • Latin=Dan.14:31 • Greek=Bel.1:32)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:32	Bel.1:33	Renumber verse	[32]	%Normally in this Bible the verse numbering here is Daniel% 14:32.		(Hebrew= -- • Latin=Dan.14:32 • Greek=Bel.1:33)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:33	Bel.1:34	Renumber verse	[33]	%Normally in this Bible the verse numbering here is Daniel% 14:33.		(Hebrew= -- • Latin=Dan.14:33 • Greek=Bel.1:34)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:34	Bel.1:35	Renumber verse	[34]	%Normally in this Bible the verse numbering here is Daniel% 14:34.		(Hebrew= -- • Latin=Dan.14:34 • Greek=Bel.1:35)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:35	Bel.1:36	Renumber verse	[35]	%Normally in this Bible the verse numbering here is Daniel% 14:35.		(Hebrew= -- • Latin=Dan.14:35 • Greek=Bel.1:36)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:36	Bel.1:37	Renumber verse	[36]	%Normally in this Bible the verse numbering here is Daniel% 14:36.		(Hebrew= -- • Latin=Dan.14:36 • Greek=Bel.1:37)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:37	Bel.1:38	Renumber verse	[37]	%Normally in this Bible the verse numbering here is Daniel% 14:37.		(Hebrew= -- • Latin=Dan.14:37 • Greek=Bel.1:38)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:38	Bel.1:39	Renumber verse	[38]	%Normally in this Bible the verse numbering here is Daniel% 14:38.		(Hebrew= -- • Latin=Dan.14:38 • Greek=Bel.1:39)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:39	Bel.1:40	Renumber verse	[39]	%Normally in this Bible the verse numbering here is Daniel% 14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:40	Bel.1:41	Renumber verse	[40]	%Normally in this Bible the verse numbering here is Daniel% 14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:41	Bel.1:42	Renumber verse	[41]	%Normally in this Bible the verse numbering here is Daniel% 14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:10=NotExist & Dan.14:1=Exist	
 
 English+Greek	Hos.1:10	Hos.1:10	Keep verse	[1]	%In some Bibles the verse numbering here is% 2:1.		(Hebrew=2:1 • Latin=1:10 • Greek=1:10)	Hos.2:23=Last	
 English+Greek	Hos.1:11	Hos.1:11	Keep verse	[2]	%In some Bibles the verse numbering here is% 2:2.		(Hebrew=2:2 • Latin=1:11 • Greek=1:11)	Hos.2:23=Last	
@@ -18658,8 +18715,10 @@ Phrases to translate to different languages:
 ===========================
 %In some Bibles the verse numbering here is% REF
 %In some Bibles the verse numbering here is Daniel% REF
+%In some Bibles the verse numbering here is 2 Chronicles% REF
 %Normally in this Bible the verse numbering here is% REF
 %Normally in this Bible the verse numbering here is Daniel% REF
+%Normally in this Bible the verse numbering here is 2 Chronicles% REF
 %Normally in this Bible, this verse and the next are merged into one verse that is numbered% REF
 %Normally in this Bible, text may be missing here because this verse is merged with% REF
 %This verse includes words that are at% REF
