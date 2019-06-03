@@ -55,6 +55,12 @@ Every name in the Bible, linked to all Hebrew & Greek forms of that name and sep
 * **[TVTMS - Tyndale Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://github.com/tyndale/STEPBible-Data)**  
 All the versification differences in the OT traditional texts in Hebrew, Latin and Greek, and NT early versification, compared with English standard (defined by NRSV which is virtually identical to KJV). Bible translations have an almost infinite variety of versifications because they may follow (for example) Latin in several sections, Hebrew in a few and English most of the time. The Methodology provides simple rules for every section, such as "if this chapter has 29 verses, it is using Greek versification". Using this, a whole Bible can be reversified according to English or traditional Hebrew or Greek or Latin versification, or compared with Bibles using that versification.   
 
+* **[TEHMC - Tyndale Expansion of Hebrew Morphology Codes](https://github.com/tyndale/STEPBible-Data)**  
+Hebrew morphology codes with expanded explanations in terms of parsing, meaning and example. The codes are based on OpenScripture which is similar to the Westminster code system used in BibleWorks and other commercial software. They include extra codes which occur in STEPBible data which distinguishes sequential perfectives, gentilics, gender/location for personal pronouns, and non-Jussive/Cohortative as well as Jussive/Cohortative & possibly-Jussive/Cohortative forms.
+
+* **[TEGMC - Tyndale Expansion of Greek Morphology Codes](https://github.com/tyndale/STEPBible-Data)**  
+Greek morphology codes with expanded explanations in terms of parsing, meaning and example. The codes are based on Robinson, developed for the Majority text and used in most open-source texts. They include extra codes which occur in STEPBible data which distinguishes persons in possessive and reflexive pronouns, 2nd forms of verbs, and distinctions between deponant forms and ambiguous passive/middle.
+
 # Datasets coming
 The followins datasets are still being finished and/or being checked. 
 If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process.  
