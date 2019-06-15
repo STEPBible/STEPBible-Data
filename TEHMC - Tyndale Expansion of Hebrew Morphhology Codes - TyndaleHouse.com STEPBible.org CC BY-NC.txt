@@ -24,7 +24,7 @@ FIELD DESCRIPTIONS:
 
 Codes + expansion	- based on OpenScripture codes which are similar to Westminster codes used by BibleWorks and other commercial software. These codes are described in detail at https://goo.gl/HP4mZQ#HebMorph
 	- some of the parsing is derived from the data in the codes: Stem implies the likely Action and Voice; Form implies the likely Tense and Mood. These are not definite and depend on context and the normal usage of each verb. See more at https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.evqm50b2x4wq
-	- the preceding regex expressions - such as "(A|H|/)" and "(Hc|/)" - makes these codes work for texts tagged by both STEPBible and OpenScriptures. 
+	- the preceding regex expressions - such as "(A|H|/)" and "(Hc|/)" - makes these codes work for texts tagged by both STEPBible and OpenScriptures.  OpenScripture codes string parts of a word together with "/", eg   "HC/Ncmsa" and these are split apart in STEPBible tagging, eg: "HC" and "HNcmsa"
 Codes + morphology 	- the morphology in a phrase that makes sense in English
 Codes + explanation 	- the meaning of this morphology in a phrase that makes sense in English 
 Codes + example	- an example of how a Hebrew or Aramaic word in this form might be translated, using: "Jew" for gentilics, "person/man/woman" for nouns, "late" for adjectives etc
@@ -64,18 +64,22 @@ NOTES:
 * "Sequential" verbs (aka consecutive or non-conjunctive) are prefixed with a vav which changes imperfective to perfective meaning and vice-versa. In general, a section begins with a non-sequential verb and may be succeeded by a number of sequential verbs till the end of the section. 
 * "Conjunctive" verbs are prefixed with a vav as a conjunction, so it does not change the meaning of the verb. This is recognised by vowel changes in Imperfective verbs. It is rare with Perfective verbs and there is no difference in form by which to identify it, so this is done by context. See more at https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.ygjzsla2gxpu 
 
-
 $
 (A|H|/)C	Function=Conjunction 
 	Conjunction
 	a conjunction
 	"giving to‚ rich _and_ poor": "and"
 $
+(H|/)c	Form=Sequential; Function=Conjunction 
+	Sequential Conjunction
+	a conjunction marking continued action in the same tense as the preceding verb
+	"giving to‚ rich _and_ poor": "and"
+$
 (A|H|/)D	Function=Adverb 
 	Adverb
 	DESCRIBING an action 
 	"it was _wisely_ given": "loudly, soon"
- $
+$
 (A|H|/)R	Function=Preposition 
 	Preposition
 	a RELATIONSHIP to another person or thing 
@@ -86,12 +90,17 @@ $
 	a RELATIONSHIP to another person or thing with an indication that it is important or it has been referred to
 	"_of‚ from‚ by‚ in_": "_of‚ to, from‚ in_"
 $
-(A|H|/)Ta	Function=Particle ; Form=Definite article (Aramaic) 
+(A|/)Ta	Function=Particle ; Form=Definite article (Aramaic) 
 	Definite article (Aramaic)
 	an INDICATOR that is important or it has been referred to
 	Example: the
 $
-(A|H|/)Td	Function=Particle ; Form=Definite article (Hebrew) 
+(A|H|/)Tc	Function=Particle ; Form=Conditional 
+	Conditional Particle
+	an INDICATOR that condition or a consequence follows
+	Example: "if, for"
+$
+(H|/)Td	Function=Particle ; Form=Definite article (Hebrew) 
 	Definite article (Hebrew)
 	an INDICATOR that this is important or it has been referred to
 	Example: the
@@ -131,7 +140,7 @@ $
 	an INDICATOR that a question is being asked
 	Example: who
 
-# Personal Pronouns
+# Personal Pronouns
 $
 (A|H|/)Pp1bp	Function=Pronoun ; Form=Personal ; Person=First; Gender=Either gender; Number=Plural
 	Pronoun (First Plural Either gender)
@@ -183,7 +192,7 @@ $
 	a reference to a RECENTLY MENTIONED male person or thing being discussed
 	Example: "he, him"
 
-# Suffixes
+# Suffixes
 $
 (A|H|/)Sd	Function=Suffix ; Form=Directional 
 	Directional Suffix 
@@ -250,7 +259,7 @@ $
 	"WHICH belongs to, is done to, or is done by a male person or thing being discussed"
 	Example: "he, him, his"
 
-#Nouns & Adjectives
+#Nouns & Adjectives
 $
 (A|H|/)Npf	Function=Noun ; Form=Proper ; Gender=Feminine individual
 	Proper Noun (Feminine individual)
@@ -586,8 +595,8 @@ $
 	"Numerical position Adjective (Plural Masculine, Definite)"
 	the numerical position of important male people or things
 	Example: the first (males)
-
-# Verbs as Partciples 
+
+# Verbs as Partciples 
 $
 (A|/)Vermsa	Function=Verb ; Stem=Shaphel (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Shaphel (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
@@ -669,10 +678,20 @@ $
 	performing an ACTION OR ACTIVITY being done by female people or things 
 	Example: some lowering (females)
 $
+(A|/)VQrfpa	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Participle ; Gender=Feminine; Number=Plural; State=Absolute
+	"Verb : Peil (Simple, Passive) Participle (Plural Feminine, Absolute)"
+	performing an ACTION OR ACTIVITY being done to female people or things 
+	Example: (females) being lowered
+$
 (A|/)Vqrfsa	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
 	"Verb : Peal (Simple, Active) Participle (Singular Feminine, Absolute)"
 	performing an ACTION OR ACTIVITY being done by a female person or thing 
 	Example: a lowering (woman)
+$
+(A|/)VQrfsa	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
+	"Verb : Peil (Simple, Passive) Participle (Singular Feminine, Absolute)"
+	performing an ACTION OR ACTIVITY being done to a female person or thing 
+	Example: (a female) being lowered
 $
 (A|/)Vqrfsd	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Participle ; Gender=Feminine; Number=Singular; State=Definite
 	"Verb : Peal (Simple, Active) Participle (Singular Feminine, Definite)"
@@ -682,6 +701,16 @@ $
 (A|/)Vqrmpa	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
 	"Verb : Peal (Simple, Active) Participle (Plural Masculine, Absolute)"
 	performing an ACTION OR ACTIVITY being done by male people or things 
+	Example: some lowering (males)
+$
+(A|/)VQrmpa	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
+	"Verb : Peil (Simple, Passive) Participle (Plural Masculine, Absolute)"
+	performing an ACTION OR ACTIVITY being done to male people or things 
+	Example: (males) being lowered
+$
+(A|/)Vqrmpc	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Participle ; Gender=Masculine; Number=Plural; State=Construct
+	"Verb : Peal (Simple, Active) Participle (Plural Masculine, Construct)"
+	"performing an ACTION OR ACTIVITY being done by male people or things, combined with another term"
 	Example: some lowering (males)
 $
 (A|/)Vqrmpc	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Participle ; Gender=Masculine; Number=Plural; State=Construct
@@ -698,21 +727,6 @@ $
 	"Verb : Peal (Simple, Active) Participle (Singular Masculine, Absolute)"
 	performing an ACTION OR ACTIVITY being done by a male person or thing 
 	Example: a lowering (man)
-$
-(A|/)VQrfpa	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Participle ; Gender=Feminine; Number=Plural; State=Absolute
-	"Verb : Peil (Simple, Passive) Participle (Plural Feminine, Absolute)"
-	performing an ACTION OR ACTIVITY being done to female people or things 
-	Example: (females) being lowered
-$
-(A|/)VQrfsa	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
-	"Verb : Peil (Simple, Passive) Participle (Singular Feminine, Absolute)"
-	performing an ACTION OR ACTIVITY being done to a female person or thing 
-	Example: (a female) being lowered
-$
-(A|/)VQrmpa	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
-	"Verb : Peil (Simple, Passive) Participle (Plural Masculine, Absolute)"
-	performing an ACTION OR ACTIVITY being done to male people or things 
-	Example: (males) being lowered
 $
 (A|/)VQrmsa	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Peil (Simple, Passive) Participle (Singular Masculine, Absolute)"
@@ -763,6 +777,16 @@ $
 	"Verb : Hiphil (Causative/declarative, Active) Participle (Plural Masculine, Construct)"
 	"causing or confirming an ACTION OR ACTIVITY being done by male people or things, combined with another term"
 	Example: some humiliating (males)
+$
+(H|/)Vhrmsa	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
+	"Verb : Hiphil (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
+	causing or confirming an ACTION OR ACTIVITY being done by a male person or thing 
+	Example: a humiliating (man)
+$
+(H|/)VHrmsa	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
+	"Verb : Hophal (Causative/declarative, Passive) Participle (Singular Masculine, Absolute)"
+	causing or confirming an ACTION OR ACTIVITY being done to a male person or thing 
+	Example: a humiliating (man)
 $
 (H|/)Vhrmsa	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Hiphil (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
@@ -848,6 +872,11 @@ $
 	"Verb : Niphal (Simple, Passive) Participle (Singular Masculine, Construct)"
 	"performing an ACTION OR ACTIVITY being done to a male person or thing, combined with another term"
 	Example: (a male) being lowered
+$
+(H|/)VOrmpa	Function=Verb ; Stem=Polal (hence Action=Intensive/resultive; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
+	"Verb : Pual (Intensive/resultive, Passive) Participle (Plural Masculine, Absolute)"
+	intensifying or achieving an ACTION OR ACTIVITY being done to male people or things 
+	Example: some humiliating (males)
 $
 (H|/)Vprfpa	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive; Voice=Active); Form=Participle ; Gender=Feminine; Number=Plural; State=Absolute
 	"Verb : Piel (Intensive/resultive, Active) Participle (Plural Feminine, Absolute)"
@@ -1049,7 +1078,7 @@ $
 	intensifying or achieving an ACTION OR ACTIVITY being done to or for themselves by male people or things 
 	Example: (males) humbling themselves themselves
 
-#Verbs as Infinitives
+#Verbs as Infinitives
 $
 (A|/)Vacc	Function=Verb ; Stem=Aphel (hence Action=Causative/declarative; Voice=Active); Form=Infinitive ; State=Construct
 	"Verb : Aphel (Causative/declarative, Active) Infinitive Construct"
@@ -1156,7 +1185,7 @@ $
 	"intensifying or achieving an ACTION OR ACTIVITY that is to be done to or for themself, combined with another term"
 	Example: to humble oneself
 
-# Verbs as Imperfectives
+# Verbs as Imperfectives
 $
 (A|/)Vei3ms	Function=Verb ; Stem=Shaphel (hence Action=Causative/declarative; Voice=Active); Form=Imperfective (hence Tense=Future/present; Mood=Enacted/jussive); Person=Third; Gender=Masculine; Number=Singular
 	"Verb : Shaphel (Causative/declarative, Active) Imperfective (Future/present Enacted/jussive) Third Singular Masculine"
@@ -1623,11 +1652,11 @@ $
 	performing an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to or for themself by a male person or thing being discussed
 	Example: he/it may or will be or is lowering himself
 
-# Verbs as sequential wayyiqtol 
+# Verbs as sequential wayyiqtol 
 $
 (Hc|/)Vqi1cs	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Imperfective (hence Tense=Future/present; Mood=Enacted/cohortative); Person=First; Gender=Either gender; Number=Singular
 	"Verb : Qal (Simple, Active) Sequential Imperfective (Future/present Enacted/cohortative) First Singular Either gender"
-	performing an ACTION OR ACTIVITY that is done or should be done , as completely as the preceding action, in the past or present by a male or female person or thing that is speaking or writing this
+	"performing an ACTION OR ACTIVITY that is done or should be done , as completely as the preceding action, in the past or present by a male or female person or thing that is speaking or writing this"
 	Example: I should or will be or is lowering
 $
 (Hc|/)Vhw1cp	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Imperfective (hence Tense=Past/present; Mood=Enacted); Person=First; Gender=Either gender; Number=Plural
@@ -1880,7 +1909,7 @@ $
 	"performing an ACTION OR ACTIVITY that is done, as completely as the preceding action, in the past or present to or for themself by a male person or thing being discussed"
 	Example: he/it did or does lower himself
 
-# Verbs as conjunctive weyiqtol 
+# Verbs as conjunctive weyiqtol 
 $
 (A|/)Vhu2ms	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Conjunction+Imperfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
 	"Verb : Haphel (Causative/declarative, Active) Conjunction+Imperfective (Future/present Enacted) Second Singular Masculine"
@@ -2167,7 +2196,7 @@ $
 	performing an ACTION OR ACTIVITY that is done incompletely in the future or present to or for themself by a male person or thing being discussed
 	Example: he/it will be or is lowering himself
 
-# Verbs as Not cohortative/jussive 
+# Verbs as Not cohortative/jussive 
 $
 (A|/)Vqn1cs	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Imperfective (hence Tense=Future/present; Mood=Enacted); Person=First; Gender=Either gender; Number=Singular
 	"Verb : Peal (Simple, Active) Imperfective (Future/present Enacted) First Singular Either gender"
@@ -2454,7 +2483,7 @@ $
 	performing an ACTION OR ACTIVITY that is done incompletely in the future or present to or for themself by a male person or thing being discussed
 	Example: he/it will be or is lowering himself
 
-# Verbs as Certain cohortative / jussive
+# Verbs as Certain cohortative / jussive
 $
 (A|/)Vqc1cs	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Imperfective (hence Tense=Future/present; Mood=Cohortative); Person=First; Gender=Either gender; Number=Singular
 	"Verb : Peal (Simple, Active) Imperfective (Future/present Cohortative) First Singular Either gender"
@@ -2741,7 +2770,7 @@ $
 	performing an ACTION OR ACTIVITY that may be done incompletely in the future or present to or for themself by a male person or thing being discussed
 	Example: he/it may lower himself
 
-# Verbs as Perfective
+# Verbs as Perfective
 $
 (A|/)Vap3ms	Function=Verb ; Stem=Aphel (hence Action=Causative/declarative; Voice=Active); Form=Perfective (hence Tense=Past/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
 	"Verb : Aphel (Causative/declarative, Active) Perfective (Past/present Enacted) Third Singular Masculine"
@@ -3253,7 +3282,297 @@ $
 	performing an ACTION OR ACTIVITY that is done completely in the past or present to or for themself by a male or female person or thing that is speaking or writing this
 	Example: I did or does lower themself
 
-# Verbs as sequential Perfective 
+# Verbs as sequential Perfective 
+$
+(A|/)Veq3mp	Function=Verb ; Stem=Shaphel (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Shaphel (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Plural Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male people or things being discussed"
+	Example: they will be or are humiliating
+$
+(A|/)Veq3ms	Function=Verb ; Stem=Shaphel (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Shaphel (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being discussed"
+	Example: he/it will be or is humiliating
+$
+(A|/)Vhq1cp	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=First; Gender=Either gender; Number=Plural
+	"Verb : Haphel (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) First Plural Either gender"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male or female people or things that are speaking or writing this"
+	Example: we will be or are humiliating
+$
+(A|/)Vhq3fs	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Haphel (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a female person or thing being discussed"
+	Example: she/it will be or is humiliating
+$
+(A|/)VHq3fs	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being discussed"
+	Example: she/it will be or is humiliating
+$
+(A|/)Vhq3mp	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Haphel (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Plural Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male people or things being discussed"
+	Example: they will be or are humiliating
+$
+(A|/)Vhq3ms	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Haphel (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being discussed"
+	Example: he/it will be or is humiliating
+$
+(A|/)VHq3ms	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being discussed"
+	Example: he/it will be or is humiliating
+$
+(A|/)VMq3ms	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hithpaal (Intensive/resultive, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being discussed"
+	Example: he/it will be or is humbling
+$
+(A|/)Vpq1cs	Function=Verb ; Stem=Pael (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=First; Gender=Either gender; Number=Singular
+	"Verb : Pael (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) First Singular Either gender"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male or female person or thing that is speaking or writing this"
+	Example: I will be or is humbling
+$
+(A|/)Vpq3mp	Function=Verb ; Stem=Pael (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Pael (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Third Plural Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male people or things being discussed"
+	Example: they will be or are humbling
+$
+(A|/)Vpq3ms	Function=Verb ; Stem=Pael (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Pael (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being discussed"
+	Example: he/it will be or is humbling
+$
+(A|/)Vqq1cs	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=First; Gender=Either gender; Number=Singular
+	"Verb : Peal (Simple, Active) Sequential Perfective (Future/present Enacted) First Singular Either gender"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male or female person or thing that is speaking or writing this"
+	Example: I will be or is lowering
+$
+(A|/)Vqq2ms	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Peal (Simple, Active) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being addressed"
+	Example: you (a male) will be or is lowering
+$
+(A|/)Vqq3fp	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Plural
+	"Verb : Peal (Simple, Active) Sequential Perfective (Future/present Enacted) Third Plural Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by female people or things being discussed"
+	Example: they (females) will be or are lowering
+$
+(A|/)Vqq3fs	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Peal (Simple, Active) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a female person or thing being discussed"
+	Example: she/it will be or is lowering
+$
+(A|/)VQq3fs	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Peil (Simple, Passive) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being discussed"
+	Example: she/it will be or is lowering
+$
+(A|/)Vqq3mp	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Peal (Simple, Active) Sequential Perfective (Future/present Enacted) Third Plural Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male people or things being discussed"
+	Example: they will be or are lowering
+$
+(A|/)VQq3mp	Function=Verb ; Stem=Peil (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Peil (Simple, Passive) Sequential Perfective (Future/present Enacted) Third Plural Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male people or things being discussed"
+	Example: they will be or are lowering
+$
+(A|/)Vqq3ms	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Peal (Simple, Active) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being discussed"
+	Example: he/it will be or is lowering
+$
+(A|/)Vuq2ms	Function=Verb ; Stem=Hithpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hithpeel (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being addressed"
+	Example: you (a male) will be or is lowering
+$
+(A|/)Vuq3ms	Function=Verb ; Stem=Hithpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hithpeel (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being discussed"
+	Example: he/it will be or is lowering
+$
+(H|/)VDq3cp	Function=Verb ; Stem=Hithpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Nithpael (Intensive/resultive, Passive) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male or female people or things being discussed"
+	Example: they will be or are humbling
+$
+(H|/)VDq3ms	Function=Verb ; Stem=Hithpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Nithpael (Intensive/resultive, Passive) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being discussed"
+	Example: he/it will be or is humbling
+$
+(H|/)Vhq2fp	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to female people or things being addressed"
+	Example: you (females) will be or are humiliating
+$
+(H|/)Vhq2fs	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Feminine; Number=Singular
+	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Second Singular Feminine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being addressed"
+	Example: you (a female) will be or is humiliating
+$
+(H|/)Vhq2mp	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male people or things being addressed"
+	Example: you (males) will be or are humiliating
+$
+(H|/)Vhq2ms	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being addressed"
+	Example: you (a male) will be or is humiliating
+$
+(H|/)Vhq3cp	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male or female people or things being discussed"
+	Example: they will be or are humiliating
+$
+(H|/)Vhq3fs	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being discussed"
+	Example: she/it will be or is humiliating
+$
+(H|/)Vhq3ms	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being discussed"
+	Example: he/it will be or is humiliating
+$
+(H|/)VNq2fs	Function=Verb ; Stem=Niphal (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Feminine; Number=Singular
+	"Verb : Niphal (Simple, Passive) Sequential Perfective (Future/present Enacted) Second Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being addressed"
+	Example: you (a female) will be or is humiliating
+$
+(H|/)VNq2mp	Function=Verb ; Stem=Niphal (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Niphal (Simple, Passive) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male people or things being addressed"
+	Example: you (males) will be or are humiliating
+$
+(H|/)VNq2ms	Function=Verb ; Stem=Niphal (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Niphal (Simple, Passive) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being addressed"
+	Example: you (a male) will be or is humiliating
+$
+(H|/)VNq3cp	Function=Verb ; Stem=Niphal (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Niphal (Simple, Passive) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male or female people or things being discussed"
+	Example: they will be or are humiliating
+$
+(H|/)VNq3fs	Function=Verb ; Stem=Niphal (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Niphal (Simple, Passive) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being discussed"
+	Example: she/it will be or is humiliating
+$
+(H|/)VNq3ms	Function=Verb ; Stem=Niphal (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Niphal (Simple, Passive) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being discussed"
+	Example: he/it will be or is humiliating
+$
+(H|/)Vpq2fs	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Feminine; Number=Singular
+	"Verb : Piel (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Second Singular Feminine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a female person or thing being addressed"
+	Example: you (a female) will be or is humiliating
+$
+(H|/)Vpq2mp	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Piel (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male people or things being addressed"
+	Example: you (males) will be or are humiliating
+$
+(H|/)Vpq2ms	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Piel (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being addressed"
+	Example: you (a male) will be or is humiliating
+$
+(H|/)Vpq3cp	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Piel (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male or female people or things being discussed"
+	Example: they will be or are humiliating
+$
+(H|/)VPq3cp	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Pual (Intensive/resultive, Passive) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male or female people or things being discussed"
+	Example: they will be or are humbling
+$
+(H|/)Vpq3fs	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Piel (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a female person or thing being discussed"
+	Example: she/it will be or is humiliating
+$
+(H|/)Vpq3ms	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Piel (Intensive/resultive, Active) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being discussed"
+	Example: he/it will be or is humiliating
+$
+(H|/)VPq3ms	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Pual (Intensive/resultive, Passive) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being discussed"
+	Example: he/it will be or is humbling
+$
+(H|/)Vqq2fp	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Qal (Simple, Active) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by female people or things being addressed"
+	Example: you (females) will be or are lowering
+$
+(H|/)Vqq2fs	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Feminine; Number=Singular
+	"Verb : Qal (Simple, Active) Sequential Perfective (Future/present Enacted) Second Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a female person or thing being addressed"
+	Example: you (a female) will be or is lowering
+$
+(H|/)Vqq2mp	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Qal (Simple, Active) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male people or things being addressed"
+	Example: you (males) will be or are lowering
+$
+(H|/)Vqq2ms	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Qal (Simple, Active) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being addressed"
+	Example: you (a male) will be or is lowering
+$
+(H|/)Vqq3cp	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Qal (Simple, Active) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by male or female people or things being discussed"
+	Example: they will be or are lowering
+$
+(H|/)Vqq3fs	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Qal (Simple, Active) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a female person or thing being discussed"
+	Example: she/it will be or is lowering
+$
+(H|/)Vqq3ms	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Qal (Simple, Active) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male person or thing being discussed"
+	Example: he/it will be or is lowering
+$
+(H|/)Vtq2fs	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Feminine; Number=Singular
+	"Verb : Hithpael (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Second Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a female person or thing being addressed"
+	Example: you (a female) will be or is lowering
+$
+(H|/)Vtq2mp	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Hithpael (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by male people or things being addressed"
+	Example: you (males) will be or are lowering
+$
+(H|/)Vtq2ms	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hithpael (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being addressed"
+	Example: you (a male) will be or is lowering
+$
+(H|/)Vtq3cp	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Hithpael (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by male or female people or things being discussed"
+	Example: they will be or are lowering
+$
+(H|/)Vtq3fs	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hithpael (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a female person or thing being discussed"
+	Example: she/it will be or is lowering
+$
+(H|/)Vtq3ms	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hithpael (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being discussed"
+	Example: he/it will be or is lowering
 $
 (Hc|/)Vhq1cp	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=First; Gender=Either gender; Number=Plural
 	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) First Plural Either gender"
@@ -3264,6 +3583,31 @@ $
 	"Verb : Hiphil (Causative/declarative, Active) Sequential Perfective (Future/present Enacted) First Singular Either gender"
 	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present by a male or female person or thing that is speaking or writing this"
 	Example: I will be or is humiliating
+$
+(Hc|/)VHq2mp	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male people or things being addressed"
+	Example: you (males) will be or are humiliating
+$
+(Hc|/)VHq2ms	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being addressed"
+	Example: you (a male) will be or is humiliating
+$
+(Hc|/)VHq3cp	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
+	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male or female people or things being discussed"
+	Example: they will be or are humiliating
+$
+(Hc|/)VHq3fs	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being discussed"
+	Example: she/it will be or is humiliating
+$
+(Hc|/)VHq3ms	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
+	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being discussed"
+	Example: he/it will be or is humiliating
 $
 (Hc|/)VNq1cp	Function=Verb ; Stem=Niphal (hence Action=Simple; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=First; Gender=Either gender; Number=Plural
 	"Verb : Niphal (Simple, Passive) Sequential Perfective (Future/present Enacted) First Plural Either gender"
@@ -3299,33 +3643,8 @@ $
 	"Verb : Hithpael (Simple, Reflexive/iterative) Sequential Perfective (Future/present Enacted) First Singular Either gender"
 	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male or female person or thing that is speaking or writing this"
 	Example: I will be or is lowering themself
-$
-(Hc|/)VHq2mp	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Plural
-	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Second Plural Masculine"
-	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male people or things being addressed"
-	Example: you (males) will be or are humiliating
-$
-(Hc|/)VHq2ms	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Second; Gender=Masculine; Number=Singular
-	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Second Singular Masculine"
-	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being addressed"
-	Example: you (a male) will be or is humiliating
-$
-(Hc|/)VHq3cp	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Either gender; Number=Plural
-	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Plural Either gender"
-	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to male or female people or things being discussed"
-	Example: they will be or are humiliating
-$
-(Hc|/)VHq3fs	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Feminine; Number=Singular
-	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Singular Feminine"
-	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a female person or thing being discussed"
-	Example: she/it will be or is humiliating
-$
-(Hc|/)VHq3ms	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Sequential Perfective (hence Tense=Future/present; Mood=Enacted); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Hophal (Causative/declarative, Passive) Sequential Perfective (Future/present Enacted) Third Singular Masculine"
-	"causing or confirming an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to a male person or thing being discussed"
-	Example: he/it will be or is humiliating
 
-# Verbs as Imperative
+# Verbs as Imperative
 $
 (A|/)Vav2mp	Function=Verb ; Stem=Aphel (hence Action=Causative/declarative; Voice=Active); Form=Imperative (hence Tense=Present/future; Mood=Imperative); Person=Second; Gender=Masculine; Number=Plural
 	"Verb : Aphel (Causative/declarative, Active) Imperative Second Plural Masculine"
@@ -3476,3 +3795,4 @@ $
 	"Verb : Hithpael (Simple, Reflexive/iterative) Imperative Second Singular Masculine"
 	performing an ACTION OR ACTIVITY that must or should be done urgently in the present or future to or for themself by a male person or thing being addressed
 	Example: you (a male) must lower himself
+
