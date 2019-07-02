@@ -561,10 +561,11 @@ TEST: If...	2Ch.14:15=Last	2Ch.14:14=Last	2Ch.14:15=Last	2Ch.14:14=Last
 OneToOne	2Ch.14:1	2Ch.13:23	2Ch.14:1	2Ch.13:23			
 OneToOne	2Ch.14:2-15	2Ch.14:1-14	2Ch.14:2-15	2Ch.14:1-14			
 
-$2Ch.36:24-38	English	Hebrew	Latin	Greek	
-TEST: If...	Man.1:15=Last	Man.1:1=NotExist	Man.1:1=NotExist	Man.1:15=Last			
-TEST: And if... 	2Ch.36:24=NotExist	2Ch.36:24=NotExist	2Ch.36:24=Exist	2Ch.36:24=NotExist			
-OneToOne	Man.1.1-15	NoVerse	2Ch.36:24-38	Man.1.1-15			
+$2Ch.36:24-38	English	Hebrew	Latin	Greek	Greek2
+TEST: If...	Man.1:15=Last	Man.1:1=NotExist	Man.1:1=NotExist	Man.1:15=Last	Man.1:1=NotExist		
+TEST: And if... 	2Ch.36:24=NotExist	2Ch.36:24=NotExist	2Ch.36:24=Exist	2Ch.36:24=NotExist	2Ch.36:24=NotExist		
+TEST: And if... 	2Ch.37:1=NotExist	2Ch.37:1=NotExist	2Ch.37:1=NotExist	2Ch.37:1=NotExist	2Ch.37:1=Exist		
+OneToOne	Man.1.1-15	NoVerse	2Ch.36:24-38	Man.1.1-15	2Ch.37:1-15		
 
 $Neh.3:30-4:23	English	Hebrew	Latin	Greek	Greek2
 TEST: If...	Neh.3:32=Last	Neh.3:38=Last	Neh.3:31=Last	Neh.3:37=Last	Neh.3:32=Last		
@@ -2180,6 +2181,20 @@ DuplicateTarget	Wis.19:12-13	Wis.19:12	Wis.19:12-13
 OneToOne	Wis.19:14-20	Wis.19:13-19	Wis.19:14-20				
 DuplicateTarget	Wis.19:21-22	Wis.19:20	Wis.19:21-22
 
+$Tob.1.	English	Latin	Greek	Greek2
+TEST: If...	Tob.1:22=Last	Tob.1:25=Last	Tob.1:22=Last	Tob.1:22=Last			
+TEST: If...	Tob.2:14=Last	Tob.2:22=Last	Tob.2:14=Last	Tob.2:14=Last			
+TEST: If...	Tob.3:17=Last	Tob.3:25=Last	Tob.3:17=Last	Tob.3:17=Last			
+TEST: If...	Tob.4:21=Last	Tob.4:22=Last	Tob.4:21=Last	Tob.4:21=Last			
+TEST: If...	Tob.5:22=Last	Tob.5:28=Last	Tob.5:23=Last	Tob.5:22=Last			
+TEST: If...	Tob.6:17=Last	Tob.6:18=Last	Tob.6:17=Last	Tob.6:17=Last			
+TEST: If...	Tob.7:16=Last	Tob.7:20=Last	Tob.7:17=Last	Tob.7:18=Last			
+TEST: If...	Tob.8:21=Last	Tob.8:24=Last	Tob.8:21=Last	Tob.8:21=Last			
+TEST: If...	Tob.9:6=Last	Tob.9:8=Last	Tob.9:6=Last	Tob.9:6=Last			
+TEST: If...	Tob.10:13=Last	Tob.10:10=Last	Tob.10:14=Last	Tob.10:13=Last			
+TEST: If...	Tob.11:18=Last	Tob.11:20=Last	Tob.11:19=Last	Tob.11:19=Last			
+TEST: If...	Tob.13:18=Last	Tob.13:22=Last	Tob.13:18=Last	Tob.13:18=Last			
+TEST: If...	Tob.14:15=Last	Tob.14:17=Last	Tob.14:15=Last	Tob.14:15=Last			
 
 
 $Mat.12:47	English	Greek	Greek2
@@ -5263,12 +5278,6 @@ Hebrew+Greek	2Ch.14:13	2Ch.14:14	Renumber verse	Nec. [13]	%Normally in this Bibl
 Hebrew+Greek	2Ch.14:14	2Ch.14:15	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 14:14.		(Hebrew=14:14 • Latin=14:15 • Greek=14:14)	2Ch.14:14=Last	
 
 English	Man.1:1	Man.1:1	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:15=Last & 2Ch.36:24=NotExist	
-English	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:105=Last & 2Ch.36:33=NotExist	
-English	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:115=Last & 2Ch.36:34=NotExist	
-English	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:125=Last & 2Ch.36:35=NotExist	
-English	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:135=Last & 2Ch.36:36=NotExist	
-English	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:145=Last & 2Ch.36:37=NotExist	
-English	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:155=Last & 2Ch.36:38=NotExist	
 English	Man.1:2	Man.1:2	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:25=Last & 2Ch.36:25=NotExist	
 English	Man.1:3	Man.1:3	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:35=Last & 2Ch.36:26=NotExist	
 English	Man.1:4	Man.1:4	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:45=Last & 2Ch.36:27=NotExist	
@@ -5277,13 +5286,13 @@ English	Man.1:6	Man.1:6	Keep verse	Acd. [29]	%In some Bibles the verse numbering
 English	Man.1:7	Man.1:7	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:75=Last & 2Ch.36:30=NotExist	
 English	Man.1:8	Man.1:8	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:85=Last & 2Ch.36:31=NotExist	
 English	Man.1:9	Man.1:9	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:95=Last & 2Ch.36:32=NotExist	
+English	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:105=Last & 2Ch.36:33=NotExist	
+English	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:115=Last & 2Ch.36:34=NotExist	
+English	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:125=Last & 2Ch.36:35=NotExist	
+English	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:135=Last & 2Ch.36:36=NotExist	
+English	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:145=Last & 2Ch.36:37=NotExist	
+English	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:155=Last & 2Ch.36:38=NotExist	
 Greek	Man.1:1	Man.1:1	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:15=Last & 2Ch.36:24=NotExist	
-Greek	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:105=Last & 2Ch.36:33=NotExist	
-Greek	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:115=Last & 2Ch.36:34=NotExist	
-Greek	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:125=Last & 2Ch.36:35=NotExist	
-Greek	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:135=Last & 2Ch.36:36=NotExist	
-Greek	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:145=Last & 2Ch.36:37=NotExist	
-Greek	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:155=Last & 2Ch.36:38=NotExist	
 Greek	Man.1:2	Man.1:2	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:25=Last & 2Ch.36:25=NotExist	
 Greek	Man.1:3	Man.1:3	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:35=Last & 2Ch.36:26=NotExist	
 Greek	Man.1:4	Man.1:4	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:45=Last & 2Ch.36:27=NotExist	
@@ -5292,6 +5301,27 @@ Greek	Man.1:6	Man.1:6	Keep verse	Acd. [29]	%In some Bibles the verse numbering h
 Greek	Man.1:7	Man.1:7	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:75=Last & 2Ch.36:30=NotExist	
 Greek	Man.1:8	Man.1:8	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:85=Last & 2Ch.36:31=NotExist	
 Greek	Man.1:9	Man.1:9	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:95=Last & 2Ch.36:32=NotExist	
+Greek	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:105=Last & 2Ch.36:33=NotExist	
+Greek	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:115=Last & 2Ch.36:34=NotExist	
+Greek	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:125=Last & 2Ch.36:35=NotExist	
+Greek	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:135=Last & 2Ch.36:36=NotExist	
+Greek	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:145=Last & 2Ch.36:37=NotExist	
+Greek	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:155=Last & 2Ch.36:38=NotExist	
+Greek2	2Ch.37:1	Man.1:1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:1.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1/2Ch.37:1)	Man.1:1=NotExist & 2Ch.36:24=Exist	
+Greek2	2Ch.37:2	Man.1:2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:2.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2/2Ch.37:2)	Man.1:2=NotExist & 2Ch.36:25=Exist	
+Greek2	2Ch.37:3	Man.1:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:3.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3/2Ch.37:3)	Man.1:3=NotExist & 2Ch.36:26=Exist	
+Greek2	2Ch.37:4	Man.1:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:4.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4/2Ch.37:4)	Man.1:4=NotExist & 2Ch.36:27=Exist	
+Greek2	2Ch.37:5	Man.1:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:5.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5/2Ch.37:5)	Man.1:5=NotExist & 2Ch.36:28=Exist	
+Greek2	2Ch.37:6	Man.1:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:6.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6/2Ch.37:6)	Man.1:6=NotExist & 2Ch.36:29=Exist	
+Greek2	2Ch.37:7	Man.1:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:7.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7/2Ch.37:7)	Man.1:7=NotExist & 2Ch.36:30=Exist	
+Greek2	2Ch.37:8	Man.1:8	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:8.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8/2Ch.37:8)	Man.1:8=NotExist & 2Ch.36:31=Exist	
+Greek2	2Ch.37:9	Man.1:9	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:9.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9/2Ch.37:9)	Man.1:9=NotExist & 2Ch.36:32=Exist	
+Greek2	2Ch.37:10	Man.1:10	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:10.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10/2Ch.37:10)	Man.1:10=NotExist & 2Ch.36:33=Exist	
+Greek2	2Ch.37:11	Man.1:11	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:11.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11/2Ch.37:11)	Man.1:11=NotExist & 2Ch.36:34=Exist	
+Greek2	2Ch.37:12	Man.1:12	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:12.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12/2Ch.37:12)	Man.1:12=NotExist & 2Ch.36:35=Exist	
+Greek2	2Ch.37:13	Man.1:13	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:13.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13/2Ch.37:13)	Man.1:13=NotExist & 2Ch.36:36=Exist	
+Greek2	2Ch.37:14	Man.1:14	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:14.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14/2Ch.37:14)	Man.1:14=NotExist & 2Ch.36:37=Exist	
+Greek2	2Ch.37:15	Man.1:15	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:15.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15/2Ch.37:15)	Man.1:15=NotExist & 2Ch.36:38=Exist	
 Latin	2Ch.36:24	Man.1:1	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=NotExist & 2Ch.36:24=Exist	
 Latin	2Ch.36:25	Man.1:2	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=NotExist & 2Ch.36:25=Exist	
 Latin	2Ch.36:26	Man.1:3	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=NotExist & 2Ch.36:26=Exist	
@@ -16661,30 +16691,30 @@ Greek	Lje.1:46	Bar.6:46	Renumber verse	Nec. [1:46]	%In some Bibles this chapter 
 Greek	Lje.1:47	Bar.6:47	Renumber verse	Nec. [1:47]	%In some Bibles this chapter is a separate book%.		(Latin=6:47 • Greek=1:47)	LJe.1:72=Last	
 Greek	Lje.1:48	Bar.6:48	Renumber verse	Nec. [1:48]	%In some Bibles this chapter is a separate book%.		(Latin=6:48 • Greek=1:48)	LJe.1:72=Last	
 Greek	Lje.1:49	Bar.6:49	Renumber verse	Nec. [1:49]	%In some Bibles this chapter is a separate book%.		(Latin=6:49 • Greek=1:49)	LJe.1:72=Last	
-Greek	Lje.1:50	Bar.6:50	Renumber verse	Nec. [1:50-51]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 50.		(Latin=6:50a • Greek=1:50a • Greek2=1:50)	LJe.1:72=Last	
-Greek	Lje.1:50	Bar.6:51	Merged with	Nec. [1:50b]	%Normally in this Bible some text may be missing here because it is merged with% 50.		(Latin=6:50b • Greek=1:50b • Greek2=1:51)	LJe.1:72=Last	
-Greek	Lje.1:51	Bar.6:52	Renumber verse	Nec. [1:51]	%In some Bibles the verse numbering here is% 51		(Latin=6:51 • Greek=1:51 • Greek2=1:52)	LJe.1:72=Last	
-Greek	Lje.1:52	Bar.6:53	Renumber verse	Nec. [1:52]	%In some Bibles the verse numbering here is% 52		(Latin=6:52 • Greek=1:52 • Greek2=1:53)	LJe.1:72=Last	
-Greek	Lje.1:53	Bar.6:54	Renumber verse	Nec. [1:53]	%In some Bibles the verse numbering here is% 53		(Latin=6:53 • Greek=1:53 • Greek2=1:54)	LJe.1:72=Last	
-Greek	Lje.1:54	Bar.6:55	Renumber verse	Nec. [1:54]	%In some Bibles the verse numbering here is% 54		(Latin=6:54 • Greek=1:54 • Greek2=1:55)	LJe.1:72=Last	
-Greek	Lje.1:55	Bar.6:56	Renumber verse	Nec. [1:55]	%In some Bibles the verse numbering here is% 55		(Latin=6:55 • Greek=1:55 • Greek2=1:56)	LJe.1:72=Last	
-Greek	Lje.1:56	Bar.6:57	Renumber verse	Nec. [1:56]	%In some Bibles the verse numbering here is% 56		(Latin=6:56 • Greek=1:56 • Greek2=1:57)	LJe.1:72=Last	
-Greek	Lje.1:57	Bar.6:58	Renumber verse	Nec. [1:57]	%In some Bibles the verse numbering here is% 57		(Latin=6:57 • Greek=1:57 • Greek2=1:58)	LJe.1:72=Last	
-Greek	Lje.1:58	Bar.6:59	Renumber verse	Nec. [1:58]	%In some Bibles the verse numbering here is% 58		(Latin=6:58 • Greek=1:58 • Greek2=1:59)	LJe.1:72=Last	
-Greek	Lje.1:59	Bar.6:60	Renumber verse	Nec. [1:59]	%In some Bibles the verse numbering here is% 59		(Latin=6:59 • Greek=1:59 • Greek2=1:60)	LJe.1:72=Last	
-Greek	Lje.1:60	Bar.6:61	Renumber verse	Nec. [1:60]	%In some Bibles the verse numbering here is% 60		(Latin=6:60 • Greek=1:60 • Greek2=1:61)	LJe.1:72=Last	
-Greek	Lje.1:61	Bar.6:62	Renumber verse	Nec. [1:61]	%In some Bibles the verse numbering here is% 61		(Latin=6:61 • Greek=1:61 • Greek2=1:62)	LJe.1:72=Last	
-Greek	Lje.1:62	Bar.6:63	Renumber verse	Nec. [1:62]	%In some Bibles the verse numbering here is% 62		(Latin=6:62 • Greek=1:62 • Greek2=1:63)	LJe.1:72=Last	
-Greek	Lje.1:63	Bar.6:64	Renumber verse	Nec. [1:63]	%In some Bibles the verse numbering here is% 63		(Latin=6:63 • Greek=1:63 • Greek2=1:64)	LJe.1:72=Last	
-Greek	Lje.1:64	Bar.6:65	Renumber verse	Nec. [1:64]	%In some Bibles the verse numbering here is% 64		(Latin=6:64 • Greek=1:64 • Greek2=1:65)	LJe.1:72=Last	
-Greek	Lje.1:65	Bar.6:66	Renumber verse	Nec. [1:65]	%In some Bibles the verse numbering here is% 65		(Latin=6:65 • Greek=1:65 • Greek2=1:66)	LJe.1:72=Last	
-Greek	Lje.1:66	Bar.6:67	Renumber verse	Nec. [1:66]	%In some Bibles the verse numbering here is% 66		(Latin=6:66 • Greek=1:66 • Greek2=1:67)	LJe.1:72=Last	
-Greek	Lje.1:67	Bar.6:68	Renumber verse	Nec. [1:67]	%In some Bibles the verse numbering here is% 67		(Latin=6:67 • Greek=1:67 • Greek2=1:68)	LJe.1:72=Last	
-Greek	Lje.1:68	Bar.6:69	Renumber verse	Nec. [1:68]	%In some Bibles the verse numbering here is% 68		(Latin=6:68 • Greek=1:68 • Greek2=1:69)	LJe.1:72=Last	
-Greek	Lje.1:69	Bar.6:70	Renumber verse	Nec. [1:69]	%In some Bibles the verse numbering here is% 69		(Latin=6:69 • Greek=1:69 • Greek2=1:70)	LJe.1:72=Last	
-Greek	Lje.1:70	Bar.6:71	Renumber verse	Nec. [1:70]	%In some Bibles the verse numbering here is% 70		(Latin=6:70 • Greek=1:70 • Greek2=1:71)	LJe.1:72=Last	
-Greek	Lje.1:71	Bar.6:72	Renumber verse	Nec. [1:71]	%In some Bibles the verse numbering here is% 71		(Latin=6:71 • Greek=1:71 • Greek2=1:72)	LJe.1:72=Last	
-Greek	Lje.1:72	Bar.6:73	Renumber verse	Nec. [1:72]	%In some Bibles the verse numbering here is% 72		(Latin=6:72 • Greek=1:72 • Greek2=1:73)	LJe.1:72=Last	
+Greek	Lje.1:50	Bar.6:50	Renumber verse	Nec. [1:50-51]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 50.		(Latin=6:50a • Greek=1:50a / 50)	LJe.1:72=Last	
+Greek	Lje.1:50	Bar.6:51	Merged with	Nec. [1:50b]	%Normally in this Bible some text may be missing here because it is merged with% 50.		(Latin=6:50b • Greek=1:50b / 51)	LJe.1:72=Last	
+Greek	Lje.1:51	Bar.6:52	Renumber verse	Nec. [1:51]	%In some Bibles the verse numbering here is% 51		(Latin=6:51 • Greek=1:51 / 52)	LJe.1:72=Last	
+Greek	Lje.1:52	Bar.6:53	Renumber verse	Nec. [1:52]	%In some Bibles the verse numbering here is% 52		(Latin=6:52 • Greek=1:52 / 53)	LJe.1:72=Last	
+Greek	Lje.1:53	Bar.6:54	Renumber verse	Nec. [1:53]	%In some Bibles the verse numbering here is% 53		(Latin=6:53 • Greek=1:53 / 54)	LJe.1:72=Last	
+Greek	Lje.1:54	Bar.6:55	Renumber verse	Nec. [1:54]	%In some Bibles the verse numbering here is% 54		(Latin=6:54 • Greek=1:54 / 55)	LJe.1:72=Last	
+Greek	Lje.1:55	Bar.6:56	Renumber verse	Nec. [1:55]	%In some Bibles the verse numbering here is% 55		(Latin=6:55 • Greek=1:55 / 56)	LJe.1:72=Last	
+Greek	Lje.1:56	Bar.6:57	Renumber verse	Nec. [1:56]	%In some Bibles the verse numbering here is% 56		(Latin=6:56 • Greek=1:56 / 57)	LJe.1:72=Last	
+Greek	Lje.1:57	Bar.6:58	Renumber verse	Nec. [1:57]	%In some Bibles the verse numbering here is% 57		(Latin=6:57 • Greek=1:57 / 58)	LJe.1:72=Last	
+Greek	Lje.1:58	Bar.6:59	Renumber verse	Nec. [1:58]	%In some Bibles the verse numbering here is% 58		(Latin=6:58 • Greek=1:58 / 59)	LJe.1:72=Last	
+Greek	Lje.1:59	Bar.6:60	Renumber verse	Nec. [1:59]	%In some Bibles the verse numbering here is% 59		(Latin=6:59 • Greek=1:59 / 60)	LJe.1:72=Last	
+Greek	Lje.1:60	Bar.6:61	Renumber verse	Nec. [1:60]	%In some Bibles the verse numbering here is% 60		(Latin=6:60 • Greek=1:60 / 61)	LJe.1:72=Last	
+Greek	Lje.1:61	Bar.6:62	Renumber verse	Nec. [1:61]	%In some Bibles the verse numbering here is% 61		(Latin=6:61 • Greek=1:61 / 62)	LJe.1:72=Last	
+Greek	Lje.1:62	Bar.6:63	Renumber verse	Nec. [1:62]	%In some Bibles the verse numbering here is% 62		(Latin=6:62 • Greek=1:62 / 63)	LJe.1:72=Last	
+Greek	Lje.1:63	Bar.6:64	Renumber verse	Nec. [1:63]	%In some Bibles the verse numbering here is% 63		(Latin=6:63 • Greek=1:63 / 64)	LJe.1:72=Last	
+Greek	Lje.1:64	Bar.6:65	Renumber verse	Nec. [1:64]	%In some Bibles the verse numbering here is% 64		(Latin=6:64 • Greek=1:64 / 65)	LJe.1:72=Last	
+Greek	Lje.1:65	Bar.6:66	Renumber verse	Nec. [1:65]	%In some Bibles the verse numbering here is% 65		(Latin=6:65 • Greek=1:65 / 66)	LJe.1:72=Last	
+Greek	Lje.1:66	Bar.6:67	Renumber verse	Nec. [1:66]	%In some Bibles the verse numbering here is% 66		(Latin=6:66 • Greek=1:66 / 67)	LJe.1:72=Last	
+Greek	Lje.1:67	Bar.6:68	Renumber verse	Nec. [1:67]	%In some Bibles the verse numbering here is% 67		(Latin=6:67 • Greek=1:67 / 68)	LJe.1:72=Last	
+Greek	Lje.1:68	Bar.6:69	Renumber verse	Nec. [1:68]	%In some Bibles the verse numbering here is% 68		(Latin=6:68 • Greek=1:68 / 69)	LJe.1:72=Last	
+Greek	Lje.1:69	Bar.6:70	Renumber verse	Nec. [1:69]	%In some Bibles the verse numbering here is% 69		(Latin=6:69 • Greek=1:69 / 70)	LJe.1:72=Last	
+Greek	Lje.1:70	Bar.6:71	Renumber verse	Nec. [1:70]	%In some Bibles the verse numbering here is% 70		(Latin=6:70 • Greek=1:70 / 71)	LJe.1:72=Last	
+Greek	Lje.1:71	Bar.6:72	Renumber verse	Nec. [1:71]	%In some Bibles the verse numbering here is% 71		(Latin=6:71 • Greek=1:71 / 72)	LJe.1:72=Last	
+Greek	Lje.1:72	Bar.6:73	Renumber verse	Nec. [1:72]	%In some Bibles the verse numbering here is% 72		(Latin=6:72 • Greek=1:72 / 73)	LJe.1:72=Last	
 Greek2	Lje.1:1	Bar.6:1	Renumber verse	Nec. [1:1]	%In some Bibles this chapter is a separate book%.		(Latin=6:1 • Greek=1:1)	LJe.1:73=Last	
 Greek2	Lje.1:2	Bar.6:2	Renumber verse	Nec. [1:2]	%In some Bibles this chapter is a separate book%.		(Latin=6:2 • Greek=1:2)	LJe.1:73=Last	
 Greek2	Lje.1:3	Bar.6:3	Renumber verse	Nec. [1:3]	%In some Bibles this chapter is a separate book%.		(Latin=6:3 • Greek=1:3)	LJe.1:73=Last	
@@ -16734,30 +16764,30 @@ Greek2	Lje.1:46	Bar.6:46	Renumber verse	Nec. [1:46]	%In some Bibles this chapter
 Greek2	Lje.1:47	Bar.6:47	Renumber verse	Nec. [1:47]	%In some Bibles this chapter is a separate book%.		(Latin=6:47 • Greek=1:47)	LJe.1:73=Last	
 Greek2	Lje.1:48	Bar.6:48	Renumber verse	Nec. [1:48]	%In some Bibles this chapter is a separate book%.		(Latin=6:48 • Greek=1:48)	LJe.1:73=Last	
 Greek2	Lje.1:49	Bar.6:49	Renumber verse	Nec. [1:49]	%In some Bibles this chapter is a separate book%.		(Latin=6:49 • Greek=1:49)	LJe.1:73=Last	
-Greek2	Lje.1:50	Bar.6:50	Renumber verse	Nec. [1:50]	%In some Bibles this chapter is a separate book%		(Latin=6:50a • Greek=1:50a • Greek2=1:50)	LJe.1:73=Last	
-Greek2	Lje.1:51	Bar.6:51	Renumber verse	Nec. [1:51]	%In some Bibles this chapter is a separate book%		(Latin=6:50b • Greek=1:50b • Greek2=1:51)	LJe.1:73=Last	
-Greek2	Lje.1:52	Bar.6:52	Renumber verse	Nec. [1:52]	%In some Bibles this chapter is a separate book%		(Latin=6:51 • Greek=1:51 • Greek2=1:52)	LJe.1:73=Last	
-Greek2	Lje.1:53	Bar.6:53	Renumber verse	Nec. [1:53]	%In some Bibles this chapter is a separate book%		(Latin=6:52 • Greek=1:52 • Greek2=1:53)	LJe.1:73=Last	
-Greek2	Lje.1:54	Bar.6:54	Renumber verse	Nec. [1:54]	%In some Bibles this chapter is a separate book%		(Latin=6:53 • Greek=1:53 • Greek2=1:54)	LJe.1:73=Last	
-Greek2	Lje.1:55	Bar.6:55	Renumber verse	Nec. [1:55]	%In some Bibles this chapter is a separate book%		(Latin=6:54 • Greek=1:54 • Greek2=1:55)	LJe.1:73=Last	
-Greek2	Lje.1:56	Bar.6:56	Renumber verse	Nec. [1:56]	%In some Bibles this chapter is a separate book%		(Latin=6:55 • Greek=1:55 • Greek2=1:56)	LJe.1:73=Last	
-Greek2	Lje.1:57	Bar.6:57	Renumber verse	Nec. [1:57]	%In some Bibles this chapter is a separate book%		(Latin=6:56 • Greek=1:56 • Greek2=1:57)	LJe.1:73=Last	
-Greek2	Lje.1:58	Bar.6:58	Renumber verse	Nec. [1:58]	%In some Bibles this chapter is a separate book%		(Latin=6:57 • Greek=1:57 • Greek2=1:58)	LJe.1:73=Last	
-Greek2	Lje.1:59	Bar.6:59	Renumber verse	Nec. [1:59]	%In some Bibles this chapter is a separate book%		(Latin=6:58 • Greek=1:58 • Greek2=1:59)	LJe.1:73=Last	
-Greek2	Lje.1:60	Bar.6:60	Renumber verse	Nec. [1:60]	%In some Bibles this chapter is a separate book%		(Latin=6:59 • Greek=1:59 • Greek2=1:60)	LJe.1:73=Last	
-Greek2	Lje.1:61	Bar.6:61	Renumber verse	Nec. [1:61]	%In some Bibles this chapter is a separate book%		(Latin=6:60 • Greek=1:60 • Greek2=1:61)	LJe.1:73=Last	
-Greek2	Lje.1:62	Bar.6:62	Renumber verse	Nec. [1:62]	%In some Bibles this chapter is a separate book%		(Latin=6:61 • Greek=1:61 • Greek2=1:62)	LJe.1:73=Last	
-Greek2	Lje.1:63	Bar.6:63	Renumber verse	Nec. [1:63]	%In some Bibles this chapter is a separate book%		(Latin=6:62 • Greek=1:62 • Greek2=1:63)	LJe.1:73=Last	
-Greek2	Lje.1:64	Bar.6:64	Renumber verse	Nec. [1:64]	%In some Bibles this chapter is a separate book%		(Latin=6:63 • Greek=1:63 • Greek2=1:64)	LJe.1:73=Last	
-Greek2	Lje.1:65	Bar.6:65	Renumber verse	Nec. [1:65]	%In some Bibles this chapter is a separate book%		(Latin=6:64 • Greek=1:64 • Greek2=1:65)	LJe.1:73=Last	
-Greek2	Lje.1:66	Bar.6:66	Renumber verse	Nec. [1:66]	%In some Bibles this chapter is a separate book%		(Latin=6:65 • Greek=1:65 • Greek2=1:66)	LJe.1:73=Last	
-Greek2	Lje.1:67	Bar.6:67	Renumber verse	Nec. [1:67]	%In some Bibles this chapter is a separate book%		(Latin=6:66 • Greek=1:66 • Greek2=1:67)	LJe.1:73=Last	
-Greek2	Lje.1:68	Bar.6:68	Renumber verse	Nec. [1:68]	%In some Bibles this chapter is a separate book%		(Latin=6:67 • Greek=1:67 • Greek2=1:68)	LJe.1:73=Last	
-Greek2	Lje.1:69	Bar.6:69	Renumber verse	Nec. [1:69]	%In some Bibles this chapter is a separate book%		(Latin=6:68 • Greek=1:68 • Greek2=1:69)	LJe.1:73=Last	
-Greek2	Lje.1:70	Bar.6:70	Renumber verse	Nec. [1:70]	%In some Bibles this chapter is a separate book%		(Latin=6:69 • Greek=1:69 • Greek2=1:70)	LJe.1:73=Last	
-Greek2	Lje.1:71	Bar.6:71	Renumber verse	Nec. [1:71]	%In some Bibles this chapter is a separate book%		(Latin=6:70 • Greek=1:70 • Greek2=1:71)	LJe.1:73=Last	
-Greek2	Lje.1:72	Bar.6:72	Renumber verse	Nec. [1:72]	%In some Bibles this chapter is a separate book%		(Latin=6:71 • Greek=1:71 • Greek2=1:72)	LJe.1:73=Last	
-Greek2	Lje.1:73	Bar.6:73	Renumber verse	Nec. [1:73]	%In some Bibles this chapter is a separate book%		(Latin=6:72 • Greek=1:72 • Greek2=1:73)	LJe.1:73=Last	
+Greek2	Lje.1:50	Bar.6:50	Renumber verse	Nec. [1:50]	%In some Bibles this chapter is a separate book%		(Latin=6:50a • Greek=1:50a / 50)	LJe.1:73=Last	
+Greek2	Lje.1:51	Bar.6:51	Renumber verse	Nec. [1:51]	%In some Bibles this chapter is a separate book%		(Latin=6:50b • Greek=1:50b / 51)	LJe.1:73=Last	
+Greek2	Lje.1:52	Bar.6:52	Renumber verse	Nec. [1:52]	%In some Bibles this chapter is a separate book%		(Latin=6:51 • Greek=1:51 / 52)	LJe.1:73=Last	
+Greek2	Lje.1:53	Bar.6:53	Renumber verse	Nec. [1:53]	%In some Bibles this chapter is a separate book%		(Latin=6:52 • Greek=1:52 / 53)	LJe.1:73=Last	
+Greek2	Lje.1:54	Bar.6:54	Renumber verse	Nec. [1:54]	%In some Bibles this chapter is a separate book%		(Latin=6:53 • Greek=1:53 / 54)	LJe.1:73=Last	
+Greek2	Lje.1:55	Bar.6:55	Renumber verse	Nec. [1:55]	%In some Bibles this chapter is a separate book%		(Latin=6:54 • Greek=1:54 / 55)	LJe.1:73=Last	
+Greek2	Lje.1:56	Bar.6:56	Renumber verse	Nec. [1:56]	%In some Bibles this chapter is a separate book%		(Latin=6:55 • Greek=1:55 / 56)	LJe.1:73=Last	
+Greek2	Lje.1:57	Bar.6:57	Renumber verse	Nec. [1:57]	%In some Bibles this chapter is a separate book%		(Latin=6:56 • Greek=1:56 / 57)	LJe.1:73=Last	
+Greek2	Lje.1:58	Bar.6:58	Renumber verse	Nec. [1:58]	%In some Bibles this chapter is a separate book%		(Latin=6:57 • Greek=1:57 / 58)	LJe.1:73=Last	
+Greek2	Lje.1:59	Bar.6:59	Renumber verse	Nec. [1:59]	%In some Bibles this chapter is a separate book%		(Latin=6:58 • Greek=1:58 / 59)	LJe.1:73=Last	
+Greek2	Lje.1:60	Bar.6:60	Renumber verse	Nec. [1:60]	%In some Bibles this chapter is a separate book%		(Latin=6:59 • Greek=1:59 / 60)	LJe.1:73=Last	
+Greek2	Lje.1:61	Bar.6:61	Renumber verse	Nec. [1:61]	%In some Bibles this chapter is a separate book%		(Latin=6:60 • Greek=1:60 / 61)	LJe.1:73=Last	
+Greek2	Lje.1:62	Bar.6:62	Renumber verse	Nec. [1:62]	%In some Bibles this chapter is a separate book%		(Latin=6:61 • Greek=1:61 / 62)	LJe.1:73=Last	
+Greek2	Lje.1:63	Bar.6:63	Renumber verse	Nec. [1:63]	%In some Bibles this chapter is a separate book%		(Latin=6:62 • Greek=1:62 / 63)	LJe.1:73=Last	
+Greek2	Lje.1:64	Bar.6:64	Renumber verse	Nec. [1:64]	%In some Bibles this chapter is a separate book%		(Latin=6:63 • Greek=1:63 / 64)	LJe.1:73=Last	
+Greek2	Lje.1:65	Bar.6:65	Renumber verse	Nec. [1:65]	%In some Bibles this chapter is a separate book%		(Latin=6:64 • Greek=1:64 / 65)	LJe.1:73=Last	
+Greek2	Lje.1:66	Bar.6:66	Renumber verse	Nec. [1:66]	%In some Bibles this chapter is a separate book%		(Latin=6:65 • Greek=1:65 / 66)	LJe.1:73=Last	
+Greek2	Lje.1:67	Bar.6:67	Renumber verse	Nec. [1:67]	%In some Bibles this chapter is a separate book%		(Latin=6:66 • Greek=1:66 / 67)	LJe.1:73=Last	
+Greek2	Lje.1:68	Bar.6:68	Renumber verse	Nec. [1:68]	%In some Bibles this chapter is a separate book%		(Latin=6:67 • Greek=1:67 / 68)	LJe.1:73=Last	
+Greek2	Lje.1:69	Bar.6:69	Renumber verse	Nec. [1:69]	%In some Bibles this chapter is a separate book%		(Latin=6:68 • Greek=1:68 / 69)	LJe.1:73=Last	
+Greek2	Lje.1:70	Bar.6:70	Renumber verse	Nec. [1:70]	%In some Bibles this chapter is a separate book%		(Latin=6:69 • Greek=1:69 / 70)	LJe.1:73=Last	
+Greek2	Lje.1:71	Bar.6:71	Renumber verse	Nec. [1:71]	%In some Bibles this chapter is a separate book%		(Latin=6:70 • Greek=1:70 / 71)	LJe.1:73=Last	
+Greek2	Lje.1:72	Bar.6:72	Renumber verse	Nec. [1:72]	%In some Bibles this chapter is a separate book%		(Latin=6:71 • Greek=1:71 / 72)	LJe.1:73=Last	
+Greek2	Lje.1:73	Bar.6:73	Renumber verse	Nec. [1:73]	%In some Bibles this chapter is a separate book%		(Latin=6:72 • Greek=1:72 / 73)	LJe.1:73=Last	
 Latin	Bar.6:1	Bar.6:1	Keep verse	Acd. [1]	%In some Bibles this chapter is a separate book%.		(Latin=6:1 • Greek=1:1)	Bar.6:72=Last	
 Latin	Bar.6:2	Bar.6:2	Keep verse	Ped. [2]	%In some Bibles this chapter is a separate book%.		(Latin=6:2 • Greek=1:2)	Bar.6:72=Last	
 Latin	Bar.6:3	Bar.6:3	Keep verse	Ped. [3]	%In some Bibles this chapter is a separate book%.		(Latin=6:3 • Greek=1:3)	Bar.6:72=Last	
