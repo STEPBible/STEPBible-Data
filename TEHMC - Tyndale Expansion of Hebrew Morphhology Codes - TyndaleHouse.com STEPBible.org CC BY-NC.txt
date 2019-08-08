@@ -336,22 +336,22 @@ HSn	Function=Suffix ; Form=Paragogic Nun
 $
 ASp1bs	Function=Suffix ; Form=Personal ; Person=First; Gender=Either gender; Number=Singular
 	Suffix (First Singular Either gender)
-	"WHICH belongs to, is done to, or is done by a male or female person or thing that are speaking or writing this"
+	"WHICH belongs to, is done to, or is done by a male or female person or thing that is speaking or writing this"
 	Example: "we, us, our"
 $
 HSp1bs	Function=Suffix ; Form=Personal ; Person=First; Gender=Either gender; Number=Singular
 	Suffix (First Singular Either gender)
-	"WHICH belongs to, is done to, or is done by a male or female person or thing that are speaking or writing this"
+	"WHICH belongs to, is done to, or is done by a male or female person or thing that is speaking or writing this"
 	Example: "we, us, our"
 $
 ASp1bp	Function=Suffix ; Form=Personal ; Person=First; Gender=Either gender; Number=Plural
 	Suffix (First Plural Either gender)
-	"WHICH belongs to, is done to, or is done by male or female people or things that is speaking or writing this"
+	"WHICH belongs to, is done to, or is done by male or female people or things that are speaking or writing this"
 	Example: "I, me, my"
 $
 HSp1bp	Function=Suffix ; Form=Personal ; Person=First; Gender=Either gender; Number=Plural
 	Suffix (First Plural Either gender)
-	"WHICH belongs to, is done to, or is done by male or female people or things that is speaking or writing this"
+	"WHICH belongs to, is done to, or is done by male or female people or things that are speaking or writing this"
 	Example: "I, me, my"
 $
 ASp2fs	Function=Suffix ; Form=Personal ; Person=Second; Gender=Feminine; Number=Singular
@@ -486,12 +486,12 @@ HNgbsa	Function=Noun ; Form=Gentilic ; Gender=Either gender; Number=Singular; St
 $
 ANgbsd	Function=Noun ; Form=Gentilic ; Gender=Either gender; Number=Singular; State=Definite
 	"Noun (Gentilic, Singular Either gender, Definite)"
-	an important a male or femaleperson or thing a NAMED group
+	an important male or female member of a NAMED group
 	Example: the Jew
 $
 HNgbsd	Function=Noun ; Form=Gentilic ; Gender=Either gender; Number=Singular; State=Definite
 	"Noun (Gentilic, Singular Either gender, Definite)"
-	an important a male or femaleperson or thing a NAMED group
+	an important male or female member of a NAMED group
 	Example: the Jew
 $
 ANgfsa	Function=Noun ; Form=Gentilic ; Gender=Feminine; Number=Singular; State=Absolute
@@ -636,12 +636,12 @@ HNcbsd	Function=Noun ; Form=Common ; Gender=Either gender; Number=Singular; Stat
 $
 AAabsd	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Definite
 	"Adjective (Singular Either gender, Definite)"
-	an important a male or female person or thing
+	an important male or female person or thing
 	Example: the late (person/thing)
 $
 HAabsd	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Definite
 	"Adjective (Singular Either gender, Definite)"
-	an important a male or female person or thing
+	an important male or female person or thing
 	Example: the late (person/thing)
 $
 AAcbsd	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Singular; State=Definite
@@ -836,22 +836,22 @@ HAofsc	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Si
 $
 ANcfsd	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Noun (Singular Feminine, Definite)"
-	an important a female PERSON OR THING
+	an important female PERSON OR THING
 	Example: the woman
 $
 HNcfsd	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Noun (Singular Feminine, Definite)"
-	an important a female PERSON OR THING
+	an important female PERSON OR THING
 	Example: the woman
 $
 AAafsd	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Adjective (Singular Feminine, Definite)"
-	an important a female person or thing
+	an important female person or thing
 	Example: the late (woman)
 $
 HAafsd	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Adjective (Singular Feminine, Definite)"
-	an important a female person or thing
+	an important female person or thing
 	Example: the late (woman)
 $
 AAofsd	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Singular; State=Definite
@@ -2051,7 +2051,7 @@ HVqi1cp	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Imper
 $
 HVqi1cs	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Imperfective (hence Tense=Future/present; Mood=Indicative/cohortative); Person=First; Gender=Either gender; Number=Singular
 	"Verb : Qal (Simple, Active) Imperfective (Future/present Indicative/cohortative) First Singular Either gender"
-	performing an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present by a male or female person or thing that is speaking or writing this
+	performing an ACTION OR ACTIVITY that is done or should be done incompletely in the future or present by a male or female person or thing that is speaking or writing this
 	Example: I may or will be or am lowering
 $
 HVqi2fp	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Imperfective (hence Tense=Future/present; Mood=Indicative/jussive); Person=Second; Gender=Feminine; Number=Plural
@@ -3801,7 +3801,7 @@ AVHq3ms	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=P
 $
 AVMq3ms	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive; Voice=Reflexive/iterative); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
 	"Verb : Hithpaal (Intensive/resultive, Reflexive/iterative) Consecutive Perfective (Future/present Indicative) Third Singular Masculine"
-	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being discussed"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being discussed"
 	Example: he/it will be or is humbling
 $
 AVpq1cs	Function=Verb ; Stem=Pael (hence Action=Intensive/resultive; Voice=Active); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=First; Gender=Either gender; Number=Singular
@@ -3861,12 +3861,12 @@ AVqq3ms	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Cons
 $
 AVuq2ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive; Voice=Passive); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
 	"Verb : Hithpeel (Intensive/resultive, Passive) Consecutive Perfective (Future/present Indicative) Second Singular Masculine"
-	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being addressed"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being addressed"
 	Example: you (a male) will be or are lowered
 $
 AVuq3ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive; Voice=Passive); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
 	"Verb : Hithpeel (Intensive/resultive, Passive) Consecutive Perfective (Future/present Indicative) Third Singular Masculine"
-	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being discussed"
+	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being discussed"
 	Example: he/it will be or is lowered
 $
 HVDq3cp	Function=Verb ; Stem=Hithpeel (hence Action=Simple; Voice=Passive); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Either gender; Number=Plural
@@ -4021,7 +4021,7 @@ HVqq3ms	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Conse
 $
 HVtq2fs	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Second; Gender=Feminine; Number=Singular
 	"Verb : Hithpael (Simple, Reflexive/iterative) Consecutive Perfective (Future/present Indicative) Second Singular Feminine"
-	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a female person or thing being addressed"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a female person or thing being addressed"
 	Example: you (a female) will be or are lowering
 $
 HVtq2mp	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Plural
@@ -4031,7 +4031,7 @@ HVtq2mp	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iter
 $
 HVtq2ms	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
 	"Verb : Hithpael (Simple, Reflexive/iterative) Consecutive Perfective (Future/present Indicative) Second Singular Masculine"
-	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being addressed"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being addressed"
 	Example: you (a male) will be or are lowering
 $
 HVtq3cp	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Either gender; Number=Plural
@@ -4041,12 +4041,12 @@ HVtq3cp	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iter
 $
 HVtq3fs	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Feminine; Number=Singular
 	"Verb : Hithpael (Simple, Reflexive/iterative) Consecutive Perfective (Future/present Indicative) Third Singular Feminine"
-	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a female person or thing being discussed"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a female person or thing being discussed"
 	Example: she/it will be or is lowering
 $
 HVtq3ms	Function=Verb ; Stem=Hithpael (hence Action=Simple; Voice=Reflexive/iterative); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
 	"Verb : Hithpael (Simple, Reflexive/iterative) Consecutive Perfective (Future/present Indicative) Third Singular Masculine"
-	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themselves by a male person or thing being discussed"
+	"performing an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being discussed"
 	Example: he/it will be or is lowering
 $
 HVhq1cp	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Consecutive Perfective (hence Tense=Future/present; Mood=Indicative); Person=First; Gender=Either gender; Number=Plural
