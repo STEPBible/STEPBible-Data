@@ -87,12 +87,12 @@ $
 AD	Function=Adverb 
 	Adverb
 	DESCRIBING an action 
-	"it was _wisely_ given": "loudly, soon"
+	"it was _wisely_ given": "lately"
 $
 HD	Function=Adverb 
 	Adverb
 	DESCRIBING an action 
-	"it was _wisely_ given": "loudly, soon"
+	"it was _wisely_ given": "lately"
 $
 AR	Function=Preposition 
 	Preposition
@@ -477,22 +477,22 @@ $
 ANgbsa	Function=Noun ; Form=Gentilic ; Gender=Either gender; Number=Singular; State=Absolute
 	"Noun (Gentilic, Singular Either gender, Absolute)"
 	a male or female member of a NAMED group 
-	Example: a Jew
+	Example: a Jew (male or female)
 $
 HNgbsa	Function=Noun ; Form=Gentilic ; Gender=Either gender; Number=Singular; State=Absolute
 	"Noun (Gentilic, Singular Either gender, Absolute)"
 	a male or female member of a NAMED group 
-	Example: a Jew
+	Example: a Jew (male or female)
 $
 ANgbsd	Function=Noun ; Form=Gentilic ; Gender=Either gender; Number=Singular; State=Definite
 	"Noun (Gentilic, Singular Either gender, Definite)"
 	an important male or female member of a NAMED group
-	Example: the Jew
+	Example: the Jew (male or female)
 $
 HNgbsd	Function=Noun ; Form=Gentilic ; Gender=Either gender; Number=Singular; State=Definite
 	"Noun (Gentilic, Singular Either gender, Definite)"
 	an important male or female member of a NAMED group
-	Example: the Jew
+	Example: the Jew (male or female)
 $
 ANgfsa	Function=Noun ; Form=Gentilic ; Gender=Feminine; Number=Singular; State=Absolute
 	"Noun (Gentilic, Singular Feminine, Absolute)"
@@ -507,602 +507,602 @@ $
 ANgfsc	Function=Noun ; Form=Gentilic ; Gender=Feminine; Number=Singular; State=Construct
 	"Noun (Gentilic, Singular Feminine, Construct)"
 	"a female member of a NAMED group, combined with another term"
-	Example: son of a Jewess
+	Example: of a Jewess
 $
 HNgfsc	Function=Noun ; Form=Gentilic ; Gender=Feminine; Number=Singular; State=Construct
 	"Noun (Gentilic, Singular Feminine, Construct)"
 	"a female member of a NAMED group, combined with another term"
-	Example: son of a Jewess
+	Example: of a Jewess
 $
 ANgfpa	Function=Noun ; Form=Gentilic ; Gender=Feminine; Number=Plural; State=Absolute
 	"Noun (Gentilic, Plural Feminine, Absolute)"
 	female members of a NAMED group 
-	Example: some Jewesses
+	Example:  Jewesses
 $
 HNgfpa	Function=Noun ; Form=Gentilic ; Gender=Feminine; Number=Plural; State=Absolute
 	"Noun (Gentilic, Plural Feminine, Absolute)"
 	female members of a NAMED group 
-	Example: some Jewesses
+	Example:  Jewesses
 $
 ANgmpa	Function=Noun ; Form=Gentilic ; Gender=Masculine; Number=Plural; State=Absolute
 	"Noun (Gentilic, Plural Masculine, Absolute)"
 	male members of a NAMED group 
-	Example: (males) Jews
+	Example: (male) Jews
 $
 HNgmpa	Function=Noun ; Form=Gentilic ; Gender=Masculine; Number=Plural; State=Absolute
 	"Noun (Gentilic, Plural Masculine, Absolute)"
 	male members of a NAMED group 
-	Example: (males) Jews
+	Example: (male) Jews
 $
 ANgmpc	Function=Noun ; Form=Gentilic ; Gender=Masculine; Number=Plural; State=Construct
 	"Noun (Gentilic, Plural Masculine, Construct)"
 	"male members of a NAMED group, combined with another term"
-	Example: (males) sons of Jews
+	Example: of (male) Jews
 $
 HNgmpc	Function=Noun ; Form=Gentilic ; Gender=Masculine; Number=Plural; State=Construct
 	"Noun (Gentilic, Plural Masculine, Construct)"
 	"male members of a NAMED group, combined with another term"
-	Example: (males) sons of Jews
+	Example: of (male) Jews
 $
 ANgmpd	Function=Noun ; Form=Gentilic ; Gender=Masculine; Number=Plural; State=Definite
 	"Noun (Gentilic, Plural Masculine, Definite)"
 	important malemembers of a NAMED group
-	Example: (males) the Jews
+	Example: the (male) Jews
 $
 HNgmpd	Function=Noun ; Form=Gentilic ; Gender=Masculine; Number=Plural; State=Definite
 	"Noun (Gentilic, Plural Masculine, Definite)"
 	important malemembers of a NAMED group
-	Example: (males) the Jews
+	Example: the (male) Jews
 $
 AAabsa	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Absolute
 	"Adjective (Singular Either gender, Absolute)"
 	a male or female person or thing in any way except numerical 
-	Example: late (person/thing)
+	Example: a late (person or thing)
 $
 HAabsa	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Absolute
 	"Adjective (Singular Either gender, Absolute)"
 	a male or female person or thing in any way except numerical 
-	Example: late (person/thing)
+	Example: a late (person or thing)
 $
 ANcbsa	Function=Noun ; Form=Common ; Gender=Either gender; Number=Singular; State=Absolute
 	"Noun (Singular Either gender, Absolute)"
 	a reference to a male or female PERSON OR THING 
-	Example: person
+	Example: a person (or thing)
 $
 HNcbsa	Function=Noun ; Form=Common ; Gender=Either gender; Number=Singular; State=Absolute
 	"Noun (Singular Either gender, Absolute)"
 	a reference to a male or female PERSON OR THING 
-	Example: person
+	Example: a person (or thing)
 $
 AAcbsa	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Singular; State=Absolute
 	"Numerical Adjective (Singular Either gender, Absolute)"
 	DESCRIBING the number of a male or female person or thing 
-	Example: one (person/thing)
+	Example: one (person or thing)
 $
 HAcbsa	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Singular; State=Absolute
 	"Numerical Adjective (Singular Either gender, Absolute)"
 	DESCRIBING the number of a male or female person or thing 
-	Example: one (person/thing)
+	Example: one (person or thing)
 $
 AAobsa	Function=Adjective ; Form=Numerical position ; Gender=Either gender; Number=Singular; State=Absolute
 	"Numerical position Adjective (Singular Either gender, Absolute)"
 	DESCRIBING the numerical position of a male or female person or thing 
-	Example: first (person/thing)
+	Example: a first (person or thing)
 $
 HAobsa	Function=Adjective ; Form=Numerical position ; Gender=Either gender; Number=Singular; State=Absolute
 	"Numerical position Adjective (Singular Either gender, Absolute)"
 	DESCRIBING the numerical position of a male or female person or thing 
-	Example: first (person/thing)
+	Example: a first (person or thing)
 $
 ANcbsc	Function=Noun ; Form=Common ; Gender=Either gender; Number=Singular; State=Construct
 	"Noun (Singular Either gender, Construct)"
 	"a reference to a male or female PERSON OR THING, combined with another term"
-	Example: person (of Israel)
+	Example: of a person (or thing)
 $
 HNcbsc	Function=Noun ; Form=Common ; Gender=Either gender; Number=Singular; State=Construct
 	"Noun (Singular Either gender, Construct)"
 	"a reference to a male or female PERSON OR THING, combined with another term"
-	Example: person (of Israel)
+	Example: of a person (or thing)
 $
 AAabsc	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Construct
 	"Adjective (Singular Either gender, Construct)"
 	"DESCRIBING a male or female person or thing, combined with another term"
-	Example: late (of Israel)
+	Example: a late (person or thing)
 $
 HAabsc	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Construct
 	"Adjective (Singular Either gender, Construct)"
 	"DESCRIBING a male or female person or thing, combined with another term"
-	Example: late (of Israel)
+	Example: a late (person or thing)
 $
 AAcbsc	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Singular; State=Construct
 	"Numerical Adjective (Singular Either gender, Construct)"
 	"DESCRIBING the number of a male or female person or thing, combined with another term"
-	Example: one (of Israel)
+	Example: one (person or thing)
 $
 HAcbsc	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Singular; State=Construct
 	"Numerical Adjective (Singular Either gender, Construct)"
 	"DESCRIBING the number of a male or female person or thing, combined with another term"
-	Example: one (of Israel)
+	Example: one (person or thing)
 $
 ANcbsd	Function=Noun ; Form=Common ; Gender=Either gender; Number=Singular; State=Definite
 	"Noun (Singular Either gender, Definite)"
 	an important male or female PERSON OR THING
-	Example: the person
+	Example: the person (or thing)
 $
 HNcbsd	Function=Noun ; Form=Common ; Gender=Either gender; Number=Singular; State=Definite
 	"Noun (Singular Either gender, Definite)"
 	an important male or female PERSON OR THING
-	Example: the person
+	Example: the person (or thing)
 $
 AAabsd	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Definite
 	"Adjective (Singular Either gender, Definite)"
 	an important male or female person or thing
-	Example: the late (person/thing)
+	Example: the late (person or thing)
 $
 HAabsd	Function=Adjective ; Form=Common ; Gender=Either gender; Number=Singular; State=Definite
 	"Adjective (Singular Either gender, Definite)"
 	an important male or female person or thing
-	Example: the late (person/thing)
+	Example: the late (person or thing)
 $
 AAcbsd	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Singular; State=Definite
 	"Numerical Adjective (Singular Either gender, Definite)"
 	the number of an important male or female person or thing
-	Example: the one (person/thing)
+	Example: the one (person or thing)
 $
 HAcbsd	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Singular; State=Definite
 	"Numerical Adjective (Singular Either gender, Definite)"
 	the number of an important male or female person or thing
-	Example: the one (person/thing)
+	Example: the one (person or thing)
 $
 AAobsd	Function=Adjective ; Form=Numerical position ; Gender=Either gender; Number=Singular; State=Definite
 	"Numerical position Adjective (Singular Either gender, Definite)"
 	the numerical position of an important male or female person or thing
-	Example: the first (person/thing)
+	Example: the first (person or thing)
 $
 HAobsd	Function=Adjective ; Form=Numerical position ; Gender=Either gender; Number=Singular; State=Definite
 	"Numerical position Adjective (Singular Either gender, Definite)"
 	the numerical position of an important male or female person or thing
-	Example: the first (person/thing)
+	Example: the first (person or thing)
 $
 ANcfda	Function=Noun ; Form=Common ; Gender=Feminine; Number=Dual; State=Absolute
 	"Noun (Dual Feminine, Absolute)"
 	a reference to two female people or things 
-	Example: both late (females)
+	Example: both (female) people (or things)
 $
 HNcfda	Function=Noun ; Form=Common ; Gender=Feminine; Number=Dual; State=Absolute
 	"Noun (Dual Feminine, Absolute)"
 	a reference to two female people or things 
-	Example: both late (females)
+	Example: both (female) people (or things)
 $
 AAcfda	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Dual; State=Absolute
 	"Numerical Adjective (Dual Feminine, Absolute)"
 	DESCRIBING the number of two female people or things 
-	Example: both two (females)
+	Example: two (female people or things)
 $
 HAcfda	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Dual; State=Absolute
 	"Numerical Adjective (Dual Feminine, Absolute)"
 	DESCRIBING the number of two female people or things 
-	Example: both two (females)
+	Example: two (female people or things)
 $
 ANcfdc	Function=Noun ; Form=Common ; Gender=Feminine; Number=Dual; State=Construct
 	"Noun (Dual Feminine, Construct)"
 	"a reference to two female PEOPLE OR THINGS, combined with another term"
-	Example: both late (women of Israel)
+	Example: both (female) people (or things)
 $
 HNcfdc	Function=Noun ; Form=Common ; Gender=Feminine; Number=Dual; State=Construct
 	"Noun (Dual Feminine, Construct)"
 	"a reference to two female PEOPLE OR THINGS, combined with another term"
-	Example: both late (women of Israel)
+	Example: both (female) people (or things)
 $
 AAcfdc	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Dual; State=Construct
 	"Numerical Adjective (Dual Feminine, Construct)"
 	"DESCRIBING the number of two female people or things, combined with another term"
-	Example: both two (women of Israel)
+	Example: two (people or things)
 $
 HAcfdc	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Dual; State=Construct
 	"Numerical Adjective (Dual Feminine, Construct)"
 	"DESCRIBING the number of two female people or things, combined with another term"
-	Example: both two (women of Israel)
+	Example: two (people or things)
 $
 ANcbda	Function=Noun ; Form=Common ; Gender=Either gender; Number=Dual; State=Absolute
 	"Noun (Dual Either gender, Absolute)"
 	a reference to two male or female PEOPLE OR THINGS 
-	Example: both people
+	Example: both people (or things)
 $
 HNcbda	Function=Noun ; Form=Common ; Gender=Either gender; Number=Dual; State=Absolute
 	"Noun (Dual Either gender, Absolute)"
 	a reference to two male or female PEOPLE OR THINGS 
-	Example: both people
+	Example: both people (or things)
 $
 AAcbda	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Dual; State=Absolute
 	"Numerical Adjective (Dual Either gender, Absolute)"
 	DESCRIBING the number of two male or female people or things 
-	Example: both late (people/things)
+	Example: both late (people or things)
 $
 HAcbda	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Dual; State=Absolute
 	"Numerical Adjective (Dual Either gender, Absolute)"
 	DESCRIBING the number of two male or female people or things 
-	Example: both late (people/things)
+	Example: both late (people or things)
 $
 ANcbdc	Function=Noun ; Form=Common ; Gender=Either gender; Number=Dual; State=Construct
 	"Noun (Dual Either gender, Construct)"
 	"a reference to two male or female PEOPLE OR THINGS, combined with another term"
-	Example: both people (of Israel)
+	Example: both people (or things)
 $
 HNcbdc	Function=Noun ; Form=Common ; Gender=Either gender; Number=Dual; State=Construct
 	"Noun (Dual Either gender, Construct)"
 	"a reference to two male or female PEOPLE OR THINGS, combined with another term"
-	Example: both people (of Israel)
+	Example: both people (or things)
 $
 AAcbdc	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Dual; State=Construct
 	"Numerical Adjective (Dual Either gender, Construct)"
 	"DESCRIBING the number of two male or female people or things, combined with another term"
-	Example: both late (people of Israel)
+	Example: both second (people or things)
 $
 HAcbdc	Function=Adjective ; Form=Numerical ; Gender=Either gender; Number=Dual; State=Construct
 	"Numerical Adjective (Dual Either gender, Construct)"
 	"DESCRIBING the number of two male or female people or things, combined with another term"
-	Example: both late (people of Israel)
+	Example: both second (people or things)
 $
 ANcbpc	Function=Noun ; Form=Common ; Gender=Either gender; Number=Plural; State=Construct
 	"Noun (Plural Either gender, Construct)"
 	"a reference to male or female PEOPLE OR THINGS, combined with another term"
-	Example: people (of Israel)
+	Example: people (or things)
 $
 HNcbpc	Function=Noun ; Form=Common ; Gender=Either gender; Number=Plural; State=Construct
 	"Noun (Plural Either gender, Construct)"
 	"a reference to male or female PEOPLE OR THINGS, combined with another term"
-	Example: people (of Israel)
+	Example: people (or things)
 $
 ANcfsa	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Absolute
 	"Noun (Singular Feminine, Absolute)"
 	a reference to a female PERSON OR THING 
-	Example: woman
+	Example: a (female) person (or thing)
 $
 HNcfsa	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Absolute
 	"Noun (Singular Feminine, Absolute)"
 	a reference to a female PERSON OR THING 
-	Example: woman
+	Example: a (female) person (or thing)
 $
 AAafsa	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Absolute
 	"Adjective (Singular Feminine, Absolute)"
 	DESCRIBING a female person or thing 
-	Example: late (woman)
+	Example: a late (female person or thing)
 $
 HAafsa	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Absolute
 	"Adjective (Singular Feminine, Absolute)"
 	DESCRIBING a female person or thing 
-	Example: late (woman)
+	Example: a late (female person or thing)
 $
 AAcfsa	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Singular; State=Absolute
 	"Numerical Adjective (Singular Feminine, Absolute)"
 	DESCRIBING the number of a female person or thing 
-	Example: one (woman)
+	Example: one (female person or thing)
 $
 HAcfsa	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Singular; State=Absolute
 	"Numerical Adjective (Singular Feminine, Absolute)"
 	DESCRIBING the number of a female person or thing 
-	Example: one (woman)
+	Example: one (female person or thing)
 $
 AAofsa	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Singular; State=Absolute
 	"Numerical position Adjective (Singular Feminine, Absolute)"
 	DESCRIBING the numerical position of a female person or thing 
-	Example: first (woman)
+	Example: a second (female person or thing)
 $
 HAofsa	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Singular; State=Absolute
 	"Numerical position Adjective (Singular Feminine, Absolute)"
 	DESCRIBING the numerical position of a female person or thing 
-	Example: first (woman)
+	Example: a second (female person or thing)
 $
 ANcfsc	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Construct
 	"Noun (Singular Feminine, Construct)"
 	"a reference to a female PERSON OR THING, combined with another term"
-	Example: woman (of Israel)
+	Example: of a (female) person (or thing)
 $
 HNcfsc	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Construct
 	"Noun (Singular Feminine, Construct)"
 	"a reference to a female PERSON OR THING, combined with another term"
-	Example: woman (of Israel)
+	Example: of a (female) person (or thing)
 $
 AAafsc	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Construct
 	"Adjective (Singular Feminine, Construct)"
 	"DESCRIBING a female person or thing, combined with another term"
-	Example: late (woman of Israel)
+	Example: of a late (female person or thing)
 $
 HAafsc	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Construct
 	"Adjective (Singular Feminine, Construct)"
 	"DESCRIBING a female person or thing, combined with another term"
-	Example: late (woman of Israel)
+	Example: of a late (female person or thing)
 $
 AAcfsc	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Singular; State=Construct
 	"Numerical Adjective (Singular Feminine, Construct)"
 	"DESCRIBING the number of a female person or thing, combined with another term"
-	Example: one (woman of Israel)
+	Example: of one (female person or thing)
 $
 HAcfsc	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Singular; State=Construct
 	"Numerical Adjective (Singular Feminine, Construct)"
 	"DESCRIBING the number of a female person or thing, combined with another term"
-	Example: one (woman of Israel)
+	Example: of one (female person or thing)
 $
 AAofsc	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Singular; State=Construct
 	"Numerical position Adjective (Singular Feminine, Construct)"
 	"DESCRIBING the numerical position of a female person or thing, combined with another term"
-	Example: first (woman of Israel)
+	Example: of a first (person or thing)
 $
 HAofsc	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Singular; State=Construct
 	"Numerical position Adjective (Singular Feminine, Construct)"
 	"DESCRIBING the numerical position of a female person or thing, combined with another term"
-	Example: first (woman of Israel)
+	Example: of a first (person or thing)
 $
 ANcfsd	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Noun (Singular Feminine, Definite)"
 	an important female PERSON OR THING
-	Example: the woman
+	Example: the (female) person (or thing)
 $
 HNcfsd	Function=Noun ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Noun (Singular Feminine, Definite)"
 	an important female PERSON OR THING
-	Example: the woman
+	Example: the (female) person (or thing)
 $
 AAafsd	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Adjective (Singular Feminine, Definite)"
 	an important female person or thing
-	Example: the late (woman)
+	Example: the late (female person or thing)
 $
 HAafsd	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Singular; State=Definite
 	"Adjective (Singular Feminine, Definite)"
 	an important female person or thing
-	Example: the late (woman)
+	Example: the late (female person or thing)
 $
 AAofsd	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Singular; State=Definite
 	"Numerical position Adjective (Singular Feminine, Definite)"
 	the numerical position of an important female person or thing
-	Example: the first (woman)
+	Example: the first (female person or thing)
 $
 HAofsd	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Singular; State=Definite
 	"Numerical position Adjective (Singular Feminine, Definite)"
 	the numerical position of an important female person or thing
-	Example: the first (woman)
+	Example: the first (female person or thing)
 $
 ANcfpa	Function=Noun ; Form=Common ; Gender=Feminine; Number=Plural; State=Absolute
 	"Noun (Plural Feminine, Absolute)"
 	a reference to female PEOPLE OR THINGS 
-	Example: women
+	Example: (female) people (or things)
 $
 HNcfpa	Function=Noun ; Form=Common ; Gender=Feminine; Number=Plural; State=Absolute
 	"Noun (Plural Feminine, Absolute)"
 	a reference to female PEOPLE OR THINGS 
-	Example: women
+	Example: (female) people (or things)
 $
 AAafpa	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Plural; State=Absolute
 	"Adjective (Plural Feminine, Absolute)"
 	DESCRIBING female people or things 
-	Example: late (females)
+	Example: late (female people or things)
 $
 HAafpa	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Plural; State=Absolute
 	"Adjective (Plural Feminine, Absolute)"
 	DESCRIBING female people or things 
-	Example: late (females)
+	Example: late (female people or things)
 $
 AAcfpa	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Plural; State=Absolute
 	"Numerical Adjective (Plural Feminine, Absolute)"
 	DESCRIBING the number of female people or things 
-	Example: three (females)
+	Example: two (female people or things)
 $
 HAcfpa	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Plural; State=Absolute
 	"Numerical Adjective (Plural Feminine, Absolute)"
 	DESCRIBING the number of female people or things 
-	Example: three (females)
+	Example: two (female people or things)
 $
 AAofpa	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Plural; State=Absolute
 	"Numerical position Adjective (Plural Feminine, Absolute)"
 	DESCRIBING the numerical position of female people or things 
-	Example: first (females)
+	Example: first (female people or things)
 $
 HAofpa	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Plural; State=Absolute
 	"Numerical position Adjective (Plural Feminine, Absolute)"
 	DESCRIBING the numerical position of female people or things 
-	Example: first (females)
+	Example: first (female people or things)
 $
 ANcfpc	Function=Noun ; Form=Common ; Gender=Feminine; Number=Plural; State=Construct
 	"Noun (Plural Feminine, Construct)"
 	"a reference to female PEOPLE OR THINGS, combined with another term"
-	Example: women (of Israel)
+	Example: of (female) people (or things)
 $
 HNcfpc	Function=Noun ; Form=Common ; Gender=Feminine; Number=Plural; State=Construct
 	"Noun (Plural Feminine, Construct)"
 	"a reference to female PEOPLE OR THINGS, combined with another term"
-	Example: women (of Israel)
+	Example: of (female) people (or things)
 $
 AAafpc	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Plural; State=Construct
 	"Adjective (Plural Feminine, Construct)"
 	"DESCRIBING female people or things, combined with another term"
-	Example: late (women of Israel)
+	Example: of late (female people or things)
 $
 HAafpc	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Plural; State=Construct
 	"Adjective (Plural Feminine, Construct)"
 	"DESCRIBING female people or things, combined with another term"
-	Example: late (women of Israel)
+	Example: of late (female people or things)
 $
 AAcfpc	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Plural; State=Construct
 	"Numerical Adjective (Plural Feminine, Construct)"
 	"DESCRIBING the number of female people or things, combined with another term"
-	Example: three (women of Israel)
+	Example: of two (female people or things)
 $
 HAcfpc	Function=Adjective ; Form=Numerical ; Gender=Feminine; Number=Plural; State=Construct
 	"Numerical Adjective (Plural Feminine, Construct)"
 	"DESCRIBING the number of female people or things, combined with another term"
-	Example: three (women of Israel)
+	Example: of two (female people or things)
 $
 ANcfpd	Function=Noun ; Form=Common ; Gender=Feminine; Number=Plural; State=Definite
 	"Noun (Plural Feminine, Definite)"
 	important female PEOPLE OR THINGS
-	Example: the women
+	Example: the (female) people (or things)
 $
 HNcfpd	Function=Noun ; Form=Common ; Gender=Feminine; Number=Plural; State=Definite
 	"Noun (Plural Feminine, Definite)"
 	important female PEOPLE OR THINGS
-	Example: the women
+	Example: the (female) people (or things)
 $
 AAafpd	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Plural; State=Definite
 	"Adjective (Plural Feminine, Definite)"
 	important female people or things
-	Example: the late (females)
+	Example: the late (female people or things)
 $
 HAafpd	Function=Adjective ; Form=Common ; Gender=Feminine; Number=Plural; State=Definite
 	"Adjective (Plural Feminine, Definite)"
 	important female people or things
-	Example: the late (females)
+	Example: the late (female people or things)
 $
 AAofpd	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Plural; State=Definite
 	"Numerical position Adjective (Plural Feminine, Definite)"
 	the numerical position of important female people or things
-	Example: the first (females)
+	Example: the first (female people or things)
 $
 HAofpd	Function=Adjective ; Form=Numerical position ; Gender=Feminine; Number=Plural; State=Definite
 	"Numerical position Adjective (Plural Feminine, Definite)"
 	the numerical position of important female people or things
-	Example: the first (females)
+	Example: the first (female people or things)
 $
 ANcmsa	Function=Noun ; Form=Common ; Gender=Masculine; Number=Singular; State=Absolute
 	"Noun (Singular Masculine, Absolute)"
 	a reference to a male PERSON OR THING 
-	Example: man
+	Example: (male) person (or thing)
 $
 HNcmsa	Function=Noun ; Form=Common ; Gender=Masculine; Number=Singular; State=Absolute
 	"Noun (Singular Masculine, Absolute)"
 	a reference to a male PERSON OR THING 
-	Example: man
+	Example: (male) person (or thing)
 $
 AAamsa	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Singular; State=Absolute
 	"Adjective (Singular Masculine, Absolute)"
 	DESCRIBING a male person or thing 
-	Example: late (man)
+	Example: late (male person or thing)
 $
 HAamsa	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Singular; State=Absolute
 	"Adjective (Singular Masculine, Absolute)"
 	DESCRIBING a male person or thing 
-	Example: late (man)
+	Example: late (male person or thing)
 $
 ANcmsc	Function=Noun ; Form=Common ; Gender=Masculine; Number=Singular; State=Construct
 	"Noun (Singular Masculine, Construct)"
 	"a reference to a male PERSON OR THING, combined with another term"
-	Example: man (of Israel)
+	Example: of (male) person (or thing)
 $
 HNcmsc	Function=Noun ; Form=Common ; Gender=Masculine; Number=Singular; State=Construct
 	"Noun (Singular Masculine, Construct)"
 	"a reference to a male PERSON OR THING, combined with another term"
-	Example: man (of Israel)
+	Example: of (male) person (or thing)
 $
 AAamsc	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Singular; State=Construct
 	"Adjective (Singular Masculine, Construct)"
 	"DESCRIBING a male person or thing, combined with another term"
-	Example: late (man of Israel)
+	Example: of late (male person or thing)
 $
 HAamsc	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Singular; State=Construct
 	"Adjective (Singular Masculine, Construct)"
 	"DESCRIBING a male person or thing, combined with another term"
-	Example: late (man of Israel)
+	Example: of late (male person or thing)
 $
 ANcmpa	Function=Noun ; Form=Common ; Gender=Masculine; Number=Plural; State=Absolute
 	"Noun (Plural Masculine, Absolute)"
 	a reference to male PEOPLE OR THINGS 
-	Example: men
+	Example: (male) people (or things)
 $
 HNcmpa	Function=Noun ; Form=Common ; Gender=Masculine; Number=Plural; State=Absolute
 	"Noun (Plural Masculine, Absolute)"
 	a reference to male PEOPLE OR THINGS 
-	Example: men
+	Example: (male) people (or things)
 $
 AAampa	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Plural; State=Absolute
 	"Adjective (Plural Masculine, Absolute)"
 	DESCRIBING male people or things 
-	Example: late (males)
+	Example: late (male people or things)
 $
 HAampa	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Plural; State=Absolute
 	"Adjective (Plural Masculine, Absolute)"
 	DESCRIBING male people or things 
-	Example: late (males)
+	Example: late (male people or things)
 $
 AAcmpa	Function=Adjective ; Form=Numerical ; Gender=Masculine; Number=Plural; State=Absolute
 	"Numerical Adjective (Plural Masculine, Absolute)"
 	DESCRIBING the number of male people or things 
-	Example: three (males)
+	Example: two (male people or things)
 $
 HAcmpa	Function=Adjective ; Form=Numerical ; Gender=Masculine; Number=Plural; State=Absolute
 	"Numerical Adjective (Plural Masculine, Absolute)"
 	DESCRIBING the number of male people or things 
-	Example: three (males)
+	Example: two (male people or things)
 $
 AAompa	Function=Adjective ; Form=Numerical position ; Gender=Masculine; Number=Plural; State=Absolute
 	"Numerical position Adjective (Plural Masculine, Absolute)"
 	DESCRIBING the numerical position of male people or things 
-	Example: first (males)
+	Example: first (male people or things)
 $
 HAompa	Function=Adjective ; Form=Numerical position ; Gender=Masculine; Number=Plural; State=Absolute
 	"Numerical position Adjective (Plural Masculine, Absolute)"
 	DESCRIBING the numerical position of male people or things 
-	Example: first (males)
+	Example: first (male people or things)
 $
 ANcmpc	Function=Noun ; Form=Common ; Gender=Masculine; Number=Plural; State=Construct
 	"Noun (Plural Masculine, Construct)"
 	"a reference to male PEOPLE OR THINGS, combined with another term"
-	Example: men (of Israel)
+	Example: of (male) people (or things)
 $
 HNcmpc	Function=Noun ; Form=Common ; Gender=Masculine; Number=Plural; State=Construct
 	"Noun (Plural Masculine, Construct)"
 	"a reference to male PEOPLE OR THINGS, combined with another term"
-	Example: men (of Israel)
+	Example: of (male) people (or things)
 $
 AAampc	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Plural; State=Construct
 	"Adjective (Plural Masculine, Construct)"
 	"DESCRIBING male people or things, combined with another term"
-	Example: late (men of Israel)
+	Example: of late (male people or things)
 $
 HAampc	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Plural; State=Construct
 	"Adjective (Plural Masculine, Construct)"
 	"DESCRIBING male people or things, combined with another term"
-	Example: late (men of Israel)
+	Example: of late (male people or things)
 $
 AAcmpc	Function=Adjective ; Form=Numerical ; Gender=Masculine; Number=Plural; State=Construct
 	"Numerical Adjective (Plural Masculine, Construct)"
 	"DESCRIBING the number of male people or things, combined with another term"
-	Example: three (men of Israel)
+	Example: of two (male people or things)
 $
 HAcmpc	Function=Adjective ; Form=Numerical ; Gender=Masculine; Number=Plural; State=Construct
 	"Numerical Adjective (Plural Masculine, Construct)"
 	"DESCRIBING the number of male people or things, combined with another term"
-	Example: three (men of Israel)
+	Example: of two (male people or things)
 $
 ANcmpd	Function=Noun ; Form=Common ; Gender=Masculine; Number=Plural; State=Definite
 	"Noun (Plural Masculine, Definite)"
 	important male PEOPLE OR THINGS
-	Example: the men
+	Example: the (male) people (or things)
 $
 HNcmpd	Function=Noun ; Form=Common ; Gender=Masculine; Number=Plural; State=Definite
 	"Noun (Plural Masculine, Definite)"
 	important male PEOPLE OR THINGS
-	Example: the men
+	Example: the (male) people (or things)
 $
 AAampd	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Plural; State=Definite
 	"Adjective (Plural Masculine, Definite)"
 	important male people or things
-	Example: the late (males)
+	Example: the late (male people or things)
 $
 HAampd	Function=Adjective ; Form=Common ; Gender=Masculine; Number=Plural; State=Definite
 	"Adjective (Plural Masculine, Definite)"
 	important male people or things
-	Example: the late (males)
+	Example: the late (male people or things)
 $
 AAompd	Function=Adjective ; Form=Numerical position ; Gender=Masculine; Number=Plural; State=Definite
 	"Numerical position Adjective (Plural Masculine, Definite)"
 	the numerical position of important male people or things
-	Example: the first (males)
+	Example: the first (male people or things)
 $
 HAompd	Function=Adjective ; Form=Numerical position ; Gender=Masculine; Number=Plural; State=Definite
 	"Numerical position Adjective (Plural Masculine, Definite)"
 	the numerical position of important male people or things
-	Example: the first (males)
+	Example: the first (male people or things)
 $
 AVermsa	Function=Verb ; Stem=Shaphel (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Shaphel (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
