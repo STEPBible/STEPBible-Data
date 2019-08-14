@@ -565,8 +565,8 @@ $2Ch.36:24-38	English	Hebrew	Latin	Greek	Greek2	Greek3
 TEST: If...	Man.1:15=Last	Man.1:1=NotExist	Man.1:1=NotExist	Man.1:15=Last	Man.1:1=NotExist	Man.1:1=NotExist	
 TEST: And if... 	2Ch.36:24=NotExist	2Ch.36:24=NotExist	2Ch.36:24=Exist	2Ch.36:24=NotExist	2Ch.36:24=NotExist	2Ch.36:24=NotExist	
 TEST: And if... 	2Ch.37:1=NotExist	2Ch.37:1=NotExist	2Ch.37:1=NotExist	2Ch.37:1=NotExist	2Ch.37:1=Exist	2Ch.37:1=NotExist	
-TEST: And if... 	Ode.12:1=NotExist	Ode.12:1=NotExist	Ode.12:1=NotExist	Ode.12:1=NotExist	Ode.12:1=NotExist	Ode.12:1=Exist		
-OneToOne	Man.1.1-15	NoVerse	2Ch.36:24-38	Man.1.1-15	2Ch.37:1-15	Ode.12:1-15	
+TEST: And if... 	Oda.12:1=NotExist	Oda.12:1=NotExist	Oda.12:1=NotExist	Oda.12:1=NotExist	Oda.12:1=NotExist	Oda.12:1=Exist		
+OneToOne	Man.1.1-15	NoVerse	2Ch.36:24-38	Man.1.1-15	2Ch.37:1-15	Oda.12:1-15	
 
 $Neh.3:30-4:23	English	Hebrew	Latin	Greek	Greek2
 TEST: If...	Neh.3:32=Last	Neh.3:38=Last	Neh.3:31=Last	Neh.3:37=Last	Neh.3:32=Last		
@@ -5554,81 +5554,81 @@ Hebrew+Greek	2Ch.14:12	2Ch.14:13	Renumber verse	Nec. [12]	%Normally in this Bibl
 Hebrew+Greek	2Ch.14:13	2Ch.14:14	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 14:13.		(Hebrew=14:13 • Latin=14:14 • Greek=14:13)	2Ch.14:14=Last	
 Hebrew+Greek	2Ch.14:14	2Ch.14:15	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 14:14.		(Hebrew=14:14 • Latin=14:15 • Greek=14:14)	2Ch.14:14=Last	
 
-English	Man.1:1	Man.1:1	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=Last & 2Ch.36:24=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:2	Man.1:2	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=Last & 2Ch.36:24:25=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:3	Man.1:3	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=Last & 2Ch.36:24:26=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:4	Man.1:4	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:4=Last & 2Ch.36:24:27=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:5	Man.1:5	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:5=Last & 2Ch.36:24:28=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:6	Man.1:6	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:6=Last & 2Ch.36:24:29=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:7	Man.1:7	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:7=Last & 2Ch.36:24:30=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:8	Man.1:8	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:8=Last & 2Ch.36:24:31=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:9	Man.1:9	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:9=Last & 2Ch.36:24:32=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:10=Last & 2Ch.36:24:33=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:11=Last & 2Ch.36:24:34=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:12=Last & 2Ch.36:24:35=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:13=Last & 2Ch.36:24:36=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:14=Last & 2Ch.36:24:37=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-English	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:15=Last & 2Ch.36:24:38=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:1	Man.1:1	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=Last & 2Ch.36:24:24=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:2	Man.1:2	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=Last & 2Ch.36:24:25=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:3	Man.1:3	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=Last & 2Ch.36:24:26=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:4	Man.1:4	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:4=Last & 2Ch.36:24:27=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:5	Man.1:5	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:5=Last & 2Ch.36:24:28=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:6	Man.1:6	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:6=Last & 2Ch.36:24:29=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:7	Man.1:7	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:7=Last & 2Ch.36:24:30=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:8	Man.1:8	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:8=Last & 2Ch.36:24:31=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:9	Man.1:9	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:9=Last & 2Ch.36:24:32=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:10=Last & 2Ch.36:24:33=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:11=Last & 2Ch.36:24:34=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:12=Last & 2Ch.36:24:35=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:13=Last & 2Ch.36:24:36=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:14=Last & 2Ch.36:24:37=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:15=Last & 2Ch.36:24:38=NotExist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek2	2Ch.37:1	Man.1:1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:1.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1/2Ch.37:1)	Man.1:1=NotExist & 2Ch.36:24=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:2	Man.1:2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:2.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2/2Ch.37:2)	Man.1:2=NotExist & 2Ch.36:25=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:3	Man.1:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:3.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3/2Ch.37:3)	Man.1:3=NotExist & 2Ch.36:26=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:4	Man.1:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:4.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4/2Ch.37:4)	Man.1:4=NotExist & 2Ch.36:27=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:5	Man.1:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:5.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5/2Ch.37:5)	Man.1:5=NotExist & 2Ch.36:28=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:6	Man.1:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:6.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6/2Ch.37:6)	Man.1:6=NotExist & 2Ch.36:29=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:7	Man.1:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:7.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7/2Ch.37:7)	Man.1:7=NotExist & 2Ch.36:30=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:8	Man.1:8	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:8.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8/2Ch.37:8)	Man.1:8=NotExist & 2Ch.36:31=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:9	Man.1:9	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:9.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9/2Ch.37:9)	Man.1:9=NotExist & 2Ch.36:32=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:10	Man.1:10	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:10.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10/2Ch.37:10)	Man.1:10=NotExist & 2Ch.36:33=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:11	Man.1:11	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:11.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11/2Ch.37:11)	Man.1:11=NotExist & 2Ch.36:34=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:12	Man.1:12	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:12.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12/2Ch.37:12)	Man.1:12=NotExist & 2Ch.36:35=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:13	Man.1:13	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:13.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13/2Ch.37:13)	Man.1:13=NotExist & 2Ch.36:36=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:14	Man.1:14	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:14.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14/2Ch.37:14)	Man.1:14=NotExist & 2Ch.36:37=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Greek2	2Ch.37:15	Man.1:15	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:15.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15/2Ch.37:15)	Man.1:15=NotExist & 2Ch.36:38=NotExist & Ode.12:1=NotExist & 2Ch.37:1=Exist		
-Latin	2Ch.36:24	Man.1:1	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=NotExist & 2Ch.36:24=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:25	Man.1:2	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=NotExist & 2Ch.36:25=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:26	Man.1:3	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=NotExist & 2Ch.36:26=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:27	Man.1:4	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:4=NotExist & 2Ch.36:27=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:28	Man.1:5	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:5=NotExist & 2Ch.36:28=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:29	Man.1:6	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:6=NotExist & 2Ch.36:29=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:30	Man.1:7	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:7=NotExist & 2Ch.36:30=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:31	Man.1:8	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:8=NotExist & 2Ch.36:31=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:32	Man.1:9	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:9=NotExist & 2Ch.36:32=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:33	Man.1:10	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:10=NotExist & 2Ch.36:33=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:34	Man.1:11	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:11=NotExist & 2Ch.36:34=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:35	Man.1:12	Renumber verse	Nec. [35]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:12=NotExist & 2Ch.36:35=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:36	Man.1:13	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:13=NotExist & 2Ch.36:36=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:37	Man.1:14	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:14=NotExist & 2Ch.36:37=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Latin	2Ch.36:38	Man.1:15	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:15=NotExist & 2Ch.36:38=Exist & Ode.12:1=NotExist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:1	Man.1:1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is Ode% 12:1.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1/Ode.12:1)	Man.1:1=NotExist & 2Ch.36:24=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:2	Man.1:2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is Ode% 12:2.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2/Ode.12:2)	Man.1:2=NotExist & 2Ch.36:25=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:3	Man.1:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is Ode% 12:3.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3/Ode.12:3)	Man.1:3=NotExist & 2Ch.36:26=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:4	Man.1:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is Ode% 12:4.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4/Ode.12:4)	Man.1:4=NotExist & 2Ch.36:27=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:5	Man.1:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is Ode% 12:5.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5/Ode.12:5)	Man.1:5=NotExist & 2Ch.36:28=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:6	Man.1:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is Ode% 12:6.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6/Ode.12:6)	Man.1:6=NotExist & 2Ch.36:29=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:7	Man.1:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is Ode% 12:7.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7/Ode.12:7)	Man.1:7=NotExist & 2Ch.36:30=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:8	Man.1:8	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is Ode% 12:8.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8/Ode.12:8)	Man.1:8=NotExist & 2Ch.36:31=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:9	Man.1:9	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is Ode% 12:9.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9/Ode.12:9)	Man.1:9=NotExist & 2Ch.36:32=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:10	Man.1:10	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is Ode% 12:10.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10/Ode.12:10)	Man.1:10=NotExist & 2Ch.36:33=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:11	Man.1:11	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is Ode% 12:11.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11/Ode.12:11)	Man.1:11=NotExist & 2Ch.36:34=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:12	Man.1:12	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is Ode% 12:12.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12/Ode.12:12)	Man.1:12=NotExist & 2Ch.36:35=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:13	Man.1:13	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is Ode% 12:13.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13/Ode.12:13)	Man.1:13=NotExist & 2Ch.36:36=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:14	Man.1:14	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is Ode% 12:14.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14/Ode.12:14)	Man.1:14=NotExist & 2Ch.36:37=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
-Greek3	Ode.12:15	Man.1:15	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is Ode% 12:15.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15/Ode.12:15)	Man.1:15=NotExist & 2Ch.36:38=NotExist & Ode.12:1=Exist & 2Ch.37:1=NotExist		
+English	Man.1:1	Man.1:1	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=Last & 2Ch.36:24=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:2	Man.1:2	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=Last & 2Ch.36:24:25=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:3	Man.1:3	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=Last & 2Ch.36:24:26=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:4	Man.1:4	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:4=Last & 2Ch.36:24:27=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:5	Man.1:5	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:5=Last & 2Ch.36:24:28=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:6	Man.1:6	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:6=Last & 2Ch.36:24:29=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:7	Man.1:7	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:7=Last & 2Ch.36:24:30=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:8	Man.1:8	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:8=Last & 2Ch.36:24:31=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:9	Man.1:9	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:9=Last & 2Ch.36:24:32=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:10=Last & 2Ch.36:24:33=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:11=Last & 2Ch.36:24:34=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:12=Last & 2Ch.36:24:35=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:13=Last & 2Ch.36:24:36=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:14=Last & 2Ch.36:24:37=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+English	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:15=Last & 2Ch.36:24:38=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:1	Man.1:1	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=Last & 2Ch.36:24:24=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:2	Man.1:2	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=Last & 2Ch.36:24:25=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:3	Man.1:3	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=Last & 2Ch.36:24:26=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:4	Man.1:4	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:4=Last & 2Ch.36:24:27=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:5	Man.1:5	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:5=Last & 2Ch.36:24:28=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:6	Man.1:6	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:6=Last & 2Ch.36:24:29=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:7	Man.1:7	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:7=Last & 2Ch.36:24:30=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:8	Man.1:8	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:8=Last & 2Ch.36:24:31=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:9	Man.1:9	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:9=Last & 2Ch.36:24:32=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:10	Man.1:10	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:10=Last & 2Ch.36:24:33=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:11	Man.1:11	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:11=Last & 2Ch.36:24:34=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:12	Man.1:12	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:12=Last & 2Ch.36:24:35=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:13	Man.1:13	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:13=Last & 2Ch.36:24:36=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:14	Man.1:14	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:14=Last & 2Ch.36:24:37=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek	Man.1:15	Man.1:15	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:15=Last & 2Ch.36:24:38=NotExist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek2	2Ch.37:1	Man.1:1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:1.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1/2Ch.37:1)	Man.1:1=NotExist & 2Ch.36:24=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:2	Man.1:2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:2.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2/2Ch.37:2)	Man.1:2=NotExist & 2Ch.36:25=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:3	Man.1:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:3.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3/2Ch.37:3)	Man.1:3=NotExist & 2Ch.36:26=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:4	Man.1:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:4.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4/2Ch.37:4)	Man.1:4=NotExist & 2Ch.36:27=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:5	Man.1:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:5.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5/2Ch.37:5)	Man.1:5=NotExist & 2Ch.36:28=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:6	Man.1:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:6.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6/2Ch.37:6)	Man.1:6=NotExist & 2Ch.36:29=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:7	Man.1:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:7.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7/2Ch.37:7)	Man.1:7=NotExist & 2Ch.36:30=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:8	Man.1:8	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:8.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8/2Ch.37:8)	Man.1:8=NotExist & 2Ch.36:31=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:9	Man.1:9	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:9.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9/2Ch.37:9)	Man.1:9=NotExist & 2Ch.36:32=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:10	Man.1:10	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:10.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10/2Ch.37:10)	Man.1:10=NotExist & 2Ch.36:33=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:11	Man.1:11	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:11.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11/2Ch.37:11)	Man.1:11=NotExist & 2Ch.36:34=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:12	Man.1:12	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:12.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12/2Ch.37:12)	Man.1:12=NotExist & 2Ch.36:35=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:13	Man.1:13	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:13.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13/2Ch.37:13)	Man.1:13=NotExist & 2Ch.36:36=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:14	Man.1:14	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:14.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14/2Ch.37:14)	Man.1:14=NotExist & 2Ch.36:37=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Greek2	2Ch.37:15	Man.1:15	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is 2 Chronicles% 37:15.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15/2Ch.37:15)	Man.1:15=NotExist & 2Ch.36:38=NotExist & Oda.12:1=NotExist & 2Ch.37:1=Exist		
+Latin	2Ch.36:24	Man.1:1	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:24.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1)	Man.1:1=NotExist & 2Ch.36:24=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:25	Man.1:2	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:25.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2)	Man.1:2=NotExist & 2Ch.36:25=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:26	Man.1:3	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:26.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3)	Man.1:3=NotExist & 2Ch.36:26=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:27	Man.1:4	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:27.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4)	Man.1:4=NotExist & 2Ch.36:27=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:28	Man.1:5	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:28.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5)	Man.1:5=NotExist & 2Ch.36:28=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:29	Man.1:6	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:29.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6)	Man.1:6=NotExist & 2Ch.36:29=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:30	Man.1:7	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:30.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7)	Man.1:7=NotExist & 2Ch.36:30=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:31	Man.1:8	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:31.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8)	Man.1:8=NotExist & 2Ch.36:31=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:32	Man.1:9	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:32.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9)	Man.1:9=NotExist & 2Ch.36:32=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:33	Man.1:10	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:33.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10)	Man.1:10=NotExist & 2Ch.36:33=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:34	Man.1:11	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:34.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11)	Man.1:11=NotExist & 2Ch.36:34=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:35	Man.1:12	Renumber verse	Nec. [35]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:35.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12)	Man.1:12=NotExist & 2Ch.36:35=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:36	Man.1:13	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:36.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13)	Man.1:13=NotExist & 2Ch.36:36=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:37	Man.1:14	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:37.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14)	Man.1:14=NotExist & 2Ch.36:37=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Latin	2Ch.36:38	Man.1:15	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is 2 Chronicles% 36:38.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15)	Man.1:15=NotExist & 2Ch.36:38=Exist & Oda.12:1=NotExist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:1	Man.1:1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is Oda% 12:1.		(Hebrew= -- • Latin=2Ch.36:24 • Greek=Man.1:1/Oda.12:1)	Man.1:1=NotExist & 2Ch.36:24=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:2	Man.1:2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is Oda% 12:2.		(Hebrew= -- • Latin=2Ch.36:25 • Greek=Man.1:2/Oda.12:2)	Man.1:2=NotExist & 2Ch.36:25=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:3	Man.1:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is Oda% 12:3.		(Hebrew= -- • Latin=2Ch.36:26 • Greek=Man.1:3/Oda.12:3)	Man.1:3=NotExist & 2Ch.36:26=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:4	Man.1:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is Oda% 12:4.		(Hebrew= -- • Latin=2Ch.36:27 • Greek=Man.1:4/Oda.12:4)	Man.1:4=NotExist & 2Ch.36:27=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:5	Man.1:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is Oda% 12:5.		(Hebrew= -- • Latin=2Ch.36:28 • Greek=Man.1:5/Oda.12:5)	Man.1:5=NotExist & 2Ch.36:28=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:6	Man.1:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is Oda% 12:6.		(Hebrew= -- • Latin=2Ch.36:29 • Greek=Man.1:6/Oda.12:6)	Man.1:6=NotExist & 2Ch.36:29=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:7	Man.1:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is Oda% 12:7.		(Hebrew= -- • Latin=2Ch.36:30 • Greek=Man.1:7/Oda.12:7)	Man.1:7=NotExist & 2Ch.36:30=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:8	Man.1:8	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is Oda% 12:8.		(Hebrew= -- • Latin=2Ch.36:31 • Greek=Man.1:8/Oda.12:8)	Man.1:8=NotExist & 2Ch.36:31=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:9	Man.1:9	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is Oda% 12:9.		(Hebrew= -- • Latin=2Ch.36:32 • Greek=Man.1:9/Oda.12:9)	Man.1:9=NotExist & 2Ch.36:32=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:10	Man.1:10	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is Oda% 12:10.		(Hebrew= -- • Latin=2Ch.36:33 • Greek=Man.1:10/Oda.12:10)	Man.1:10=NotExist & 2Ch.36:33=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:11	Man.1:11	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is Oda% 12:11.		(Hebrew= -- • Latin=2Ch.36:34 • Greek=Man.1:11/Oda.12:11)	Man.1:11=NotExist & 2Ch.36:34=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:12	Man.1:12	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is Oda% 12:12.		(Hebrew= -- • Latin=2Ch.36:35 • Greek=Man.1:12/Oda.12:12)	Man.1:12=NotExist & 2Ch.36:35=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:13	Man.1:13	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is Oda% 12:13.		(Hebrew= -- • Latin=2Ch.36:36 • Greek=Man.1:13/Oda.12:13)	Man.1:13=NotExist & 2Ch.36:36=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:14	Man.1:14	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is Oda% 12:14.		(Hebrew= -- • Latin=2Ch.36:37 • Greek=Man.1:14/Oda.12:14)	Man.1:14=NotExist & 2Ch.36:37=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
+Greek3	Oda.12:15	Man.1:15	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is Oda% 12:15.		(Hebrew= -- • Latin=2Ch.36:38 • Greek=Man.1:15/Oda.12:15)	Man.1:15=NotExist & 2Ch.36:38=NotExist & Oda.12:1=Exist & 2Ch.37:1=NotExist		
 
 English	Neh.3:30	Neh.3:30	Keep verse	Acd. [30a]	%In some Bibles the verse numbering here is% 3:30a.		(Hebrew=3:30 • Latin=3:30a • Greek=3:30)	Neh.3:32=Last & Neh.4:23=Last & Neh.4:6*2>Neh.4:3	
 English	Neh.3:31	Neh.3:31	Keep verse	Acd. [30b]	%In some Bibles the verse numbering here is% 3:30b.		(Hebrew=3:31 • Latin=3:30b • Greek=3:31)	Neh.3:32=Last & Neh.4:23=Last & Neh.4:6*2>Neh.4:3	
@@ -19356,9 +19356,6 @@ Latin	Sir.51:36	Sir.51:28	Renumber verse	Nec. [36]	%Normally in this Bible the v
 Latin	Sir.51:37	Sir.51:29	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 51:37.		(Latin=51:37 • Greek=51:29)	Sir.51:38=Last	
 Latin	Sir.51:38	Sir.51:30	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% 51:38.		(Latin=51:38 • Greek=51:30)	Sir.51:38=Last	
 
-
-
-
 English+Greek	Wis.1:1	Wis.1:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 1:1-2.		(Latin=1:1-2 • Greek=1:1)	Wis.6:25=Last	
 English+Greek	Wis.1:10	Wis.1:10	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 1:11.		(Latin=1:11 • Greek=1:10)	Wis.6:25=Last	
 English+Greek	Wis.1:11	Wis.1:11	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 1:12.		(Latin=1:12 • Greek=1:11)	Wis.6:25=Last	
@@ -19519,8 +19516,6 @@ Latin	Wis.19:19	Wis.19:20	Renumber verse	Nec. [19]	%Normally in this Bible the v
 Latin	Wis.19:20	Wis.19:21	Renumber verse	Nec. [21-22]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 19:20.		(Latin=19:20a • Greek=19:21)	Wis.19:20=Last	
 Latin	Wis.19:20	Wis.19:22	Merged with	Nec. [20b]	%Normally in this Bible some text may be missing here because it is merged with% 19:21.		(Latin=19:20b • Greek=19:22)	Wis.19:20=Last	
 
-
-
 English+Greek	2Ma.15:37	2Ma.15:37	Keep verse	Acd. [37-38]	%In some Bibles the verse numbering here is% 15:37-38.		(Latin=15:37-38 • Greek=15:37)	2Ma.15:39=Last	
 English+Greek	2Ma.15:38	2Ma.15:38	Keep verse	Acd. [39]	%In some Bibles the verse numbering here is% 15:39.		(Latin=15:39 • Greek=15:38)	2Ma.15:39=Last	
 English+Greek	2Ma.15:39	2Ma.15:39	Keep verse	Acd. [40]	%In some Bibles the verse numbering here is% 15:40.		(Latin=15:40 • Greek=15:39)	2Ma.15:39=Last	
@@ -19528,8 +19523,6 @@ Latin	2Ma.15:37	2Ma.15:37	Renumber verse	Nec. [37]	%Normally in this Bible the v
 Latin	2Ma.15:38	2Ma.15:37.2	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% 15:38.		(Latin=15:37-38 • Greek=15:37)	2Ma.15:40=Last	
 Latin	2Ma.15:39	2Ma.15:38	Renumber verse	Nec. [39]	%Normally in this Bible the verse numbering here is% 15:39.		(Latin=15:39 • Greek=15:38)	2Ma.15:40=Last	
 Latin	2Ma.15:40	2Ma.15:39	Renumber verse	Nec. [40]	%Normally in this Bible the verse numbering here is% 15:40.		(Latin=15:40 • Greek=15:39)	2Ma.15:40=Last	
-
-
 
 English	1Es.1:15	1Es.1:15	Keep verse	Acd. [15a]	%In some Bibles the verse numbering here is% 1:15a.		(Latin=1:15a • Greek=1:15a)	1Es.1:58=Last	
 English	1Es.1:16	1Es.1:16	Keep verse	Acd. [15b]	%In some Bibles the verse numbering here is% 1:15b.		(Latin=1:15b • Greek=1:15b)	1Es.1:58=Last	
@@ -20162,10 +20155,6 @@ Latin	1Es.8:95	1Es.8:94	Renumber verse	Nec. [95]	%Normally in this Bible the ver
 Latin	1Es.8:96	1Es.8:95	Renumber verse	Nec. [96]	%Normally in this Bible the verse numbering here is% 8:96.		(Latin=8:96 • Greek=8:91)	1Es.8:97=Last	
 Latin	1Es.8:97	1Es.8:96	Renumber verse	Nec. [97]	%Normally in this Bible the verse numbering here is% 8:97.		(Latin=8:97 • Greek=8:92)	1Es.8:97=Last	
 
-
-
-
-
 English+Greek	Tob.1:10	Tob.1:10	Keep verse	Acd. [10-11]	%In some Bibles the verse numbering here is% 1:10-11.		(Latin=1:10-11 • Greek=1:10)	Tob.1:22=Last	
 English+Greek	Tob.1:11	Tob.1:11	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 1:12.		(Latin=1:12 • Greek=1:11)	Tob.1:22=Last	
 English+Greek	Tob.1:12	Tob.1:12	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 1:13.		(Latin=1:13 • Greek=1:12)	Tob.1:22=Last	
@@ -20273,7 +20262,6 @@ Latin	Tob.4:6	Tob.4:5	Renumber verse	Nec. [6]	%Normally in this Bible the verse 
 Latin	Tob.4:7	Tob.4:6	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 4:7.		(Latin=4:7 • Greek=4:6)	Tob.4:23=Last	
 Latin	Tob.4:8	Tob.4:7	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 4:8.		(Latin=4:8 • Greek=4:7)	Tob.4:23=Last	
 Latin	Tob.4:9	Tob.4:8	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 4:9.		(Latin=4:9 • Greek=4:8)	Tob.4:23=Last	
-
 
 English	Tob.5:10	Tob.5:10	Keep verse	Acd. [12-15]	%In some Bibles the verse numbering here is% 5:12-15.		(Latin=5:12-15 • Greek=5:10)	Tob.5:22=Last	
 English	Tob.5:11	Tob.5:11	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 5:16.		(Latin=5:16 • Greek=5:11)	Tob.5:22=Last	
@@ -20488,7 +20476,6 @@ Latin	Tob.11:20	Tob.11:18	Renumber verse	Nec. [20]	%Normally in this Bible the v
 Latin	Tob.11:21	Tob.11:18.2	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 11:21.		(Latin=11:20-21 • Greek=11:18-19)	Tob.11:21=Last	
 Latin	Tob.11:9	Tob.11:9	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 11:9.		(Latin=11:9-11 • Greek=11:9)	Tob.11:21=Last	
 
-
 English	Tob.13:10	Tob.13:10	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 13:12.		(Latin=13:12 • Greek=13:11)	Tob.13:17=Last	
 English	Tob.13:11	Tob.13:11	Keep verse	Acd. [13-16]	%In some Bibles the verse numbering here is% 13:13-16.		(Latin=13:13-16 • Greek=13:12)	Tob.13:17=Last	
 English	Tob.13:12	Tob.13:12	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 13:16.		(Latin=13:16 • Greek=13:13)	Tob.13:17=Last	
@@ -20559,7 +20546,6 @@ Latin	Tob.14:6	Tob.14:4	Renumber verse	Nec. [6]	%Normally in this Bible the vers
 Latin	Tob.14:7	Tob.14:5	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 14:7.		(Latin=14:7 • Greek=14:5)	Tob.14:17=Last	
 Latin	Tob.14:8	Tob.14:6	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 14:8.		(Latin=14:8 • Greek=14:6)	Tob.14:17=Last	
 Latin	Tob.14:9	Tob.14:7	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 14:9.		(Latin=14:9 • Greek=14:7)	Tob.14:17=Last	
-
 
 English+Greek	Jdt.3:10	Jdt.3:10	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 3:15.		(Latin=3:15 • Greek=3:10)	Jdt.3:10=Last	
 English+Greek	Jdt.3:4	Jdt.3:4	Keep verse	Acd. [4-5]	%In some Bibles the verse numbering here is% 3:4-5.		(Latin=3:4-5 • Greek=3:4)	Jdt.3:10=Last	
@@ -20689,7 +20675,6 @@ Latin	Jdt.8:34	Jdt.8:35	Renumber verse	Nec. [35-36]	%Normally in this Bible this
 Latin	Jdt.8:34	Jdt.8:36	Merged with	Nec. [34b]	%Normally in this Bible some text may be missing here because it is merged with% 8:35.		(Latin=8:34b • Greek=8:36)	Jdt.8:34=Last	
 Latin	Jdt.8:9	Jdt.8:10	Merged with	Nec. [9b]	%Normally in this Bible some text may be missing here because it is merged with% 8:9.		(Latin=8:9b • Greek=8:10)	Jdt.8:34=Last	
 Latin	Jdt.8:9	Jdt.8:9	Renumber verse	Nec. [9-10]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 8:9.		(Latin=8:9a • Greek=8:9)	Jdt.8:34=Last	
-
 
 English+Greek	Jdt.9:10	Jdt.9:10	Keep verse	Acd. [13-15]	%In some Bibles the verse numbering here is% 9:13-15.		(Latin=9:13-15 • Greek=9:10)	Jdt.9:14=Last	
 English+Greek	Jdt.9:11	Jdt.9:11	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 9:16.		(Latin=9:16 • Greek=9:11)	Jdt.9:14=Last	
@@ -20942,10 +20927,6 @@ Latin	Jdt.16:6	Jdt.16:4	Renumber verse	Nec. [6]	%Normally in this Bible the vers
 Latin	Jdt.16:7	Jdt.16:5	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 16:7.		(Latin=16:7 • Greek=16:5)	Jdt.16:31=Last	
 Latin	Jdt.16:8	Jdt.16:6	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 16:8.		(Latin=16:8 • Greek=16:6)	Jdt.16:31=Last	
 Latin	Jdt.16:9	Jdt.16:7	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 16:9.		(Latin=16:9 • Greek=16:7)	Jdt.16:31=Last	
-
-
-
-
 
 English+Greek	Mat.17:14	Mat.17:14	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 17:14a.		(Latin=17:14a • Greek=17:14)	Mat.17:27=Last	
 English+Greek	Mat.17:15	Mat.17:15	Keep verse	Acd. [14b]	%In some Bibles the verse numbering here is% 17:14b.		(Latin=17:14b • Greek=17:15)	Mat.17:27=Last	
@@ -21482,6 +21463,7 @@ Phrases to translate to different languages:
 %Normally in this Bible the verse numbering here is% REF
 %Normally in this Bible the verse numbering here is Daniel% REF
 %Normally in this Bible the verse numbering here is 2 Chronicles% REF
+%Normally in this Bible the verse numbering here is Oda% REF
 %Normally in this Bible this verse and the next are merged as % REF
 %Normally in this Bible some text may be missing here because it is merged with% REF
 %Normally in this Bible this verse includes words that are at% REF
