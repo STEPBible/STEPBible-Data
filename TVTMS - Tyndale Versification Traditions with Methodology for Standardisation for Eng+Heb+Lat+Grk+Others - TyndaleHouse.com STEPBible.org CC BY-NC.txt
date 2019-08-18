@@ -660,6 +660,7 @@ OneToOne	Psa.3:2-8	Psa.3:3-9	Psa.3:3-9	Psa.3:3-9	Psa.3:2-8
 
 $Psa.4:1-4:8	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.4:8=Last	Psa.4:9=Last	Psa.4:10=Last	Psa.4:9=Last	Psa.4:8=Last		
+TEST: And if... 	Psa.4:1.1=NotExist	Psa.4:1.1=NotExist	Psa.4:1.1=NotExist	Psa.4:1.1=NotExist	Psa.4:1.1=Exist	
 Concatenation	Psa.4:1	Psa.4:1-2	Psa.4:1-2	Psa.4:1-2	Psa.4:1.0-1		
 OneToOne	Psa.4:2-4	Psa.4:3-5	Psa.4:3-5	Psa.4:3-5	Psa.4:2-4		
 OneToOne	Psa.4:5	Psa.4:6	Psa.4:6	Psa.4:6	Psa.4:5		
@@ -669,26 +670,31 @@ Concatenation	Psa.4:8	Psa.4:9	Psa.4:9-10	Psa.4:9	Psa.4:8
 
 $Psa.5:1-5:12	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.5:12=Last	Psa.5:13=Last	Psa.5:13=Last	Psa.5:13=Last	Psa.5:12=Last		
+TEST: And if... 	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=Exist	
 Concatenation	Psa.5:1	Psa.5:1-2	Psa.5:1-2	Psa.5:1-2	Psa.5:1.0-1		
 OneToOne	Psa.5:2-12	Psa.5:3-13	Psa.5:3-13	Psa.5:3-13	Psa.5:2-12		
 
 $Psa.6:1-6:10	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.6:10=Last	Psa.6:11=Last	Psa.6:11=Last	Psa.6:11=Last	Psa.6:10=Last		
+TEST: And if... 	Psa.6:1.1=NotExist	Psa.6:1.1=NotExist	Psa.6:1.1=NotExist	Psa.6:1.1=NotExist	Psa.6:1.1=Exist	
 Concatenation	Psa.6:1	Psa.6:1-2	Psa.6:1-2	Psa.6:1-2	Psa.6:1.0-1		
 OneToOne	Psa.6:2-10	Psa.6:3-11	Psa.6:3-11	Psa.6:3-11	Psa.6:2-10		
 
 $Psa.7:1-7:17	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.7:17=Last	Psa.7:18=Last	Psa.7:18=Last	Psa.7:18=Last	Psa.7:17=Last		
+TEST: And if... 	Psa.7:1.1=NotExist	Psa.7:1.1=NotExist	Psa.7:1.1=NotExist	Psa.7:1.1=NotExist	Psa.7:1.1=Exist	
 Concatenation	Psa.7:1	Psa.7:1-2	Psa.7:1-2	Psa.7:1-2	Psa.7:1.0-1		
 OneToOne	Psa.7:2-17	Psa.7:3-18	Psa.7:3-18	Psa.7:3-18	Psa.7:2-17		
 
 $Psa.8:1-8:9	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.8:9=Last	Psa.8:10=Last	Psa.8:10=Last	Psa.8:10=Last	Psa.8:9=Last		
+TEST: And if... 	Psa.8:1.1=NotExist	Psa.8:1.1=NotExist	Psa.8:1.1=NotExist	Psa.8:1.1=NotExist	Psa.8:1.1=Exist	
 Concatenation	Psa.8:1	Psa.8:1-2	Psa.8:1-2	Psa.8:1-2	Psa.8:1.0-1		
 OneToOne	Psa.8:2-9	Psa.8:3-10	Psa.8:3-10	Psa.8:3-10	Psa.8:2-9		
 
 $Psa.9:1-10:18	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.9:20=Last	Psa.9:21=Last	Psa.9:39=Last	Psa.9:39=Last	Psa.9:20=Last		
+TEST: And if... 	Psa.9:1.1=NotExist	Psa.9:1.1=NotExist	Psa.9:1.1=NotExist	Psa.9:1.1=NotExist	Psa.9:1.1=Exist	
 Concatenation	Psa.9:1	Psa.9:1-2	Psa.9:1-2	Psa.9:1-2	Psa.9:1.0-1		
 OneToOne	Psa.9:2-20	Psa.9:3-21	Psa.9:3-21	Psa.9:3-21	Psa.9:2-20		
 OneToOne	Psa.10:1-18	Psa.10:1-18	Psa.9:22-39	Psa.9:22-39	Psa.10:1-18		
@@ -701,6 +707,7 @@ OneToOne	Psa.11:2-7	Psa.11:2-7	Psa.10:3-8	Psa.10:2-7	Psa.11:2-7
 
 $Psa.12:1-12:8	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.12:8=Last	Psa.12:9=Last	Psa.12:6=Last	Psa.12:6=Last	Psa.12:8=Last		
+TEST: And if... 	Psa.12:1.1=NotExist	Psa.12:1.1=NotExist	Psa.12:1.1=NotExist	Psa.12:1.1=NotExist	Psa.12:1.1=Exist	
 Concatenation	Psa.12:1	Psa.12:1-2	Psa.11:1-2	Psa.11:1-2	Psa.12:1.0-1		
 OneToOne	Psa.12:2-8	Psa.12:3-9	Psa.11:3-9	Psa.11:3-9	Psa.12:2-8		
 
@@ -713,133 +720,175 @@ Concatenation	Psa.13:2	Psa.13:3	Psa.12:2-3	Psa.12:3	Psa.13:2
 OneToOne	Psa.13:3-4	Psa.13:4-5	Psa.12:4-5	Psa.12:4-5	Psa.13:3-4		
 DuplicateTarget	Psa.13:5-6	Psa.13:6	Psa.12:6	Psa.12:6	Psa.13:5-6		
 
-$Psa.14:1-7	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.14:7=Last	Psa.14:7=Last	Psa.14:5=Last	Psa.14:5=Last			
-OneToOne	Psa.14:1-7	Psa.14:1-7	Psa.13:1-7	Psa.13:1-7			
+$Psa.14:1-7	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.14:7=Last	Psa.14:7=Last	Psa.14:5=Last	Psa.14:5=Last	Psa.14:7=Last		
+TEST: And if... 	Psa.14:1.1=NotExist	Psa.14:1.1=NotExist	Psa.14:1.1=NotExist	Psa.14:1.1=NotExist	Psa.14:1.1=Exist	
+Concatenation	Psa.14:1	Psa.14:1	Psa.13:1	Psa.13:1	Psa.14:1.0-1		
+OneToOne	Psa.14:2-7	Psa.14:2-7	Psa.13:2-7	Psa.13:2-7	Psa.14:2-7		
 
-$Psa.15:1-5	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.15:5=Last	Psa.15:5=Last	Psa.15:11=Last	Psa.15:11=Last			
-OneToOne	Psa.15:1-5	Psa.15:1-5	Psa.14:1-5	Psa.14:1-5			
+$Psa.15:1-5	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.15:5=Last	Psa.15:5=Last	Psa.15:11=Last	Psa.15:11=Last	Psa.15:5=Last		
+TEST: And if... 	Psa.15:1.1=NotExist	Psa.15:1.1=NotExist	Psa.15:1.1=NotExist	Psa.15:1.1=NotExist	Psa.15:1.1=Exist	
+Concatenation	Psa.15:1	Psa.15:1	Psa.14:1	Psa.14:1	Psa.15:1.0-1			
+OneToOne	Psa.15:2-5	Psa.15:2-5	Psa.14:2-5	Psa.14:2-5	Psa.15:2-5			
 
-$Psa.16:1-11	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.16:11=Last	Psa.16:11=Last	Psa.16:15=Last	Psa.16:15=Last			
-OneToOne	Psa.16:1-11	Psa.16:1-11	Psa.15:1-11	Psa.15:1-11			
+$Psa.16:1-11	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.16:11=Last	Psa.16:11=Last	Psa.16:15=Last	Psa.16:15=Last	Psa.16:11=Last		
+TEST: And if... 	Psa.16:1.1=NotExist	Psa.16:1.1=NotExist	Psa.16:1.1=NotExist	Psa.16:1.1=NotExist	Psa.16:1.1=Exist	
+Concatenation	Psa.16:1	Psa.16:1	Psa.15:1	Psa.15:1	Psa.16:1.0-1			
+OneToOne	Psa.16:2-11	Psa.16:2-11	Psa.15:2-11	Psa.15:2-11	Psa.16:2-11			
 
-$Psa.17:1-15	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.17:15=Last	Psa.17:15=Last	Psa.17:51=Last	Psa.17:51=Last			
-OneToOne	Psa.17:1-15	Psa.17:1-15	Psa.16:1-15	Psa.16:1-15			
+$Psa.17:1-15	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.17:15=Last	Psa.17:15=Last	Psa.17:51=Last	Psa.17:51=Last	Psa.17:15=Last		
+TEST: And if... 	Psa.17:1.1=NotExist	Psa.17:1.1=NotExist	Psa.17:1.1=NotExist	Psa.17:1.1=NotExist	Psa.17:1.1=Exist	
+Concatenation	Psa.17:1	Psa.17:1	Psa.16:1	Psa.16:1	Psa.17:1.0-1			
+OneToOne	Psa.17:2-15	Psa.17:2-15	Psa.16:2-15	Psa.16:2-15	Psa.17:2-15			
 
 $Psa.18:1-18:50	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.18:50=Last	Psa.18:51=Last	Psa.18:15=Last	Psa.18:15=Last	Psa.18:50=Last		
+TEST: And if... 	Psa.18:1.1=NotExist	Psa.18:1.1=NotExist	Psa.18:1.1=NotExist	Psa.18:1.1=NotExist	Psa.18:1.1=Exist	
 Concatenation	Psa.18:1	Psa.18:1-2	Psa.17:1-2	Psa.17:1-2	Psa.18:1.0-1		
 OneToOne	Psa.18:2-50	Psa.18:3-51	Psa.17:3-51	Psa.17:3-51	Psa.18:2-50		
 
 $Psa.19:1-19:14	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.19:14=Last	Psa.19:15=Last	Psa.19:10=Last	Psa.19:10=Last	Psa.19:14=Last		
+TEST: And if... 	Psa.19:1.1=NotExist	Psa.19:1.1=NotExist	Psa.19:1.1=NotExist	Psa.19:1.1=NotExist	Psa.19:1.1=Exist	
 Concatenation	Psa.19:1	Psa.19:1-2	Psa.18:1-2	Psa.18:1-2	Psa.19:1.0-1		
 OneToOne	Psa.19:2-14	Psa.19:3-15	Psa.18:3-15	Psa.18:3-15	Psa.19:2-14		
 
 $Psa.20:1-20:9	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.20:9=Last	Psa.20:10=Last	Psa.20:14=Last	Psa.20:14=Last	Psa.20:9=Last		
+TEST: And if... 	Psa.20:1.1=NotExist	Psa.20:1.1=NotExist	Psa.20:1.1=NotExist	Psa.20:1.1=NotExist	Psa.20:1.1=Exist	
 Concatenation	Psa.20:1	Psa.20:1-2	Psa.19:1-2	Psa.19:1-2	Psa.20:1.0-1		
 OneToOne	Psa.20:2-9	Psa.20:3-10	Psa.19:3-10	Psa.19:3-10	Psa.20:2-9		
 
 $Psa.21:1-21:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.21:13=Last	Psa.21:14=Last	Psa.21:32=Last	Psa.21:32=Last	Psa.21:13=Last		
+TEST: And if... 	Psa.21:1.1=NotExist	Psa.21:1.1=NotExist	Psa.21:1.1=NotExist	Psa.21:1.1=NotExist	Psa.21:1.1=Exist	
 Concatenation	Psa.21:1	Psa.21:1-2	Psa.20:1-2	Psa.20:1-2	Psa.21:1.0-1		
 OneToOne	Psa.21:2-13	Psa.21:3-14	Psa.20:3-14	Psa.20:3-14	Psa.21:2-13		
 
 $Psa.22:1-22:31	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.22:31=Last	Psa.22:32=Last	Psa.22:6=Last	Psa.22:6=Last	Psa.22:31=Last		
+TEST: And if... 	Psa.22:1.1=NotExist	Psa.22:1.1=NotExist	Psa.22:1.1=NotExist	Psa.22:1.1=NotExist	Psa.22:1.1=Exist	
 Concatenation	Psa.22:1	Psa.22:1-2	Psa.21:1-2	Psa.21:1-2	Psa.22:1.0-1		
 OneToOne	Psa.22:2-31	Psa.22:3-32	Psa.21:3-32	Psa.21:3-32	Psa.22:2-31		
 
-$Psa.23:1-6	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.23:6=Last	Psa.23:6=Last	Psa.23:10=Last	Psa.23:10=Last			
-OneToOne	Psa.23:1-6	Psa.23:1-6	Psa.22:1-6	Psa.22:1-6			
+$Psa.23:1-6	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.23:6=Last	Psa.23:6=Last	Psa.23:10=Last	Psa.23:10=Last	Psa.23:6=Last		
+TEST: And if... 	Psa.23:1.1=NotExist	Psa.23:1.1=NotExist	Psa.23:1.1=NotExist	Psa.23:1.1=NotExist	Psa.23:1.1=Exist	
+Concatenation	Psa.23:1	Psa.23:1	Psa.22:1	Psa.22:1	Psa.23:1.0-1			
+OneToOne	Psa.23:2-6	Psa.23:2-6	Psa.22:2-6	Psa.22:2-6	Psa.23:2-6			
 
-$Psa.24:1-10	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.24:10=Last	Psa.24:10=Last	Psa.24:22=Last	Psa.24:22=Last			
-OneToOne	Psa.24:1-10	Psa.24:1-10	Psa.23:1-10	Psa.23:1-10			
+$Psa.24:1-10	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.24:10=Last	Psa.24:10=Last	Psa.24:22=Last	Psa.24:22=Last	Psa.24:10=Last		
+TEST: And if... 	Psa.24:1.1=NotExist	Psa.24:1.1=NotExist	Psa.24:1.1=NotExist	Psa.24:1.1=NotExist	Psa.24:1.1=Exist	
+Concatenation	Psa.24:1	Psa.24:1	Psa.23:1	Psa.23:1	Psa.24:1.0-1			
+OneToOne	Psa.24:2-10	Psa.24:2-10	Psa.23:2-10	Psa.23:2-10	Psa.24:2-10			
 
-$Psa.25:1-22	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.25:22=Last	Psa.25:22=Last	Psa.25:12=Last	Psa.25:12=Last			
-OneToOne	Psa.25:1-22	Psa.25:1-22	Psa.24:1-22	Psa.24:1-22			
+$Psa.25:1-22	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.25:22=Last	Psa.25:22=Last	Psa.25:12=Last	Psa.25:12=Last	Psa.25:22=Last		
+TEST: And if... 	Psa.25:1.1=NotExist	Psa.25:1.1=NotExist	Psa.25:1.1=NotExist	Psa.25:1.1=NotExist	Psa.25:1.1=Exist	
+Concatenation	Psa.25:1	Psa.25:1	Psa.24:1	Psa.24:1	Psa.25:1.0-1			
+OneToOne	Psa.25:2-22	Psa.25:2-22	Psa.24:2-22	Psa.24:2-22	Psa.25:2-22			
 
-$Psa.26:1-12	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.26:12=Last	Psa.26:12=Last	Psa.26:14=Last	Psa.26:14=Last			
-OneToOne	Psa.26:1-12	Psa.26:1-12	Psa.25:1-12	Psa.25:1-12			
+$Psa.26:1-12	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.26:12=Last	Psa.26:12=Last	Psa.26:14=Last	Psa.26:14=Last	Psa.26:12=Last		
+TEST: And if... 	Psa.26:1.1=NotExist	Psa.26:1.1=NotExist	Psa.26:1.1=NotExist	Psa.26:1.1=NotExist	Psa.26:1.1=Exist	
+Concatenation	Psa.26:1	Psa.26:1	Psa.25:1	Psa.25:1	Psa.26:1.0-1			
+OneToOne	Psa.26:2-12	Psa.26:2-12	Psa.25:2-12	Psa.25:2-12	Psa.26:2-12			
 
-$Psa.27:1-14	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.27:14=Last	Psa.27:14=Last	Psa.27:9=Last	Psa.27:9=Last			
-OneToOne	Psa.27:1-14	Psa.27:1-14	Psa.26:1-14	Psa.26:1-14			
+$Psa.27:1-14	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.27:14=Last	Psa.27:14=Last	Psa.27:9=Last	Psa.27:9=Last	Psa.27:14=Last		
+TEST: And if... 	Psa.27:1.1=NotExist	Psa.27:1.1=NotExist	Psa.27:1.1=NotExist	Psa.27:1.1=NotExist	Psa.27:1.1=Exist	
+Concatenation	Psa.27:1	Psa.27:1	Psa.26:1	Psa.26:1	Psa.27:1.0-1			
+OneToOne	Psa.27:2-14	Psa.27:2-14	Psa.26:2-14	Psa.26:2-14	Psa.27:2-14			
 
-$Psa.28:1-9	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.28:9=Last	Psa.28:9=Last	Psa.28:11=Last	Psa.28:11=Last			
-OneToOne	Psa.28:1-9	Psa.28:1-9	Psa.27:1-9	Psa.27:1-9			
+$Psa.28:1-9	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.28:9=Last	Psa.28:9=Last	Psa.28:11=Last	Psa.28:11=Last	Psa.28:9=Last		
+TEST: And if... 	Psa.28:1.1=NotExist	Psa.28:1.1=NotExist	Psa.28:1.1=NotExist	Psa.28:1.1=NotExist	Psa.28:1.1=Exist	
+Concatenation	Psa.28:1	Psa.28:1	Psa.27:1	Psa.27:1	Psa.28:1.0-1			
+OneToOne	Psa.28:2-9	Psa.28:2-9	Psa.27:2-9	Psa.27:2-9	Psa.28:2-9			
 
-$Psa.29:1-11	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.29:11=Last	Psa.29:11=Last	Psa.29:13=Last	Psa.29:13=Last			
-OneToOne	Psa.29:1-11	Psa.29:1-11	Psa.28:1-11	Psa.28:1-11			
+$Psa.29:1-11	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.29:11=Last	Psa.29:11=Last	Psa.29:13=Last	Psa.29:13=Last	Psa.29:11=Last		
+TEST: And if... 	Psa.29:1.1=NotExist	Psa.29:1.1=NotExist	Psa.29:1.1=NotExist	Psa.29:1.1=NotExist	Psa.29:1.1=Exist	
+Concatenation	Psa.29:1	Psa.29:1	Psa.28:1	Psa.28:1	Psa.29:1.0-1			
+OneToOne	Psa.29:2-11	Psa.29:2-11	Psa.28:2-11	Psa.28:2-11	Psa.29:2-11			
 
 $Psa.30:1-30:12	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.30:12=Last	Psa.30:13=Last	Psa.30:25=Last	Psa.30:25=Last	Psa.30:12=Last		
+TEST: And if... 	Psa.30:1.1=NotExist	Psa.30:1.1=NotExist	Psa.30:1.1=NotExist	Psa.30:1.1=NotExist	Psa.30:1.1=Exist	
 Concatenation	Psa.30:1	Psa.30:1-2	Psa.29:1-2	Psa.29:1-2	Psa.30:1.0-1		
 OneToOne	Psa.30:2-12	Psa.30:3-13	Psa.29:3-13	Psa.29:3-13	Psa.30:2-12		
 
 $Psa.31:1-31:24	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.31:24=Last	Psa.31:25=Last	Psa.31:11=Last	Psa.31:11=Last	Psa.31:24=Last		
+TEST: And if... 	Psa.31:1.1=NotExist	Psa.31:1.1=NotExist	Psa.31:1.1=NotExist	Psa.31:1.1=NotExist	Psa.31:1.1=Exist	
 Concatenation	Psa.31:1	Psa.31:1-2	Psa.30:1-2	Psa.30:1-2	Psa.31:1.0-1		
 OneToOne	Psa.31:2-24	Psa.31:3-25	Psa.30:3-25	Psa.30:3-25	Psa.31:2-24		
 
-$Psa.32:1-11	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.32:11=Last	Psa.32:11=Last	Psa.32:22=Last	Psa.32:22=Last			
-OneToOne	Psa.32:1-11	Psa.32:1-11	Psa.31:1-11	Psa.31:1-11			
+$Psa.32:1-11	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.32:11=Last	Psa.32:11=Last	Psa.32:22=Last	Psa.32:22=Last	32		
+TEST: And if... 	Psa.32:1.1=NotExist	Psa.32:1.1=NotExist	Psa.32:1.1=NotExist	Psa.32:1.1=NotExist	Psa.32:1.1=Exist	
+Concatenation	Psa.32:1	Psa.32:1	Psa.31:1	Psa.31:1	Psa.32:1.0-1			
+OneToOne	Psa.32:2-11	Psa.32:2-11	Psa.31:2-11	Psa.31:2-11	Psa.32:2-11			
 
-$Psa.33:1-22	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.33:22=Last	Psa.33:22=Last	Psa.33:23=Last	Psa.33:23=Last			
+$Psa.33:1-22	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.33:22=Last	Psa.33:22=Last	Psa.33:23=Last	Psa.33:23=Last	Psa.33:22=Last		
 OneToOne	Psa.33:1-22	Psa.33:1-22	Psa.32:1-22	Psa.32:1-22			
 
 $Psa.34:1-34:22	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.34:22=Last	Psa.34:23=Last	Psa.34:28=Last	Psa.34:28=Last	Psa.34:22=Last		
+TEST: And if... 	Psa.34:1.1=NotExist	Psa.34:1.1=NotExist	Psa.34:1.1=NotExist	Psa.34:1.1=NotExist	Psa.34:1.1=Exist	
 Concatenation	Psa.34:1	Psa.34:1-2	Psa.33:1-2	Psa.33:1-2	Psa.34:1.0-1		
 OneToOne	Psa.34:2-22	Psa.34:3-23	Psa.33:3-23	Psa.33:3-23	Psa.34:2-22		
 
-$Psa.35:1-28	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.35:28=Last	Psa.35:28=Last	Psa.35:13=Last	Psa.35:13=Last			
-OneToOne	Psa.35:1-28	Psa.35:1-28	Psa.34:1-28	Psa.34:1-28			
+$Psa.35:1-28	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.35:28=Last	Psa.35:28=Last	Psa.35:13=Last	Psa.35:13=Last	Psa.35:28=Last		
+TEST: And if... 	Psa.35:1.1=NotExist	Psa.35:1.1=NotExist	Psa.35:1.1=NotExist	Psa.35:1.1=NotExist	Psa.35:1.1=Exist	
+Concatenation	Psa.35:1	Psa.35:1	Psa.34:1	Psa.34:1	Psa.35:1.0-1			
+OneToOne	Psa.35:2-28	Psa.35:2-28	Psa.34:2-28	Psa.34:2-28	Psa.35:2-28			
 
 $Psa.36:1-36:12	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.36:12=Last	Psa.36:13=Last	Psa.36:40=Last	Psa.36:40=Last	Psa.36:12=Last		
+TEST: And if... 	Psa.36:1.1=NotExist	Psa.36:1.1=NotExist	Psa.36:1.1=NotExist	Psa.36:1.1=NotExist	Psa.36:1.1=Exist	
 Concatenation	Psa.36:1	Psa.36:1-2	Psa.35:1-2	Psa.35:1-2	Psa.36:1.0-1		
 OneToOne	Psa.36:2-12	Psa.36:3-13	Psa.35:3-13	Psa.35:3-13	Psa.36:2-12		
 
-$Psa.37:1-40	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.37:40=Last	Psa.37:40=Last	Psa.37:23=Last	Psa.37:23=Last			
-OneToOne	Psa.37:1-40	Psa.37:1-40	Psa.36:1-40	Psa.36:1-40			
+$Psa.37:1-40	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.37:40=Last	Psa.37:40=Last	Psa.37:23=Last	Psa.37:23=Last	Psa.37:40=Last		
+TEST: And if... 	Psa.37:1.1=NotExist	Psa.37:1.1=NotExist	Psa.37:1.1=NotExist	Psa.37:1.1=NotExist	Psa.37:1.1=Exist	
+Concatenation	Psa.37:1	Psa.37:1	Psa.36:1	Psa.36:1	Psa.37:1.0-1			
+OneToOne	Psa.37:2-40	Psa.37:2-40	Psa.36:2-40	Psa.36:2-40	Psa.37:2-40			
 
 $Psa.38:1-38:22	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.38:22=Last	Psa.38:23=Last	Psa.38:14=Last	Psa.38:14=Last	Psa.38:22=Last		
+TEST: And if... 	Psa.38:1.1=NotExist	Psa.38:1.1=NotExist	Psa.38:1.1=NotExist	Psa.38:1.1=NotExist	Psa.38:1.1=Exist	
 Concatenation	Psa.38:1	Psa.38:1-2	Psa.37:1-2	Psa.37:1-2	Psa.38:1.0-1		
 OneToOne	Psa.38:2-22	Psa.38:3-23	Psa.37:3-23	Psa.37:3-23	Psa.38:2-22		
 
 $Psa.39:1-39:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.39:13=Last	Psa.39:14=Last	Psa.39:18=Last	Psa.39:18=Last	Psa.39:13=Last		
+TEST: And if... 	Psa.39:1.1=NotExist	Psa.39:1.1=NotExist	Psa.39:1.1=NotExist	Psa.39:1.1=NotExist	Psa.39:1.1=Exist	
 Concatenation	Psa.39:1	Psa.39:1-2	Psa.38:1-2	Psa.38:1-2	Psa.39:1.0-1		
 OneToOne	Psa.39:2-13	Psa.39:3-14	Psa.38:3-14	Psa.38:3-14	Psa.39:2-13		
 
 $Psa.40:1-40:17	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.40:17=Last	Psa.40:18=Last	Psa.40:14=Last	Psa.40:14=Last	Psa.40:17=Last		
+TEST: And if... 	Psa.40:1.1=NotExist	Psa.40:1.1=NotExist	Psa.40:1.1=NotExist	Psa.40:1.1=NotExist	Psa.40:1.1=Exist	
 Concatenation	Psa.40:1	Psa.40:1-2	Psa.39:1-2	Psa.39:1-2	Psa.40:1.0-1		
 OneToOne	Psa.40:2-17	Psa.40:3-18	Psa.39:3-18	Psa.39:3-18	Psa.40:2-17		
 
 $Psa.41:1-41:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.41:13=Last	Psa.41:14=Last	Psa.41:12=Last	Psa.41:12=Last	Psa.41:13=Last		
+TEST: And if... 	Psa.41:1.1=NotExist	Psa.41:1.1=NotExist	Psa.41:1.1=NotExist	Psa.41:1.1=NotExist	Psa.41:1.1=Exist	
 Concatenation	Psa.41:1	Psa.41:1-2	Psa.40:1-2	Psa.40:1-2	Psa.41:1.0-1		
 OneToOne	Psa.41:2-13	Psa.41:3-14	Psa.40:3-14	Psa.40:3-14	Psa.41:2-13		
 
 $Psa.42:1-42:11	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.42:11=Last	Psa.42:12=Last	Psa.42:6=Last	Psa.42:5=Last	Psa.42:11=Last		
+TEST: And if... 	Psa.42:1.1=NotExist	Psa.42:1.1=NotExist	Psa.42:1.1=NotExist	Psa.42:1.1=NotExist	Psa.42:1.1=Exist	
 Concatenation	Psa.42:1	Psa.42:1-2	Psa.41:1-2	Psa.41:1-2	Psa.42:1.0-1		
 OneToOne	Psa.42:2-11	Psa.42:3-12	Psa.41:3-12	Psa.41:3-12	Psa.42:2-11		
 
@@ -850,6 +899,7 @@ Concatenation	Psa.43:5	Psa.43:5	Psa.42:5-6	Psa.42:5
 
 $Psa.44:1-44:26	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.44:26=Last	Psa.44:27=Last	Psa.43:26=Last	Psa.43:27=Last	Psa.44:26=Last		
+TEST: And if... 	Psa.44:1.1=NotExist	Psa.44:1.1=NotExist	Psa.44:1.1=NotExist	Psa.44:1.1=NotExist	Psa.44:1.1=Exist	
 Concatenation	Psa.44:1	Psa.44:1-2	Psa.43:1-2	Psa.43:1-2	Psa.44:1.0-1		
 OneToOne	Psa.44:2-20	Psa.44:3-21	Psa.43:3-21	Psa.43:3-21	Psa.44:2-20		
 DuplicateTarget	Psa.44:21-22	Psa.44:22-23	Psa.43:22	Psa.43:22-23	Psa.44:21-22		
@@ -857,32 +907,39 @@ OneToOne	Psa.44:23-26	Psa.44:24-27	Psa.43:23-26	Psa.43:24-27	Psa.44:23-26
 
 $Psa.45:1-45:17	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.45:17=Last	Psa.45:18=Last	Psa.45:12=Last	Psa.45:12=Last	Psa.45:17=Last		
+TEST: And if... 	Psa.45:1.1=NotExist	Psa.45:1.1=NotExist	Psa.45:1.1=NotExist	Psa.45:1.1=NotExist	Psa.45:1.1=Exist	
 Concatenation	Psa.45:1	Psa.45:1-2	Psa.44:1-2	Psa.44:1-2	Psa.45:1.0-1		
 OneToOne	Psa.45:2-17	Psa.45:3-18	Psa.44:3-18	Psa.44:3-18	Psa.45:2-17		
 
 $Psa.46:1-46:11	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.46:11=Last	Psa.46:12=Last	Psa.46:10=Last	Psa.46:10=Last	Psa.46:11=Last		
+TEST: And if... 	Psa.46:1.1=NotExist	Psa.46:1.1=NotExist	Psa.46:1.1=NotExist	Psa.46:1.1=NotExist	Psa.46:1.1=Exist	
 Concatenation	Psa.46:1	Psa.46:1-2	Psa.45:1-2	Psa.45:1-2	Psa.46:1.0-1		
 OneToOne	Psa.46:2-11	Psa.46:3-12	Psa.45:3-12	Psa.45:3-12	Psa.46:2-11		
 
 $Psa.47:1-47:9	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.47:9=Last	Psa.47:10=Last	Psa.47:15=Last	Psa.47:15=Last	Psa.47:9=Last		
+TEST: And if... 	Psa.47:1.1=NotExist	Psa.47:1.1=NotExist	Psa.47:1.1=NotExist	Psa.47:1.1=NotExist	Psa.47:1.1=Exist	
 Concatenation	Psa.47:1	Psa.47:1-2	Psa.46:1-2	Psa.46:1-2	Psa.47:1.0-1		
 OneToOne	Psa.47:2-9	Psa.47:3-10	Psa.46:3-10	Psa.46:3-10	Psa.47:2-9		
 
 $Psa.48:1-48:14	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.48:14=Last	Psa.48:15=Last	Psa.48:21=Last	Psa.48:21=Last	Psa.48:14=Last		
+TEST: And if... 	Psa.48:1.1=NotExist	Psa.48:1.1=NotExist	Psa.48:1.1=NotExist	Psa.48:1.1=NotExist	Psa.48:1.1=Exist	
 Concatenation	Psa.48:1	Psa.48:1-2	Psa.47:1-2	Psa.47:1-2	Psa.48:1.0-1		
 OneToOne	Psa.48:2-14	Psa.48:3-15	Psa.47:3-15	Psa.47:3-15	Psa.48:2-14		
 
 $Psa.49:1-49:20	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.49:20=Last	Psa.49:21=Last	Psa.49:23=Last	Psa.49:23=Last	Psa.49:20=Last		
+TEST: And if... 	Psa.49:1.1=NotExist	Psa.49:1.1=NotExist	Psa.49:1.1=NotExist	Psa.49:1.1=NotExist	Psa.49:1.1=Exist	
 Concatenation	Psa.49:1	Psa.49:1-2	Psa.48:1-2	Psa.48:1-2	Psa.49:1.0-1		
 OneToOne	Psa.49:2-20	Psa.49:3-21	Psa.48:3-21	Psa.48:3-21	Psa.49:2-20		
 
-$Psa.50:1-23	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.50:23=Last	Psa.50:23=Last	Psa.50:21=Last	Psa.50:21=Last			
-OneToOne	Psa.50:1-23	Psa.50:1-23	Psa.49:1-23	Psa.49:1-23			
+$Psa.50:1-23	English	Hebrew	Latin	Greek	EngTitleSeparate	
+TEST: If...	Psa.50:23=Last	Psa.50:23=Last	Psa.50:21=Last	Psa.50:21=Last	Psa.50:23=Last		
+TEST: And if... 	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=Exist	
+Concatenation	Psa.50:1	Psa.50:1	Psa.49:1	Psa.49:1	Psa.50:1.0-1		
+OneToOne	Psa.50:2-23	Psa.50:2-23	Psa.49:2-23	Psa.49:2-23	Psa.50:2-23		
 
 $Psa.51:1-51:19	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.51:19=Last	Psa.51:21=Last	Psa.51:11=Last	Psa.51:11=Last	Psa.51:19=Last		
@@ -898,6 +955,7 @@ OneToOne	Psa.52:2-9	Psa.52:4-11	Psa.51:4-11	Psa.51:4-11	Psa.52:2-9
 
 $Psa.53:1-53:6	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.53:6=Last	Psa.53:7=Last	Psa.53:9=Last	Psa.53:9=Last	Psa.53:6=Last		
+TEST: And if... 	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=NotExist	Psa.5:1.1=Exist	
 Concatenation	Psa.53:1	Psa.53:1-2	Psa.52:1-2	Psa.52:1-2	Psa.53:1.0-1		
 OneToOne	Psa.53:2-6	Psa.53:3-7	Psa.52:3-7	Psa.52:3-7	Psa.53:2-6		
 
@@ -909,11 +967,13 @@ OneToOne	Psa.54:2-7	Psa.54:4-9	Psa.53:4-9	Psa.53:4-9	Psa.54:2-7
 
 $Psa.55:1-55:23	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.55:23=Last	Psa.55:24=Last	Psa.55:13=Last	Psa.55:14=Last	Psa.55:23=Last		
+TEST: And if... 	Psa.55:1.1=NotExist	Psa.55:1.1=NotExist	Psa.55:1.1=NotExist	Psa.55:1.1=NotExist	Psa.55:1.1=Exist	
 Concatenation	Psa.55:1	Psa.55:1-2	Psa.54:1-2	Psa.54:1-2	Psa.55:1.0-1		
 OneToOne	Psa.55:2-23	Psa.55:3-24	Psa.54:3-24	Psa.54:3-24	Psa.55:2-23		
 
 $Psa.56:1-56:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.56:13=Last	Psa.56:14=Last	Psa.55:13=Last	Psa.55:14=Last	Psa.56:13=Last		
+TEST: And if... 	Psa.56:1.1=NotExist	Psa.56:1.1=NotExist	Psa.56:1.1=NotExist	Psa.56:1.1=NotExist	Psa.56:1.1=Exist	
 Concatenation	Psa.56:1	Psa.56:1-2	Psa.55:1-2	Psa.55:1-2	Psa.56:1.0-1		
 OneToOne	Psa.56:2-9	Psa.56:3-10	Psa.55:3-10	Psa.55:3-10	Psa.56:2-9		
 DuplicateTarget	Psa.56:10-11	Psa.56:11-12	Psa.55:11	Psa.55:11-12	Psa.56:10-11		
@@ -923,16 +983,19 @@ OneToOne	Psa.56:13	Psa.56:14	Psa.55:13	Psa.55:14	Psa.56:13
 $Psa.57:1-57:11	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.57:11=Last	Psa.57:12=Last	Psa.56:12=Last	Psa.56:12=Last	Psa.57:11=Last		
 TEST: And if... 	Psa.58:11=Last	Psa.58:12=Last	Psa.57:12=Last	Psa.57:12=Last	Psa.58:11=Last		
+TEST: And if... 	Psa.57:1.1=NotExist	Psa.57:1.1=NotExist	Psa.57:1.1=NotExist	Psa.57:1.1=NotExist	Psa.57:1.1=Exist	
 Concatenation	Psa.57:1	Psa.57:1-2	Psa.56:1-2	Psa.56:1-2	Psa.57:1.0-1		
 OneToOne	Psa.57:2-11	Psa.57:3-12	Psa.56:3-12	Psa.56:3-12	Psa.57:2-11		
 
 $Psa.58:1-58:11	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.58:11=Last	Psa.58:12=Last	Psa.58:18=Last	Psa.58:18=Last	Psa.58:11=Last		
+TEST: And if... 	Psa.58:1.1=NotExist	Psa.58:1.1=NotExist	Psa.58:1.1=NotExist	Psa.58:1.1=NotExist	Psa.58:1.1=Exist	
 Concatenation	Psa.58:1	Psa.58:1-2	Psa.57:1-2	Psa.57:1-2	Psa.58:1.0-1		
 OneToOne	Psa.58:2-11	Psa.58:3-12	Psa.57:3-12	Psa.57:3-12	Psa.58:2-11		
 
 $Psa.59:1-59:17	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.59:17=Last	Psa.59:18=Last	Psa.59:14=Last	Psa.59:14=Last	Psa.59:17=Last		
+TEST: And if... 	Psa.59:1.1=NotExist	Psa.59:1.1=NotExist	Psa.59:1.1=NotExist	Psa.59:1.1=NotExist	Psa.59:1.1=Exist	
 Concatenation	Psa.59:1	Psa.59:1-2	Psa.58:1-2	Psa.58:1-2	Psa.59:1.0-1		
 OneToOne	Psa.59:2-17	Psa.59:3-18	Psa.58:3-18	Psa.58:3-18	Psa.59:2-17		
 
@@ -944,50 +1007,61 @@ OneToOne	Psa.60:2-12	Psa.60:4-14	Psa.59:4-14	Psa.59:4-14	Psa.60:2-12
 
 $Psa.61:1-61:8	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.61:8=Last	Psa.61:9=Last	Psa.61:13=Last	Psa.61:13=Last	Psa.61:8=Last		
+TEST: And if... 	Psa.61:1.1=NotExist	Psa.61:1.1=NotExist	Psa.61:1.1=NotExist	Psa.61:1.1=NotExist	Psa.61:1.1=Exist	
 Concatenation	Psa.61:1	Psa.61:1-2	Psa.60:1-2	Psa.60:1-2	Psa.61:1.0-1		
 OneToOne	Psa.61:2-8	Psa.61:3-9	Psa.60:3-9	Psa.60:3-9	Psa.61:2-8		
 
 $Psa.62:1-62:12	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.64:10=Last	Psa.64:11=Last	Psa.64:14=Last	Psa.64:14=Last	Psa.64:10=Last		
+TEST: And if... 	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=Exist	
 Concatenation	Psa.62:1	Psa.62:1-2	Psa.61:1-2	Psa.61:1-2	Psa.62:1.0-1		
 OneToOne	Psa.62:2-12	Psa.62:3-13	Psa.61:3-13	Psa.61:3-13	Psa.62:2-12		
 
 $Psa.63:1-63:11	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.64:10=Last	Psa.64:11=Last	Psa.64:14=Last	Psa.64:14=Last	Psa.64:10=Last		
+TEST: And if... 	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=Exist	
 Concatenation	Psa.63:1	Psa.63:1-2	Psa.62:1-2	Psa.62:1-2	Psa.63:1.0-1		
 OneToOne	Psa.63:2-11	Psa.63:3-12	Psa.62:3-12	Psa.62:3-12	Psa.63:2-11		
 
 $Psa.64:1-64:10	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.64:10=Last	Psa.64:11=Last	Psa.64:14=Last	Psa.64:14=Last	Psa.64:10=Last		
+TEST: And if... 	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=NotExist	Psa.64:1.1=Exist	
 Concatenation	Psa.64:1	Psa.64:1-2	Psa.63:1-2	Psa.63:1-2	Psa.64:1.0-1		
 OneToOne	Psa.64:2-10	Psa.64:3-11	Psa.63:3-11	Psa.63:3-11	Psa.64:2-10		
 
 $Psa.65:1-65:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.65:13=Last	Psa.65:14=Last	Psa.65:20=Last	Psa.65:20=Last	Psa.65:13=Last		
+TEST: And if... 	Psa.65:1.1=NotExist	Psa.65:1.1=NotExist	Psa.65:1.1=NotExist	Psa.65:1.1=NotExist	Psa.65:1.1=Exist	
 Concatenation	Psa.65:1	Psa.65:1-2	Psa.64:1-2	Psa.64:1-2	Psa.65:1.0-1		
 OneToOne	Psa.65:2-13	Psa.65:3-14	Psa.64:3-14	Psa.64:3-14	Psa.65:2-13		
 
-$Psa.66:1-20	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.66:20=Last	Psa.66:20=Last	Psa.66:8=Last	Psa.66:8=Last			
-OneToOne	Psa.66:1-20	Psa.66:1-20	Psa.65:1-20	Psa.65:1-20			
+$Psa.66:1-20	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.66:20=Last	Psa.66:20=Last	Psa.66:8=Last	Psa.66:8=Last	Psa.66:20=Last		
+TEST: And if... 	Psa.66:1.1=NotExist	Psa.66:1.1=NotExist	Psa.66:1.1=NotExist	Psa.66:1.1=NotExist	Psa.66:1.1=Exist	
+Concatenation	Psa.66:1	Psa.66:1	Psa.65:1	Psa.65:1	Psa.66:1.0-1			
+OneToOne	Psa.66:2-20	Psa.66:2-20	Psa.65:2-20	Psa.65:2-20	Psa.66:2-20			
 
 $Psa.67:1-67:7	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.67:7=Last	Psa.67:8=Last	Psa.67:36=Last	Psa.67:36=Last	Psa.67:7=Last		
+TEST: And if... 	Psa.67:1.1=NotExist	Psa.67:1.1=NotExist	Psa.67:1.1=NotExist	Psa.67:1.1=NotExist	Psa.67:1.1=Exist	
 Concatenation	Psa.67:1	Psa.67:1-2	Psa.66:1-2	Psa.66:1-2	Psa.67:1.0-1		
 OneToOne	Psa.67:2-7	Psa.67:3-8	Psa.66:3-8	Psa.66:3-8	Psa.67:2-7		
 
 $Psa.68:1-68:35	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.68:35=Last	Psa.68:36=Last	Psa.68:37=Last	Psa.68:37=Last	Psa.68:35=Last		
+TEST: And if... 	Psa.68:1.1=NotExist	Psa.68:1.1=NotExist	Psa.68:1.1=NotExist	Psa.68:1.1=NotExist	Psa.68:1.1=Exist	
 Concatenation	Psa.68:1	Psa.68:1-2	Psa.67:1-2	Psa.67:1-2	Psa.68:1.0-1		
 OneToOne	Psa.68:2-35	Psa.68:3-36	Psa.67:3-36	Psa.67:3-36	Psa.68:2-35		
 
 $Psa.69:1-69:36	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.69:36=Last	Psa.69:37=Last	Psa.69:6=Last	Psa.69:6=Last	Psa.69:36=Last		
+TEST: And if... 	Psa.69:1.1=NotExist	Psa.69:1.1=NotExist	Psa.69:1.1=NotExist	Psa.69:1.1=NotExist	Psa.69:1.1=Exist	
 Concatenation	Psa.69:1	Psa.69:1-2	Psa.68:1-2	Psa.68:1-2	Psa.69:1.0-1		
 OneToOne	Psa.69:2-36	Psa.69:3-37	Psa.68:3-37	Psa.68:3-37	Psa.69:2-36		
 
 $Psa.70:1-70:5	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.70:5=Last	Psa.70:6=Last	Psa.70:24=Last	Psa.70:24=Last	Psa.70:5=Last		
+TEST: And if... 	Psa.70:1.1=NotExist	Psa.70:1.1=NotExist	Psa.70:1.1=NotExist	Psa.70:1.1=NotExist	Psa.70:1.1=Exist	
 Concatenation	Psa.70:1	Psa.70:1-2	Psa.69:1-2	Psa.69:1-2	Psa.70:1.0-1		
 OneToOne	Psa.70:2-5	Psa.70:3-6	Psa.69:3-6	Psa.69:3-6	Psa.70:2-5		
 
@@ -995,91 +1069,119 @@ $Psa.71:1-24	English	Hebrew	Latin	Greek
 TEST: If...	Psa.71:24=Last	Psa.71:24=Last	Psa.71:20=Last	Psa.71:20=Last			
 OneToOne	Psa.71:1-24	Psa.71:1-24	Psa.70:1-24	Psa.70:1-24			
 
-$Psa.72:1-20	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.72:20=Last	Psa.72:20=Last	Psa.72:28=Last	Psa.72:28=Last			
-OneToOne	Psa.72:1-20	Psa.72:1-20	Psa.71:1-20	Psa.71:1-20			
+$Psa.72:1-20	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.72:20=Last	Psa.72:20=Last	Psa.72:28=Last	Psa.72:28=Last	Psa.72:20=Last		
+TEST: And if... 	Psa.72:1.1=NotExist	Psa.72:1.1=NotExist	Psa.72:1.1=NotExist	Psa.72:1.1=NotExist	Psa.72:1.1=Exist	
+Concatenation	Psa.72:1	Psa.72:1	Psa.71:1	Psa.71:1	Psa.72:1.0-1			
+OneToOne	Psa.72:2-20	Psa.72:2-20	Psa.71:2-20	Psa.71:2-20	Psa.72:2-20			
 
-$Psa.73:1-28	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.73:28=Last	Psa.73:28=Last	Psa.73:23=Last	Psa.73:23=Last			
-OneToOne	Psa.73:1-28	Psa.73:1-28	Psa.72:1-28	Psa.72:1-28			
+$Psa.73:1-28	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.73:28=Last	Psa.73:28=Last	Psa.73:23=Last	Psa.73:23=Last	Psa.73:28=Last		
+TEST: And if... 	Psa.73:1.1=NotExist	Psa.73:1.1=NotExist	Psa.73:1.1=NotExist	Psa.73:1.1=NotExist	Psa.73:1.1=Exist	
+Concatenation	Psa.73:1	Psa.73:1	Psa.72:1	Psa.72:1	Psa.73:1.0-1			
+OneToOne	Psa.73:2-28	Psa.73:2-28	Psa.72:2-28	Psa.72:2-28	Psa.73:2-28			
 
-$Psa.74:1-23	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.74:23=Last	Psa.74:23=Last	Psa.74:11=Last	Psa.74:11=Last			
-OneToOne	Psa.74:1-23	Psa.74:1-23	Psa.73:1-23	Psa.73:1-23			
+$Psa.74:1-23	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.74:23=Last	Psa.74:23=Last	Psa.74:11=Last	Psa.74:11=Last	Psa.74:23=Last		
+TEST: And if... 	Psa.74:1.1=NotExist	Psa.74:1.1=NotExist	Psa.74:1.1=NotExist	Psa.74:1.1=NotExist	Psa.74:1.1=Exist	
+Concatenation	Psa.74:1	Psa.74:1	Psa.73:1	Psa.73:1	Psa.74:1.0-1			
+OneToOne	Psa.74:2-23	Psa.74:2-23	Psa.73:2-23	Psa.73:2-23	Psa.74:2-23			
 
 $Psa.75:1-75:10	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.75:10=Last	Psa.75:11=Last	Psa.75:13=Last	Psa.75:13=Last	Psa.75:10=Last		
+TEST: And if... 	Psa.75:1.1=NotExist	Psa.75:1.1=NotExist	Psa.75:1.1=NotExist	Psa.75:1.1=NotExist	Psa.75:1.1=Exist	
 Concatenation	Psa.75:1	Psa.75:1-2	Psa.74:1-2	Psa.74:1-2	Psa.75:1.0-1		
 OneToOne	Psa.75:2-10	Psa.75:3-11	Psa.74:3-11	Psa.74:3-11	Psa.75:2-10		
 
 $Psa.76:1-76:12	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.76:12=Last	Psa.76:13=Last	Psa.76:21=Last	Psa.76:21=Last	Psa.76:12=Last		
+TEST: And if... 	Psa.76:1.1=NotExist	Psa.76:1.1=NotExist	Psa.76:1.1=NotExist	Psa.76:1.1=NotExist	Psa.76:1.1=Exist	
 Concatenation	Psa.76:1	Psa.76:1-2	Psa.75:1-2	Psa.75:1-2	Psa.76:1.0-1		
 OneToOne	Psa.76:2-12	Psa.76:3-13	Psa.75:3-13	Psa.75:3-13	Psa.76:2-12		
 
 $Psa.77:1-77:20	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.77:20=Last	Psa.77:21=Last	Psa.77:72=Last	Psa.77:72=Last	Psa.77:20=Last		
+TEST: And if... 	Psa.77:1.1=NotExist	Psa.77:1.1=NotExist	Psa.77:1.1=NotExist	Psa.77:1.1=NotExist	Psa.77:1.1=Exist	
 Concatenation	Psa.77:1	Psa.77:1-2	Psa.76:1-2	Psa.76:1-2	Psa.77:1.0-1		
 OneToOne	Psa.77:2-20	Psa.77:3-21	Psa.76:3-21	Psa.76:3-21	Psa.77:2-20		
 
-$Psa.78:1-72	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.78:72=Last	Psa.78:72=Last	Psa.78:13=Last	Psa.78:13=Last			
-OneToOne	Psa.78:1-72	Psa.78:1-72	Psa.77:1-72	Psa.77:1-72			
+$Psa.78:1-72	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.78:72=Last	Psa.78:72=Last	Psa.78:13=Last	Psa.78:13=Last	Psa.78:72=Last		
+TEST: And if... 	Psa.78:1.1=NotExist	Psa.78:1.1=NotExist	Psa.78:1.1=NotExist	Psa.78:1.1=NotExist	Psa.78:1.1=Exist	
+Concatenation	Psa.78:1	Psa.78:1	Psa.77:1	Psa.77:1	Psa.78:1.0-1			
+OneToOne	Psa.78:2-72	Psa.78:2-72	Psa.77:2-72	Psa.77:2-72	Psa.78:2-72			
 
-$Psa.79:1-13	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.79:13=Last	Psa.79:13=Last	Psa.79:20=Last	Psa.79:20=Last			
-OneToOne	Psa.79:1-13	Psa.79:1-13	Psa.78:1-13	Psa.78:1-13			
+$Psa.79:1-13	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.79:13=Last	Psa.79:13=Last	Psa.79:20=Last	Psa.79:20=Last	Psa.79:13=Last		
+TEST: And if... 	Psa.79:1.1=NotExist	Psa.79:1.1=NotExist	Psa.79:1.1=NotExist	Psa.79:1.1=NotExist	Psa.79:1.1=Exist	
+Concatenation	Psa.79:1	Psa.79:1	Psa.78:1	Psa.78:1	Psa.79:1.0-1			
+OneToOne	Psa.79:2-13	Psa.79:2-13	Psa.78:2-13	Psa.78:2-13	Psa.79:2-13			
 
 $Psa.80:1-80:19	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.80:19=Last	Psa.80:20=Last	Psa.80:17=Last	Psa.80:17=Last	Psa.80:19=Last		
+TEST: And if... 	Psa.80:1.1=NotExist	Psa.80:1.1=NotExist	Psa.80:1.1=NotExist	Psa.80:1.1=NotExist	Psa.80:1.1=Exist	
 Concatenation	Psa.80:1	Psa.80:1-2	Psa.79:1-2	Psa.79:1-2	Psa.80:1.0-1		
 OneToOne	Psa.80:2-19	Psa.80:3-20	Psa.79:3-20	Psa.79:3-20	Psa.80:2-19		
 
 $Psa.81:1-81:16	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.81:16=Last	Psa.81:17=Last	Psa.81:8=Last	Psa.81:8=Last	Psa.81:16=Last		
+TEST: And if... 	Psa.81:1.1=NotExist	Psa.81:1.1=NotExist	Psa.81:1.1=NotExist	Psa.81:1.1=NotExist	Psa.81:1.1=Exist	
 Concatenation	Psa.81:1	Psa.81:1-2	Psa.80:1-2	Psa.80:1-2	Psa.81:1.0-1		
 OneToOne	Psa.81:2-16	Psa.81:3-17	Psa.80:3-17	Psa.80:3-17	Psa.81:2-16		
 
-$Psa.82:1-8	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.82:8=Last	Psa.82:8=Last	Psa.82:19=Last	Psa.82:19=Last			
-OneToOne	Psa.82:1-8	Psa.82:1-8	Psa.81:1-8	Psa.81:1-8			
+$Psa.82:1-8	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.82:8=Last	Psa.82:8=Last	Psa.82:19=Last	Psa.82:19=Last	Psa.82:8=Last		
+TEST: And if... 	Psa.82:1.1=NotExist	Psa.82:1.1=NotExist	Psa.82:1.1=NotExist	Psa.82:1.1=NotExist	Psa.82:1.1=Exist	
+Concatenation	Psa.82:1	Psa.82:1	Psa.81:1	Psa.81:1	Psa.82:1.0-1			
+OneToOne	Psa.82:2-8	Psa.82:2-8	Psa.81:2-8	Psa.81:2-8	Psa.82:2-8			
 
 $Psa.83:1-83:18	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.83:18=Last	Psa.83:19=Last	Psa.83:13=Last	Psa.83:13=Last	Psa.83:18=Last		
+TEST: And if... 	Psa.83:1.1=NotExist	Psa.83:1.1=NotExist	Psa.83:1.1=NotExist	Psa.83:1.1=NotExist	Psa.83:1.1=Exist	
 Concatenation	Psa.83:1	Psa.83:1-2	Psa.82:1-2	Psa.82:1-2	Psa.83:1.0-1		
 OneToOne	Psa.83:2-18	Psa.83:3-19	Psa.82:3-19	Psa.82:3-19	Psa.83:2-18		
 
 $Psa.84:1-84:12	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.84:12=Last	Psa.84:13=Last	Psa.84:14=Last	Psa.84:14=Last	Psa.84:12=Last		
+TEST: And if... 	Psa.84:1.1=NotExist	Psa.84:1.1=NotExist	Psa.84:1.1=NotExist	Psa.84:1.1=NotExist	Psa.84:1.1=Exist	
 Concatenation	Psa.84:1	Psa.84:1-2	Psa.83:1-2	Psa.83:1-2	Psa.84:1.0-1		
 OneToOne	Psa.84:2-12	Psa.84:3-13	Psa.83:3-13	Psa.83:3-13	Psa.84:2-12		
 
 $Psa.85:1-85:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.85:13=Last	Psa.85:14=Last	Psa.85:17=Last	Psa.85:17=Last	Psa.85:13=Last		
+TEST: And if... 	Psa.85:1.1=NotExist	Psa.85:1.1=NotExist	Psa.85:1.1=NotExist	Psa.85:1.1=NotExist	Psa.85:1.1=Exist	
 Concatenation	Psa.85:1	Psa.85:1-2	Psa.84:1-2	Psa.84:1-2	Psa.85:1.0-1		
 OneToOne	Psa.85:2-13	Psa.85:3-14	Psa.84:3-14	Psa.84:3-14	Psa.85:2-13		
 
-$Psa.86:1-17	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.86:17=Last	Psa.86:17=Last	Psa.86:7=Last	Psa.86:7=Last			
-OneToOne	Psa.86:1-17	Psa.86:1-17	Psa.85:1-17	Psa.85:1-17			
+$Psa.86:1-17	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.86:17=Last	Psa.86:17=Last	Psa.86:7=Last	Psa.86:7=Last	Psa.86:17=Last		
+TEST: And if... 	Psa.86:1.1=NotExist	Psa.86:1.1=NotExist	Psa.86:1.1=NotExist	Psa.86:1.1=NotExist	Psa.86:1.1=Exist	
+Concatenation	Psa.86:1	Psa.86:1	Psa.85:1	Psa.85:1	Psa.86:1.0-1			
+OneToOne	Psa.86:2-17	Psa.86:2-17	Psa.85:2-17	Psa.85:2-17	Psa.86:2-17			
 
-$Psa.87:1-7	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.87:7=Last	Psa.87:7=Last	Psa.87:19=Last	Psa.87:19=Last			
-OneToOne	Psa.87:1-7	Psa.87:1-7	Psa.86:1-7	Psa.86:1-7			
+$Psa.87:1-7	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.87:7=Last	Psa.87:7=Last	Psa.87:19=Last	Psa.87:19=Last	Psa.87:7=Last		
+TEST: And if... 	Psa.87:1.1=NotExist	Psa.87:1.1=NotExist	Psa.87:1.1=NotExist	Psa.87:1.1=NotExist	Psa.87:1.1=Exist	
+Concatenation	Psa.87:1	Psa.87:1	Psa.86:1	Psa.86:1	Psa.87:1.0-1			
+OneToOne	Psa.87:2-7	Psa.87:2-7	Psa.86:2-7	Psa.86:2-7	Psa.87:2-7			
 
 $Psa.88:1-88:18	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.88:18=Last	Psa.88:19=Last	Psa.88:53=Last	Psa.88:53=Last	Psa.88:18=Last		
+TEST: And if... 	Psa.88:1.1=NotExist	Psa.88:1.1=NotExist	Psa.88:1.1=NotExist	Psa.88:1.1=NotExist	Psa.88:1.1=Exist	
 Concatenation	Psa.88:1	Psa.88:1-2	Psa.87:1-2	Psa.87:1-2	Psa.88:1.0-1		
 OneToOne	Psa.88:2-18	Psa.88:3-19	Psa.87:3-19	Psa.87:3-19	Psa.88:2-18		
 
 $Psa.89:1-89:52	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.89:52=Last	Psa.89:53=Last	Psa.89:17=Last	Psa.89:17=Last	Psa.89:52=Last		
+TEST: And if... 	Psa.89:1.1=NotExist	Psa.89:1.1=NotExist	Psa.89:1.1=NotExist	Psa.89:1.1=NotExist	Psa.89:1.1=Exist	
 Concatenation	Psa.89:1	Psa.89:1-2	Psa.88:1-2	Psa.88:1-2	Psa.89:1.0-1		
 OneToOne	Psa.89:2-52	Psa.89:3-53	Psa.88:3-53	Psa.88:3-53	Psa.89:2-52		
 
-$Psa.90:1-17	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.90:17=Last	Psa.90:17=Last	Psa.90:16=Last	Psa.90:16=Last			
-OneToOne	Psa.90:1-17	Psa.90:1-17	Psa.89:1-17	Psa.89:1-17			
+$Psa.90:1-17	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.90:17=Last	Psa.90:17=Last	Psa.90:16=Last	Psa.90:16=Last	Psa.90:17=Last		
+TEST: And if... 	Psa.90:1.1=NotExist	Psa.90:1.1=NotExist	Psa.90:1.1=NotExist	Psa.90:1.1=NotExist	Psa.90:1.1=Exist	
+Concatenation	Psa.90:1	Psa.90:1	Psa.89:1	Psa.89:1	Psa.90:1.0-1			
+OneToOne	Psa.90:2-17	Psa.90:2-17	Psa.89:2-17	Psa.89:2-17	Psa.90:2-17			
 
 $Psa.91:1-16	English	Hebrew	Latin	Greek	
 TEST: If...	Psa.93:5=Last	Psa.93:5=Last	Psa.93:23=Last	Psa.93:23=Last			
@@ -1087,6 +1189,7 @@ OneToOne	Psa.91:1-16	Psa.91:1-16	Psa.90:1-16	Psa.90:1-16
 
 $Psa.92:1-92:15	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.92:15=Last	Psa.92:16=Last	Psa.92:5=Last	Psa.92:5=Last	Psa.92:15=Last		
+TEST: And if... 	Psa.92:1.1=NotExist	Psa.92:1.1=NotExist	Psa.92:1.1=NotExist	Psa.92:1.1=NotExist	Psa.92:1.1=Exist	
 Concatenation	Psa.92:1	Psa.92:1-2	Psa.91:1-2	Psa.91:1-2	Psa.92:1.0-1		
 OneToOne	Psa.92:2-15	Psa.92:3-16	Psa.91:3-16	Psa.91:3-16	Psa.92:2-15		
 
@@ -1118,22 +1221,29 @@ $Psa.99:1-9	English	Hebrew	Latin	Greek
 TEST: If...	Psa.99:9=Last	Psa.99:9=Last	Psa.99:5=Last	Psa.99:5=Last			
 OneToOne	Psa.99:1-9	Psa.99:1-9	Psa.98:1-9	Psa.98:1-9			
 
-$Psa.100:1-5	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.100:5=Last	Psa.100:5=Last	Psa.100:8=Last	Psa.100:8=Last			
-OneToOne	Psa.100:1-5	Psa.100:1-5	Psa.99:1-5	Psa.99:1-5			
+$Psa.100:1-5	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.100:5=Last	Psa.100:5=Last	Psa.100:8=Last	Psa.100:8=Last	Psa.100:5=Last		
+TEST: And if... 	Psa.100:1.1=NotExist	Psa.100:1.1=NotExist	Psa.100:1.1=NotExist	Psa.100:1.1=NotExist	Psa.100:1.1=Exist	
+Concatenation	Psa.100:1	Psa.100:1	Psa.99:1	Psa.99:1	Psa.100:1.0-1			
+OneToOne	Psa.100:2-5	Psa.100:2-5	Psa.99:2-5	Psa.99:2-5	Psa.100:2-5			
 
-$Psa.101:1-8	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.101:8=Last	Psa.101:8=Last	Psa.101:29=Last	Psa.101:29=Last			
-OneToOne	Psa.101:1-8	Psa.101:1-8	Psa.100:1-8	Psa.100:1-8			
+$Psa.101:1-8	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.101:8=Last	Psa.101:8=Last	Psa.101:29=Last	Psa.101:29=Last	Psa.101:8=Last		
+TEST: And if... 	Psa.101:1.1=NotExist	Psa.101:1.1=NotExist	Psa.101:1.1=NotExist	Psa.101:1.1=NotExist	Psa.101:1.1=Exist	
+Concatenation	Psa.101:1	Psa.101:1	Psa.100:1	Psa.100:1	Psa.101:1.0-1			
+OneToOne	Psa.101:2-8	Psa.101:2-8	Psa.100:2-8	Psa.100:2-8	Psa.101:2-8			
 
 $Psa.102:1-102:28	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.102:28=Last	Psa.102:29=Last	Psa.102:22=Last	Psa.102:22=Last	Psa.102:28=Last		
+TEST: And if... 	Psa.102:1.1=NotExist	Psa.102:1.1=NotExist	Psa.102:1.1=NotExist	Psa.102:1.1=NotExist	Psa.102:1.1=Exist	
 Concatenation	Psa.102:1	Psa.102:1-2	Psa.101:1-2	Psa.101:1-2	Psa.102:1.0-1		
 OneToOne	Psa.102:2-28	Psa.102:3-29	Psa.101:3-29	Psa.101:3-29	Psa.102:2-28		
 
-$Psa.103:1-22	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.103:22=Last	Psa.103:22=Last	Psa.103:35=Last	Psa.103:35=Last			
-OneToOne	Psa.103:1-22	Psa.103:1-22	Psa.102:1-22	Psa.102:1-22			
+$Psa.103:1-22	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.103:22=Last	Psa.103:22=Last	Psa.103:35=Last	Psa.103:35=Last	Psa.103:22=Last		
+TEST: And if... 	Psa.103:1.1=NotExist	Psa.103:1.1=NotExist	Psa.103:1.1=NotExist	Psa.103:1.1=NotExist	Psa.103:1.1=Exist	
+Concatenation	Psa.103:1	Psa.103:1	Psa.102:1	Psa.102:1	Psa.103:1.0-1			
+OneToOne	Psa.103:2-22	Psa.103:2-22	Psa.102:2-22	Psa.102:2-22	Psa.103:2-22			
 
 $Psa.104:1-35	English	Hebrew	Latin	Greek	
 TEST: If...	Psa.104:35=Last	Psa.104:35=Last	Psa.104:45=Last	Psa.104:45=Last			
@@ -1153,16 +1263,21 @@ OneToOne	Psa.107:1-43	Psa.107:1-43	Psa.106:1-43	Psa.106:1-43
 
 $Psa.108:1-108:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.108:13=Last	Psa.108:14=Last	Psa.108:31=Last	Psa.108:31=Last	Psa.108:13=Last		
+TEST: And if... 	Psa.108:1.1=NotExist	Psa.108:1.1=NotExist	Psa.108:1.1=NotExist	Psa.108:1.1=NotExist	Psa.108:1.1=Exist	
 Concatenation	Psa.108:1	Psa.108:1-2	Psa.107:1-2	Psa.107:1-2	Psa.108:1.0-1		
 OneToOne	Psa.108:2-13	Psa.108:3-14	Psa.107:3-14	Psa.107:3-14	Psa.108:2-13		
 
-$Psa.109:1-31	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.109:31=Last	Psa.109:31=Last	Psa.109:7=Last	Psa.109:7=Last			
-OneToOne	Psa.109:1-31	Psa.109:1-31	Psa.108:1-31	Psa.108:1-31			
+$Psa.109:1-31	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.109:31=Last	Psa.109:31=Last	Psa.109:7=Last	Psa.109:7=Last	Psa.109:31=Last		
+TEST: And if... 	Psa.109:1.1=NotExist	Psa.109:1.1=NotExist	Psa.109:1.1=NotExist	Psa.109:1.1=NotExist	Psa.109:1.1=Exist	
+Concatenation	Psa.109:1	Psa.109:1	Psa.108:1	Psa.108:1	Psa.109:1.0-1			
+OneToOne	Psa.109:2-31	Psa.109:2-31	Psa.108:2-31	Psa.108:2-31	Psa.109:2-31			
 
-$Psa.110:1-7	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.110:7=Last	Psa.110:7=Last	Psa.110:10=Last	Psa.110:10=Last			
-OneToOne	Psa.110:1-7	Psa.110:1-7	Psa.109:1-7	Psa.109:1-7			
+$Psa.110:1-7	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.110:7=Last	Psa.110:7=Last	Psa.110:10=Last	Psa.110:10=Last	Psa.110:7=Last		
+TEST: And if... 	Psa.110:1.1=NotExist	Psa.110:1.1=NotExist	Psa.110:1.1=NotExist	Psa.110:1.1=NotExist	Psa.110:1.1=Exist	
+Concatenation	Psa.110:1	Psa.110:1	Psa.109:1	Psa.109:1	Psa.110:1.0-1			
+OneToOne	Psa.110:2-7	Psa.110:2-7	Psa.109:2-7	Psa.109:2-7	Psa.110:2-7			
 
 $Psa.111:1-10	English	Hebrew	Latin	Greek	
 TEST: If...	Psa.112:10=Last	Psa.112:10=Last	Psa.112:9=Last	Psa.112:9=Last			
@@ -1201,66 +1316,96 @@ $Psa.119:1-176	English	Hebrew	Latin	Greek
 TEST: If...	Psa.119:176=Last	Psa.119:176=Last	Psa.119:7=Last	Psa.119:7=Last			
 OneToOne	Psa.119:1-176	Psa.119:1-176	Psa.118:1-176	Psa.118:1-176			
 
-$Psa.120:1-7	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.120:7=Last	Psa.120:7=Last	Psa.120:8=Last	Psa.120:8=Last			
-OneToOne	Psa.120:1-7	Psa.120:1-7	Psa.119:1-7	Psa.119:1-7			
+$Psa.120:1-7	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.120:7=Last	Psa.120:7=Last	Psa.120:8=Last	Psa.120:8=Last	Psa.120:7=Last		
+TEST: And if... 	Psa.120:1.1=NotExist	Psa.120:1.1=NotExist	Psa.120:1.1=NotExist	Psa.120:1.1=NotExist	Psa.120:1.1=Exist	
+Concatenation	Psa.120:1	Psa.120:1	Psa.119:1	Psa.119:1	Psa.120:1.0-1			
+OneToOne	Psa.120:2-7	Psa.120:2-7	Psa.119:2-7	Psa.119:2-7	Psa.120:2-7			
 
-$Psa.121:1-8	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.121:8=Last	Psa.121:8=Last	Psa.121:9=Last	Psa.121:9=Last			
-OneToOne	Psa.121:1-8	Psa.121:1-8	Psa.120:1-8	Psa.120:1-8			
+$Psa.121:1-8	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.121:8=Last	Psa.121:8=Last	Psa.121:9=Last	Psa.121:9=Last	Psa.121:8=Last		
+TEST: And if... 	Psa.121:1.1=NotExist	Psa.121:1.1=NotExist	Psa.121:1.1=NotExist	Psa.121:1.1=NotExist	Psa.121:1.1=Exist	
+Concatenation	Psa.121:1	Psa.121:1	Psa.120:1	Psa.120:1	Psa.121:1.0-1			
+OneToOne	Psa.121:2-8	Psa.121:2-8	Psa.120:2-8	Psa.120:2-8	Psa.121:2-8			
 
-$Psa.122:1-9	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.122:9=Last	Psa.122:9=Last	Psa.122:4=Last	Psa.122:4=Last			
-OneToOne	Psa.122:1-9	Psa.122:1-9	Psa.121:1-9	Psa.121:1-9			
+$Psa.122:1-9	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.122:9=Last	Psa.122:9=Last	Psa.122:4=Last	Psa.122:4=Last	Psa.122:9=Last		
+TEST: And if... 	Psa.122:1.1=NotExist	Psa.122:1.1=NotExist	Psa.122:1.1=NotExist	Psa.122:1.1=NotExist	Psa.122:1.1=Exist	
+Concatenation	Psa.122:1	Psa.122:1	Psa.121:1	Psa.121:1	Psa.122:1.0-1			
+OneToOne	Psa.122:2-9	Psa.122:2-9	Psa.121:2-9	Psa.121:2-9	Psa.122:2-9			
 
-$Psa.123:1-4	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.123:4=Last	Psa.123:4=Last	Psa.123:8=Last	Psa.123:8=Last			
-OneToOne	Psa.123:1-4	Psa.123:1-4	Psa.122:1-4	Psa.122:1-4			
+$Psa.123:1-4	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.123:4=Last	Psa.123:4=Last	Psa.123:8=Last	Psa.123:8=Last	Psa.123:4=Last		
+TEST: And if... 	Psa.123:1.1=NotExist	Psa.123:1.1=NotExist	Psa.123:1.1=NotExist	Psa.123:1.1=NotExist	Psa.123:1.1=Exist	
+Concatenation	Psa.123:1	Psa.123:1	Psa.122:1	Psa.122:1	Psa.123:1.0-1			
+OneToOne	Psa.123:2-4	Psa.123:2-4	Psa.122:2-4	Psa.122:2-4	Psa.123:2-4			
 
-$Psa.124:1-8	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.124:8=Last	Psa.124:8=Last	Psa.124:5=Last	Psa.124:5=Last			
-OneToOne	Psa.124:1-8	Psa.124:1-8	Psa.123:1-8	Psa.123:1-8			
+$Psa.124:1-8	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.124:8=Last	Psa.124:8=Last	Psa.124:5=Last	Psa.124:5=Last	Psa.124:8=Last		
+TEST: And if... 	Psa.124:1.1=NotExist	Psa.124:1.1=NotExist	Psa.124:1.1=NotExist	Psa.124:1.1=NotExist	Psa.124:1.1=Exist	
+Concatenation	Psa.124:1	Psa.124:1	Psa.123:1	Psa.123:1	Psa.124:1.0-1			
+OneToOne	Psa.124:2-8	Psa.124:2-8	Psa.123:2-8	Psa.123:2-8	Psa.124:2-8			
 
-$Psa.125:1-5	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.125:5=Last	Psa.125:5=Last	Psa.125:7=Last	Psa.125:6=Last			
-OneToOne	Psa.125:1-5	Psa.125:1-5	Psa.124:1-5	Psa.124:1-5			
+$Psa.125:1-5	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.125:5=Last	Psa.125:5=Last	Psa.125:7=Last	Psa.125:6=Last	Psa.125:5=Last		
+TEST: And if... 	Psa.125:1.1=NotExist	Psa.125:1.1=NotExist	Psa.125:1.1=NotExist	Psa.125:1.1=NotExist	Psa.125:1.1=Exist	
+Concatenation	Psa.125:1	Psa.125:1	Psa.124:1	Psa.124:1	Psa.125:1.0-1			
+OneToOne	Psa.125:2-5	Psa.125:2-5	Psa.124:2-5	Psa.124:2-5	Psa.125:2-5			
 
-$Psa.126:1-126:6	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.126:6=Last	Psa.126:6=Last	Psa.125:7=Last	Psa.125:6=Last			
-OneToOne	Psa.126:1-5	Psa.126:1-5	Psa.125:1-5	Psa.125:1-5			
+$Psa.126:1-126:6	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.126:6=Last	Psa.126:6=Last	Psa.125:7=Last	Psa.125:6=Last	Psa.126:6=Last		
+TEST: And if... 	Psa.126:1.1=NotExist	Psa.126:1.1=NotExist	Psa.126:1.1=NotExist	Psa.126:1.1=NotExist	Psa.126:1.1=Exist	
+Concatenation	Psa.126:1	Psa.126:1	Psa.125:1	Psa.125:1	Psa.126:1.0-1			
+OneToOne	Psa.126:2-5	Psa.126:2-5	Psa.125:2-5	Psa.125:2-5	Psa.126:2-5			
 Concatenation	Psa.126:6	Psa.126:6	Psa.125:6-7	Psa.125:6			
 
-$Psa.127:1-5	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.127:5=Last	Psa.127:5=Last	Psa.127:6=Last	Psa.127:6=Last			
-OneToOne	Psa.127:1-5	Psa.127:1-5	Psa.126:1-5	Psa.126:1-5			
+$Psa.127:1-5	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.127:5=Last	Psa.127:5=Last	Psa.127:6=Last	Psa.127:6=Last	Psa.127:5=Last		
+TEST: And if... 	Psa.127:1.1=NotExist	Psa.127:1.1=NotExist	Psa.127:1.1=NotExist	Psa.127:1.1=NotExist	Psa.127:1.1=Exist	
+Concatenation	Psa.127:1	Psa.127:1	Psa.126:1	Psa.126:1	Psa.127:1.0-1			
+OneToOne	Psa.127:2-5	Psa.127:2-5	Psa.126:2-5	Psa.126:2-5	Psa.127:2-5			
 
-$Psa.128:1-6	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.128:6=Last	Psa.128:6=Last	Psa.128:8=Last	Psa.128:8=Last			
-OneToOne	Psa.128:1-6	Psa.128:1-6	Psa.127:1-6	Psa.127:1-6			
+$Psa.128:1-6	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.128:6=Last	Psa.128:6=Last	Psa.128:8=Last	Psa.128:8=Last	Psa.128:6=Last		
+TEST: And if... 	Psa.128:1.1=NotExist	Psa.128:1.1=NotExist	Psa.128:1.1=NotExist	Psa.128:1.1=NotExist	Psa.128:1.1=Exist	
+Concatenation	Psa.128:1	Psa.128:1	Psa.127:1	Psa.127:1	Psa.128:1.0-1			
+OneToOne	Psa.128:2-6	Psa.128:2-6	Psa.127:2-6	Psa.127:2-6	Psa.128:2-6			
 
-$Psa.129:1-8	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.130:8=Last	Psa.130:8=Last	Psa.130:3=Last	Psa.130:3=Last			
-OneToOne	Psa.129:1-8	Psa.129:1-8	Psa.128:1-8	Psa.128:1-8			
+$Psa.129:1-8	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.130:8=Last	Psa.130:8=Last	Psa.130:3=Last	Psa.130:3=Last	Psa.130:8=Last		
+TEST: And if... 	Psa.130:1.1=NotExist	Psa.130:1.1=NotExist	Psa.130:1.1=NotExist	Psa.130:1.1=NotExist	Psa.130:1.1=Exist	
+Concatenation	Psa.129:1	Psa.129:1	Psa.128:1	Psa.128:1	Psa.129:1.0-1			
+OneToOne	Psa.129:2-8	Psa.129:2-8	Psa.128:2-8	Psa.128:2-8	Psa.129:2-8			
 
-$Psa.130:1-8	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.130:8=Last	Psa.130:8=Last	Psa.130:3=Last	Psa.130:3=Last			
-OneToOne	Psa.130:1-8	Psa.130:1-8	Psa.129:1-8	Psa.129:1-8			
+$Psa.130:1-8	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.130:8=Last	Psa.130:8=Last	Psa.130:3=Last	Psa.130:3=Last	Psa.130:8=Last		
+TEST: And if... 	Psa.130:1.1=NotExist	Psa.130:1.1=NotExist	Psa.130:1.1=NotExist	Psa.130:1.1=NotExist	Psa.130:1.1=Exist	
+Concatenation	Psa.130:1	Psa.130:1	Psa.129:1	Psa.129:1	Psa.130:1.0-1			
+OneToOne	Psa.130:2-8	Psa.130:2-8	Psa.129:2-8	Psa.129:2-8	Psa.130:2-8			
 
-$Psa.131:1-3	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.131:3=Last	Psa.131:3=Last	Psa.131:18=Last	Psa.131:18=Last			
-OneToOne	Psa.131:1-3	Psa.131:1-3	Psa.130:1-3	Psa.130:1-3			
+$Psa.131:1-3	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.131:3=Last	Psa.131:3=Last	Psa.131:18=Last	Psa.131:18=Last	Psa.131:3=Last		
+TEST: And if... 	Psa.131:1.1=NotExist	Psa.131:1.1=NotExist	Psa.131:1.1=NotExist	Psa.131:1.1=NotExist	Psa.131:1.1=Exist	
+Concatenation	Psa.131:1	Psa.131:1	Psa.130:1	Psa.130:1	Psa.131:1.0-1			
+OneToOne	Psa.131:2-3	Psa.131:2-3	Psa.130:2-3	Psa.130:2-3	Psa.131:2-3			
 
-$Psa.132:1-18	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.132:18=Last	Psa.132:18=Last	Psa.132:3=Last	Psa.132:3=Last			
-OneToOne	Psa.132:1-18	Psa.132:1-18	Psa.131:1-18	Psa.131:1-18			
+$Psa.132:1-18	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.132:18=Last	Psa.132:18=Last	Psa.132:3=Last	Psa.132:3=Last	Psa.132:18=Last		
+TEST: And if... 	Psa.132:1.1=NotExist	Psa.132:1.1=NotExist	Psa.132:1.1=NotExist	Psa.132:1.1=NotExist	Psa.132:1.1=Exist	
+Concatenation	Psa.132:1	Psa.132:1	Psa.131:1	Psa.131:1	Psa.132:1.0-1			
+OneToOne	Psa.132:2-18	Psa.132:2-18	Psa.131:2-18	Psa.131:2-18	Psa.132:2-18			
 
-$Psa.133:1-3	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.134:3=Last	Psa.134:3=Last	Psa.134:21=Last	Psa.134:21=Last			
-OneToOne	Psa.133:1-3	Psa.133:1-3	Psa.132:1-3	Psa.132:1-3			
+$Psa.133:1-3	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.134:3=Last	Psa.134:3=Last	Psa.134:21=Last	Psa.134:21=Last	Psa.134:3=Last		
+TEST: And if... 	Psa.134:1.1=NotExist	Psa.134:1.1=NotExist	Psa.134:1.1=NotExist	Psa.134:1.1=NotExist	Psa.134:1.1=Exist	
+Concatenation	Psa.133:1	Psa.133:1	Psa.132:1	Psa.132:1	Psa.133:1.0-1			
+OneToOne	Psa.133:2-3	Psa.133:2-3	Psa.132:2-3	Psa.132:2-3	Psa.133:2-3			
 
-$Psa.134:1-3	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.134:3=Last	Psa.134:3=Last	Psa.134:21=Last	Psa.134:21=Last			
-OneToOne	Psa.134:1-3	Psa.134:1-3	Psa.133:1-3	Psa.133:1-3			
+$Psa.134:1-3	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.134:3=Last	Psa.134:3=Last	Psa.134:21=Last	Psa.134:21=Last	Psa.134:3=Last		
+TEST: And if... 	Psa.134:1.1=NotExist	Psa.134:1.1=NotExist	Psa.134:1.1=NotExist	Psa.134:1.1=NotExist	Psa.134:1.1=Exist	
+Concatenation	Psa.134:1	Psa.134:1	Psa.133:1	Psa.133:1	Psa.134:1.0-1			
+OneToOne	Psa.134:2-3	Psa.134:2-3	Psa.133:2-3	Psa.133:2-3	Psa.134:2-3			
 
 $Psa.135:1-21	English	Hebrew	Latin	Greek	
 TEST: If...	Psa.135:21=Last	Psa.135:21=Last	Psa.135:27=Last	Psa.135:26=Last			
@@ -1275,39 +1420,53 @@ $Psa.137:1-9	English	Hebrew	Latin	Greek
 TEST: If...	Psa.137:9=Last	Psa.137:9=Last	Psa.137:8=Last	Psa.137:8=Last			
 OneToOne	Psa.137:1-9	Psa.137:1-9	Psa.136:1-9	Psa.136:1-9			
 
-$Psa.138:1-8	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.138:8=Last	Psa.138:8=Last	Psa.138:24=Last	Psa.138:24=Last			
-OneToOne	Psa.138:1-8	Psa.138:1-8	Psa.137:1-8	Psa.137:1-8			
+$Psa.138:1-8	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.138:8=Last	Psa.138:8=Last	Psa.138:24=Last	Psa.138:24=Last	Psa.138:8=Last		
+TEST: And if... 	Psa.138:1.1=NotExist	Psa.138:1.1=NotExist	Psa.138:1.1=NotExist	Psa.138:1.1=NotExist	Psa.138:1.1=Exist	
+Concatenation	Psa.138:1	Psa.138:1	Psa.137:1	Psa.137:1	Psa.138:1.0-1			
+OneToOne	Psa.138:2-8	Psa.138:2-8	Psa.137:2-8	Psa.137:2-8	Psa.138:2-8			
 
-$Psa.139:1-24	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.139:24=Last	Psa.139:24=Last	Psa.139:14=Last	Psa.139:14=Last			
-OneToOne	Psa.139:1-24	Psa.139:1-24	Psa.138:1-24	Psa.138:1-24			
+$Psa.139:1-24	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.139:24=Last	Psa.139:24=Last	Psa.139:14=Last	Psa.139:14=Last	Psa.139:24=Last		
+TEST: And if... 	Psa.139:1.1=NotExist	Psa.139:1.1=NotExist	Psa.139:1.1=NotExist	Psa.139:1.1=NotExist	Psa.139:1.1=Exist	
+Concatenation	Psa.139:1	Psa.139:1	Psa.138:1	Psa.138:1	Psa.139:1.0-1			
+OneToOne	Psa.139:2-24	Psa.139:2-24	Psa.138:2-24	Psa.138:2-24	Psa.139:2-24			
 
 $Psa.140:1-140:13	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.140:13=Last	Psa.140:14=Last	Psa.140:10=Last	Psa.140:10=Last	Psa.140:13=Last		
+TEST: And if... 	Psa.140:1.1=NotExist	Psa.140:1.1=NotExist	Psa.140:1.1=NotExist	Psa.140:1.1=NotExist	Psa.140:1.1=Exist	
 Concatenation	Psa.140:1	Psa.140:1-2	Psa.139:1-2	Psa.139:1-2	Psa.140:1.0-1		
 OneToOne	Psa.140:2-13	Psa.140:3-14	Psa.139:3-14	Psa.139:3-14	Psa.140:2-13		
 
-$Psa.141:1-10	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.141:10=Last	Psa.141:10=Last	Psa.141:8=Last	Psa.141:8=Last			
-OneToOne	Psa.141:1-10	Psa.141:1-10	Psa.140:1-10	Psa.140:1-10			
+$Psa.141:1-10	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.141:10=Last	Psa.141:10=Last	Psa.141:8=Last	Psa.141:8=Last	Psa.141:10=Last		
+TEST: And if... 	Psa.141:1.1=NotExist	Psa.141:1.1=NotExist	Psa.141:1.1=NotExist	Psa.141:1.1=NotExist	Psa.141:1.1=Exist	
+Concatenation	Psa.141:1	Psa.141:1	Psa.140:1	Psa.140:1	Psa.141:1.0-1			
+OneToOne	Psa.141:2-10	Psa.141:2-10	Psa.140:2-10	Psa.140:2-10	Psa.141:2-10			
 
 $Psa.142:1-142:7	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.142:7=Last	Psa.142:8=Last	Psa.142:12=Last	Psa.142:12=Last	Psa.142:7=Last		
+TEST: And if... 	Psa.142:1.1=NotExist	Psa.142:1.1=NotExist	Psa.142:1.1=NotExist	Psa.142:1.1=NotExist	Psa.142:1.1=Exist	
 Concatenation	Psa.142:1	Psa.142:1-2	Psa.141:1-2	Psa.141:1-2	Psa.142:1.0-1		
 OneToOne	Psa.142:2-7	Psa.142:3-8	Psa.141:3-8	Psa.141:3-8	Psa.142:2-7		
 
-$Psa.143:1-12	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.143:12=Last	Psa.143:12=Last	Psa.143:15=Last	Psa.143:15=Last			
-OneToOne	Psa.143:1-12	Psa.143:1-12	Psa.142:1-12	Psa.142:1-12			
+$Psa.143:1-12	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.143:12=Last	Psa.143:12=Last	Psa.143:15=Last	Psa.143:15=Last	Psa.143:12=Last		
+TEST: And if... 	Psa.143:1.1=NotExist	Psa.143:1.1=NotExist	Psa.143:1.1=NotExist	Psa.143:1.1=NotExist	Psa.143:1.1=Exist	
+Concatenation	Psa.143:1	Psa.143:1	Psa.142:1	Psa.142:1	Psa.143:1.0-1			
+OneToOne	Psa.143:2-12	Psa.143:2-12	Psa.142:2-12	Psa.142:2-12	Psa.143:2-12			
 
-$Psa.144:1-15	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.144:15=Last	Psa.144:15=Last	Psa.144:21=Last	Psa.144:21=Last			
-OneToOne	Psa.144:1-15	Psa.144:1-15	Psa.143:1-15	Psa.143:1-15			
+$Psa.144:1-15	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.144:15=Last	Psa.144:15=Last	Psa.144:21=Last	Psa.144:21=Last	Psa.144:15=Last		
+TEST: And if... 	Psa.144:1.1=NotExist	Psa.144:1.1=NotExist	Psa.144:1.1=NotExist	Psa.144:1.1=NotExist	Psa.144:1.1=Exist	
+Concatenation	Psa.144:1	Psa.144:1	Psa.143:1	Psa.143:1	Psa.144:1.0-1			
+OneToOne	Psa.144:2-15	Psa.144:2-15	Psa.143:2-15	Psa.143:2-15	Psa.144:2-15			
 
-$Psa.145:1-21	English	Hebrew	Latin	Greek	
-TEST: If...	Psa.145:21=Last	Psa.145:21=Last	Psa.145:10=Last	Psa.145:10=Last			
-OneToOne	Psa.145:1-21	Psa.145:1-21	Psa.144:1-21	Psa.144:1-21			
+$Psa.145:1-21	English	Hebrew	Latin	Greek	EngTitleSeparate		
+TEST: If...	Psa.145:21=Last	Psa.145:21=Last	Psa.145:10=Last	Psa.145:10=Last	Psa.145:21=Last		
+TEST: And if... 	Psa.145:1.1=NotExist	Psa.145:1.1=NotExist	Psa.145:1.1=NotExist	Psa.145:1.1=NotExist	Psa.145:1.1=Exist	
+Concatenation	Psa.145:1	Psa.145:1	Psa.144:1	Psa.144:1	Psa.145:1.0-1			
+OneToOne	Psa.145:2-21	Psa.145:2-21	Psa.144:2-21	Psa.144:2-21	Psa.145:2-21			
 
 $Psa.146:1-10	English	Hebrew	Latin	Greek	
 TEST: If...	Psa.146:10=Last	Psa.146:10=Last	Psa.146:11=Last	Psa.146:11=Last			
@@ -7531,6 +7690,8 @@ Latin+Greek	Psa.9:37	Psa.10:16	Renumber verse	Nec. [9:37]	%Normally in this Bibl
 Latin+Greek	Psa.9:38	Psa.10:17	Renumber verse	Nec. [9:38]	%Normally in this Bible the verse numbering here is% 9:38.		(Hebrew=10:17 • Latin=9:38 • Greek=9:38)	Psa.9:39=Last	
 Latin+Greek	Psa.9:39	Psa.10:18	Renumber verse	Nec. [9:39]	%Normally in this Bible the verse numbering here is% 9:39.		(Hebrew=10:18 • Latin=9:39 • Greek=9:39)	Psa.9:39=Last	
 
+EngTitleSeparate	Psa.11:1.0	Psa.11:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 11:1.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:1.1=Exist	
+EngTitleSeparate	Psa.11:1.1	Psa.11:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 11:2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:1.1=Exist	
 English+Hebrew	Psa.11:1	Psa.11:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 10:1-2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:7=Last	
 English+Hebrew	Psa.11:2	Psa.11:2	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 10:3.		(Hebrew=11:2 • Latin=10:3 • Greek=10:2)	Psa.11:7=Last	
 English+Hebrew	Psa.11:3	Psa.11:3	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 10:4.		(Hebrew=11:3 • Latin=10:4 • Greek=10:3)	Psa.11:7=Last	
@@ -7596,6 +7757,8 @@ Greek	Psa.12:4	Psa.13:3	Renumber verse	Nec. [12:4]	%Normally in this Bible the v
 Greek	Psa.12:5	Psa.13:4	Renumber verse	Nec. [12:5]	%Normally in this Bible the verse numbering here is% 12:5.		(Hebrew=13:5 • Latin=12:5 • Greek=12:5)	Psa.13:7=Last & Psa.12:3>Psa.12:4	
 Greek	Psa.12:6	Psa.13:5	Renumber verse	Nec. [5-6]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 12:6.		(Hebrew=13:6a • Latin=12:6a • Greek=12:6a)	Psa.13:7=Last & Psa.12:3>Psa.12:4	
 Greek	Psa.12:6	Psa.13:6	Merged with	Nec. [12:6b]	%Normally in this Bible some text may be missing here because it is merged with% 13:6.		(Hebrew=13:6b • Latin=12:6b • Greek=12:6b)	Psa.13:7=Last & Psa.12:3>Psa.12:4	
+EngTitleSeparate	Psa.13:1.0	Psa.13:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 13:1.		(Hebrew=13:1-2 • Latin=12:1 • Greek=12:1-2)	Psa.13:1.1=Exist	
+EngTitleSeparate	Psa.13:1.1	Psa.13:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 13:2.		(Hebrew=13:1-2 • Latin=12:1 • Greek=12:1-2)	Psa.13:1.1=Exist	
 Hebrew	Psa.13:1	Psa.13:1.0	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 13:1.		(Hebrew=13:1-2 • Latin=12:1 • Greek=12:1-2)	Psa.13:6=Last & Psa.13:1<Psa.13:3	
 Hebrew	Psa.13:2	Psa.13:1	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 13:2.		(Hebrew=13:1-2 • Latin=12:1 • Greek=12:1-2)	Psa.13:6=Last & Psa.13:1<Psa.13:3	
 Hebrew	Psa.13:3	Psa.13:2	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 13:3.		(Hebrew=13:3 • Latin=12:2-3 • Greek=12:3)	Psa.13:6=Last & Psa.13:1<Psa.13:3	
@@ -7611,6 +7774,8 @@ Latin	Psa.12:5	Psa.13:4	Renumber verse	Nec. [12:5]	%Normally in this Bible the v
 Latin	Psa.12:6	Psa.13:5	Renumber verse	Nec. [5-6]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 12:6.		(Hebrew=13:6a • Latin=12:6a • Greek=12:6a)	Psa.13:7=Last & Psa.12:3<Psa.12:4	
 Latin	Psa.12:6	Psa.13:6	Merged with	Nec. [12:6b]	%Normally in this Bible some text may be missing here because it is merged with% 13:6.		(Hebrew=13:6b • Latin=12:6b • Greek=12:6b)	Psa.13:7=Last & Psa.12:3<Psa.12:4	
 
+EngTitleSeparate	Psa.14:1.0	Psa.14:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 14:1.		(Hebrew=14:1 • Latin=13:1 • Greek=13:1)	Psa.14:1.1=Exist	
+EngTitleSeparate	Psa.14:1.1	Psa.14:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 14:2.		(Hebrew=14:1 • Latin=13:1 • Greek=13:1)	Psa.14:1.1=Exist	
 English+Hebrew	Psa.14:1	Psa.14:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 13:1.		(Hebrew=14:1 • Latin=13:1 • Greek=13:1)	Psa.14:7=Last	
 English+Hebrew	Psa.14:2	Psa.14:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 13:2.		(Hebrew=14:2 • Latin=13:2 • Greek=13:2)	Psa.14:7=Last	
 English+Hebrew	Psa.14:3	Psa.14:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 13:3.		(Hebrew=14:3 • Latin=13:3 • Greek=13:3)	Psa.14:7=Last	
@@ -7626,6 +7791,8 @@ Latin+Greek	Psa.13:5	Psa.14:5	Renumber verse	Nec. [13:5]	%Normally in this Bible
 Latin+Greek	Psa.13:6	Psa.14:6	Renumber verse	Nec. [13:6]	%Normally in this Bible the verse numbering here is% 13:6.		(Hebrew=14:6 • Latin=13:6 • Greek=13:6)	Psa.14:5=Last	
 Latin+Greek	Psa.13:7	Psa.14:7	Renumber verse	Nec. [13:7]	%Normally in this Bible the verse numbering here is% 13:7.		(Hebrew=14:7 • Latin=13:7 • Greek=13:7)	Psa.14:5=Last	
 
+EngTitleSeparate	Psa.15:1.0	Psa.15:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 15:1.		(Hebrew=15:1 • Latin=14:1 • Greek=14:1)	Psa.15:1.1=Exist	
+EngTitleSeparate	Psa.15:1.1	Psa.15:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 15:2.		(Hebrew=15:1 • Latin=14:1 • Greek=14:1)	Psa.15:1.1=Exist	
 English+Hebrew	Psa.15:1	Psa.15:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 14:1.		(Hebrew=15:1 • Latin=14:1 • Greek=14:1)	Psa.15:5=Last	
 English+Hebrew	Psa.15:2	Psa.15:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 14:2.		(Hebrew=15:2 • Latin=14:2 • Greek=14:2)	Psa.15:5=Last	
 English+Hebrew	Psa.15:3	Psa.15:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 14:3.		(Hebrew=15:3 • Latin=14:3 • Greek=14:3)	Psa.15:5=Last	
@@ -7637,6 +7804,8 @@ Latin+Greek	Psa.14:3	Psa.15:3	Renumber verse	Nec. [14:3]	%Normally in this Bible
 Latin+Greek	Psa.14:4	Psa.15:4	Renumber verse	Nec. [14:4]	%Normally in this Bible the verse numbering here is% 14:4.		(Hebrew=15:4 • Latin=14:4 • Greek=14:4)	Psa.15:11=Last	
 Latin+Greek	Psa.14:5	Psa.15:5	Renumber verse	Nec. [14:5]	%Normally in this Bible the verse numbering here is% 14:5.		(Hebrew=15:5 • Latin=14:5 • Greek=14:5)	Psa.15:11=Last	
 
+EngTitleSeparate	Psa.16:1.0	Psa.16:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 16:1.		(Hebrew=16:1 • Latin=15:1 • Greek=15:1)	Psa.16:1.1=Exist	
+EngTitleSeparate	Psa.16:1.1	Psa.16:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 16:2.		(Hebrew=16:1 • Latin=15:1 • Greek=15:1)	Psa.16:1.1=Exist	
 English+Hebrew	Psa.16:1	Psa.16:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 15:1.		(Hebrew=16:1 • Latin=15:1 • Greek=15:1)	Psa.16:11=Last	
 English+Hebrew	Psa.16:2	Psa.16:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 15:2.		(Hebrew=16:2 • Latin=15:2 • Greek=15:2)	Psa.16:11=Last	
 English+Hebrew	Psa.16:3	Psa.16:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 15:3.		(Hebrew=16:3 • Latin=15:3 • Greek=15:3)	Psa.16:11=Last	
@@ -7660,6 +7829,8 @@ Latin+Greek	Psa.15:9	Psa.16:9	Renumber verse	Nec. [15:9]	%Normally in this Bible
 Latin+Greek	Psa.15:10	Psa.16:10	Renumber verse	Nec. [15:10]	%Normally in this Bible the verse numbering here is% 15:10.		(Hebrew=16:10 • Latin=15:10 • Greek=15:10)	Psa.16:15=Last	
 Latin+Greek	Psa.15:11	Psa.16:11	Renumber verse	Nec. [15:11]	%Normally in this Bible the verse numbering here is% 15:11.		(Hebrew=16:11 • Latin=15:11 • Greek=15:11)	Psa.16:15=Last	
 
+EngTitleSeparate	Psa.17:1.0	Psa.17:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 17:1.		(Hebrew=17:1 • Latin=16:1 • Greek=16:1)	Psa.17:1.1=Exist	
+EngTitleSeparate	Psa.17:1.1	Psa.17:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 17:2.		(Hebrew=17:1 • Latin=16:1 • Greek=16:1)	Psa.17:1.1=Exist	
 English+Hebrew	Psa.17:1	Psa.17:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 16:1.		(Hebrew=17:1 • Latin=16:1 • Greek=16:1)	Psa.17:15=Last	
 English+Hebrew	Psa.17:2	Psa.17:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 16:2.		(Hebrew=17:2 • Latin=16:2 • Greek=16:2)	Psa.17:15=Last	
 English+Hebrew	Psa.17:3	Psa.17:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 16:3.		(Hebrew=17:3 • Latin=16:3 • Greek=16:3)	Psa.17:15=Last	
@@ -8067,6 +8238,8 @@ Latin+Greek	Psa.21:30	Psa.22:29	Renumber verse	Nec. [21:30]	%Normally in this Bi
 Latin+Greek	Psa.21:31	Psa.22:30	Renumber verse	Nec. [21:31]	%Normally in this Bible the verse numbering here is% 21:31.		(Hebrew=22:31 • Latin=21:31 • Greek=21:31)	Psa.22:6=Last	
 Latin+Greek	Psa.21:32	Psa.22:31	Renumber verse	Nec. [21:32]	%Normally in this Bible the verse numbering here is% 21:32.		(Hebrew=22:32 • Latin=21:32 • Greek=21:32)	Psa.22:6=Last	
 
+EngTitleSeparate	Psa.23:1.0	Psa.23:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 23:1.		(Hebrew=23:1 • Latin=22:1 • Greek=22:1)	Psa.23:1.1=Exist	
+EngTitleSeparate	Psa.23:1.1	Psa.23:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 23:2.		(Hebrew=23:1 • Latin=22:1 • Greek=22:1)	Psa.23:1.1=Exist	
 English+Hebrew	Psa.23:1	Psa.23:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 22:1.		(Hebrew=23:1 • Latin=22:1 • Greek=22:1)	Psa.23:6=Last	
 English+Hebrew	Psa.23:2	Psa.23:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 22:2.		(Hebrew=23:2 • Latin=22:2 • Greek=22:2)	Psa.23:6=Last	
 English+Hebrew	Psa.23:3	Psa.23:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 22:3.		(Hebrew=23:3 • Latin=22:3 • Greek=22:3)	Psa.23:6=Last	
@@ -8080,6 +8253,8 @@ Latin+Greek	Psa.22:4	Psa.23:4	Renumber verse	Nec. [22:4]	%Normally in this Bible
 Latin+Greek	Psa.22:5	Psa.23:5	Renumber verse	Nec. [22:5]	%Normally in this Bible the verse numbering here is% 22:5.		(Hebrew=23:5 • Latin=22:5 • Greek=22:5)	Psa.23:10=Last	
 Latin+Greek	Psa.22:6	Psa.23:6	Renumber verse	Nec. [22:6]	%Normally in this Bible the verse numbering here is% 22:6.		(Hebrew=23:6 • Latin=22:6 • Greek=22:6)	Psa.23:10=Last	
 
+EngTitleSeparate	Psa.24:1.0	Psa.24:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 24:1.		(Hebrew=24:1 • Latin=23:1 • Greek=23:1)	Psa.24:1.1=Exist	
+EngTitleSeparate	Psa.24:1.1	Psa.24:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 24:2.		(Hebrew=24:1 • Latin=23:1 • Greek=23:1)	Psa.24:1.1=Exist	
 English+Hebrew	Psa.24:1	Psa.24:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 23:1.		(Hebrew=24:1 • Latin=23:1 • Greek=23:1)	Psa.24:10=Last	
 English+Hebrew	Psa.24:2	Psa.24:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 23:2.		(Hebrew=24:2 • Latin=23:2 • Greek=23:2)	Psa.24:10=Last	
 English+Hebrew	Psa.24:3	Psa.24:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 23:3.		(Hebrew=24:3 • Latin=23:3 • Greek=23:3)	Psa.24:10=Last	
@@ -8101,6 +8276,8 @@ Latin+Greek	Psa.23:8	Psa.24:8	Renumber verse	Nec. [23:8]	%Normally in this Bible
 Latin+Greek	Psa.23:9	Psa.24:9	Renumber verse	Nec. [23:9]	%Normally in this Bible the verse numbering here is% 23:9.		(Hebrew=24:9 • Latin=23:9 • Greek=23:9)	Psa.24:22=Last	
 Latin+Greek	Psa.23:10	Psa.24:10	Renumber verse	Nec. [23:10]	%Normally in this Bible the verse numbering here is% 23:10.		(Hebrew=24:10 • Latin=23:10 • Greek=23:10)	Psa.24:22=Last	
 
+EngTitleSeparate	Psa.25:1.0	Psa.25:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 25:1.		(Hebrew=25:1 • Latin=24:1 • Greek=24:1)	Psa.25:1.1=Exist	
+EngTitleSeparate	Psa.25:1.1	Psa.25:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 25:2.		(Hebrew=25:1 • Latin=24:1 • Greek=24:1)	Psa.25:1.1=Exist	
 English+Hebrew	Psa.25:1	Psa.25:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 24:1.		(Hebrew=25:1 • Latin=24:1 • Greek=24:1)	Psa.25:22=Last	
 English+Hebrew	Psa.25:2	Psa.25:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 24:2.		(Hebrew=25:2 • Latin=24:2 • Greek=24:2)	Psa.25:22=Last	
 English+Hebrew	Psa.25:3	Psa.25:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 24:3.		(Hebrew=25:3 • Latin=24:3 • Greek=24:3)	Psa.25:22=Last	
@@ -8146,6 +8323,8 @@ Latin+Greek	Psa.24:20	Psa.25:20	Renumber verse	Nec. [24:20]	%Normally in this Bi
 Latin+Greek	Psa.24:21	Psa.25:21	Renumber verse	Nec. [24:21]	%Normally in this Bible the verse numbering here is% 24:21.		(Hebrew=25:21 • Latin=24:21 • Greek=24:21)	Psa.25:12=Last	
 Latin+Greek	Psa.24:22	Psa.25:22	Renumber verse	Nec. [24:22]	%Normally in this Bible the verse numbering here is% 24:22.		(Hebrew=25:22 • Latin=24:22 • Greek=24:22)	Psa.25:12=Last	
 
+EngTitleSeparate	Psa.26:1.0	Psa.26:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 26:1.		(Hebrew=26:1 • Latin=25:1 • Greek=25:1)	Psa.26:1.1=Exist	
+EngTitleSeparate	Psa.26:1.1	Psa.26:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 26:2.		(Hebrew=26:1 • Latin=25:1 • Greek=25:1)	Psa.26:1.1=Exist	
 English+Hebrew	Psa.26:1	Psa.26:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 25:1.		(Hebrew=26:1 • Latin=25:1 • Greek=25:1)	Psa.26:12=Last	
 English+Hebrew	Psa.26:2	Psa.26:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 25:2.		(Hebrew=26:2 • Latin=25:2 • Greek=25:2)	Psa.26:12=Last	
 English+Hebrew	Psa.26:3	Psa.26:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 25:3.		(Hebrew=26:3 • Latin=25:3 • Greek=25:3)	Psa.26:12=Last	
@@ -8171,6 +8350,8 @@ Latin+Greek	Psa.25:10	Psa.26:10	Renumber verse	Nec. [25:10]	%Normally in this Bi
 Latin+Greek	Psa.25:11	Psa.26:11	Renumber verse	Nec. [25:11]	%Normally in this Bible the verse numbering here is% 25:11.		(Hebrew=26:11 • Latin=25:11 • Greek=25:11)	Psa.26:14=Last	
 Latin+Greek	Psa.25:12	Psa.26:12	Renumber verse	Nec. [25:12]	%Normally in this Bible the verse numbering here is% 25:12.		(Hebrew=26:12 • Latin=25:12 • Greek=25:12)	Psa.26:14=Last	
 
+EngTitleSeparate	Psa.27:1.0	Psa.27:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 27:1.		(Hebrew=27:1 • Latin=26:1 • Greek=26:1)	Psa.27:1.1=Exist	
+EngTitleSeparate	Psa.27:1.1	Psa.27:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 27:2.		(Hebrew=27:1 • Latin=26:1 • Greek=26:1)	Psa.27:1.1=Exist	
 English+Hebrew	Psa.27:1	Psa.27:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 26:1.		(Hebrew=27:1 • Latin=26:1 • Greek=26:1)	Psa.27:14=Last	
 English+Hebrew	Psa.27:2	Psa.27:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 26:2.		(Hebrew=27:2 • Latin=26:2 • Greek=26:2)	Psa.27:14=Last	
 English+Hebrew	Psa.27:3	Psa.27:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 26:3.		(Hebrew=27:3 • Latin=26:3 • Greek=26:3)	Psa.27:14=Last	
@@ -8200,6 +8381,8 @@ Latin+Greek	Psa.26:12	Psa.27:12	Renumber verse	Nec. [26:12]	%Normally in this Bi
 Latin+Greek	Psa.26:13	Psa.27:13	Renumber verse	Nec. [26:13]	%Normally in this Bible the verse numbering here is% 26:13.		(Hebrew=27:13 • Latin=26:13 • Greek=26:13)	Psa.27:9=Last	
 Latin+Greek	Psa.26:14	Psa.27:14	Renumber verse	Nec. [26:14]	%Normally in this Bible the verse numbering here is% 26:14.		(Hebrew=27:14 • Latin=26:14 • Greek=26:14)	Psa.27:9=Last	
 
+EngTitleSeparate	Psa.28:1.0	Psa.28:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 28:1.		(Hebrew=28:1 • Latin=27:1 • Greek=27:1)	Psa.28:1.1=Exist	
+EngTitleSeparate	Psa.28:1.1	Psa.28:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 28:2.		(Hebrew=28:1 • Latin=27:1 • Greek=27:1)	Psa.28:1.1=Exist	
 English+Hebrew	Psa.28:1	Psa.28:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 27:1.		(Hebrew=28:1 • Latin=27:1 • Greek=27:1)	Psa.28:9=Last	
 English+Hebrew	Psa.28:2	Psa.28:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 27:2.		(Hebrew=28:2 • Latin=27:2 • Greek=27:2)	Psa.28:9=Last	
 English+Hebrew	Psa.28:3	Psa.28:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 27:3.		(Hebrew=28:3 • Latin=27:3 • Greek=27:3)	Psa.28:9=Last	
@@ -8219,6 +8402,8 @@ Latin+Greek	Psa.27:7	Psa.28:7	Renumber verse	Nec. [27:7]	%Normally in this Bible
 Latin+Greek	Psa.27:8	Psa.28:8	Renumber verse	Nec. [27:8]	%Normally in this Bible the verse numbering here is% 27:8.		(Hebrew=28:8 • Latin=27:8 • Greek=27:8)	Psa.28:11=Last	
 Latin+Greek	Psa.27:9	Psa.28:9	Renumber verse	Nec. [27:9]	%Normally in this Bible the verse numbering here is% 27:9.		(Hebrew=28:9 • Latin=27:9 • Greek=27:9)	Psa.28:11=Last	
 
+EngTitleSeparate	Psa.29:1.0	Psa.29:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 29:1.		(Hebrew=29:1 • Latin=28:1 • Greek=28:1)	Psa.29:1.1=Exist	
+EngTitleSeparate	Psa.29:1.1	Psa.29:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 29:2.		(Hebrew=29:1 • Latin=28:1 • Greek=28:1)	Psa.29:1.1=Exist	
 English+Hebrew	Psa.29:1	Psa.29:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 28:1.		(Hebrew=29:1 • Latin=28:1 • Greek=28:1)	Psa.29:11=Last	
 English+Hebrew	Psa.29:2	Psa.29:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 28:2.		(Hebrew=29:2 • Latin=28:2 • Greek=28:2)	Psa.29:11=Last	
 English+Hebrew	Psa.29:3	Psa.29:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 28:3.		(Hebrew=29:3 • Latin=28:3 • Greek=28:3)	Psa.29:11=Last	
@@ -8360,6 +8545,8 @@ Latin+Greek	Psa.30:23	Psa.31:22	Renumber verse	Nec. [30:23]	%Normally in this Bi
 Latin+Greek	Psa.30:24	Psa.31:23	Renumber verse	Nec. [30:24]	%Normally in this Bible the verse numbering here is% 30:24.		(Hebrew=31:24 • Latin=30:24 • Greek=30:24)	Psa.31:11=Last	
 Latin+Greek	Psa.30:25	Psa.31:24	Renumber verse	Nec. [30:25]	%Normally in this Bible the verse numbering here is% 30:25.		(Hebrew=31:25 • Latin=30:25 • Greek=30:25)	Psa.31:11=Last	
 
+EngTitleSeparate	Psa.32:1.0	Psa.32:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 32:1.		(Hebrew=32:1 • Latin=31:1 • Greek=31:1)	Psa.32:1.1=Exist	
+EngTitleSeparate	Psa.32:1.1	Psa.32:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 32:2.		(Hebrew=32:1 • Latin=31:1 • Greek=31:1)	Psa.32:1.1=Exist	
 English+Hebrew	Psa.32:1	Psa.32:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 31:1.		(Hebrew=32:1 • Latin=31:1 • Greek=31:1)	Psa.32:11=Last	
 English+Hebrew	Psa.32:2	Psa.32:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 31:2.		(Hebrew=32:2 • Latin=31:2 • Greek=31:2)	Psa.32:11=Last	
 English+Hebrew	Psa.32:3	Psa.32:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 31:3.		(Hebrew=32:3 • Latin=31:3 • Greek=31:3)	Psa.32:11=Last	
@@ -8499,6 +8686,8 @@ Latin+Greek	Psa.33:21	Psa.34:20	Renumber verse	Nec. [33:21]	%Normally in this Bi
 Latin+Greek	Psa.33:22	Psa.34:21	Renumber verse	Nec. [33:22]	%Normally in this Bible the verse numbering here is% 33:22.		(Hebrew=34:22 • Latin=33:22 • Greek=33:22)	Psa.34:28=Last	
 Latin+Greek	Psa.33:23	Psa.34:22	Renumber verse	Nec. [33:23]	%Normally in this Bible the verse numbering here is% 33:23.		(Hebrew=34:23 • Latin=33:23 • Greek=33:23)	Psa.34:28=Last	
 
+EngTitleSeparate	Psa.35:1.0	Psa.35:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 35:1.		(Hebrew=35:1 • Latin=34:1 • Greek=34:1)	Psa.35:1.1=Exist	
+EngTitleSeparate	Psa.35:1.1	Psa.35:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 35:2.		(Hebrew=35:1 • Latin=34:1 • Greek=34:1)	Psa.35:1.1=Exist	
 English+Hebrew	Psa.35:1	Psa.35:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 34:1.		(Hebrew=35:1 • Latin=34:1 • Greek=34:1)	Psa.35:28=Last	
 English+Hebrew	Psa.35:2	Psa.35:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 34:2.		(Hebrew=35:2 • Latin=34:2 • Greek=34:2)	Psa.35:28=Last	
 English+Hebrew	Psa.35:3	Psa.35:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 34:3.		(Hebrew=35:3 • Latin=34:3 • Greek=34:3)	Psa.35:28=Last	
@@ -8597,6 +8786,8 @@ Latin+Greek	Psa.35:11	Psa.36:10	Renumber verse	Nec. [35:11]	%Normally in this Bi
 Latin+Greek	Psa.35:12	Psa.36:11	Renumber verse	Nec. [35:12]	%Normally in this Bible the verse numbering here is% 35:12.		(Hebrew=36:12 • Latin=35:12 • Greek=35:12)	Psa.36:40=Last	
 Latin+Greek	Psa.35:13	Psa.36:12	Renumber verse	Nec. [35:13]	%Normally in this Bible the verse numbering here is% 35:13.		(Hebrew=36:13 • Latin=35:13 • Greek=35:13)	Psa.36:40=Last	
 
+EngTitleSeparate	Psa.37:1.0	Psa.37:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 37:1.		(CopyBelow)	Psa.37:1.1=Exist	
+EngTitleSeparate	Psa.37:1.1	Psa.37:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 37:2.		(CopyBelow)	Psa.37:1.1=Exist	
 English+Hebrew	Psa.37:1	Psa.37:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 36:1.		(Hebrew=37:1 • Latin=36:1 • Greek=36:1)	Psa.37:40=Last	
 English+Hebrew	Psa.37:2	Psa.37:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 36:2.		(Hebrew=37:2 • Latin=36:2 • Greek=36:2)	Psa.37:40=Last	
 English+Hebrew	Psa.37:3	Psa.37:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 36:3.		(Hebrew=37:3 • Latin=36:3 • Greek=36:3)	Psa.37:40=Last	
@@ -8943,6 +9134,8 @@ Latin	Psa.41:10	Psa.42:9	Renumber verse	Nec. [41:10]	%Normally in this Bible the
 Latin	Psa.41:11	Psa.42:10	Renumber verse	Nec. [41:11]	%Normally in this Bible the verse numbering here is% 41:11.		(Hebrew=42:11 • Latin=41:11 • Greek=41:11)	Psa.42:6=Last	
 Latin	Psa.41:12	Psa.42:11	Renumber verse	Nec. [41:12]	%Normally in this Bible the verse numbering here is% 41:12.		(Hebrew=42:12 • Latin=41:12 • Greek=41:12)	Psa.42:6=Last	
 
+EngTitleSeparate	Psa.43:1.0	Psa.43:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 43:1.		(Hebrew=43:1 • Latin=42:1 • Greek=42:1)	Psa.43:1.1=Exist	
+EngTitleSeparate	Psa.43:1.1	Psa.43:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 43:2.		(Hebrew=43:1 • Latin=42:1 • Greek=42:1)	Psa.43:1.1=Exist	
 English+Hebrew	Psa.43:1	Psa.43:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 42:1.		(Hebrew=43:1 • Latin=42:1 • Greek=42:1)	Psa.43:5=Last	
 English+Hebrew	Psa.43:2	Psa.43:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 42:2.		(Hebrew=43:2 • Latin=42:2 • Greek=42:2)	Psa.43:5=Last	
 English+Hebrew	Psa.43:3	Psa.43:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 42:3.		(Hebrew=43:3 • Latin=42:3 • Greek=42:3)	Psa.43:5=Last	
@@ -9015,6 +9208,8 @@ Greek	Psa.43:24	Psa.44:23	Renumber verse	Nec. [43:24]	%Normally in this Bible th
 Greek	Psa.43:25	Psa.44:24	Renumber verse	Nec. [43:25]	%Normally in this Bible the verse numbering here is% 43:25.		(Hebrew=44:25 • Latin=43:24 • Greek=43:25)	Psa.43:27=Last	
 Greek	Psa.43:26	Psa.44:25	Renumber verse	Nec. [43:26]	%Normally in this Bible the verse numbering here is% 43:26.		(Hebrew=44:26 • Latin=43:25 • Greek=43:26)	Psa.43:27=Last	
 Greek	Psa.43:27	Psa.44:26	Renumber verse	Nec. [43:27]	%Normally in this Bible the verse numbering here is% 43:27.		(Hebrew=44:27 • Latin=43:26 • Greek=43:27)	Psa.43:27=Last	
+EngTitleSeparate	Psa.44:1.0	Psa.44:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 44:1.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Psa.44:1.1=Exist	
+EngTitleSeparate	Psa.44:1.1	Psa.44:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 44:2.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Psa.44:1.1=Exist	
 Hebrew	Psa.44:1	Psa.44:1.0	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 44:1.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Psa.44:27=Last	
 Hebrew	Psa.44:2	Psa.44:1	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 44:2.		(Hebrew=44:1-2 • Latin=43:1-2 • Greek=43:1-2)	Psa.44:27=Last	
 Hebrew	Psa.44:3	Psa.44:2	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 44:3.		(Hebrew=44:3 • Latin=43:3 • Greek=43:3)	Psa.44:27=Last	
@@ -9308,6 +9503,8 @@ Latin+Greek	Psa.48:19	Psa.49:18	Renumber verse	Nec. [48:19]	%Normally in this Bi
 Latin+Greek	Psa.48:20	Psa.49:19	Renumber verse	Nec. [48:20]	%Normally in this Bible the verse numbering here is% 48:20.		(Hebrew=49:20 • Latin=48:20 • Greek=48:20)	Psa.49:23=Last	
 Latin+Greek	Psa.48:21	Psa.49:20	Renumber verse	Nec. [48:21]	%Normally in this Bible the verse numbering here is% 48:21.		(Hebrew=49:21 • Latin=48:21 • Greek=48:21)	Psa.49:23=Last	
 
+EngTitleSeparate	Psa.50:1.0	Psa.50:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 50:1.		(Hebrew=50:1 • Latin=49:1 • Greek=49:1)	Psa.50:1.1=Exist	
+EngTitleSeparate	Psa.50:1.1	Psa.50:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 50:2.		(Hebrew=50:1 • Latin=49:1 • Greek=49:1)	Psa.50:1.1=Exist	
 English+Hebrew	Psa.50:1	Psa.50:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 49:1.		(Hebrew=50:1 • Latin=49:1 • Greek=49:1)	Psa.50:23=Last	
 English+Hebrew	Psa.50:2	Psa.50:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 49:2.		(Hebrew=50:2 • Latin=49:2 • Greek=49:2)	Psa.50:23=Last	
 English+Hebrew	Psa.50:3	Psa.50:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 49:3.		(Hebrew=50:3 • Latin=49:3 • Greek=49:3)	Psa.50:23=Last	
@@ -10022,6 +10219,8 @@ Latin+Greek	Psa.64:12	Psa.65:11	Renumber verse	Nec. [64:12]	%Normally in this Bi
 Latin+Greek	Psa.64:13	Psa.65:12	Renumber verse	Nec. [64:13]	%Normally in this Bible the verse numbering here is% 64:13.		(Hebrew=65:13 • Latin=64:13 • Greek=64:13)	Psa.65:20=Last	
 Latin+Greek	Psa.64:14	Psa.65:13	Renumber verse	Nec. [64:14]	%Normally in this Bible the verse numbering here is% 64:14.		(Hebrew=65:14 • Latin=64:14 • Greek=64:14)	Psa.65:20=Last	
 
+EngTitleSeparate	Psa.66:1.0	Psa.66:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 66:1.		(Hebrew=66:1 • Latin=65:1 • Greek=65:1)	Psa.66:1.1=Exist	
+EngTitleSeparate	Psa.66:1.1	Psa.66:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 66:2.		(Hebrew=66:1 • Latin=65:1 • Greek=65:1)	Psa.66:1.1=Exist	
 English+Hebrew	Psa.66:1	Psa.66:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 65:1.		(Hebrew=66:1 • Latin=65:1 • Greek=65:1)	Psa.66:20=Last	
 English+Hebrew	Psa.66:2	Psa.66:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 65:2.		(Hebrew=66:2 • Latin=65:2 • Greek=65:2)	Psa.66:20=Last	
 English+Hebrew	Psa.66:3	Psa.66:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 65:3.		(Hebrew=66:3 • Latin=65:3 • Greek=65:3)	Psa.66:20=Last	
@@ -10381,6 +10580,8 @@ Latin+Greek	Psa.70:22	Psa.71:22	Renumber verse	Nec. [70:22]	%Normally in this Bi
 Latin+Greek	Psa.70:23	Psa.71:23	Renumber verse	Nec. [70:23]	%Normally in this Bible the verse numbering here is% 70:23.		(Hebrew=71:23 • Latin=70:23 • Greek=70:23)	Psa.71:20=Last	
 Latin+Greek	Psa.70:24	Psa.71:24	Renumber verse	Nec. [70:24]	%Normally in this Bible the verse numbering here is% 70:24.		(Hebrew=71:24 • Latin=70:24 • Greek=70:24)	Psa.71:20=Last	
 
+EngTitleSeparate	Psa.72:1.0	Psa.72:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 72:1.		(Hebrew=72:1 • Latin=71:1 • Greek=71:1)	Psa.72:1.1=Exist	
+EngTitleSeparate	Psa.72:1.1	Psa.72:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 72:2.		(Hebrew=72:1 • Latin=71:1 • Greek=71:1)	Psa.72:1.1=Exist	
 English+Hebrew	Psa.72:1	Psa.72:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 71:1.		(Hebrew=72:1 • Latin=71:1 • Greek=71:1)	Psa.72:20=Last	
 English+Hebrew	Psa.72:2	Psa.72:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 71:2.		(Hebrew=72:2 • Latin=71:2 • Greek=71:2)	Psa.72:20=Last	
 English+Hebrew	Psa.72:3	Psa.72:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 71:3.		(Hebrew=72:3 • Latin=71:3 • Greek=71:3)	Psa.72:20=Last	
@@ -10422,6 +10623,8 @@ Latin+Greek	Psa.71:18	Psa.72:18	Renumber verse	Nec. [71:18]	%Normally in this Bi
 Latin+Greek	Psa.71:19	Psa.72:19	Renumber verse	Nec. [71:19]	%Normally in this Bible the verse numbering here is% 71:19.		(Hebrew=72:19 • Latin=71:19 • Greek=71:19)	Psa.72:28=Last	
 Latin+Greek	Psa.71:20	Psa.72:20	Renumber verse	Nec. [71:20]	%Normally in this Bible the verse numbering here is% 71:20.		(Hebrew=72:20 • Latin=71:20 • Greek=71:20)	Psa.72:28=Last	
 
+EngTitleSeparate	Psa.73:1.0	Psa.73:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 73:1.		(Hebrew=73:1 • Latin=72:1 • Greek=72:1)	Psa.73:1.1=Exist	
+EngTitleSeparate	Psa.73:1.1	Psa.73:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 73:2.		(Hebrew=73:1 • Latin=72:1 • Greek=72:1)	Psa.73:1.1=Exist	
 English+Hebrew	Psa.73:1	Psa.73:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 72:1.		(Hebrew=73:1 • Latin=72:1 • Greek=72:1)	Psa.73:28=Last	
 English+Hebrew	Psa.73:2	Psa.73:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 72:2.		(Hebrew=73:2 • Latin=72:2 • Greek=72:2)	Psa.73:28=Last	
 English+Hebrew	Psa.73:3	Psa.73:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 72:3.		(Hebrew=73:3 • Latin=72:3 • Greek=72:3)	Psa.73:28=Last	
@@ -10479,6 +10682,8 @@ Latin+Greek	Psa.72:26	Psa.73:26	Renumber verse	Nec. [72:26]	%Normally in this Bi
 Latin+Greek	Psa.72:27	Psa.73:27	Renumber verse	Nec. [72:27]	%Normally in this Bible the verse numbering here is% 72:27.		(Hebrew=73:27 • Latin=72:27 • Greek=72:27)	Psa.73:23=Last	
 Latin+Greek	Psa.72:28	Psa.73:28	Renumber verse	Nec. [72:28]	%Normally in this Bible the verse numbering here is% 72:28.		(Hebrew=73:28 • Latin=72:28 • Greek=72:28)	Psa.73:23=Last	
 
+EngTitleSeparate	Psa.74:1.0	Psa.74:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 74:1.		(Hebrew=74:1 • Latin=73:1 • Greek=73:1)	Psa.74:1.1=Exist	
+EngTitleSeparate	Psa.74:1.1	Psa.74:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 74:2.		(Hebrew=74:1 • Latin=73:1 • Greek=73:1)	Psa.74:1.1=Exist	
 English+Hebrew	Psa.74:1	Psa.74:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 73:1.		(Hebrew=74:1 • Latin=73:1 • Greek=73:1)	Psa.74:23=Last	
 English+Hebrew	Psa.74:2	Psa.74:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 73:2.		(Hebrew=74:2 • Latin=73:2 • Greek=73:2)	Psa.74:23=Last	
 English+Hebrew	Psa.74:3	Psa.74:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 73:3.		(Hebrew=74:3 • Latin=73:3 • Greek=73:3)	Psa.74:23=Last	
@@ -10667,6 +10872,8 @@ Latin+Greek	Psa.76:19	Psa.77:18	Renumber verse	Nec. [76:19]	%Normally in this Bi
 Latin+Greek	Psa.76:20	Psa.77:19	Renumber verse	Nec. [76:20]	%Normally in this Bible the verse numbering here is% 76:20.		(Hebrew=77:20 • Latin=76:20 • Greek=76:20)	Psa.77:72=Last	
 Latin+Greek	Psa.76:21	Psa.77:20	Renumber verse	Nec. [76:21]	%Normally in this Bible the verse numbering here is% 76:21.		(Hebrew=77:21 • Latin=76:21 • Greek=76:21)	Psa.77:72=Last	
 
+EngTitleSeparate	Psa.78:1.0	Psa.78:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 78:1.		(Hebrew=78:1 • Latin=77:1 • Greek=77:1)	Psa.78:1.1=Exist	
+EngTitleSeparate	Psa.78:1.1	Psa.78:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 78:2.		(Hebrew=78:1 • Latin=77:1 • Greek=77:1)	Psa.78:1.1=Exist	
 English+Hebrew	Psa.78:1	Psa.78:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 77:1.		(Hebrew=78:1 • Latin=77:1 • Greek=77:1)	Psa.78:72=Last	
 English+Hebrew	Psa.78:2	Psa.78:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 77:2.		(Hebrew=78:2 • Latin=77:2 • Greek=77:2)	Psa.78:72=Last	
 English+Hebrew	Psa.78:3	Psa.78:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 77:3.		(Hebrew=78:3 • Latin=77:3 • Greek=77:3)	Psa.78:72=Last	
@@ -10812,6 +11019,8 @@ Latin+Greek	Psa.77:70	Psa.78:70	Renumber verse	Nec. [77:70]	%Normally in this Bi
 Latin+Greek	Psa.77:71	Psa.78:71	Renumber verse	Nec. [77:71]	%Normally in this Bible the verse numbering here is% 77:71.		(Hebrew=78:71 • Latin=77:71 • Greek=77:71)	Psa.78:13=Last	
 Latin+Greek	Psa.77:72	Psa.78:72	Renumber verse	Nec. [77:72]	%Normally in this Bible the verse numbering here is% 77:72.		(Hebrew=78:72 • Latin=77:72 • Greek=77:72)	Psa.78:13=Last	
 
+EngTitleSeparate	Psa.79:1.0	Psa.79:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 79:1.		(Hebrew=79:1 • Latin=78:1 • Greek=78:1)	Psa.79:1.1=Exist	
+EngTitleSeparate	Psa.79:1.1	Psa.79:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 79:2.		(Hebrew=79:1 • Latin=78:1 • Greek=78:1)	Psa.79:1.1=Exist	
 English+Hebrew	Psa.79:1	Psa.79:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 78:1.		(Hebrew=79:1 • Latin=78:1 • Greek=78:1)	Psa.79:13=Last	
 English+Hebrew	Psa.79:2	Psa.79:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 78:2.		(Hebrew=79:2 • Latin=78:2 • Greek=78:2)	Psa.79:13=Last	
 English+Hebrew	Psa.79:3	Psa.79:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 78:3.		(Hebrew=79:3 • Latin=78:3 • Greek=78:3)	Psa.79:13=Last	
@@ -10954,6 +11163,8 @@ Latin+Greek	Psa.80:15	Psa.81:14	Renumber verse	Nec. [80:15]	%Normally in this Bi
 Latin+Greek	Psa.80:16	Psa.81:15	Renumber verse	Nec. [80:16]	%Normally in this Bible the verse numbering here is% 80:16.		(Hebrew=81:16 • Latin=80:16 • Greek=80:16)	Psa.81:8=Last	
 Latin+Greek	Psa.80:17	Psa.81:16	Renumber verse	Nec. [80:17]	%Normally in this Bible the verse numbering here is% 80:17.		(Hebrew=81:17 • Latin=80:17 • Greek=80:17)	Psa.81:8=Last	
 
+EngTitleSeparate	Psa.82:1.0	Psa.82:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 82:1.		(Hebrew=82:1 • Latin=81:1 • Greek=81:1)	Psa.82:1.1=Exist	
+EngTitleSeparate	Psa.82:1.1	Psa.82:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 82:2.		(Hebrew=82:1 • Latin=81:1 • Greek=81:1)	Psa.82:1.1=Exist	
 English+Hebrew	Psa.82:1	Psa.82:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 81:1.		(Hebrew=82:1 • Latin=81:1 • Greek=81:1)	Psa.82:8=Last	
 English+Hebrew	Psa.82:2	Psa.82:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 81:2.		(Hebrew=82:2 • Latin=81:2 • Greek=81:2)	Psa.82:8=Last	
 English+Hebrew	Psa.82:3	Psa.82:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 81:3.		(Hebrew=82:3 • Latin=81:3 • Greek=81:3)	Psa.82:8=Last	
@@ -11115,6 +11326,8 @@ Latin+Greek	Psa.84:12	Psa.85:11	Renumber verse	Nec. [84:12]	%Normally in this Bi
 Latin+Greek	Psa.84:13	Psa.85:12	Renumber verse	Nec. [84:13]	%Normally in this Bible the verse numbering here is% 84:13.		(Hebrew=85:13 • Latin=84:13 • Greek=84:13)	Psa.85:17=Last	
 Latin+Greek	Psa.84:14	Psa.85:13	Renumber verse	Nec. [84:14]	%Normally in this Bible the verse numbering here is% 84:14.		(Hebrew=85:14 • Latin=84:14 • Greek=84:14)	Psa.85:17=Last	
 
+EngTitleSeparate	Psa.86:1.0	Psa.86:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 86:1.		(Hebrew=86:1 • Latin=85:1 • Greek=85:1)	Psa.86:1.1=Exist	
+EngTitleSeparate	Psa.86:1.1	Psa.86:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 86:2.		(Hebrew=86:1 • Latin=85:1 • Greek=85:1)	Psa.86:1.1=Exist	
 English+Hebrew	Psa.86:1	Psa.86:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 85:1.		(Hebrew=86:1 • Latin=85:1 • Greek=85:1)	Psa.86:17=Last	
 English+Hebrew	Psa.86:2	Psa.86:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 85:2.		(Hebrew=86:2 • Latin=85:2 • Greek=85:2)	Psa.86:17=Last	
 English+Hebrew	Psa.86:3	Psa.86:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 85:3.		(Hebrew=86:3 • Latin=85:3 • Greek=85:3)	Psa.86:17=Last	
@@ -11150,6 +11363,8 @@ Latin+Greek	Psa.85:15	Psa.86:15	Renumber verse	Nec. [85:15]	%Normally in this Bi
 Latin+Greek	Psa.85:16	Psa.86:16	Renumber verse	Nec. [85:16]	%Normally in this Bible the verse numbering here is% 85:16.		(Hebrew=86:16 • Latin=85:16 • Greek=85:16)	Psa.86:7=Last	
 Latin+Greek	Psa.85:17	Psa.86:17	Renumber verse	Nec. [85:17]	%Normally in this Bible the verse numbering here is% 85:17.		(Hebrew=86:17 • Latin=85:17 • Greek=85:17)	Psa.86:7=Last	
 
+EngTitleSeparate	Psa.87:1.0	Psa.87:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 87:1.		(Hebrew=87:1 • Latin=86:1 • Greek=86:1)	Psa.87:1.1=Exist	
+EngTitleSeparate	Psa.87:1.1	Psa.87:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 87:2.		(Hebrew=87:1 • Latin=86:1 • Greek=86:1)	Psa.87:1.1=Exist	
 English+Hebrew	Psa.87:1	Psa.87:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 86:1.		(Hebrew=87:1 • Latin=86:1 • Greek=86:1)	Psa.87:7=Last	
 English+Hebrew	Psa.87:2	Psa.87:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 86:2.		(Hebrew=87:2 • Latin=86:2 • Greek=86:2)	Psa.87:7=Last	
 English+Hebrew	Psa.87:3	Psa.87:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 86:3.		(Hebrew=87:3 • Latin=86:3 • Greek=86:3)	Psa.87:7=Last	
@@ -11385,6 +11600,8 @@ Latin+Greek	Psa.88:51	Psa.89:50	Renumber verse	Nec. [88:51]	%Normally in this Bi
 Latin+Greek	Psa.88:52	Psa.89:51	Renumber verse	Nec. [88:52]	%Normally in this Bible the verse numbering here is% 88:52.		(Hebrew=89:52 • Latin=88:52 • Greek=88:52)	Psa.89:17=Last	
 Latin+Greek	Psa.88:53	Psa.89:52	Renumber verse	Nec. [88:53]	%Normally in this Bible the verse numbering here is% 88:53.		(Hebrew=89:53 • Latin=88:53 • Greek=88:53)	Psa.89:17=Last	
 
+EngTitleSeparate	Psa.90:1.0	Psa.90:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 90:1.		(Hebrew=90:1 • Latin=89:1 • Greek=89:1)	Psa.90:1.1=Exist	
+EngTitleSeparate	Psa.90:1.1	Psa.90:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 90:2.		(Hebrew=90:1 • Latin=89:1 • Greek=89:1)	Psa.90:1.1=Exist	
 English+Hebrew	Psa.90:1	Psa.90:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 89:1.		(Hebrew=90:1 • Latin=89:1 • Greek=89:1)	Psa.90:17=Last	
 English+Hebrew	Psa.90:2	Psa.90:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 89:2.		(Hebrew=90:2 • Latin=89:2 • Greek=89:2)	Psa.90:17=Last	
 English+Hebrew	Psa.90:3	Psa.90:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 89:3.		(Hebrew=90:3 • Latin=89:3 • Greek=89:3)	Psa.90:17=Last	
@@ -11636,6 +11853,8 @@ Latin+Greek	Psa.96:10	Psa.97:10	Renumber verse	Nec. [96:10]	%Normally in this Bi
 Latin+Greek	Psa.96:11	Psa.97:11	Renumber verse	Nec. [96:11]	%Normally in this Bible the verse numbering here is% 96:11.		(Hebrew=97:11 • Latin=96:11 • Greek=96:11)	Psa.97:9=Last	
 Latin+Greek	Psa.96:12	Psa.97:12	Renumber verse	Nec. [96:12]	%Normally in this Bible the verse numbering here is% 96:12.		(Hebrew=97:12 • Latin=96:12 • Greek=96:12)	Psa.97:9=Last	
 
+EngTitleSeparate	Psa.98:1.0	Psa.98:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 98:1.		(Hebrew=98:1 • Latin=97:1 • Greek=97:1)	Psa.98:1.1=Exist	
+EngTitleSeparate	Psa.98:1.1	Psa.98:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 98:2.		(Hebrew=98:1 • Latin=97:1 • Greek=97:1)	Psa.98:1.1=Exist	
 English+Hebrew	Psa.98:1	Psa.98:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 97:1.		(Hebrew=98:1 • Latin=97:1 • Greek=97:1)	Psa.99:9=Last	
 English+Hebrew	Psa.98:2	Psa.98:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 97:2.		(Hebrew=98:2 • Latin=97:2 • Greek=97:2)	Psa.99:9=Last	
 English+Hebrew	Psa.98:3	Psa.98:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 97:3.		(Hebrew=98:3 • Latin=97:3 • Greek=97:3)	Psa.99:9=Last	
@@ -11674,6 +11893,8 @@ Latin+Greek	Psa.98:7	Psa.99:7	Renumber verse	Nec. [98:7]	%Normally in this Bible
 Latin+Greek	Psa.98:8	Psa.99:8	Renumber verse	Nec. [98:8]	%Normally in this Bible the verse numbering here is% 98:8.		(Hebrew=99:8 • Latin=98:8 • Greek=98:8)	Psa.99:5=Last	
 Latin+Greek	Psa.98:9	Psa.99:9	Renumber verse	Nec. [98:9]	%Normally in this Bible the verse numbering here is% 98:9.		(Hebrew=99:9 • Latin=98:9 • Greek=98:9)	Psa.99:5=Last	
 
+EngTitleSeparate	Psa.100:1.0	Psa.100:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 100:1.		(Hebrew=100:1 • Latin=99:1 • Greek=99:1)	Psa.100:1.1=Exist	
+EngTitleSeparate	Psa.100:1.1	Psa.100:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 100:2.		(Hebrew=100:1 • Latin=99:1 • Greek=99:1)	Psa.100:1.1=Exist	
 English+Hebrew	Psa.100:1	Psa.100:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 99:1.		(Hebrew=100:1 • Latin=99:1 • Greek=99:1)	Psa.100:5=Last	
 English+Hebrew	Psa.100:2	Psa.100:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 99:2.		(Hebrew=100:2 • Latin=99:2 • Greek=99:2)	Psa.100:5=Last	
 English+Hebrew	Psa.100:3	Psa.100:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 99:3.		(Hebrew=100:3 • Latin=99:3 • Greek=99:3)	Psa.100:5=Last	
@@ -11685,6 +11906,8 @@ Latin+Greek	Psa.99:3	Psa.100:3	Renumber verse	Nec. [99:3]	%Normally in this Bibl
 Latin+Greek	Psa.99:4	Psa.100:4	Renumber verse	Nec. [99:4]	%Normally in this Bible the verse numbering here is% 99:4.		(Hebrew=100:4 • Latin=99:4 • Greek=99:4)	Psa.100:8=Last	
 Latin+Greek	Psa.99:5	Psa.100:5	Renumber verse	Nec. [99:5]	%Normally in this Bible the verse numbering here is% 99:5.		(Hebrew=100:5 • Latin=99:5 • Greek=99:5)	Psa.100:8=Last	
 
+EngTitleSeparate	Psa.101:1.0	Psa.101:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 101:1.		(Hebrew=101:1 • Latin=100:1 • Greek=100:1)	Psa.101:1.1=Exist	
+EngTitleSeparate	Psa.101:1.1	Psa.101:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 101:2.		(Hebrew=101:1 • Latin=100:1 • Greek=100:1)	Psa.101:1.1=Exist	
 English+Hebrew	Psa.101:1	Psa.101:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 100:1.		(Hebrew=101:1 • Latin=100:1 • Greek=100:1)	Psa.101:8=Last	
 English+Hebrew	Psa.101:2	Psa.101:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 100:2.		(Hebrew=101:2 • Latin=100:2 • Greek=100:2)	Psa.101:8=Last	
 English+Hebrew	Psa.101:3	Psa.101:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 100:3.		(Hebrew=101:3 • Latin=100:3 • Greek=100:3)	Psa.101:8=Last	
@@ -11791,6 +12014,8 @@ Latin+Greek	Psa.101:27	Psa.102:26	Renumber verse	Nec. [101:27]	%Normally in this
 Latin+Greek	Psa.101:28	Psa.102:27	Renumber verse	Nec. [101:28]	%Normally in this Bible the verse numbering here is% 101:28.		(Hebrew=102:28 • Latin=101:28 • Greek=101:28)	Psa.102:22=Last	
 Latin+Greek	Psa.101:29	Psa.102:28	Renumber verse	Nec. [101:29]	%Normally in this Bible the verse numbering here is% 101:29.		(Hebrew=102:29 • Latin=101:29 • Greek=101:29)	Psa.102:22=Last	
 
+EngTitleSeparate	Psa.103:1.0	Psa.103:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 103:1.		(Hebrew=103:1 • Latin=102:1 • Greek=102:1)	Psa.103:1.1=Exist	
+EngTitleSeparate	Psa.103:1.1	Psa.103:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 103:2.		(Hebrew=103:1 • Latin=102:1 • Greek=102:1)	Psa.103:1.1=Exist	
 English+Hebrew	Psa.103:1	Psa.103:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 102:1.		(Hebrew=103:1 • Latin=102:1 • Greek=102:1)	Psa.103:22=Last	
 English+Hebrew	Psa.103:2	Psa.103:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 102:2.		(Hebrew=103:2 • Latin=102:2 • Greek=102:2)	Psa.103:22=Last	
 English+Hebrew	Psa.103:3	Psa.103:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 102:3.		(Hebrew=103:3 • Latin=102:3 • Greek=102:3)	Psa.103:22=Last	
@@ -12226,6 +12451,8 @@ Latin+Greek	Psa.107:12	Psa.108:11	Renumber verse	Nec. [107:12]	%Normally in this
 Latin+Greek	Psa.107:13	Psa.108:12	Renumber verse	Nec. [107:13]	%Normally in this Bible the verse numbering here is% 107:13.		(Hebrew=108:13 • Latin=107:13 • Greek=107:13)	Psa.108:31=Last	
 Latin+Greek	Psa.107:14	Psa.108:13	Renumber verse	Nec. [107:14]	%Normally in this Bible the verse numbering here is% 107:14.		(Hebrew=108:14 • Latin=107:14 • Greek=107:14)	Psa.108:31=Last	
 
+EngTitleSeparate	Psa.109:1.0	Psa.109:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 109:1.		(Hebrew=109:1 • Latin=108:1 • Greek=108:1)	Psa.109:1.1=Exist	
+EngTitleSeparate	Psa.109:1.1	Psa.109:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 109:2.		(Hebrew=109:1 • Latin=108:1 • Greek=108:1)	Psa.109:1.1=Exist	
 English+Hebrew	Psa.109:1	Psa.109:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 108:1.		(Hebrew=109:1 • Latin=108:1 • Greek=108:1)	Psa.109:31=Last	
 English+Hebrew	Psa.109:2	Psa.109:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 108:2.		(Hebrew=109:2 • Latin=108:2 • Greek=108:2)	Psa.109:31=Last	
 English+Hebrew	Psa.109:3	Psa.109:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 108:3.		(Hebrew=109:3 • Latin=108:3 • Greek=108:3)	Psa.109:31=Last	
@@ -12289,6 +12516,8 @@ Latin+Greek	Psa.108:29	Psa.109:29	Renumber verse	Nec. [108:29]	%Normally in this
 Latin+Greek	Psa.108:30	Psa.109:30	Renumber verse	Nec. [108:30]	%Normally in this Bible the verse numbering here is% 108:30.		(Hebrew=109:30 • Latin=108:30 • Greek=108:30)	Psa.109:7=Last	
 Latin+Greek	Psa.108:31	Psa.109:31	Renumber verse	Nec. [108:31]	%Normally in this Bible the verse numbering here is% 108:31.		(Hebrew=109:31 • Latin=108:31 • Greek=108:31)	Psa.109:7=Last	
 
+EngTitleSeparate	Psa.110:1.0	Psa.110:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 110:1.		(Hebrew=110:1 • Latin=109:1 • Greek=109:1)	Psa.110:1.1=Exist	
+EngTitleSeparate	Psa.110:1.1	Psa.110:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 110:2.		(Hebrew=110:1 • Latin=109:1 • Greek=109:1)	Psa.110:1.1=Exist	
 English+Hebrew	Psa.110:1	Psa.110:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 109:1.		(Hebrew=110:1 • Latin=109:1 • Greek=109:1)	Psa.110:7=Last	
 English+Hebrew	Psa.110:2	Psa.110:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 109:2.		(Hebrew=110:2 • Latin=109:2 • Greek=109:2)	Psa.110:7=Last	
 English+Hebrew	Psa.110:3	Psa.110:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 109:3.		(Hebrew=110:3 • Latin=109:3 • Greek=109:3)	Psa.110:7=Last	
@@ -12875,6 +13104,8 @@ Latin+Greek	Psa.118:174	Psa.119:174	Renumber verse	Nec. [118:174]	%Normally in t
 Latin+Greek	Psa.118:175	Psa.119:175	Renumber verse	Nec. [118:175]	%Normally in this Bible the verse numbering here is% 118:175.		(Hebrew=119:175 • Latin=118:175 • Greek=118:175)	Psa.119:7=Last	
 Latin+Greek	Psa.118:176	Psa.119:176	Renumber verse	Nec. [118:176]	%Normally in this Bible the verse numbering here is% 118:176.		(Hebrew=119:176 • Latin=118:176 • Greek=118:176)	Psa.119:7=Last	
 
+EngTitleSeparate	Psa.120:1.0	Psa.120:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 120:1.		(Hebrew=120:1 • Latin=119:1 • Greek=119:1)	Psa.120:1.1=Exist	
+EngTitleSeparate	Psa.120:1.1	Psa.120:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 120:2.		(Hebrew=120:1 • Latin=119:1 • Greek=119:1)	Psa.120:1.1=Exist	
 English+Hebrew	Psa.120:1	Psa.120:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 119:1.		(Hebrew=120:1 • Latin=119:1 • Greek=119:1)	Psa.120:7=Last	
 English+Hebrew	Psa.120:2	Psa.120:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 119:2.		(Hebrew=120:2 • Latin=119:2 • Greek=119:2)	Psa.120:7=Last	
 English+Hebrew	Psa.120:3	Psa.120:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 119:3.		(Hebrew=120:3 • Latin=119:3 • Greek=119:3)	Psa.120:7=Last	
@@ -12890,6 +13121,8 @@ Latin+Greek	Psa.119:5	Psa.120:5	Renumber verse	Nec. [119:5]	%Normally in this Bi
 Latin+Greek	Psa.119:6	Psa.120:6	Renumber verse	Nec. [119:6]	%Normally in this Bible the verse numbering here is% 119:6.		(Hebrew=120:6 • Latin=119:6 • Greek=119:6)	Psa.120:8=Last	
 Latin+Greek	Psa.119:7	Psa.120:7	Renumber verse	Nec. [119:7]	%Normally in this Bible the verse numbering here is% 119:7.		(Hebrew=120:7 • Latin=119:7 • Greek=119:7)	Psa.120:8=Last	
 
+EngTitleSeparate	Psa.121:1.0	Psa.121:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 121:1.		(Hebrew=121:1 • Latin=120:1 • Greek=120:1)	Psa.121:1.1=Exist	
+EngTitleSeparate	Psa.121:1.1	Psa.121:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 121:2.		(Hebrew=121:1 • Latin=120:1 • Greek=120:1)	Psa.121:1.1=Exist	
 English+Hebrew	Psa.121:1	Psa.121:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 120:1.		(Hebrew=121:1 • Latin=120:1 • Greek=120:1)	Psa.121:8=Last	
 English+Hebrew	Psa.121:2	Psa.121:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 120:2.		(Hebrew=121:2 • Latin=120:2 • Greek=120:2)	Psa.121:8=Last	
 English+Hebrew	Psa.121:3	Psa.121:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 120:3.		(Hebrew=121:3 • Latin=120:3 • Greek=120:3)	Psa.121:8=Last	
@@ -12907,6 +13140,8 @@ Latin+Greek	Psa.120:6	Psa.121:6	Renumber verse	Nec. [120:6]	%Normally in this Bi
 Latin+Greek	Psa.120:7	Psa.121:7	Renumber verse	Nec. [120:7]	%Normally in this Bible the verse numbering here is% 120:7.		(Hebrew=121:7 • Latin=120:7 • Greek=120:7)	Psa.121:9=Last	
 Latin+Greek	Psa.120:8	Psa.121:8	Renumber verse	Nec. [120:8]	%Normally in this Bible the verse numbering here is% 120:8.		(Hebrew=121:8 • Latin=120:8 • Greek=120:8)	Psa.121:9=Last	
 
+EngTitleSeparate	Psa.122:1.0	Psa.122:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 122:1.		(Hebrew=122:1 • Latin=121:1 • Greek=121:1)	Psa.122:1.1=Exist	
+EngTitleSeparate	Psa.122:1.1	Psa.122:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 122:2.		(Hebrew=122:1 • Latin=121:1 • Greek=121:1)	Psa.122:1.1=Exist	
 English+Hebrew	Psa.122:1	Psa.122:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 121:1.		(Hebrew=122:1 • Latin=121:1 • Greek=121:1)	Psa.122:9=Last	
 English+Hebrew	Psa.122:2	Psa.122:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 121:2.		(Hebrew=122:2 • Latin=121:2 • Greek=121:2)	Psa.122:9=Last	
 English+Hebrew	Psa.122:3	Psa.122:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 121:3.		(Hebrew=122:3 • Latin=121:3 • Greek=121:3)	Psa.122:9=Last	
@@ -12926,6 +13161,8 @@ Latin+Greek	Psa.121:7	Psa.122:7	Renumber verse	Nec. [121:7]	%Normally in this Bi
 Latin+Greek	Psa.121:8	Psa.122:8	Renumber verse	Nec. [121:8]	%Normally in this Bible the verse numbering here is% 121:8.		(Hebrew=122:8 • Latin=121:8 • Greek=121:8)	Psa.122:4=Last	
 Latin+Greek	Psa.121:9	Psa.122:9	Renumber verse	Nec. [121:9]	%Normally in this Bible the verse numbering here is% 121:9.		(Hebrew=122:9 • Latin=121:9 • Greek=121:9)	Psa.122:4=Last	
 
+EngTitleSeparate	Psa.123:1.0	Psa.123:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 123:1.		(Hebrew=123:1 • Latin=122:1 • Greek=122:1)	Psa.123:1.1=Exist	
+EngTitleSeparate	Psa.123:1.1	Psa.123:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 123:2.		(Hebrew=123:1 • Latin=122:1 • Greek=122:1)	Psa.123:1.1=Exist	
 English+Hebrew	Psa.123:1	Psa.123:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 122:1.		(Hebrew=123:1 • Latin=122:1 • Greek=122:1)	Psa.123:4=Last	
 English+Hebrew	Psa.123:2	Psa.123:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 122:2.		(Hebrew=123:2 • Latin=122:2 • Greek=122:2)	Psa.123:4=Last	
 English+Hebrew	Psa.123:3	Psa.123:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 122:3.		(Hebrew=123:3 • Latin=122:3 • Greek=122:3)	Psa.123:4=Last	
@@ -12935,6 +13172,8 @@ Latin+Greek	Psa.122:2	Psa.123:2	Renumber verse	Nec. [122:2]	%Normally in this Bi
 Latin+Greek	Psa.122:3	Psa.123:3	Renumber verse	Nec. [122:3]	%Normally in this Bible the verse numbering here is% 122:3.		(Hebrew=123:3 • Latin=122:3 • Greek=122:3)	Psa.123:8=Last	
 Latin+Greek	Psa.122:4	Psa.123:4	Renumber verse	Nec. [122:4]	%Normally in this Bible the verse numbering here is% 122:4.		(Hebrew=123:4 • Latin=122:4 • Greek=122:4)	Psa.123:8=Last	
 
+EngTitleSeparate	Psa.124:1.0	Psa.124:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 124:1.		(Hebrew=124:1 • Latin=123:1 • Greek=123:1)	Psa.124:1.1=Exist	
+EngTitleSeparate	Psa.124:1.1	Psa.124:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 124:2.		(Hebrew=124:1 • Latin=123:1 • Greek=123:1)	Psa.124:1.1=Exist	
 English+Hebrew	Psa.124:1	Psa.124:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 123:1.		(Hebrew=124:1 • Latin=123:1 • Greek=123:1)	Psa.124:8=Last	
 English+Hebrew	Psa.124:2	Psa.124:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 123:2.		(Hebrew=124:2 • Latin=123:2 • Greek=123:2)	Psa.124:8=Last	
 English+Hebrew	Psa.124:3	Psa.124:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 123:3.		(Hebrew=124:3 • Latin=123:3 • Greek=123:3)	Psa.124:8=Last	
@@ -12952,6 +13191,8 @@ Latin+Greek	Psa.123:6	Psa.124:6	Renumber verse	Nec. [123:6]	%Normally in this Bi
 Latin+Greek	Psa.123:7	Psa.124:7	Renumber verse	Nec. [123:7]	%Normally in this Bible the verse numbering here is% 123:7.		(Hebrew=124:7 • Latin=123:7 • Greek=123:7)	Psa.124:5=Last	
 Latin+Greek	Psa.123:8	Psa.124:8	Renumber verse	Nec. [123:8]	%Normally in this Bible the verse numbering here is% 123:8.		(Hebrew=124:8 • Latin=123:8 • Greek=123:8)	Psa.124:5=Last	
 
+EngTitleSeparate	Psa.125:1.0	Psa.125:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 125:1.		(Hebrew=125:1 • Latin=124:1 • Greek=124:1)	Psa.125:1.1=Exist	
+EngTitleSeparate	Psa.125:1.1	Psa.125:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 125:2.		(Hebrew=125:1 • Latin=124:1 • Greek=124:1)	Psa.125:1.1=Exist	
 English+Hebrew	Psa.125:1	Psa.125:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 124:1.		(Hebrew=125:1 • Latin=124:1 • Greek=124:1)	Psa.125:5=Last	
 English+Hebrew	Psa.125:2	Psa.125:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 124:2.		(Hebrew=125:2 • Latin=124:2 • Greek=124:2)	Psa.125:5=Last	
 English+Hebrew	Psa.125:3	Psa.125:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 124:3.		(Hebrew=125:3 • Latin=124:3 • Greek=124:3)	Psa.125:5=Last	
@@ -12968,6 +13209,8 @@ Latin	Psa.124:3	Psa.125:3	Renumber verse	Nec. [124:3]	%Normally in this Bible th
 Latin	Psa.124:4	Psa.125:4	Renumber verse	Nec. [124:4]	%Normally in this Bible the verse numbering here is% 124:4.		(Hebrew=125:4 • Latin=124:4 • Greek=124:4)	Psa.125:7=Last	
 Latin	Psa.124:5	Psa.125:5	Renumber verse	Nec. [124:5]	%Normally in this Bible the verse numbering here is% 124:5.		(Hebrew=125:5 • Latin=124:5 • Greek=124:5)	Psa.125:7=Last	
 
+EngTitleSeparate	Psa.126:1.0	Psa.126:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 126:1.		(Hebrew=126:1 • Latin=125:1 • Greek=125:1)	Psa.126:1.1=Exist	
+EngTitleSeparate	Psa.126:1.1	Psa.126:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 126:2.		(Hebrew=126:1 • Latin=125:1 • Greek=125:1)	Psa.126:1.1=Exist	
 English+Hebrew	Psa.126:1	Psa.126:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 125:1.		(Hebrew=126:1 • Latin=125:1 • Greek=125:1)	Psa.126:6=Last	
 English+Hebrew	Psa.126:2	Psa.126:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 125:2.		(Hebrew=126:2 • Latin=125:2 • Greek=125:2)	Psa.126:6=Last	
 English+Hebrew	Psa.126:3	Psa.126:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 125:3.		(Hebrew=126:3 • Latin=125:3 • Greek=125:3)	Psa.126:6=Last	
@@ -12988,6 +13231,8 @@ Latin	Psa.125:5	Psa.126:5	Renumber verse	Nec. [125:5]	%Normally in this Bible th
 Latin	Psa.125:6	Psa.126:6	Renumber verse	Nec. [125:6]	%Normally in this Bible the verse numbering here is% 125:6.		(Hebrew=126:6 • Latin=125:6-7 • Greek=125:6)	Psa.125:7=Last	
 Latin	Psa.125:7	Psa.126:6.2	Renumber verse	Nec. [125:7]	%Normally in this Bible the verse numbering here is% 125:7.		(Hebrew=126:6 • Latin=125:6-7 • Greek=125:6)	Psa.125:7=Last	
 
+EngTitleSeparate	Psa.127:1.0	Psa.127:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 127:1.		(Hebrew=127:1 • Latin=126:1 • Greek=126:1)	Psa.127:1.1=Exist	
+EngTitleSeparate	Psa.127:1.1	Psa.127:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 127:2.		(Hebrew=127:1 • Latin=126:1 • Greek=126:1)	Psa.127:1.1=Exist	
 English+Hebrew	Psa.127:1	Psa.127:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 126:1.		(Hebrew=127:1 • Latin=126:1 • Greek=126:1)	Psa.127:5=Last	
 English+Hebrew	Psa.127:2	Psa.127:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 126:2.		(Hebrew=127:2 • Latin=126:2 • Greek=126:2)	Psa.127:5=Last	
 English+Hebrew	Psa.127:3	Psa.127:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 126:3.		(Hebrew=127:3 • Latin=126:3 • Greek=126:3)	Psa.127:5=Last	
@@ -12999,6 +13244,8 @@ Latin+Greek	Psa.126:3	Psa.127:3	Renumber verse	Nec. [126:3]	%Normally in this Bi
 Latin+Greek	Psa.126:4	Psa.127:4	Renumber verse	Nec. [126:4]	%Normally in this Bible the verse numbering here is% 126:4.		(Hebrew=127:4 • Latin=126:4 • Greek=126:4)	Psa.127:6=Last	
 Latin+Greek	Psa.126:5	Psa.127:5	Renumber verse	Nec. [126:5]	%Normally in this Bible the verse numbering here is% 126:5.		(Hebrew=127:5 • Latin=126:5 • Greek=126:5)	Psa.127:6=Last	
 
+EngTitleSeparate	Psa.128:1.0	Psa.128:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 128:1.		(Hebrew=128:1 • Latin=127:1 • Greek=127:1)	Psa.128:1.1=Exist	
+EngTitleSeparate	Psa.128:1.1	Psa.128:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 128:2.		(Hebrew=128:1 • Latin=127:1 • Greek=127:1)	Psa.128:1.1=Exist	
 English+Hebrew	Psa.128:1	Psa.128:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 127:1.		(Hebrew=128:1 • Latin=127:1 • Greek=127:1)	Psa.128:6=Last	
 English+Hebrew	Psa.128:2	Psa.128:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 127:2.		(Hebrew=128:2 • Latin=127:2 • Greek=127:2)	Psa.128:6=Last	
 English+Hebrew	Psa.128:3	Psa.128:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 127:3.		(Hebrew=128:3 • Latin=127:3 • Greek=127:3)	Psa.128:6=Last	
@@ -13012,6 +13259,8 @@ Latin+Greek	Psa.127:4	Psa.128:4	Renumber verse	Nec. [127:4]	%Normally in this Bi
 Latin+Greek	Psa.127:5	Psa.128:5	Renumber verse	Nec. [127:5]	%Normally in this Bible the verse numbering here is% 127:5.		(Hebrew=128:5 • Latin=127:5 • Greek=127:5)	Psa.128:8=Last	
 Latin+Greek	Psa.127:6	Psa.128:6	Renumber verse	Nec. [127:6]	%Normally in this Bible the verse numbering here is% 127:6.		(Hebrew=128:6 • Latin=127:6 • Greek=127:6)	Psa.128:8=Last	
 
+EngTitleSeparate	Psa.129:1.0	Psa.129:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 129:1.		(Hebrew=129:1 • Latin=128:1 • Greek=128:1)	Psa.129:1.1=Exist	
+EngTitleSeparate	Psa.129:1.1	Psa.129:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 129:2.		(Hebrew=129:1 • Latin=128:1 • Greek=128:1)	Psa.129:1.1=Exist	
 English+Hebrew	Psa.129:1	Psa.129:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 128:1.		(Hebrew=129:1 • Latin=128:1 • Greek=128:1)	Psa.130:8=Last	
 English+Hebrew	Psa.129:2	Psa.129:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 128:2.		(Hebrew=129:2 • Latin=128:2 • Greek=128:2)	Psa.130:8=Last	
 English+Hebrew	Psa.129:3	Psa.129:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 128:3.		(Hebrew=129:3 • Latin=128:3 • Greek=128:3)	Psa.130:8=Last	
@@ -13029,6 +13278,8 @@ Latin+Greek	Psa.128:6	Psa.129:6	Renumber verse	Nec. [128:6]	%Normally in this Bi
 Latin+Greek	Psa.128:7	Psa.129:7	Renumber verse	Nec. [128:7]	%Normally in this Bible the verse numbering here is% 128:7.		(Hebrew=129:7 • Latin=128:7 • Greek=128:7)	Psa.130:3=Last	
 Latin+Greek	Psa.128:8	Psa.129:8	Renumber verse	Nec. [128:8]	%Normally in this Bible the verse numbering here is% 128:8.		(Hebrew=129:8 • Latin=128:8 • Greek=128:8)	Psa.130:3=Last	
 
+EngTitleSeparate	Psa.130:1.0	Psa.130:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 130:1.		(Hebrew=130:1 • Latin=129:1 • Greek=129:1)	Psa.130:1.1=Exist	
+EngTitleSeparate	Psa.130:1.1	Psa.130:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 130:2.		(Hebrew=130:1 • Latin=129:1 • Greek=129:1)	Psa.130:1.1=Exist	
 English+Hebrew	Psa.130:1	Psa.130:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 129:1.		(Hebrew=130:1 • Latin=129:1 • Greek=129:1)	Psa.130:8=Last	
 English+Hebrew	Psa.130:2	Psa.130:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 129:2.		(Hebrew=130:2 • Latin=129:2 • Greek=129:2)	Psa.130:8=Last	
 English+Hebrew	Psa.130:3	Psa.130:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 129:3.		(Hebrew=130:3 • Latin=129:3 • Greek=129:3)	Psa.130:8=Last	
@@ -13046,6 +13297,8 @@ Latin+Greek	Psa.129:6	Psa.130:6	Renumber verse	Nec. [129:6]	%Normally in this Bi
 Latin+Greek	Psa.129:7	Psa.130:7	Renumber verse	Nec. [129:7]	%Normally in this Bible the verse numbering here is% 129:7.		(Hebrew=130:7 • Latin=129:7 • Greek=129:7)	Psa.130:3=Last	
 Latin+Greek	Psa.129:8	Psa.130:8	Renumber verse	Nec. [129:8]	%Normally in this Bible the verse numbering here is% 129:8.		(Hebrew=130:8 • Latin=129:8 • Greek=129:8)	Psa.130:3=Last	
 
+EngTitleSeparate	Psa.131:1.0	Psa.131:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 131:1.		(Hebrew=131:1 • Latin=130:1 • Greek=130:1)	Psa.131:1.1=Exist	
+EngTitleSeparate	Psa.131:1.1	Psa.131:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 131:2.		(Hebrew=131:1 • Latin=130:1 • Greek=130:1)	Psa.131:1.1=Exist	
 English+Hebrew	Psa.131:1	Psa.131:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 130:1.		(Hebrew=131:1 • Latin=130:1 • Greek=130:1)	Psa.131:3=Last	
 English+Hebrew	Psa.131:2	Psa.131:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 130:2.		(Hebrew=131:2 • Latin=130:2 • Greek=130:2)	Psa.131:3=Last	
 English+Hebrew	Psa.131:3	Psa.131:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 130:3.		(Hebrew=131:3 • Latin=130:3 • Greek=130:3)	Psa.131:3=Last	
@@ -13053,6 +13306,8 @@ Latin+Greek	Psa.130:1	Psa.131:1	Renumber verse	Nec. [130:1]	%Normally in this Bi
 Latin+Greek	Psa.130:2	Psa.131:2	Renumber verse	Nec. [130:2]	%Normally in this Bible the verse numbering here is% 130:2.		(Hebrew=131:2 • Latin=130:2 • Greek=130:2)	Psa.131:18=Last	
 Latin+Greek	Psa.130:3	Psa.131:3	Renumber verse	Nec. [130:3]	%Normally in this Bible the verse numbering here is% 130:3.		(Hebrew=131:3 • Latin=130:3 • Greek=130:3)	Psa.131:18=Last	
 
+EngTitleSeparate	Psa.132:1.0	Psa.132:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 132:1.		(Hebrew=132:1 • Latin=131:1 • Greek=131:1)	Psa.132:1.1=Exist	
+EngTitleSeparate	Psa.132:1.1	Psa.132:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 132:2.		(Hebrew=132:1 • Latin=131:1 • Greek=131:1)	Psa.132:1.1=Exist	
 English+Hebrew	Psa.132:1	Psa.132:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 131:1.		(Hebrew=132:1 • Latin=131:1 • Greek=131:1)	Psa.132:18=Last	
 English+Hebrew	Psa.132:2	Psa.132:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 131:2.		(Hebrew=132:2 • Latin=131:2 • Greek=131:2)	Psa.132:18=Last	
 English+Hebrew	Psa.132:3	Psa.132:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 131:3.		(Hebrew=132:3 • Latin=131:3 • Greek=131:3)	Psa.132:18=Last	
@@ -13090,6 +13345,8 @@ Latin+Greek	Psa.131:16	Psa.132:16	Renumber verse	Nec. [131:16]	%Normally in this
 Latin+Greek	Psa.131:17	Psa.132:17	Renumber verse	Nec. [131:17]	%Normally in this Bible the verse numbering here is% 131:17.		(Hebrew=132:17 • Latin=131:17 • Greek=131:17)	Psa.132:3=Last	
 Latin+Greek	Psa.131:18	Psa.132:18	Renumber verse	Nec. [131:18]	%Normally in this Bible the verse numbering here is% 131:18.		(Hebrew=132:18 • Latin=131:18 • Greek=131:18)	Psa.132:3=Last	
 
+EngTitleSeparate	Psa.133:1.0	Psa.133:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 133:1.		(Hebrew=133:1 • Latin=132:1 • Greek=132:1)	Psa.133:1.1=Exist	
+EngTitleSeparate	Psa.133:1.1	Psa.133:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 133:2.		(Hebrew=133:1 • Latin=132:1 • Greek=132:1)	Psa.133:1.1=Exist	
 English+Hebrew	Psa.133:1	Psa.133:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 132:1.		(Hebrew=133:1 • Latin=132:1 • Greek=132:1)	Psa.134:3=Last	
 English+Hebrew	Psa.133:2	Psa.133:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 132:2.		(Hebrew=133:2 • Latin=132:2 • Greek=132:2)	Psa.134:3=Last	
 English+Hebrew	Psa.133:3	Psa.133:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 132:3.		(Hebrew=133:3 • Latin=132:3 • Greek=132:3)	Psa.134:3=Last	
@@ -13097,6 +13354,8 @@ Latin+Greek	Psa.132:1	Psa.133:1	Renumber verse	Nec. [132:1]	%Normally in this Bi
 Latin+Greek	Psa.132:2	Psa.133:2	Renumber verse	Nec. [132:2]	%Normally in this Bible the verse numbering here is% 132:2.		(Hebrew=133:2 • Latin=132:2 • Greek=132:2)	Psa.134:21=Last	
 Latin+Greek	Psa.132:3	Psa.133:3	Renumber verse	Nec. [132:3]	%Normally in this Bible the verse numbering here is% 132:3.		(Hebrew=133:3 • Latin=132:3 • Greek=132:3)	Psa.134:21=Last	
 
+EngTitleSeparate	Psa.134:1.0	Psa.134:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 134:1.		(Hebrew=134:1 • Latin=133:1 • Greek=133:1)	Psa.134:1.1=Exist	
+EngTitleSeparate	Psa.134:1.1	Psa.134:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 134:2.		(Hebrew=134:1 • Latin=133:1 • Greek=133:1)	Psa.134:1.1=Exist	
 English+Hebrew	Psa.134:1	Psa.134:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 133:1.		(Hebrew=134:1 • Latin=133:1 • Greek=133:1)	Psa.134:3=Last	
 English+Hebrew	Psa.134:2	Psa.134:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 133:2.		(Hebrew=134:2 • Latin=133:2 • Greek=133:2)	Psa.134:3=Last	
 English+Hebrew	Psa.134:3	Psa.134:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 133:3.		(Hebrew=134:3 • Latin=133:3 • Greek=133:3)	Psa.134:3=Last	
@@ -13267,6 +13526,8 @@ Latin+Greek	Psa.136:7	Psa.137:7	Renumber verse	Nec. [136:7]	%Normally in this Bi
 Latin+Greek	Psa.136:8	Psa.137:8	Renumber verse	Nec. [136:8]	%Normally in this Bible the verse numbering here is% 136:8.		(Hebrew=137:8 • Latin=136:8 • Greek=136:8)	Psa.137:8=Last	
 Latin+Greek	Psa.136:9	Psa.137:9	Renumber verse	Nec. [136:9]	%Normally in this Bible the verse numbering here is% 136:9.		(Hebrew=137:9 • Latin=136:9 • Greek=136:9)	Psa.137:8=Last	
 
+EngTitleSeparate	Psa.138:1.0	Psa.138:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 138:1.		(Hebrew=138:1 • Latin=137:1 • Greek=137:1)	Psa.138:1.1=Exist	
+EngTitleSeparate	Psa.138:1.1	Psa.138:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 138:2.		(Hebrew=138:1 • Latin=137:1 • Greek=137:1)	Psa.138:1.1=Exist	
 English+Hebrew	Psa.138:1	Psa.138:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 137:1.		(Hebrew=138:1 • Latin=137:1 • Greek=137:1)	Psa.138:8=Last	
 English+Hebrew	Psa.138:2	Psa.138:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 137:2.		(Hebrew=138:2 • Latin=137:2 • Greek=137:2)	Psa.138:8=Last	
 English+Hebrew	Psa.138:3	Psa.138:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 137:3.		(Hebrew=138:3 • Latin=137:3 • Greek=137:3)	Psa.138:8=Last	
@@ -13284,6 +13545,8 @@ Latin+Greek	Psa.137:6	Psa.138:6	Renumber verse	Nec. [137:6]	%Normally in this Bi
 Latin+Greek	Psa.137:7	Psa.138:7	Renumber verse	Nec. [137:7]	%Normally in this Bible the verse numbering here is% 137:7.		(Hebrew=138:7 • Latin=137:7 • Greek=137:7)	Psa.138:24=Last	
 Latin+Greek	Psa.137:8	Psa.138:8	Renumber verse	Nec. [137:8]	%Normally in this Bible the verse numbering here is% 137:8.		(Hebrew=138:8 • Latin=137:8 • Greek=137:8)	Psa.138:24=Last	
 
+EngTitleSeparate	Psa.139:1.0	Psa.139:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 139:1.		(Hebrew=139:1 • Latin=138:1 • Greek=138:1)	Psa.139:1.1=Exist	
+EngTitleSeparate	Psa.139:1.1	Psa.139:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 139:2.		(Hebrew=139:1 • Latin=138:1 • Greek=138:1)	Psa.139:1.1=Exist	
 English+Hebrew	Psa.139:1	Psa.139:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 138:1.		(Hebrew=139:1 • Latin=138:1 • Greek=138:1)	Psa.139:24=Last	
 English+Hebrew	Psa.139:2	Psa.139:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 138:2.		(Hebrew=139:2 • Latin=138:2 • Greek=138:2)	Psa.139:24=Last	
 English+Hebrew	Psa.139:3	Psa.139:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 138:3.		(Hebrew=139:3 • Latin=138:3 • Greek=138:3)	Psa.139:24=Last	
@@ -13377,6 +13640,8 @@ Latin+Greek	Psa.139:12	Psa.140:11	Renumber verse	Nec. [139:12]	%Normally in this
 Latin+Greek	Psa.139:13	Psa.140:12	Renumber verse	Nec. [139:13]	%Normally in this Bible the verse numbering here is% 139:13.		(Hebrew=140:13 • Latin=139:13 • Greek=139:13)	Psa.140:10=Last	
 Latin+Greek	Psa.139:14	Psa.140:13	Renumber verse	Nec. [139:14]	%Normally in this Bible the verse numbering here is% 139:14.		(Hebrew=140:14 • Latin=139:14 • Greek=139:14)	Psa.140:10=Last	
 
+EngTitleSeparate	Psa.141:1.0	Psa.141:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 141:1.		(Hebrew=141:1 • Latin=140:1 • Greek=140:1)	Psa.141:1.1=Exist	
+EngTitleSeparate	Psa.141:1.1	Psa.141:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 141:2.		(Hebrew=141:1 • Latin=140:1 • Greek=140:1)	Psa.141:1.1=Exist	
 English+Hebrew	Psa.141:1	Psa.141:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 140:1.		(Hebrew=141:1 • Latin=140:1 • Greek=140:1)	Psa.141:10=Last	
 English+Hebrew	Psa.141:2	Psa.141:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 140:2.		(Hebrew=141:2 • Latin=140:2 • Greek=140:2)	Psa.141:10=Last	
 English+Hebrew	Psa.141:3	Psa.141:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 140:3.		(Hebrew=141:3 • Latin=140:3 • Greek=140:3)	Psa.141:10=Last	
@@ -13424,6 +13689,8 @@ Latin+Greek	Psa.141:6	Psa.142:5	Renumber verse	Nec. [141:6]	%Normally in this Bi
 Latin+Greek	Psa.141:7	Psa.142:6	Renumber verse	Nec. [141:7]	%Normally in this Bible the verse numbering here is% 141:7.		(Hebrew=142:7 • Latin=141:7 • Greek=141:7)	Psa.142:12=Last	
 Latin+Greek	Psa.141:8	Psa.142:7	Renumber verse	Nec. [141:8]	%Normally in this Bible the verse numbering here is% 141:8.		(Hebrew=142:8 • Latin=141:8 • Greek=141:8)	Psa.142:12=Last	
 
+EngTitleSeparate	Psa.143:1.0	Psa.143:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 143:1.		(Hebrew=143:1 • Latin=142:1 • Greek=142:1)	Psa.143:1.1=Exist	
+EngTitleSeparate	Psa.143:1.1	Psa.143:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 143:2.		(Hebrew=143:1 • Latin=142:1 • Greek=142:1)	Psa.143:1.1=Exist	
 English+Hebrew	Psa.143:1	Psa.143:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 142:1.		(Hebrew=143:1 • Latin=142:1 • Greek=142:1)	Psa.143:12=Last	
 English+Hebrew	Psa.143:2	Psa.143:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 142:2.		(Hebrew=143:2 • Latin=142:2 • Greek=142:2)	Psa.143:12=Last	
 English+Hebrew	Psa.143:3	Psa.143:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 142:3.		(Hebrew=143:3 • Latin=142:3 • Greek=142:3)	Psa.143:12=Last	
@@ -13449,6 +13716,8 @@ Latin+Greek	Psa.142:10	Psa.143:10	Renumber verse	Nec. [142:10]	%Normally in this
 Latin+Greek	Psa.142:11	Psa.143:11	Renumber verse	Nec. [142:11]	%Normally in this Bible the verse numbering here is% 142:11.		(Hebrew=143:11 • Latin=142:11 • Greek=142:11)	Psa.143:15=Last	
 Latin+Greek	Psa.142:12	Psa.143:12	Renumber verse	Nec. [142:12]	%Normally in this Bible the verse numbering here is% 142:12.		(Hebrew=143:12 • Latin=142:12 • Greek=142:12)	Psa.143:15=Last	
 
+EngTitleSeparate	Psa.144:1.0	Psa.144:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 144:1.		(Hebrew=144:1 • Latin=143:1 • Greek=143:1)	Psa.144:1.1=Exist	
+EngTitleSeparate	Psa.144:1.1	Psa.144:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 144:2.		(Hebrew=144:1 • Latin=143:1 • Greek=143:1)	Psa.144:1.1=Exist	
 English+Hebrew	Psa.144:1	Psa.144:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 143:1.		(Hebrew=144:1 • Latin=143:1 • Greek=143:1)	Psa.144:15=Last	
 English+Hebrew	Psa.144:2	Psa.144:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 143:2.		(Hebrew=144:2 • Latin=143:2 • Greek=143:2)	Psa.144:15=Last	
 English+Hebrew	Psa.144:3	Psa.144:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 143:3.		(Hebrew=144:3 • Latin=143:3 • Greek=143:3)	Psa.144:15=Last	
@@ -13480,6 +13749,8 @@ Latin+Greek	Psa.143:13	Psa.144:13	Renumber verse	Nec. [143:13]	%Normally in this
 Latin+Greek	Psa.143:14	Psa.144:14	Renumber verse	Nec. [143:14]	%Normally in this Bible the verse numbering here is% 143:14.		(Hebrew=144:14 • Latin=143:14 • Greek=143:14)	Psa.144:21=Last	
 Latin+Greek	Psa.143:15	Psa.144:15	Renumber verse	Nec. [143:15]	%Normally in this Bible the verse numbering here is% 143:15.		(Hebrew=144:15 • Latin=143:15 • Greek=143:15)	Psa.144:21=Last	
 
+EngTitleSeparate	Psa.145:1.0	Psa.145:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 145:1.		(Hebrew=145:1 • Latin=144:1 • Greek=144:1)	Psa.145:1.1=Exist	
+EngTitleSeparate	Psa.145:1.1	Psa.145:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 145:2.		(Hebrew=145:1 • Latin=144:1 • Greek=144:1)	Psa.145:1.1=Exist	
 English+Hebrew	Psa.145:1	Psa.145:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 144:1.		(Hebrew=145:1 • Latin=144:1 • Greek=144:1)	Psa.145:21=Last	
 English+Hebrew	Psa.145:2	Psa.145:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 144:2.		(Hebrew=145:2 • Latin=144:2 • Greek=144:2)	Psa.145:21=Last	
 English+Hebrew	Psa.145:3	Psa.145:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 144:3.		(Hebrew=145:3 • Latin=144:3 • Greek=144:3)	Psa.145:21=Last	
@@ -15590,7 +15861,7 @@ English	Dan.3:30	Dan.3:30	Keep verse	Acd. [97]	%In some Bibles the verse numberi
 English	Dan.4:1	Dan.3:31	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 3:31.	%This verse may not contain any text%.	(Hebrew=3:31 • Latin=3:98 • Greek= --)	Dan.3:30=Last	
 English	Dan.4:2	Dan.4:2	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 3:32.		(Hebrew=3:32 • Latin=3:99 • Greek= --)	Dan.3:30=Last	
 English	Dan.4:3	Dan.4:3	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 3:33.		(Hebrew=3:33 • Latin=3:100 • Greek= --)	Dan.3:30=Last	
-Greek	Dan.3:24	S3Y.1:1	Renumber verse	Nec. [24-90]	%In some Bibles this book is found at % Dan.3:24-90.		(Hebrew= -- • Latin=3:24 • Greek=3:24)	Dan.3:97=Last	
+Greek	Dan.3:24	S3Y.1:1	Renumber verse	Nec. [24-90]	%In some Bibles this book is found at% Dan.3:24-90.		(Hebrew= -- • Latin=3:24 • Greek=3:24)	Dan.3:97=Last	
 Greek	Dan.3:24	S3Y.1:1	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% Dan.3:24.		(Hebrew= -- • Latin=3:24 • Greek=3:24)	Dan.3:97=Last	
 Greek	Dan.3:25	S3Y.1:2	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% Dan.3:25.		(Hebrew= -- • Latin=3:25 • Greek=3:25)	Dan.3:97=Last	
 Greek	Dan.3:26	S3Y.1:3	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% Dan.3:26.		(Hebrew= -- • Latin=3:26 • Greek=3:26)	Dan.3:97=Last	
@@ -15678,7 +15949,7 @@ Hebrew	Dan.3:30	Dan.3:30	Keep verse	Acd. [97]	%In some Bibles the verse numberin
 Hebrew	Dan.3:31	Dan.4:1	Renumber verse	Nec. [3:31]	%Normally in this Bible the verse numbering here is% 3:31.	%This verse may not contain any text%.	(Hebrew=3:31 • Latin=3:98 • Greek= --)	Dan.3:33=Last	
 Hebrew	Dan.3:32	Dan.4:2	Renumber verse	Nec. [3:32]	%Normally in this Bible the verse numbering here is% 3:32.		(Hebrew=3:32 • Latin=3:99 • Greek= --)	Dan.3:33=Last	
 Hebrew	Dan.3:33	Dan.4:3	Renumber verse	Nec. [3:33]	%Normally in this Bible the verse numbering here is% 3:33.		(Hebrew=3:33 • Latin=3:100 • Greek= --)	Dan.3:33=Last	
-Latin	Dan.3:24	S3Y.1:1	Renumber verse	Nec. [24-90]	%In some Bibles this book is found at % Dan.3:24-90.		(Hebrew= -- • Latin=3:24 • Greek=3:24)	Dan.3:100=Last	
+Latin	Dan.3:24	S3Y.1:1	Renumber verse	Nec. [24-90]	%In some Bibles this book is found at% Dan.3:24-90.		(Hebrew= -- • Latin=3:24 • Greek=3:24)	Dan.3:100=Last	
 Latin	Dan.3:24	S3Y.1:1	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% Dan.3:24.		(Hebrew= -- • Latin=3:24 • Greek=3:24)	Dan.3:100=Last	
 Latin	Dan.3:25	S3Y.1:2	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% Dan.3:25.		(Hebrew= -- • Latin=3:25 • Greek=3:25)	Dan.3:100=Last	
 Latin	Dan.3:26	S3Y.1:3	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% Dan.3:26.		(Hebrew= -- • Latin=3:26 • Greek=3:26)	Dan.3:100=Last	
@@ -16066,7 +16337,7 @@ Hebrew+Greek	Dan.6:26	Dan.6:25	Renumber verse	Nec. [26]	%Normally in this Bible 
 Hebrew+Greek	Dan.6:27	Dan.6:26	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 6:27.		(Hebrew=6:27 • Latin=6:26 • Greek=6:27)	Dan.6:29=Last	
 Hebrew+Greek	Dan.6:28	Dan.6:27	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 6:28.		(Hebrew=6:28 • Latin=6:27 • Greek=6:28)	Dan.6:29=Last	
 Hebrew+Greek	Dan.6:29	Dan.6:28	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 6:29.		(Hebrew=6:29 • Latin=6:28 • Greek=6:29)	Dan.6:29=Last	
-English+Hebrew	Sus.1:1	Sus.1:1	Keep verse	Acd. [1-64]	%In some Bibles this book is found at % Dan.13		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:64=Last & Dan.13:1=NotExist	
+English+Hebrew	Sus.1:1	Sus.1:1	Keep verse	Acd. [1-64]	%In some Bibles this book is found at% Dan.13		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:64=Last & Dan.13:1=NotExist	
 English+Hebrew	Sus.1:1	Sus.1:1	Keep verse	Ped. [1]	%In some Bibles the verse numbering here is% Dan.13:1.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:64=Last & Dan.13:1=NotExist	
 English+Hebrew	Sus.1:2	Sus.1:2	Keep verse	Ped. [2]	%In some Bibles the verse numbering here is% Dan.13:2.		(Hebrew= -- • Latin=Dan.13:2 • Greek=Sus.1:2)	Sus.1:64=Last & Dan.13:1=NotExist	
 English+Hebrew	Sus.1:3	Sus.1:3	Keep verse	Ped. [3]	%In some Bibles the verse numbering here is% Dan.13:3.		(Hebrew= -- • Latin=Dan.13:3 • Greek=Sus.1:3)	Sus.1:64=Last & Dan.13:1=NotExist	
@@ -16131,7 +16402,7 @@ English+Hebrew	Sus.1:61	Sus.1:61	Keep verse	Ped. [61]	%In some Bibles the verse 
 English+Hebrew	Sus.1:62	Sus.1:62	Keep verse	Ped. [62]	%In some Bibles the verse numbering here is% Dan.13:62.		(Hebrew= -- • Latin=Dan.13:62 • Greek=Sus.1:62)	Sus.1:64=Last & Dan.13:1=NotExist	
 English+Hebrew	Sus.1:63	Sus.1:63	Keep verse	Ped. [63]	%In some Bibles the verse numbering here is% Dan.13:63.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:63 • Greek=Sus.1:63)	Sus.1:64=Last & Dan.13:1=NotExist	
 English+Hebrew	Sus.1:64	Sus.1:64	Keep verse	Ped. [64]	%In some Bibles the verse numbering here is% Dan.13:64.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:64 • Greek=Sus.1:64)	Sus.1:64=Last & Dan.13:1=NotExist	
-Greek	Sus.1:1	Sus.1:1	Keep verse	Acd. [1-64]	%In some Bibles this book is found at % Dan.13		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:64=Last & Dan.13:1=NotExist	
+Greek	Sus.1:1	Sus.1:1	Keep verse	Acd. [1-64]	%In some Bibles this book is found at% Dan.13		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:64=Last & Dan.13:1=NotExist	
 Greek	Sus.1:1	Sus.1:1	Keep verse	Ped. [1]	%In some Bibles the verse numbering here is% Dan.13:1.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:64=Last & Dan.13:1=NotExist	
 Greek	Sus.1:1	Sus.1:1	Keep verse	Ped. [1]	%In some Bibles the verse numbering here is% Dan.13:1.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:64=Last & Dan.13:1=NotExist	
 Greek	Sus.1:2	Sus.1:2	Keep verse	Ped. [2]	%In some Bibles the verse numbering here is% Dan.13:2.		(Hebrew= -- • Latin=Dan.13:2 • Greek=Sus.1:2)	Sus.1:64=Last & Dan.13:1=NotExist	
@@ -16197,7 +16468,7 @@ Greek	Sus.1:61	Sus.1:61	Keep verse	Ped. [61]	%In some Bibles the verse numbering
 Greek	Sus.1:62	Sus.1:62	Keep verse	Ped. [62]	%In some Bibles the verse numbering here is% Dan.13:62.		(Hebrew= -- • Latin=Dan.13:62 • Greek=Sus.1:62)	Sus.1:64=Last & Dan.13:1=NotExist	
 Greek	Sus.1:63	Sus.1:63	Keep verse	Ped. [63]	%In some Bibles the verse numbering here is% Dan.13:63.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:63 • Greek=Sus.1:63)	Sus.1:64=Last & Dan.13:1=NotExist	
 Greek	Sus.1:64	Sus.1:64	Keep verse	Ped. [64]	%In some Bibles the verse numbering here is% Dan.13:64.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:64 • Greek=Sus.1:64)	Sus.1:64=Last & Dan.13:1=NotExist	
-Greek2-NETS	Sus.1:1	Sus.1:1	Keep verse	Acd. [1-64]	%In some Bibles this book is found at % Dan.13.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:62=Last & Dan.13:1=NotExist	
+Greek2-NETS	Sus.1:1	Sus.1:1	Keep verse	Acd. [1-64]	%In some Bibles this book is found at% Dan.13.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:62=Last & Dan.13:1=NotExist	
 Greek2-NETS	Sus.1:1	Sus.1:1	Keep verse	Ped. [1]	%In some Bibles the verse numbering here is% Dan.13:1.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:62=Last & Dan.13:1=NotExist	
 Greek2-NETS	Sus.1:2	Sus.1:2	Keep verse	Ped. [2]	%In some Bibles the verse numbering here is% Dan.13:2.		(Hebrew= -- • Latin=Dan.13:2 • Greek=Sus.1:2)	Sus.1:62=Last & Dan.13:1=NotExist	
 Greek2-NETS	Sus.1:3	Sus.1:3	Keep verse	Ped. [3]	%In some Bibles the verse numbering here is% Dan.13:3.		(Hebrew= -- • Latin=Dan.13:3 • Greek=Sus.1:3)	Sus.1:62=Last & Dan.13:1=NotExist	
@@ -16262,7 +16533,7 @@ Greek2-NETS	Sus.1:61	Sus.1:61	Keep verse	Ped. [61]	%In some Bibles the verse num
 Greek2-NETS	Sus.1:62	Sus.1:62	Keep verse	Ped. [62]	%In some Bibles the verse numbering here is% Dan.13:62.		(Hebrew= -- • Latin=Dan.13:62 • Greek=Bel.1:1)	Sus.1:62=Last & Dan.13:1=NotExist	
 Greek2-NETS	Sus.1:63	Sus.1:63	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin=Dan.13:63 • Greek=Sus.1:63)	Sus.1:62=Last & Dan.13:1=NotExist	
 Greek2-NETS	Sus.1:64	Sus.1:64	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin=Dan.13:64 • Greek=Sus.1:64)	Sus.1:62=Last & Dan.13:1=NotExist	
-Latin	Dan.13:1	Sus.1:1	Renumber verse	Nec. [1-64]	%In some Bibles this book is found at % Dan.13.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:10=NotExist & Dan.13:1=Exist	
+Latin	Dan.13:1	Sus.1:1	Renumber verse	Nec. [1-64]	%In some Bibles this book is found at% Dan.13.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:10=NotExist & Dan.13:1=Exist	
 Latin	Dan.13:1	Sus.1:1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% Dan.13:1.		(Hebrew= -- • Latin=Dan.13:1 • Greek=Sus.1:1)	Sus.1:10=NotExist & Dan.13:1=Exist	
 Latin	Dan.13:2	Sus.1:2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% Dan.13:2.		(Hebrew= -- • Latin=Dan.13:2 • Greek=Sus.1:2)	Sus.1:10=NotExist & Dan.13:1=Exist	
 Latin	Dan.13:3	Sus.1:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% Dan.13:3.		(Hebrew= -- • Latin=Dan.13:3 • Greek=Sus.1:3)	Sus.1:10=NotExist & Dan.13:1=Exist	
@@ -16328,7 +16599,7 @@ Latin	Dan.13:62	Sus.1:62	Renumber verse	Nec. [62]	%Normally in this Bible the ve
 Latin	Dan.13:63	Sus.1:63	Renumber verse	Nec. [63]	%In some Bibles the verse numbering here is% Dan.13:63.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:63 • Greek=Sus.1:63)	Sus.1:10=NotExist & Dan.13:1=Exist	
 Latin	Dan.13:64	Sus.1:64	Renumber verse	Nec. [64]	%In some Bibles the verse numbering here is% Dan.13:64.	%This verse may not contain any text%.	(Hebrew= -- • Latin=Dan.13:64 • Greek=Sus.1:64)	Sus.1:10=NotExist & Dan.13:1=Exist	
 
-English	Bel.1:1	Bel.1:1	Keep verse	Acd. [1-41]	%In some Bibles this book is found at % Dan.14.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
+English	Bel.1:1	Bel.1:1	Keep verse	Acd. [1-41]	%In some Bibles this book is found at% Dan.14.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
 English	Bel.1:1	Bel.1:1	Keep verse	Acd. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
 English	Bel.1:2	Bel.1:2	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% Dan.14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:42=Last & Dan.14:1=NotExist	
 English	Bel.1:3	Bel.1:3	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% Dan.14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:42=Last & Dan.14:1=NotExist	
@@ -16371,7 +16642,7 @@ English	Bel.1:39	Bel.1:39	Keep verse	Acd. [38]	%In some Bibles the verse numberi
 English	Bel.1:40	Bel.1:40	Keep verse	Acd. [39]	%In some Bibles the verse numbering here is% Dan.14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:42=Last & Dan.14:1=NotExist	
 English	Bel.1:41	Bel.1:41	Keep verse	Acd. [40]	%In some Bibles the verse numbering here is% Dan.14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:42=Last & Dan.14:1=NotExist	
 English	Bel.1:42	Bel.1:42	Keep verse	Acd. [41]	%In some Bibles the verse numbering here is% Dan.14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:42=Last & Dan.14:1=NotExist	
-Greek	Bel.1:1	Bel.1:1	Keep verse	Acd. [1-41]	%In some Bibles this book is found at % Dan.14.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
+Greek	Bel.1:1	Bel.1:1	Keep verse	Acd. [1-41]	%In some Bibles this book is found at% Dan.14.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:1	Bel.1:1	Keep verse	Acd. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:2	Bel.1:2	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% Dan.14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:3	Bel.1:3	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% Dan.14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:42=Last & Dan.14:1=NotExist	
@@ -16414,7 +16685,7 @@ Greek	Bel.1:39	Bel.1:39	Keep verse	Acd. [38]	%In some Bibles the verse numbering
 Greek	Bel.1:40	Bel.1:40	Keep verse	Acd. [39]	%In some Bibles the verse numbering here is% Dan.14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:41	Bel.1:41	Keep verse	Acd. [40]	%In some Bibles the verse numbering here is% Dan.14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:42=Last & Dan.14:1=NotExist	
 Greek	Bel.1:42	Bel.1:42	Keep verse	Acd. [41]	%In some Bibles the verse numbering here is% Dan.14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:42=Last & Dan.14:1=NotExist	
-Latin	Bel.1:1	Bel.1:1	Empty verse	Nec. [1-41]	%In some Bibles this book is found at % Dan.14.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Bel.1:1	Bel.1:1	Empty verse	Nec. [1-41]	%In some Bibles this book is found at% Dan.14.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:10=NotExist & Dan.14:1=Exist	
 Latin	Bel.1:1	Bel.1:1	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew= -- • Latin= -- • Greek=1:1)	Bel.1:10=NotExist & Dan.14:1=Exist	
 Latin	Dan.14:1	Bel.1:2	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% Dan.14:1.		(Hebrew= -- • Latin=Dan.14:1 • Greek=Bel.1:2)	Bel.1:10=NotExist & Dan.14:1=Exist	
 Latin	Dan.14:2	Bel.1:3	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% Dan.14:2.		(Hebrew= -- • Latin=Dan.14:2 • Greek=Bel.1:3)	Bel.1:10=NotExist & Dan.14:1=Exist	
@@ -21388,16 +21659,18 @@ If you want to produce a Bible that does not change the verse numbers:
 Psalm Titles
 ========
 In Standard versification, the Titles (when they occur) are the first part of verse 1. However, they are normally formatted in italics, so it is useful if they are distinguished in some way from the rest of the verse. 
-In ancient Hebrew, Greek and Latin texts, the Psalm titles are normally in their own verse(s). These are marked as verse ".0" (eg Psa.51:1.0) to indicate that this part of the verse can be put in italics. The text of the first verse is marked as ".1"
-Occasionally a long Title may be found in two verses, in which case the contents of the second verse is also labelled ".0" (eg Psa.51:1.0). 
-Outside the Psalms ".0" occurs at the start of LongVerses where it indicates the equivalent text of the Standard verse. 
+In ancient Hebrew, Greek and Latin texts, the Psalm titles are normally in their own verse(s). These Titles are marked as verse ".0" (eg Psa.51:1.0) and the text of the first verse is marked as ".1" (eg. Psa.51:1.1 though in the StandardRef this is simply Psa.51:1) 
+In most markups, the Title is formatted as Italic, and occurs before the verse marker for v.1. 
+Occasionally a long Title may be split into  two verses in the source, in which case the contents of the second verse is also labelled ".0" (eg Psa.51:1.0). 
+(Outside the Psalms ".0" occurs at the start of LongVerses where it indicates the equivalent text of the Standard verse. )
 
 
 Subverses
 =======
 These are marked with decimal points (e.g. ".1", ".2") in SourceRef and StandardRef, and marked as letters ("a", "b") in human-readable sections - i.e. the note Marker and notes. 
 A subverse in the StandardRef are always grouped together in sequence. 
-When the first subverse is the start of the verse, the StandardRef does not include a subverse number - e.g. Greek Exo.28:23 is renumbered as Exo.28:29 not at Exo.28:29.1, though Greek Exo.28:24 is renumbered as Exo.28:29.2 or Exo.28:29b. This is so that "Exo.28:29" exists as a verse. 
+In the StandardRef, the reference is given in a form that indicates whether to insert code for a new verse or for a new subverse. The first subverse is recorded with simply the chap:verse, to indicate that the code for a verse like any other verse is needed. Subsequent subverses are recoreded as chap:verse.subverse, to indicate the code for a subverse is needed. 
+In most cases the first subverse is ".1" but in some cases the first subverse is ".0". This occurs in the Standardised version of Greek Bibles, eg at Jos.9:2 where 8:30-35 is inserted as subverses after the normal text of Jos.9:2 which is subverse ".0"
 
 (The following lineup of subverse letters and numbers only works with a non-proportional font such as Courier)
 a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z aa ab ac ad 
@@ -21469,6 +21742,7 @@ Phrases to translate to different languages:
 %In some Bibles this chapter is a separate book%
 %In some Bibles this verse may not contain any text%
 %This verse may not contain any text%
+%In some Bibles this book is found at%
 %In some Bibles this verse starts on a different word%
 %At the end of this verse some manuscripts add information such as where this letter was written%
 
