@@ -95,9 +95,9 @@ Occasionally the differences result in a change to verse order. This is marked b
 Note: the section "Gen.5:31-6:1" is placed after Malachi for the sole reason that it is the most complex instance of differences, and someone starting to grapple with this data is likely to give up if it is the first one they come across. 
 
 
+#DataStart(Condensed)
 $Section (in Eng refs)	English	Hebrew	Latin	Greek	[Greek2, Slavonic etc.]		
 ============================================================================================================================================
-#DataStart(Condensed)
 
 $Gen.31:55-32:32	English	Hebrew	Latin	Greek	
 TEST: If...	Gen.32:32=Last	Gen.32:33=Last	Gen.32:32=Last	Gen.32:32=Last			
@@ -2957,9 +2957,9 @@ at Gen.32:1: if Gen.32:33=Last (ie if v.33 is the last verse in Gen.32) then:
 * renumber the verse as Gen.31:55
 * add a note: [1] "In some Bibles the verse numbering here is 32:1 (Hebrew=32:1 • Latin=31:55 • Greek=31:55)"
 
+#DataStart(Expanded)
 SourceType	SourceRef	StandardRef	Action	NoteMarker	Note A	Note B	Ancient Versions 	Tests
 ==========================================================================================================================================================
-#DataStart(Expanded)
 
 English+Hebrew	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 English+Hebrew	Gen.5:32	Gen.5:32	Keep verse	Acd. [31b]	%In some Bibles the verse numbering here is% 5:31b.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
