@@ -2453,6 +2453,13 @@ Concatenation	Sir.51:19	Sir.51:25-26	Sir.51:19
 Concatenation	Sir.51:20	Sir.51:27-28	Sir.51:20			
 OneToOne	Sir.51:21-30	Sir.51:29-38	Sir.51:21-30			
 
+*$Wis.6:1-6:25	English	Latin	Greek		
+TEST: If...	Wis.6:25=Last	Wis.6:27=Last	Wis.6:25=Last			
+Concatenation	Wis.6:1	Wis.6:1-2	Wis.6:1			
+OneToOne	Wis.6:2-20	Wis.6:3-21	Wis.6:2-20			
+Concatenation	Wis.6:21	Wis.6:22-23	Wis.6:21			
+OneToOne	Wis.6:22-25	Wis.6:24-27	Wis.6:22-25			
+
 $Wis.17:9-17:21	English	Latin	Greek		
 TEST: If...	Wis.17:21=Last	Wis.17:20=Last	Wis.17:21=Last			
 DuplicateTarget	Wis.17:9-10	Wis.17:9	Wis.17:9-10			
@@ -2463,13 +2470,6 @@ TEST: If...	Wis.19:21=Last	Wis.19:20=Last	Wis.19:22=Last
 DuplicateTarget	Wis.19:12-13	Wis.19:12	Wis.19:12-13			
 OneToOne	Wis.19:14-20	Wis.19:13-19	Wis.19:14-20			
 DuplicateTarget	Wis.19:21-22	Wis.19:20	Wis.19:21-22			
-
-*$Wis.6:1-6:25	English	Latin	Greek		
-TEST: If...	Wis.6:25=Last	Wis.6:27=Last	Wis.6:25=Last			
-Concatenation	Wis.1:1	Wis.1:1-2	Wis.1:1			
-OneToOne	Wis.1:2-20	Wis.1:3-21	Wis.1:2-20			
-Concatenation	Wis.1:21	Wis.1:22-23	Wis.1:21			
-OneToOne	Wis.1:22-25	Wis.1:24-27	Wis.1:22-25			
 
 *$Wis.11:1-11:26	English	Latin	Greek		
 TEST: If...	Wis.11:26=Last	Wis.11:27=Last	Wis.11:26=Last			
@@ -3261,28 +3261,28 @@ Greek	Exo.25:32	Exo.25:33	Renumber verse	Nec. [32]	%Normally in this Bible the v
 Greek	Exo.25:33	Exo.25:34	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 25:33.		(Hebrew=25:34 • Latin=25:34 • Greek=25:33)	Exo.25:33<Exo.25:34	
 Greek	Exo.25:34	Exo.25:35	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 25:34.		(Hebrew=25:35 • Latin=25:35 • Greek=25:34)	Exo.25:33<Exo.25:34	
 
-English+Hebrew+Latin	Exo.28:22	Exo.28:22	Keep verse	Acd. [22,a-f]	%In some Bibles the verse numbering here is% 28:22, 22a-f.		(Hebrew=28:22 • Latin=28:22 • Greek=28:22, 22a-f[=28:23-28])	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:23	Exo.28:23	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 28:22a.		(Hebrew=28:23 • Latin=28:23 • Greek=28:22a)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:24	Exo.28:24	Keep verse	Acd. [22b]	%In some Bibles the verse numbering here is% 28:22b.		(Hebrew=28:24 • Latin=28:24 • Greek=28:22b)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:25	Exo.28:25	Keep verse	Acd. [22c]	%In some Bibles the verse numbering here is% 28:22c.		(Hebrew=28:25 • Latin=28:25 • Greek=28:22c)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:26	Exo.28:26	Keep verse	Acd. [22d]	%In some Bibles the verse numbering here is% 28:22d.		(Hebrew=28:26 • Latin=28:26 • Greek=28:22d)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:27	Exo.28:27	Keep verse	Acd. [22e]	%In some Bibles the verse numbering here is% 28:22e.		(Hebrew=28:27 • Latin=28:27 • Greek=28:22e)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:28	Exo.28:28	Keep verse	Acd. [22f]	%In some Bibles the verse numbering here is% 28:22f.		(Hebrew=28:28 • Latin=28:28 • Greek=28:22f)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:29	Exo.28:29	Keep verse	Acd. [23-25]	%In some Bibles the verse numbering here is% 28:23-25.		(Hebrew=28:29 • Latin=28:29 • Greek=28:23-25)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:30	Exo.28:30	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 28:26.		(Hebrew=28:30 • Latin=28:30 • Greek=28:26)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:31	Exo.28:31	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 28:27.		(Hebrew=28:31 • Latin=28:31 • Greek=28:27)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:32	Exo.28:32	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 28:28.		(Hebrew=28:32 • Latin=28:32 • Greek=28:28)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:33	Exo.28:33	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 28:29.		(Hebrew=28:33 • Latin=28:33 • Greek=28:29)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:34	Exo.28:34	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 28:30.		(Hebrew=28:34 • Latin=28:34 • Greek=28:30)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:35	Exo.28:35	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 28:31.		(Hebrew=28:35 • Latin=28:35 • Greek=28:31)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:36	Exo.28:36	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 28:32.		(Hebrew=28:36 • Latin=28:36 • Greek=28:32)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:37	Exo.28:37	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 28:33.		(Hebrew=28:37 • Latin=28:37 • Greek=28:33)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:38	Exo.28:38	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is% 28:34.		(Hebrew=28:38 • Latin=28:38 • Greek=28:34)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:39	Exo.28:39	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is% 28:35.		(Hebrew=28:39 • Latin=28:39 • Greek=28:35)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:40	Exo.28:40	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is% 28:36.		(Hebrew=28:40 • Latin=28:40 • Greek=28:36)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:41	Exo.28:41	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is% 28:37.		(Hebrew=28:41 • Latin=28:41 • Greek=28:37)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:42	Exo.28:42	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is% 28:38.		(Hebrew=28:42 • Latin=28:42 • Greek=28:38)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
-English+Hebrew+Latin	Exo.28:43	Exo.28:43	Keep verse	Acd. [39]	%In some Bibles the verse numbering here is% 28:39.		(Hebrew=28:43 • Latin=28:43 • Greek=28:39)	Exo.28:43=Last & Exo.28:21>Exo.28:22	
+English+Hebrew+Latin	Exo.28:22	Exo.28:22	Keep verse	Acd. [22,a-f]	%In some Bibles the verse numbering here is% 28:22, 22a-f.		(Hebrew=28:22 • Latin=28:22 • Greek=28:22, 22a-f[=28:23-28])	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:23	Exo.28:23	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 28:22a.		(Hebrew=28:23 • Latin=28:23 • Greek=28:22a)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:24	Exo.28:24	Keep verse	Acd. [22b]	%In some Bibles the verse numbering here is% 28:22b.		(Hebrew=28:24 • Latin=28:24 • Greek=28:22b)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:25	Exo.28:25	Keep verse	Acd. [22c]	%In some Bibles the verse numbering here is% 28:22c.		(Hebrew=28:25 • Latin=28:25 • Greek=28:22c)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:26	Exo.28:26	Keep verse	Acd. [22d]	%In some Bibles the verse numbering here is% 28:22d.		(Hebrew=28:26 • Latin=28:26 • Greek=28:22d)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:27	Exo.28:27	Keep verse	Acd. [22e]	%In some Bibles the verse numbering here is% 28:22e.		(Hebrew=28:27 • Latin=28:27 • Greek=28:22e)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:28	Exo.28:28	Keep verse	Acd. [22f]	%In some Bibles the verse numbering here is% 28:22f.		(Hebrew=28:28 • Latin=28:28 • Greek=28:22f)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:29	Exo.28:29	Keep verse	Acd. [23-25]	%In some Bibles the verse numbering here is% 28:23-25.		(Hebrew=28:29 • Latin=28:29 • Greek=28:23-25)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:30	Exo.28:30	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 28:26.		(Hebrew=28:30 • Latin=28:30 • Greek=28:26)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:31	Exo.28:31	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 28:27.		(Hebrew=28:31 • Latin=28:31 • Greek=28:27)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:32	Exo.28:32	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 28:28.		(Hebrew=28:32 • Latin=28:32 • Greek=28:28)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:33	Exo.28:33	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 28:29.		(Hebrew=28:33 • Latin=28:33 • Greek=28:29)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:34	Exo.28:34	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 28:30.		(Hebrew=28:34 • Latin=28:34 • Greek=28:30)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:35	Exo.28:35	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 28:31.		(Hebrew=28:35 • Latin=28:35 • Greek=28:31)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:36	Exo.28:36	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 28:32.		(Hebrew=28:36 • Latin=28:36 • Greek=28:32)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:37	Exo.28:37	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 28:33.		(Hebrew=28:37 • Latin=28:37 • Greek=28:33)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:38	Exo.28:38	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is% 28:34.		(Hebrew=28:38 • Latin=28:38 • Greek=28:34)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:39	Exo.28:39	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is% 28:35.		(Hebrew=28:39 • Latin=28:39 • Greek=28:35)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:40	Exo.28:40	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is% 28:36.		(Hebrew=28:40 • Latin=28:40 • Greek=28:36)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:41	Exo.28:41	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is% 28:37.		(Hebrew=28:41 • Latin=28:41 • Greek=28:37)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:42	Exo.28:42	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is% 28:38.		(Hebrew=28:42 • Latin=28:42 • Greek=28:38)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
+English+Hebrew+Latin	Exo.28:43	Exo.28:43	Keep verse	Acd. [39]	%In some Bibles the verse numbering here is% 28:39.		(Hebrew=28:43 • Latin=28:43 • Greek=28:39)	Exo.28:43=Last & Exo.28:21>Exo.28:22 & Exo.28:22.1=NotExist	
 Greek	Exo.28:22.0	Exo.28:22	Renumber verse	Nec. [22٠]	%Normally in this Bible this verse includes words that are at% 28:23-28.		(Hebrew=28:22 • Latin=28:22 • Greek=28:22٠)	Exo.28:39=Last & Exo.28:21<Exo.28:22 & Exo.28:22.1=Exist	
 Greek	Exo.28:22.1	Exo.28:23	Renumber verse	Nec. [22a]	%Normally in this Bible the verse numbering here is% 28:22a.		(Hebrew=28:23 • Latin=28:23 • Greek=28:22a)	Exo.28:39=Last & Exo.28:21<Exo.28:22 & Exo.28:22.1=Exist	
 Greek	Exo.28:22.2	Exo.28:24	Renumber verse	Nec. [22b]	%Normally in this Bible the verse numbering here is% 28:22b.		(Hebrew=28:24 • Latin=28:24 • Greek=28:22b)	Exo.28:39=Last & Exo.28:21<Exo.28:22 & Exo.28:22.1=Exist	
@@ -3361,37 +3361,37 @@ Greek	Exo.35:19	Exo.35:19.2	Renumber verse	Nec. [19]	%Normally in this Bible the
 Greek	Exo.35:27	Exo.35:27.1	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 35:27-28.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-28)	Exo.35:16<Exo.35:18	
 Greek	Exo.35:28	Exo.35:27.2	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 35:28.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-28)	Exo.35:16<Exo.35:18	
 
-English+Hebrew+Latin	Exo.36:8	Exo.36:8	Keep verse	Acd. [1, 2a]	%In some Bibles the verse numbering here is% 37:1, 2a.		(Hebrew=36:8 • Latin=36:8 • Greek=37:1; 2a)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:9	Exo.36:9	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 37:2.		(Hebrew=36:9 • Latin=36:9 • Greek=37:2, 2b)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:10	Exo.36:10	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 37:2b.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:11	Exo.36:11	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 37:2d.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:12	Exo.36:12	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 37:2e.		(Hebrew=36:12 • Latin=36:12 • Greek=37:2e)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:13	Exo.36:13	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 37:2f.		(Hebrew=36:13 • Latin=36:13 • Greek=37:2f)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:14	Exo.36:14	Keep verse	Acd. [2g]	%In some Bibles the verse numbering here is% 37:2g.		(Hebrew=36:14 • Latin=36:14 • Greek=37:2g)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:15	Exo.36:15	Keep verse	Acd. [2h]	%In some Bibles the verse numbering here is% 37:2h.		(Hebrew=36:15 • Latin=36:15 • Greek=37:2h)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:16	Exo.36:16	Keep verse	Acd. [2i]	%In some Bibles the verse numbering here is% 37:2i.		(Hebrew=36:16 • Latin=36:16 • Greek=37:2i)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:17	Exo.36:17	Keep verse	Acd. [2j]	%In some Bibles the verse numbering here is% 37:2j.		(Hebrew=36:17 • Latin=36:17 • Greek=37:2j)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:18	Exo.36:18	Keep verse	Acd. [2k]	%In some Bibles the verse numbering here is% 37:2k.		(Hebrew=36:18 • Latin=36:18 • Greek=37:2k)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:19	Exo.36:19	Keep verse	Acd. [2l]	%In some Bibles the verse numbering here is% 37:2l.		(Hebrew=36:19 • Latin=36:19 • Greek=37:2l)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:20	Exo.36:20	Keep verse	Acd. [2m]	%In some Bibles the verse numbering here is% 37:2m.		(Hebrew=36:20 • Latin=36:20 • Greek=37:2m)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:21	Exo.36:21	Keep verse	Acd. [2n]	%In some Bibles the verse numbering here is% 37:2n.		(Hebrew=36:21 • Latin=36:21 • Greek=37:2n)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:22	Exo.36:22	Keep verse	Acd. [2o]	%In some Bibles the verse numbering here is% 37:2o.		(Hebrew=36:22 • Latin=36:22 • Greek=37:2o)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:23	Exo.36:23	Keep verse	Acd. [2p]	%In some Bibles the verse numbering here is% 37:2p.		(Hebrew=36:23 • Latin=36:23 • Greek=37:2p)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:24	Exo.36:24	Keep verse	Acd. [2q]	%In some Bibles the verse numbering here is% 37:2q.		(Hebrew=36:24 • Latin=36:24 • Greek=37:2q)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:25	Exo.36:25	Keep verse	Acd. [2r]	%In some Bibles the verse numbering here is% 37:2r.		(Hebrew=36:25 • Latin=36:25 • Greek=37:2r)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:26	Exo.36:26	Keep verse	Acd. [2s]	%In some Bibles the verse numbering here is% 37:2s.		(Hebrew=36:26 • Latin=36:26 • Greek=37:2s)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:27	Exo.36:27	Keep verse	Acd. [2t]	%In some Bibles the verse numbering here is% 37:2t.		(Hebrew=36:27 • Latin=36:27 • Greek=37:2t)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:28	Exo.36:28	Keep verse	Acd. [2u]	%In some Bibles the verse numbering here is% 37:2u.		(Hebrew=36:28 • Latin=36:28 • Greek=37:2u)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:29	Exo.36:29	Keep verse	Acd. [2v]	%In some Bibles the verse numbering here is% 37:2v.		(Hebrew=36:29 • Latin=36:29 • Greek=37:2v)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:30	Exo.36:30	Keep verse	Acd. [2w]	%In some Bibles the verse numbering here is% 37:2w.		(Hebrew=36:30 • Latin=36:30 • Greek=37:2w)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:31	Exo.36:31	Keep verse	Acd. [2x]	%In some Bibles the verse numbering here is% 37:2x.		(Hebrew=36:31 • Latin=36:31 • Greek=37:2x)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:32	Exo.36:32	Keep verse	Acd. [2y]	%In some Bibles the verse numbering here is% 37:2y.		(Hebrew=36:32 • Latin=36:32 • Greek=37:2y)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:33	Exo.36:33	Keep verse	Acd. [2z]	%In some Bibles the verse numbering here is% 37:2z.		(Hebrew=36:33 • Latin=36:33 • Greek=37:2z)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:34	Exo.36:34	Keep verse	Acd. [2aa]	%In some Bibles the verse numbering here is% 37:2aa.		(Hebrew=36:34 • Latin=36:34 • Greek=37:2aa)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:35	Exo.36:35	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 37:3.		(Hebrew=36:35 • Latin=36:35 • Greek=37:3)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:36	Exo.36:36	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 37:4.		(Hebrew=36:36 • Latin=36:36 • Greek=37:4)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:37	Exo.36:37	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 37:5.		(Hebrew=36:37 • Latin=36:37 • Greek=37:5)	Exo.36:38=Last	
-English+Hebrew+Latin	Exo.36:38	Exo.36:38	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 37:6.		(Hebrew=36:38 • Latin=36:38 • Greek=37:6)	Exo.36:38=Last	
+English+Hebrew+Latin	Exo.36:8	Exo.36:8	Keep verse	Acd. [1, 2a]	%In some Bibles the verse numbering here is% 37:1, 2a.		(Hebrew=36:8 • Latin=36:8 • Greek=37:1; 2a)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:9	Exo.36:9	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 37:2.		(Hebrew=36:9 • Latin=36:9 • Greek=37:2, 2b)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:10	Exo.36:10	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 37:2b.		(Hebrew=36:10 • Latin=36:10 • Greek=37:2c)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:11	Exo.36:11	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 37:2d.		(Hebrew=36:11 • Latin=36:11 • Greek=37:2d)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:12	Exo.36:12	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 37:2e.		(Hebrew=36:12 • Latin=36:12 • Greek=37:2e)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:13	Exo.36:13	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 37:2f.		(Hebrew=36:13 • Latin=36:13 • Greek=37:2f)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:14	Exo.36:14	Keep verse	Acd. [2g]	%In some Bibles the verse numbering here is% 37:2g.		(Hebrew=36:14 • Latin=36:14 • Greek=37:2g)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:15	Exo.36:15	Keep verse	Acd. [2h]	%In some Bibles the verse numbering here is% 37:2h.		(Hebrew=36:15 • Latin=36:15 • Greek=37:2h)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:16	Exo.36:16	Keep verse	Acd. [2i]	%In some Bibles the verse numbering here is% 37:2i.		(Hebrew=36:16 • Latin=36:16 • Greek=37:2i)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:17	Exo.36:17	Keep verse	Acd. [2j]	%In some Bibles the verse numbering here is% 37:2j.		(Hebrew=36:17 • Latin=36:17 • Greek=37:2j)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:18	Exo.36:18	Keep verse	Acd. [2k]	%In some Bibles the verse numbering here is% 37:2k.		(Hebrew=36:18 • Latin=36:18 • Greek=37:2k)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:19	Exo.36:19	Keep verse	Acd. [2l]	%In some Bibles the verse numbering here is% 37:2l.		(Hebrew=36:19 • Latin=36:19 • Greek=37:2l)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:20	Exo.36:20	Keep verse	Acd. [2m]	%In some Bibles the verse numbering here is% 37:2m.		(Hebrew=36:20 • Latin=36:20 • Greek=37:2m)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:21	Exo.36:21	Keep verse	Acd. [2n]	%In some Bibles the verse numbering here is% 37:2n.		(Hebrew=36:21 • Latin=36:21 • Greek=37:2n)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:22	Exo.36:22	Keep verse	Acd. [2o]	%In some Bibles the verse numbering here is% 37:2o.		(Hebrew=36:22 • Latin=36:22 • Greek=37:2o)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:23	Exo.36:23	Keep verse	Acd. [2p]	%In some Bibles the verse numbering here is% 37:2p.		(Hebrew=36:23 • Latin=36:23 • Greek=37:2p)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:24	Exo.36:24	Keep verse	Acd. [2q]	%In some Bibles the verse numbering here is% 37:2q.		(Hebrew=36:24 • Latin=36:24 • Greek=37:2q)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:25	Exo.36:25	Keep verse	Acd. [2r]	%In some Bibles the verse numbering here is% 37:2r.		(Hebrew=36:25 • Latin=36:25 • Greek=37:2r)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:26	Exo.36:26	Keep verse	Acd. [2s]	%In some Bibles the verse numbering here is% 37:2s.		(Hebrew=36:26 • Latin=36:26 • Greek=37:2s)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:27	Exo.36:27	Keep verse	Acd. [2t]	%In some Bibles the verse numbering here is% 37:2t.		(Hebrew=36:27 • Latin=36:27 • Greek=37:2t)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:28	Exo.36:28	Keep verse	Acd. [2u]	%In some Bibles the verse numbering here is% 37:2u.		(Hebrew=36:28 • Latin=36:28 • Greek=37:2u)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:29	Exo.36:29	Keep verse	Acd. [2v]	%In some Bibles the verse numbering here is% 37:2v.		(Hebrew=36:29 • Latin=36:29 • Greek=37:2v)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:30	Exo.36:30	Keep verse	Acd. [2w]	%In some Bibles the verse numbering here is% 37:2w.		(Hebrew=36:30 • Latin=36:30 • Greek=37:2w)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:31	Exo.36:31	Keep verse	Acd. [2x]	%In some Bibles the verse numbering here is% 37:2x.		(Hebrew=36:31 • Latin=36:31 • Greek=37:2x)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:32	Exo.36:32	Keep verse	Acd. [2y]	%In some Bibles the verse numbering here is% 37:2y.		(Hebrew=36:32 • Latin=36:32 • Greek=37:2y)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:33	Exo.36:33	Keep verse	Acd. [2z]	%In some Bibles the verse numbering here is% 37:2z.		(Hebrew=36:33 • Latin=36:33 • Greek=37:2z)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:34	Exo.36:34	Keep verse	Acd. [2aa]	%In some Bibles the verse numbering here is% 37:2aa.		(Hebrew=36:34 • Latin=36:34 • Greek=37:2aa)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:35	Exo.36:35	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 37:3.		(Hebrew=36:35 • Latin=36:35 • Greek=37:3)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:36	Exo.36:36	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 37:4.		(Hebrew=36:36 • Latin=36:36 • Greek=37:4)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:37	Exo.36:37	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 37:5.		(Hebrew=36:37 • Latin=36:37 • Greek=37:5)	Exo.36:38=Last & Exo.37:2.1=NotExist	
+English+Hebrew+Latin	Exo.36:38	Exo.36:38	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 37:6.		(Hebrew=36:38 • Latin=36:38 • Greek=37:6)	Exo.36:38=Last & Exo.37:2.1=NotExist	
 Greek	Exo.37:1	Exo.36:8.1	Renumber verse	Nec. [37:1]	%Normally in this Bible the verse numbering here is% 37:1.		(Hebrew=36:8 • Latin=36:8 • Greek=37:1)	Exo.36:40=Last & Exo.37:2.1=Exist	
 Greek	Exo.37:2.1	Exo.36:8.2	Renumber verse	Nec. [37:2a]	%Normally in this Bible the verse numbering here is% 37:2a.		(Hebrew=36:8 • Latin=36:8 • Greek=37:2a)	Exo.36:40=Last & Exo.37:2.1=Exist	
 Greek	Exo.37:2.0	Exo.36:9.1	Renumber verse	Nec. [37:2٠]	%Normally in this Bible this verse includes words that are at% 36:10-34.		(Hebrew=36:9a • Latin=36:9a • Greek=37:2٠)	Exo.36:40=Last & Exo.37:2.1=Exist	
@@ -3458,35 +3458,35 @@ GreekUndivided	Exo.37:5	Exo.36:37	Renumber verse	Nec. [37:5]	%Normally in this B
 GreekUndivided	Exo.37:6	Exo.36:38	Renumber verse	Nec. [37:6]	%Normally in this Bible the verse numbering here is% 37:6.		(Hebrew=36:38 • Latin=36:38 • Greek=37:6)	Exo.36:40=Last & Exo.37:2.1=NotExist	
 GreekUndivided	Exo.38:19	Exo.36:13	Renumber verse	Nec. [38:19]	%Normally in this Bible the verse numbering here is% 38:19.		(Hebrew=36:13 • Latin=36:13 • Greek=37:2f)	Exo.36:40=Last & Exo.37:2.1=NotExist	
 
-English+Hebrew+Latin	Exo.37:1	Exo.37:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 38:1.		(Hebrew=37:1 • Latin=37:1 • Greek=38:1)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:2	Exo.37:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 38:2.		(Hebrew=37:2 • Latin=37:2 • Greek=38:2)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:3	Exo.37:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 38:3.		(Hebrew=37:3 • Latin=37:3 • Greek=38:3)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:4	Exo.37:4	Keep verse	Acd. [4a]	%In some Bibles the verse numbering here is% 38:4a.		(Hebrew=37:4 • Latin=37:4 • Greek=38:4a)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:5	Exo.37:5	Keep verse	Acd. [4b]	%In some Bibles the verse numbering here is% 38:4b.		(Hebrew=37:5 • Latin=37:5 • Greek=38:4b)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:6	Exo.37:6	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 38:5.		(Hebrew=37:6 • Latin=37:6 • Greek=38:5)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:7	Exo.37:7	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 38:6.		(Hebrew=37:7 • Latin=37:7 • Greek=38:6)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:8	Exo.37:8	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 38:7.		(Hebrew=37:8 • Latin=37:8 • Greek=38:7)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:9	Exo.37:9	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 38:8.		(Hebrew=37:9 • Latin=37:9 • Greek=38:8)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:10	Exo.37:10	Keep verse	Acd. [11a]	%In some Bibles the verse numbering here is% 38:11a.		(Hebrew=37:10 • Latin=37:10 • Greek=38:11a)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:11	Exo.37:11	Keep verse	Acd. [9, 11b]	%In some Bibles the verse numbering here is% 38:9, 11a.		(Hebrew=37:11 • Latin=37:11 • Greek=38:9; 11b)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:12	Exo.37:12	Keep verse	Acd. [11c]	%In some Bibles the verse numbering here is% 38:11c.		(Hebrew=37:12 • Latin=37:12 • Greek=38:11c)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:13	Exo.37:13	Keep verse	Acd. [10, 11d]	%In some Bibles the verse numbering here is% 38:10, 11d.		(Hebrew=37:13 • Latin=37:13 • Greek=38:10; 11d)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:14	Exo.37:14	Keep verse	Acd. [11e]	%In some Bibles the verse numbering here is% 38:11e.		(Hebrew=37:14 • Latin=37:14 • Greek=38:11e)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:15	Exo.37:15	Keep verse	Acd. [11,f]	%In some Bibles the verse numbering here is% 38:11, 11f.		(Hebrew=37:15 • Latin=37:15 • Greek=38:11, 11f)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:16	Exo.37:16	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 38:12.		(Hebrew=37:16 • Latin=37:16 • Greek=38:12)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:17	Exo.37:17	Keep verse	Acd. [13, 17a]	%In some Bibles the verse numbering here is% 38:13, 17a.		(Hebrew=37:17 • Latin=37:17 • Greek=38:13; 17a)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:18	Exo.37:18	Keep verse	Acd. [14, 15, 17b]	%In some Bibles the verse numbering here is% 38:14, 15, 17b.		(Hebrew=37:18 • Latin=37:18 • Greek=38:14, 15; 17b)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:19	Exo.37:19	Keep verse	Acd. [16, 17c]	%In some Bibles the verse numbering here is% 38:16, 17c.		(Hebrew=37:19 • Latin=37:19 • Greek=38:16; 17c)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:20	Exo.37:20	Keep verse	Acd. [17d]	%In some Bibles the verse numbering here is% 38:17d.		(Hebrew=37:20 • Latin=37:20 • Greek=38:17d)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:21	Exo.37:21	Keep verse	Acd. [17e]	%In some Bibles the verse numbering here is% 38:17e.		(Hebrew=37:21 • Latin=37:21 • Greek=38:17e)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:22	Exo.37:22	Keep verse	Acd. [17f]	%In some Bibles the verse numbering here is% 38:17f.		(Hebrew=37:22 • Latin=37:22 • Greek=38:17f)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:23	Exo.37:23	Keep verse	Acd. [17,g]	%In some Bibles the verse numbering here is% 38:17, 17g.		(Hebrew=37:23 • Latin=37:23 • Greek=38:17, 17g)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:24	Exo.37:24	Keep verse	Acd. [17h]	%In some Bibles the verse numbering here is% 38:17h.		(Hebrew=37:24 • Latin=37:24 • Greek=38:17h)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:25	Exo.37:25	Keep verse	Acd. [17i]	%In some Bibles the verse numbering here is% 38:17i.		(Hebrew=37:25 • Latin=37:25 • Greek=38:17i)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:26	Exo.37:26	Keep verse	Acd. [17j]	%In some Bibles the verse numbering here is% 38:17j.		(Hebrew=37:26 • Latin=37:26 • Greek=38:17j)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:27	Exo.37:27	Keep verse	Acd. [17k]	%In some Bibles the verse numbering here is% 38:17k.		(Hebrew=37:27 • Latin=37:27 • Greek=38:17k)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:28	Exo.37:28	Keep verse	Acd. [17l]	%In some Bibles the verse numbering here is% 38:17l.		(Hebrew=37:28 • Latin=37:28 • Greek=38:17l)	Exo.37:29=Last	
-English+Hebrew+Latin	Exo.37:29	Exo.37:29	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 38:25.		(Hebrew=37:29 • Latin=37:29 • Greek=38:25)	Exo.37:29=Last	
+English+Hebrew+Latin	Exo.37:1	Exo.37:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 38:1.		(Hebrew=37:1 • Latin=37:1 • Greek=38:1)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:2	Exo.37:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 38:2.		(Hebrew=37:2 • Latin=37:2 • Greek=38:2)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:3	Exo.37:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 38:3.		(Hebrew=37:3 • Latin=37:3 • Greek=38:3)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:4	Exo.37:4	Keep verse	Acd. [4a]	%In some Bibles the verse numbering here is% 38:4a.		(Hebrew=37:4 • Latin=37:4 • Greek=38:4a)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:5	Exo.37:5	Keep verse	Acd. [4b]	%In some Bibles the verse numbering here is% 38:4b.		(Hebrew=37:5 • Latin=37:5 • Greek=38:4b)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:6	Exo.37:6	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 38:5.		(Hebrew=37:6 • Latin=37:6 • Greek=38:5)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:7	Exo.37:7	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 38:6.		(Hebrew=37:7 • Latin=37:7 • Greek=38:6)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:8	Exo.37:8	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 38:7.		(Hebrew=37:8 • Latin=37:8 • Greek=38:7)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:9	Exo.37:9	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 38:8.		(Hebrew=37:9 • Latin=37:9 • Greek=38:8)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:10	Exo.37:10	Keep verse	Acd. [11a]	%In some Bibles the verse numbering here is% 38:11a.		(Hebrew=37:10 • Latin=37:10 • Greek=38:11a)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:11	Exo.37:11	Keep verse	Acd. [9, 11b]	%In some Bibles the verse numbering here is% 38:9, 11a.		(Hebrew=37:11 • Latin=37:11 • Greek=38:9; 11b)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:12	Exo.37:12	Keep verse	Acd. [11c]	%In some Bibles the verse numbering here is% 38:11c.		(Hebrew=37:12 • Latin=37:12 • Greek=38:11c)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:13	Exo.37:13	Keep verse	Acd. [10, 11d]	%In some Bibles the verse numbering here is% 38:10, 11d.		(Hebrew=37:13 • Latin=37:13 • Greek=38:10; 11d)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:14	Exo.37:14	Keep verse	Acd. [11e]	%In some Bibles the verse numbering here is% 38:11e.		(Hebrew=37:14 • Latin=37:14 • Greek=38:11e)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:15	Exo.37:15	Keep verse	Acd. [11,f]	%In some Bibles the verse numbering here is% 38:11, 11f.		(Hebrew=37:15 • Latin=37:15 • Greek=38:11, 11f)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:16	Exo.37:16	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 38:12.		(Hebrew=37:16 • Latin=37:16 • Greek=38:12)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:17	Exo.37:17	Keep verse	Acd. [13, 17a]	%In some Bibles the verse numbering here is% 38:13, 17a.		(Hebrew=37:17 • Latin=37:17 • Greek=38:13; 17a)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:18	Exo.37:18	Keep verse	Acd. [14, 15, 17b]	%In some Bibles the verse numbering here is% 38:14, 15, 17b.		(Hebrew=37:18 • Latin=37:18 • Greek=38:14, 15; 17b)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:19	Exo.37:19	Keep verse	Acd. [16, 17c]	%In some Bibles the verse numbering here is% 38:16, 17c.		(Hebrew=37:19 • Latin=37:19 • Greek=38:16; 17c)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:20	Exo.37:20	Keep verse	Acd. [17d]	%In some Bibles the verse numbering here is% 38:17d.		(Hebrew=37:20 • Latin=37:20 • Greek=38:17d)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:21	Exo.37:21	Keep verse	Acd. [17e]	%In some Bibles the verse numbering here is% 38:17e.		(Hebrew=37:21 • Latin=37:21 • Greek=38:17e)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:22	Exo.37:22	Keep verse	Acd. [17f]	%In some Bibles the verse numbering here is% 38:17f.		(Hebrew=37:22 • Latin=37:22 • Greek=38:17f)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:23	Exo.37:23	Keep verse	Acd. [17,g]	%In some Bibles the verse numbering here is% 38:17, 17g.		(Hebrew=37:23 • Latin=37:23 • Greek=38:17, 17g)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:24	Exo.37:24	Keep verse	Acd. [17h]	%In some Bibles the verse numbering here is% 38:17h.		(Hebrew=37:24 • Latin=37:24 • Greek=38:17h)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:25	Exo.37:25	Keep verse	Acd. [17i]	%In some Bibles the verse numbering here is% 38:17i.		(Hebrew=37:25 • Latin=37:25 • Greek=38:17i)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:26	Exo.37:26	Keep verse	Acd. [17j]	%In some Bibles the verse numbering here is% 38:17j.		(Hebrew=37:26 • Latin=37:26 • Greek=38:17j)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:27	Exo.37:27	Keep verse	Acd. [17k]	%In some Bibles the verse numbering here is% 38:17k.		(Hebrew=37:27 • Latin=37:27 • Greek=38:17k)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:28	Exo.37:28	Keep verse	Acd. [17l]	%In some Bibles the verse numbering here is% 38:17l.		(Hebrew=37:28 • Latin=37:28 • Greek=38:17l)	Exo.37:29=Last & Exo.38:11.1=NotExist	
+English+Hebrew+Latin	Exo.37:29	Exo.37:29	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 38:25.		(Hebrew=37:29 • Latin=37:29 • Greek=38:25)	Exo.37:29=Last & Exo.38:11.1=NotExist	
 Greek	Exo.38:1	Exo.37:1	Renumber verse	Nec. [38:1]	%Normally in this Bible the verse numbering here is% 38:1.		(Hebrew=37:1 • Latin=37:1 • Greek=38:1)	Exo.37:21=Last & Exo.38:11.1=Exist	
 Greek	Exo.38:2	Exo.37:2	Renumber verse	Nec. [38:2]	%Normally in this Bible the verse numbering here is% 38:2.		(Hebrew=37:2 • Latin=37:2 • Greek=38:2)	Exo.37:21=Last & Exo.38:11.1=Exist	
 Greek	Exo.38:3	Exo.37:3	Renumber verse	Nec. [38:3]	%Normally in this Bible the verse numbering here is% 38:3.		(Hebrew=37:3 • Latin=37:3 • Greek=38:3)	Exo.37:21=Last & Exo.38:11.1=Exist	
@@ -4497,20 +4497,34 @@ Slavonic	Jos.6:24	Jos.6:25	Renumber verse	Nec. [24]	%Normally in this Bible the 
 Slavonic	Jos.6:25	Jos.6:26	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 6:25.		(Hebrew=6:26 • Latin=6:26 • Greek=6:26)	Jos.5:16=Last & Jos.6:26=Last	
 Slavonic	Jos.6:26	Jos.6:27	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 6:26.		(Hebrew=6:27 • Latin=6:27 • Greek=6:27)	Jos.5:16=Last & Jos.6:26=Last	
 
-English	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:35=Last & Jos.9:1>Jos.9:2	
-English	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:35=Last & Jos.9:1>Jos.9:2	
-English	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:35=Last & Jos.9:1>Jos.9:2	
-English	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:35=Last & Jos.9:1>Jos.9:2	
-English	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:35=Last & Jos.9:1>Jos.9:2	
-English	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:35=Last & Jos.9:1>Jos.9:2	
-English	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:35=Last & Jos.9:1>Jos.9:2	
-Greek	Jos.9:2.0	Jos.9:2	Keep verse	Acd. [2٠]	%Normally in this Bible this verse includes words that are at% 8:30-35.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2٠)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
-Greek	Jos.9:2.1	Jos.8:30	Renumber verse	Nec. [2a]	%Normally in this Bible the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
-Greek	Jos.9:2.2	Jos.8:31	Renumber verse	Nec. [2b]	%Normally in this Bible the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
-Greek	Jos.9:2.3	Jos.8:32	Renumber verse	Nec. [2c]	%Normally in this Bible the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
-Greek	Jos.9:2.4	Jos.8:33	Renumber verse	Nec. [2d]	%Normally in this Bible the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
-Greek	Jos.9:2.5	Jos.8:34	Renumber verse	Nec. [2e]	%Normally in this Bible the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
-Greek	Jos.9:2.6	Jos.8:35	Renumber verse	Nec. [2f]	%Normally in this Bible the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
+English	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Hebrew	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Hebrew	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Hebrew	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Hebrew	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Hebrew	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Hebrew	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Hebrew	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Latin	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+Latin	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+Latin	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+Latin	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+Latin	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+Latin	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+Latin	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.0	Jos.9:2	Keep verse	Acd. [2٠]	%Normally in this Bible this verse includes words that are at% 8:30-35.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2٠)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.1	Jos.8:30	Renumber verse	Nec. [2a]	%Normally in this Bible the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.2	Jos.8:31	Renumber verse	Nec. [2b]	%Normally in this Bible the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.3	Jos.8:32	Renumber verse	Nec. [2c]	%Normally in this Bible the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.4	Jos.8:33	Renumber verse	Nec. [2d]	%Normally in this Bible the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.5	Jos.8:34	Renumber verse	Nec. [2e]	%Normally in this Bible the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.6	Jos.8:35	Renumber verse	Nec. [2f]	%Normally in this Bible the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
 GreekUndivided	Jos.8:30	Jos.8:30	Merged with	Nec. [2a]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
 GreekUndivided	Jos.8:31	Jos.8:31	Merged with	Nec. [2b]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
 GreekUndivided	Jos.8:32	Jos.8:32	Merged with	Nec. [2c]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
@@ -4518,20 +4532,6 @@ GreekUndivided	Jos.8:33	Jos.8:33	Merged with	Nec. [2d]	%Normally in this Bible s
 GreekUndivided	Jos.8:34	Jos.8:34	Merged with	Nec. [2e]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
 GreekUndivided	Jos.8:35	Jos.8:35	Merged with	Nec. [2f]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
 GreekUndivided	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:36=Last & Jos.9:1>Jos.9:2	
-Hebrew	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:36=Last & Jos.9:1>Jos.9:2	
-Hebrew	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:36=Last & Jos.9:1>Jos.9:2	
-Hebrew	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:36=Last & Jos.9:1>Jos.9:2	
-Hebrew	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:36=Last & Jos.9:1>Jos.9:2	
-Hebrew	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:36=Last & Jos.9:1>Jos.9:2	
-Hebrew	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:36=Last & Jos.9:1>Jos.9:2	
-Latin	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:35=Last & Jos.9:1<Jos.9:2	
-Latin	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:35=Last & Jos.9:1<Jos.9:2	
-Latin	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:35=Last & Jos.9:1<Jos.9:2	
-Latin	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:35=Last & Jos.9:1<Jos.9:2	
-Latin	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:35=Last & Jos.9:1<Jos.9:2	
-Latin	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:35=Last & Jos.9:1<Jos.9:2	
-Latin	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:35=Last & Jos.9:1<Jos.9:2	
 
 English+Hebrew+Greek	Jos.21:36	Jos.21:36	Keep verse	Acd. [36a]	%In some Bibles the verse numbering here is% 21:36a.		(Hebrew=21:36 • Latin=21:36a • Greek=21:36)	Jos.21:45=Last	
 English+Hebrew+Greek	Jos.21:37	Jos.21:37	Keep verse	Acd. [36b]	%In some Bibles the verse numbering here is% 21:36b.		(Hebrew=21:37 • Latin=21:36b • Greek=21:37)	Jos.21:45=Last	
@@ -4757,46 +4757,46 @@ Hebrew+Greek	2Sa.19:42	2Sa.19:41	Renumber verse	Nec. [42]	%Normally in this Bibl
 Hebrew+Greek	2Sa.19:43	2Sa.19:42	Renumber verse	Nec. [43]	%Normally in this Bible the verse numbering here is% 19:43.		(Hebrew=19:43 • Latin=19:42 • Greek=19:43)	2Sa.19:44=Last	
 Hebrew+Greek	2Sa.19:44	2Sa.19:43	Renumber verse	Nec. [44]	%Normally in this Bible the verse numbering here is% 19:44.		(Hebrew=19:44 • Latin=19:43 • Greek=19:44)	2Sa.19:44=Last	
 
-English+Latin	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.		(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:34=Last	
-English+Latin	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.		(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:34=Last	
-English+Latin	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:34=Last	
-English+Latin	1Ki.2:46	1Ki.2:46	Keep verse	Acd. [46,a-k]	%In some Bibles the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21; 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21; 24-26])	1Ki.4:34=Last	
-English+Latin	1Ki.3:1	1Ki.3:1	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 5:14a.		(Hebrew=3:1 • Latin=3:1 • Greek=5:14a)	1Ki.4:34=Last	
-English+Latin	1Ki.4:17	1Ki.4:17	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:17 • Latin=4:17 • Greek=4:19)	1Ki.4:34=Last	
-English+Latin	1Ki.4:18	1Ki.4:18	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:18 • Latin=4:18 • Greek=4:17)	1Ki.4:34=Last	
-English+Latin	1Ki.4:19	1Ki.4:19	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:19 • Latin=4:19 • Greek=4:18)	1Ki.4:34=Last	
-English+Latin	1Ki.4:20	1Ki.4:20	Keep verse	Acd. [46a-e]	%In some Bibles the verse numbering here is% 2:46a-e.		(Hebrew=4:20 • Latin=4:20 • Greek=2:46a-e)	1Ki.4:34=Last	
-English+Latin	1Ki.4:21	1Ki.4:21	Keep verse	Acd. [46j-k]	%In some Bibles the verse numbering here is% 2:46j-k.		(Hebrew=5:1 • Latin=4:21 • Greek=2:46j-k)	1Ki.4:34=Last	
-English+Latin	1Ki.4:22	1Ki.4:22	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=4:22 • Greek=5:2)	1Ki.4:34=Last	
-English+Latin	1Ki.4:23	1Ki.4:23	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=4:23 • Greek=5:3)	1Ki.4:34=Last	
-English+Latin	1Ki.4:24	1Ki.4:24	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 5:4.		(Hebrew=5:4 • Latin=4:24 • Greek=5:4)	1Ki.4:34=Last	
-English+Latin	1Ki.4:25	1Ki.4:25	Keep verse	Acd. [46g-h]	%In some Bibles the verse numbering here is% 2:46g-h.		(Hebrew=5:5 • Latin=4:25 • Greek=2:46g-h)	1Ki.4:34=Last	
-English+Latin	1Ki.4:26	1Ki.4:26	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 5:6.		(Hebrew=5:6 • Latin=4:26 • Greek=2:46i)	1Ki.4:34=Last	
-English+Latin	1Ki.4:27	1Ki.4:27	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 5:7.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:34=Last	
-English+Latin	1Ki.4:28	1Ki.4:28	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 5:8.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:34=Last	
-English+Latin	1Ki.4:29	1Ki.4:29	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 5:9.		(Hebrew=5:9 • Latin=4:29 • Greek=5:9)	1Ki.4:34=Last	
-English+Latin	1Ki.4:30	1Ki.4:30	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 5:10.		(Hebrew=5:10 • Latin=4:30 • Greek=5:10)	1Ki.4:34=Last	
-English+Latin	1Ki.4:31	1Ki.4:31	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 5:11.		(Hebrew=5:11 • Latin=4:31 • Greek=5:11)	1Ki.4:34=Last	
-English+Latin	1Ki.4:32	1Ki.4:32	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 5:12.		(Hebrew=5:12 • Latin=4:32 • Greek=5:12)	1Ki.4:34=Last	
-English+Latin	1Ki.4:33	1Ki.4:33	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 5:13.		(Hebrew=5:13 • Latin=4:33 • Greek=5:13)	1Ki.4:34=Last	
-English+Latin	1Ki.4:34	1Ki.4:34	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 5:14.		(Hebrew=5:14 • Latin=4:34 • Greek=5:14)	1Ki.4:34=Last	
-English+Latin	1Ki.5:1	1Ki.5:1	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 5:15.		(Hebrew=5:15 • Latin=5:1 • Greek=5:15)	1Ki.4:34=Last	
-English+Latin	1Ki.5:2	1Ki.5:2	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 5:16.		(Hebrew=5:16 • Latin=5:2 • Greek=5:16)	1Ki.4:34=Last	
-English+Latin	1Ki.5:3	1Ki.5:3	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 5:17.		(Hebrew=5:17 • Latin=5:3 • Greek=5:17)	1Ki.4:34=Last	
-English+Latin	1Ki.5:4	1Ki.5:4	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 5:18.		(Hebrew=5:18 • Latin=5:4 • Greek=5:18)	1Ki.4:34=Last	
-English+Latin	1Ki.5:5	1Ki.5:5	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 5:19.		(Hebrew=5:19 • Latin=5:5 • Greek=5:19)	1Ki.4:34=Last	
-English+Latin	1Ki.5:6	1Ki.5:6	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 5:20.		(Hebrew=5:20 • Latin=5:6 • Greek=5:20)	1Ki.4:34=Last	
-English+Latin	1Ki.5:7	1Ki.5:7	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 5:21.		(Hebrew=5:21 • Latin=5:7 • Greek=5:21)	1Ki.4:34=Last	
-English+Latin	1Ki.5:8	1Ki.5:8	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 5:22.		(Hebrew=5:22 • Latin=5:8 • Greek=5:22)	1Ki.4:34=Last	
-English+Latin	1Ki.5:9	1Ki.5:9	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 5:23.		(Hebrew=5:23 • Latin=5:9 • Greek=5:23)	1Ki.4:34=Last	
-English+Latin	1Ki.5:10	1Ki.5:10	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 5:24.		(Hebrew=5:24 • Latin=5:10 • Greek=5:24)	1Ki.4:34=Last	
-English+Latin	1Ki.5:11	1Ki.5:11	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 5:25.		(Hebrew=5:25 • Latin=5:11 • Greek=5:25)	1Ki.4:34=Last	
-English+Latin	1Ki.5:12	1Ki.5:12	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 5:26.		(Hebrew=5:26 • Latin=5:12 • Greek=5:26)	1Ki.4:34=Last	
-English+Latin	1Ki.5:13	1Ki.5:13	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 5:27.		(Hebrew=5:27 • Latin=5:13 • Greek=5:27)	1Ki.4:34=Last	
-English+Latin	1Ki.5:14	1Ki.5:14	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 5:28.		(Hebrew=5:28 • Latin=5:14 • Greek=5:28)	1Ki.4:34=Last	
-English+Latin	1Ki.5:15	1Ki.5:15	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 5:29.		(Hebrew=5:29 • Latin=5:15 • Greek=5:29)	1Ki.4:34=Last	
-English+Latin	1Ki.5:16	1Ki.5:16	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 5:30.		(Hebrew=5:30 • Latin=5:16 • Greek=5:30)	1Ki.4:34=Last	
-English+Latin	1Ki.7:23	1Ki.7:23	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:34=Last	
+English+Latin	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.		(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.		(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.2:46	1Ki.2:46	Keep verse	Acd. [46,a-k]	%In some Bibles the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21; 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21; 24-26])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.3:1	1Ki.3:1	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 5:14a.		(Hebrew=3:1 • Latin=3:1 • Greek=5:14a)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:17	1Ki.4:17	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:17 • Latin=4:17 • Greek=4:19)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:18	1Ki.4:18	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:18 • Latin=4:18 • Greek=4:17)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:19	1Ki.4:19	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:19 • Latin=4:19 • Greek=4:18)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:20	1Ki.4:20	Keep verse	Acd. [46a-e]	%In some Bibles the verse numbering here is% 2:46a-e.		(Hebrew=4:20 • Latin=4:20 • Greek=2:46a-e)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:21	1Ki.4:21	Keep verse	Acd. [46j-k]	%In some Bibles the verse numbering here is% 2:46j-k.		(Hebrew=5:1 • Latin=4:21 • Greek=2:46j-k)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:22	1Ki.4:22	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=4:22 • Greek=5:2)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:23	1Ki.4:23	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=4:23 • Greek=5:3)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:24	1Ki.4:24	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 5:4.		(Hebrew=5:4 • Latin=4:24 • Greek=5:4)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:25	1Ki.4:25	Keep verse	Acd. [46g-h]	%In some Bibles the verse numbering here is% 2:46g-h.		(Hebrew=5:5 • Latin=4:25 • Greek=2:46g-h)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:26	1Ki.4:26	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 5:6.		(Hebrew=5:6 • Latin=4:26 • Greek=2:46i)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:27	1Ki.4:27	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 5:7.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:28	1Ki.4:28	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 5:8.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:29	1Ki.4:29	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 5:9.		(Hebrew=5:9 • Latin=4:29 • Greek=5:9)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:30	1Ki.4:30	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 5:10.		(Hebrew=5:10 • Latin=4:30 • Greek=5:10)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:31	1Ki.4:31	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 5:11.		(Hebrew=5:11 • Latin=4:31 • Greek=5:11)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:32	1Ki.4:32	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 5:12.		(Hebrew=5:12 • Latin=4:32 • Greek=5:12)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:33	1Ki.4:33	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 5:13.		(Hebrew=5:13 • Latin=4:33 • Greek=5:13)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.4:34	1Ki.4:34	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 5:14.		(Hebrew=5:14 • Latin=4:34 • Greek=5:14)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:1	1Ki.5:1	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 5:15.		(Hebrew=5:15 • Latin=5:1 • Greek=5:15)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:2	1Ki.5:2	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 5:16.		(Hebrew=5:16 • Latin=5:2 • Greek=5:16)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:3	1Ki.5:3	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 5:17.		(Hebrew=5:17 • Latin=5:3 • Greek=5:17)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:4	1Ki.5:4	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 5:18.		(Hebrew=5:18 • Latin=5:4 • Greek=5:18)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:5	1Ki.5:5	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 5:19.		(Hebrew=5:19 • Latin=5:5 • Greek=5:19)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:6	1Ki.5:6	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 5:20.		(Hebrew=5:20 • Latin=5:6 • Greek=5:20)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:7	1Ki.5:7	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 5:21.		(Hebrew=5:21 • Latin=5:7 • Greek=5:21)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:8	1Ki.5:8	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 5:22.		(Hebrew=5:22 • Latin=5:8 • Greek=5:22)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:9	1Ki.5:9	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 5:23.		(Hebrew=5:23 • Latin=5:9 • Greek=5:23)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:10	1Ki.5:10	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 5:24.		(Hebrew=5:24 • Latin=5:10 • Greek=5:24)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:11	1Ki.5:11	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 5:25.		(Hebrew=5:25 • Latin=5:11 • Greek=5:25)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:12	1Ki.5:12	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 5:26.		(Hebrew=5:26 • Latin=5:12 • Greek=5:26)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:13	1Ki.5:13	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 5:27.		(Hebrew=5:27 • Latin=5:13 • Greek=5:27)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:14	1Ki.5:14	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 5:28.		(Hebrew=5:28 • Latin=5:14 • Greek=5:28)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:15	1Ki.5:15	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 5:29.		(Hebrew=5:29 • Latin=5:15 • Greek=5:29)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.5:16	1Ki.5:16	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 5:30.		(Hebrew=5:30 • Latin=5:16 • Greek=5:30)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
+English+Latin	1Ki.7:23	1Ki.7:23	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>2:35	
 Greek	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.		(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.		(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
@@ -4882,67 +4882,67 @@ GreekUndivided	1Ki.5:28	1Ki.5:14	Renumber verse	Nec. [28]	%Normally in this Bibl
 GreekUndivided	1Ki.5:29	1Ki.5:15	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 5:29 [2:35d].		(Hebrew=5:29 • Latin=5:15 • Greek=5:29[=2:35d])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.5:30	1Ki.5:16	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 5:30 [2:35h].		(Hebrew=5:30 • Latin=5:16 • Greek=5:30[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.7:10	1Ki.7:23	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
-Hebrew	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.	%The extra words are found at% 2:35k.	(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.	%The extra words are found at% 2:35n.	(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.2:46	1Ki.2:46	Keep verse	Acd. [46,a-k]	%In some Bibles the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21; 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21; 24-26])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.3:1	1Ki.3:1	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 5:14a.		(Hebrew=3:1 • Latin=3:1 • Greek=5:14a)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.4:17	1Ki.4:17	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:17 • Latin=4:17 • Greek=4:19)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.4:18	1Ki.4:18	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:18 • Latin=4:18 • Greek=4:17)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.4:19	1Ki.4:19	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:19 • Latin=4:19 • Greek=4:18)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.4:20	1Ki.4:20	Keep verse	Acd. [46a-e]	%In some Bibles the verse numbering here is% 2:46a-e.		(Hebrew=4:20 • Latin=4:20 • Greek=2:46a-e)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:1	1Ki.4:21	Renumber verse	Nec. [5:1]	%Normally in this Bible the verse numbering here is% 5:1.		(Hebrew=5:1 • Latin=4:21 • Greek=2:46j-k)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:2	1Ki.4:22	Renumber verse	Nec. [5:2]	%Normally in this Bible the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=4:22 • Greek=5:2)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:3	1Ki.4:23	Renumber verse	Nec. [5:3]	%Normally in this Bible the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=4:23 • Greek=5:3)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:4	1Ki.4:24	Renumber verse	Nec. [5:4]	%Normally in this Bible the verse numbering here is% 5:4.		(Hebrew=5:4 • Latin=4:24 • Greek=5:4)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:5	1Ki.4:25	Renumber verse	Nec. [5:5]	%Normally in this Bible the verse numbering here is% 5:5.		(Hebrew=5:5 • Latin=4:25 • Greek=2:46g-h)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:6	1Ki.4:26	Renumber verse	Nec. [5:6]	%Normally in this Bible the verse numbering here is% 5:6.		(Hebrew=5:6 • Latin=4:26 • Greek=2:46i)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:7	1Ki.4:27	Renumber verse	Nec. [5:7]	%Normally in this Bible the verse numbering here is% 5:7.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:8	1Ki.4:28	Renumber verse	Nec. [5:8]	%Normally in this Bible the verse numbering here is% 5:8.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:9	1Ki.4:29	Renumber verse	Nec. [5:9]	%Normally in this Bible the verse numbering here is% 5:9.		(Hebrew=5:9 • Latin=4:29 • Greek=5:9)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:10	1Ki.4:30	Renumber verse	Nec. [5:10]	%Normally in this Bible the verse numbering here is% 5:10.		(Hebrew=5:10 • Latin=4:30 • Greek=5:10)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:11	1Ki.4:31	Renumber verse	Nec. [5:11]	%Normally in this Bible the verse numbering here is% 5:11.		(Hebrew=5:11 • Latin=4:31 • Greek=5:11)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:12	1Ki.4:32	Renumber verse	Nec. [5:12]	%Normally in this Bible the verse numbering here is% 5:12.		(Hebrew=5:12 • Latin=4:32 • Greek=5:12)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:13	1Ki.4:33	Renumber verse	Nec. [5:13]	%Normally in this Bible the verse numbering here is% 5:13.		(Hebrew=5:13 • Latin=4:33 • Greek=5:13)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:14	1Ki.4:34	Renumber verse	Nec. [5:14]	%Normally in this Bible the verse numbering here is% 5:14.		(Hebrew=5:14 • Latin=4:34 • Greek=5:14)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:15	1Ki.5:1	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 5:15.		(Hebrew=5:15 • Latin=5:1 • Greek=5:15)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:16	1Ki.5:2	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 5:16.		(Hebrew=5:16 • Latin=5:2 • Greek=5:16)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:17	1Ki.5:3	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 5:17.		(Hebrew=5:17 • Latin=5:3 • Greek=5:17)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:18	1Ki.5:4	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 5:18.		(Hebrew=5:18 • Latin=5:4 • Greek=5:18)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:19	1Ki.5:5	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 5:19.		(Hebrew=5:19 • Latin=5:5 • Greek=5:19)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:20	1Ki.5:6	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 5:20.		(Hebrew=5:20 • Latin=5:6 • Greek=5:20)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:21	1Ki.5:7	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 5:21.		(Hebrew=5:21 • Latin=5:7 • Greek=5:21)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:22	1Ki.5:8	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 5:22.		(Hebrew=5:22 • Latin=5:8 • Greek=5:22)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:23	1Ki.5:9	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 5:23.		(Hebrew=5:23 • Latin=5:9 • Greek=5:23)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:24	1Ki.5:10	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 5:24.		(Hebrew=5:24 • Latin=5:10 • Greek=5:24)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:25	1Ki.5:11	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 5:25.		(Hebrew=5:25 • Latin=5:11 • Greek=5:25)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:26	1Ki.5:12	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 5:26.		(Hebrew=5:26 • Latin=5:12 • Greek=5:26)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:27	1Ki.5:13	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 5:27.		(Hebrew=5:27 • Latin=5:13 • Greek=5:27)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:28	1Ki.5:14	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 5:28.		(Hebrew=5:28 • Latin=5:14 • Greek=5:28)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:29	1Ki.5:15	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 5:29.		(Hebrew=5:29 • Latin=5:15 • Greek=5:29)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.5:30	1Ki.5:16	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 5:30.		(Hebrew=5:30 • Latin=5:16 • Greek=5:30)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
-Hebrew	1Ki.7:23	1Ki.7:23	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35	
+Hebrew	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.	%The extra words are found at% 2:35k.	(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.	%The extra words are found at% 2:35n.	(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.2:46	1Ki.2:46	Keep verse	Acd. [46,a-k]	%In some Bibles the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21; 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21; 24-26])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.3:1	1Ki.3:1	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 5:14a.		(Hebrew=3:1 • Latin=3:1 • Greek=5:14a)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.4:17	1Ki.4:17	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 4:19.		(Hebrew=4:17 • Latin=4:17 • Greek=4:19)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.4:18	1Ki.4:18	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 4:17.		(Hebrew=4:18 • Latin=4:18 • Greek=4:17)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.4:19	1Ki.4:19	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 4:18.		(Hebrew=4:19 • Latin=4:19 • Greek=4:18)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.4:20	1Ki.4:20	Keep verse	Acd. [46a-e]	%In some Bibles the verse numbering here is% 2:46a-e.		(Hebrew=4:20 • Latin=4:20 • Greek=2:46a-e)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:1	1Ki.4:21	Renumber verse	Nec. [5:1]	%Normally in this Bible the verse numbering here is% 5:1.		(Hebrew=5:1 • Latin=4:21 • Greek=2:46j-k)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:2	1Ki.4:22	Renumber verse	Nec. [5:2]	%Normally in this Bible the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=4:22 • Greek=5:2)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:3	1Ki.4:23	Renumber verse	Nec. [5:3]	%Normally in this Bible the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=4:23 • Greek=5:3)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:4	1Ki.4:24	Renumber verse	Nec. [5:4]	%Normally in this Bible the verse numbering here is% 5:4.		(Hebrew=5:4 • Latin=4:24 • Greek=5:4)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:5	1Ki.4:25	Renumber verse	Nec. [5:5]	%Normally in this Bible the verse numbering here is% 5:5.		(Hebrew=5:5 • Latin=4:25 • Greek=2:46g-h)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:6	1Ki.4:26	Renumber verse	Nec. [5:6]	%Normally in this Bible the verse numbering here is% 5:6.		(Hebrew=5:6 • Latin=4:26 • Greek=2:46i)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:7	1Ki.4:27	Renumber verse	Nec. [5:7]	%Normally in this Bible the verse numbering here is% 5:7.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:8	1Ki.4:28	Renumber verse	Nec. [5:8]	%Normally in this Bible the verse numbering here is% 5:8.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:9	1Ki.4:29	Renumber verse	Nec. [5:9]	%Normally in this Bible the verse numbering here is% 5:9.		(Hebrew=5:9 • Latin=4:29 • Greek=5:9)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:10	1Ki.4:30	Renumber verse	Nec. [5:10]	%Normally in this Bible the verse numbering here is% 5:10.		(Hebrew=5:10 • Latin=4:30 • Greek=5:10)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:11	1Ki.4:31	Renumber verse	Nec. [5:11]	%Normally in this Bible the verse numbering here is% 5:11.		(Hebrew=5:11 • Latin=4:31 • Greek=5:11)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:12	1Ki.4:32	Renumber verse	Nec. [5:12]	%Normally in this Bible the verse numbering here is% 5:12.		(Hebrew=5:12 • Latin=4:32 • Greek=5:12)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:13	1Ki.4:33	Renumber verse	Nec. [5:13]	%Normally in this Bible the verse numbering here is% 5:13.		(Hebrew=5:13 • Latin=4:33 • Greek=5:13)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:14	1Ki.4:34	Renumber verse	Nec. [5:14]	%Normally in this Bible the verse numbering here is% 5:14.		(Hebrew=5:14 • Latin=4:34 • Greek=5:14)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:15	1Ki.5:1	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 5:15.		(Hebrew=5:15 • Latin=5:1 • Greek=5:15)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:16	1Ki.5:2	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 5:16.		(Hebrew=5:16 • Latin=5:2 • Greek=5:16)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:17	1Ki.5:3	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 5:17.		(Hebrew=5:17 • Latin=5:3 • Greek=5:17)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:18	1Ki.5:4	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 5:18.		(Hebrew=5:18 • Latin=5:4 • Greek=5:18)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:19	1Ki.5:5	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 5:19.		(Hebrew=5:19 • Latin=5:5 • Greek=5:19)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:20	1Ki.5:6	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 5:20.		(Hebrew=5:20 • Latin=5:6 • Greek=5:20)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:21	1Ki.5:7	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 5:21.		(Hebrew=5:21 • Latin=5:7 • Greek=5:21)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:22	1Ki.5:8	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 5:22.		(Hebrew=5:22 • Latin=5:8 • Greek=5:22)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:23	1Ki.5:9	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 5:23.		(Hebrew=5:23 • Latin=5:9 • Greek=5:23)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:24	1Ki.5:10	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 5:24.		(Hebrew=5:24 • Latin=5:10 • Greek=5:24)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:25	1Ki.5:11	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 5:25.		(Hebrew=5:25 • Latin=5:11 • Greek=5:25)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:26	1Ki.5:12	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 5:26.		(Hebrew=5:26 • Latin=5:12 • Greek=5:26)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:27	1Ki.5:13	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 5:27.		(Hebrew=5:27 • Latin=5:13 • Greek=5:27)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:28	1Ki.5:14	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 5:28.		(Hebrew=5:28 • Latin=5:14 • Greek=5:28)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:29	1Ki.5:15	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 5:29.		(Hebrew=5:29 • Latin=5:15 • Greek=5:29)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.5:30	1Ki.5:16	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 5:30.		(Hebrew=5:30 • Latin=5:16 • Greek=5:30)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.7:23	1Ki.7:23	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
 
-English+Latin	1Ki.5:17	1Ki.5:17	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 5:31.		(Hebrew=5:31 • Latin=5:17 • Greek=6:1a)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-English+Latin	1Ki.5:18	1Ki.5:18	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 5:32.		(Hebrew=5:32 • Latin=5:18 • Greek=6:1b)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-English+Latin	1Ki.6:1	1Ki.6:1	Keep verse	Acd. [1,a-d]	%In some Bibles the verse numbering here is% 6:1, 1a-d.	%The extra words are found at% 5:17-18; 6:37-38.	(Hebrew=6:1 • Latin=6:1 • Greek=6:1, 1a-d[+5:17-18; 6:37-38])	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-English+Latin	1Ki.6:37	1Ki.6:37	Keep verse	Acd. [1c]	%In some Bibles the verse numbering here is% 6:1c.		(Hebrew=6:37 • Latin=6:37 • Greek=6:1c)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-English+Latin	1Ki.6:38	1Ki.6:38	Keep verse	Acd. [1d]	%In some Bibles the verse numbering here is% 6:1d.		(Hebrew=6:38 • Latin=6:38 • Greek=6:1d)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
+English+Latin	1Ki.5:17	1Ki.5:17	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 5:31.		(Hebrew=5:31 • Latin=5:17 • Greek=6:1a)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+English+Latin	1Ki.5:18	1Ki.5:18	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 5:32.		(Hebrew=5:32 • Latin=5:18 • Greek=6:1b)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+English+Latin	1Ki.6:1	1Ki.6:1	Keep verse	Acd. [1,a-d]	%In some Bibles the verse numbering here is% 6:1, 1a-d.	%The extra words are found at% 5:17-18; 6:37-38.	(Hebrew=6:1 • Latin=6:1 • Greek=6:1, 1a-d[+5:17-18; 6:37-38])	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+English+Latin	1Ki.6:37	1Ki.6:37	Keep verse	Acd. [1c]	%In some Bibles the verse numbering here is% 6:1c.		(Hebrew=6:37 • Latin=6:37 • Greek=6:1c)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+English+Latin	1Ki.6:38	1Ki.6:38	Keep verse	Acd. [1d]	%In some Bibles the verse numbering here is% 6:1d.		(Hebrew=6:38 • Latin=6:38 • Greek=6:1d)	1Ki.5:18=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
 Greek	1Ki.6:1.0	1Ki.6:1	Keep verse	Acd. [1٠]	%Normally in this Bible this verse includes words that are at% 5:17-18; 6:37-38.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1٠)	1Ki.5:32=Last & 1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=Exist	
 Greek	1Ki.6:1.1	1Ki.5:17	Renumber verse	Nec. [6:1a]	%Normally in this Bible the verse numbering here is% 6:1a.		(Hebrew=5:31 • Latin=5:17 • Greek=6:1a)	1Ki.5:32=Last & 1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=Exist	
 Greek	1Ki.6:1.2	1Ki.5:18	Renumber verse	Nec. [6:1b]	%Normally in this Bible the verse numbering here is% 6:1b.		(Hebrew=5:32 • Latin=5:18 • Greek=6:1b)	1Ki.5:32=Last & 1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=Exist	
 Greek	1Ki.6:1.3	1Ki.6:37	Renumber verse	Nec. [1c]	%Normally in this Bible the verse numbering here is% 6:1c.		(Hebrew=6:37 • Latin=6:37 • Greek=6:1c)	1Ki.5:32=Last & 1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=Exist	
 Greek	1Ki.6:1.4	1Ki.6:38	Renumber verse	Nec. [1d]	%Normally in this Bible the verse numbering here is% 6:1d.		(Hebrew=6:38 • Latin=6:38 • Greek=6:1d)	1Ki.5:32=Last & 1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=Exist	
-GreekUndivided	1Ki.5:17	1Ki.5:17	Merged with	Nec. [31]	%Normally in this Bible some text may be missing here because it is merged with% 5:3.		(Hebrew=5:31 • Latin=5:17 • Greek=6:1a)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
-GreekUndivided	1Ki.5:18	1Ki.5:18	Merged with	Nec. [32]	%Normally in this Bible some text may be missing here because it is merged with% 5:3.		(Hebrew=5:32 • Latin=5:18 • Greek=6:1b)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
-GreekUndivided	1Ki.6:1	1Ki.6:1	Keep verse	Acd. [1,a-d]	%In some Bibles the verse numbering here is% 6:1, 1a-d.	%The extra words are found at% 5:17-18; 6:37-38.	(Hebrew=6:1 • Latin=6:1 • Greek=6:1, 1a-d[+5:17-18; 6:37-38])	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
-GreekUndivided	1Ki.6:37	1Ki.6:37	Merged with	Nec. [1c]	%Normally in this Bible some text may be missing here because it is merged with% 6:1.		(Hebrew=6:37 • Latin=6:37 • Greek=6:1c)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
-GreekUndivided	1Ki.6:38	1Ki.6:38	Merged with	Nec. [1d]	%Normally in this Bible some text may be missing here because it is merged with% 6:1.		(Hebrew=6:38 • Latin=6:38 • Greek=6:1d)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
-Hebrew	1Ki.5:31	1Ki.5:17	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31.		(Hebrew=5:31 • Latin=5:17 • Greek=6:1a)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-Hebrew	1Ki.5:32	1Ki.5:18	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 5:32.		(Hebrew=5:32 • Latin=5:18 • Greek=6:1b)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-Hebrew	1Ki.6:1	1Ki.6:1	Keep verse	Acd. [1,a-d]	%In some Bibles the verse numbering here is% 6:1, 1a-d.	%The extra words are found at% 5:17-18; 6:37-38.	(Hebrew=6:1 • Latin=6:1 • Greek=6:1, 1a-d[+5:17-18; 6:37-38])	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-Hebrew	1Ki.6:37	1Ki.6:37	Keep verse	Acd. [1c]	%In some Bibles the verse numbering here is% 6:1c.		(Hebrew=6:37 • Latin=6:37 • Greek=6:1c)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
-Hebrew	1Ki.6:38	1Ki.6:38	Keep verse	Acd. [1d]	%In some Bibles the verse numbering here is% 6:1d.		(Hebrew=6:38 • Latin=6:38 • Greek=6:1d)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2	
+GreekUndivided	1Ki.5:17	1Ki.5:17	Merged with	Nec. [31]	%Normally in this Bible some text may be missing here because it is merged with% 5:3.		(Hebrew=5:31 • Latin=5:17 • Greek=6:1a)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist & 1Ki.5:32=Last	
+GreekUndivided	1Ki.5:18	1Ki.5:18	Merged with	Nec. [32]	%Normally in this Bible some text may be missing here because it is merged with% 5:3.		(Hebrew=5:32 • Latin=5:18 • Greek=6:1b)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist & 1Ki.5:32=Last	
+GreekUndivided	1Ki.6:1	1Ki.6:1	Keep verse	Acd. [1,a-d]	%In some Bibles the verse numbering here is% 6:1, 1a-d.	%The extra words are found at% 5:17-18; 6:37-38.	(Hebrew=6:1 • Latin=6:1 • Greek=6:1, 1a-d[+5:17-18; 6:37-38])	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist & 1Ki.5:32=Last	
+GreekUndivided	1Ki.6:37	1Ki.6:37	Merged with	Nec. [1c]	%Normally in this Bible some text may be missing here because it is merged with% 6:1.		(Hebrew=6:37 • Latin=6:37 • Greek=6:1c)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist & 1Ki.5:32=Last	
+GreekUndivided	1Ki.6:38	1Ki.6:38	Merged with	Nec. [1d]	%Normally in this Bible some text may be missing here because it is merged with% 6:1.		(Hebrew=6:38 • Latin=6:38 • Greek=6:1d)	1Ki.6:36=Last & 1Ki.6:1>1Ki.6:6*2 & 1Ki.6:1.1=NotExist & 1Ki.5:32=Last	
+Hebrew	1Ki.5:31	1Ki.5:17	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31.		(Hebrew=5:31 • Latin=5:17 • Greek=6:1a)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+Hebrew	1Ki.5:32	1Ki.5:18	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 5:32.		(Hebrew=5:32 • Latin=5:18 • Greek=6:1b)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+Hebrew	1Ki.6:1	1Ki.6:1	Keep verse	Acd. [1,a-d]	%In some Bibles the verse numbering here is% 6:1, 1a-d.	%The extra words are found at% 5:17-18; 6:37-38.	(Hebrew=6:1 • Latin=6:1 • Greek=6:1, 1a-d[+5:17-18; 6:37-38])	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+Hebrew	1Ki.6:37	1Ki.6:37	Keep verse	Acd. [1c]	%In some Bibles the verse numbering here is% 6:1c.		(Hebrew=6:37 • Latin=6:37 • Greek=6:1c)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
+Hebrew	1Ki.6:38	1Ki.6:38	Keep verse	Acd. [1d]	%In some Bibles the verse numbering here is% 6:1d.		(Hebrew=6:38 • Latin=6:38 • Greek=6:1d)	1Ki.5:32=Last & 1Ki.6:38=Last & 1Ki.6:1<1Ki.6:6*2 & 1Ki.6:1.1=NotExist	
 
 English+Hebrew+Latin	1Ki.7:1	1Ki.7:1	Keep verse	Acd. [38, 50]	%In some Bibles the verse numbering here is% 7:38, 50.		(Hebrew=7:1 • Latin=7:1 • Greek=7:38, 50)	1Ki.7:51=Last	
 English+Hebrew+Latin	1Ki.7:2	1Ki.7:2	Keep verse	Acd. [39]	%In some Bibles the verse numbering here is% 7:39.		(Hebrew=7:2 • Latin=7:2 • Greek=7:39)	1Ki.7:51=Last	
@@ -5046,23 +5046,23 @@ Greek	1Ki.7:47	1Ki.7:10	Renumber verse	Nec. [47]	%Normally in this Bible the ver
 Greek	1Ki.7:48	1Ki.7:11	Renumber verse	Nec. [48]	%Normally in this Bible the verse numbering here is% 7:48.		(Hebrew=7:11 • Latin=7:11 • Greek=7:48)	1Ki.7:50=Last	
 Greek	1Ki.7:49	1Ki.7:12	Renumber verse	Nec. [49]	%Normally in this Bible the verse numbering here is% 7:49.		(Hebrew=7:12 • Latin=7:12 • Greek=7:49)	1Ki.7:50=Last	
 
-English+Hebrew+Latin	1Ki.8:12	1Ki.8:12	Keep verse	Acd. [53a]	%In some Bibles the verse numbering here is% 8:53a.		(Hebrew=8:12 • Latin=8:12 • Greek=8:53a)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.8:13	1Ki.8:13	Keep verse	Acd. [53b]	%In some Bibles the verse numbering here is% 8:53b.		(Hebrew=8:13 • Latin=8:13 • Greek=8:53b)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.8:53	1Ki.8:53	Keep verse	Acd. [53,a-b]	%In some Bibles the verse numbering here is% 8:53, 53a-b.	%The extra words are found at% 8:12-13.	(Hebrew=8:53 • Latin=8:53 • Greek=8:53, 53a-b[+8:12-13])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:9	1Ki.9:9	Keep verse	Acd. [9,a]	%In some Bibles the verse numbering here is% 9:9, 9a.	%The extra words are found at% 9:24.	(Hebrew=9:9 • Latin=9:9 • Greek=9:9, 9a[+9:24])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:15	1Ki.9:15	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:15 • Latin=9:15 • Greek= --)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:16	1Ki.9:16	Keep verse	Acd. [14b]	%In some Bibles the verse numbering here is% 5:14b.	%This verse may not contain any text%.	(Hebrew=9:16 • Latin=9:16 • Greek=5:14b)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:17	1Ki.9:17	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:17 • Latin=9:17 • Greek=10:22a1)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:18	1Ki.9:18	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:18 • Latin=9:18 • Greek=10:22a2)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:19	1Ki.9:19	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:19 • Latin=9:19 • Greek=10:22a3)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:20	1Ki.9:20	Keep verse	Acd. [22b]	%In some Bibles the verse numbering here is% 10:22b.	%This verse may not contain any text%.	(Hebrew=9:20 • Latin=9:20 • Greek=10:22b1)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:21	1Ki.9:21	Keep verse	Acd. [22b]	%In some Bibles the verse numbering here is% 10:22b.	%This verse may not contain any text%.	(Hebrew=9:21 • Latin=9:21 • Greek=10:22b2)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:22	1Ki.9:22	Keep verse	Acd. [22c]	%In some Bibles the verse numbering here is% 10:22c.	%This verse may not contain any text%.	(Hebrew=9:22 • Latin=9:22 • Greek=10:22c)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:23	1Ki.9:23	Keep verse	Acd. [35h-j]	%In some Bibles the verse numbering here is% 2:35h-j.	%This verse may not contain any text%.	(Hebrew=9:23 • Latin=9:23 • Greek=2:35h-j)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:24	1Ki.9:24	Keep verse	Acd. [35f]	%In some Bibles the verse numbering here is% 2:35c.	%This verse may not contain any text%.	(Hebrew=9:24 • Latin=9:24 • Greek=2:35f)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.9:25	1Ki.9:25	Keep verse	Acd. [35g]	%In some Bibles the verse numbering here is% 2:35g.	%This verse may not contain any text%.	(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.10:22	1Ki.10:22	Keep verse	Acd. [22,a-c]	%In some Bibles the verse numbering here is% 10:22, 22a-c.	%The extra words are found at% 9:15,17-22.	(Hebrew=10:22 • Latin=10:22 • Greek=10:22, 22a-c[+9:15,17-22])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
-English+Hebrew+Latin	1Ki.10:26	1Ki.10:26	Keep verse	Acd. [26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%The extra words are found at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22	
+English+Hebrew+Latin	1Ki.8:12	1Ki.8:12	Keep verse	Acd. [53a]	%In some Bibles the verse numbering here is% 8:53a.		(Hebrew=8:12 • Latin=8:12 • Greek=8:53a)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.8:13	1Ki.8:13	Keep verse	Acd. [53b]	%In some Bibles the verse numbering here is% 8:53b.		(Hebrew=8:13 • Latin=8:13 • Greek=8:53b)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.8:53	1Ki.8:53	Keep verse	Acd. [53,a-b]	%In some Bibles the verse numbering here is% 8:53, 53a-b.	%The extra words are found at% 8:12-13.	(Hebrew=8:53 • Latin=8:53 • Greek=8:53, 53a-b[+8:12-13])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:9	1Ki.9:9	Keep verse	Acd. [9,a]	%In some Bibles the verse numbering here is% 9:9, 9a.	%The extra words are found at% 9:24.	(Hebrew=9:9 • Latin=9:9 • Greek=9:9, 9a[+9:24])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:15	1Ki.9:15	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:15 • Latin=9:15 • Greek= --)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:16	1Ki.9:16	Keep verse	Acd. [14b]	%In some Bibles the verse numbering here is% 5:14b.	%This verse may not contain any text%.	(Hebrew=9:16 • Latin=9:16 • Greek=5:14b)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:17	1Ki.9:17	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:17 • Latin=9:17 • Greek=10:22a1)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:18	1Ki.9:18	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:18 • Latin=9:18 • Greek=10:22a2)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:19	1Ki.9:19	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:19 • Latin=9:19 • Greek=10:22a3)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:20	1Ki.9:20	Keep verse	Acd. [22b]	%In some Bibles the verse numbering here is% 10:22b.	%This verse may not contain any text%.	(Hebrew=9:20 • Latin=9:20 • Greek=10:22b1)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:21	1Ki.9:21	Keep verse	Acd. [22b]	%In some Bibles the verse numbering here is% 10:22b.	%This verse may not contain any text%.	(Hebrew=9:21 • Latin=9:21 • Greek=10:22b2)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:22	1Ki.9:22	Keep verse	Acd. [22c]	%In some Bibles the verse numbering here is% 10:22c.	%This verse may not contain any text%.	(Hebrew=9:22 • Latin=9:22 • Greek=10:22c)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:23	1Ki.9:23	Keep verse	Acd. [35h-j]	%In some Bibles the verse numbering here is% 2:35h-j.	%This verse may not contain any text%.	(Hebrew=9:23 • Latin=9:23 • Greek=2:35h-j)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:24	1Ki.9:24	Keep verse	Acd. [35f]	%In some Bibles the verse numbering here is% 2:35c.	%This verse may not contain any text%.	(Hebrew=9:24 • Latin=9:24 • Greek=2:35f)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:25	1Ki.9:25	Keep verse	Acd. [35g]	%In some Bibles the verse numbering here is% 2:35g.	%This verse may not contain any text%.	(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.10:22	1Ki.10:22	Keep verse	Acd. [22,a-c]	%In some Bibles the verse numbering here is% 10:22, 22a-c.	%The extra words are found at% 9:15,17-22.	(Hebrew=10:22 • Latin=10:22 • Greek=10:22, 22a-c[+9:15,17-22])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.10:26	1Ki.10:26	Keep verse	Acd. [26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%The extra words are found at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 Greek	1Ki.5:14.2	1Ki.9:16	Renumber verse	Nec. [5:14b]	%Normally in this Bible the verse numbering here is% 5:14b.		(Hebrew=9:16 • Latin=9:16 • Greek=5:14b)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.8:53.0	1Ki.8:53	Keep verse	Acd. [53,a-b]	%In some Bibles the verse numbering here is% 8:53, 53a-b.	%The extra words are found at% 8:12-13.	(Hebrew=8:53 • Latin=8:53 • Greek=8:53, 53a-b[+8:12-13])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.8:53.1	1Ki.8:12	Renumber verse	Nec. [53a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 8:53.		(Hebrew=8:12 • Latin=8:12 • Greek=8:53a)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
@@ -16885,7 +16885,7 @@ English	Dan.3:27	Dan.3:27	Keep verse	Acd. [94]	%In some Bibles the verse numberi
 English	Dan.3:28	Dan.3:28	Keep verse	Acd. [95]	%In some Bibles the verse numbering here is% 3:95.		(Hebrew=3:28 • Latin=3:95 • Greek=3:95)	Dan.3:30=Last	
 English	Dan.3:29	Dan.3:29	Keep verse	Acd. [96]	%In some Bibles the verse numbering here is% 3:96.		(Hebrew=3:29 • Latin=3:96 • Greek=3:96)	Dan.3:30=Last	
 English	Dan.3:30	Dan.3:30	Keep verse	Acd. [97]	%In some Bibles the verse numbering here is% 3:97.		(Hebrew=3:30 • Latin=3:97 • Greek=3:97)	Dan.3:30=Last	
-English	Dan.4:1	Dan.3:31	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 3:31.	%This verse may not contain any text%.	(Hebrew=3:31 • Latin=3:98 • Greek= --)	Dan.3:30=Last	
+English	Dan.4:1	Dan.4:1	Renumber verse	Nec. [98]	%In some Bibles the verse numbering here is% 3:98.	%This verse may not contain any text%.	(Hebrew=3:31 • Latin=3:98 • Greek= --)	Dan.3:30=Last	
 English	Dan.4:2	Dan.4:2	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 3:32.		(Hebrew=3:32 • Latin=3:99 • Greek= --)	Dan.3:30=Last	
 English	Dan.4:3	Dan.4:3	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 3:33.		(Hebrew=3:33 • Latin=3:100 • Greek= --)	Dan.3:30=Last	
 Greek	Dan.3:24	S3Y.1:1	Renumber verse	Nec. [24-90]	%In some Bibles this book is found at% Dan.3:24-90.		(Hebrew= -- • Latin=3:24 • Greek=3:24)	Dan.3:97=Last	
@@ -19125,32 +19125,32 @@ Latin	Sir.17:29	Sir.17:30	Renumber verse	Nec. [29]	%Normally in this Bible the v
 Latin	Sir.17:30	Sir.17:31	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 17:30.		(Latin=17:30 • Greek=17:31)	Sir.17:31=Last	
 Latin	Sir.17:31	Sir.17:32	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 17:31.		(Latin=17:31 • Greek=17:32)	Sir.17:31=Last	
 
-English	Sir.18:1	Sir.18:1	Keep verse	Acd. [1a]	%In some Bibles the verse numbering here is% 18:1a.		(Latin=18:1a • Greek=18:1)	Sir.19:30=Last	
-English	Sir.18:2	Sir.18:2	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 18:1b.		(Latin=18:1b • Greek=18:2)	Sir.19:30=Last	
-English	Sir.18:3	Sir.18:3	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 18:2.		(Latin=18:2 • Greek=18:3)	Sir.19:30=Last	
-English	Sir.18:4	Sir.18:4	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 18:3.		(Latin=18:3 • Greek=18:4)	Sir.19:30=Last	
-English	Sir.18:5	Sir.18:5	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 18:4.		(Latin=18:4 • Greek=18:5)	Sir.19:30=Last	
-English	Sir.18:6	Sir.18:6	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 18:5.		(Latin=18:5 • Greek=18:6)	Sir.19:30=Last	
-English	Sir.18:7	Sir.18:7	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 18:6.		(Latin=18:6 • Greek=18:7)	Sir.19:30=Last	
-English	Sir.18:8	Sir.18:8	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 18:7.		(Latin=18:7 • Greek=18:8)	Sir.19:30=Last	
-English	Sir.18:9	Sir.18:9	Keep verse	Acd. [8a]	%In some Bibles the verse numbering here is% 18:8a.		(Latin=18:8a • Greek=18:9)	Sir.19:30=Last	
-English	Sir.18:10	Sir.18:10	Keep verse	Acd. [8b]	%In some Bibles the verse numbering here is% 18:8b.		(Latin=18:8b • Greek=18:10)	Sir.19:30=Last	
-English	Sir.18:11	Sir.18:11	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 18:9.		(Latin=18:9 • Greek=18:11)	Sir.19:30=Last	
-English	Sir.18:12	Sir.18:12	Keep verse	Acd. [10-11]	%In some Bibles the verse numbering here is% 18:10-11.		(Latin=18:10-11 • Greek=18:12)	Sir.19:30=Last	
-English	Sir.18:13	Sir.18:13	Keep verse	Acd. [12-13]	%In some Bibles the verse numbering here is% 18:12-13.		(Latin=18:12-13 • Greek=18:13)	Sir.19:30=Last	
-English	Sir.19:18	Sir.19:18	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:18)	Sir.19:30=Last	
-English	Sir.19:19	Sir.19:19	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:19)	Sir.19:30=Last	
-English	Sir.19:20	Sir.19:20	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 19:18.		(Latin=19:18 • Greek=19:20)	Sir.19:30=Last	
-English	Sir.19:21	Sir.19:21	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:21)	Sir.19:30=Last	
-English	Sir.19:22	Sir.19:22	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 19:19.		(Latin=19:19 • Greek=19:22)	Sir.19:30=Last	
-English	Sir.19:23	Sir.19:23	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 19:20.		(Latin=19:20 • Greek=19:23)	Sir.19:30=Last	
-English	Sir.19:24	Sir.19:24	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 19:21.		(Latin=19:21 • Greek=19:24)	Sir.19:30=Last	
-English	Sir.19:25	Sir.19:25	Keep verse	Acd. [22-23]	%In some Bibles the verse numbering here is% 19:22-23.		(Latin=19:22-23 • Greek=19:25)	Sir.19:30=Last	
-English	Sir.19:26	Sir.19:26	Keep verse	Acd. [26a]	%In some Bibles the verse numbering here is% 19:26a.		(Latin=19:26a • Greek=19:24a)	Sir.19:30=Last	
-English	Sir.19:27	Sir.19:27	Keep verse	Acd. [26b]	%In some Bibles the verse numbering here is% 19:26b.		(Latin=19:26b • Greek=19:24b)	Sir.19:30=Last	
-English	Sir.19:28	Sir.19:28	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 19:25.		(Latin=19:25 • Greek=19:28)	Sir.19:30=Last	
-English	Sir.19:29	Sir.19:29	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 19:26.		(Latin=19:26 • Greek=19:29)	Sir.19:30=Last	
-English	Sir.19:30	Sir.19:30	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 19:27.		(Latin=19:27 • Greek=19:30)	Sir.19:30=Last	
+English	Sir.18:1	Sir.18:1	Keep verse	Acd. [1a]	%In some Bibles the verse numbering here is% 18:1a.		(Latin=18:1a • Greek=18:1)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:2	Sir.18:2	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 18:1b.		(Latin=18:1b • Greek=18:2)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:3	Sir.18:3	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 18:2.		(Latin=18:2 • Greek=18:3)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:4	Sir.18:4	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 18:3.		(Latin=18:3 • Greek=18:4)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:5	Sir.18:5	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 18:4.		(Latin=18:4 • Greek=18:5)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:6	Sir.18:6	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 18:5.		(Latin=18:5 • Greek=18:6)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:7	Sir.18:7	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 18:6.		(Latin=18:6 • Greek=18:7)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:8	Sir.18:8	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 18:7.		(Latin=18:7 • Greek=18:8)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:9	Sir.18:9	Keep verse	Acd. [8a]	%In some Bibles the verse numbering here is% 18:8a.		(Latin=18:8a • Greek=18:9)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:10	Sir.18:10	Keep verse	Acd. [8b]	%In some Bibles the verse numbering here is% 18:8b.		(Latin=18:8b • Greek=18:10)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:11	Sir.18:11	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 18:9.		(Latin=18:9 • Greek=18:11)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:12	Sir.18:12	Keep verse	Acd. [10-11]	%In some Bibles the verse numbering here is% 18:10-11.		(Latin=18:10-11 • Greek=18:12)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.18:13	Sir.18:13	Keep verse	Acd. [12-13]	%In some Bibles the verse numbering here is% 18:12-13.		(Latin=18:12-13 • Greek=18:13)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:18	Sir.19:18	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:18)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:19	Sir.19:19	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:19)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:20	Sir.19:20	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 19:18.		(Latin=19:18 • Greek=19:20)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:21	Sir.19:21	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:21)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:22	Sir.19:22	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 19:19.		(Latin=19:19 • Greek=19:22)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:23	Sir.19:23	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 19:20.		(Latin=19:20 • Greek=19:23)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:24	Sir.19:24	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 19:21.		(Latin=19:21 • Greek=19:24)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:25	Sir.19:25	Keep verse	Acd. [22-23]	%In some Bibles the verse numbering here is% 19:22-23.		(Latin=19:22-23 • Greek=19:25)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:26	Sir.19:26	Keep verse	Acd. [26a]	%In some Bibles the verse numbering here is% 19:26a.		(Latin=19:26a • Greek=19:24a)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:27	Sir.19:27	Keep verse	Acd. [26b]	%In some Bibles the verse numbering here is% 19:26b.		(Latin=19:26b • Greek=19:24b)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:28	Sir.19:28	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 19:25.		(Latin=19:25 • Greek=19:28)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:29	Sir.19:29	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 19:26.		(Latin=19:26 • Greek=19:29)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
+English	Sir.19:30	Sir.19:30	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 19:27.		(Latin=19:27 • Greek=19:30)	Sir.19:30=Last & Sir.18:10<Sir.18:12	
 Greek	Sir.18:1	Sir.18:1	Keep verse	Acd. [1a]	%In some Bibles the verse numbering here is% 18:1a.		(Latin=18:1a • Greek=18:1)	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Greek	Sir.18:2	Sir.18:2	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 18:1b.		(Latin=18:1b • Greek=18:2)	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Greek	Sir.18:3	Sir.18:3	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 18:2.		(Latin=18:2 • Greek=18:3)	Sir.19:30=Last & Sir.18:10>Sir.18:12	
@@ -19177,35 +19177,35 @@ Greek	Sir.19:25	Sir.19:25	Keep verse	Acd. [22-23]	%In some Bibles the verse numb
 Greek	Sir.19:28	Sir.19:28	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 19:25.		(Latin=19:25 • Greek=19:28)	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Greek	Sir.19:29	Sir.19:29	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 19:26.		(Latin=19:26 • Greek=19:29)	Sir.19:30=Last & Sir.18:10>Sir.18:12	
 Greek	Sir.19:30	Sir.19:30	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 19:27.		(Latin=19:27 • Greek=19:30)	Sir.19:30=Last & Sir.18:10>Sir.18:12	
-Latin	Sir.18:1	Sir.18:1	Keep verse	Nec. [1-2]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 18:1.		(Latin=18:1a • Greek=18:1)	Sir.19:28=Last	
-Latin	Sir.18:1	Sir.18:2	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 18:1.		(Latin=18:1b • Greek=18:2)	Sir.19:28=Last	
-Latin	Sir.18:2	Sir.18:3	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 18:2.		(Latin=18:2 • Greek=18:3)	Sir.19:28=Last	
-Latin	Sir.18:3	Sir.18:4	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 18:3.		(Latin=18:3 • Greek=18:4)	Sir.19:28=Last	
-Latin	Sir.18:4	Sir.18:5	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 18:4.		(Latin=18:4 • Greek=18:5)	Sir.19:28=Last	
-Latin	Sir.18:5	Sir.18:6	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 18:5.		(Latin=18:5 • Greek=18:6)	Sir.19:28=Last	
-Latin	Sir.18:6	Sir.18:7	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 18:6.		(Latin=18:6 • Greek=18:7)	Sir.19:28=Last	
-Latin	Sir.18:7	Sir.18:8	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 18:7.		(Latin=18:7 • Greek=18:8)	Sir.19:28=Last	
-Latin	Sir.18:8	Sir.18:9	Renumber verse	Nec. [9-10]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 18:8.		(Latin=18:8a • Greek=18:9)	Sir.19:28=Last	
-Latin	Sir.18:8	Sir.18:10	Merged with	Nec. [8b]	%Normally in this Bible some text may be missing here because it is merged with% 18:9.		(Latin=18:8b • Greek=18:10)	Sir.19:28=Last	
-Latin	Sir.18:9	Sir.18:11	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 18:9.		(Latin=18:9 • Greek=18:11)	Sir.19:28=Last	
-Latin	Sir.18:10	Sir.18:12.1	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 18:10.		(Latin=18:10-11 • Greek=18:12)	Sir.19:28=Last	
-Latin	Sir.18:11	Sir.18:12.2	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 18:11.		(Latin=18:10-11 • Greek=18:12)	Sir.19:28=Last	
-Latin	Sir.18:12	Sir.18:13.1	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 18:12.		(Latin=18:12-13 • Greek=18:13)	Sir.19:28=Last	
-Latin	Sir.18:13	Sir.18:13.2	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 18:13.		(Latin=18:12-13 • Greek=18:13)	Sir.19:28=Last	
-Latin	Sir.19:18	Sir.19:20	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 19:18.		(Latin=19:18 • Greek=19:20)	Sir.19:28=Last	
-Latin	Sir.19:18	Sir.19:18	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:18)	Sir.19:28=Last	
-Latin	Sir.19:19	Sir.19:22	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 19:19.		(Latin=19:19 • Greek=19:22)	Sir.19:28=Last	
-Latin	Sir.19:19	Sir.19:19	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:19)	Sir.19:28=Last	
-Latin	Sir.19:20	Sir.19:23	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 19:20.		(Latin=19:20 • Greek=19:23)	Sir.19:28=Last	
-Latin	Sir.19:21	Sir.19:24	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 19:21.		(Latin=19:21 • Greek=19:24)	Sir.19:28=Last	
-Latin	Sir.19:21	Sir.19:21	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:21)	Sir.19:28=Last	
-Latin	Sir.19:22	Sir.19:25.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 19:22.		(Latin=19:22-23 • Greek=19:25)	Sir.19:28=Last	
-Latin	Sir.19:23	Sir.19:25.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 19:23.		(Latin=19:22-23 • Greek=19:25)	Sir.19:28=Last	
-Latin	Sir.19:25	Sir.19:28	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 19:25.		(Latin=19:25 • Greek=19:28)	Sir.19:28=Last	
-Latin	Sir.19:26	Sir.19:26	Keep verse	Nec. [26-27]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 19:26.		(Latin=19:26a • Greek=19:24a)	Sir.19:28=Last	
-Latin	Sir.19:26	Sir.19:29	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 19:26.		(Latin=19:26 • Greek=19:29)	Sir.19:28=Last	
-Latin	Sir.19:26	Sir.19:27	Merged with	Nec. [26b]	%Normally in this Bible some text may be missing here because it is merged with% 19:26.		(Latin=19:26b • Greek=19:24b)	Sir.19:28=Last	
-Latin	Sir.19:27	Sir.19:30	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 19:27.		(Latin=19:27 • Greek=19:30)	Sir.19:28=Last	
+Latin	Sir.18:1	Sir.18:1	Keep verse	Nec. [1-2]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 18:1.		(Latin=18:1a • Greek=18:1)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:1	Sir.18:2	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 18:1.		(Latin=18:1b • Greek=18:2)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:2	Sir.18:3	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 18:2.		(Latin=18:2 • Greek=18:3)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:3	Sir.18:4	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 18:3.		(Latin=18:3 • Greek=18:4)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:4	Sir.18:5	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 18:4.		(Latin=18:4 • Greek=18:5)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:5	Sir.18:6	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 18:5.		(Latin=18:5 • Greek=18:6)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:6	Sir.18:7	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 18:6.		(Latin=18:6 • Greek=18:7)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:7	Sir.18:8	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 18:7.		(Latin=18:7 • Greek=18:8)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:8	Sir.18:9	Renumber verse	Nec. [9-10]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 18:8.		(Latin=18:8a • Greek=18:9)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:8	Sir.18:10	Merged with	Nec. [8b]	%Normally in this Bible some text may be missing here because it is merged with% 18:9.		(Latin=18:8b • Greek=18:10)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:9	Sir.18:11	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 18:9.		(Latin=18:9 • Greek=18:11)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:10	Sir.18:12.1	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 18:10.		(Latin=18:10-11 • Greek=18:12)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:11	Sir.18:12.2	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 18:11.		(Latin=18:10-11 • Greek=18:12)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:12	Sir.18:13.1	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 18:12.		(Latin=18:12-13 • Greek=18:13)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.18:13	Sir.18:13.2	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 18:13.		(Latin=18:12-13 • Greek=18:13)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:18	Sir.19:20	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 19:18.		(Latin=19:18 • Greek=19:20)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:18	Sir.19:18	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:18)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:19	Sir.19:22	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 19:19.		(Latin=19:19 • Greek=19:22)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:19	Sir.19:19	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:19)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:20	Sir.19:23	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 19:20.		(Latin=19:20 • Greek=19:23)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:21	Sir.19:24	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 19:21.		(Latin=19:21 • Greek=19:24)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:21	Sir.19:21	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin= -- • Greek=19:21)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:22	Sir.19:25.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 19:22.		(Latin=19:22-23 • Greek=19:25)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:23	Sir.19:25.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 19:23.		(Latin=19:22-23 • Greek=19:25)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:25	Sir.19:28	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 19:25.		(Latin=19:25 • Greek=19:28)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:26	Sir.19:26	Keep verse	Nec. [26-27]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 19:26.		(Latin=19:26a • Greek=19:24a)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:26	Sir.19:29	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 19:26.		(Latin=19:26 • Greek=19:29)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:26	Sir.19:27	Merged with	Nec. [26b]	%Normally in this Bible some text may be missing here because it is merged with% 19:26.		(Latin=19:26b • Greek=19:24b)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
+Latin	Sir.19:27	Sir.19:30	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 19:27.		(Latin=19:27 • Greek=19:30)	Sir.19:28=Last & Sir.18:10<Sir.18:12	
 
 English+Greek	Sir.20:1	Sir.20:1	Keep verse	Acd. [19:28]	%In some Bibles the verse numbering here is% 19:28.		(Latin=19:28 • Greek=20:1)	Sir.20:31=Last	
 English+Greek	Sir.20:2	Sir.20:2	Keep verse	Acd. [1a]	%In some Bibles the verse numbering here is% 20:1a.		(Latin=20:1a • Greek=20:2)	Sir.20:31=Last	
@@ -20654,58 +20654,58 @@ Latin	Sir.51:36	Sir.51:28	Renumber verse	Nec. [36]	%Normally in this Bible the v
 Latin	Sir.51:37	Sir.51:29	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 51:37.		(Latin=51:37 • Greek=51:29)	Sir.51:38=Last	
 Latin	Sir.51:38	Sir.51:30	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% 51:38.		(Latin=51:38 • Greek=51:30)	Sir.51:38=Last	
 
-English+Greek	Wis.1:1	Wis.1:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 1:1-2.		(Latin=1:1-2 • Greek=1:1)	Wis.6:25=Last	
-English+Greek	Wis.1:2	Wis.1:2	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 1:3.		(Latin=1:3 • Greek=1:2)	Wis.6:25=Last	
-English+Greek	Wis.1:3	Wis.1:3	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 1:4.		(Latin=1:4 • Greek=1:3)	Wis.6:25=Last	
-English+Greek	Wis.1:4	Wis.1:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 1:5.		(Latin=1:5 • Greek=1:4)	Wis.6:25=Last	
-English+Greek	Wis.1:5	Wis.1:5	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 1:6.		(Latin=1:6 • Greek=1:5)	Wis.6:25=Last	
-English+Greek	Wis.1:6	Wis.1:6	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 1:7.		(Latin=1:7 • Greek=1:6)	Wis.6:25=Last	
-English+Greek	Wis.1:7	Wis.1:7	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 1:8.		(Latin=1:8 • Greek=1:7)	Wis.6:25=Last	
-English+Greek	Wis.1:8	Wis.1:8	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 1:9.		(Latin=1:9 • Greek=1:8)	Wis.6:25=Last	
-English+Greek	Wis.1:9	Wis.1:9	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 1:10.		(Latin=1:10 • Greek=1:9)	Wis.6:25=Last	
-English+Greek	Wis.1:10	Wis.1:10	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 1:11.		(Latin=1:11 • Greek=1:10)	Wis.6:25=Last	
-English+Greek	Wis.1:11	Wis.1:11	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 1:12.		(Latin=1:12 • Greek=1:11)	Wis.6:25=Last	
-English+Greek	Wis.1:12	Wis.1:12	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 1:13.		(Latin=1:13 • Greek=1:12)	Wis.6:25=Last	
-English+Greek	Wis.1:13	Wis.1:13	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 1:14.		(Latin=1:14 • Greek=1:13)	Wis.6:25=Last	
-English+Greek	Wis.1:14	Wis.1:14	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 1:15.		(Latin=1:15 • Greek=1:14)	Wis.6:25=Last	
-English+Greek	Wis.1:15	Wis.1:15	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 1:16.		(Latin=1:16 • Greek=1:15)	Wis.6:25=Last	
-English+Greek	Wis.1:16	Wis.1:16	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 1:17.		(Latin=1:17 • Greek=1:16)	Wis.6:25=Last	
-English+Greek	Wis.1:17	Wis.1:17	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 1:18.		(Latin=1:18 • Greek=1:17)	Wis.6:25=Last	
-English+Greek	Wis.1:18	Wis.1:18	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 1:19.		(Latin=1:19 • Greek=1:18)	Wis.6:25=Last	
-English+Greek	Wis.1:19	Wis.1:19	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 1:20.		(Latin=1:20 • Greek=1:19)	Wis.6:25=Last	
-English+Greek	Wis.1:20	Wis.1:20	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 1:21.		(Latin=1:21 • Greek=1:20)	Wis.6:25=Last	
-English+Greek	Wis.1:21	Wis.1:21	Keep verse	Acd. [22-23]	%In some Bibles the verse numbering here is% 1:22-23.		(Latin=1:22-23 • Greek=1:21)	Wis.6:25=Last	
-English+Greek	Wis.1:22	Wis.1:22	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 1:24.		(Latin=1:24 • Greek=1:22)	Wis.6:25=Last	
-English+Greek	Wis.1:23	Wis.1:23	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 1:25.		(Latin=1:25 • Greek=1:23)	Wis.6:25=Last	
-English+Greek	Wis.1:24	Wis.1:24	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 1:26.		(Latin=1:26 • Greek=1:24)	Wis.6:25=Last	
-English+Greek	Wis.1:25	Wis.1:25	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 1:27.		(Latin=1:27 • Greek=1:25)	Wis.6:25=Last	
-Latin	Wis.1:1	Wis.1:1.1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 1:1.		(Latin=1:1-2 • Greek=1:1)	Wis.6:27=Last	
-Latin	Wis.1:2	Wis.1:1.2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 1:2.		(Latin=1:1-2 • Greek=1:1)	Wis.6:27=Last	
-Latin	Wis.1:3	Wis.1:2	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 1:3.		(Latin=1:3 • Greek=1:2)	Wis.6:27=Last	
-Latin	Wis.1:4	Wis.1:3	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 1:4.		(Latin=1:4 • Greek=1:3)	Wis.6:27=Last	
-Latin	Wis.1:5	Wis.1:4	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 1:5.		(Latin=1:5 • Greek=1:4)	Wis.6:27=Last	
-Latin	Wis.1:6	Wis.1:5	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 1:6.		(Latin=1:6 • Greek=1:5)	Wis.6:27=Last	
-Latin	Wis.1:7	Wis.1:6	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 1:7.		(Latin=1:7 • Greek=1:6)	Wis.6:27=Last	
-Latin	Wis.1:8	Wis.1:7	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 1:8.		(Latin=1:8 • Greek=1:7)	Wis.6:27=Last	
-Latin	Wis.1:9	Wis.1:8	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 1:9.		(Latin=1:9 • Greek=1:8)	Wis.6:27=Last	
-Latin	Wis.1:10	Wis.1:9	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 1:10.		(Latin=1:10 • Greek=1:9)	Wis.6:27=Last	
-Latin	Wis.1:11	Wis.1:10	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 1:11.		(Latin=1:11 • Greek=1:10)	Wis.6:27=Last	
-Latin	Wis.1:12	Wis.1:11	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 1:12.		(Latin=1:12 • Greek=1:11)	Wis.6:27=Last	
-Latin	Wis.1:13	Wis.1:12	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 1:13.		(Latin=1:13 • Greek=1:12)	Wis.6:27=Last	
-Latin	Wis.1:14	Wis.1:13	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 1:14.		(Latin=1:14 • Greek=1:13)	Wis.6:27=Last	
-Latin	Wis.1:15	Wis.1:14	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 1:15.		(Latin=1:15 • Greek=1:14)	Wis.6:27=Last	
-Latin	Wis.1:16	Wis.1:15	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 1:16.		(Latin=1:16 • Greek=1:15)	Wis.6:27=Last	
-Latin	Wis.1:17	Wis.1:16	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 1:17.		(Latin=1:17 • Greek=1:16)	Wis.6:27=Last	
-Latin	Wis.1:18	Wis.1:17	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 1:18.		(Latin=1:18 • Greek=1:17)	Wis.6:27=Last	
-Latin	Wis.1:19	Wis.1:18	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 1:19.		(Latin=1:19 • Greek=1:18)	Wis.6:27=Last	
-Latin	Wis.1:20	Wis.1:19	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 1:20.		(Latin=1:20 • Greek=1:19)	Wis.6:27=Last	
-Latin	Wis.1:21	Wis.1:20	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 1:21.		(Latin=1:21 • Greek=1:20)	Wis.6:27=Last	
-Latin	Wis.1:22	Wis.1:21.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 1:22.		(Latin=1:22-23 • Greek=1:21)	Wis.6:27=Last	
-Latin	Wis.1:23	Wis.1:21.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 1:23.		(Latin=1:22-23 • Greek=1:21)	Wis.6:27=Last	
-Latin	Wis.1:24	Wis.1:22	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 1:24.		(Latin=1:24 • Greek=1:22)	Wis.6:27=Last	
-Latin	Wis.1:25	Wis.1:23	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 1:25.		(Latin=1:25 • Greek=1:23)	Wis.6:27=Last	
-Latin	Wis.1:26	Wis.1:24	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 1:26.		(Latin=1:26 • Greek=1:24)	Wis.6:27=Last	
-Latin	Wis.1:27	Wis.1:25	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 1:27.		(Latin=1:27 • Greek=1:25)	Wis.6:27=Last	
+English+Greek	Wis.6:1	Wis.6:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 6:1-2.		(Latin=6:1-2 • Greek=6:1)	Wis.6:25=Last	
+English+Greek	Wis.6:2	Wis.6:2	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 6:3.		(Latin=6:3 • Greek=6:2)	Wis.6:25=Last	
+English+Greek	Wis.6:3	Wis.6:3	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 6:4.		(Latin=6:4 • Greek=6:3)	Wis.6:25=Last	
+English+Greek	Wis.6:4	Wis.6:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 6:5.		(Latin=6:5 • Greek=6:4)	Wis.6:25=Last	
+English+Greek	Wis.6:5	Wis.6:5	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 6:6.		(Latin=6:6 • Greek=6:5)	Wis.6:25=Last	
+English+Greek	Wis.6:6	Wis.6:6	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 6:7.		(Latin=6:7 • Greek=6:6)	Wis.6:25=Last	
+English+Greek	Wis.6:7	Wis.6:7	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 6:8.		(Latin=6:8 • Greek=6:7)	Wis.6:25=Last	
+English+Greek	Wis.6:8	Wis.6:8	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 6:9.		(Latin=6:9 • Greek=6:8)	Wis.6:25=Last	
+English+Greek	Wis.6:9	Wis.6:9	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 6:10.		(Latin=6:10 • Greek=6:9)	Wis.6:25=Last	
+English+Greek	Wis.6:10	Wis.6:10	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 6:11.		(Latin=6:11 • Greek=6:10)	Wis.6:25=Last	
+English+Greek	Wis.6:11	Wis.6:11	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 6:12.		(Latin=6:12 • Greek=6:11)	Wis.6:25=Last	
+English+Greek	Wis.6:12	Wis.6:12	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 6:13.		(Latin=6:13 • Greek=6:12)	Wis.6:25=Last	
+English+Greek	Wis.6:13	Wis.6:13	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 6:14.		(Latin=6:14 • Greek=6:13)	Wis.6:25=Last	
+English+Greek	Wis.6:14	Wis.6:14	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 6:15.		(Latin=6:15 • Greek=6:14)	Wis.6:25=Last	
+English+Greek	Wis.6:15	Wis.6:15	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 6:16.		(Latin=6:16 • Greek=6:15)	Wis.6:25=Last	
+English+Greek	Wis.6:16	Wis.6:16	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 6:17.		(Latin=6:17 • Greek=6:16)	Wis.6:25=Last	
+English+Greek	Wis.6:17	Wis.6:17	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 6:18.		(Latin=6:18 • Greek=6:17)	Wis.6:25=Last	
+English+Greek	Wis.6:18	Wis.6:18	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 6:19.		(Latin=6:19 • Greek=6:18)	Wis.6:25=Last	
+English+Greek	Wis.6:19	Wis.6:19	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 6:20.		(Latin=6:20 • Greek=6:19)	Wis.6:25=Last	
+English+Greek	Wis.6:20	Wis.6:20	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 6:21.		(Latin=6:21 • Greek=6:20)	Wis.6:25=Last	
+English+Greek	Wis.6:21	Wis.6:21	Keep verse	Acd. [22-23]	%In some Bibles the verse numbering here is% 6:22-23.		(Latin=6:22-23 • Greek=6:21)	Wis.6:25=Last	
+English+Greek	Wis.6:22	Wis.6:22	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 6:24.		(Latin=6:24 • Greek=6:22)	Wis.6:25=Last	
+English+Greek	Wis.6:23	Wis.6:23	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 6:25.		(Latin=6:25 • Greek=6:23)	Wis.6:25=Last	
+English+Greek	Wis.6:24	Wis.6:24	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 6:26.		(Latin=6:26 • Greek=6:24)	Wis.6:25=Last	
+English+Greek	Wis.6:25	Wis.6:25	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 6:27.		(Latin=6:27 • Greek=6:25)	Wis.6:25=Last	
+Latin	Wis.6:1	Wis.6:1.1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 6:1.		(Latin=6:1-2 • Greek=6:1)	Wis.6:27=Last	
+Latin	Wis.6:2	Wis.6:1.2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 6:2.		(Latin=6:1-2 • Greek=6:1)	Wis.6:27=Last	
+Latin	Wis.6:3	Wis.6:2	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 6:3.		(Latin=6:3 • Greek=6:2)	Wis.6:27=Last	
+Latin	Wis.6:4	Wis.6:3	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 6:4.		(Latin=6:4 • Greek=6:3)	Wis.6:27=Last	
+Latin	Wis.6:5	Wis.6:4	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 6:5.		(Latin=6:5 • Greek=6:4)	Wis.6:27=Last	
+Latin	Wis.6:6	Wis.6:5	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 6:6.		(Latin=6:6 • Greek=6:5)	Wis.6:27=Last	
+Latin	Wis.6:7	Wis.6:6	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 6:7.		(Latin=6:7 • Greek=6:6)	Wis.6:27=Last	
+Latin	Wis.6:8	Wis.6:7	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 6:8.		(Latin=6:8 • Greek=6:7)	Wis.6:27=Last	
+Latin	Wis.6:9	Wis.6:8	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 6:9.		(Latin=6:9 • Greek=6:8)	Wis.6:27=Last	
+Latin	Wis.6:10	Wis.6:9	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 6:10.		(Latin=6:10 • Greek=6:9)	Wis.6:27=Last	
+Latin	Wis.6:11	Wis.6:10	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 6:11.		(Latin=6:11 • Greek=6:10)	Wis.6:27=Last	
+Latin	Wis.6:12	Wis.6:11	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 6:12.		(Latin=6:12 • Greek=6:11)	Wis.6:27=Last	
+Latin	Wis.6:13	Wis.6:12	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 6:13.		(Latin=6:13 • Greek=6:12)	Wis.6:27=Last	
+Latin	Wis.6:14	Wis.6:13	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 6:14.		(Latin=6:14 • Greek=6:13)	Wis.6:27=Last	
+Latin	Wis.6:15	Wis.6:14	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 6:15.		(Latin=6:15 • Greek=6:14)	Wis.6:27=Last	
+Latin	Wis.6:16	Wis.6:15	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 6:16.		(Latin=6:16 • Greek=6:15)	Wis.6:27=Last	
+Latin	Wis.6:17	Wis.6:16	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 6:17.		(Latin=6:17 • Greek=6:16)	Wis.6:27=Last	
+Latin	Wis.6:18	Wis.6:17	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 6:18.		(Latin=6:18 • Greek=6:17)	Wis.6:27=Last	
+Latin	Wis.6:19	Wis.6:18	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 6:19.		(Latin=6:19 • Greek=6:18)	Wis.6:27=Last	
+Latin	Wis.6:20	Wis.6:19	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 6:20.		(Latin=6:20 • Greek=6:19)	Wis.6:27=Last	
+Latin	Wis.6:21	Wis.6:20	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 6:21.		(Latin=6:21 • Greek=6:20)	Wis.6:27=Last	
+Latin	Wis.6:22	Wis.6:21.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 6:22.		(Latin=6:22-23 • Greek=6:21)	Wis.6:27=Last	
+Latin	Wis.6:23	Wis.6:21.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 6:23.		(Latin=6:22-23 • Greek=6:21)	Wis.6:27=Last	
+Latin	Wis.6:24	Wis.6:22	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 6:24.		(Latin=6:24 • Greek=6:22)	Wis.6:27=Last	
+Latin	Wis.6:25	Wis.6:23	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 6:25.		(Latin=6:25 • Greek=6:23)	Wis.6:27=Last	
+Latin	Wis.6:26	Wis.6:24	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 6:26.		(Latin=6:26 • Greek=6:24)	Wis.6:27=Last	
+Latin	Wis.6:27	Wis.6:25	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 6:27.		(Latin=6:27 • Greek=6:25)	Wis.6:27=Last	
 
 English+Greek	Wis.11:10	Wis.11:10	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 11:11.		(Latin=11:11 • Greek=11:10)	Wis.11:26=Last	
 English+Greek	Wis.11:11	Wis.11:11	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 11:12.		(Latin=11:12 • Greek=11:11)	Wis.11:26=Last	
@@ -21693,8 +21693,14 @@ English+Greek	Tob.8:16	Tob.8:16	Keep verse	Acd. [18]	%In some Bibles the verse n
 English+Greek	Tob.8:17	Tob.8:17	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 8:19.		(Latin=8:19 • Greek=8:17)	Tob.8:21=Last	
 English+Greek	Tob.8:18	Tob.8:18	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 8:20.		(Latin=8:20 • Greek=8:18)	Tob.8:21=Last	
 English+Greek	Tob.8:19	Tob.8:19	Keep verse	Acd. [21-22]	%In some Bibles the verse numbering here is% 8:21-22.		(Latin=8:21-22 • Greek=8:19)	Tob.8:21=Last	
-English+Greek	Tob.8:20	Tob.8:20	Keep verse	Nec. [23]	%In some Bibles the verse numbering here is% 8:23.		(Latin=8:23 • Greek=8:20)	Tob.8:21=Last	
+English+Greek	Tob.8:20	Tob.8:20	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 8:23.		(Latin=8:23 • Greek=8:20)	Tob.8:21=Last	
 English+Greek	Tob.8:21	Tob.8:21	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 8:24.		(Latin=8:24 • Greek=8:21)	Tob.8:21=Last	
+Latin	Tob.8:4	Tob.8:4.1	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 8:4.		(Latin=8:4-5 • Greek=8:4)	Tob.8:24=Last	
+Latin	Tob.8:5	Tob.8:4.2	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 8:5.		(Latin=8:4-5 • Greek=8:4)	Tob.8:24=Last	
+Latin	Tob.8:6	Tob.8:5.1	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 8:6.		(Latin=8:6-7 • Greek=8:5)	Tob.8:24=Last	
+Latin	Tob.8:7	Tob.8:5.2	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 8:7.		(Latin=8:6-7 • Greek=8:5)	Tob.8:24=Last	
+Latin	Tob.8:8	Tob.8:6	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 8:8.		(Latin=8:8 • Greek=8:6)	Tob.8:24=Last	
+Latin	Tob.8:9	Tob.8:7	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 8:9.		(Latin=8:9 • Greek=8:7)	Tob.8:24=Last	
 Latin	Tob.8:10	Tob.8:8	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 8:10.		(Latin=8:10 • Greek=8:8)	Tob.8:24=Last	
 Latin	Tob.8:11	Tob.8:9	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 8:11.		(Latin=8:11 • Greek=8:9)	Tob.8:24=Last	
 Latin	Tob.8:12	Tob.8:10	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 8:12.		(Latin=8:12 • Greek=8:10)	Tob.8:24=Last	
@@ -21708,14 +21714,8 @@ Latin	Tob.8:19	Tob.8:17	Renumber verse	Nec. [19]	%Normally in this Bible the ver
 Latin	Tob.8:20	Tob.8:18	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 8:20.		(Latin=8:20 • Greek=8:18)	Tob.8:24=Last	
 Latin	Tob.8:21	Tob.8:19.1	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 8:21.		(Latin=8:21-22 • Greek=8:19)	Tob.8:24=Last	
 Latin	Tob.8:22	Tob.8:19.2	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 8:22.		(Latin=8:21-22 • Greek=8:19)	Tob.8:24=Last	
-Latin	Tob.8:23	Tob.8:21	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 8:23.		(Latin=8:23 • Greek=8:20)	Tob.8:24=Last	
-Latin	Tob.8:24	Tob.8:22	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 8:24.		(Latin=8:24 • Greek=8:21)	Tob.8:24=Last	
-Latin	Tob.8:4	Tob.8:4.1	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 8:4.		(Latin=8:4-5 • Greek=8:4)	Tob.8:24=Last	
-Latin	Tob.8:5	Tob.8:4.2	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 8:5.		(Latin=8:4-5 • Greek=8:4)	Tob.8:24=Last	
-Latin	Tob.8:6	Tob.8:5.1	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 8:6.		(Latin=8:6-7 • Greek=8:5)	Tob.8:24=Last	
-Latin	Tob.8:7	Tob.8:5.2	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 8:7.		(Latin=8:6-7 • Greek=8:5)	Tob.8:24=Last	
-Latin	Tob.8:8	Tob.8:6	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 8:8.		(Latin=8:8 • Greek=8:6)	Tob.8:24=Last	
-Latin	Tob.8:9	Tob.8:7	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 8:9.		(Latin=8:9 • Greek=8:7)	Tob.8:24=Last	
+Latin	Tob.8:23	Tob.8:20	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 8:23.		(Latin=8:23 • Greek=8:20)	Tob.8:24=Last	
+Latin	Tob.8:24	Tob.8:21	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 8:24.		(Latin=8:24 • Greek=8:21)	Tob.8:24=Last	
 
 English+Greek	Tob.9:5	Tob.9:5	Keep verse	Acd. [5-7]	%In some Bibles the verse numbering here is% 9:5-7.		(Latin=9:5-7 • Greek=9:5)	Tob.9:6=Last	
 English+Greek	Tob.9:6	Tob.9:6.1	Keep verse	Acd. [8-12]	%In some Bibles the verse numbering here is% 9:8-12.		(Latin=9:8-12 • Greek=9:6)	Tob.9:6=Last	
