@@ -21482,17 +21482,26 @@ Latin	Tob.1:23	Tob.1:20	Renumber verse	Nec. [23]	%Normally in this Bible the ver
 Latin	Tob.1:24	Tob.1:21	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 1:24.		(Latin=1:24 • Greek=1:21)	Tob.1:25=Last	
 Latin	Tob.1:25	Tob.1:22	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 1:25.		(Latin=1:25 • Greek=1:22)	Tob.1:25=Last	
 
+
+$Tob.2:9-2:14	English	Latin	Greek		
+TEST: If...	Tob.2:14=Last	Tob.2:23=Last	Tob.2:14=Last			
+Concatenation	Tob.2:9	Tob.2:9-10	Tob.2:9	
+Concatenation	Tob.2:10	Tob.2:11-18	Tob.2:10	
+OneToOne	Tob.2:11-13	Tob.2:19-21	Tob.2:11-13	
+Concatenation	Tob.2:14	Tob.2:22-23	Tob.2:14			
+
+
 English+Greek	Tob.2:10	Tob.2:10	Keep verse	Acd. [11-18]	%In some Bibles the verse numbering here is% 2:11-18.		(Latin=2:11-18 • Greek=2:10)	Tob.2:14=Last	
-English+Greek	Tob.2:11	Tob.2:11	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 2:19.		(Latin=2:19 • Greek=2:11)	Tob.1:22=Last	
-English+Greek	Tob.2:12	Tob.2:12	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 2:20.		(Latin=2:20 • Greek=2:12)	Tob.1:22=Last	
+English+Greek	Tob.2:11	Tob.2:11	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 2:19.		(Latin=2:19 • Greek=2:11)	Tob.2:14=Last	
+English+Greek	Tob.2:12	Tob.2:12	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 2:20.		(Latin=2:20 • Greek=2:12)	Tob.2:14=Last	
 English+Greek	Tob.2:13	Tob.2:13	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 2:21.		(Latin=2:21 • Greek=2:13)	Tob.2:14=Last	
 English+Greek	Tob.2:14	Tob.2:14	Keep verse	Acd. [22-23]	%In some Bibles the verse numbering here is% 2:22-23.		(Latin=2:22-23 • Greek=2:14)	Tob.2:14=Last	
-English+Greek	Tob.2:9	Tob.2:9.1	Keep verse	Acd. [9-10]	%In some Bibles the verse numbering here is% 2:9-10.		(Latin=2:9-10 • Greek=2:9)	Tob.2:14=Last	
+Latin	Tob.2:9	Tob.2:9.1	Keep verse	Acd. [9-10]	%In some Bibles the verse numbering here is% 2:9-10.		(Latin=2:9-10 • Greek=2:9)	Tob.2:23=Last	
 Latin	Tob.2:10	Tob.2:9.2	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 2:10.		(Latin=2:9-10 • Greek=2:9)	Tob.2:23=Last	
 Latin	Tob.2:11	Tob.2:10.1	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 2:11.		(Latin=2:11-18 • Greek=2:10)	Tob.2:23=Last	
 Latin	Tob.2:18	Tob.2:10.2	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 2:18.		(Latin=2:11-18 • Greek=2:10)	Tob.2:23=Last	
-Latin	Tob.2:19	Tob.2:11	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 2:19.		(Latin=2:19 • Greek=2:11)	Tob.1:25=Last	
-Latin	Tob.2:20	Tob.2:12	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 2:20.		(Latin=2:20 • Greek=2:12)	Tob.1:25=Last	
+Latin	Tob.2:19	Tob.2:11	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 2:19.		(Latin=2:19 • Greek=2:11)	Tob.2:23=Last	
+Latin	Tob.2:20	Tob.2:12	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 2:20.		(Latin=2:20 • Greek=2:12)	Tob.2:23=Last	
 Latin	Tob.2:21	Tob.2:13	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 2:21.		(Latin=2:21 • Greek=2:13)	Tob.2:23=Last	
 Latin	Tob.2:22	Tob.2:14.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 2:22.		(Latin=2:22-23 • Greek=2:14)	Tob.2:23=Last	
 Latin	Tob.2:23	Tob.2:14.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 2:23.		(Latin=2:22-23 • Greek=2:14)	Tob.2:23=Last	
@@ -22753,8 +22762,8 @@ Greek Est.10:4-13; 11:1         Latin Est.10:4-13; 11:1     LatinAF Est.F:1-11  
 
 
 
-Phrases to translate to different languages: 
-===========================
+Phrases and Abbreviatinos to translate to different languages: 
+======================================
 %In some Bibles the verse numbering here is% REF
 %Normally in this Bible the verse numbering here is% REF
 %Normally in this Bible this verse and the next are merged as % REF
@@ -22772,9 +22781,25 @@ Phrases to translate to different languages:
 %In some Bibles this verse starts on a different word%
 %At the end of this verse some manuscripts add information such as where this letter was written%
 
-If the work has Deuterocanonical material for Daniel etc, what is the Abbreviation for Dan (Daniel), 2Ch (2 Chronicles), and Oda (Odes)? 
-If the work has the 'academic' notes such as "(Hebrew=25:15 • Latin=25:15 • Greek=25:14)", what is translation for : "Hebrew", "Latin", "Greek"
-If the  work has the 'academic' notes AND it has Deuterocanonical material, what are the abbreviations for S2Y (Song of Three Youths/Children/Azariah), Sus (Susanna), Bel (Bel and the Dragon), EpJ (Epistle of Jeremiah) 
+Abbreviation equivalent to:
+Mat (Matthew)
+Mrk (Mark)
+Luk (Luke)
+(If the work has Deuterocanonical material for Daniel etc:)
+Dan (Daniel)
+2Ch (2 Chronicles)
+Oda (Odes)? 
+(If the  work has the 'academic' notes AND it has Deuterocanonical material:)
+S2Y (Song of Three Youths/Children/Azariah)
+Sus (Susanna)
+Bel (Bel and the Dragon)
+EpJ (Epistle of Jeremiah) 
+
+If the work has the 'academic' notes such as "(Hebrew=25:15 • Latin=25:15 • Greek=25:14)", what is translation for : 
+Hebrew
+Latin
+Greek
+
 
 
 Standard Bible OSIS abbreviations, with number of verses in each 
