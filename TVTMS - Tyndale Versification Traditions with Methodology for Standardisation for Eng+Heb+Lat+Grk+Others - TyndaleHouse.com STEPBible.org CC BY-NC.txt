@@ -21482,15 +21482,6 @@ Latin	Tob.1:23	Tob.1:20	Renumber verse	Nec. [23]	%Normally in this Bible the ver
 Latin	Tob.1:24	Tob.1:21	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 1:24.		(Latin=1:24 • Greek=1:21)	Tob.1:25=Last	
 Latin	Tob.1:25	Tob.1:22	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 1:25.		(Latin=1:25 • Greek=1:22)	Tob.1:25=Last	
 
-
-$Tob.2:9-2:14	English	Latin	Greek		
-TEST: If...	Tob.2:14=Last	Tob.2:23=Last	Tob.2:14=Last			
-Concatenation	Tob.2:9	Tob.2:9-10	Tob.2:9	
-Concatenation	Tob.2:10	Tob.2:11-18	Tob.2:10	
-OneToOne	Tob.2:11-13	Tob.2:19-21	Tob.2:11-13	
-Concatenation	Tob.2:14	Tob.2:22-23	Tob.2:14			
-
-
 English+Greek	Tob.2:10	Tob.2:10	Keep verse	Acd. [11-18]	%In some Bibles the verse numbering here is% 2:11-18.		(Latin=2:11-18 • Greek=2:10)	Tob.2:14=Last	
 English+Greek	Tob.2:11	Tob.2:11	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 2:19.		(Latin=2:19 • Greek=2:11)	Tob.2:14=Last	
 English+Greek	Tob.2:12	Tob.2:12	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 2:20.		(Latin=2:20 • Greek=2:12)	Tob.2:14=Last	
