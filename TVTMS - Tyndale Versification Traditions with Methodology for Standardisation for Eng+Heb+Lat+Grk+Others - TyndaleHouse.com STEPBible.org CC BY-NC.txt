@@ -2885,6 +2885,11 @@ $2Co.13:12-13	English	Greek	Greek2
 TEST: If...	2Co.13:13=Last	2Co.13:13=Last	2Co.13:12=Last
 DuplicateTarget	2Co.13:12-13	2Co.13:12-13	2Co.13:12
 
+$Php.1.16-17	English	Greek	Greek2
+TEST: If...	Php.1:16<Php.1:17	Php.1:16<Php.1:17	Php.1:16>Php.1:17
+OneToOne	Php.1:16	Php.1:16	Php.1:17
+OneToOne	Php.1:17	Php.1:17	Php.1:16
+
 $1Jn.5:7-8	English	Greek	Greek2
 TEST: If...	1Jh.5:7<1Jh.5:19	1Jh.5:7<1Jh.5:19	1Jh.5:7>1Jh.5:19
 TextMayBeMissing	1Jn.5:7	1Jn.5:7.1	1Jn.5:7
@@ -2895,8 +2900,12 @@ TEST: If...	3Jn.1:14=Last	3Jn.1:15=Last	3Jn.1:14=Last
 DuplicateTarget	3Jn.1:14-15	3Jn.1:14-15	3Jn.1:14
 
 $Rev.12:17-13.1a	English	Greek	Greek2
-TEST: If...	Rev.12:17=Last	Rev.12:18=Last	Rev.12:17=Last
-DuplicateTarget	Rev.12:17-18	Rev.12:17-18	Rev.12:17-13.1a
+TEST: If...	Rev.12:18=Last	Rev.12:17=Last	Rev.12:17=Last
+TEST: And if... 		Rev.12:17>Rev.13:1	Rev.12:17<Rev.13:1
+OneToOne	Rev.12:17	12:17a	12:17
+OneToOne	Rev.12:18	12:17b	13:1a
+OneToOne	Rev.13:1	13:1	13:1b
+
 
 #DataEnd(Condensed)
 # ==========
@@ -21623,17 +21632,22 @@ Latin	Tob.5:7	Tob.5:5	Renumber verse	Nec. [7]	%Normally in this Bible the verse 
 Latin	Tob.5:8	Tob.5:6	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 5:8.		(Latin=5:8 • Greek=5:6)	Tob.5:28=Last	
 Latin	Tob.5:9	Tob.5:7	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 5:9.		(Latin=5:9 • Greek=5:7)	Tob.5:28=Last	
 
+English	Tob.7:3	Tob.7:3	Keep verse	Acd. [3-4]	%In some Bibles the verse numbering here is% 7:3-4.		(Latin=7:3-4 • Greek=7:3)	Tob.7:16=Last	
+English	Tob.7:4	Tob.7:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 7:5.		(Latin=7:5 • Greek=7:4)	Tob.7:16=Last	
+English	Tob.7:5	Tob.7:5	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 7:6.		(Latin=7:6 • Greek=7:5)	Tob.7:16=Last	
+English	Tob.7:6	Tob.7:6	Keep verse	Acd. [7a]	%In some Bibles the verse numbering here is% 7:7a.		(Latin=7:7a • Greek=7:6)	Tob.7:16=Last	
+English	Tob.7:7	Tob.7:7	Keep verse	Acd. [7b]	%In some Bibles the verse numbering here is% 7:7b.		(Latin=7:7b • Greek=7:7)	Tob.7:16=Last	
 English	Tob.7:11	Tob.7:11	Keep verse	Acd. [11-12]	%In some Bibles the verse numbering here is% 7:11-12.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:16=Last	
 English	Tob.7:12	Tob.7:12	Keep verse	Acd. [13-15]	%In some Bibles the verse numbering here is% 7:13-15.		(Latin=7:13-15 • Greek=7:13)	Tob.7:16=Last	
 English	Tob.7:13	Tob.7:13	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 7:16.		(Latin=7:16 • Greek=7:14a)	Tob.7:16=Last	
 English	Tob.7:14	Tob.7:14	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 7:17.		(Latin=7:17 • Greek=7:14b)	Tob.7:16=Last	
 English	Tob.7:15	Tob.7:15	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 7:18.		(Latin=7:18 • Greek=7:15)	Tob.7:16=Last	
 English	Tob.7:16	Tob.7:16	Keep verse	Acd. [19-20]	%In some Bibles the verse numbering here is% 7:19-20.		(Latin=7:19-20 • Greek=7:16-17)	Tob.7:16=Last	
-English	Tob.7:3	Tob.7:3	Keep verse	Acd. [3-4]	%In some Bibles the verse numbering here is% 7:3-4.		(Latin=7:3-4 • Greek=7:3)	Tob.7:16=Last	
-English	Tob.7:4	Tob.7:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 7:5.		(Latin=7:5 • Greek=7:4)	Tob.7:16=Last	
-English	Tob.7:5	Tob.7:5	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 7:6.		(Latin=7:6 • Greek=7:5)	Tob.7:16=Last	
-English	Tob.7:6	Tob.7:6	Keep verse	Acd. [7a]	%In some Bibles the verse numbering here is% 7:7a.		(Latin=7:7a • Greek=7:6)	Tob.7:16=Last	
-English	Tob.7:7	Tob.7:7	Keep verse	Acd. [7b]	%In some Bibles the verse numbering here is% 7:7b.		(Latin=7:7b • Greek=7:7)	Tob.7:16=Last	
+Greek	Tob.7:3	Tob.7:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 7:3.		(Latin=7:3-4 • Greek=7:3)	Tob.7:17=Last	
+Greek	Tob.7:4	Tob.7:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 7:4.		(Latin=7:5 • Greek=7:4)	Tob.7:17=Last	
+Greek	Tob.7:5	Tob.7:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 7:5.		(Latin=7:6 • Greek=7:5)	Tob.7:17=Last	
+Greek	Tob.7:6	Tob.7:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 7:6.		(Latin=7:7a • Greek=7:6)	Tob.7:17=Last	
+Greek	Tob.7:7	Tob.7:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 7:7.		(Latin=7:7b • Greek=7:7)	Tob.7:17=Last	
 Greek	Tob.7:11	Tob.7:11.1	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 7:11.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:17=Last	
 Greek	Tob.7:12	Tob.7:11.2	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 7:12.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:17=Last	
 Greek	Tob.7:13	Tob.7:12	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 7:13.		(Latin=7:13-15 • Greek=7:13)	Tob.7:17=Last	
@@ -21642,11 +21656,11 @@ Greek	Tob.7:14	Tob.7:14	Merged with	Nec. [14b]	%Normally in this Bible some text
 Greek	Tob.7:15	Tob.7:15	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 7:15.		(Latin=7:18 • Greek=7:15)	Tob.7:17=Last	
 Greek	Tob.7:16	Tob.7:16.1	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 7:16.		(Latin=7:19-20 • Greek=7:16-17)	Tob.7:17=Last	
 Greek	Tob.7:17	Tob.7:16.2	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 7:17.		(Latin=7:19-20 • Greek=7:16-17)	Tob.7:17=Last	
-Greek	Tob.7:3	Tob.7:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 7:3.		(Latin=7:3-4 • Greek=7:3)	Tob.7:17=Last	
-Greek	Tob.7:4	Tob.7:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 7:4.		(Latin=7:5 • Greek=7:4)	Tob.7:17=Last	
-Greek	Tob.7:5	Tob.7:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 7:5.		(Latin=7:6 • Greek=7:5)	Tob.7:17=Last	
-Greek	Tob.7:6	Tob.7:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 7:6.		(Latin=7:7a • Greek=7:6)	Tob.7:17=Last	
-Greek	Tob.7:7	Tob.7:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 7:7.		(Latin=7:7b • Greek=7:7)	Tob.7:17=Last	
+Greek2	Tob.7:3	Tob.7:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 7:3.		(Latin=7:3-4 • Greek=7:3)	Tob.7:18=Last	
+Greek2	Tob.7:4	Tob.7:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 7:4.		(Latin=7:5 • Greek=7:4)	Tob.7:18=Last	
+Greek2	Tob.7:5	Tob.7:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 7:5.		(Latin=7:6 • Greek=7:5)	Tob.7:18=Last	
+Greek2	Tob.7:6	Tob.7:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 7:6.		(Latin=7:7a • Greek=7:6)	Tob.7:18=Last	
+Greek2	Tob.7:7	Tob.7:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 7:7.		(Latin=7:7b • Greek=7:7)	Tob.7:18=Last	
 Greek2	Tob.7:11	Tob.7:11.1	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 7:11.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:18=Last	
 Greek2	Tob.7:12	Tob.7:11.2	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 7:12.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:18=Last	
 Greek2	Tob.7:13	Tob.7:12.1	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 7:13.		(Latin=7:13-15 • Greek=7:13-14)	Tob.7:18=Last	
@@ -21656,11 +21670,12 @@ Greek2	Tob.7:15	Tob.7:14	Merged with	Nec. [15b]	%Normally in this Bible some tex
 Greek2	Tob.7:16	Tob.7:15	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 7:16.		(Latin=7:18 • Greek=7:16)	Tob.7:18=Last	
 Greek2	Tob.7:17	Tob.7:16.1	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 7:17.		(Latin=7:19-20 • Greek=7:17-18)	Tob.7:18=Last	
 Greek2	Tob.7:18	Tob.7:16.2	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 7:18.		(Latin=7:19-20 • Greek=7:17-18)	Tob.7:18=Last	
-Greek2	Tob.7:3	Tob.7:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 7:3.		(Latin=7:3-4 • Greek=7:3)	Tob.7:18=Last	
-Greek2	Tob.7:4	Tob.7:4	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 7:4.		(Latin=7:5 • Greek=7:4)	Tob.7:18=Last	
-Greek2	Tob.7:5	Tob.7:5	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 7:5.		(Latin=7:6 • Greek=7:5)	Tob.7:18=Last	
-Greek2	Tob.7:6	Tob.7:6	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 7:6.		(Latin=7:7a • Greek=7:6)	Tob.7:18=Last	
-Greek2	Tob.7:7	Tob.7:7	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 7:7.		(Latin=7:7b • Greek=7:7)	Tob.7:18=Last	
+Latin	Tob.7:3	Tob.7:3.1	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 7:3.		(Latin=7:3-4 • Greek=7:3)	Tob.7:20=Last	
+Latin	Tob.7:4	Tob.7:3.2	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 7:4.		(Latin=7:3-4 • Greek=7:3)	Tob.7:20=Last	
+Latin	Tob.7:5	Tob.7:4	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 7:5.		(Latin=7:5 • Greek=7:4)	Tob.7:20=Last	
+Latin	Tob.7:6	Tob.7:5	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 7:6.		(Latin=7:6 • Greek=7:5)	Tob.7:20=Last	
+Latin	Tob.7:7	Tob.7:6	Renumber verse	Nec. [7a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 7:7.		(Latin=7:7 • Greek=7:6)	Tob.7:20=Last	
+Latin	Tob.7:7	Tob.7:7	Merged with	Nec. [7b]	%Normally in this Bible some text may be missing here because it is merged with% 7:6.		(Latin=7:7b • Greek=7:7)	Tob.7:20=Last	
 Latin	Tob.7:11	Tob.7:11.1	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 7:11.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:20=Last	
 Latin	Tob.7:12	Tob.7:11.2	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 7:12.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:20=Last	
 Latin	Tob.7:13	Tob.7:12.1	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 7:13.		(Latin=7:13-15 • Greek=7:13)	Tob.7:20=Last	
@@ -21670,12 +21685,6 @@ Latin	Tob.7:17	Tob.7:14	Renumber verse	Nec. [17]	%Normally in this Bible the ver
 Latin	Tob.7:18	Tob.7:15	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 7:18.		(Latin=7:18 • Greek=7:15)	Tob.7:20=Last	
 Latin	Tob.7:19	Tob.7:16.1	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 7:19.		(Latin=7:19-20 • Greek=7:16-17)	Tob.7:20=Last	
 Latin	Tob.7:20	Tob.7:16.2	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 7:20.		(Latin=7:19-20 • Greek=7:16-17)	Tob.7:20=Last	
-Latin	Tob.7:3	Tob.7:3.1	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 7:3.		(Latin=7:3-4 • Greek=7:3)	Tob.7:20=Last	
-Latin	Tob.7:4	Tob.7:3.2	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 7:4.		(Latin=7:3-4 • Greek=7:3)	Tob.7:20=Last	
-Latin	Tob.7:5	Tob.7:4	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 7:5.		(Latin=7:5 • Greek=7:4)	Tob.7:20=Last	
-Latin	Tob.7:6	Tob.7:5	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 7:6.		(Latin=7:6 • Greek=7:5)	Tob.7:20=Last	
-Latin	Tob.7:7	Tob.7:6	Renumber verse	Nec. [7a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 7:7.		(Latin=7:7 • Greek=7:6)	Tob.7:20=Last	
-Latin	Tob.7:7	Tob.7:7	Merged with	Nec. [7b]	%Normally in this Bible some text may be missing here because it is merged with% 7:6.		(Latin=7:7b • Greek=7:7)	Tob.7:20=Last	
 
 English+Greek	Tob.8:4	Tob.8:4	Keep verse	Acd. [4-5]	%In some Bibles the verse numbering here is% 8:4-5.		(Latin=8:4-5 • Greek=8:4)	Tob.8:21=Last	
 English+Greek	Tob.8:5	Tob.8:5	Keep verse	Acd. [6-7]	%In some Bibles the verse numbering here is% 8:6-7.		(Latin=8:6-7 • Greek=8:5)	Tob.8:21=Last	
@@ -22446,15 +22455,26 @@ English+Greek	2Co.13:13	2Co.13:13	Keep verse	Acd. [12b]	%In some Bibles the vers
 Greek2	2Co.13:12	2Co.13:12	Keep verse	Nec. [12-13]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 1:12.		(Greek=1:12 / 1:12a)	2Co.13:12=Last	
 Greek2	2Co.13:12	2Co.13:13	Merged with	Nec. [12b]	%Normally in this Bible some text may be missing here because it is merged with% 1:12.		(Greek=1:13 / 1:12b)	2Co.13:12=Last	
 
+English+Greek	Php.1:16	Php.1:16	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 1:17.		(Greek=1:16 / 1:17)	Php.1:16<Php.1:17	
+English+Greek	Php.1:17	Php.1:17	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 1:16.		(Greek=1:16 / 1:17)	Php.1:16<Php.1:17	
+Greek2	Php.1:16	Php.1:17	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 1:16.		(Greek=1:16 / 1:17)	Php.1:16>Php.1:17	
+Greek2	Php.1:17	Php.1:16	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 1:17.		(Greek=1:16 / 1:17)	Php.1:16>Php.1:17	
+
 English+Greek	3Jn.1:14	3Jn.1:14	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 1:14a.		(Greek=1:14 / 1:14a)	3Jn.1:15=Last	
 English+Greek	3Jn.1:15	3Jn.1:15	Keep verse	Acd. [14b]	%In some Bibles the verse numbering here is% 1:14b.		(Greek=1:15 / 1:14b)	3Jn.1:15=Last	
 Greek2	3Jn.1:14	3Jn.1:14	Keep verse	Nec. [14-15]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 1:14.		(Greek=1:14 / 1:14a)	3Jn.1:14=Last	
 Greek2	3Jn.1:14	3Jn.1:15	Merged with	Nec. [14b]	%Normally in this Bible some text may be missing here because it is merged with% 1:14.		(Greek=1:15 / 1:14b)	3Jn.1:14=Last	
 
-English+Greek	Rev.12:17	Rev.12:17	Keep verse	Acd. [17a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 / 12:17a)	Rev.12:18=Last	
-English+Greek	Rev.12:18	Rev.12:18	Keep verse	Acd. [17b]	%In some Bibles the verse numbering here is% 12:17b.		(Greek=12:18 / 12:17b)	Rev.12:18=Last	
-Greek2	Rev.12:17	Rev.12:17	Keep verse	Nec. [17-18]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 12:17.		(Greek=12:17 / 12:17a)	Rev.12:17=Last	
-Greek2	Rev.12:17	Rev.12:18	Merged with	Nec. [17b]	%Normally in this Bible some text may be missing here because it is merged with% 12:17.		(Greek=12:18 / 12:17b)	Rev.12:17=Last	
+English	Rev.12:17	Rev.12:17	Keep verse	Acd. [17a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 / 12:17a)	Rev.12:18=Last	
+English	Rev.12:18	Rev.12:18	Keep verse	Acd. [17b]	%In some Bibles the verse numbering here is% 12:17b/13:1a.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:18=Last	
+English	Rev.13:1	Rev.13:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 13:1a.		(Greek=12:18 / 13:11a)	Rev.12:18=Last	
+Greek	Rev.12:17	Rev.12:17	Keep verse	Acd. [17-18]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 12:17.		(Greek=12:17 / 12:17a)	Rev.12:18=Last & Rev.12:17>Rev.13:1	
+Greek	Rev.12:17	Rev.12:18	Merged with	Nec. [17b]	%Normally in this Bible some text may be missing here because it is merged with% 12:17.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:18=Last & Rev.12:17>Rev.13:1	
+Greek	Rev.13:1	Rev.13:1	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 12:18-13:1.		(Greek=12:18 / 13:1a)	Rev.12:18=Last & Rev.12:17>Rev.13:1	
+Greek2	Rev.12:17	Rev.12:17	Keep verse	Acd. [17a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 / 12:17a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
+Greek2	Rev.13:1	Rev.12:18	Merged with	Nec. [1a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 13:1.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
+Greek2	Rev.13:1	Rev.13:1	Keep verse	Acd. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 13:1.		(Greek=12:18 / 13:1a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
+
 
 
 # NO TESTS: 
