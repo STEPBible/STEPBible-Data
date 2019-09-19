@@ -17,7 +17,7 @@ yndale.github.io/STEPBible-Data/
 
 If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
 ==============================================================
-For fuller notes and expanded data for each verse, see https://drive.google.com/file/d/1lRbxrC-Sn8CHMsA9t5bTyYb036wz8awM - created by Jamie Jamieson who did most of the programming for creating this data. 
+For a brief introduction and explanation see https://drive.google.com/file/d/1lk_zRisi1sn5-CdyIDUjPzw3XM6cHL7n/view?usp=sharing
 
 1) Condensed Version - each section with the Tests to identify the versification being followed, and comparison of numbering in different traditions. This version is easy for humans to understand
 2) Expanded Version - verse-by-verse renumbering to Standard versification with explanatory notes for each verse. This version is easy for use in software to Standardise a Bible or to add notes about Standard versification to a Bible
@@ -344,9 +344,9 @@ OneToOne	Jos.5:15	Jos.5:15	Jos.5:16	Jos.5:15	Jos.5:15
 OneToOne	Jos.6:1	Jos.6:1	Jos.6:1	Jos.6:1	Jos.5:16		
 OneToOne	Jos.6:2-27	Jos.6:2-27	Jos.6:2-27	Jos.6:2-27	Jos.6:1-26		
 
-$Jos.8:30-9:2	English	Hebrew	Latin	Greek	GreekUndivided
-TEST: If...	Jos.8:35=Last	Jos.8:36=Last	Jos.8:35=Last	Jos.8:29=Last	Jos.8:29=Last
-TEST: And if... 	Jos.9:1>9:2	Jos.9:1>9:2	Jos.9:1<9:2	Jos.9:1<9:2	Jos.9:1<9:2
+$Jos.8:30-9:2	English	Hebrew	Latin	Greek*	GreekUndivided
+TEST: If...	Jos.8:35=Last	Jos.8:35=Last	Jos.8:35=Last	Jos.8:29=Last	Jos.8:29=Last
+TEST: And if... 	Jos.9:1>9:2	Jos.9:1>9:2	Jos.9:1>9:2	Jos.9:1<9:2	Jos.9:1<9:2
 TEST: And if... 	Jos.9:2.1=NotExist	Jos.9:2.1=NotExist	Jos.9:2.1=NotExist	Jos.9:2.1=Exist	Jos.9:2.1=NotExist
 LongVerseElsewhere	Jos.8:30-35	Jos.8:30-35	Jos.8:30-35	Jos.9:2.1-6	Absent [=Jos.9:2.1-6]		
 LongVerse/LVElsewhere	Jos.9:2	Jos.9:2	Jos.9:2	Jos.9:2.0-6 [=8:30-35]	Jos.9:2 [=Jos.8:30-35]		
@@ -4507,41 +4507,27 @@ Slavonic	Jos.6:24	Jos.6:25	Renumber verse	Nec. [24]	%Normally in this Bible the 
 Slavonic	Jos.6:25	Jos.6:26	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 6:25.		(Hebrew=6:26 • Latin=6:26 • Greek=6:26)	Jos.5:16=Last & Jos.6:26=Last	
 Slavonic	Jos.6:26	Jos.6:27	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 6:26.		(Hebrew=6:27 • Latin=6:27 • Greek=6:27)	Jos.5:16=Last & Jos.6:26=Last	
 
-English	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-English	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-English	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-English	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-English	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-English	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-English	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Hebrew	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:36=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
-Latin	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Latin	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Latin	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Latin	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Latin	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Latin	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Latin	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:35=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-Greek	Jos.9:2.0	Jos.9:2	Keep verse	Acd. [2٠]	%Normally in this Bible this verse includes words that are at% 8:30-35.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2٠)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
-Greek	Jos.9:2.1	Jos.8:30	Renumber verse	Nec. [2a]	%Normally in this Bible the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
-Greek	Jos.9:2.2	Jos.8:31	Renumber verse	Nec. [2b]	%Normally in this Bible the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
-Greek	Jos.9:2.3	Jos.8:32	Renumber verse	Nec. [2c]	%Normally in this Bible the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
-Greek	Jos.9:2.4	Jos.8:33	Renumber verse	Nec. [2d]	%Normally in this Bible the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
-Greek	Jos.9:2.5	Jos.8:34	Renumber verse	Nec. [2e]	%Normally in this Bible the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
-Greek	Jos.9:2.6	Jos.8:35	Renumber verse	Nec. [2f]	%Normally in this Bible the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist & Jos.9:2.1=NotExist	
-GreekUndivided	Jos.8:30	Jos.8:30	Merged with	Nec. [2a]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-GreekUndivided	Jos.8:31	Jos.8:31	Merged with	Nec. [2b]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-GreekUndivided	Jos.8:32	Jos.8:32	Merged with	Nec. [2c]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-GreekUndivided	Jos.8:33	Jos.8:33	Merged with	Nec. [2d]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-GreekUndivided	Jos.8:34	Jos.8:34	Merged with	Nec. [2e]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
-GreekUndivided	Jos.8:35	Jos.8:35	Merged with	Nec. [2f]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+English+Hebrew+Latin	Jos.8:30	Jos.8:30	Keep verse	Acd. [2a]	%In some Bibles the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English+Hebrew+Latin	Jos.8:31	Jos.8:31	Keep verse	Acd. [2b]	%In some Bibles the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English+Hebrew+Latin	Jos.8:32	Jos.8:32	Keep verse	Acd. [2c]	%In some Bibles the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English+Hebrew+Latin	Jos.8:33	Jos.8:33	Keep verse	Acd. [2d]	%In some Bibles the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English+Hebrew+Latin	Jos.8:34	Jos.8:34	Keep verse	Acd. [2e]	%In some Bibles the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English+Hebrew+Latin	Jos.8:35	Jos.8:35	Keep verse	Acd. [2f]	%In some Bibles the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+English+Hebrew+Latin	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:35=Last & Jos.9:1>Jos.9:2 & Jos.9:2.1=NotExist	
+Greek	Jos.9:2.0	Jos.9:2	Keep verse	Acd. [2٠]	%Normally in this Bible this verse includes words that are at% 8:30-35.		(Hebrew=9:2 • Latin=9:2 • Greek=9:2٠)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
+Greek	Jos.9:2.1	Jos.8:30	Renumber verse	Nec. [2a]	%Normally in this Bible the verse numbering here is% 9:2a.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
+Greek	Jos.9:2.2	Jos.8:31	Renumber verse	Nec. [2b]	%Normally in this Bible the verse numbering here is% 9:2b.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
+Greek	Jos.9:2.3	Jos.8:32	Renumber verse	Nec. [2c]	%Normally in this Bible the verse numbering here is% 9:2c.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
+Greek	Jos.9:2.4	Jos.8:33	Renumber verse	Nec. [2d]	%Normally in this Bible the verse numbering here is% 9:2d.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
+Greek	Jos.9:2.5	Jos.8:34	Renumber verse	Nec. [2e]	%Normally in this Bible the verse numbering here is% 9:2e.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
+Greek	Jos.9:2.6	Jos.8:35	Renumber verse	Nec. [2f]	%Normally in this Bible the verse numbering here is% 9:2f.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=Exist	
 GreekUndivided	Jos.9:2	Jos.9:2	Keep verse	Acd. [2,a-f]	%In some Bibles the verse numbering here is% 9:2, 2a-f.	%The extra words are found at% 8:30-35.	(Hebrew=9:2 • Latin=9:2 • Greek=9:2, 2a-f[+8:30-35])	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+GreekUndivided	Jos.9:2	Jos.8:30	Merged with	Nec. [2a]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:30 • Latin=8:30 • Greek=9:2a)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+GreekUndivided	Jos.9:2	Jos.8:31	Merged with	Nec. [2b]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:31 • Latin=8:31 • Greek=9:2b)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+GreekUndivided	Jos.9:2	Jos.8:32	Merged with	Nec. [2c]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:32 • Latin=8:32 • Greek=9:2c)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+GreekUndivided	Jos.9:2	Jos.8:33	Merged with	Nec. [2d]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:33 • Latin=8:33 • Greek=9:2d)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+GreekUndivided	Jos.9:2	Jos.8:34	Merged with	Nec. [2e]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:34 • Latin=8:34 • Greek=9:2e)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
+GreekUndivided	Jos.9:2	Jos.8:35	Merged with	Nec. [2f]	%Normally in this Bible some text may be missing here because it is merged with% 9:2.		(Hebrew=8:35 • Latin=8:35 • Greek=9:2f)	Jos.8:29=Last & Jos.9:1<Jos.9:2 & Jos.9:2.1=NotExist	
 
 English+Hebrew+Greek	Jos.21:36	Jos.21:36	Keep verse	Acd. [36a]	%In some Bibles the verse numbering here is% 21:36a.		(Hebrew=21:36 • Latin=21:36a • Greek=21:36)	Jos.21:45=Last	
 English+Hebrew+Greek	Jos.21:37	Jos.21:37	Keep verse	Acd. [36b]	%In some Bibles the verse numbering here is% 21:36b.		(Hebrew=21:37 • Latin=21:36b • Greek=21:37)	Jos.21:45=Last	
@@ -8726,30 +8712,30 @@ Latin+Greek	Psa.9:37	Psa.10:16	Renumber verse	Nec. [9:37]	%Normally in this Bibl
 Latin+Greek	Psa.9:38	Psa.10:17	Renumber verse	Nec. [9:38]	%Normally in this Bible the verse numbering here is% 9:38.		(Hebrew=10:17 • Latin=9:38 • Greek=9:38)	Psa.9:39=Last	
 Latin+Greek	Psa.9:39	Psa.10:18	Renumber verse	Nec. [9:39]	%Normally in this Bible the verse numbering here is% 9:39.		(Hebrew=10:18 • Latin=9:39 • Greek=9:39)	Psa.9:39=Last	
 
-EngTitleSeparate	Psa.11:1.0	Psa.11:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 11:1.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:1.1=Exist	
-EngTitleSeparate	Psa.11:1.1	Psa.11:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 11:2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:1.1=Exist	
-English+Hebrew	Psa.11:1	Psa.11:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 10:1-2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:7=Last	
-English+Hebrew	Psa.11:2	Psa.11:2	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 10:3.		(Hebrew=11:2 • Latin=10:3 • Greek=10:2)	Psa.11:7=Last	
-English+Hebrew	Psa.11:3	Psa.11:3	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 10:4.		(Hebrew=11:3 • Latin=10:4 • Greek=10:3)	Psa.11:7=Last	
-English+Hebrew	Psa.11:4	Psa.11:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 10:5.		(Hebrew=11:4 • Latin=10:5 • Greek=10:4)	Psa.11:7=Last	
-English+Hebrew	Psa.11:5	Psa.11:5	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 10:6.		(Hebrew=11:5 • Latin=10:6 • Greek=10:5)	Psa.11:7=Last	
-English+Hebrew	Psa.11:6	Psa.11:6	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 10:7.		(Hebrew=11:6 • Latin=10:7 • Greek=10:6)	Psa.11:7=Last	
-English+Hebrew	Psa.11:7	Psa.11:7	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 10:8.		(Hebrew=11:7 • Latin=10:8 • Greek=10:7)	Psa.11:7=Last	
-Greek	Psa.10:1	Psa.11:1	Renumber verse	Nec. [10:1]	%Normally in this Bible the verse numbering here is% 10:1.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.10:7=Last	
-Greek	Psa.10:2	Psa.11:2	Renumber verse	Nec. [10:2]	%Normally in this Bible the verse numbering here is% 10:2.		(Hebrew=11:2 • Latin=10:3 • Greek=10:2)	Psa.10:7=Last	
-Greek	Psa.10:3	Psa.11:3	Renumber verse	Nec. [10:3]	%Normally in this Bible the verse numbering here is% 10:3.		(Hebrew=11:3 • Latin=10:4 • Greek=10:3)	Psa.10:7=Last	
-Greek	Psa.10:4	Psa.11:4	Renumber verse	Nec. [10:4]	%Normally in this Bible the verse numbering here is% 10:4.		(Hebrew=11:4 • Latin=10:5 • Greek=10:4)	Psa.10:7=Last	
-Greek	Psa.10:5	Psa.11:5	Renumber verse	Nec. [10:5]	%Normally in this Bible the verse numbering here is% 10:5.		(Hebrew=11:5 • Latin=10:6 • Greek=10:5)	Psa.10:7=Last	
-Greek	Psa.10:6	Psa.11:6	Renumber verse	Nec. [10:6]	%Normally in this Bible the verse numbering here is% 10:6.		(Hebrew=11:6 • Latin=10:7 • Greek=10:6)	Psa.10:7=Last	
-Greek	Psa.10:7	Psa.11:7	Renumber verse	Nec. [10:7]	%Normally in this Bible the verse numbering here is% 10:7.		(Hebrew=11:7 • Latin=10:8 • Greek=10:7)	Psa.10:7=Last	
-Latin	Psa.10:1	Psa.11:1.0	Renumber verse	Nec. [10:1]	%Normally in this Bible the verse numbering here is% 10:1.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.10:8=Last	
-Latin	Psa.10:2	Psa.11:1	Renumber verse	Nec. [10:2]	%Normally in this Bible the verse numbering here is% 10:2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.10:8=Last	
-Latin	Psa.10:3	Psa.11:2	Renumber verse	Nec. [10:3]	%Normally in this Bible the verse numbering here is% 10:3.		(Hebrew=11:2 • Latin=10:3 • Greek=10:2)	Psa.10:8=Last	
-Latin	Psa.10:4	Psa.11:3	Renumber verse	Nec. [10:4]	%Normally in this Bible the verse numbering here is% 10:4.		(Hebrew=11:3 • Latin=10:4 • Greek=10:3)	Psa.10:8=Last	
-Latin	Psa.10:5	Psa.11:4	Renumber verse	Nec. [10:5]	%Normally in this Bible the verse numbering here is% 10:5.		(Hebrew=11:4 • Latin=10:5 • Greek=10:4)	Psa.10:8=Last	
-Latin	Psa.10:6	Psa.11:5	Renumber verse	Nec. [10:6]	%Normally in this Bible the verse numbering here is% 10:6.		(Hebrew=11:5 • Latin=10:6 • Greek=10:5)	Psa.10:8=Last	
-Latin	Psa.10:7	Psa.11:6	Renumber verse	Nec. [10:7]	%Normally in this Bible the verse numbering here is% 10:7.		(Hebrew=11:6 • Latin=10:7 • Greek=10:6)	Psa.10:8=Last	
-Latin	Psa.10:8	Psa.11:7	Renumber verse	Nec. [10:8]	%Normally in this Bible the verse numbering here is% 10:8.		(Hebrew=11:7 • Latin=10:8 • Greek=10:7)	Psa.10:8=Last	
+EngTitleSeparate	Psa.11:1.0	Psa.11:1.0	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 11:1.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:7=Last & Psa.11:1.1=Exist	
+EngTitleSeparate	Psa.11:1.1	Psa.11:1	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 11:2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:7=Last & Psa.11:1.1=Exist	
+English+Hebrew	Psa.11:1	Psa.11:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 10:1-2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.11:7=Last & Psa.11:1.1=NotExist	
+English+Hebrew	Psa.11:2	Psa.11:2	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 10:3.		(Hebrew=11:2 • Latin=10:3 • Greek=10:2)	Psa.11:7=Last & Psa.11:1.1=NotExist	
+English+Hebrew	Psa.11:3	Psa.11:3	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 10:4.		(Hebrew=11:3 • Latin=10:4 • Greek=10:3)	Psa.11:7=Last & Psa.11:1.1=NotExist	
+English+Hebrew	Psa.11:4	Psa.11:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 10:5.		(Hebrew=11:4 • Latin=10:5 • Greek=10:4)	Psa.11:7=Last & Psa.11:1.1=NotExist	
+English+Hebrew	Psa.11:5	Psa.11:5	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 10:6.		(Hebrew=11:5 • Latin=10:6 • Greek=10:5)	Psa.11:7=Last & Psa.11:1.1=NotExist	
+English+Hebrew	Psa.11:6	Psa.11:6	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 10:7.		(Hebrew=11:6 • Latin=10:7 • Greek=10:6)	Psa.11:7=Last & Psa.11:1.1=NotExist	
+English+Hebrew	Psa.11:7	Psa.11:7	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 10:8.		(Hebrew=11:7 • Latin=10:8 • Greek=10:7)	Psa.11:7=Last & Psa.11:1.1=NotExist	
+Greek	Psa.10:1	Psa.11:1	Renumber verse	Nec. [10:1]	%Normally in this Bible the verse numbering here is% 10:1.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.10:7=Last & Psa.11:1.1=NotExist	
+Greek	Psa.10:2	Psa.11:2	Renumber verse	Nec. [10:2]	%Normally in this Bible the verse numbering here is% 10:2.		(Hebrew=11:2 • Latin=10:3 • Greek=10:2)	Psa.10:7=Last & Psa.11:1.1=NotExist	
+Greek	Psa.10:3	Psa.11:3	Renumber verse	Nec. [10:3]	%Normally in this Bible the verse numbering here is% 10:3.		(Hebrew=11:3 • Latin=10:4 • Greek=10:3)	Psa.10:7=Last & Psa.11:1.1=NotExist	
+Greek	Psa.10:4	Psa.11:4	Renumber verse	Nec. [10:4]	%Normally in this Bible the verse numbering here is% 10:4.		(Hebrew=11:4 • Latin=10:5 • Greek=10:4)	Psa.10:7=Last & Psa.11:1.1=NotExist	
+Greek	Psa.10:5	Psa.11:5	Renumber verse	Nec. [10:5]	%Normally in this Bible the verse numbering here is% 10:5.		(Hebrew=11:5 • Latin=10:6 • Greek=10:5)	Psa.10:7=Last & Psa.11:1.1=NotExist	
+Greek	Psa.10:6	Psa.11:6	Renumber verse	Nec. [10:6]	%Normally in this Bible the verse numbering here is% 10:6.		(Hebrew=11:6 • Latin=10:7 • Greek=10:6)	Psa.10:7=Last & Psa.11:1.1=NotExist	
+Greek	Psa.10:7	Psa.11:7	Renumber verse	Nec. [10:7]	%Normally in this Bible the verse numbering here is% 10:7.		(Hebrew=11:7 • Latin=10:8 • Greek=10:7)	Psa.10:7=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:1	Psa.11:1.0	Renumber verse	Nec. [10:1]	%Normally in this Bible the verse numbering here is% 10:1.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.10:8=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:2	Psa.11:1	Renumber verse	Nec. [10:2]	%Normally in this Bible the verse numbering here is% 10:2.		(Hebrew=11:1 • Latin=10:1-2 • Greek=10:1)	Psa.10:8=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:3	Psa.11:2	Renumber verse	Nec. [10:3]	%Normally in this Bible the verse numbering here is% 10:3.		(Hebrew=11:2 • Latin=10:3 • Greek=10:2)	Psa.10:8=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:4	Psa.11:3	Renumber verse	Nec. [10:4]	%Normally in this Bible the verse numbering here is% 10:4.		(Hebrew=11:3 • Latin=10:4 • Greek=10:3)	Psa.10:8=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:5	Psa.11:4	Renumber verse	Nec. [10:5]	%Normally in this Bible the verse numbering here is% 10:5.		(Hebrew=11:4 • Latin=10:5 • Greek=10:4)	Psa.10:8=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:6	Psa.11:5	Renumber verse	Nec. [10:6]	%Normally in this Bible the verse numbering here is% 10:6.		(Hebrew=11:5 • Latin=10:6 • Greek=10:5)	Psa.10:8=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:7	Psa.11:6	Renumber verse	Nec. [10:7]	%Normally in this Bible the verse numbering here is% 10:7.		(Hebrew=11:6 • Latin=10:7 • Greek=10:6)	Psa.10:8=Last & Psa.11:1.1=NotExist	
+Latin	Psa.10:8	Psa.11:7	Renumber verse	Nec. [10:8]	%Normally in this Bible the verse numbering here is% 10:8.		(Hebrew=11:7 • Latin=10:8 • Greek=10:7)	Psa.10:8=Last & Psa.11:1.1=NotExist	
 
 English	Psa.12:1	Psa.12:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 12:1-2.		(Hebrew=12:1-2 • Latin=11:1-2 • Greek=11:1-2)	Psa.12:8=Last	
 English	Psa.12:2	Psa.12:2	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 12:3.		(Hebrew=12:3 • Latin=11:3 • Greek=11:3)	Psa.12:8=Last	
@@ -22747,7 +22733,7 @@ Rearrangements
 ===========
 Subverses sometimes occur due to rearrangements of the LXX text - that is, parts of the text occur in a different order. We don't know the reason for this, but probably the LXX was translated from an early version of the Hebrew text where the exact order was not yet settled. 
 One interesting place is Exo.20:13-15 where the order of some of the 10 Commandments is different, which may be reflected in Jer.7:9. The has yet another order (see https://www.stepbible.org/?q=version=ESV%7Ctext=steal%20and%20adultery%20and%20murder&options=HVNUG&pos=1 )
-Others in Greek Bibles: Exo.20:13-20:15; 21:16-21:17; 35:8-35:27; .37:1-37:29; .38:1-38:31; .39:1-39:43; .40:9-40:38; Num.1:24-1:37; 10:34-10:36; 26:1-26:47; Jos.24:29-24:31; 1Ki.2:8-7:23; 7:1-7:51; 8:12-10:26; 11:5-11:8; 22:41-16:28; Jer.31:1-31:40; 49:1-49:39; Ezk.7:3-7:9; Mal.4:1-4:6
+Others in Greek Bibles: Exo.20:13-15; 21:16-17; 35:8-27; .37:1-29; .38:1-31; .39:1-43; .40:9-38; Num.1:24-37; 10:34-36; 26:1-47; Jos.8:30-9:2; 24:29-31; 1Ki.2:8-5:4; 7:1-51; 8:12-10:26; 11:5-8; 16:28; Jer.31:1-31:40; 49:1-49:39; Ezk.7:3-7:9; Mal.4:1-4:6
 Some scholars will want to study these texts in the order in which they have been transmitted, but most work on the LXX depends on comparing the translations, for which it is more useful to have the Greek in the same order as the Hebrew, English and Latin. 
 Rearrangements also occur in a couple of other places:
 • Ben Sirah (or Sirach) has a couple of places in Latin where a few verses are in a different order: 7:9-11; 9:21-23; 10:21-24; 19:25-26; 32:9-11. These are sections of individual sayings, like proverbs, so the order doesn't make any difference to the sense. 
@@ -22756,6 +22742,7 @@ Rearrangements also occur in a couple of other places:
 Orthodox and Latin 'extra' bits
 ===================
 Lje (Epistle or Letter of Jeremiah) if it exists, is added to Baruch as ch.6 - as it is in NRSV
+Man (Prayer of Manasseh) or Odes.12 becomes 2Chr.37 or the  end of 2Chr.36 in some Bibles.
 Greek Daniel has three sections of extra bits that are extracted to become Bel, Sus, and S3Y (aka 'Song of Three Children/Youths' or 'Prayer of Azariah')
 Greek Esther has six sections of extra bits that are added as subverses at 1:1; 3:13; 4:17; 5:1-2; 8:12; 10:3
  - thse routines will put the extra material into those subverses. 
@@ -22815,6 +22802,7 @@ Greek
 
 Standard Bible OSIS abbreviations, with number of verses in each 
 ====================
+
 Gen	1:31; 2:25; 3:24; 4:26; 5:32; 6:22; 7:24; 8:22; 9:29; 10:32; 11:32; 12:20; 13:18; 14:24; 15:21; 16:16; 17:27; 18:33; 19:38; 20:18; 21:34; 22:24; 23:20; 24:67; 25:34; 26:35; 27:46; 28:22; 29:35; 30:43; 31:55; 32:32; 33:20; 34:31; 35:29; 36:43; 37:36; 38:30; 39:23; 40:23; 41:57; 42:38; 43:34; 44:34; 45:28; 46:34; 47:31; 48:22; 49:33; 50:26
 Exod	1:22; 2:25; 3:22; 4:31; 5:23; 6:30; 7:25; 8:32; 9:35; 10:29; 11:10; 12:51; 13:22; 14:31; 15:27; 16:36; 17:16; 18:27; 19:25; 20:26; 21:36; 22:31; 23:33; 24:18; 25:40; 26:37; 27:21; 28:43; 29:46; 30:38; 31:18; 32:35; 33:23; 34:35; 35:35; 36:38; 37:29; 38:31; 39:43; 40:38
 Lev	1:17; 2:16; 3:17; 4:35; 5:19; 6:30; 7:38; 8:36; 9:24; 10:20; 11:47; 12:8; 13:59; 14:57; 15:33; 16:34; 17:16; 18:30; 19:37; 20:27; 21:24; 22:33; 23:44; 24:23; 25:55; 26:46; 27:34
@@ -22866,38 +22854,37 @@ Sus	1:64
 Bel	1:42
 1Macc	1:64; 2:70; 3:60; 4:61; 5:68; 6:63; 7:50; 8:32; 9:73; 10:89; 11:74; 12:53; 13:53; 14:49; 15:41; 16:24
 2Macc	1:36; 2:32; 3:40; 4:50; 5:27; 6:31; 7:42; 8:36; 9:29; 10:38; 11:38; 12:45; 13:26; 14:46; 15:39
-1Esd	1:58; 2:30; 3:24; 4:63; 5:73; 6:34; 7:15; 8:96; 9:55
+1Esd	1:58; 2:30; 3:24; 4:63; 5:73; 6:34; 7:15; 8:96; 9:55; 
 PrMan	1:15
 AddPs	1:7
 3Macc	1:29; 2:33; 3:30; 4:21; 5:51; 6:41; 7:23
 2Esd	1:40; 2:48; 3:36; 4:52; 5:56; 6:59; 7:140; 8:63; 9:47; 10:59; 11:46; 12:51; 13:58; 14:48; 15:63; 16:78
 4Macc	1:35; 2:24; 3:21; 4:26; 5:38; 6:35; 7:23; 8:29; 9:32; 10:21; 11:27; 12:19; 13:27; 14:20; 15:32; 16:25; 17:24; 18:24
 
-Matt	1:31; 2:25; 3:24; 4:26; 5:32; 6:22; 7:24; 8:22; 9:29; 10:32; 11:32; 12:20; 13:18; 14:24; 15:21; 16:16; 17:27; 18:33; 19:38; 20:18; 21:34; 22:24; 23:20; 24:67; 25:34; 26:35; 27:46; 28:22
-Mark	1:35; 2:43; 3:55; 4:32; 5:20; 6:31; 7:29; 8:43; 9:36; 10:30; 11:23; 12:23; 13:57; 14:38; 15:34; 16:34
-Luke	1:28; 2:34; 3:31; 4:22; 5:33; 6:26; 7:22; 8:25; 9:22; 10:31; 11:23; 12:30; 13:25; 14:32; 15:35; 16:29; 17:10; 18:51; 19:22; 20:31; 21:27; 22:36; 23:16; 24:27
-John	1:25; 2:26; 3:36; 4:31; 5:33; 6:18; 7:40; 8:37; 9:21; 10:43; 11:46; 12:38; 13:18; 14:35; 15:23; 16:35; 17:35; 18:38; 19:29; 20:31; 21:43
-Acts	1:38; 2:17; 3:16; 4:17; 5:35; 6:19; 7:30; 8:38; 9:36; 10:24; 11:20; 12:47; 13:8; 14:59; 15:57; 16:33; 17:34; 18:16; 19:30; 20:37; 21:27; 22:24; 23:33; 24:44; 25:23; 26:55; 27:46; 28:34
-Rom	1:54; 2:34; 3:51; 4:49; 5:31; 6:27; 7:89; 8:26; 9:23; 10:36; 11:35; 12:16; 13:33; 14:45; 15:41; 16:50
-1Cor	1:13; 2:32; 3:22; 4:29; 5:35; 6:41; 7:30; 8:25; 9:18; 10:65; 11:23; 12:31; 13:40; 14:16; 15:54; 16:42
-2Cor	1:56; 2:29; 3:34; 4:13; 5:46; 6:37; 7:29; 8:49; 9:33; 10:25; 11:26; 12:20; 13:29
-Gal	1:22; 2:32; 3:32; 4:18; 5:29; 6:23
-Eph	1:22; 2:20; 3:22; 4:21; 5:20; 6:23
-Phil	1:30; 2:25; 3:22; 4:19
-Col	1:19; 2:26; 3:68; 4:29
-1Thess	1:20; 2:30; 3:52; 4:29; 5:12
-2Thess	1:18; 2:24; 3:17
-1Tim	1:24; 2:15; 3:27; 4:26; 5:35; 6:27
-2Tim	1:43; 2:23; 3:24; 4:33
-Titus	1:15; 2:63; 3:10
-Phlm	1:18
-Heb	1:28; 2:51; 3:9; 4:45; 5:34; 6:16; 7:33; 8:36; 9:23; 10:31; 11:24; 12:31; 13:40
-Jas	1:25; 2:35; 3:57; 4:18; 5:40
-1Pet	1:15; 2:25; 3:20; 4:20; 5:31
-2Pet	1:13; 2:31; 3:30
-1John	1:48; 2:25; 3:22; 4:23; 5:18
-2John	1:22
-3John	1:28
-Jude	1:36
-Rev	1:21; 2:22; 3:12; 4:21; 5:17; 6:22; 7:27; 8:27; 9:15; 10:25; 11:23; 12:52; 13:35; 14:23; 15:58; 16:30; 17:24; 18:42; 19:15; 20:23; 21:29; 22:22
-
+Mat	1:25; 2:23; 3:17; 4:25; 5:48; 6:34; 7:29; 8:34; 9:38; 10:42; 11:30; 12:50; 13:58; 14:36; 15:39; 16:28; 17:27; 18:35; 19:30; 20:34; 21:46; 22:46; 23:39; 24:51; 25:46; 26:75; 27:66; 28:20
+Mar	1:45; 2:28; 3:35; 4:41; 5:43; 6:56; 7:37; 8:38; 9:50; 10:52; 11:33; 12:44; 13:37; 14:72; 15:47; 16:20
+Luk	1:80; 2:52; 3:38; 4:44; 5:39; 6:49; 7:50; 8:56; 9:62; 10:42; 11:54; 12:59; 13:35; 14:35; 15:32; 16:31; 17:37; 18:43; 19:48; 20:47; 21:38; 22:71; 23:56; 24:53
+Joh	1:51; 2:25; 3:36; 4:54; 5:47; 6:71; 7:53; 8:59; 9:41; 10:42; 11:57; 12:50; 13:38; 14:31; 15:27; 16:33; 17:26; 18:40; 19:42; 20:31; 21:25
+Act	1:26; 2:47; 3:26; 4:37; 5:42; 6:15; 7:60; 8:40; 9:43; 10:48; 11:30; 12:25; 13:52; 14:28; 15:41; 16:40; 17:34; 18:28; 19:41; 20:38; 21:40; 22:30; 23:35; 24:27; 25:27; 26:32; 27:44; 28:31
+Rom	1:32; 2:29; 3:31; 4:25; 5:21; 6:23; 7:25; 8:39; 9:33; 10:21; 11:36; 12:21; 13:14; 14:23; 15:33; 16:27
+1Co	1:31; 2:16; 3:23; 4:21; 5:13; 6:20; 7:40; 8:13; 9:27; 10:33; 11:34; 12:31; 13:13; 14:40; 15:58; 16:24
+2Co	1:24; 2:17; 3:18; 4:18; 5:21; 6:18; 7:16; 8:24; 9:15; 10:18; 11:33; 12:21; 13:14
+Gal	1:24; 2:21; 3:29; 4:31; 5:26; 6:18
+Eph	1:23; 2:22; 3:21; 4:32; 5:33; 6:24
+Phi	1:30; 2:30; 3:21; 4:23
+Col	1:29; 2:23; 3:25; 4:18
+1Th	1:10; 2:20; 3:13; 4:18; 5:28
+2Th	1:12; 2:17; 3:18
+2Ti	1:20; 2:15; 3:16; 4:16; 5:25; 6:21
+2Ti	1:18; 2:26; 3:17; 4:22
+Tit	1:16; 2:15; 3:15
+Phi	1:25
+Heb	1:14; 2:18; 3:19; 4:16; 5:14; 6:20; 7:28; 8:13; 9:28; 10:39; 11:40; 12:29; 13:25
+Jam	1:27; 2:26; 3:18; 4:17; 5:20
+1Pe	1:25; 2:25; 3:22; 4:19; 5:14
+2Pe	1:21; 2:22; 3:18
+1Jo	1:10; 2:29; 3:24; 4:21; 5:21
+2Jo	1:13
+3Jo	1:14
+Jud	1:25
+Rev	1:20; 2:29; 3:22; 4:11; 5:14; 6:17; 7:17; 8:13; 9:21; 10:11; 11:19; 12:17; 13:18; 14:20; 15:8; 16:21; 17:18; 18:24; 19:21; 20:15; 21:27; 22:21
