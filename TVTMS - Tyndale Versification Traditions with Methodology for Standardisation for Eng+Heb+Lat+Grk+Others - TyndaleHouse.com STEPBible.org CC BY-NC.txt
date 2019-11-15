@@ -763,15 +763,17 @@ TEST: If...	Job.16:22=Last	Job.16:22=Last	Job.16:23=Last	Job.16:22=Last
 Concatenation	Job.16:4	Job.16:4	Job.16:4-5	Job.16:4			
 OneToOne	Job.16:5-22	Job.16:5-22	Job.16:6-23	Job.16:5-22			
 
-$Job.40:1-41:34	English	Hebrew	Latin	Greek	Spanish RV 	
-TEST: If...	Job.40:24=Last	Job.40:32=Last	Job.40:28=Last	Job.40:32=Last	Job.40:30=Last
-OneToOne	Job.38:38-41	Job.38:38-41	Job.38:38-41	Job.38:38-41	Job.39:1-3
-OneToOne	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:4-33
-OneToOne	Job.40:1-5	Job.40:1-5	Job.39:31-35	Job.40:1-5	Job.39:34-38		
-OneToOne	Job.40:6-24	Job.40:6-24	Job.40:1-19	Job.40:6-24	Job.40:1-19		
-OneToOne	Job.41:1-8	Job.40:25-32	Job.40:20-27	Job.40:25-32	Job.41:1-8
-OneToOne	Job.41:9	Job.41:1	Job.40:28	Job.41:1	Job.41:9
-OneToOne	Job.41:10-34	Job.41:2-26	Job.41:1-25	Job.41:2-26	Job.41:10-34
+$Job.40:1-41:34	English	Hebrew	Latin	Greek	Spanish RV 1909	French NEG 1979 	
+TEST: If...	Job.39:41=Last	Job.39:41=Last	Job.39:41=Last	Job.39:41=Last	Job.39:38=Last	Job.39:38=Last	NEW	
+TEST: If...	Job.40:24=Last	Job.40:32=Last	Job.40:28=Last	Job.40:32=Last	Job.40:19=Last CORRECTED	Job.40:28=Last	
+TEST: If...	Job.41:34=Last	Job.41:26=Last	Job.41:25=Last	Job.41:26=Last	Job.41:34=Last	Job.41:25=Last	NEW	
+OneToOne	Job.38:39-41	Job.38:39-41	Job.38:39-41	Job.38:39-41	Job.39:1-3	Job.39:1-3	
+OneToOne	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:4-33	Job.39:4-33	
+OneToOne	Job.40:1-5	Job.40:1-5	Job.39:31-35	Job.40:1-5	Job.39:34-38	Job.39:34-38	
+OneToOne	Job.40:6-24	Job.40:6-24	Job.40:1-19	Job.40:6-24	Job.40:1-19	Job.40:1-19	
+OneToOne	Job.41:1-8	Job.40:25-32	Job.40:20-27	Job.40:25-32	Job.41:1-8	Job.40:20-27	
+OneToOne	Job.41:9	Job.41:1	Job.40:28	Job.41:1	Job.41:9	Job.40:28	
+OneToOne	Job.41:10-34	Job.41:2-26	Job.41:1-25	Job.41:2-26	Job.41:10-34	Job.41:1-25	
 
 $Job.42:16-17	English	Hebrew	Latin	Greek	
 TEST: If...	Job.42:17=Last	Job.42:17=Last	Job.42:16=Last	Job.42:17=Last			
@@ -8154,273 +8156,362 @@ Latin	Job.16:20	Job.16:19	Renumber verse	Nec. [20]	%Normally in this Bible the v
 Latin	Job.16:21	Job.16:20	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 16:21.		(Hebrew=16:20 • Latin=16:21 • Greek=16:20)	Job.16:23=Last	
 Latin	Job.16:22	Job.16:21	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 16:22.		(Hebrew=16:21 • Latin=16:22 • Greek=16:21)	Job.16:23=Last	
 Latin	Job.16:23	Job.16:22	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 16:23.		(Hebrew=16:22 • Latin=16:23 • Greek=16:22)	Job.16:23=Last	
-Spanish RV	Job.39:1	Job.38:38	Renumber verse	Nec. [39:1]	%Normally in this Bible the verse numbering here is% 39:1.		(Hebrew=38:38 • Latin=38:38 • Greek=38:38)	Job.40:30=Last	
-Spanish RV	Job.39:2	Job.38:39	Renumber verse	Nec. [39:2]	%Normally in this Bible the verse numbering here is% 39:2.		(Hebrew=38:39 • Latin=38:39 • Greek=38:39)	Job.40:30=Last	
-Spanish RV	Job.39:3.1	Job.38:40	Renumber verse	Nec. [39:3a]	%Normally in this Bible the verse numbering here is% 39:3a.		(Hebrew=38:40 • Latin=38:40 • Greek=38:40)	Job.40:30=Last	
-Spanish RV	Job.39:3.2	Job.38:41	Renumber verse	Nec. [39:3b]	%Normally in this Bible the verse numbering here is% 39:3b.		(Hebrew=38:41 • Latin=38:41 • Greek=38:41)	Job.40:30=Last	
-Spanish RV	Job.39:4	Job.39:1	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 39:4.		(Hebrew=39:1 • Latin=39:1 • Greek=39:1)	Job.40:30=Last	
-Spanish RV	Job.39:5	Job.39:2	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 39:5.		(Hebrew=39:2 • Latin=39:2 • Greek=39:2)	Job.40:30=Last	
-Spanish RV	Job.39:6	Job.39:3	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 39:6.		(Hebrew=39:3 • Latin=39:3 • Greek=39:3)	Job.40:30=Last	
-Spanish RV	Job.39:7	Job.39:4	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 39:7.		(Hebrew=39:4 • Latin=39:4 • Greek=39:4)	Job.40:30=Last	
-Spanish RV	Job.39:8	Job.39:5	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 39:8.		(Hebrew=39:5 • Latin=39:5 • Greek=39:5)	Job.40:30=Last	
-Spanish RV	Job.39:9	Job.39:6	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 39:9.		(Hebrew=39:6 • Latin=39:6 • Greek=39:6)	Job.40:30=Last	
-Spanish RV	Job.39:10	Job.39:7	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 39:10.		(Hebrew=39:7 • Latin=39:7 • Greek=39:7)	Job.40:30=Last	
-Spanish RV	Job.39:11	Job.39:8	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 39:11.		(Hebrew=39:8 • Latin=39:8 • Greek=39:8)	Job.40:30=Last	
-Spanish RV	Job.39:12	Job.39:9	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 39:12.		(Hebrew=39:9 • Latin=39:9 • Greek=39:9)	Job.40:30=Last	
-Spanish RV	Job.39:13	Job.39:10	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 39:13.		(Hebrew=39:10 • Latin=39:10 • Greek=39:10)	Job.40:30=Last	
-Spanish RV	Job.39:14	Job.39:11	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 39:14.		(Hebrew=39:11 • Latin=39:11 • Greek=39:11)	Job.40:30=Last	
-Spanish RV	Job.39:15	Job.39:12	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 39:15.		(Hebrew=39:12 • Latin=39:12 • Greek=39:12)	Job.40:30=Last	
-Spanish RV	Job.39:16	Job.39:13	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 39:16.		(Hebrew=39:13 • Latin=39:13 • Greek=39:13)	Job.40:30=Last	
-Spanish RV	Job.39:17	Job.39:14	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 39:17.		(Hebrew=39:14 • Latin=39:14 • Greek=39:14)	Job.40:30=Last	
-Spanish RV	Job.39:18	Job.39:15	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 39:18.		(Hebrew=39:15 • Latin=39:15 • Greek=39:15)	Job.40:30=Last	
-Spanish RV	Job.39:19	Job.39:16	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 39:19.		(Hebrew=39:16 • Latin=39:16 • Greek=39:16)	Job.40:30=Last	
-Spanish RV	Job.39:20	Job.39:17	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 39:20.		(Hebrew=39:17 • Latin=39:17 • Greek=39:17)	Job.40:30=Last	
-Spanish RV	Job.39:21	Job.39:18	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 39:21.		(Hebrew=39:18 • Latin=39:18 • Greek=39:18)	Job.40:30=Last	
-Spanish RV	Job.39:22	Job.39:19	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 39:22.		(Hebrew=39:19 • Latin=39:19 • Greek=39:19)	Job.40:30=Last	
-Spanish RV	Job.39:23	Job.39:20	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 39:23.		(Hebrew=39:20 • Latin=39:20 • Greek=39:20)	Job.40:30=Last	
-Spanish RV	Job.39:24	Job.39:21	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 39:24.		(Hebrew=39:21 • Latin=39:21 • Greek=39:21)	Job.40:30=Last	
-Spanish RV	Job.39:25	Job.39:22	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 39:25.		(Hebrew=39:22 • Latin=39:22 • Greek=39:22)	Job.40:30=Last	
-Spanish RV	Job.39:26	Job.39:23	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 39:26.		(Hebrew=39:23 • Latin=39:23 • Greek=39:23)	Job.40:30=Last	
-Spanish RV	Job.39:27	Job.39:24	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 39:27.		(Hebrew=39:24 • Latin=39:24 • Greek=39:24)	Job.40:30=Last	
-Spanish RV	Job.39:28	Job.39:25	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 39:28.		(Hebrew=39:25 • Latin=39:25 • Greek=39:25)	Job.40:30=Last	
-Spanish RV	Job.39:29	Job.39:26	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 39:29.		(Hebrew=39:26 • Latin=39:26 • Greek=39:26)	Job.40:30=Last	
-Spanish RV	Job.39:30	Job.39:27	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 39:30.		(Hebrew=39:27 • Latin=39:27 • Greek=39:27)	Job.40:30=Last	
-Spanish RV	Job.39:31	Job.39:28	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 39:31.		(Hebrew=39:28 • Latin=39:28 • Greek=39:28)	Job.40:30=Last	
-Spanish RV	Job.39:32	Job.39:29	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 39:32.		(Hebrew=39:29 • Latin=39:29 • Greek=39:29)	Job.40:30=Last	
-Spanish RV	Job.39:33	Job.39:30	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 39:33.		(Hebrew=39:30 • Latin=39:30 • Greek=39:30)	Job.40:30=Last	
-
-English	Job.40:1	Job.40:1	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 39:31.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.40:24=Last	
-English	Job.40:2	Job.40:2	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 39:32.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.40:24=Last	
-English	Job.40:3	Job.40:3	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 39:33.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.40:24=Last	
-English	Job.40:4	Job.40:4	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is% 39:34.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.40:24=Last	
-English	Job.40:5	Job.40:5	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is% 39:35.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.40:24=Last	
-English	Job.40:6	Job.40:6	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.40:24=Last	
-English	Job.40:7	Job.40:7	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.40:24=Last	
-English	Job.40:8	Job.40:8	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.40:24=Last	
-English	Job.40:9	Job.40:9	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.40:24=Last	
-English	Job.40:10	Job.40:10	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.40:24=Last	
-English	Job.40:11	Job.40:11	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.40:24=Last	
-English	Job.40:12	Job.40:12	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.40:24=Last	
-English	Job.40:13	Job.40:13	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.40:24=Last	
-English	Job.40:14	Job.40:14	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.40:24=Last	
-English	Job.40:15	Job.40:15	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.40:24=Last	
-English	Job.40:16	Job.40:16	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.40:24=Last	
-English	Job.40:17	Job.40:17	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.40:24=Last	
-English	Job.40:18	Job.40:18	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.40:24=Last	
-English	Job.40:19	Job.40:19	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.40:24=Last	
-English	Job.40:20	Job.40:20	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.40:24=Last	
-English	Job.40:21	Job.40:21	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.40:24=Last	
-English	Job.40:22	Job.40:22	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.40:24=Last	
-English	Job.40:23	Job.40:23	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.40:24=Last	
-English	Job.40:24	Job.40:24	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.40:24=Last	
-English	Job.41:1	Job.41:1	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 40:25.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.40:24=Last	
-English	Job.41:2	Job.41:2	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 40:26.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.40:24=Last	
-English	Job.41:3	Job.41:3	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 40:27.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.40:24=Last	
-English	Job.41:4	Job.41:4	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 40:28.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.40:24=Last	
-English	Job.41:5	Job.41:5	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 40:29.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.40:24=Last	
-English	Job.41:6	Job.41:6	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 40:30.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.40:24=Last	
-English	Job.41:7	Job.41:7	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 40:31.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.40:24=Last	
-English	Job.41:8	Job.41:8	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 40:32.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.40:24=Last	
-English	Job.41:9	Job.41:9	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.40:24=Last	
-English	Job.41:10	Job.41:10	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.40:24=Last	
-English	Job.41:11	Job.41:11	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.40:24=Last	
-English	Job.41:12	Job.41:12	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 41:4.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.40:24=Last	
-English	Job.41:13	Job.41:13	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 41:5.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.40:24=Last	
-English	Job.41:14	Job.41:14	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 41:6.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.40:24=Last	
-English	Job.41:15	Job.41:15	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 41:7.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.40:24=Last	
-English	Job.41:16	Job.41:16	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 41:8.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.40:24=Last	
-English	Job.41:17	Job.41:17	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 41:9.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.40:24=Last	
-English	Job.41:18	Job.41:18	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 41:10.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.40:24=Last	
-English	Job.41:19	Job.41:19	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 41:11.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.40:24=Last	
-English	Job.41:20	Job.41:20	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 41:12.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.40:24=Last	
-English	Job.41:21	Job.41:21	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 41:13.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.40:24=Last	
-English	Job.41:22	Job.41:22	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 41:14.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.40:24=Last	
-English	Job.41:23	Job.41:23	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 41:15.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.40:24=Last	
-English	Job.41:24	Job.41:24	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 41:16.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.40:24=Last	
-English	Job.41:25	Job.41:25	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 41:17.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.40:24=Last	
-English	Job.41:26	Job.41:26	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 41:18.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.40:24=Last	
-English	Job.41:27	Job.41:27	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 41:19.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.40:24=Last	
-English	Job.41:28	Job.41:28	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 41:20.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.40:24=Last	
-English	Job.41:29	Job.41:29	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 41:21.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.40:24=Last	
-English	Job.41:30	Job.41:30	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 41:22.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.40:24=Last	
-English	Job.41:31	Job.41:31	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 41:23.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.40:24=Last	
-English	Job.41:32	Job.41:32	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 41:24.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.40:24=Last	
-English	Job.41:33	Job.41:33	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 41:25.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.40:24=Last	
-English	Job.41:34	Job.41:34	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 41:26.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.40:24=Last	
-Hebrew+Greek	Job.40:1	Job.40:1	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 39:31.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.40:32=Last	
-Hebrew+Greek	Job.40:2	Job.40:2	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 39:32.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.40:32=Last	
-Hebrew+Greek	Job.40:3	Job.40:3	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 39:33.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.40:32=Last	
-Hebrew+Greek	Job.40:4	Job.40:4	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is% 39:34.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.40:32=Last	
-Hebrew+Greek	Job.40:5	Job.40:5	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is% 39:35.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.40:32=Last	
-Hebrew+Greek	Job.40:6	Job.40:6	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.40:32=Last	
-Hebrew+Greek	Job.40:7	Job.40:7	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.40:32=Last	
-Hebrew+Greek	Job.40:8	Job.40:8	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.40:32=Last	
-Hebrew+Greek	Job.40:9	Job.40:9	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.40:32=Last	
-Hebrew+Greek	Job.40:10	Job.40:10	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.40:32=Last	
-Hebrew+Greek	Job.40:11	Job.40:11	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.40:32=Last	
-Hebrew+Greek	Job.40:12	Job.40:12	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.40:32=Last	
-Hebrew+Greek	Job.40:13	Job.40:13	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.40:32=Last	
-Hebrew+Greek	Job.40:14	Job.40:14	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.40:32=Last	
-Hebrew+Greek	Job.40:15	Job.40:15	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.40:32=Last	
-Hebrew+Greek	Job.40:16	Job.40:16	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.40:32=Last	
-Hebrew+Greek	Job.40:17	Job.40:17	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.40:32=Last	
-Hebrew+Greek	Job.40:18	Job.40:18	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.40:32=Last	
-Hebrew+Greek	Job.40:19	Job.40:19	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.40:32=Last	
-Hebrew+Greek	Job.40:20	Job.40:20	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.40:32=Last	
-Hebrew+Greek	Job.40:21	Job.40:21	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.40:32=Last	
-Hebrew+Greek	Job.40:22	Job.40:22	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.40:32=Last	
-Hebrew+Greek	Job.40:23	Job.40:23	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.40:32=Last	
-Hebrew+Greek	Job.40:24	Job.40:24	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.40:32=Last	
-Hebrew+Greek	Job.40:25	Job.41:1	Renumber verse	Nec. [40:25]	%Normally in this Bible the verse numbering here is% 40:25.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.40:32=Last	
-Hebrew+Greek	Job.40:26	Job.41:2	Renumber verse	Nec. [40:26]	%Normally in this Bible the verse numbering here is% 40:26.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.40:32=Last	
-Hebrew+Greek	Job.40:27	Job.41:3	Renumber verse	Nec. [40:27]	%Normally in this Bible the verse numbering here is% 40:27.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.40:32=Last	
-Hebrew+Greek	Job.40:28	Job.41:4	Renumber verse	Nec. [40:28]	%Normally in this Bible the verse numbering here is% 40:28.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.40:32=Last	
-Hebrew+Greek	Job.40:29	Job.41:5	Renumber verse	Nec. [40:29]	%Normally in this Bible the verse numbering here is% 40:29.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.40:32=Last	
-Hebrew+Greek	Job.40:30	Job.41:6	Renumber verse	Nec. [40:30]	%Normally in this Bible the verse numbering here is% 40:30.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.40:32=Last	
-Hebrew+Greek	Job.40:31	Job.41:7	Renumber verse	Nec. [40:31]	%Normally in this Bible the verse numbering here is% 40:31.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.40:32=Last	
-Hebrew+Greek	Job.40:32	Job.41:8	Renumber verse	Nec. [40:32]	%Normally in this Bible the verse numbering here is% 40:32.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.40:32=Last	
-Hebrew+Greek	Job.41:1	Job.41:9	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.40:32=Last	
-Hebrew+Greek	Job.41:2	Job.41:10	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.40:32=Last	
-Hebrew+Greek	Job.41:3	Job.41:11	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.40:32=Last	
-Hebrew+Greek	Job.41:4	Job.41:12	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 41:4.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.40:32=Last	
-Hebrew+Greek	Job.41:5	Job.41:13	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 41:5.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.40:32=Last	
-Hebrew+Greek	Job.41:6	Job.41:14	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 41:6.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.40:32=Last	
-Hebrew+Greek	Job.41:7	Job.41:15	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 41:7.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.40:32=Last	
-Hebrew+Greek	Job.41:8	Job.41:16	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 41:8.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.40:32=Last	
-Hebrew+Greek	Job.41:9	Job.41:17	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 41:9.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.40:32=Last	
-Hebrew+Greek	Job.41:10	Job.41:18	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 41:10.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.40:32=Last	
-Hebrew+Greek	Job.41:11	Job.41:19	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 41:11.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.40:32=Last	
-Hebrew+Greek	Job.41:12	Job.41:20	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 41:12.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.40:32=Last	
-Hebrew+Greek	Job.41:13	Job.41:21	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 41:13.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.40:32=Last	
-Hebrew+Greek	Job.41:14	Job.41:22	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 41:14.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.40:32=Last	
-Hebrew+Greek	Job.41:15	Job.41:23	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 41:15.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.40:32=Last	
-Hebrew+Greek	Job.41:16	Job.41:24	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 41:16.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.40:32=Last	
-Hebrew+Greek	Job.41:17	Job.41:25	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 41:17.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.40:32=Last	
-Hebrew+Greek	Job.41:18	Job.41:26	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 41:18.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.40:32=Last	
-Hebrew+Greek	Job.41:19	Job.41:27	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 41:19.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.40:32=Last	
-Hebrew+Greek	Job.41:20	Job.41:28	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 41:20.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.40:32=Last	
-Hebrew+Greek	Job.41:21	Job.41:29	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 41:21.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.40:32=Last	
-Hebrew+Greek	Job.41:22	Job.41:30	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 41:22.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.40:32=Last	
-Hebrew+Greek	Job.41:23	Job.41:31	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.40:32=Last	
-Hebrew+Greek	Job.41:24	Job.41:32	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.40:32=Last	
-Hebrew+Greek	Job.41:25	Job.41:33	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.40:32=Last	
-Hebrew+Greek	Job.41:26	Job.41:34	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 41:26.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.40:32=Last	
-Latin	Job.39:31	Job.40:1	Renumber verse	Nec. [39:31]	%Normally in this Bible the verse numbering here is% 39:31.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.40:28=Last	
-Latin	Job.39:32	Job.40:2	Renumber verse	Nec. [39:32]	%Normally in this Bible the verse numbering here is% 39:32.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.40:28=Last	
-Latin	Job.39:33	Job.40:3	Renumber verse	Nec. [39:33]	%Normally in this Bible the verse numbering here is% 39:33.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.40:28=Last	
-Latin	Job.39:34	Job.40:4	Renumber verse	Nec. [39:34]	%Normally in this Bible the verse numbering here is% 39:34.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.40:28=Last	
-Latin	Job.39:35	Job.40:5	Renumber verse	Nec. [39:35]	%Normally in this Bible the verse numbering here is% 39:35.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.40:28=Last	
-Latin	Job.40:1	Job.40:6	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.40:28=Last	
-Latin	Job.40:2	Job.40:7	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.40:28=Last	
-Latin	Job.40:3	Job.40:8	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.40:28=Last	
-Latin	Job.40:4	Job.40:9	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.40:28=Last	
-Latin	Job.40:5	Job.40:10	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.40:28=Last	
-Latin	Job.40:6	Job.40:11	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.40:28=Last	
-Latin	Job.40:7	Job.40:12	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.40:28=Last	
-Latin	Job.40:8	Job.40:13	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.40:28=Last	
-Latin	Job.40:9	Job.40:14	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.40:28=Last	
-Latin	Job.40:10	Job.40:15	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.40:28=Last	
-Latin	Job.40:11	Job.40:16	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.40:28=Last	
-Latin	Job.40:12	Job.40:17	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.40:28=Last	
-Latin	Job.40:13	Job.40:18	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.40:28=Last	
-Latin	Job.40:14	Job.40:19	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.40:28=Last	
-Latin	Job.40:15	Job.40:20	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.40:28=Last	
-Latin	Job.40:16	Job.40:21	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.40:28=Last	
-Latin	Job.40:17	Job.40:22	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.40:28=Last	
-Latin	Job.40:18	Job.40:23	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.40:28=Last	
-Latin	Job.40:19	Job.40:24	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.40:28=Last	
-Latin	Job.40:20	Job.41:1	Renumber verse	Nec. [40:20]	%Normally in this Bible the verse numbering here is% 40:20.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.40:28=Last	
-Latin	Job.40:21	Job.41:2	Renumber verse	Nec. [40:21]	%Normally in this Bible the verse numbering here is% 40:21.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.40:28=Last	
-Latin	Job.40:22	Job.41:3	Renumber verse	Nec. [40:22]	%Normally in this Bible the verse numbering here is% 40:22.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.40:28=Last	
-Latin	Job.40:23	Job.41:4	Renumber verse	Nec. [40:23]	%Normally in this Bible the verse numbering here is% 40:23.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.40:28=Last	
-Latin	Job.40:24	Job.41:5	Renumber verse	Nec. [40:24]	%Normally in this Bible the verse numbering here is% 40:24.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.40:28=Last	
-Latin	Job.40:25	Job.41:6	Renumber verse	Nec. [40:25]	%Normally in this Bible the verse numbering here is% 40:25.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.40:28=Last	
-Latin	Job.40:26	Job.41:7	Renumber verse	Nec. [40:26]	%Normally in this Bible the verse numbering here is% 40:26.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.40:28=Last	
-Latin	Job.40:27	Job.41:8	Renumber verse	Nec. [40:27]	%Normally in this Bible the verse numbering here is% 40:27.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.40:28=Last	
-Latin	Job.40:28	Job.41:9	Renumber verse	Nec. [40:28]	%Normally in this Bible the verse numbering here is% 40:28.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.40:28=Last	
-Latin	Job.41:1	Job.41:10	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.40:28=Last	
-Latin	Job.41:2	Job.41:11	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 41:2.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.40:28=Last	
-Latin	Job.41:3	Job.41:12	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 41:3.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.40:28=Last	
-Latin	Job.41:4	Job.41:13	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 41:4.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.40:28=Last	
-Latin	Job.41:5	Job.41:14	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 41:5.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.40:28=Last	
-Latin	Job.41:6	Job.41:15	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 41:6.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.40:28=Last	
-Latin	Job.41:7	Job.41:16	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 41:7.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.40:28=Last	
-Latin	Job.41:8	Job.41:17	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 41:8.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.40:28=Last	
-Latin	Job.41:9	Job.41:18	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 41:9.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.40:28=Last	
-Latin	Job.41:10	Job.41:19	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 41:10.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.40:28=Last	
-Latin	Job.41:11	Job.41:20	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 41:11.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.40:28=Last	
-Latin	Job.41:12	Job.41:21	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 41:12.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.40:28=Last	
-Latin	Job.41:13	Job.41:22	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 41:13.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.40:28=Last	
-Latin	Job.41:14	Job.41:23	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 41:14.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.40:28=Last	
-Latin	Job.41:15	Job.41:24	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 41:15.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.40:28=Last	
-Latin	Job.41:16	Job.41:25	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 41:16.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.40:28=Last	
-Latin	Job.41:17	Job.41:26	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 41:17.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.40:28=Last	
-Latin	Job.41:18	Job.41:27	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 41:18.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.40:28=Last	
-Latin	Job.41:19	Job.41:28	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 41:19.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.40:28=Last	
-Latin	Job.41:20	Job.41:29	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 41:20.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.40:28=Last	
-Latin	Job.41:21	Job.41:30	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 41:21.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.40:28=Last	
-Latin	Job.41:22	Job.41:31	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 41:22.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.40:28=Last	
-Latin	Job.41:23	Job.41:32	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.40:28=Last	
-Latin	Job.41:24	Job.41:33	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.40:28=Last	
-Latin	Job.41:25	Job.41:34	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.40:28=Last	
-Spanish RV	Job.39:34	Job.40:1	Renumber verse	Nec. [39:34]	%Normally in this Bible the verse numbering here is% 39:34.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.40:30=Last	
-Spanish RV	Job.39:35	Job.40:2	Renumber verse	Nec. [39:35]	%Normally in this Bible the verse numbering here is% 39:35.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.40:30=Last	
-Spanish RV	Job.39:36	Job.40:3	Renumber verse	Nec. [39:36]	%Normally in this Bible the verse numbering here is% 39:36.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.40:30=Last	
-Spanish RV	Job.39:37	Job.40:4	Renumber verse	Nec. [39:37]	%Normally in this Bible the verse numbering here is% 39:37.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.40:30=Last	
-Spanish RV	Job.39:38	Job.40:5	Renumber verse	Nec. [39:38]	%Normally in this Bible the verse numbering here is% 39:38.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.40:30=Last	
-Spanish RV	Job.40:1	Job.40:6	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.40:30=Last	
-Spanish RV	Job.40:2	Job.40:7	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.40:30=Last	
-Spanish RV	Job.40:3	Job.40:8	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.40:30=Last	
-Spanish RV	Job.40:4	Job.40:9	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.40:30=Last	
-Spanish RV	Job.40:5	Job.40:10	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.40:30=Last	
-Spanish RV	Job.40:6	Job.40:11	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.40:30=Last	
-Spanish RV	Job.40:7	Job.40:12	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.40:30=Last	
-Spanish RV	Job.40:8	Job.40:13	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.40:30=Last	
-Spanish RV	Job.40:9	Job.40:14	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.40:30=Last	
-Spanish RV	Job.40:10	Job.40:15	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.40:30=Last	
-Spanish RV	Job.40:11	Job.40:16	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.40:30=Last	
-Spanish RV	Job.40:12	Job.40:17	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.40:30=Last	
-Spanish RV	Job.40:13	Job.40:18	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.40:30=Last	
-Spanish RV	Job.40:14	Job.40:19	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.40:30=Last	
-Spanish RV	Job.40:15	Job.40:20	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.40:30=Last	
-Spanish RV	Job.40:16	Job.40:21	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.40:30=Last	
-Spanish RV	Job.40:17	Job.40:22	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.40:30=Last	
-Spanish RV	Job.40:18	Job.40:23	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.40:30=Last	
-Spanish RV	Job.40:19	Job.40:24	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.40:30=Last	
-Spanish RV	Job.41:1	Job.41:1	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 40:25.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.40:30=Last	
-Spanish RV	Job.41:2	Job.41:2	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 40:26.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.40:30=Last	
-Spanish RV	Job.41:3	Job.41:3	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 40:27.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.40:30=Last	
-Spanish RV	Job.41:4	Job.41:4	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 40:28.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.40:30=Last	
-Spanish RV	Job.41:5	Job.41:5	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 40:29.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.40:30=Last	
-Spanish RV	Job.41:6	Job.41:6	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 40:30.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.40:30=Last	
-Spanish RV	Job.41:7	Job.41:7	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 40:31.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.40:30=Last	
-Spanish RV	Job.41:8	Job.41:8	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 40:32.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.40:30=Last	
-Spanish RV	Job.41:9	Job.41:9	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.40:30=Last	
-Spanish RV	Job.41:10	Job.41:10	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.40:30=Last	
-Spanish RV	Job.41:11	Job.41:11	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.40:30=Last	
-Spanish RV	Job.41:12	Job.41:12	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 41:4.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.40:30=Last	
-Spanish RV	Job.41:13	Job.41:13	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 41:5.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.40:30=Last	
-Spanish RV	Job.41:14	Job.41:14	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 41:6.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.40:30=Last	
-Spanish RV	Job.41:15	Job.41:15	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 41:7.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.40:30=Last	
-Spanish RV	Job.41:16	Job.41:16	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 41:8.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.40:30=Last	
-Spanish RV	Job.41:17	Job.41:17	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 41:9.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.40:30=Last	
-Spanish RV	Job.41:18	Job.41:18	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 41:10.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.40:30=Last	
-Spanish RV	Job.41:19	Job.41:19	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 41:11.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.40:30=Last	
-Spanish RV	Job.41:20	Job.41:20	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 41:12.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.40:30=Last	
-Spanish RV	Job.41:21	Job.41:21	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 41:13.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.40:30=Last	
-Spanish RV	Job.41:22	Job.41:22	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 41:14.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.40:30=Last	
-Spanish RV	Job.41:23	Job.41:23	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 41:15.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.40:30=Last	
-Spanish RV	Job.41:24	Job.41:24	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 41:16.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.40:30=Last	
-Spanish RV	Job.41:25	Job.41:25	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 41:17.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.40:30=Last	
-Spanish RV	Job.41:26	Job.41:26	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 41:18.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.40:30=Last	
-Spanish RV	Job.41:27	Job.41:27	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 41:19.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.40:30=Last	
-Spanish RV	Job.41:28	Job.41:28	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 41:20.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.40:30=Last	
-Spanish RV	Job.41:29	Job.41:29	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 41:21.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.40:30=Last	
-Spanish RV	Job.41:30	Job.41:30	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 41:22.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.40:30=Last	
-Spanish RV	Job.41:31	Job.41:31	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 41:23.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.40:30=Last	
-Spanish RV	Job.41:32	Job.41:32	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 41:24.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.40:30=Last	
-Spanish RV	Job.41:33	Job.41:33	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 41:25.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.40:30=Last	
-Spanish RV	Job.41:34	Job.41:34	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 41:26.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.40:30=Last	
+FrenchNEG	Job.39:1	Job.38:39	Renumber verse	Nec. [39:1]	%Normally in this Bible the verse numbering here is% 39:1.		(Hebrew=38:39 • Latin=38:39 • Greek=38:39)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:2	Job.38:40	Renumber verse	Nec. [39:2]	%Normally in this Bible the verse numbering here is% 39:2.		(Hebrew=38:40 • Latin=38:40 • Greek=38:40)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:3	Job.38:41	Renumber verse	Nec. [39:3]	%Normally in this Bible the verse numbering here is% 39:3.		(Hebrew=38:41 • Latin=38:41 • Greek=38:41)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:4	Job.39:1	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 39:4.		(Hebrew=39:1 • Latin=39:1 • Greek=39:1)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:5	Job.39:2	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 39:5.		(Hebrew=39:2 • Latin=39:2 • Greek=39:2)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:6	Job.39:3	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 39:6.		(Hebrew=39:3 • Latin=39:3 • Greek=39:3)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:7	Job.39:4	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 39:7.		(Hebrew=39:4 • Latin=39:4 • Greek=39:4)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:8	Job.39:5	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 39:8.		(Hebrew=39:5 • Latin=39:5 • Greek=39:5)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:9	Job.39:6	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 39:9.		(Hebrew=39:6 • Latin=39:6 • Greek=39:6)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:10	Job.39:7	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 39:10.		(Hebrew=39:7 • Latin=39:7 • Greek=39:7)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:11	Job.39:8	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 39:11.		(Hebrew=39:8 • Latin=39:8 • Greek=39:8)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:12	Job.39:9	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 39:12.		(Hebrew=39:9 • Latin=39:9 • Greek=39:9)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:13	Job.39:10	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 39:13.		(Hebrew=39:10 • Latin=39:10 • Greek=39:10)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:14	Job.39:11	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 39:14.		(Hebrew=39:11 • Latin=39:11 • Greek=39:11)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:15	Job.39:12	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 39:15.		(Hebrew=39:12 • Latin=39:12 • Greek=39:12)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:16	Job.39:13	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 39:16.		(Hebrew=39:13 • Latin=39:13 • Greek=39:13)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:17	Job.39:14	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 39:17.		(Hebrew=39:14 • Latin=39:14 • Greek=39:14)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:18	Job.39:15	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 39:18.		(Hebrew=39:15 • Latin=39:15 • Greek=39:15)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:19	Job.39:16	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 39:19.		(Hebrew=39:16 • Latin=39:16 • Greek=39:16)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:20	Job.39:17	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 39:20.		(Hebrew=39:17 • Latin=39:17 • Greek=39:17)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:21	Job.39:18	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 39:21.		(Hebrew=39:18 • Latin=39:18 • Greek=39:18)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:22	Job.39:19	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 39:22.		(Hebrew=39:19 • Latin=39:19 • Greek=39:19)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:23	Job.39:20	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 39:23.		(Hebrew=39:20 • Latin=39:20 • Greek=39:20)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:24	Job.39:21	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 39:24.		(Hebrew=39:21 • Latin=39:21 • Greek=39:21)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:25	Job.39:22	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 39:25.		(Hebrew=39:22 • Latin=39:22 • Greek=39:22)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:26	Job.39:23	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 39:26.		(Hebrew=39:23 • Latin=39:23 • Greek=39:23)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:27	Job.39:24	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 39:27.		(Hebrew=39:24 • Latin=39:24 • Greek=39:24)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:28	Job.39:25	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 39:28.		(Hebrew=39:25 • Latin=39:25 • Greek=39:25)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:29	Job.39:26	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 39:29.		(Hebrew=39:26 • Latin=39:26 • Greek=39:26)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:30	Job.39:27	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 39:30.		(Hebrew=39:27 • Latin=39:27 • Greek=39:27)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:31	Job.39:28	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 39:31.		(Hebrew=39:28 • Latin=39:28 • Greek=39:28)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:32	Job.39:29	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 39:32.		(Hebrew=39:29 • Latin=39:29 • Greek=39:29)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:33	Job.39:30	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 39:33.		(Hebrew=39:30 • Latin=39:30 • Greek=39:30)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:34	Job.40:1	Renumber verse	Nec. [39:34]	%Normally in this Bible the verse numbering here is% 39:34.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:35	Job.40:2	Renumber verse	Nec. [39:35]	%Normally in this Bible the verse numbering here is% 39:35.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:36	Job.40:3	Renumber verse	Nec. [39:36]	%Normally in this Bible the verse numbering here is% 39:36.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:37	Job.40:4	Renumber verse	Nec. [39:37]	%Normally in this Bible the verse numbering here is% 39:37.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.39:38	Job.40:5	Renumber verse	Nec. [39:38]	%Normally in this Bible the verse numbering here is% 39:38.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:1	Job.40:6	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:2	Job.40:7	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:3	Job.40:8	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:4	Job.40:9	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:5	Job.40:10	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:6	Job.40:11	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:7	Job.40:12	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:8	Job.40:13	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:9	Job.40:14	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:10	Job.40:15	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:11	Job.40:16	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:12	Job.40:17	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:13	Job.40:18	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:14	Job.40:19	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:15	Job.40:20	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:16	Job.40:21	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:17	Job.40:22	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:18	Job.40:23	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:19	Job.40:24	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:20	Job.41:1	Renumber verse	Nec. [40:20]	%Normally in this Bible the verse numbering here is% 40:20.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:21	Job.41:2	Renumber verse	Nec. [40:21]	%Normally in this Bible the verse numbering here is% 40:21.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:22	Job.41:3	Renumber verse	Nec. [40:22]	%Normally in this Bible the verse numbering here is% 40:22.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:23	Job.41:4	Renumber verse	Nec. [40:23]	%Normally in this Bible the verse numbering here is% 40:23.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:24	Job.41:5	Renumber verse	Nec. [40:24]	%Normally in this Bible the verse numbering here is% 40:24.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:25	Job.41:6	Renumber verse	Nec. [40:25]	%Normally in this Bible the verse numbering here is% 40:25.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:26	Job.41:7	Renumber verse	Nec. [40:26]	%Normally in this Bible the verse numbering here is% 40:26.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:27	Job.41:8	Renumber verse	Nec. [40:27]	%Normally in this Bible the verse numbering here is% 40:27.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.40:28	Job.41:9	Renumber verse	Nec. [40:28]	%Normally in this Bible the verse numbering here is% 40:28.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:1	Job.41:10	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:2	Job.41:11	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 41:2.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:3	Job.41:12	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 41:3.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:4	Job.41:13	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 41:4.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:5	Job.41:14	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 41:5.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:6	Job.41:15	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 41:6.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:7	Job.41:16	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 41:7.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:8	Job.41:17	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 41:8.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:9	Job.41:18	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 41:9.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:10	Job.41:19	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 41:10.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:11	Job.41:20	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 41:11.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:12	Job.41:21	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 41:12.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:13	Job.41:22	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 41:13.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:14	Job.41:23	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 41:14.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:15	Job.41:24	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 41:15.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:16	Job.41:25	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 41:16.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:17	Job.41:26	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 41:17.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:18	Job.41:27	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 41:18.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:19	Job.41:28	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 41:19.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:20	Job.41:29	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 41:20.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:21	Job.41:30	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 41:21.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:22	Job.41:31	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 41:22.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:23	Job.41:32	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:24	Job.41:33	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+FrenchNEG	Job.41:25	Job.41:34	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+SpanishRV	Job.39:1	Job.38:39	Renumber verse	Nec. [39:1]	%Normally in this Bible the verse numbering here is% 39:1.		(Hebrew=38:39 • Latin=38:39 • Greek=38:39)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:2	Job.38:40	Renumber verse	Nec. [39:2]	%Normally in this Bible the verse numbering here is% 39:2.		(Hebrew=38:40 • Latin=38:40 • Greek=38:40)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:3	Job.38:41	Renumber verse	Nec. [39:3]	%Normally in this Bible the verse numbering here is% 39:3.		(Hebrew=38:41 • Latin=38:41 • Greek=38:41)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:4	Job.39:1	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 39:4.		(Hebrew=39:1 • Latin=39:1 • Greek=39:1)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:5	Job.39:2	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 39:5.		(Hebrew=39:2 • Latin=39:2 • Greek=39:2)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:6	Job.39:3	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 39:6.		(Hebrew=39:3 • Latin=39:3 • Greek=39:3)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:7	Job.39:4	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 39:7.		(Hebrew=39:4 • Latin=39:4 • Greek=39:4)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:8	Job.39:5	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 39:8.		(Hebrew=39:5 • Latin=39:5 • Greek=39:5)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:9	Job.39:6	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 39:9.		(Hebrew=39:6 • Latin=39:6 • Greek=39:6)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:10	Job.39:7	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 39:10.		(Hebrew=39:7 • Latin=39:7 • Greek=39:7)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:11	Job.39:8	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 39:11.		(Hebrew=39:8 • Latin=39:8 • Greek=39:8)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:12	Job.39:9	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 39:12.		(Hebrew=39:9 • Latin=39:9 • Greek=39:9)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:13	Job.39:10	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 39:13.		(Hebrew=39:10 • Latin=39:10 • Greek=39:10)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:14	Job.39:11	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 39:14.		(Hebrew=39:11 • Latin=39:11 • Greek=39:11)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:15	Job.39:12	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 39:15.		(Hebrew=39:12 • Latin=39:12 • Greek=39:12)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:16	Job.39:13	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 39:16.		(Hebrew=39:13 • Latin=39:13 • Greek=39:13)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:17	Job.39:14	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 39:17.		(Hebrew=39:14 • Latin=39:14 • Greek=39:14)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:18	Job.39:15	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 39:18.		(Hebrew=39:15 • Latin=39:15 • Greek=39:15)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:19	Job.39:16	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 39:19.		(Hebrew=39:16 • Latin=39:16 • Greek=39:16)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:20	Job.39:17	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 39:20.		(Hebrew=39:17 • Latin=39:17 • Greek=39:17)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:21	Job.39:18	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 39:21.		(Hebrew=39:18 • Latin=39:18 • Greek=39:18)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:22	Job.39:19	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 39:22.		(Hebrew=39:19 • Latin=39:19 • Greek=39:19)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:23	Job.39:20	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 39:23.		(Hebrew=39:20 • Latin=39:20 • Greek=39:20)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:24	Job.39:21	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 39:24.		(Hebrew=39:21 • Latin=39:21 • Greek=39:21)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:25	Job.39:22	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 39:25.		(Hebrew=39:22 • Latin=39:22 • Greek=39:22)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:26	Job.39:23	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 39:26.		(Hebrew=39:23 • Latin=39:23 • Greek=39:23)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:27	Job.39:24	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 39:27.		(Hebrew=39:24 • Latin=39:24 • Greek=39:24)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:28	Job.39:25	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 39:28.		(Hebrew=39:25 • Latin=39:25 • Greek=39:25)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:29	Job.39:26	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 39:29.		(Hebrew=39:26 • Latin=39:26 • Greek=39:26)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:30	Job.39:27	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 39:30.		(Hebrew=39:27 • Latin=39:27 • Greek=39:27)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:31	Job.39:28	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 39:31.		(Hebrew=39:28 • Latin=39:28 • Greek=39:28)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:32	Job.39:29	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 39:32.		(Hebrew=39:29 • Latin=39:29 • Greek=39:29)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:33	Job.39:30	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 39:33.		(Hebrew=39:30 • Latin=39:30 • Greek=39:30)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:34	Job.40:1	Renumber verse	Nec. [39:34]	%Normally in this Bible the verse numbering here is% 39:34.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:35	Job.40:2	Renumber verse	Nec. [39:35]	%Normally in this Bible the verse numbering here is% 39:35.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:36	Job.40:3	Renumber verse	Nec. [39:36]	%Normally in this Bible the verse numbering here is% 39:36.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:37	Job.40:4	Renumber verse	Nec. [39:37]	%Normally in this Bible the verse numbering here is% 39:37.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.39:38	Job.40:5	Renumber verse	Nec. [39:38]	%Normally in this Bible the verse numbering here is% 39:38.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:1	Job.40:6	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:2	Job.40:7	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:3	Job.40:8	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:4	Job.40:9	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:5	Job.40:10	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:6	Job.40:11	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:7	Job.40:12	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:8	Job.40:13	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:9	Job.40:14	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:10	Job.40:15	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:11	Job.40:16	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:12	Job.40:17	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:13	Job.40:18	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:14	Job.40:19	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:15	Job.40:20	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:16	Job.40:21	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:17	Job.40:22	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:18	Job.40:23	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.40:19	Job.40:24	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:1	Job.41:1	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 40:25.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:2	Job.41:2	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 40:26.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:3	Job.41:3	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 40:27.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:4	Job.41:4	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 40:28.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:5	Job.41:5	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 40:29.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:6	Job.41:6	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 40:30.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:7	Job.41:7	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 40:31.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:8	Job.41:8	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 40:32.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:9	Job.41:9	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:10	Job.41:10	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:11	Job.41:11	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:12	Job.41:12	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 41:4.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:13	Job.41:13	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 41:5.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:14	Job.41:14	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 41:6.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:15	Job.41:15	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 41:7.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:16	Job.41:16	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 41:8.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:17	Job.41:17	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 41:9.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:18	Job.41:18	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 41:10.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:19	Job.41:19	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 41:11.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:20	Job.41:20	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 41:12.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:21	Job.41:21	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 41:13.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:22	Job.41:22	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 41:14.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:23	Job.41:23	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 41:15.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:24	Job.41:24	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 41:16.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:25	Job.41:25	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 41:17.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:26	Job.41:26	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 41:18.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:27	Job.41:27	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 41:19.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:28	Job.41:28	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 41:20.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:29	Job.41:29	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 41:21.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:30	Job.41:30	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 41:22.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:31	Job.41:31	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 41:23.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:32	Job.41:32	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 41:24.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:33	Job.41:33	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 41:25.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+SpanishRV	Job.41:34	Job.41:34	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 41:26.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.39:38=Last & Job.40:19=Last & Job.41:34=Last	
+English	Job.40:1	Job.40:1	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 39:31.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:2	Job.40:2	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 39:32.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:3	Job.40:3	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 39:33.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:4	Job.40:4	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is% 39:34.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:5	Job.40:5	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is% 39:35.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:6	Job.40:6	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:7	Job.40:7	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:8	Job.40:8	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:9	Job.40:9	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:10	Job.40:10	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:11	Job.40:11	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:12	Job.40:12	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:13	Job.40:13	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:14	Job.40:14	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:15	Job.40:15	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:16	Job.40:16	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:17	Job.40:17	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:18	Job.40:18	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:19	Job.40:19	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:20	Job.40:20	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:21	Job.40:21	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:22	Job.40:22	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:23	Job.40:23	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.40:24	Job.40:24	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:1	Job.41:1	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 40:25.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:2	Job.41:2	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 40:26.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:3	Job.41:3	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 40:27.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:4	Job.41:4	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 40:28.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:5	Job.41:5	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 40:29.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:6	Job.41:6	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 40:30.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:7	Job.41:7	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 40:31.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:8	Job.41:8	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 40:32.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:9	Job.41:9	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:10	Job.41:10	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:11	Job.41:11	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:12	Job.41:12	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 41:4.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:13	Job.41:13	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 41:5.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:14	Job.41:14	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 41:6.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:15	Job.41:15	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 41:7.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:16	Job.41:16	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 41:8.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:17	Job.41:17	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 41:9.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:18	Job.41:18	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 41:10.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:19	Job.41:19	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 41:11.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:20	Job.41:20	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 41:12.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:21	Job.41:21	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 41:13.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:22	Job.41:22	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 41:14.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:23	Job.41:23	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 41:15.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:24	Job.41:24	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 41:16.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:25	Job.41:25	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 41:17.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:26	Job.41:26	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 41:18.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:27	Job.41:27	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 41:19.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:28	Job.41:28	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 41:20.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:29	Job.41:29	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 41:21.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:30	Job.41:30	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 41:22.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:31	Job.41:31	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 41:23.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:32	Job.41:32	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 41:24.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:33	Job.41:33	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 41:25.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+English	Job.41:34	Job.41:34	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 41:26.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.39:41=Last & Job.40:24=Last & Job.41:34=Last	
+Hebrew+Greek	Job.40:1	Job.40:1	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 39:31.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:2	Job.40:2	Keep verse	Acd. [32]	%In some Bibles the verse numbering here is% 39:32.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:3	Job.40:3	Keep verse	Acd. [33]	%In some Bibles the verse numbering here is% 39:33.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:4	Job.40:4	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is% 39:34.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:5	Job.40:5	Keep verse	Acd. [35]	%In some Bibles the verse numbering here is% 39:35.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:6	Job.40:6	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:7	Job.40:7	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:8	Job.40:8	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:9	Job.40:9	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:10	Job.40:10	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:11	Job.40:11	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:12	Job.40:12	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:13	Job.40:13	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:14	Job.40:14	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:15	Job.40:15	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:16	Job.40:16	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:17	Job.40:17	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:18	Job.40:18	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:19	Job.40:19	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:20	Job.40:20	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:21	Job.40:21	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:22	Job.40:22	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:23	Job.40:23	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:24	Job.40:24	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:25	Job.41:1	Renumber verse	Nec. [40:25]	%Normally in this Bible the verse numbering here is% 40:25.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:26	Job.41:2	Renumber verse	Nec. [40:26]	%Normally in this Bible the verse numbering here is% 40:26.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:27	Job.41:3	Renumber verse	Nec. [40:27]	%Normally in this Bible the verse numbering here is% 40:27.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:28	Job.41:4	Renumber verse	Nec. [40:28]	%Normally in this Bible the verse numbering here is% 40:28.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:29	Job.41:5	Renumber verse	Nec. [40:29]	%Normally in this Bible the verse numbering here is% 40:29.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:30	Job.41:6	Renumber verse	Nec. [40:30]	%Normally in this Bible the verse numbering here is% 40:30.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:31	Job.41:7	Renumber verse	Nec. [40:31]	%Normally in this Bible the verse numbering here is% 40:31.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.40:32	Job.41:8	Renumber verse	Nec. [40:32]	%Normally in this Bible the verse numbering here is% 40:32.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:1	Job.41:9	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:2	Job.41:10	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:3	Job.41:11	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:4	Job.41:12	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 41:4.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:5	Job.41:13	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 41:5.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:6	Job.41:14	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 41:6.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:7	Job.41:15	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 41:7.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:8	Job.41:16	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 41:8.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:9	Job.41:17	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 41:9.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:10	Job.41:18	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 41:10.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:11	Job.41:19	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 41:11.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:12	Job.41:20	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 41:12.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:13	Job.41:21	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 41:13.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:14	Job.41:22	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 41:14.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:15	Job.41:23	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 41:15.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:16	Job.41:24	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 41:16.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:17	Job.41:25	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 41:17.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:18	Job.41:26	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 41:18.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:19	Job.41:27	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 41:19.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:20	Job.41:28	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 41:20.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:21	Job.41:29	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 41:21.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:22	Job.41:30	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 41:22.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:23	Job.41:31	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:24	Job.41:32	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:25	Job.41:33	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Hebrew+Greek	Job.41:26	Job.41:34	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 41:26.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.39:41=Last & Job.40:32=Last & Job.41:26=Last	
+Latin	Job.39:31	Job.40:1	Renumber verse	Nec. [39:31]	%Normally in this Bible the verse numbering here is% 39:31.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.39:32	Job.40:2	Renumber verse	Nec. [39:32]	%Normally in this Bible the verse numbering here is% 39:32.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.39:33	Job.40:3	Renumber verse	Nec. [39:33]	%Normally in this Bible the verse numbering here is% 39:33.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.39:34	Job.40:4	Renumber verse	Nec. [39:34]	%Normally in this Bible the verse numbering here is% 39:34.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.39:35	Job.40:5	Renumber verse	Nec. [39:35]	%Normally in this Bible the verse numbering here is% 39:35.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:1	Job.40:6	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:2	Job.40:7	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:3	Job.40:8	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:4	Job.40:9	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:5	Job.40:10	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:6	Job.40:11	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:7	Job.40:12	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:8	Job.40:13	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:9	Job.40:14	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:10	Job.40:15	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:11	Job.40:16	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:12	Job.40:17	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:13	Job.40:18	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:14	Job.40:19	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:15	Job.40:20	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:16	Job.40:21	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:17	Job.40:22	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:18	Job.40:23	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:19	Job.40:24	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:20	Job.41:1	Renumber verse	Nec. [40:20]	%Normally in this Bible the verse numbering here is% 40:20.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:21	Job.41:2	Renumber verse	Nec. [40:21]	%Normally in this Bible the verse numbering here is% 40:21.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:22	Job.41:3	Renumber verse	Nec. [40:22]	%Normally in this Bible the verse numbering here is% 40:22.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:23	Job.41:4	Renumber verse	Nec. [40:23]	%Normally in this Bible the verse numbering here is% 40:23.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:24	Job.41:5	Renumber verse	Nec. [40:24]	%Normally in this Bible the verse numbering here is% 40:24.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:25	Job.41:6	Renumber verse	Nec. [40:25]	%Normally in this Bible the verse numbering here is% 40:25.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:26	Job.41:7	Renumber verse	Nec. [40:26]	%Normally in this Bible the verse numbering here is% 40:26.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:27	Job.41:8	Renumber verse	Nec. [40:27]	%Normally in this Bible the verse numbering here is% 40:27.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.40:28	Job.41:9	Renumber verse	Nec. [40:28]	%Normally in this Bible the verse numbering here is% 40:28.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:1	Job.41:10	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 41:1.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:2	Job.41:11	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 41:2.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:3	Job.41:12	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 41:3.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:4	Job.41:13	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 41:4.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:5	Job.41:14	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 41:5.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:6	Job.41:15	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 41:6.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:7	Job.41:16	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 41:7.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:8	Job.41:17	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 41:8.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:9	Job.41:18	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 41:9.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:10	Job.41:19	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 41:10.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:11	Job.41:20	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 41:11.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:12	Job.41:21	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 41:12.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:13	Job.41:22	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 41:13.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:14	Job.41:23	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 41:14.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:15	Job.41:24	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 41:15.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:16	Job.41:25	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 41:16.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:17	Job.41:26	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 41:17.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:18	Job.41:27	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 41:18.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:19	Job.41:28	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 41:19.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:20	Job.41:29	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 41:20.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:21	Job.41:30	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 41:21.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:22	Job.41:31	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 41:22.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:23	Job.41:32	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:24	Job.41:33	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Latin	Job.41:25	Job.41:34	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
 
 English+Hebrew+Greek	Job.42:16	Job.42:16	Keep verse	Acd. [16a]	%In some Bibles the verse numbering here is% 42:16a.		(Hebrew=42:16 • Latin=42:16a • Greek=42:16)	Job.42:17=Last	
 English+Hebrew+Greek	Job.42:17	Job.42:17	Keep verse	Acd. [16b]	%In some Bibles the verse numbering here is% 42:16b.		(Hebrew=42:17 • Latin=42:16b • Greek=42:17)	Job.42:17=Last	
