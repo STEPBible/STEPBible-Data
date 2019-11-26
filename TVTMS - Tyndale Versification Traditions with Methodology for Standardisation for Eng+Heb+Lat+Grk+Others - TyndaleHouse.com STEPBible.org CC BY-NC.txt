@@ -22655,9 +22655,9 @@ Greek2	3Jn.1:14	3Jn.1:15	Merged with	Nec. [14b]	%Normally in this Bible some tex
 English	Rev.12:17	Rev.12:17	Keep verse	Acd. [17a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 / 12:17a)	Rev.12:18=Last	
 English	Rev.12:18	Rev.12:18	Keep verse	Acd. [17b]	%In some Bibles the verse numbering here is% 12:17b/13:1a.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:18=Last	
 English	Rev.13:1	Rev.13:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 13:1a.		(Greek=12:18 / 13:11a)	Rev.12:18=Last	
-Greek	Rev.12:17	Rev.12:17	Keep verse	Acd. [17-18]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 12:17.		(Greek=12:17 / 12:17a)	Rev.12:18=Last & Rev.12:17>Rev.13:1	
-Greek	Rev.12:17	Rev.12:18	Merged with	Nec. [17b]	%Normally in this Bible some text may be missing here because it is merged with% 12:17.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:18=Last & Rev.12:17>Rev.13:1	
-Greek	Rev.13:1	Rev.13:1	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 12:18-13:1.		(Greek=12:18 / 13:1a)	Rev.12:18=Last & Rev.12:17>Rev.13:1	
+Greek	Rev.12:17	Rev.12:17	Keep verse	Acd. [17-18]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 12:17.		(Greek=12:17 / 12:17a)	Rev.12:17=Last & Rev.12:17>Rev.13:1	
+Greek	Rev.12:17	Rev.12:18	Merged with	Nec. [17b]	%Normally in this Bible some text may be missing here because it is merged with% 12:17.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:17=Last & Rev.12:17>Rev.13:1	
+Greek	Rev.13:1	Rev.13:1	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 12:18-13:1.		(Greek=12:18 / 13:1a)	Rev.12:17=Last & Rev.12:17>Rev.13:1	
 Greek2	Rev.12:17	Rev.12:17	Keep verse	Acd. [17a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 / 12:17a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
 Greek2	Rev.13:1	Rev.12:18	Merged with	Nec. [1a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 13:1.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
 Greek2	Rev.13:1	Rev.13:1	Keep verse	Acd. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 13:1.		(Greek=12:18 / 13:1a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
