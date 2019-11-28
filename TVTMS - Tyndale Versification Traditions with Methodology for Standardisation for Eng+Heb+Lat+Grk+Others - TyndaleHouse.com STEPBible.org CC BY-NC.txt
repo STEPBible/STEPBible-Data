@@ -22831,11 +22831,11 @@ Summary of how to implement actions.
 1) Create an empty Bible with the Standard number of verses for each chapter (see below). These verses are the "StandardRef" 
      Each verse in the Source Bible is the "SourceRef" 
 
-2) For each line, if the SourceRef exists and the Tests = True, carry out  the following Actions: 
-* "Renumber verse - Nec."	Cut the text from its position in SourceRef and paste it into the STATED StandardRef AFTER any text that his position may already contain. Prefix this pasted text with a note containing Note A & Note B 
-* "Keep verse - Nec." 	Cut the text from its position in SourceRef and paste into the IDENTICAL StandardRef AFTER any text that his position may already contain.  Prefix this text with a note containing Note A & Note B 
-* "Keep verse - Acd." 	as above, but without any note UNLESS this is an Academic Bible where the note(s) may be useful
-* "Empty verse"/"Merged with"	Do not copy or paste any text. Add the note at the start of the StandardRef before any text which may (or may not) be present.
+2) For each line, if the Tests = True, carry out  the following Actions: 
+* "Renumber verse - Nec."	If the SourceRef exists: Cut the text from its position in SourceRef and paste it into the STATED StandardRef AFTER any text that his position may already contain. Prefix this pasted text with a note containing Note A & Note B 
+* "Keep verse - Nec." 	If the SourceRef exists: Cut the text from its position in SourceRef and paste into the IDENTICAL StandardRef AFTER any text that his position may already contain.  Prefix this text with a note containing Note A & Note B 
+* "Keep verse - Acd." 	If the SourceRef exists: as above, but without any note UNLESS this is an Academic Bible where the note(s) may be useful
+* "Empty verse"/"Merged with"	(Even if the SourceRef does not exist): Do not copy or paste any text. Add the note at the start of the StandardRef before any text which may (or may not) be present.
 
 Notes: 	If the Standard Ref is a subverse, place the note and text AFTER any text that is already in present in the StandardRef. The order of lines will always be the same as the order of the subverses or merged text.
 	The first Subverse number is normally  ".1", but on two  types of occasions they start with ".0": In the Psalms for Psalm Titles. Outside the Psalms it indicates the normal text of the verse when subverses are added  the normal text of a verse making a "LongVerse"
