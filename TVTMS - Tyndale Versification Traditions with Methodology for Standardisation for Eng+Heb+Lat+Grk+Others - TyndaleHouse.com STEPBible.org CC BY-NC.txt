@@ -401,11 +401,11 @@ $1Ki.2:8-7:23	English	Hebrew	Latin	Greek*	GreekUndivided*
 TEST: If...	1Ki.4:34=Last	1Ki.4:20=Last	1Ki.4:34=Last	1Ki.4:19=Last	1Ki.4:19=Last		
 TEST: And if... 	1Ki.2:33>1Ki.2:35	1Ki.2:33>1Ki.2:35	1Ki.2:33>1Ki.2:35	1Ki.2:33<1Ki.2:35	1Ki.2:33<1Ki.2:35		
 TEST: And if... 	1Ki.2:35.1=NotExist	1Ki.2:35.1=NotExist	1Ki.2:35.1=NotExist	1Ki.2:35.1=Exist	1Ki.2:35.1=NotExist		
-LongVerseDuplicated	1Ki.2:8	1Ki.2:8	1Ki.2:8	1Ki.2:8 [=2:35.11-13]	Absent [=1Ki.2:35.11-13]			
-LongVerseDuplicated	1Ki.2:9	1Ki.2:9	1Ki.2:9	1Ki.2:9 [=2:35.14]	Absent [=1Ki.2:35.14]			
-LongVerse/LVElsewhere	1Ki.2:35	1Ki.2:35	1Ki.2:35	1Ki.2:35.0-14 [=4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9]	1Ki.2:35 [=4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9]		
-LongVerse/LVElsewhere	1Ki.2:46	1Ki.2:46	1Ki.2:46	1Ki.2:46.0-11 [=4:20-21, 24-26]	1Ki.2:46 [=4:20-21, 24-26]		
-LongVerseElsewhere	1Ki.3:1	1Ki.3:1	1Ki.3:1	1Ki.5:14.1[=2:35.3]	Absent [=1Ki.5:14.1; 2:35.3]			
+LongVerseDuplicated	1Ki.2:8	1Ki.2:8	1Ki.2:8	1Ki.2:8 [=1Ki.2:35.11-13]	Absent [=1Ki.2:35.11-13]			
+LongVerseDuplicated	1Ki.2:9	1Ki.2:9	1Ki.2:9	1Ki.2:9 [=1Ki.2:35.14]	Absent [=1Ki.2:35.14]			
+LongVerse/LVElsewhere	1Ki.2:35	1Ki.2:35	1Ki.2:35	1Ki.2:35.0-14 [=1Ki.4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9]	1Ki.2:35 [=1Ki.4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9]		
+LongVerse/LVElsewhere	1Ki.2:46	1Ki.2:46	1Ki.2:46	1Ki.2:46.0-11 [=1Ki.4:20-21, 24-26]	1Ki.2:46 [=1Ki.4:20-21, 24-26]		
+LongVerseElsewhere	1Ki.3:1	1Ki.3:1	1Ki.3:1	1Ki.5:14.1[=1Ki.2:35.3]	Absent [=1Ki.5:14.1; 2:35.3]			
 OneToOne	1Ki.4:17	1Ki.4:17	1Ki.4:17	1Ki.4:19	1Ki.4:19			
 OneToOne	1Ki.4:18	1Ki.4:18	1Ki.4:18	1Ki.4:17	1Ki.4:17			
 OneToOne	1Ki.4:19	1Ki.4:19	1Ki.4:19	1Ki.4:18	1Ki.4:18			
@@ -413,18 +413,18 @@ LongVerseElsewhereJoin	1Ki.4:20	1Ki.4:20	1Ki.4:20	1Ki.2:46.1-5	Absent [=1Ki.2:46
 LongVerseElsewhereJoin	1Ki.4:21	1Ki.5:1	1Ki.4:21	1Ki.2:46.10-11	Absent [=1Ki.2:46.10-11]			
 OneToOne	1Ki.4:22	1Ki.5:2	1Ki.4:22	1Ki.5:2	1Ki.5:2			
 OneToOne	1Ki.4:23	1Ki.5:3	1Ki.4:23	1Ki.5:3	1Ki.5:3			
-OneToOne	1Ki.4:24	1Ki.5:4	1Ki.4:24	1Ki.5:4 [=2:46.6]	1Ki.5:4 [=1Ki.2:46.6]			
+OneToOne	1Ki.4:24	1Ki.5:4	1Ki.4:24	1Ki.5:4 [=1Ki.2:46.6]	1Ki.5:4 [=1Ki.2:46.6]			
 LongVerseElsewhereJoin	1Ki.4:25	1Ki.5:5	1Ki.4:25	1Ki.2:46.7-8	Absent [=1Ki.2:46.7-8]			
 LongVerseElsewhere	1Ki.4:26	1Ki.5:6	1Ki.4:26	1Ki.2:46.9	Absent [=1Ki.2:46.9]			
 DuplicateTarget	1Ki.4:27-28	1Ki.5:7-8	1Ki.4:27-28	1Ki.5:1	1Ki.5:1			
-OneToOne	1Ki.4:29	1Ki.5:9	1Ki.4:29	1Ki.5:9 [=2:35.1]	1Ki.5:9 [=1Ki.2:35.1]			
-OneToOne	1Ki.4:30	1Ki.5:10	1Ki.4:30	1Ki.5:10 [=2:35.2]	1Ki.5:10 [=1Ki.2:35.2]			
+OneToOne	1Ki.4:29	1Ki.5:9	1Ki.4:29	1Ki.5:9 [=1Ki.2:35.1]	1Ki.5:9 [=1Ki.2:35.1]			
+OneToOne	1Ki.4:30	1Ki.5:10	1Ki.4:30	1Ki.5:10 [=1Ki.2:35.2]	1Ki.5:10 [=1Ki.2:35.2]			
 OneToOne	1Ki.4:31-33	1Ki.5:11-13	1Ki.4:31-33	1Ki.5:11-13	1Ki.5:11-13			
-OneToOne	1Ki.4:34	1Ki.5:14	1Ki.4:34	1Ki.5:14.0-2 [=3:1; 9:16]	1Ki.5:14 [=1Ki.3:1; 9:16]		
+OneToOne	1Ki.4:34	1Ki.5:14	1Ki.4:34	1Ki.5:14.0-2 [=1Ki.3:1; 9:16]	1Ki.5:14 [=1Ki.3:1; 9:16]		
 OneToOne	1Ki.5:1-14	1Ki.5:15-28	1Ki.5:1-14	1Ki.5:15-28	1Ki.5:15-28			
-OneToOne	1Ki.5:15	1Ki.5:29	1Ki.5:15	1Ki.5:29 [=2:35.4]	1Ki.5:29 [=1Ki.2:35.4]			
-OneToOne	1Ki.5:16	1Ki.5:30	1Ki.5:16	1Ki.5:30 [=2:35.8]	1Ki.5:30 [=1Ki.2:35.8]			
-LongVerseDuplicated	1Ki.7:23	1Ki.7:23	1Ki.7:23	1Ki.7:10 [=2:35.5]	1Ki.7:10 [=1Ki.2:35.5]		
+OneToOne	1Ki.5:15	1Ki.5:29	1Ki.5:15	1Ki.5:29 [=1Ki.2:35.4]	1Ki.5:29 [=1Ki.2:35.4]			
+DuplicateTarget	1Ki.5:16	1Ki.5:30	1Ki.5:16	1Ki.5:30-32	1Ki.5:30-32			
+LongVerseDuplicated	1Ki.7:23	1Ki.7:23	1Ki.7:23	1Ki.7:10 [=1Ki.2:35.5]	1Ki.7:10 [=1Ki.2:35.5]		
 
 $1Ki.5:17-6:38	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	1Ki.5:18=Last	1Ki.5:32=Last	1Ki.5:18=Last	1Ki.5:32=Last	1Ki.5:32=Last			
@@ -433,7 +433,7 @@ TEST: And if... 	1Ki.6:1<1Ki.6:6*2	1Ki.6:1<1Ki.6:6*2	1Ki.6:1<1Ki.6:6*2	1Ki.6:1>1
 TEST: And if... 	1Ki.6:1.1=NotExist	1Ki.6:1.1=NotExist	1Ki.6:1.1=NotExist	1Ki.6:1.1=Exist	1Ki.6:1.1=NotExist		
 LongVerseElsewhere	1Ki.5:17	1Ki.5:31	1Ki.5:17	1Ki.6:1.1	Absent [=1Ki.6:1.1]			
 LongVerseElsewhere	1Ki.5:18	1Ki.5:32	1Ki.5:18	1Ki.6:1.2	Absent [=1Ki.6:1.2]			
-LongVerse/LVElsewhere	1Ki.6:1	1Ki.6:1	1Ki.6:1	1Ki.6:1.0-4 [=5:17-18; 6:37-38]	1Ki.6:1 [=1Ki.5:17-18; 6:37-38]		
+LongVerse/LVElsewhere	1Ki.6:1	1Ki.6:1	1Ki.6:1	1Ki.6:1.0-4 [=1Ki.5:17-18; 6:37-38]	1Ki.6:1 [=1Ki.5:17-18; 6:37-38]		
 LongVerseElsewhere	1Ki.6:37	1Ki.6:37	1Ki.6:37	1Ki.6:1.3	Absent [=1Ki.6:1.3]		
 LongVerseElsewhere	1Ki.6:38	1Ki.6:38	1Ki.6:38	1Ki.6:1.4	Absent [=1Ki.6:1.4]		
 
@@ -463,18 +463,18 @@ TEST: If...	1Ki.9:14<1Ki.9:23	1Ki.9:14<1Ki.9:23	1Ki.9:14<1Ki.9:23	1Ki.9:14>1Ki.9
 TEST: And if... 	1Ki.10:21*2>10:22	1Ki.10:21*2>10:22	1Ki.10:21*2>10:22	1Ki.10:21*2<10:22	1Ki.10:21*2<10:22		
 TEST: And if... 	1Ki.10:22.1=NotExist	1Ki.10:22.1=NotExist	1Ki.10:22.1=NotExist	1Ki.10:22.1=Exist	1Ki.10:22.1=NotExist		
 DuplicateTarget	1Ki.8:12-13	1Ki.8:12-13	1Ki.8:12-13	1Ki.8:53.1	Absent [=1Ki.8:53.1]			
-LongVerse/LVElsewhere	1Ki.8:53	1Ki.8:53	1Ki.8:53	1Ki.8:53.0-1 [=8:12-13]	1Ki.8:53 [=8:12-13]		
-LongVerse/LVElsewhere	1Ki.9:9	1Ki.9:9	1Ki.9:9	1Ki.9:9.0-1 [=9:24]	1Ki.9:9 [=9:24]		
+LongVerse/LVElsewhere	1Ki.8:53	1Ki.8:53	1Ki.8:53	1Ki.8:53.0-1 [=1Ki.8:12-13]	1Ki.8:53 [=1Ki.8:12-13]		
+LongVerse/LVElsewhere	1Ki.9:9	1Ki.9:9	1Ki.9:9	1Ki.9:9.0-1 [=1Ki.9:24]	1Ki.9:9 [=1Ki.9:24]		
 TextMayBeMissing	1Ki.9:15	1Ki.9:15	1Ki.9:15	Absent	Absent			
 LongVerseElsewhere	1Ki.9:16	1Ki.9:16	1Ki.9:16	1Ki.5:14.2	Absent [=1Ki.5:14.2]			
 DuplicateTarget	1Ki.9:17-19	1Ki.9:17-19	1Ki.9:17-19	1Ki.10:22.1	Absent [=1Ki.10:22.1]			
 DuplicateTarget	1Ki.9:20-21	1Ki.9:20-21	1Ki.9:20-21	1Ki.10:22.2	Absent [=1Ki.10:22.2]			
 LongVerseElsewhere	1Ki.9:22	1Ki.9:22	1Ki.9:22	1Ki.10:22.3	Absent [=1Ki.10:22.3]			
 LongVerseElsewhereJoin	1Ki.9:23	1Ki.9:23	1Ki.9:23	1Ki.2:35.8-10	Absent [=1Ki.2:35.8-10]			
-LongVerseElsewhere	1Ki.9:24	1Ki.9:24	1Ki.9:24	1Ki.2:35.6 [=9:9.1]	Absent [=1Ki.2:35.6; 9:9.1]			
+LongVerseElsewhere	1Ki.9:24	1Ki.9:24	1Ki.9:24	1Ki.2:35.6 [=1Ki.9:9.1]	Absent [=1Ki.2:35.6; 9:9.1]			
 LongVerseElsewhere	1Ki.9:25	1Ki.9:25	1Ki.9:25	1Ki.2:35.7	Absent [=1Ki.2:35.7]			
-LongVerse/LVElsewhere	1Ki.10:22	1Ki.10:22	1Ki.10:22	1Ki.10:22.0-3 [=9:15, 17-22]	1Ki.10:22 [=1Ki.9:15, 17-22]		
-LongVerse/LVElsewhere	1Ki.10:26	1Ki.10:26	1Ki.10:26	1Ki.10:26.0-1 [=4:21]	1Ki.10:26 [=1Ki.4:21]		
+LongVerse/LVElsewhere	1Ki.10:22	1Ki.10:22	1Ki.10:22	1Ki.10:22.0-3 [=1Ki.9:15, 17-22]	1Ki.10:22 [=1Ki.9:15, 17-22]		
+LongVerse/LVElsewhere	1Ki.10:26	1Ki.10:26	1Ki.10:26	1Ki.10:26.0-1 [=1Ki.4:21]	1Ki.10:26 [=1Ki.4:21]		
 
 $1Ki.11:5-11:8	English	Hebrew	Latin	Greek*	
 TEST: If...	1Ki.11:6>1Ki.11:35	1Ki.11:6>1Ki.11:35	1Ki.11:6>1Ki.11:35	1Ki.11:6<1Ki.11:35			
@@ -486,30 +486,30 @@ OneToOne	1Ki.11:8	1Ki.11:8	1Ki.11:8	1Ki.11:7
 $1Ki.11:21-14:20	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	1Ki.12:24.1=NotExist	1Ki.12:24.1=NotExist	1Ki.12:24.1=NotExist	1Ki.12:24.1=Exist	1Ki.12:24.1=NotExist		
 TEST: And if... 	1Ki.12:21*2>12:24	1Ki.12:21*2>12:24	1Ki.12:21*2>12:24	1Ki.12:21*2<12:24	1Ki.12:21*2<12:24		
-LongVerseDuplicated	1Ki.11:21	1Ki.11:21	1Ki.11:21	1Ki.11:21 [=12:24.4]	1Ki.11:21 [=12:24.4]			
-LongVerseDuplicated	1Ki.11:22	1Ki.11:22	1Ki.11:22	1Ki.11:22 [=12:24.4]	1Ki.11:22 [=12:24.4]			
-LongVerseDuplicated	1Ki.11:26	1Ki.11:26	1Ki.11:26	1Ki.11:26 [=12:24.2]	1Ki.11:26 [=12:24.2]			
-LongVerseDuplicated	1Ki.11:27	1Ki.11:27	1Ki.11:27	1Ki.11:27 [=12:24.2]	1Ki.11:27 [=12:24.2]			
-LongVerseDuplicated	1Ki.11:28	1Ki.11:28	1Ki.11:28	1Ki.11:28 [=12:24.2]	1Ki.11:28 [=12:24.2]			
-LongVerseDuplicated	1Ki.11:31	1Ki.11:31	1Ki.11:31	1Ki.11:31 [=12:24.14]	1Ki.11:31 [=12:24.14]			
-LongVerseDuplicated	1Ki.11:40	1Ki.11:40	1Ki.11:40	1Ki.11:40 [=12:24.3]	1Ki.11:40 [=12:24.3]			
-LongVerseDuplicated	1Ki.12:2	1Ki.12:2	1Ki.12:2	1Ki.11:43 [=12:24.1]	1Ki.11:43 [=12:24.1]			
-LongVerseDuplicated	1Ki.12:3	1Ki.12:3	1Ki.12:3	1Ki.12:3 [=12:24.15]	1Ki.12:3 [=12:24.15]			
-LongVerseDuplicated	1Ki.12:4	1Ki.12:4	1Ki.12:4	1Ki.12:4 [=12:24.15]	1Ki.12:4 [=12:24.15]			
-LongVerseDuplicated	1Ki.12:5	1Ki.12:5	1Ki.12:5	1Ki.12:5 [=12:24.15]	1Ki.12:5 [=12:24.15]			
-LongVerseDuplicated	1Ki.12:6	1Ki.12:6	1Ki.12:6	1Ki.12:6 [=12:24.16]	1Ki.12:6 [=12:24.16]			
-LongVerseDuplicated	1Ki.12:7	1Ki.12:7	1Ki.12:7	1Ki.12:7 [=12:24.16]	1Ki.12:7 [=12:24.16]			
-LongVerseDuplicated	1Ki.12:8	1Ki.12:8	1Ki.12:8	1Ki.12:8 [=12:24.17]	1Ki.12:8 [=12:24.17]			
-LongVerseDuplicated	1Ki.12:9	1Ki.12:9	1Ki.12:9	1Ki.12:9 [=12:24.17]	1Ki.12:9 [=12:24.17]			
-LongVerseDuplicated	1Ki.12:10	1Ki.12:10	1Ki.12:10	1Ki.12:10 [=12:24.17]	1Ki.12:10 [=12:24.17]			
-LongVerseDuplicated	1Ki.12:11	1Ki.12:11	1Ki.12:11	1Ki.12:11 [=12:24.17]	1Ki.12:11 [=12:24.17]			
-LongVerseDuplicated	1Ki.12:14	1Ki.12:14	1Ki.12:14	1Ki.12:14 [=12:24.18]	1Ki.12:14 [=12:24.18]			
-LongVerseDuplicated	1Ki.12:16	1Ki.12:16	1Ki.12:16	1Ki.12:16 [=12:24.19]	1Ki.12:16 [=12:24.19]			
-LongVerseDuplicated	1Ki.12:17	1Ki.12:17	1Ki.12:17	1Ki.12:17 [=12:24.20]	1Ki.12:17 [=12:24.20]			
-LongVerseDuplicated	1Ki.12:21	1Ki.12:21	1Ki.12:21	1Ki.12:21 [=12:24.21]	1Ki.12:21 [=12:24.21]			
-LongVerseDuplicated	1Ki.12:22	1Ki.12:22	1Ki.12:22	1Ki.12:22 [=12:24.22]	1Ki.12:22 [=12:24.22]			
-LongVerseDuplicated	1Ki.12:23	1Ki.12:23	1Ki.12:23	1Ki.12:23 [=12:24.22]	1Ki.12:23 [=12:24.22]			
-LongVerse/LVDuplicated	1Ki.12:24	1Ki.12:24	1Ki.12:24	1Ki.12:24.0-23 [=11:19, 21-22, 24, 26-28, 31, 40, 43; 12:3-11, 14, 16-17, 21-24; 14:1-6, 11-12, 18 / 11:43; 14:22 / 11:26-28 / 11:40 / 11:21-22 / 11:19 / 11:24 / 14:1-2 / 14:3 / 14:4 / 14:6 / 14:12 / 14:11 / 14:17-18 / 11:31 / 12:3-5 / 12:6-7 / 12:8-11 / 12:14 / 12:16 / 12:17 / 12:21 / 12:22-23 / 12:24.0]	1Ki.12:24 [=11:19, 21-22, 24, 26-28, 31, 40, 43; 12:3-11, 14, 16-17, 21-24; 14:1-6, 11-12, 18]		
+LongVerseDuplicated	1Ki.11:21	1Ki.11:21	1Ki.11:21	1Ki.11:21 [=1Ki.12:24.4]	1Ki.11:21 [=1Ki.12:24.4]			
+LongVerseDuplicated	1Ki.11:22	1Ki.11:22	1Ki.11:22	1Ki.11:22 [=1Ki.12:24.4]	1Ki.11:22 [=1Ki.12:24.4]			
+LongVerseDuplicated	1Ki.11:26	1Ki.11:26	1Ki.11:26	1Ki.11:26 [=1Ki.12:24.2]	1Ki.11:26 [=1Ki.12:24.2]			
+LongVerseDuplicated	1Ki.11:27	1Ki.11:27	1Ki.11:27	1Ki.11:27 [=1Ki.12:24.2]	1Ki.11:27 [=1Ki.12:24.2]			
+LongVerseDuplicated	1Ki.11:28	1Ki.11:28	1Ki.11:28	1Ki.11:28 [=1Ki.12:24.2]	1Ki.11:28 [=1Ki.12:24.2]			
+LongVerseDuplicated	1Ki.11:31	1Ki.11:31	1Ki.11:31	1Ki.11:31 [=1Ki.12:24.14]	1Ki.11:31 [=1Ki.12:24.14]			
+LongVerseDuplicated	1Ki.11:40	1Ki.11:40	1Ki.11:40	1Ki.11:40 [=1Ki.12:24.3]	1Ki.11:40 [=1Ki.12:24.3]			
+LongVerseDuplicated	1Ki.12:2	1Ki.12:2	1Ki.12:2	1Ki.11:43 [=1Ki.12:24.1]	1Ki.11:43 [=1Ki.12:24.1]			
+LongVerseDuplicated	1Ki.12:3	1Ki.12:3	1Ki.12:3	1Ki.12:3 [=1Ki.12:24.15]	1Ki.12:3 [=1Ki.12:24.15]			
+LongVerseDuplicated	1Ki.12:4	1Ki.12:4	1Ki.12:4	1Ki.12:4 [=1Ki.12:24.15]	1Ki.12:4 [=1Ki.12:24.15]			
+LongVerseDuplicated	1Ki.12:5	1Ki.12:5	1Ki.12:5	1Ki.12:5 [=1Ki.12:24.15]	1Ki.12:5 [=1Ki.12:24.15]			
+LongVerseDuplicated	1Ki.12:6	1Ki.12:6	1Ki.12:6	1Ki.12:6 [=1Ki.12:24.16]	1Ki.12:6 [=1Ki.12:24.16]			
+LongVerseDuplicated	1Ki.12:7	1Ki.12:7	1Ki.12:7	1Ki.12:7 [=1Ki.12:24.16]	1Ki.12:7 [=1Ki.12:24.16]			
+LongVerseDuplicated	1Ki.12:8	1Ki.12:8	1Ki.12:8	1Ki.12:8 [=1Ki.12:24.17]	1Ki.12:8 [=1Ki.12:24.17]			
+LongVerseDuplicated	1Ki.12:9	1Ki.12:9	1Ki.12:9	1Ki.12:9 [=1Ki.12:24.17]	1Ki.12:9 [=1Ki.12:24.17]			
+LongVerseDuplicated	1Ki.12:10	1Ki.12:10	1Ki.12:10	1Ki.12:10 [=1Ki.12:24.17]	1Ki.12:10 [=1Ki.12:24.17]			
+LongVerseDuplicated	1Ki.12:11	1Ki.12:11	1Ki.12:11	1Ki.12:11 [=1Ki.12:24.17]	1Ki.12:11 [=1Ki.12:24.17]			
+LongVerseDuplicated	1Ki.12:14	1Ki.12:14	1Ki.12:14	1Ki.12:14 [=1Ki.12:24.18]	1Ki.12:14 [=1Ki.12:24.18]			
+LongVerseDuplicated	1Ki.12:16	1Ki.12:16	1Ki.12:16	1Ki.12:16 [=1Ki.12:24.19]	1Ki.12:16 [=1Ki.12:24.19]			
+LongVerseDuplicated	1Ki.12:17	1Ki.12:17	1Ki.12:17	1Ki.12:17 [=1Ki.12:24.20]	1Ki.12:17 [=1Ki.12:24.20]			
+LongVerseDuplicated	1Ki.12:21	1Ki.12:21	1Ki.12:21	1Ki.12:21 [=1Ki.12:24.21]	1Ki.12:21 [=1Ki.12:24.21]			
+LongVerseDuplicated	1Ki.12:22	1Ki.12:22	1Ki.12:22	1Ki.12:22 [=1Ki.12:24.22]	1Ki.12:22 [=1Ki.12:24.22]			
+LongVerseDuplicated	1Ki.12:23	1Ki.12:23	1Ki.12:23	1Ki.12:23 [=1Ki.12:24.22]	1Ki.12:23 [=1Ki.12:24.22]			
+LongVerse/LVDuplicated	1Ki.12:24	1Ki.12:24	1Ki.12:24	1Ki.12:24.0-23 [=1Ki.11:19, 21-22, 24, 26-28, 31, 40, 43; 12:3-11, 14, 16-17, 21-24; 14:1-6, 11-12, 18 / 11:43; 14:22 / 11:26-28 / 11:40 / 11:21-22 / 11:19 / 11:24 / 14:1-2 / 14:3 / 14:4 / 14:6 / 14:12 / 14:11 / 14:17-18 / 11:31 / 12:3-5 / 12:6-7 / 12:8-11 / 12:14 / 12:16 / 12:17 / 12:21 / 12:22-23 / 12:24.0]	1Ki.12:24 [=1Ki.11:19, 21-22, 24, 26-28, 31, 40, 43; 12:3-11, 14, 16-17, 21-24; 14:1-6, 11-12, 18]		
 LongVerseElsewhere	1Ki.14:1	1Ki.14:1	1Ki.14:1	1Ki.12:24.7	Absent [=1Ki.12:24.7]			
 DuplicateTarget	1Ki.14:2-3	1Ki.14:2-3	1Ki.14:2-3	1Ki.12:24.8	Absent [=1Ki.12:24.8]			
 LongVerseElsewhere	1Ki.14:4	1Ki.14:4	1Ki.14:4	1Ki.12:24.9	Absent [=1Ki.12:24.9]			
@@ -530,15 +530,15 @@ $1Ki.22:41-16:28	English	Hebrew	Latin	Greek*	GreekUndivided*
 TEST: If...	1Ki.22:53=Last	1Ki.22:54=Last	1Ki.22:54=Last	1Ki.22:54=Last	1Ki.22:54=Last		
 TEST: And if... 	1Ki.16:28<1Ki.16:34	1Ki.16:28<1Ki.16:34	1Ki.16:28<1Ki.16:34	1Ki.16:28>1Ki.16:34	1Ki.16:28>1Ki.16:34		
 TEST: And if... 	1Ki.16:28.1=NotExist	1Ki.16:28.1=NotExist	1Ki.16:28.1=NotExist	1Ki.16:28.1=Exist	1Ki.16:28.1=NotExist		
-LongVerseDuplicated	1Ki.22:41	1Ki.22:41	1Ki.22:41	1Ki.22:41 [=16:28.1]	1Ki.22:41 [=1Ki.16:28.1a]			
-LongVerseDuplicated	1Ki.22:42	1Ki.22:42	1Ki.22:42	1Ki.22:42 [=16:28.1]	1Ki.22:42 [=1Ki.16:28.1b]			
+LongVerseDuplicated	1Ki.22:41	1Ki.22:41	1Ki.22:41	1Ki.22:41 [=1Ki.16:28.1]	1Ki.22:41 [=1Ki.16:28.1a]			
+LongVerseDuplicated	1Ki.22:42	1Ki.22:42	1Ki.22:42	1Ki.22:42 [=1Ki.16:28.1]	1Ki.22:42 [=1Ki.16:28.1b]			
 Concatenation	1Ki.22:43	1Ki.22:43-44	1Ki.22:43-44	1Ki.22:43-44 [=1Ki.16:28.2a-b]	1Ki.22:43-44 [=1Ki.16:28.2a-b]			
 OneToOne	1Ki.22:44	1Ki.22:45	1Ki.22:45	1Ki.22:45	1Ki.22:45			
-OneToOne	1Ki.22:45	1Ki.22:46	1Ki.22:46	1Ki.22:46 [=16:28.3]	1Ki.22:46 [=1Ki.16:28.3]			
+OneToOne	1Ki.22:45	1Ki.22:46	1Ki.22:46	1Ki.22:46 [=1Ki.16:28.3]	1Ki.22:46 [=1Ki.16:28.3]			
 LongVerseElsewhere	1Ki.22:46-49	1Ki.22:47-50	1Ki.22:47-50	1Ki.16:28.4-7	Absent [=1Ki.16:28.4-7]			
-OneToOne	1Ki.22:50	1Ki.22:51	1Ki.22:51	1Ki.22:51 [=16:28.8]	1Ki.22:51 [=1Ki.16:28.8]			
+OneToOne	1Ki.22:50	1Ki.22:51	1Ki.22:51	1Ki.22:51 [=1Ki.16:28.8]	1Ki.22:51 [=1Ki.16:28.8]			
 OneToOne	1Ki.22:51-53	1Ki.22:52-54	1Ki.22:52-54	1Ki.22:52-54	1Ki.22:52-54			
-LongVerse/LVElsewhere	1Ki.16:28	1Ki.16:28	1Ki.16:28	1Ki.16:28.0-8 [=22:41-50]	1Ki.16:28 [=1Ki.22:41-50]		
+LongVerse/LVElsewhere	1Ki.16:28	1Ki.16:28	1Ki.16:28	1Ki.16:28.0-8 [=1Ki.22:41-50]	1Ki.16:28 [=1Ki.22:41-50]		
 
 $2Ki.11:21-12:21	English	Hebrew	Latin	Greek	
 TEST: If...	2Ki.12:21=Last	2Ki.12:22=Last	2Ki.12:21=Last	2Ki.12:22=Last			
@@ -614,7 +614,7 @@ TEST: And if... 	Est.1:1.1=Exist	Est.1:1.1=NotExist	Est.1:1.1=NotExist	Est.1:1.1
 TEST: And if... 	Est.1:1>Est.1:10	Est.1:1<Est.1:10	Est.1:1<Est.1:10	Est.1:1>Est.1:10	Est.1:1>Est.1:10	Est.1:1<Est.1:10	Est.1:1<Est.1:10
 TEST: And if... 	Est.A:1=NotExist	Est.A:1=NotExist	Est.A:1=Exist	Est.A:1=NotExist	Est.A:1=NotExist	Est.A:1=NotExist	Est.A:1=NotExist
 TEST: And if... 	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=Exist	Est.11:2=NotExist
-OneToOne	Est.1:1.0	Est.1:1	Est.1:1	Est.1:1.0	Est.1:1 [=11:2-12; 12:1-6]	Est.1:1	Est.1:1	
+OneToOne	Est.1:1.0	Est.1:1	Est.1:1	Est.1:1.0	Est.1:1 [=Est.11:2-12; 12:1-6]	Est.1:1	Est.1:1	
 LongVerse/LVExtra	Est.1:1.1-17	NoVerse	Est.A:1-17	Est.1:1.1-17	NoVerse	Est.11:2-12; 12:1-6	Est.1:2-18
 OneToOne	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:19-39	
 
@@ -625,7 +625,7 @@ TEST: And if... 	Est.3:13>Est.3:12	Est.3:13<Est.3:12	Est.3:13<Est.3:12	Est.3:13>
 TEST: And if... 	Est.B:1=NotExist	Est.B:1=NotExist	Est.B:1=Exist	Est.B:1=NotExist	Est.B:1=NotExist	Est.B:1=NotExist	Est.B:1=NotExist	
 TEST: And if... 	Est.13:1=NotExist	Est.13:1=NotExist	Est.13:1=NotExist	Est.13:1=NotExist	Est.13:1=NotExist	Est.13:1=Exist	Est.13:1=NotExist	
 OneToOne	Est.3:1-12	Est.3:1-12	Est.3:1-12	Est.3:1-12	Est.3:1-12	Est.3:1-12	Est.3:1-12	
-OneToOne	Est.3:13.0	Est.3:13	Est.3:13	Est.3:13.0	Est.3:13 [=13:1-7 (B:1-7)]	Est.3:13	Est.3:13	
+OneToOne	Est.3:13.0	Est.3:13	Est.3:13	Est.3:13.0	Est.3:13 [=Est.13:1-7 (B:1-7)]	Est.3:13	Est.3:13	
 LongVerse/LVExtra	Est.3:13.1-7	NoVerse	Est.B:1-7	Est.3:13.1-7	NoVerse	Est.13:1-7	Est.3:14-20	
 OneToOne	Est.3:14-15	NoVerse	Est.3:14-15	Est.3:14-15	Est.3:14-15	Est.3:14-15	Est.3:21-22	
 
@@ -636,7 +636,7 @@ TEST: And if... 	Est.4:17>Est.4:16	Est.4:17<Est.4:16	Est.4:17<Est.4:16	Est.4:17>
 TEST: And if... 	Est.C:1=NotExist	Est.C:1=NotExist	Est.C:1=Exist	Est.C:1=NotExist	Est.C:1=NotExist	Est.C:1=NotExist	Est.C:1=NotExist	
 TEST: And if... 	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=Exist	Est.14:1=NotExist	
 OneToOne	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	
-OneToOne	Est.4:17.0	Est.4:17	Est.4:17	Est.4:17.0	Est.4:17 [=13:8-18; 14:1-19 (C:1-30)]	Est.4:17
+OneToOne	Est.4:17.0	Est.4:17	Est.4:17	Est.4:17.0	Est.4:17 [=Est.13:8-18; 14:1-19 (C:1-30)]	Est.4:17
 LongVerse/LVExtra	Est.4:17.1-2	NoVerse	Est.C:1-2	Est.4:17.1-2	NoVerse	Est.13:8-9	Est.4:18-19
 DuplicateTarget	Est.4:17.3-4	NoVerse	Est.C:3-4	Est.4:17.3-4	NoVerse	Est.13:10-11	Est.4:20
 DuplicateTarget	Est.4:17.5-6	NoVerse	Est.C:5-6	Est.4:17.5-6	NoVerse	Est.13:12-13	Est.4:21
@@ -656,7 +656,7 @@ TEST: And if... 	Est.5:1.1=Exist	Est.5:1.1=NotExist	Est.5:1.1=NotExist	Est.5:1.1
 TEST: And if... 	Est.5:1>Est.5:5*3	Est.5:1<Est.5:5*3	Est.5:1<Est.5:5*3	Est.5:1>Est.5:5*3	Est.5:1>Est.5:5*3	Est.5:1<Est.5:5*3	Est.5:1<Est.5:5*3	
 TEST: And if... 	Est.D:1=NotExist	Est.D:1=NotExist	Est.D:1=Exist	Est.D:1=NotExist	Est.D:1=NotExist	Est.D:1=NotExist	Est.D:1=NotExist	
 TEST: And if... 	Est.15:1=NotExist	Est.15:1=NotExist	Est.15:1=NotExist	Est.15:1=NotExist	Est.15:1=NotExist	Est.15:1=Exist	Est.15:1=NotExist	
-OneToOne	Est.5:1.0	Est.5:1	Est.5:1	Est.5:1.0	Est.5:1 [=15:1-16 (D:1-16)]	Est.5:1	Est.5:1	
+OneToOne	Est.5:1.0	Est.5:1	Est.5:1	Est.5:1.0	Est.5:1 [=Est.15:1-16 (D:1-16)]	Est.5:1	Est.5:1	
 LongVerse/LVExtra	Est.5:1.1	NoVerse	Est.D:1	Est.5:1.1	NoVerse	Est.15:1-4	Est.5:2	
 LongVerse/LVExtra	Est.5:1.2-6	NoVerse	Est.D:2-6	Est.5:1.2-6	NoVerse	Est.15:5-9	Est.5:3-7	
 OneToOne	Est.5:2.0	Est.5:2	Est.5:2	Est.5:2.0	Est.5:2	Est.5:2	Est.5:8	
@@ -672,7 +672,7 @@ TEST: And if... 	Est.8:12>Est.8:11	Est.8:12<Est.8:11	Est.8:12<Est.8:11	Est.8:12>
 TEST: And if... 	Est.E:1=NotExist	Est.E:1=NotExist	Est.E:1=Exist	Est.E:1=NotExist	Est.E:1=NotExist	Est.E:1=NotExist	Est.E:1=NotExist	
 TEST: And if... 	Est.16:1=NotExist	Est.16:1=NotExist	Est.16:1=NotExist	Est.16:1=NotExist	Est.16:1=NotExist	Est.16:1=Exist	Est.16:1=NotExist	
 OneToOne	Est.8:1-11	Est.8:1-11	Est.8:1-11	Est.8:1-11	Est.8:1-11	Est.8:1-11	Est.8:1-11	
-OneToOne	Est.8:12.0	Est.8:12	Est.8:12	Est.8:12.0	Est.8:12 [=16:1-24 (E:1-24)]	Est.8:12	Est.8:12
+OneToOne	Est.8:12.0	Est.8:12	Est.8:12	Est.8:12.0	Est.8:12 [=Est.16:1-24 (E:1-24)]	Est.8:12	Est.8:12
 LongVerse/LVExtra	Est.8:12.1-24	NoVerse	Est.E:1-24	Est.8:12.1-24	NoVerse	Est.16:1-24	Est.8:13-33
 OneToOne	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:34-38
 
@@ -683,7 +683,7 @@ TEST: And if... 	Est.10:3>Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3<Est.10:2*2	Est
 TEST: And if... 	Est.F:1=NotExist	Est.F:1=NotExist	Est.F:1=Exist	Est.F:1=NotExist	Est.F:1=NotExist	Est.F:1=NotExist	Est.F:1=NotExist	
 TEST: And if... 	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=Exist	Est.10:4=NotExist	
 OneToOne	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2
-OneToOne	Est.10:3.0	Est.10:3	Est.10:3	Est.10:3.0	Est.10:3 [=10:4-13; 11:1 (F:1-11)]	Est.10:3	Est.10:3
+OneToOne	Est.10:3.0	Est.10:3	Est.10:3	Est.10:3.0	Est.10:3 [=Est.10:4-13; 11:1 (F:1-11)]	Est.10:3	Est.10:3
 LongVerse/LVExtra	Est.10:3.1-10	NoVerse	Est.F:1-10	Est.10:3.1-10	NoVerse	Est.10:4-13	Est.10:4-13
 LongVerse/LVExtra	Est.10:3.11	NoVerse	Est.F:11	Est.10:3.11	NoVerse	Est.11:1	Est.10:14
 
@@ -693,7 +693,7 @@ TEST: And if... 	Esg.1:1.1=NotExist	Esg.1:1.1=NotExist	Esg.1:1.1=NotExist	Esg.1:
 TEST: And if... 	Esg.1:1<Esg.1:10	Esg.1:1<Esg.1:10	Esg.1:1<Esg.1:10	Esg.1:1>Esg.1:10	Esg.1:1>Esg.1:10	Esg.1:1<Esg.1:10	Esg.1:1<Esg.1:10	
 TEST: And if... 	Esg.A:1=NotExist	Esg.A:1=NotExist	Esg.A:1=Exist	Esg.A:1=NotExist	Esg.A:1=NotExist	Esg.A:1=NotExist	Esg.A:1=NotExist	
 TEST: And if... 	Esg.11:2=Exist	Esg.11:2=NotExist	Esg.11:2=NotExist	Esg.11:2=NotExist	Esg.11:2=NotExist	Esg.11:2=Exist	Esg.11:2=NotExist	
-OneToOne	Esg.1:1	Esg.1:1	Esg.1:1	Esg.1:1.0	Esg.1:1 [=11:2-12; 12:1-6]	Esg.1:1	Esg.1:1	
+OneToOne	Esg.1:1	Esg.1:1	Esg.1:1	Esg.1:1.0	Esg.1:1 [=Esg.11:2-12; 12:1-6]	Esg.1:1	Esg.1:1	
 LongVerse/LVExtra	Esg.11:2-12	NoVerse	Esg.A:1-11	Esg.1:1.1-11	NoVerse	Esg.11:2-12	Esg.1:2-12
 LongVerse/LVExtra	Esg.12:1-6	NoVerse	Esg.A:12-17	Esg.1:1.12-17	NoVerse	Esg.12:1-6	Esg.1:13-18
 OneToOne	Esg.1:2-22	Esg.1:2-22	Esg.1:2-22	Esg.1:2-22	Esg.1:2-22	Esg.1:2-22	Esg.1:19-39	
@@ -705,7 +705,7 @@ TEST: And if... 	Esg.3:13<Esg.3:12	Esg.3:13<Esg.3:12	Esg.3:13<Esg.3:12	Esg.3:13>
 TEST: And if... 	Esg.B:1=NotExist	Esg.B:1=NotExist	Esg.B:1=Exist	Esg.B:1=NotExist	Esg.B:1=NotExist	Esg.B:1=NotExist	Esg.B:1=NotExist	
 TEST: And if... 	Esg.13:1=Exist	Esg.13:1=NotExist	Esg.13:1=NotExist	Esg.13:1=NotExist	Esg.13:1=NotExist	Esg.13:1=Exist	Esg.13:1=NotExist	
 OneToOne	Esg.3:1-12	Esg.3:1-12	Esg.3:1-12	Esg.3:1-12	Esg.3:1-12	Esg.3:1-12	Esg.3:1-12	
-OneToOne	Esg.3:13	Esg.3:13	Esg.3:13	Esg.3:13.0	Esg.3:13 [=13:1-7 (B:1-7)]	Esg.3:13	Esg.3:13	
+OneToOne	Esg.3:13	Esg.3:13	Esg.3:13	Esg.3:13.0	Esg.3:13 [=Esg.13:1-7 (B:1-7)]	Esg.3:13	Esg.3:13	
 LongVerse/LVExtra	Esg.13:1-7	NoVerse	Esg.B:1-7	Esg.3:13.1-7	NoVerse	Esg.13:1-7	Esg.3:13:14-20	
 OneToOne	Esg.3:14-15	NoVerse	Esg.3:14-15	Esg.3:14-15	Esg.3:14-15	Esg.3:14-15	Esg.3:13:21-22	
 
@@ -716,7 +716,7 @@ TEST: And if... 	Esg.4:17<Esg.4:16	Esg.4:17<Esg.4:16	Esg.4:17<Esg.4:16	Esg.4:17>
 TEST: And if... 	Esg.C:1=NotExist	Esg.C:1=NotExist	Esg.C:1=Exist	Esg.C:1=NotExist	Esg.C:1=NotExist	Esg.C:1=NotExist	Esg.C:1=NotExist	
 TEST: And if... 	Esg.14:1=Exist	Esg.14:1=NotExist	Esg.14:1=NotExist	Esg.14:1=NotExist	Esg.14:1=NotExist	Esg.14:1=Exist	Esg.14:1=NotExist	
 OneToOne	Esg.4:1-16	Esg.4:1-16	Esg.4:1-16	Esg.4:1-16	Esg.4:1-16	Esg.4:1-16	Esg.4:1-16	
-OneToOne	Esg.4:17	Esg.4:17	Esg.4:17	Esg.4:17.0	Esg.4:17 [=13:8-18; 14:1-19 (C:1-30)]	Esg.4:17
+OneToOne	Esg.4:17	Esg.4:17	Esg.4:17	Esg.4:17.0	Esg.4:17 [=Esg.13:8-18; 14:1-19 (C:1-30)]	Esg.4:17
 LongVerse/LVExtra	Esg.13:8-9	NoVerse	Esg.C:1-2	Esg.4:17.1-2	NoVerse	Esg.13:8-9	Esg.4:18-19
 DuplicateTarget	Esg.13:10-11	NoVerse	Esg.C:3-4	Esg.4:17.3-4	NoVerse	Esg.13:10-11	Esg.4:20
 DuplicateTarget	Esg.13:12-13	NoVerse	Esg.C:5-6	Esg.4:17.5-6	NoVerse	Esg.13:12-13	Esg.4:21
@@ -735,7 +735,7 @@ TEST: And if... 	Esg.5:1<Esg.5:5*3	Esg.5:1<Esg.5:5*3	Esg.5:1<Esg.5:5*3	Esg.5:1>E
 TEST: And if... 	Esg.D:1=NotExist	Esg.D:1=NotExist	Esg.D:1=Exist	Esg.D:1=NotExist	Esg.D:1=NotExist	Esg.D:1=NotExist	Esg.D:1=NotExist	
 TEST: And if... 	Esg.15:1=Exist	Esg.15:1=NotExist	Esg.15:1=NotExist	Esg.15:1=NotExist	Esg.15:1=NotExist	Esg.15:1=Exist	Esg.15:1=NotExist	
 TEST: And if... 	Esg.15:19=NotExist	Esg.15:19=NotExist	Esg.15:19=NotExist	Esg.15:19=NotExist	Esg.15:19=NotExist	Esg.15:1=Exist	Esg.15:19=NotExist	
-OneToOne	Esg.5:1	Esg.5:1	Esg.5:1	Esg.5:1.0	Esg.5:1 [=15:1-16 (D:1-16)]	Esg.5:1	Esg.5:1	
+OneToOne	Esg.5:1	Esg.5:1	Esg.5:1	Esg.5:1.0	Esg.5:1 [=Esg.15:1-16 (D:1-16)]	Esg.5:1	Esg.5:1	
 LongVerse/LVExtra	Esg.15:1	NoVerse	Esg.D:1	Esg.5:1.1	NoVerse	Esg.15:1-4	Esg.5:2	
 LongVerse/LVExtra	Esg.15:2-6	NoVerse	Esg.D:2-6	Esg.5:1.2-6	NoVerse	Esg.15:5-9	Esg.5:2-7	
 OneToOne	Esg.5:2	Esg.5:2	Esg.5:2	Esg.5:2.0	Esg.5:2	Esg.5:2	Esg.5:8	
@@ -751,7 +751,7 @@ TEST: And if... 	Esg.8:12<Esg.8:11	Esg.8:12<Esg.8:11	Esg.8:12<Esg.8:11	Esg.8:12>
 TEST: And if... 	Esg.E:1=NotExist	Esg.E:1=NotExist	Esg.E:1=Exist	Esg.E:1=NotExist	Esg.E:1=NotExist	Esg.E:1=NotExist	Esg.E:1=NotExist	
 TEST: And if... 	Esg.16:1=Exist	Esg.16:1=NotExist	Esg.16:1=NotExist	Esg.16:1=NotExist	Esg.16:1=NotExist	Esg.16:1=Exist	Esg.16:1=NotExist	
 OneToOne	Esg.8:1-11	Esg.8:1-11	Esg.8:1-11	Esg.8:1-11	Esg.8:1-11	Esg.8:1-11	Esg.8:1-11	
-OneToOne	Esg.8:12	Esg.8:12	Esg.8:12	Esg.8:12.0	Esg.8:12 [=16:1-24 (E:1-24)]	Esg.8:12	Esg.8:12
+OneToOne	Esg.8:12	Esg.8:12	Esg.8:12	Esg.8:12.0	Esg.8:12 [=Esg.16:1-24 (E:1-24)]	Esg.8:12	Esg.8:12
 LongVerse/LVExtra	Esg.16:1-21	NoVerse	Esg.E:1-21	Esg.8:12.1-21	NoVerse	Esg.16:1-21	Esg.8:13-33
 LongVerse/LVExtra	Esg.16:22-24	NoVerse	Esg.E:22-24	Esg.8:12.22-24	NoVerse	Esg.16:22-24	Absent
 OneToOne	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:34-38
@@ -763,7 +763,7 @@ TEST: And if... 	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg
 TEST: And if... 	Esg.F:1=NotExist	Esg.F:1=NotExist	Esg.F:1=Exist	Esg.F:1=NotExist	Esg.F:1=NotExist	Esg.F:1=NotExist	Esg.F:1=NotExist	
 TEST: And if... 	Esg.10:4=Exist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=Exist	Esg.10:4=NotExist	
 OneToOne	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2
-OneToOne	Esg.10:3	Esg.10:3	Esg.10:3	Esg.10:3.0	Esg.10:3 [=10:4-13; 11:1 (F:1-11)]	Esg.10:3	Esg.10:3
+OneToOne	Esg.10:3	Esg.10:3	Esg.10:3	Esg.10:3.0	Esg.10:3 [=Esg.10:4-13; 11:1 (F:1-11)]	Esg.10:3	Esg.10:3
 LongVerse/LVExtra	Esg.10:4-13	NoVerse	Esg.F:1-10	Esg.10:3.1-10	NoVerse	Esg.10:4-13	Esg.10:4-13
 LongVerse/LVExtra	Esg.11:1	NoVerse	Esg.F:11	Esg.10:3.11	NoVerse	Esg.11:1	Esg.10:14
 
@@ -1825,9 +1825,9 @@ TEST: If...	Dan.4:37=Last	Dan.4:34=Last	Dan.4:34=Last	Dan.4:34=Last	Dan.4:37=Las
 TEST: If...				Dan.4:34.3=Exist	Dan.4:37.3=Exist	Dan.4:34.3=NotExist	Dan.4:37.3=NotExist
 TEST: And if... 	Dan.3:30=Last	Dan.3:33=Last	Dan.3:100=Last	Dan.3:97=Last	Dan.3:97=Last	Dan.3:97=Last	Dan.3:97=Last
 OneToOne	Dan.4:4-32	Dan.4:1-29	Dan.4:1-29	Dan.4:1-29	Dan.4:4-32	Dan.4:1-29	Dan.4:4-32		
-OneToOne	Dan.4:33	Dan.4:30	Dan.4:30	Dan.4:30.0-3 [=4:30.1-3]	Dan.4:33.0-3 [=4:30.1-3]	Dan.4:30	Dan.4:33		
+OneToOne	Dan.4:33	Dan.4:30	Dan.4:30	Dan.4:30.0-3 [=Dan.4:30.1-3]	Dan.4:33.0-3 [=Dan.4:30.1-3]	Dan.4:30	Dan.4:33		
 OneToOne	Dan.4:34-36	Dan.4:31-33	Dan.4:31-33	Dan.4:31-33	Dan.4:34-36	Dan.4:31-33	Dan.4:34-36		
-OneToOne	Dan.4:37	Dan.4:34	Dan.4:34	Dan.4:34.0-3 [=4:34.1-3]	Dan.4:37.0-3 [=4:37.1-3]	Dan.4:34	Dan.4:37		
+OneToOne	Dan.4:37	Dan.4:34	Dan.4:34	Dan.4:34.0-3 [=Dan.4:34.1-3]	Dan.4:37.0-3 [=Dan.4:37.1-3]	Dan.4:34	Dan.4:37		
 
 $Dan.5:31-6:28	English	Hebrew	Latin	Greek	
 TEST: If...	Dan.6:28=Last	Dan.6:29=Last	Dan.6:28=Last	Dan.6:29=Last			
@@ -2830,7 +2830,7 @@ TextMayBeMissing	Mrk.15:28	Absent [=Luk.22:37]	Mrk.15:28
 
 $Mrk.16:9-20	English	Greek	Greek2
 TEST: If...	Mrk.16:8=Last	Mrk.16:8=Last	Mrk.16:20=Last
-PassageMissing	Mrk.16:8	Mrk 16:9 [=16.9-20]	Mrk.16:9 [=16.9-20]
+PassageMissing	Mrk.16:8	Mrk 16:9 [=Mrk.16.9-20]	Mrk.16:9 [=Mrk.16.9-20]
 
 $Luk.17:36	English	Greek	Greek2
 TEST: If...	Luk.17:36=NotExist	Luk.17:36=NotExist	Luk.17:36=Exist
@@ -2850,7 +2850,7 @@ TextMayBeMissing	Jhn.5:4	Absent	Jhn.5:4
 
 $Jhn.7:38-8:11	English	Greek	Greek2
 TEST: If...	Jhn.8:1=NotExist	Jhn.8:1=NotExist	Jhn.8:1=Exist
-PassageMissing	Jhn.7:53	Jhn.7:53 [=7:53-8:11]	Jhn.7:53 [=7:53-8:11]
+PassageMissing	Jhn.7:53	Jhn.7:53 [=Jhn.7:53-8:11]	Jhn.7:53 [=Jhn.7:53-8:11]
 
 $Act.7:55-7:60	English	Latin	Greek	
 TEST: If...	Act.7:60=Last	Act.7:59=Last	Act.7:60=Last	
@@ -4862,8 +4862,8 @@ Hebrew+Greek	2Sa.19:42	2Sa.19:41	Renumber verse	Nec. [42]	%Normally in this Bibl
 Hebrew+Greek	2Sa.19:43	2Sa.19:42	Renumber verse	Nec. [43]	%Normally in this Bible the verse numbering here is% 19:43.		(Hebrew=19:43 • Latin=19:42 • Greek=19:43)	2Sa.19:44=Last	
 Hebrew+Greek	2Sa.19:44	2Sa.19:43	Renumber verse	Nec. [44]	%Normally in this Bible the verse numbering here is% 19:44.		(Hebrew=19:44 • Latin=19:43 • Greek=19:44)	2Sa.19:44=Last	
 
-English+Latin	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.		(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
-English+Latin	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.		(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
+English+Latin	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles similar text is found at% 2:35k-m.		(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k-m])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
+English+Latin	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles similar text is found at% 2:35n.		(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
 English+Latin	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
 English+Latin	1Ki.2:46	1Ki.2:46	Keep verse	Acd. [46,a-k]	%In some Bibles the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21, 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21, 24-26])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
 English+Latin	1Ki.3:1	1Ki.3:1	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 5:14a.		(Hebrew=3:1 • Latin=3:1 • Greek=5:14a)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
@@ -4902,10 +4902,10 @@ English+Latin	1Ki.5:14	1Ki.5:14	Keep verse	Acd. [28]	%In some Bibles the verse n
 English+Latin	1Ki.5:15	1Ki.5:15	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 5:29.		(Hebrew=5:29 • Latin=5:15 • Greek=5:29)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
 English+Latin	1Ki.5:16	1Ki.5:16	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 5:30.		(Hebrew=5:30 • Latin=5:16 • Greek=5:30)	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
 English+Latin	1Ki.7:23	1Ki.7:23	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:34=Last & 1Ki.2:35.1=NotExist & 1Ki.2:33>1Ki.2:35	
-Greek	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.		(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.		(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.2:46.0	1Ki.2:46	Keep verse	Acd. [46,a-k]	%In some Bibles the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21, 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21, 24-26])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.2:8	1Ki.2:8.0	Keep verse	Acd. [35k]	%Normally in this Bible similar text is found at% 2:35k-m.		(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.2:9	1Ki.2:9.0	Keep verse	Acd. [35n]	%Normally in this Bible similar text is found at% 2:35n.		(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.2:35.0	1Ki.2:35	Keep verse	Acd. [35,a-n]	%Normally in this Bible the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.2:46.0	1Ki.2:46	Keep verse	Acd. [46,a-k]	%Normally in this Bible the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21, 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21, 24-26])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.2:46.1	1Ki.4:20.1	Renumber verse	Nec. [2:46a]	%Normally in this Bible the verse numbering here is% 2:46a.		(Hebrew=4:20 • Latin=4:20 • Greek=2:46a)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.2:46.2	1Ki.4:20.2	Renumber verse	Nec. [2:46b]	%Normally in this Bible the verse numbering here is% 2:46b.		(Hebrew=4:20 • Latin=4:20 • Greek=2:46b)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.2:46.3	1Ki.4:20.3	Renumber verse	Nec. [2:46c]	%Normally in this Bible the verse numbering here is% 2:46c.		(Hebrew=4:20 • Latin=4:20 • Greek=2:46c)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
@@ -4924,8 +4924,9 @@ Greek	1Ki.5:1	1Ki.4:27	Renumber verse	Nec. [27-28]	%Normally in this Bible this 
 Greek	1Ki.5:1	1Ki.4:28	Merged with	Nec. [5:1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:2	1Ki.4:22	Renumber verse	Nec. [5:2]	%Normally in this Bible the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=4:22 • Greek=5:2)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:3	1Ki.4:23	Renumber verse	Nec. [5:3]	%Normally in this Bible the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=4:23 • Greek=5:3)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.5:4	1Ki.4:24	Renumber verse	Nec. [5:4]	%Normally in this Bible the verse numbering here is% 5:4 [2:46f].		(Hebrew=5:4 • Latin=4:24 • Greek=5:4[=2:46f])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.5:9	1Ki.4:29	Renumber verse	Nec. [5:9]	%Normally in this Bible the verse numbering here is% 5:9 [2:35a].		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35a])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.5:4	1Ki.4:24.0	Renumber verse	Nec. [5:4]	%Normally in this Bible the verse numbering here is% 5:4.		(Hebrew=5:4 • Latin=4:24 • Greek=5:4[=2:46f])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.2:46.6	1Ki.4:24.1	Renumber verse	Nec. [2:46e]	%Normally in this Bible, similar text is found at% 2:46.1.		(Hebrew=5:4 • Latin=4:24 • Greek=5:4[=2:46f])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.5:9	1Ki.4:29.0	Renumber verse	Nec. [5:9]	%Normally in this Bible the verse numbering here is% 5:9 [2:35a].		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35a])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:10	1Ki.4:30	Renumber verse	Nec. [5:10]	%Normally in this Bible the verse numbering here is% 5:10 [2:35b].		(Hebrew=5:10 • Latin=4:30 • Greek=5:10[=2:35b])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:11	1Ki.4:31	Renumber verse	Nec. [5:11]	%Normally in this Bible the verse numbering here is% 5:11.		(Hebrew=5:11 • Latin=4:31 • Greek=5:11)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:12	1Ki.4:32	Renumber verse	Nec. [5:12]	%Normally in this Bible the verse numbering here is% 5:12.		(Hebrew=5:12 • Latin=4:32 • Greek=5:12)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
@@ -4947,7 +4948,9 @@ Greek	1Ki.5:26	1Ki.5:12	Renumber verse	Nec. [26]	%Normally in this Bible the ver
 Greek	1Ki.5:27	1Ki.5:13	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 5:27.		(Hebrew=5:27 • Latin=5:13 • Greek=5:27)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:28	1Ki.5:14	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 5:28.		(Hebrew=5:28 • Latin=5:14 • Greek=5:28)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:29	1Ki.5:15	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 5:29 [2:35d].		(Hebrew=5:29 • Latin=5:15 • Greek=5:29[=2:35d])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.5:30	1Ki.5:16	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 5:30 [2:35h].		(Hebrew=5:30 • Latin=5:16 • Greek=5:30[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.5:30	1Ki.5:16.1	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 5:30 [2:35h].		(Hebrew=5:30a • Latin=5:16a • Greek=5:30[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.5:31	1Ki.5:16.2	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31 [2:35h].	%In some Bibles this verse may not contain any text%	(Hebrew=5:30b • Latin=5:16b • Greek=5:31[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.5:32	1Ki.5:16.3	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 5:32 [2:35h].		(Hebrew=5:30c • Latin=5:16c • Greek=5:32[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.7:10	1Ki.7:23	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 GreekUndivided	1Ki.2:8	1Ki.2:8	Merged with	Nec. [35k]	%Normally in this Bible some text may be missing here because it is merged with% 2:35.	%The extra words are found at% 2:35k.	(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.2:9	1Ki.2:9	Merged with	Nec. [35n]	%Normally in this Bible some text may be missing here because it is merged with% 2:35.	%The extra words are found at% 2:35n.	(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
@@ -4985,10 +4988,12 @@ GreekUndivided	1Ki.5:26	1Ki.5:12	Renumber verse	Nec. [26]	%Normally in this Bibl
 GreekUndivided	1Ki.5:27	1Ki.5:13	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 5:27.		(Hebrew=5:27 • Latin=5:13 • Greek=5:27)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.5:28	1Ki.5:14	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 5:28.		(Hebrew=5:28 • Latin=5:14 • Greek=5:28)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.5:29	1Ki.5:15	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 5:29 [2:35d].		(Hebrew=5:29 • Latin=5:15 • Greek=5:29[=2:35d])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
-GreekUndivided	1Ki.5:30	1Ki.5:16	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 5:30 [2:35h].		(Hebrew=5:30 • Latin=5:16 • Greek=5:30[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
+GreekUndivided	1Ki.5:30	1Ki.5:16.1	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 5:30 [2:35h].		(Hebrew=5:30a • Latin=5:16a • Greek=5:30[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
+GreekUndivided	1Ki.5:31	1Ki.5:16.2	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31 [2:35h].	%In some Bibles this verse may not contain any text%	(Hebrew=5:30b • Latin=5:16b • Greek=5:31[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
+GreekUndivided	1Ki.5:32	1Ki.5:16.3	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 5:32 [2:35h].		(Hebrew=5:30c • Latin=5:16c • Greek=5:32[=2:35h])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.7:10	1Ki.7:23	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 7:10.	%The extra words are found at% 2:35e.	(Hebrew=7:23 • Latin=7:23 • Greek=7:10[=2:35e])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
-Hebrew	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles the verse numbering here is% 2:35k.	%The extra words are found at% 2:35k.	(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
-Hebrew	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles the verse numbering here is% 2:35n.	%The extra words are found at% 2:35n.	(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.2:8	1Ki.2:8	Keep verse	Acd. [35k]	%In some Bibles similar text is found at% 2:35k-m.	%The extra words are found at% 2:35k.	(Hebrew=2:8 • Latin=2:8 • Greek=2:8[=2:35k])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
+Hebrew	1Ki.2:9	1Ki.2:9	Keep verse	Acd. [35n]	%In some Bibles similar text is found at% 2:35n.	%The extra words are found at% 2:35n.	(Hebrew=2:9 • Latin=2:9 • Greek=2:9[=2:35n])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
 Hebrew	1Ki.2:35	1Ki.2:35	Keep verse	Acd. [35,a-n]	%In some Bibles the verse numbering here is% 2:35, 35a-n.	%The extra words are found at% 4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9.	(Hebrew=2:35 • Latin=2:35 • Greek=2:35, 35a-n[+4:29-30; 3:1; 5:15; 7:23; 9:23-25; 2:8-9])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
 Hebrew	1Ki.2:46	1Ki.2:46	Keep verse	Acd. [46,a-k]	%In some Bibles the verse numbering here is% 2:46, 46a-k.	%The extra words are found at% 4:20-21, 24-26.	(Hebrew=2:46 • Latin=2:46 • Greek=2:46, 46a-k[+4:20-21, 24-26])	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
 Hebrew	1Ki.3:1	1Ki.3:1	Keep verse	Acd. [14a]	%In some Bibles the verse numbering here is% 5:14a.		(Hebrew=3:1 • Latin=3:1 • Greek=5:14a)	1Ki.4:20=Last & 1Ki.2:33>1Ki.2:35 & 1Ki.2:35.1=NotExist	
@@ -5164,7 +5169,7 @@ English+Hebrew+Latin	1Ki.9:20	1Ki.9:20	Keep verse	Acd. [22b]	%In some Bibles the
 English+Hebrew+Latin	1Ki.9:21	1Ki.9:21	Keep verse	Acd. [22b]	%In some Bibles the verse numbering here is% 10:22b.	%This verse may not contain any text%.	(Hebrew=9:21 • Latin=9:21 • Greek=10:22b2)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.9:22	1Ki.9:22	Keep verse	Acd. [22c]	%In some Bibles the verse numbering here is% 10:22c.	%This verse may not contain any text%.	(Hebrew=9:22 • Latin=9:22 • Greek=10:22c)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.9:23	1Ki.9:23	Keep verse	Acd. [35h-j]	%In some Bibles the verse numbering here is% 2:35h-j.	%This verse may not contain any text%.	(Hebrew=9:23 • Latin=9:23 • Greek=2:35h-j)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
-English+Hebrew+Latin	1Ki.9:24	1Ki.9:24	Keep verse	Acd. [35f]	%In some Bibles the verse numbering here is% 2:35c.	%This verse may not contain any text%.	(Hebrew=9:24 • Latin=9:24 • Greek=2:35f)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:24	1Ki.9:24	Keep verse	Acd. [35f]	%In some Bibles the verse numbering here is% 2:35f.	%This verse may not contain any text%.	(Hebrew=9:24 • Latin=9:24 • Greek=2:35f)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.9:25	1Ki.9:25	Keep verse	Acd. [35g]	%In some Bibles the verse numbering here is% 2:35g.	%This verse may not contain any text%.	(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.10:22	1Ki.10:22	Keep verse	Acd. [22,a-c]	%In some Bibles the verse numbering here is% 10:22, 22a-c.	%The extra words are found at% 9:15, 17-22.	(Hebrew=10:22 • Latin=10:22 • Greek=10:22, 22a-c[+9:15, 17-22])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.10:26	1Ki.10:26	Keep verse	Acd. [26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%The extra words are found at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
@@ -5180,12 +5185,22 @@ Greek	1Ki.9:19	1Ki.9:19	Merged with	Nec. [0]	%Normally in this Bible some text m
 Greek	1Ki.9:20	1Ki.9:20	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 10:22.		(Hebrew=9:20 • Latin=9:20 • Greek=10:22b)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:21	1Ki.9:21	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 10:22.		(Hebrew=9:21 • Latin=9:21 • Greek=10:22b)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:22	1Ki.9:22	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 10:22.		(Hebrew=9:22 • Latin=9:22 • Greek=10:22c)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.6	1Ki.9:24	Renumber verse	Nec. [2:35f]	%Normally in this Bible the verse numbering here is% 2:35c.	%The extra words are found at% 9:9c.	(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.7	1Ki.9:25	Renumber verse	Nec. [2:35g]	%Normally in this Bible the verse numbering here is% 2:35g.		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.1	1Ki.4:29.1	Renumber verse	Nec. [35a]	%Normally in this Bible similar text is found at% 2:35.1		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.2	1Ki.4:29.2	Renumber verse	Nec. [35b]	%Normally in this Bible similar text is found at% 2:35.2		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35b])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.3	1Ki.4:29.3	Renumber verse	Nec. [35c]	%Normally in this Bible similar text is found at% 2:35.3		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35c])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.4	1Ki.4:29.4	Renumber verse	Nec. [35d]	%Normally in this Bible similar text is found at% 2:35.4		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35d])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.5	1Ki.4:29.5	Renumber verse	Nec. [35e]	%Normally in this Bible similar text is found at% 2:35.5		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35e])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.6	1Ki.9:24.0	Renumber verse	Nec. [35f]	%Normally in this Bible the verse numbering here is% 2:35f.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.9:9.1	1Ki.9:24.1	Renumber verse	Nec. [9a]	%Normally in this Bible similar text is found at% 9:9a.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.7	1Ki.9:25	Renumber verse	Nec. [35g]	%Normally in this Bible the verse numbering here is% 2:35g.		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:23	1Ki.9:23.1	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 2:35.		(Hebrew=9:23 • Latin=9:23 • Greek=2:35i-k)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.8	1Ki.9:23.1	Renumber verse	Nec. [2:35h]	%Normally in this Bible the verse numbering here is% 2:35h.		(Hebrew=9:23a • Latin=9:23a • Greek=2:35h)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.9	1Ki.9:23.2	Renumber verse	Nec. [2:35i]	%Normally in this Bible the verse numbering here is% 2:35i.		(Hebrew=9:23b • Latin=9:23b • Greek=2:35i)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.10	1Ki.9:23.3	Renumber verse	Nec. [2:35j]	%Normally in this Bible the verse numbering here is% 2:35j.		(Hebrew=9:23c • Latin=9:23c • Greek=2:35j)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.8	1Ki.9:23.1	Renumber verse	Nec. [35h]	%Normally in this Bible the verse numbering here is% 2:35h.		(Hebrew=9:23a • Latin=9:23a • Greek=2:35h)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.9	1Ki.9:23.2	Renumber verse	Nec. [35i]	%Normally in this Bible the verse numbering here is% 2:35i.		(Hebrew=9:23b • Latin=9:23b • Greek=2:35i)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.10	1Ki.9:23.3	Renumber verse	Nec. [35j]	%Normally in this Bible the verse numbering here is% 2:35j.		(Hebrew=9:23c • Latin=9:23c • Greek=2:35j)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.11	1Ki.2:8.1	Renumber verse	Nec. [35k]	%Normally in this Bible similar text is found at% 2:35.11		(Hebrew=2:8 • Latin=2:8 • Greek=2:8a[=2:35k])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.12	1Ki.2:8.2	Renumber verse	Nec. [35l]	%Normally in this Bible similar text is found at% 2:35.12		(Hebrew=2:8 • Latin=2:8 • Greek=2:8b[=2:35l])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.13	1Ki.2:8.3	Renumber verse	Nec. [35m]	%Normally in this Bible similar text is found at% 2:35.13		(Hebrew=2:8 • Latin=2:8 • Greek=2:8c[=2:35m])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.14	1Ki.2:9.1	Renumber verse	Nec. [35n]	%Normally in this Bible similar text is found at% 2:35.14		(Hebrew=2:8 • Latin=2:8 • Greek=2:9[=2:35n])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:24	1Ki.9:24	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 2:35.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:25	1Ki.9:25	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 2:35.		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.10:22.0	1Ki.10:22	Keep verse	Acd. [22٠]	%Normally in this Bible this verse includes words that are at% 9:15, 17-22.		(Hebrew=10:22 • Latin=10:22 • Greek=10:22, 22٠)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
@@ -5526,8 +5541,6 @@ Greek	1Ki.21:42	1Ki.20:42	Renumber verse	Nec. [21:42]	%Normally in this Bible th
 Greek	1Ki.21:43	1Ki.20:43	Renumber verse	Nec. [21:43]	%Normally in this Bible the verse numbering here is% 21:43.		(Hebrew=20:43 • Latin=20:43 • Greek=21:43)	1Ki.20:29=Last	
 
 English	1Ki.16:28	1Ki.16:28	Keep verse	Acd. [28,a-h]	%In some Bibles the verse numbering here is% 16:28, 28a-h.	%The extra words are found at% 22:41-50.	(Hebrew=16:28 • Latin=16:28 • Greek=16:28, 28a-h[+22:41-50])	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-English	1Ki.22:41	1Ki.22:41	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.		(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a1])	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-English	1Ki.22:42	1Ki.22:42	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.		(Hebrew=22:42 • Latin=22:42 • Greek=22:42[=16:28a2])	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 English	1Ki.22:43	1Ki.22:43	Keep verse	Acd. [43-44]	%In some Bibles the verse numbering here is% 22:43-44.		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:43-44)	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 English	1Ki.22:44	1Ki.22:44	Keep verse	Acd. [45]	%In some Bibles the verse numbering here is% 22:45.		(Hebrew=22:45 • Latin=22:45 • Greek=22:45)	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 English	1Ki.22:45	1Ki.22:45	Keep verse	Acd. [46]	%In some Bibles the verse numbering here is% 22:46.		(Hebrew=22:46 • Latin=22:46 • Greek=22:46)	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
@@ -5539,28 +5552,31 @@ English	1Ki.22:50	1Ki.22:50	Keep verse	Acd. [51]	%In some Bibles the verse numbe
 English	1Ki.22:51	1Ki.22:51	Keep verse	Acd. [52]	%In some Bibles the verse numbering here is% 22:52.		(Hebrew=22:52 • Latin=22:52 • Greek=22:52)	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 English	1Ki.22:52	1Ki.22:52	Keep verse	Acd. [53]	%In some Bibles the verse numbering here is% 22:53.		(Hebrew=22:53 • Latin=22:53 • Greek=22:53)	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 English	1Ki.22:53	1Ki.22:53	Keep verse	Acd. [54]	%In some Bibles the verse numbering here is% 22:54.		(Hebrew=22:54 • Latin=22:54 • Greek=22:54)	1Ki.22:53=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-Greek	1Ki.16:28.0	1Ki.16:28	Keep verse	Acd. [28٠]	%Normally in this Bible this verse includes words that are at% 22:41-50.		(Hebrew=16:28 • Latin=16:28 • Greek=16:28, 28٠)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.16:28.4	1Ki.22:46	Renumber verse	Nec. [16:28d]	%Normally in this Bible the verse numbering here is% 16:28d.		(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.16:28.5	1Ki.22:47	Renumber verse	Nec. [16:28e]	%Normally in this Bible the verse numbering here is% 16:28e.		(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.16:28.6	1Ki.22:48	Renumber verse	Nec. [16:28f]	%Normally in this Bible the verse numbering here is% 16:28f.		(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.16:28.7	1Ki.22:49	Renumber verse	Nec. [16:28g]	%Normally in this Bible the verse numbering here is% 16:28g.		(Hebrew=22:50 • Latin=22:50 • Greek=16:28g)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.22:41	1Ki.22:41	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.		(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a1])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.22:42	1Ki.22:42	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.		(Hebrew=22:42 • Latin=22:42 • Greek=22:42[=16:28a2])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.22:43	1Ki.22:43.1	Renumber verse	Nec. [43]	%In some Bibles the verse numbering here is% 22:43-44 [16:28b].		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:43[=16:28b1])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.22:44	1Ki.22:43.2	Renumber verse	Nec. [44]	%In some Bibles the verse numbering here is% 22:44 [16:28b].		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:44[=16:28b2])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.22:41	1Ki.22:41.0	Keep verse	Acd. [+]	%Normally in this Bible similar text is found at% 16:28a.		(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.1	1Ki.22:41.1	Keep verse	Acd. [28a]	%Normally in this Bible the verse numbering here is% 16:28a.		(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.22:43	1Ki.22:43.1	Renumber verse	Nec. [43]	%In some Bibles the verse numbering here is% 22:43-44.		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:43[=16:28b])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.22:44	1Ki.22:43.2	Renumber verse	Nec. [44]	%In some Bibles the verse numbering here is% 22:44.		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:44[=16:28b])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.2	1Ki.22:43.3	Renumber verse	Acd. [28b]	%Normally in this Bible similar text is found at% 16:28b.		(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28b])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 Greek	1Ki.22:45	1Ki.22:44	Renumber verse	Nec. [45]	%Normally in this Bible the verse numbering here is% 22:45.		(Hebrew=22:45 • Latin=22:45 • Greek=22:45)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.22:46	1Ki.22:45	Renumber verse	Nec. [46]	%Normally in this Bible the verse numbering here is% 22:46 [16:28c].		(Hebrew=22:46 • Latin=22:46 • Greek=22:46[=16:28c])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
-Greek	1Ki.22:51	1Ki.22:50	Renumber verse	Nec. [51]	%Normally in this Bible the verse numbering here is% 22:51 [16:28h].		(Hebrew=22:51 • Latin=22:51 • Greek=22:51[=16:28h])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.22:46	1Ki.22:45.0	Renumber verse	Nec. [46]	%Normally in this Bible the verse numbering here is% 22:46.		(Hebrew=22:46 • Latin=22:46 • Greek=22:46[=16:28c])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.3	1Ki.22:45.1	Renumber verse	Nec. [28c]	%Normally in this Bible similar text is found at% 16:28c.		(Hebrew=22:46 • Latin=22:46 • Greek=22:46[=16:28c])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.0	1Ki.16:28	Keep verse	Acd. [28٠]	%Normally in this Bible this verse includes words that are at% 22:41-50.		(Hebrew=16:28 • Latin=16:28 • Greek=16:28, 28٠)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.4	1Ki.22:46	Renumber verse	Nec. [28d]	%Normally in this Bible the verse numbering here is% 16:28d.		(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.5	1Ki.22:47	Renumber verse	Nec. [28e]	%Normally in this Bible the verse numbering here is% 16:28e.		(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.6	1Ki.22:48	Renumber verse	Nec. [28f]	%Normally in this Bible the verse numbering here is% 16:28f.		(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.7	1Ki.22:49	Renumber verse	Nec. [28g]	%Normally in this Bible the verse numbering here is% 16:28g.		(Hebrew=22:50 • Latin=22:50 • Greek=16:28g)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.22:51	1Ki.22:50.0	Renumber verse	Nec. [51]	%Normally in this Bible the verse numbering here is% 22:51		(Hebrew=22:51 • Latin=22:51 • Greek=22:51[=16:28h])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
+Greek	1Ki.16:28.8	1Ki.22:50.1	Renumber verse	Nec. [28h]	%Normally in this Bible similar text is found at% 16:28h.		(Hebrew=22:51 • Latin=22:51 • Greek=22:51[=16:28h])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 Greek	1Ki.22:52	1Ki.22:51	Renumber verse	Nec. [52]	%Normally in this Bible the verse numbering here is% 22:52.		(Hebrew=22:52 • Latin=22:52 • Greek=22:52)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 Greek	1Ki.22:53	1Ki.22:52	Renumber verse	Nec. [53]	%Normally in this Bible the verse numbering here is% 22:53.		(Hebrew=22:53 • Latin=22:53 • Greek=22:53)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 Greek	1Ki.22:54	1Ki.22:53	Renumber verse	Nec. [54]	%Normally in this Bible the verse numbering here is% 22:54.		(Hebrew=22:54 • Latin=22:54 • Greek=22:54)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=Exist	
 GreekUndivided	1Ki.16:28	1Ki.16:28	Keep verse	Acd. [28,a-h]	%In some Bibles the verse numbering here is% 16:28, 28a-h.	%The extra words are found at% 22:41-50.	(Hebrew=16:28 • Latin=16:28 • Greek=16:28, 28a-h[+22:41-50])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
-GreekUndivided	1Ki.22:41	1Ki.22:41	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.		(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a1])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
-GreekUndivided	1Ki.22:42	1Ki.22:42	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.		(Hebrew=22:42 • Latin=22:42 • Greek=22:42[=16:28a2])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
-GreekUndivided	1Ki.22:43	1Ki.22:43.1	Renumber verse	Nec. [43]	%In some Bibles the verse numbering here is% 22:43-44 [16:28b].		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:43[=16:28b1])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
-GreekUndivided	1Ki.22:44	1Ki.22:43.2	Renumber verse	Nec. [44]	%In some Bibles the verse numbering here is% 22:44 [16:28b].		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:44[=16:28b2])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+GreekUndivided	1Ki.22:41	1Ki.22:41	Keep verse	Acd. [28a]	%In some Bibles similar text is found at% 16:28a.		(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a1])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+GreekUndivided	1Ki.22:42	1Ki.22:42	Keep verse	Acd. [28a]	%In some Bibles similar text is found at% 16:28a.		(Hebrew=22:42 • Latin=22:42 • Greek=22:42[=16:28a2])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+GreekUndivided	1Ki.22:43	1Ki.22:43.1	Renumber verse	Nec. [43]	%In some Bibles the verse numbering here is% 22:43-44 [=16:28b].		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:43[=16:28b1])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+GreekUndivided	1Ki.22:44	1Ki.22:43.2	Renumber verse	Nec. [44]	%In some Bibles the verse numbering here is% 22:44 [=16:28b].		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:44[=16:28b2])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 GreekUndivided	1Ki.22:45	1Ki.22:44	Renumber verse	Nec. [45]	%Normally in this Bible the verse numbering here is% 22:45.		(Hebrew=22:45 • Latin=22:45 • Greek=22:45)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
-GreekUndivided	1Ki.22:46	1Ki.22:45	Renumber verse	Nec. [46]	%Normally in this Bible the verse numbering here is% 22:46 [16:28c].		(Hebrew=22:46 • Latin=22:46 • Greek=22:46[=16:28c])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
+GreekUndivided	1Ki.22:46	1Ki.22:45	Renumber verse	Nec. [46]	%Normally in this Bible the verse numbering here is% 22:46 [=16:28c].		(Hebrew=22:46 • Latin=22:46 • Greek=22:46[=16:28c])	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 GreekUndivided	1Ki.22:46	1Ki.22:46	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 16:28.		(Hebrew=22:47 • Latin=22:47 • Greek=16:28d)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 GreekUndivided	1Ki.22:47	1Ki.22:47	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 16:28.		(Hebrew=22:48 • Latin=22:48 • Greek=16:28e)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 GreekUndivided	1Ki.22:48	1Ki.22:48	Merged with	Nec. [0]	%Normally in this Bible some text may be missing here because it is merged with% 16:28.		(Hebrew=22:49 • Latin=22:49 • Greek=16:28f)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
@@ -5570,8 +5586,8 @@ GreekUndivided	1Ki.22:52	1Ki.22:51	Renumber verse	Nec. [52]	%Normally in this Bi
 GreekUndivided	1Ki.22:53	1Ki.22:52	Renumber verse	Nec. [53]	%Normally in this Bible the verse numbering here is% 22:53.		(Hebrew=22:53 • Latin=22:53 • Greek=22:53)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 GreekUndivided	1Ki.22:54	1Ki.22:53	Renumber verse	Nec. [54]	%Normally in this Bible the verse numbering here is% 22:54.		(Hebrew=22:54 • Latin=22:54 • Greek=22:54)	1Ki.22:54=Last & 1Ki.16:28>1Ki.16:34 & 1Ki.16:28.1=NotExist	
 Hebrew+Latin	1Ki.16:28	1Ki.16:28	Keep verse	Acd. [28,a-h]	%In some Bibles the verse numbering here is% 16:28, 28a-h.	%The extra words are found at% 22:41-50.	(Hebrew=16:28 • Latin=16:28 • Greek=16:28, 28a-h[+22:41-50])	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-Hebrew+Latin	1Ki.22:41	1Ki.22:41	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.	%The extra words are found at% 16:28a.	(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a1])	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
-Hebrew+Latin	1Ki.22:42	1Ki.22:42	Keep verse	Acd. [28a]	%In some Bibles the verse numbering here is% 16:28a.	%The extra words are found at% 16:28a.	(Hebrew=22:42 • Latin=22:42 • Greek=22:42[=16:28a2])	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
+Hebrew+Latin	1Ki.22:41	1Ki.22:41	Keep verse	Acd. [28a]	%In some Bibles similar text is found at% 16:28a.	%The extra words are found at% 16:28a.	(Hebrew=22:41 • Latin=22:41 • Greek=22:41[=16:28a1])	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
+Hebrew+Latin	1Ki.22:42	1Ki.22:42	Keep verse	Acd. [28a]	%In some Bibles similar text is found at% 16:28a.	%The extra words are found at% 16:28a.	(Hebrew=22:42 • Latin=22:42 • Greek=22:42[=16:28a2])	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 Hebrew+Latin	1Ki.22:43	1Ki.22:43.1	Renumber verse	Nec. [43]	%In some Bibles the verse numbering here is% 22:43-44.		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:43-44)	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 Hebrew+Latin	1Ki.22:44	1Ki.22:43.2	Renumber verse	Nec. [44]	%Normally in this Bible the verse numbering here is% 22:44.		(Hebrew=22:43-44 • Latin=22:43-44 • Greek=22:43-44)	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
 Hebrew+Latin	1Ki.22:45	1Ki.22:44	Renumber verse	Nec. [45]	%Normally in this Bible the verse numbering here is% 22:45.		(Hebrew=22:45 • Latin=22:45 • Greek=22:45)	1Ki.22:54=Last & 1Ki.16:28<1Ki.16:34 & 1Ki.16:28.1=NotExist	
@@ -22971,6 +22987,8 @@ Phrases and Abbreviatinos to translate to different languages:
 %Normally in this Bible this verse includes words that are at% REF
 %The extra words are found at% REF
 %This verse may include words that are alternatively at% REF
+%Normally in this Bible similar text is found at% REF
+%In some Bibles similar text is found at% REF
 %In some Bibles this verse may contain text similar to% REF
 %Some manuscripts have no text here. Others have text similar to% REF
 %Some manuscripts have no text at% REF
