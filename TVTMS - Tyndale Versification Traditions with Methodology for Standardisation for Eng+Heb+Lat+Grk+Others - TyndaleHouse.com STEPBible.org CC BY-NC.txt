@@ -1927,6 +1927,12 @@ DuplicateTarget	Gen.5:31	Gen.5:31	Gen.5:31.1	Gen.5:31	Gen.5:31	Gen.5:31
 DuplicateTarget	Gen.5:32	Gen.5:32	Gen.5:31.2	Gen.6:1.1	Gen.6:1	Absent			
 DuplicateTarget	Gen.6:1	Gen.6:1	Gen.6:1	Gen.6:1.2	Absent	Gen.6:1			
 
+$Bar.3:34-38	English	Latin	Greek		
+TEST: If...	Bar.3:37=Last 	Bar.3:38=Last	Bar.3:38=Last	 		
+Concatenation	Bar.3:34	Bar.3:34-35	Bar.3:34-35			
+OneToOne	Bar.3:35-37	Bar.3:36-38	Bar.3:36-38			
+			
+
 $Bar.6:1-6:73	English	Latin	Greek	Greek2	
 TEST: If...	Bar.6:73=Last 	Bar.6:72=Last	LJe.1:72=Last	LJe.1:73=Last 		
 OneToOne	Bar.6:1-49	Bar.6:1-49	LJe.1:1-49	LJe.1:1-49		
@@ -18382,6 +18388,16 @@ Hebrew	Mal.3:21	Mal.4:3	Renumber verse	Nec. [3:21]	%Normally in this Bible the v
 Hebrew	Mal.3:22	Mal.4:4	Renumber verse	Nec. [3:22]	%Normally in this Bible the verse numbering here is% 3:22.		(Hebrew=3:22 • Latin=4:4 • Greek=4:5)	Mal.3:24=Last & Mal.3:23<Mal.3:24	
 Hebrew	Mal.3:23	Mal.4:5	Renumber verse	Nec. [3:23]	%Normally in this Bible the verse numbering here is% 3:23.		(Hebrew=3:23 • Latin=4:5 • Greek=4:6)	Mal.3:24=Last & Mal.3:23<Mal.3:24	
 Hebrew	Mal.3:24	Mal.4:6	Renumber verse	Nec. [3:24]	%Normally in this Bible the verse numbering here is% 3:24.		(Hebrew=3:24 • Latin=4:6 • Greek=4:4)	Mal.3:24=Last & Mal.3:23<Mal.3:24	
+
+English	Bar.3:34	Bar.3:34	Keep verse	Acd. [34-35]	%In some Bibles the verse numbering here is% 3:34-35.		(Latin=3:34-35 • Greek=3:34-35)	Bar.3:37=Last	
+English	Bar.3:35	Bar.3:35	Keep verse	Acd. [36]	%In some Bibles the verse numbering here is% 3:36.		(Latin=3:36 • Greek=3:36)	Bar.3:37=Last	
+English	Bar.3:36	Bar.3:36	Keep verse	Acd. [37]	%In some Bibles the verse numbering here is% 3:37.		(Latin=3:37 • Greek=3:37)	Bar.3:37=Last	
+English	Bar.3:37	Bar.3:37	Keep verse	Acd. [38]	%In some Bibles the verse numbering here is% 3:38.		(Latin=3:38 • Greek=3:38)	Bar.3:37=Last	
+Greek+Latin	Bar.3:34	Bar.3:34.1	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 3:34.		(Latin=3:34 • Greek=3:34)	Bar.3:38=Last	
+Greek+Latin	Bar.3:35	Bar.3:34.2	Renumber verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 3:35.		(Latin=3:35 • Greek=3:35)	Bar.3:38=Last	
+Greek+Latin	Bar.3:36	Bar.3:35	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 3:36.		(Latin=3:36 • Greek=3:36)	Bar.3:38=Last	
+Greek+Latin	Bar.3:37	Bar.3:36	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 3:37.		(Latin=3:37 • Greek=3:37)	Bar.3:38=Last	
+Greek+Latin	Bar.3:38	Bar.3:37	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% 3:38.		(Latin=3:38 • Greek=3:38)	Bar.3:38=Last	
 
 English	Bar.6:1	Bar.6:1	Keep verse	Acd. [1]	%In some Bibles this chapter is a separate book%.		(Latin=6:1 • Greek=1:1)	Bar.6:73=Last	
 English	Bar.6:2	Bar.6:2	Keep verse	Ped. [2]	%In some Bibles this chapter is a separate book%.		(Latin=6:2 • Greek=1:2)	Bar.6:73=Last	
