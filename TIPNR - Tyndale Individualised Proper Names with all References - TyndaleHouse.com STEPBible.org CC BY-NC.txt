@@ -14381,15 +14381,21 @@ Ziv@1Ki.6.1	Name of month #2
 
 
 NOTES
-@ marks the start of a field name
-Augmented Strongs numbers line up with the outine BDB of OpenScriptures and full BDB of Tyndale House. 
-For 2nd + 3rd occurrences of a name in the same verse, reference appended with "a", "b" etc.  - see e.g. Abel@Gen.4.2
-The original primary source was KJV, but this was changed to ESV 
+
+PEOPLE:
+
+Forms of names are collected from STEPBible data for KJV, ESV, NIV, Leningrad Hebrew (incl. Qere readings), NA+TR Greek NT. 
+Names are based on the most common form + the first ref where the individual occurs (where a different name may be used), eg Uzziah@2Ki.14.21 even though Uzziah is called "Azariah" in that verse
+ - except when the more common form is the NT Greek form (eg Zechariah@2Ch.24.20), or is the 'incorrect' form (eg Shadrach is more common than Hananiah)
+When a deliberate difference exists that should be reflected in the translation, the alternate is prefixed, eg Abram|Abraham@Gen.11.26, Jacob|Israel@Gen.25.26
+
+The exhaustive lists of refs were created from these texts. For 2nd + 3rd occurrences of a name in the same verse, reference appended with "a", "b" etc.  - see e.g. Abel@Gen.4.2
 Square bracketted [ref] is used for individuals who are not actually mentioned but are necessary to provide links between individuals, eg father of Barnabas and Mary: [Col.4.10]
-Data is based on the work at www.complete-bible-genealogy.com which was almost complete. The following are the main changes made:
-Added NIV & ESV variations to KJV, and changed to be based on ESV
-Added Greek, Hebrew & augmented Strongs tags
-Corrected the KJV orthography to a more standard form of the KJV (the original was based on 1769 ed by Dr Blayney of Oxford). 
+Extended Strongs numbers line up with the outine BDB of OpenScriptures and full BDB, and Full LSJ  - available at https://tyndale.github.io/STEPBible-Data/
+
+Genealogy relationships are based on analyses at complete-bible-genealogy.com. Another good source is marshallgenealogy.org/bible/index3.htm. 
+Some differences from these sources: 
+KJV orthography follows a standard form of the KJV (complete-bible-genealogy is based on 1769 ed by Dr Blayney of Oxford). 
 Inserted missing hyphens in about 70 names to match KJV, eg Bath-sheba, Ben-hadad, Ben-oni etc
 Added refs for: Titus, Job and a few others where missing; Shimeam: 1Ch.9.38; 
 Added individuals:  Cyrus@2Ch.36.22; Amminadib@Sng.6.12; Hushah@1Ch.4.4; Jorkeam@1Ch.2.44; Josheb-basshebet@2Sa.23.8; Machbenah@1Ch.2.49; Gibea@1Ch.2.49; Madmannah@1Ch.2.49; Nacon@2Sa.6.6; Shiloh@Gen.49.10; Shoa@Ezk.23.23; Crescens@2Ti.4.10; Hesed@1Ki.4.10; Abinadab@1Ki.4.11; 
@@ -14400,10 +14406,6 @@ Spelled Gesham@1Ch.2.47 as Geshan; Jeshuah@1Ch.24.11 as Jeshua; Nahari@2Sa.23.37
 Removed Ezar from ezer_235; 
 Separated Immanuel/Emmanuel from Jesus; Hermes/Mercurius from Paul; Jupiter from Barnabas; Jethro/Deuel; Judith@Gen.26.34/Oholibamah@Gen.36.2
 Linked Josiphiah@Ezr.8.10 as father of Shelomith@Ezr.8.10 (in acc with LXX and modern trans.)
-
-Names are based on the most common form + the first ref where the individual occurs (where a different name may be used), eg Uzziah@2Ki.14.21 even though Uzziah is called "Azariah" in that verse
- - except when the more common form is the NT Greek form (eg Zechariah@2Ch.24.20), or is the 'incorrect' form (eg Shadrach is more common than Hananiah)
-When a deliberate difference exists that should be reflected in the translation, the alternate is prefixed, eg Abram|Abraham@Gen.11.26, Jacob|Israel@Gen.25.26
 Also added: 
 People+Gentilics of people (or of unknown places):  Titius|Justus@Act.18.7; Nympha@Col.4.15; Bidkar@2Ki.9.25; Caesar|Augustus@Luk.2.1; Caesar|Claudius@Act.11.28; Caesar|Nero@Php.4.22; Caesar|Siloam@Neh.3.15; Carpus@2Ti.4.13; Chedorlaomer@Gen.14.1; Chimham@2Sa.19.37; Chloe@1Co.1.11; Claudia@2Ti.4.21; Claudius@Act.11.28; Claudius|Lysias@Act.23.26; Clement@Php.4.3; Cornelius@Act.10.1; Crispus@Act.18.8; Cushan-rishathaim@Jdg.3.8; Harim@Ezr.2.32; John@Mat.16.17; Quirinius@Luk.2.2; Salome@Mrk.15.40; Buzite@Job.32.2; Emim@Gen.14.5; Ezrahite@1Ki.4.31; Girzites@1Sa.27.8; Gizonite@1Ch.11.34; Goiim@Gen.14.1; Hararite@2Sa.23.11; Haruphite@1Ch.12.5; Horonite@Neh.2.10; Hushathite@2Sa.21.18; Ithrite@2Sa.23.38; Kadmonite@Gen.15.19; Kenite@Gen.15.19; Kenizzites@Gen.15.19; Mahavite@1Ch.11.46; Mecherathite@1Ch.11.36; Meholathite@1Sa.18.19; Menuhoth@1Ch.2.52; Meunite@1Ch.4.41; Mezobaite@1Ch.11.47; Mishraite@1Ch.2.53; Mithnite@1Ch.11.43; Naamathite@Job.2.11; Nehelam@Jer.29.24; Nephilim@Gen.6.4; Paltite|Pelonite@2Sa.23.26; Parthian@Act.2.9; Pelonite@2Sa.23.26; Perizzite@Gen.13.7; Puthite@1Ch.2.53; Ramathite@1Ch.27.27; Shiphmite@1Ch.27.27; Shuhite@Job.2.1; Shulammite@Sng.6.13; Shumathite@1Ch.2.53; Shunammite@1Ki.1.3; Sukkiim@2Ch.12.3; Tahchemonite|Hachmonite@2Sa.23.8; Timnite@Jdg.15.6; Tizite@1Ch.11.45; Zorathite@1Ch.2.53; Zuzim@Gen.14.5; 
 Title of Gentilic that is non-Geographical and non-Personal, or a leader: Rabbi@Mat.23.7; Baal@Hos.2.16; Asiarch@Act.19.31; Candace@Act.8.27; Nazirite@Num.6.2; Carite|Cherethite@2Sa.8.18; Freedmen@Act.6.9; Stoic@Act.17.18; Sadducee@Mat.3.7; Shimeathite@1Ch.2.55; Pharisee@Mat.3.7; Epicurean@Act.17.18; Nicolaitans@Rev.2.6; Sucathite@1Ch.2.55; Tirathite@1Ch.2.55; Raca@Mat.5.22; 
@@ -14411,6 +14413,7 @@ Title - Name of a month, festival, season or technical term: Elul@Neh.6.15; Puri
 Title - Musical term or song title: Selah@Psa.3.2; Sheminith@1Ch.15.21; Mahalath@Psa.53.1; Maskil@Psa.32.1; Higgaion@Psa.9.16; Gittith@Psa.8.1; Alamoth@1Ch.15.20; Miktam@Psa.16.1; Muth-labben@Psa.9.1; Shiggaion@Psa.7.1; Shigionoth@Hab.3.1; Shushan_Eduth@Psa.60.1; 
 Title - Name of a non-physical personage or place or monster: Sheol|Hell@Gen.37.35; Pit|Hell@Gen.37.35; Gehenna|Hell@Gen.37.35; Tatarus|Hell@Gen.37.35; Amon@Jer.46.25; Abaddon@Job.26.6; Abba@Mrk.14.36; El-berith@Jdg.9.46; Chemosh@Num.21.29; Azazel@Lev.16.8; Asherah@Exo.34.13; Ashima@2Ki.17.30; Ashtaroth@Jdg.2.13; Baal-berith@Jdg.8.33; Bel@Isa.46.1; Belial|Satan@Deu.13.13; El-Elohe-Israel@Gen.33.20; Eli@Mat.27.46; Nergal@2Ki.17.30; Nibhaz@2Ki.17.31; Nebo@Isa.46.1; Most_High@Gen.14.18; Merodach@Jer.50.2; Kiyyun@Amo.5.26; Nehushtan@2Ki.18.4; Nisroch@2Ki.19.37; Rimmon@2Ki.5.18; Succoth-benoth@2Ki.17.30; Tammuz@Ezk.8.14; Tartak@2Ki.17.31; Rahab@Job.9.13; Leviathan@Job.3.8; Behemoth@Job.40.15; Legion@Mrk.5.9; Hades|Hell@Gen.37.35; Sikkuth@Amo.5.26; Teraphim@Gen.31.19; Rephan@Act.7.43; 
 Title - misc: Aramaic@2Ki.18.26; Boaz@2Ch.3.17; Orion@Job.9.9; Pleiades@Job.9.9; Hosanna@Mat.21.9; Chronicles@1Ki.14.19; Jachin@1Ki.7.21; Judaism@Gal.1.13; Mazzaroth@Job.38.32; Messiah@Jhn.1.41; Omega@Rev.1.8; Shibboleth@Jdg.12.6; Urim@Exo.28.30; Thummim@Exo.28.30; 
+(and numerous other changes that haven't been logged). 
 	
 
 =========================================
