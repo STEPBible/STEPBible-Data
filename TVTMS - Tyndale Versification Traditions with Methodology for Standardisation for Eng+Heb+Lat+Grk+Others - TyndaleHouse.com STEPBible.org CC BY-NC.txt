@@ -2999,10 +2999,10 @@ English+Hebrew	Gen.5:32	Gen.5:32	Keep verse	Acd. [31b]	%In some Bibles the verse
 English+Hebrew	Gen.6:1	Gen.6:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Greek	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
 Greek	Gen.6:1	Gen.5:32	Renumber verse	Nec. [32-1]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
-Greek	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
+Greek	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be different here because it is merged with% 5:32.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
 GreekUndivided	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 GreekUndivided	Gen.6:1	Gen.5:32	Renumber verse	Nec. [32-1]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
-GreekUndivided	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
+GreekUndivided	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be different here because it is merged with% 5:32.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Latin	Gen.5:31	Gen.5:31	Keep verse	Nec. [31-32]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:31.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
 Latin	Gen.5:31	Gen.5:32	Merged with	Nec. [31b]	%Normally in this Bible some text may be missing here because it is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
 Latin	Gen.6:1	Gen.6:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
@@ -15420,7 +15420,7 @@ English+Latin+Greek	Isa.64:9	Isa.64:9	Keep verse	Acd. [8]	%In some Bibles the ve
 English+Latin+Greek	Isa.64:10	Isa.64:10	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 64:9.		(Hebrew=64:9 • Latin=64:10 • Greek=64:10)	Isa.64:12=Last	
 English+Latin+Greek	Isa.64:11	Isa.64:11	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 64:10.		(Hebrew=64:10 • Latin=64:11 • Greek=64:11)	Isa.64:12=Last	
 English+Latin+Greek	Isa.64:12	Isa.64:12	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 64:11.		(Hebrew=64:11 • Latin=64:12 • Greek=64:12)	Isa.64:12=Last	
-Hebrew	Isa.63:19	Isa.63:19	Keep verse	Nec. [19-64:1]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 63:19a.		(Hebrew=63:19 • Latin=63:19--64:1 • Greek=63:19--64:1)	Isa.64:11=Last & Isa.63:19.2=Exist	
+Hebrew	Isa.63:19	Isa.63:19	Keep verse	Nec. [19-64:1]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 63:19.		(Hebrew=63:19 • Latin=63:19--64:1 • Greek=63:19--64:1)	Isa.64:11=Last & Isa.63:19.2=Exist	
 Hebrew	Isa.63:19	Isa.64:1	Merged with	Nec. [63:19b]	%Normally in this Bible some text may be missing here because it is merged with% 63:19.		(Hebrew=63:19 • Latin=63:19--64:1 • Greek=63:19--64:1)	Isa.64:11=Last & Isa.63:19.2=Exist	
 Hebrew	Isa.64:1	Isa.64:2	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 64:1.		(Hebrew=64:1 • Latin=64:2 • Greek=64:2)	Isa.64:11=Last & Isa.63:19.2=Exist	
 Hebrew	Isa.64:2	Isa.64:3	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 64:2.		(Hebrew=64:2 • Latin=64:3 • Greek=64:3)	Isa.64:11=Last & Isa.63:19.2=Exist	
@@ -23017,8 +23017,8 @@ Phrases and Abbreviations to translate to different languages:
 %Normally in this Bible some text may be missing here because it is merged with% REF
 %Normally in this Bible some text may be different here because it is merged with% REF
 %Normally in this Bible this verse includes words that are at% REF
-%The extra words are found at% REF
 %This verse may include words that are alternatively at% REF
+%The extra words are found at% REF
 %Normally in this Bible similar text is found at% REF
 %In some Bibles similar text is found at% REF
 %In some Bibles this verse may contain text similar to% REF
