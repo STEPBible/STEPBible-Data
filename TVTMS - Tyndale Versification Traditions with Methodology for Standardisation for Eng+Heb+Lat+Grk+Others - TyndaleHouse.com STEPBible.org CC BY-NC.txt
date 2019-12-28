@@ -615,7 +615,8 @@ TEST: And if... 	Est.1:1>Est.1:10	Est.1:1<Est.1:10	Est.1:1<Est.1:10	Est.1:1>Est.
 TEST: And if... 	Est.A:1=NotExist	Est.A:1=NotExist	Est.A:1=Exist	Est.A:1=NotExist	Est.A:1=NotExist	Est.A:1=NotExist	Est.A:1=NotExist
 TEST: And if... 	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=NotExist	Est.11:2=Exist	Est.11:2=NotExist
 OneToOne	Est.1:1.0	Est.1:1	Est.1:1	Est.1:1.0	Est.1:1 [=+Est.11:2-12; 12:1-6]	Est.1:1	Est.1:1	
-LongVerse/LVExtra	Est.1:1.1-17	NoVerse	Est.A:1-17	Est.1:1.1-17	NoVerse	Est.11:2-12; 12:1-6	Est.1:2-18
+LongVerse/LVExtra	Est.1:1.1-16	NoVerse	Est.A:1-16	Est.1:1.1-16	NoVerse	Est.11:2-12; 12:1-5	Est.1:2-16
+Concatenation	Est.1:1.17	NoVerse	Est.A:17	Est.1:1.17	NoVerse	Est.12:7	Est.1:17-18
 OneToOne	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:2-22	Est.1:19-39	
 
 $Est.3:1-14	English	Hebrew	Latin	Greek	GreekUndivided	Latin2	GreekIntegrated	
@@ -6322,14 +6323,13 @@ English+Greek	Est.1:1.8	Est.1:1.8	Keep verse	Acd. [1h]	%In some Bibles the verse
 English+Greek	Est.1:1.9	Est.1:1.9	Keep verse	Acd. [1i]	%In some Bibles the verse numbering here is% 11:10.		(Hebrew= -- • Latin=11:10/A:9 • Greek=1:1i)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
 English+Greek	Est.1:1.10	Est.1:1.10	Keep verse	Acd. [1j]	%In some Bibles the verse numbering here is% 11:11.		(Hebrew= -- • Latin=11:11/A:10 • Greek=1:1j)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
 English+Greek	Est.1:1.11	Est.1:1.11	Keep verse	Acd. [1k]	%In some Bibles the verse numbering here is% 11:12.		(Hebrew= -- • Latin=11:12/A:11 • Greek=1:1k)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
-English+Greek	Est.1:1.12	Est.1:1.12	Keep verse	Acd. [1l]	%In some Bibles the verse numbering here is% 11:13.		(Hebrew= -- • Latin=12:1/A:12 • Greek=1:1l)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
-English+Greek	Est.1:1.13	Est.1:1.13	Keep verse	Acd. [1m]	%In some Bibles the verse numbering here is% 11:14.		(Hebrew= -- • Latin=12:2/A:13 • Greek=1:1m)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
-English+Greek	Est.1:1.14	Est.1:1.14	Keep verse	Acd. [1n]	%In some Bibles the verse numbering here is% 11:15.		(Hebrew= -- • Latin=12:3/A:14 • Greek=1:1n)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
-English+Greek	Est.1:1.15	Est.1:1.15	Keep verse	Acd. [1o]	%In some Bibles the verse numbering here is% 11:16.		(Hebrew= -- • Latin=12:4/A:15 • Greek=1:1o)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
-English+Greek	Est.1:1.16	Est.1:1.16	Keep verse	Acd. [1p]	%In some Bibles the verse numbering here is% 11:17.		(Hebrew= -- • Latin=12:5/A:16 • Greek=1:1p)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
-English+Greek	Est.1:1.17	Est.1:1.17	Keep verse	Acd. [1q]	%In some Bibles the verse numbering here is% 11:18.		(Hebrew= -- • Latin=12:6/A:17 • Greek=1:1q)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist & Est.1:1.18=NotExist	
-English+Greek	Est.1:1.17	Est.1:1.17.1	Renumber verse	Nec. [1q]	%In some Bibles the verse numbering here is% 11:18.		(Hebrew= -- • Latin=11:18a • Greek=1:1q)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist & Est.1:1.18=Exist	
-English+Greek	Est.1:1.18	Est.1:1.17.2	Renumber verse	Acd. [1r]	%In some Bibles the verse numbering here is% 11:19.		(Hebrew= -- • Latin=11:18b • Greek=1:1r)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist & Est.1:1.18=Exist	
+English+Greek	Est.1:1.12	Est.1:1.12	Keep verse	Acd. [1l]	%In some Bibles the verse numbering here is% 12:1.		(Hebrew= -- • Latin=12:1/A:12 • Greek=1:1l)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
+English+Greek	Est.1:1.13	Est.1:1.13	Keep verse	Acd. [1m]	%In some Bibles the verse numbering here is% 12:2.		(Hebrew= -- • Latin=12:2/A:13 • Greek=1:1m)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
+English+Greek	Est.1:1.14	Est.1:1.14	Keep verse	Acd. [1n]	%In some Bibles the verse numbering here is% 12:3.		(Hebrew= -- • Latin=12:3/A:14 • Greek=1:1n)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
+English+Greek	Est.1:1.15	Est.1:1.15	Keep verse	Acd. [1o]	%In some Bibles the verse numbering here is% 12:4.		(Hebrew= -- • Latin=12:4/A:15 • Greek=1:1o)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
+English+Greek	Est.1:1.16	Est.1:1.16	Keep verse	Acd. [1p]	%In some Bibles the verse numbering here is% 12:5.		(Hebrew= -- • Latin=12:5/A:16 • Greek=1:1p)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
+English+Greek	Est.1:1.17	Est.1:1.17	Keep verse	Acd. [1q]	%In some Bibles the verse numbering here is% 12:6.		(Hebrew= -- • Latin=12:6/A:17 • Greek=1:1q)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
+English+Greek	Est.1:1.18	Est.1:1.18	Keep verse	Acd. [1r]	%In some Bibles the verse numbering here is% 12:6b.		(Hebrew= -- • Latin=11:18b • Greek=1:1r)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
 English+Greek	Est.1:2	Est.1:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 1:2.		(Hebrew=1:2 • Latin=1:2 • Greek=1:2)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
 English+Greek	Est.1:3	Est.1:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 1:3.		(Hebrew=1:3 • Latin=1:3 • Greek=1:3)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
 English+Greek	Est.1:4	Est.1:4	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 1:4.		(Hebrew=1:4 • Latin=1:4 • Greek=1:4)	Est.1:22=Last & Est.1:1.1=Exist & Est.1:1>Est.1:10 & Est.A:1=NotExist & Est.11:2=NotExist	
