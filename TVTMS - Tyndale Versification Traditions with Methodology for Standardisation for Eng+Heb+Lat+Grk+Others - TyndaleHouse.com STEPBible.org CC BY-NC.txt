@@ -2981,17 +2981,17 @@ SourceType	SourceRef	StandardRef	Action	NoteMarker	Note A	Note B	Ancient Version
 ==========================================================================================================================================================
 
 Greek2	Gen.3:1	Gen.2:25	Merged with	Nec. [1]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 3:1.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 • Greek2=3:1a)	Gen.2:24=Last	
-Greek2	Gen.3:1	Gen.3:1	Keep verse	Nec. [25]	%Normally in this Bible some text may be different here because it is merged with% 2:25.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1 • Greek2=3:1b)	Gen.2:24=Last	
+Greek2	Gen.3:1	Gen.3:1	Keep verse	Nec. [25]	%Normally in this Bible some text may be missing here because it is merged with% 2:25.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1 • Greek2=3:1b)	Gen.2:24=Last	
 
 English+Hebrew	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 English+Hebrew	Gen.5:32	Gen.5:32	Keep verse	Acd. [31b]	%In some Bibles the verse numbering here is% 5:31b.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 English+Hebrew	Gen.6:1	Gen.6:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Greek	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
 Greek	Gen.6:1	Gen.5:32	Renumber verse	Nec. [32-1]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
-Greek	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be different here because it is merged with% 5:32.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
+Greek	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:32.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=Exist	
 GreekUndivided	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 GreekUndivided	Gen.6:1	Gen.5:32	Renumber verse	Nec. [32-1]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
-GreekUndivided	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be different here because it is merged with% 5:32.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
+GreekUndivided	Gen.6:1	Gen.6:1	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:32.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Latin	Gen.5:31	Gen.5:31	Keep verse	Nec. [31-32]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:31.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
 Latin	Gen.5:31	Gen.5:32	Merged with	Nec. [31b]	%Normally in this Bible some text may be missing here because it is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
 Latin	Gen.6:1	Gen.6:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
@@ -22223,7 +22223,6 @@ Phrases and Abbreviations to translate to different languages:
 %Normally in this Bible the verse numbering here is% REF
 %Normally in this Bible this verse and the next are merged into one verse that is numbered% REF
 %Normally in this Bible some text may be missing here because it is merged with% REF
-%Normally in this Bible some text may be different here because it is merged with% REF
 %Normally in this Bible this verse includes words that are at% REF
 %This verse may include words that are alternatively at% REF
 %The extra words are found at% REF
