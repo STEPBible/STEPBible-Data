@@ -2553,7 +2553,9 @@ OneToOne	1Es.8:67-91	1Es.8:68-92	1Es.8:64-88
 DuplicateTarget	1Es.8:92-93	1Es.8:93-94	1Es.8:89		
 OneToOne	1Es.8:94-96	1Es.8:95-97	1Es.8:90-92		
 
-
+*$4Es./2Es.10:59-10:60	English	Latin	Greek		
+TEST: If...	2Es.10:59=Last	2Es.10:60=Last	2Es.10:59=Last			
+Concatenation	2Es.10:59	2Es.10:59-60	2Es.10:59		
 
 
 
@@ -20905,6 +20907,15 @@ Latin	1Es.8:95	1Es.8:94	Renumber verse	Nec. [95]	%Normally in this Bible the ver
 Latin	1Es.8:96	1Es.8:95	Renumber verse	Nec. [96]	%Normally in this Bible the verse numbering here is% 8:96.		(Latin=8:96 • Greek=8:91)	1Es.8:97=Last	
 Latin	1Es.8:97	1Es.8:96	Renumber verse	Nec. [97]	%Normally in this Bible the verse numbering here is% 8:97.		(Latin=8:97 • Greek=8:92)	1Es.8:97=Last	
 
+English	2Es.10:59	2Es.10:59	Keep verse	Acd. [59-60]	%In some Bibles the verse numbering here is% 8:59-60.		(Latin=10:59-60 • Greek=10:59)	2Es.10:59=Last	
+Greek	2Es.10:59	2Es.10:59	Renumber verse	Nec. [59-60]	%In some Bibles the verse numbering here is% 8:59-60.		(Latin=10:59-60 • Greek=10:59)	2Es.10:59=Last	
+Latin	2Es.10:59	2Es.10:59.1	Renumber verse	Nec. [59]	%Normally in this Bible the verse numbering here is% 8:59.		(Latin=10:59-60 • Greek=10:59)	2Es.10:60=Last	
+Latin	2Es.10:60	2Es.10:59.2	Renumber verse	Nec. [60]	%Normally in this Bible the verse numbering here is% 8:60.		(Latin=10:59-60 • Greek=10:59)	2Es.10:60=Last	
+English	4Es.10:59	4Es.10:59	Keep verse	Acd. [59-60]	%In some Bibles the verse numbering here is% 8:59-60.		(Latin=10:59-60 • Greek=10:59)	4Es.10:59=Last	
+Greek	4Es.10:59	4Es.10:59	Renumber verse	Nec. [59-60]	%In some Bibles the verse numbering here is% 8:59-60.		(Latin=10:59-60 • Greek=10:59)	4Es.10:59=Last	
+Latin	4Es.10:59	4Es.10:59.1	Renumber verse	Nec. [59]	%Normally in this Bible the verse numbering here is% 8:59.		(Latin=10:59-60 • Greek=10:59)	4Es.10:60=Last	
+Latin	4Es.10:60	4Es.10:59.2	Renumber verse	Nec. [60]	%Normally in this Bible the verse numbering here is% 8:60.		(Latin=10:59-60 • Greek=10:59)	4Es.10:60=Last	
+
 English+Greek	Tob.1:10	Tob.1:10	Keep verse	Acd. [10-11]	%In some Bibles the verse numbering here is% 1:10-11.		(Latin=1:10-11 • Greek=1:10)	Tob.1:22=Last	
 English+Greek	Tob.1:11	Tob.1:11	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 1:12.		(Latin=1:12 • Greek=1:11)	Tob.1:22=Last	
 English+Greek	Tob.1:12	Tob.1:12	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 1:13.		(Latin=1:13 • Greek=1:12)	Tob.1:22=Last	
@@ -22342,7 +22353,7 @@ S3Y	PrAzar	1:68
 Sus	Sus	1:64
 Bel	Bel	1:42
 1Es	1Esd	1:58; 2:30; 3:24; 4:63; 5:73; 6:34; 7:15; 8:96; 9:55; 
-2Es	2Esd	1:40; 2:48; 3:36; 4:52; 5:56; 6:59; 7:140; 8:63; 9:47; 10:59; 11:46; 12:51; 13:58; 14:48; 15:63; 16:78
+2Es	2Esd/4Esd	1:40; 2:48; 3:36; 4:52; 5:56; 6:59; 7:140; 8:63; 9:47; 10:59; 11:46; 12:51; 13:58; 14:48; 15:63; 16:78
 Man	PrMan	1:15
 Ps2	AddPs	1:7
 1Ma	1Macc	1:64; 2:70; 3:60; 4:61; 5:68; 6:63; 7:50; 8:32; 9:73; 10:89; 11:74; 12:53; 13:53; 14:49; 15:41; 16:24
