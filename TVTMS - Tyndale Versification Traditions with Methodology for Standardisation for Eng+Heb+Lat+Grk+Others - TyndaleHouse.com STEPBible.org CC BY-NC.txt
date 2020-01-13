@@ -221,7 +221,7 @@ TEST: If...	Exo.39:19<Exo.39:21	Exo.39:19<Exo.39:21	Exo.39:19>Exo.39:21	Exo.39:1
 Concatenation	Exo.39:1	Exo.39:1	Exo.39:1	Exo.36:8; 39:12	Exo.36:8; 39:13		
 OneToOne	Exo.39:2-15	Exo.39:2-15	Exo.39:2-15	Exo.36:9-22	Exo.36:9-22		
 Concatenation	Exo.39:16	Exo.39:16	Exo.39:16	Exo.36:23	Exo.36:23-24		
-Concatenation	Exo.39:17-19	Exo.39:17-19	Exo.39:17	Exo.36:24-26	Exo.36:25-27		
+DuplicateTarge	Exo.39:17-19	Exo.39:17-19	Exo.39:17	Exo.36:24-26	Exo.36:25-27		
 OneToOne	Exo.39:20-27	Exo.39:20-27	Exo.39:18-25	Exo.36:27-34	Exo.36:28-35		
 DuplicateTarget	Exo.39:28	Exo.39:28	Exo.39:26-27	Exo.36:35	Exo.36:36		
 OneToOne	Exo.39:29	Exo.39:29	Exo.39:28	Exo.36:36	Exo.36:37		
@@ -1607,6 +1607,19 @@ TEST: If...	Psa.147:20=Last	Psa.147:20=Last	Psa.147:20=Last	Psa.147:9=Last
 TEST: And if... 	Psa.146:3<Psa.147:8	Psa.146:3<Psa.147:8	Psa.146:3>Psa.147:8			
 OneToOne	Psa.147:1-11	Psa.147:1-11	Psa.146:1-11	Psa.146:1-11			
 OneToOne	Psa.147:12-20	Psa.147:12-20	Psa.147:12-20	Psa.147:1-9			
+
+$Psa.151:1-7	English	Hebrew	Latin	Greek	
+TEST: If... 	Psa.151:1=NotExist	Psa.151:1=NotExist	Psa.151:1=Exist	Psa.151:1=NotExist	
+TEST: And if... 	Ps2.1:1=Exist	Ps2.1:1=NotExist	Ps2.1:1=NotExist	Ps2.1:1=Exist			
+OneToOne	Ps2.1:1-7	NoVerse	Psa.151:1-7	Ps2.1:1-7			
+
+$Pro.4:27	English	Hebrew	Latin	Greek	Greek2
+TEST: If...	Pro.4:27=Last	Pro.4:27=Last	Pro.4:27=Last	Pro.4:27=Last	Pro.4:29=Last		
+Concatenation	Pro.4:27	Pro.4:27	Pro.4:27	Pro.4:27	Pro.4:27-29		
+
+$Pro.18:22	English	Hebrew	Latin	Greek	Greek2
+TEST: If...	Pro.18:22=Last	Pro.18:22=Last	Pro.18:22=Last	Pro.18:22=Last	Pro.18:23=Last		
+Concatenation	Pro.18:22	Pro.18:22	Pro.18:22	Pro.18:22	Pro.18:22-23		
 
 $Pro.20:20-22	English	Hebrew	Latin	Greek	
 TEST: If...	Pro.20:20-22>Pro.20:23	Pro.20:20-22>Pro.20:23	Pro.20:20-22>Pro.20:23	Pro.20:20-22<Pro.20:23			
@@ -14345,6 +14358,18 @@ Latin	Psa.147:18	Psa.147:18	Keep verse	Acd. [7]	%In some Bibles the verse number
 Latin	Psa.147:19	Psa.147:19	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 147:8.		(Hebrew=147:19 • Latin=147:19 • Greek=147:8)	Psa.147:20=Last & Psa.146:3>Psa.147:8	
 Latin	Psa.147:20	Psa.147:20	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 147:9.		(Hebrew=147:20 • Latin=147:20 • Greek=147:9)	Psa.147:20=Last & Psa.146:3>Psa.147:8	
 
+English+Latin	Ps2.1:1	Ps2.1:1	Keep verse	Acd. [0]	%In some Bibles this book is found at% Psalm 151		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:1)	Psa.151:1=NotExist & Ps2.1:1=Exist 	
+Greek	Psa.151:1	Ps2.1:1	Renumber verse	Acd. [0]	%In some Bibles this chapter is a separate book%		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:1)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
+
+English+Hebrew+Latin+Greek	Pro.4:27	Pro.4:27	Keep verse	Acd. [27-29]	%In some Bibles the verse numbering here is% 4:27-29.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-29)	Pro.4:27=Last	
+Greek2	Pro.4:27	Pro.4:27.1	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 35:27-28.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-28)	Pro.4:29=Last	
+Greek2	Pro.4:28	Pro.4:27.2	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 35:28.		(Hebrew= -- •  Latin=35:27b • Greek=35:28)	Pro.4:29=Last	
+Greek2	Pro.4:29	Pro.4:27.3	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 35:29.		(Hebrew= -- •  Latin=35:27c • Greek=35:29)	Pro.4:29=Last	
+
+English+Hebrew+Latin+Greek	Pro.18:22	Pro.18:22	Keep verse	Acd. [22-23]	%In some Bibles the verse numbering here is% 18:22-23.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-29)	Pro.18:22=Last	
+Greek2	Pro.18:22	Pro.18:22.1	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 18:22-23.		(Hebrew=18:22 • Latin=18:22 • Greek=18:22-23)	Pro.18:23=Last	
+Greek2	Pro.18:23	Pro.18:22.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 18:23.		(Hebrew= -- •  Latin=18:22b • Greek=18:23)	Pro.18:23=Last	
+
 English+Hebrew+Latin	Pro.20:20	Pro.20:20	Keep verse	Acd. [9a]	%In some Bibles the verse numbering here is% 20:9a.		(Hebrew=20:20 • Latin=20:20 • Greek=20:9a)	Pro.20:20-22>Pro.20:23	
 English+Hebrew+Latin	Pro.20:21	Pro.20:21	Keep verse	Acd. [9b]	%In some Bibles the verse numbering here is% 20:9b.		(Hebrew=20:21 • Latin=20:21 • Greek=20:9b)	Pro.20:20-22>Pro.20:23	
 English+Hebrew+Latin	Pro.20:22	Pro.20:22	Keep verse	Acd. [9c]	%In some Bibles the verse numbering here is% 20:9c.		(Hebrew=20:22 • Latin=20:22 • Greek=20:9c)	Pro.20:20-22>Pro.20:23	
@@ -22242,11 +22267,11 @@ Phrases and Abbreviations to translate to different languages:
 %In some Bibles this verse may contain text similar to% REF
 %Some manuscripts have no text here. Others have text similar to% REF
 %Some manuscripts have no text at% REF
-%In some Bibles this chapter is a separate book%
 %In some Bibles this verse may not contain any text%
 %In some Bibles only the start of this verse is present%
 %In some Bibles this verse contains extra text%
 %This verse may not contain any text%
+%In some Bibles this chapter is a separate book%
 %In some Bibles this book is found at%
 %In some Bibles this verse starts on a different word%
 %At the end of this verse some manuscripts add information such as where this letter was written%
