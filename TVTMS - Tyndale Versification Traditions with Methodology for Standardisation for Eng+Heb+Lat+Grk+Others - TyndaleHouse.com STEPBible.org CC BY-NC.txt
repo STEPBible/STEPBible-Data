@@ -21057,7 +21057,7 @@ Bulgarian	Tob.6:18	Tob.6:17	Renumber verse	Nec. [17]	%In some Bibles the verse n
 Bulgarian	Tob.6:19	Tob.6:18	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 6:19.		(Latin=6:18 • Greek= --)	Tob.6:19=Last
 Greek2	Tob.6:18	Tob.6:18	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=6:18 • Greek= --)	Tob.6:16=Last
 Greek	Tob.6:18	Tob.6:18	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=6:18 • Greek= --)	Tob.6:17=Last
-English	Tob.6:18	Tob.6:18	Keep verse	Acd. [NN]	%In some Bibles this verse may not contain any text%.		(Latin=6:18 • Greek= --)	Tob.6:18=Last
+English	Tob.6:18	Tob.6:18	Keep verse	Acd. [0]	%In some Bibles this verse may not contain any text%.		(Latin=6:18 • Greek= --)	Tob.6:18=Last
 
 English	Tob.7:3	Tob.7:3	Keep verse	Acd. [3-4]	%In some Bibles the verse numbering here is% 7:3-4.		(Latin=7:3-4 • Greek=7:3)	Tob.7:16=Last	
 English	Tob.7:4	Tob.7:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 7:5.		(Latin=7:5 • Greek=7:4)	Tob.7:16=Last	
@@ -21072,7 +21072,7 @@ English	Tob.7:15	Tob.7:15	Keep verse	Acd. [18]	%In some Bibles the verse numberi
 English	Tob.7:16	Tob.7:16	Keep verse	Acd. [19-20]	%In some Bibles the verse numbering here is% 7:19-20.		(Latin=7:19-20 • Greek=7:16-17)	Tob.7:16=Last	
 Greek	Tob.7:3	Tob.7:3	Keep verse	Acd. [3-4]	%In some Bibles the verse numbering here is% 7:3-4.		(Latin=7:3-4 • Greek=7:3)	Tob.7:17=Last	
 Greek	Tob.7:4	Tob.7:4	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 7:5.		(Latin=7:5 • Greek=7:4)	Tob.7:17=Last	
-Greek	Tob.7:5	Tob.7:5	Keep verse	Acd. []	%In some Bibles the verse numbering here is% 7:6.		(Latin=7:6 • Greek=7:5)	Tob.7:17=Last	
+Greek	Tob.7:5	Tob.7:5	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 7:6.		(Latin=7:6 • Greek=7:5)	Tob.7:17=Last	
 Greek	Tob.7:6	Tob.7:6	Keep verse	Acd. [7a]	%In some Bibles the verse numbering here is% 7:7a.		(Latin=7:7a • Greek=7:6)	Tob.7:17=Last	
 Greek	Tob.7:7	Tob.7:7	Keep verse	Acd. [7b]	%In some Bibles the verse numbering here is% 7:7b.		(Latin=7:7b • Greek=7:7)	Tob.7:17=Last	
 Greek	Tob.7:11	Tob.7:11.1	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 7:11.		(Latin=7:11-12 • Greek=7:11-12)	Tob.7:17=Last	
