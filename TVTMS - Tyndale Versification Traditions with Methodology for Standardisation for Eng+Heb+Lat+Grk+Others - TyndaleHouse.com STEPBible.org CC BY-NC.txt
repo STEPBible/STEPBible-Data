@@ -21174,6 +21174,7 @@ Greek	Tob.10:14	Tob.10:13	Renumber verse	Nec. [14]	%Normally in this Bible the v
 Greek	Tob.10:8	Tob.10:8.1	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 10:8.		(Latin=10:8 • Greek=10:8-9)	Tob.10:14=Last	
 Greek	Tob.10:9	Tob.10:8.2	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 10:9.		(Latin=10:8 • Greek=10:8-9)	Tob.10:14=Last	
 
+English	Tob.11:9	Tob.11:9	Keep verse	Acd. [9-11]	%In some Bibles the verse numbering here is% 11:9-11.		(Latin=11:9-11 • Greek=11:9)	Tob.11:18=Last	
 English	Tob.11:10	Tob.11:10	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 11:12.		(Latin=11:12 • Greek=11:10)	Tob.11:18=Last	
 English	Tob.11:11	Tob.11:11	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 11:13.		(Latin=11:13 • Greek=11:11)	Tob.11:18=Last	
 English	Tob.11:12	Tob.11:12	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 11:14.		(Latin=11:14 • Greek=11:12)	Tob.11:18=Last	
@@ -21183,7 +21184,7 @@ English	Tob.11:15	Tob.11:15	Keep verse	Acd. [17]	%In some Bibles the verse numbe
 English	Tob.11:16	Tob.11:16	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 11:18.		(Latin=11:18 • Greek=11:16)	Tob.11:18=Last	
 English	Tob.11:17	Tob.11:17	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 11:19.		(Latin=11:19 • Greek=11:17)	Tob.11:18=Last	
 English	Tob.11:18	Tob.11:18	Keep verse	Acd. [20-21]	%In some Bibles the verse numbering here is% 11:20-21.		(Latin=11:20-21 • Greek=11:18-19)	Tob.11:18=Last	
-English	Tob.11:9	Tob.11:9	Keep verse	Acd. [9-11]	%In some Bibles the verse numbering here is% 11:9-11.		(Latin=11:9-11 • Greek=11:9)	Tob.11:18=Last	
+Greek	Tob.11:9	Tob.11:9	Renumber verse	Nec. [9a]	%In some Bibles the verse numbering here is% 11:9-11.		(Latin=11:9-11 • Greek=11:9)	Tob.11:19=Last	
 Greek	Tob.11:10	Tob.11:10	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 11:12.		(Latin=11:12 • Greek=11:10)	Tob.11:19=Last	
 Greek	Tob.11:11	Tob.11:11	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 11:13.		(Latin=11:13 • Greek=11:11)	Tob.11:19=Last	
 Greek	Tob.11:12	Tob.11:12	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 11:14.		(Latin=11:14 • Greek=11:12)	Tob.11:19=Last	
@@ -21194,7 +21195,6 @@ Greek	Tob.11:16	Tob.11:16	Keep verse	Acd. [18]	%In some Bibles the verse numberi
 Greek	Tob.11:17	Tob.11:17	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 11:19.		(Latin=11:19 • Greek=11:17)	Tob.11:19=Last	
 Greek	Tob.11:18	Tob.11:18.1	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 11:18.		(Latin=11:20-21 • Greek=11:18-19)	Tob.11:19=Last	
 Greek	Tob.11:19	Tob.11:18.2	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 11:19.		(Latin=11:20-21 • Greek=11:18-19)	Tob.11:19=Last	
-Greek	Tob.11:9	Tob.11:9.1	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 11:9.		(Latin=11:9-11 • Greek=11:9)	Tob.11:19=Last	
 Latin	Tob.11:9	Tob.11:9.1	Renumber verse	Acd. [9-11]	%Normally in this Bible the verse numbering here is% 11:9-11.		(Latin=11:9-11 • Greek=11:9)	Tob.11:21=Last	
 Latin	Tob.11:10	Tob.11:9.2	Renumber verse	Acd. [10]	%Normally in this Bible the verse numbering here is% 11:10.		(Latin=11:9-11 • Greek=11:9)	Tob.11:21=Last	
 Latin	Tob.11:11	Tob.11:9.3	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 11:11.		(Latin=11:9-11 • Greek=11:9)	Tob.11:21=Last	
