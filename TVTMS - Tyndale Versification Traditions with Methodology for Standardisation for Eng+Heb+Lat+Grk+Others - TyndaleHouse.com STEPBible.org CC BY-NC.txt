@@ -21154,7 +21154,7 @@ Latin	Tob.8:23	Tob.8:20	Renumber verse	Nec. [23]	%Normally in this Bible the ver
 Latin	Tob.8:24	Tob.8:21	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 8:24.		(Latin=8:24 • Greek=8:21)	Tob.8:24=Last	
 
 English+Greek	Tob.9:5	Tob.9:5	Keep verse	Acd. [5-7]	%In some Bibles the verse numbering here is% 9:5-7.		(Latin=9:5-7 • Greek=9:5)	Tob.9:6=Last	
-English+Greek	Tob.9:6	Tob.9:6.1	Keep verse	Acd. [8-12]	%In some Bibles the verse numbering here is% 9:8-12.		(Latin=9:8-12 • Greek=9:6)	Tob.9:6=Last	
+English+Greek	Tob.9:6	Tob.9:6	Keep verse	Acd. [8-12]	%In some Bibles the verse numbering here is% 9:8-12.		(Latin=9:8-12 • Greek=9:6)	Tob.9:6=Last	
 Latin	Tob.9:12	Tob.9:6.2	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 9:12.		(Latin=9:8-12 • Greek=9:6)	Tob.9:12=Last	
 Latin	Tob.9:5	Tob.9:5.1	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 9:5.		(Latin=9:5-7 • Greek=9:5)	Tob.9:12=Last	
 Latin	Tob.9:7	Tob.9:5.2	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 9:7.		(Latin=9:5-7 • Greek=9:5)	Tob.9:12=Last	
