@@ -465,7 +465,7 @@ TEST: & if... 	1Ki.10:21*2>1Ki.10:22	1Ki.10:21*2>1Ki.10:22	1Ki.10:21*2>1Ki.10:22
 TEST: & if... 	1Ki.10:22.1=NotExist	1Ki.10:22.1=NotExist	1Ki.10:22.1=NotExist	1Ki.10:22.1=Exist	1Ki.10:22.1=NotExist		
 MergedVerses	1Ki.8:12-13	1Ki.8:12-13	1Ki.8:12-13	1Ki.8:53.1	Absent [=1Ki.8:53.1]			
 LongVerse/LVElsewhere	1Ki.8:53	1Ki.8:53	1Ki.8:53	1Ki.8:53.0-1 [=1Ki.8:12-13]	1Ki.8:53 [=+1Ki.8:12-13]		
-LongVerse/LVElsewhere	1Ki.9:9	1Ki.9:9	1Ki.9:9	1Ki.9:9.0 [=1Ki.9:24]	1Ki.9:9 [=+1Ki.9:24]		
+LongVerse/LVElsewhere	1Ki.9:9	1Ki.9:9	1Ki.9:9	1Ki.9:9.0	1Ki.9:9 [=+1Ki.9:24]		
 TextMayBeMissing	1Ki.9:15	1Ki.9:15	1Ki.9:15	Absent	Absent			
 LongVerseElsewhere	1Ki.9:16	1Ki.9:16	1Ki.9:16	1Ki.5:14.2	Absent [=1Ki.5:14.2]			
 MergedVerses	1Ki.9:17-19	1Ki.9:17-19	1Ki.9:17-19	1Ki.10:22.1	Absent [=1Ki.10:22.1]			
@@ -674,15 +674,16 @@ OneToOne	Est.8:12.0	Est.8:12	Est.8:12	Est.8:12.0	Est.8:12 [=+Est.16:1-24 (E:1-24
 LongVerse/LVExtra	Est.8:12.1-24	NoVerse	Est.E:1-24	Est.8:12.1-24	NoVerse	Est.16:1-24	Est.8:13-33
 OneToOne	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:13-17	Est.8:34-38
 
-$Est.10:1-3	English	Hebrew	Latin	Greek	GreekUndivided	Latin2	GreekIntegrated
-TEST: If...	Est.10:3=Last	Est.10:3=Last	Est.10:13=Last	Est.10:3=Last	Est.10:3=Last	Est.10:13=Last	Est.10:14=Last
-TEST: & if... 	Est.10:3.1=Exist	Est.10:3.1=NotExist	Est.10:3.1=NotExist	Est.10:3.1=Exist	Est.10:3.1=NotExist	Est.10:3.1=NotExist	Est.10:3.1=NotExist	
-TEST: & if... 	Est.10:3>Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3>Est.10:2*2	Est.10:3>Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3<Est.10:2*2	
-TEST: & if... 	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=Exist	Est.10:4=Exist	
-OneToOne	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2
-OneToOne	Est.10:3.0	Est.10:3	Est.10:3	Est.10:3.0	Est.10:3 [=+Est.10:4-13; 11:1 (F:1-11)]	Est.10:3	Est.10:3
-LongVerse/LVExtra	Est.10:3.1-10	NoVerse	Est.F:1-10	Est.10:3.1-10	NoVerse	Est.10:4-13	Est.10:4-13
-LongVerse/LVExtra	Est.10:3.11	NoVerse	Est.F:11	Est.10:3.11	NoVerse	Est.11:1	Est.10:14
+$Est.10:1-3	English	Hebrew	Latin	Greek	GreekUndivided	GreekUndivided2	Latin2	GreekIntegrated
+TEST: If...	Est.10:3=Last	Est.10:3=Last	Est.10:13=Last	Est.10:3=Last	Est.10:3=Last	Est.10:4=Last	Est.10:13=Last	Est.10:14=Last
+TEST: & if... 	Est.10:3.1=Exist	Est.10:3.1=NotExist	Est.10:3.1=NotExist	Est.10:3.1=Exist	Est.10:3.1=NotExist	Est.10:3.1=NotExist	Est.10:3.1=NotExist	Est.10:3.1=NotExist	
+TEST: & if... 	Est.10:3>Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3>Est.10:2*2	Est.10:3>Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3<Est.10:2*2	Est.10:3<Est.10:2*2	
+TEST: & if... 	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=NotExist	Est.10:4=Exist	Est.10:4=Exist	Est.10:4=Exist	
+OneToOne	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2	Est.10:1-2
+OneToOne	Est.10:3.0	Est.10:3	Est.10:3	Est.10:3.0	Est.10:3 [=+Est.10:4-13; 11:1 (F:1-11)]	Est.10:3	Est.10:3	Est.10:3
+LongVerse/LVExtra	Est.10:3.1	NoVerse	Est.F:1	Est.10:3.1	NoVerse	Est.10:4 [=Est.10:4-13; 11:1 (F:1-11)]	Est.10:4	Est.10:4
+LongVerse/LVExtra	Est.10:3.2-10	NoVerse	Est.F:2-10	Est.10:3.2-10	NoVerse	NoVerse	Est.10:5-13	Est.10:5-13
+LongVerse/LVExtra	Est.10:3.11	NoVerse	Est.F:11	Est.10:3.11	NoVerse	NoVerse	Est.11:1	Est.10:14
 
 $Esg.1:1-22	English	Hebrew	Latin	Greek	GreekUndivided	Latin2	GreekIntegrated	
 TEST: If...	Esg.1:22=Last	Esg.1:22=Last	Esg.1:22=Last	Esg.1:22=Last	Esg.1:22=Last	Esg.1:22=Last	Esg.1:39=Last	
@@ -748,15 +749,16 @@ LongVerse/LVExtra	Esg.16:1-21	NoVerse	Esg.E:1-21	Esg.8:12.1-21	NoVerse	Esg.16:1-
 LongVerse/LVExtra	Esg.16:22-24	NoVerse	Esg.E:22-24	Esg.8:12.22-24	NoVerse	Esg.16:22-24	Absent
 OneToOne	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:13-17	Esg.8:34-38
 
-$Esg.10:1-3	English	Hebrew	Latin	Greek	GreekUndivided	Latin2	GreekIntegrated
-TEST: If...	Esg.10:3=Last	Esg.10:3=Last	Esg.10:13=Last	Esg.10:3=Last	Esg.10:3=Last	Esg.10:13=Last	Esg.10:14=Last
-TEST: & if... 	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	Esg.10:3.1=Exist	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	
-TEST: & if... 	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3>Esg.10:2*2	Esg.10:3>Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	
-TEST: & if... 	Esg.10:4=Exist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=Exist	Esg.10:4=Exist	
-OneToOne	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2
-OneToOne	Esg.10:3	Esg.10:3	Esg.10:3	Esg.10:3.0	Esg.10:3 [=+Esg.10:4-13; 11:1 (F:1-11)]	Esg.10:3	Esg.10:3
-LongVerse/LVExtra	Esg.10:4-13	NoVerse	Esg.F:1-10	Esg.10:3.1-10	NoVerse	Esg.10:4-13	Esg.10:4-13
-LongVerse/LVExtra	Esg.11:1	NoVerse	Esg.F:11	Esg.10:3.11	NoVerse	Esg.11:1	Esg.10:14
+$Esg.10:1-3	English	Hebrew	Latin	Greek	GreekUndivided	GreekUndivided2	Latin2	GreekIntegrated
+TEST: If...	Esg.10:3=Last	Esg.10:3=Last	Esg.10:13=Last	Esg.10:3=Last	Esg.10:3=Last	Esg.10:4=Last	Esg.10:13=Last	Esg.10:14=Last
+TEST: & if... 	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	Esg.10:3.1=Exist	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	Esg.10:3.1=NotExist	
+TEST: & if... 	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3>Esg.10:2*2	Esg.10:3>Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	Esg.10:3<Esg.10:2*2	
+TEST: & if... 	Esg.10:4=Exist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=NotExist	Esg.10:4=Exist	Esg.10:4=Exist	Esg.10:4=Exist	
+OneToOne	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2	Esg.10:1-2
+OneToOne	Esg.10:3	Esg.10:3	Esg.10:3	Esg.10:3.0	Esg.10:3 [=+Esg.10:4-13; 11:1 (F:1-11)]Esg.10:3	Esg.10:3	Esg.10:3
+LongVerse/LVExtra	Esg.10:4	NoVerse	Esg.F:1	Esg.10:3.1	NoVerse	Esg.10:4  [=Esg.10:4-13; 11:1 (F:1-11)]	Esg.10:4	Esg.10:4
+LongVerse/LVExtra	Esg.10:5-13	NoVerse	Esg.F:2-10	Esg.10:3.2-10	NoVerse	NoVerse	Esg.10:5-13	Esg.10:5-13
+LongVerse/LVExtra	Esg.11:1	NoVerse	Esg.F:11	Esg.10:3.11	NoVerse	NoVerse	Esg.11:1	Esg.10:14
 
 
 $Job.16:4-16:22	English	Hebrew	Latin	Greek	
@@ -5182,7 +5184,7 @@ Greek	1Ki.7:49	1Ki.7:12	Renumber verse	Nec. [49]	%Normally in this Bible the ver
 English+Hebrew+Latin	1Ki.8:12	1Ki.8:12	Keep verse	Acd. [53a]	%In some Bibles the verse numbering here is% 8:53a.		(Hebrew=8:12 • Latin=8:12 • Greek=8:53a)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.8:13	1Ki.8:13	Keep verse	Acd. [53b]	%In some Bibles the verse numbering here is% 8:53b.		(Hebrew=8:13 • Latin=8:13 • Greek=8:53b)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.8:53	1Ki.8:53	Keep verse	Acd. [53,a-b]	%In some Bibles the verse numbering here is% 8:53, 53a-b.	%The extra words are found at% 8:12-13.	(Hebrew=8:53 • Latin=8:53 • Greek=8:53, 53a-b[+8:12-13])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
-English+Hebrew+Latin	1Ki.9:9	1Ki.9:9.1	Keep verse	Acd. [9a]	%In some Bibles similar text is found at% 2:35n 9:24.		(Hebrew=9:9 • Latin=9:9 • Greek=9:9, 9a[+9:24])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
+English+Hebrew+Latin	1Ki.9:9	1Ki.9:9	Keep verse	Acd. [9a]	%In some Bibles the verse numbering here is% 9:24.	%In some Bibles similar text is found at% 2:35n.	(Hebrew=9:9 • Latin=9:9 • Greek=9:9, 9a[+9:24])	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.9:15	1Ki.9:15	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:15 • Latin=9:15 • Greek= --)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.9:16	1Ki.9:16	Keep verse	Acd. [14b]	%In some Bibles the verse numbering here is% 5:14b.	%This verse may not contain any text%.	(Hebrew=9:16 • Latin=9:16 • Greek=5:14b)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
 English+Hebrew+Latin	1Ki.9:17	1Ki.9:17	Keep verse	Acd. [22a]	%In some Bibles the verse numbering here is% 10:22a.	%This verse may not contain any text%.	(Hebrew=9:17 • Latin=9:17 • Greek=10:22a1)	1Ki.9:14<1Ki.9:23 & 1Ki.10:21*2>1Ki.10:22 & 1Ki.10:22.1=NotExist	
@@ -5214,7 +5216,7 @@ Greek	1Ki.2:35.3	1Ki.2:35.3	Keep verse	Nec. [5:14a]	%Normally in this Bible simi
 Greek	1Ki.2:35.4	1Ki.2:35.4	Keep verse	Nec. [5:29]	%Normally in this Bible similar text is found at% 5:29.		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35d])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.2:35.5	1Ki.2:35.5	Keep verse	Nec. [7:10]	%Normally in this Bible similar text is found at% 7:10.		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35e])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.2:35.6	1Ki.2:35.6	Keep verse	Nec. [9:9a]	%Normally in this Bible similar text is found at% 9:9a.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.9:9.1	1Ki.9:24.1	Renumber verse	Nec. [9a]	%Normally in this Bible the verse numbering here is% 9:9.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.9:9.1	1Ki.9:24	Renumber verse	Nec. [9a]	%Normally in this Bible the verse numbering here is% 9:9a.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.2:35.7	1Ki.2:35.7	Keep verse	Nec. [9:25]	%In some Bibles similar text is found at% 9:25. 		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:23	1Ki.9:23.1	Keep verse	Acd. [2:35i-k]	%In some Bibles the verse numbering here is% 2:35i-k.		(Hebrew=9:23 • Latin=9:23 • Greek=2:35i-k)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.2:35.8	1Ki.2:35.8	Keep verse	Nec. [9:23a]	%In some Bibles similar text is found at% 9:23a.		(Hebrew=9:23a • Latin=9:23a • Greek=2:35h)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
@@ -6807,7 +6809,9 @@ GreekIntegrated	Est.10:11	Est.10:3.8	Renumber verse	Nec. [11]	%Normally in this 
 GreekIntegrated	Est.10:12	Est.10:3.9	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 10:12.		(Hebrew= -- • Latin=10:12/F:9 • Greek=10:3i)	Est.10:14=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=Exist	
 GreekIntegrated	Est.10:13	Est.10:3.10	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 10:13.		(Hebrew= -- • Latin=10:13/F:10 • Greek=10:3j)	Est.10:14=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=Exist	
 GreekIntegrated	Est.10:14	Est.10:3.11	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 10:14.		(Hebrew= -- • Latin=11:1/F:11 • Greek=10:3k)	Est.10:14=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=Exist	
-GreekUndivided	Est.10:3	Est.10:3	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 10:3,a-k.	%In some Bibles only the start of this verse is present%.	(Hebrew=10.3 • Latin=10.3-13; 11:1 / F:1-11 • Greek=10.3,a-k)	Est.10:3=Last & Est.10:3.1=NotExist & Est.10:3>Est.10:2*2 & Est.10:4=NotExist	
+GreekUndivided	Est.10:3	Est.10:3	Keep verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 10:3,a-k.	%In some Bibles only the start of this verse is present%.	(Hebrew=10.3 • Latin=10.3-13; 11:1 / F:1-11 • Greek=10.3,a-k)	Est.10:3=Last & Est.10:3.1=NotExist & Est.10:3>Est.10:2*2 & Est.10:4=NotExist	
+GreekUndivided2	Est.10:3	Est.10:3.0	Renumber verse	Nec. [3]	%In some Bibles only the start of this verse is present%.		(Hebrew=10.3 • Latin=10.3-13; 11:1 / F:1-11 • Greek=10.3,a-k)	Est.10:4=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=Exist	
+GreekUndivided2	Est.10:4	Est.10:3.1	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 10:3,a-k.	%In some Bibles only the start of this verse is present%.	(Hebrew=10.3 • Latin=10.3-13; 11:1 / F:1-11 • Greek=10.3,a-k)	Est.10:4=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=Exist	
 Hebrew+Latin	Est.10:3	Est.10:3.0	Renumber verse	Nec. [3]	%In some Bibles this verse contains extra text%.		(Hebrew=10.3 • Latin=10.3 • Greek=10.3.0)	Est.10:13=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=NotExist	
 Latin	Est.F:1	Est.10:3.1	Renumber verse	Nec. [F:1]	%Normally in this Bible the verse numbering here is% F:1.		(Hebrew= -- • Latin=10:4/F:1 • Greek=10:3a)	Est.10:13=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=NotExist	
 Latin	Est.F:2	Est.10:3.2	Renumber verse	Nec. [F:2]	%Normally in this Bible the verse numbering here is% F:2.		(Hebrew= -- • Latin=10:5/F:2 • Greek=10:3b)	Est.10:13=Last & Est.10:3.1=NotExist & Est.10:3<Est.10:2*2 & Est.10:4=NotExist	
@@ -7097,7 +7101,7 @@ Latin	Esg.C:28	Esg.14:17	Renumber verse	Nec. [C:28]	%Normally in this Bible the 
 Latin	Esg.C:29	Esg.14:18	Renumber verse	Nec. [C:29]	%Normally in this Bible the verse numbering here is% C:29.		(Hebrew= -- • Latin=14:18/C:29 • Greek=4:17ac)	Esg.4:17=Last & Esg.4:17.1=NotExist & Esg.4:17<Esg.4:16 & Esg.14:1=NotExist	
 Latin	Esg.C:30	Esg.14:19	Renumber verse	Nec. [C:30]	%Normally in this Bible the verse numbering here is% C:30.		(Hebrew= -- • Latin=14:19/C:30 • Greek=4:17ad)	Esg.4:17=Last & Esg.4:17.1=NotExist & Esg.4:17<Esg.4:16 & Esg.14:1=NotExist	
 
-English	Esg.5:1	Esg.5:1	Keep verse	Acd. [0]	%In some Bibles this verse may contain text similar to% 15:1-16.			(Hebrew=5:1 • Latin=5:1 • Greek=5:1)	Esg.5:14=Last & Esg.5:1.1=NotExist & Esg.5:1<Esg.5:5*3 & Esg.15:1=Exist & Esg.15:19=NotExist	
+English	Esg.5:1	Esg.5:1	Keep verse	Acd. [0]	%In some Bibles this verse may contain text similar to% 15:1-16.		(Hebrew=5:1 • Latin=5:1 • Greek=5:1)	Esg.5:14=Last & Esg.5:1.1=NotExist & Esg.5:1<Esg.5:5*3 & Esg.15:1=Exist & Esg.15:19=NotExist	
 English	Esg.15:1	Esg.15:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% D:1.		(Hebrew= -- • Latin=15:1/D:1 • Greek=5:1a)	Esg.5:14=Last & Esg.5:1.1=NotExist & Esg.5:1<Esg.5:5*3 & Esg.15:1=Exist & Esg.15:19=NotExist	
 English	Esg.15:2	Esg.15:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% D:2.		(Hebrew= -- • Latin=15:2/D:2 • Greek=5:1b)	Esg.5:14=Last & Esg.5:1.1=NotExist & Esg.5:1<Esg.5:5*3 & Esg.15:1=Exist & Esg.15:19=NotExist	
 English	Esg.15:3	Esg.15:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% D:3.		(Hebrew= -- • Latin=15:3/D:3 • Greek=5:1c)	Esg.5:14=Last & Esg.5:1.1=NotExist & Esg.5:1<Esg.5:5*3 & Esg.15:1=Exist & Esg.15:19=NotExist	
