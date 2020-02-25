@@ -6638,7 +6638,7 @@ GreekIntegrated	Est.5:20	Est.5:12	Renumber verse	Nec. [20]	%Normally in this Bib
 GreekIntegrated	Est.5:21	Est.5:13	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 5:21.		(Hebrew=5:13 • Latin=5:13 • Greek=5:13)	Est.5:22=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 GreekIntegrated	Est.5:22	Est.5:14	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 5:22.		(Hebrew=5:14 • Latin=5:14 • Greek=5:14)	Est.5:22=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 GreekUndivided	Est.5:1	Est.5:1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 5:1,a-f.	%In some Bibles only the start of this verse is present%.	(Hebrew=5:1 • Latin=5:1; 15:1-9 / D:1-9 • Greek=5:1,a-f)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1>Est.5:5*3 & Est.15:1=NotExist	
-Hebrew+Latin	Est.5:1	Est.5:1.1	Renumber verse	Nec. [1]	%In some Bibles this verse contains extra text%.		(Hebrew=5:1 • Latin=5:1 • Greek=5:1)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
+Hebrew+Latin	Est.5:1	Est.5:1.0	Renumber verse	Nec. [1]	%In some Bibles this verse contains extra text%.		(Hebrew=5:1 • Latin=5:1 • Greek=5:1)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Hebrew+Latin	Est.5:2	Est.5:2.0	Renumber verse	Nec. [2]	%In some Bibles this verse contains extra text%.		(Hebrew=5:2 • Latin=5:2 • Greek=5:2)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Latin	Est.D:1	Est.5:1.1	Renumber verse	Nec. [D:1]	%Normally in this Bible the verse numbering here is% D:1.		(Hebrew= -- • Latin=15:1/D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Latin	Est.D:1	Est.5:1.2	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.1.		(Hebrew= -- • Latin=15:1/D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
@@ -19601,7 +19601,6 @@ Latin	Sir.41:25	Sir.41:21.1	Renumber verse	Nec. [25]	%Normally in this Bible the
 Latin	Sir.41:26	Sir.41:21.2	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 41:26.		(Latin=41:25-26 • Greek=41:21)	Sir.41:28=Last	
 Latin	Sir.41:27	Sir.41:22.1	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 41:27.		(Latin=41:27-28 • Greek=41:22)	Sir.41:28=Last	
 Latin	Sir.41:28	Sir.41:22.2	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 41:28.		(Latin=41:27-28 • Greek=41:22)	Sir.41:28=Last	
-Bulgarian2	Sir.41:29	Sir.41:22.3	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 41:29.		(Latin=41:27-28 • Greek=41:22)	Sir.41:29=Last	
 Bulgarian	Sir.41:21	Sir.41:21.1	Keep verse	Nec. [21-23]	%Normally in this Bible the verse numbering here is% 41:21.		(Latin=41:25-26 • Greek=41:21)	Sir.41:27=Last	
 Bulgarian	Sir.41:22	Sir.41:21.2	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 41:22.		(Latin=41:25-26 • Greek=41:21)	Sir.41:27=Last	
 Bulgarian	Sir.41:23	Sir.41:21.3	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Latin=41:25-26 • Greek=41:21)	Sir.41:27=Last	
