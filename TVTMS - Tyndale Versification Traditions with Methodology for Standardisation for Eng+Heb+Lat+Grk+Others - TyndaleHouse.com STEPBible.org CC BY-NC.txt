@@ -368,11 +368,17 @@ MergedVerses	Jos.21:36-37	Jos.21:36-37	Jos.21:36	Jos.21:36-37
 MergedVerses	Jos.21:38-39	Jos.21:38-39	Jos.21:37	Jos.21:38-39			
 OneToOne	Jos.21:40-45	Jos.21:40-45	Jos.21:38-43	Jos.21:40-45			
 
-$Jos.24:29-24:31	English	Hebrew	Latin	Greek*
-TEST: If...	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26<Jos.24:29			
-OneToOne	Jos.24:29	Jos.24:29	Jos.24:29	Jos.24:30			
-OneToOne	Jos.24:30	Jos.24:30	Jos.24:30	Jos.24:31			
-OneToOne	Jos.24:31	Jos.24:31	Jos.24:31	Jos.24:29			
+$Jos.24:29-24:31	English	Hebrew	Latin	Greek*	Greek2*#	Bulgarian*#
+TEST: If...	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26<Jos.24:29			
+TEST: & if... 	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=Exist	Jos.24:33.1=Exist	
+TEST: & if... 	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=Exist	
+OneToOne	Jos.24:29	Jos.24:29	Jos.24:29	Jos.24:30	Jos.24:30	Jos.24:30			
+OneToOne	Jos.24:30	Jos.24:30	Jos.24:30	Jos.24:31	Jos.24:31	Jos.24:31			
+OneToOne	Jos.24:31	Jos.24:31	Jos.24:31	Jos.24:29	Jos.24:29	Jos.24:29			
+OneToOne	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32			
+OneToOne	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33.0	Jos.24:33.0			
+OneToOne	Jos.24:33.1	NoVerse	NoVerse	NoVerse	Jos.24:33.1	Jos.24:33.1			
+SubdividedVerse	Jos.24:33.2	NoVerse	NoVerse	NoVerse	Jos.24:33.2	Jos.24:33.2-3			
 
 $Jdg.5:31	English	Hebrew	Latin	Greek	
 TEST: If...	Jdg.5:31=Last	Jdg.5:31=Last	Jdg.5:32=Last	Jdg.5:31=Last			
@@ -648,8 +654,6 @@ LongVerse/LVExtra	Est.4:17.18-21	NoVerse	Est.C:18-21	Est.4:17.18-21	NoVerse	Est.
 +MergedVerses	Est.4:17.22-23	NoVerse	Est.C:22-23	Est.4:17.22-23	NoVerse	Est.14:11-12	Est.4:34
 LongVerse/LVExtra	Est.4:17.24-30	NoVerse	Est.C:24-30	Est.4:17.24-30	NoVerse	Est.14:13-19	Est.4:35-41
 
-
-
 $Est.5:1-14	English	Hebrew	Latin	Greek	GreekUndivided	Latin2	GreekIntegrated	
 TEST: If...	Est.5:14=Last	Est.5:14=Last	Est.5:14=Last	Est.5:14=Last	Est.5:14=Last	Est.5:14=Last	Est.5:22=Last	
 TEST: & if... 	Est.5:1.1=Exist	Est.5:1.1=NotExist	Est.5:1.1=NotExist	Est.5:1.1=Exist	Est.5:1.1=NotExist	Est.5:1.1=NotExist	Est.5:1.1=NotExist	
@@ -760,23 +764,22 @@ LongVerse/LVExtra	Esg.10:4	NoVerse	Esg.F:1	Esg.10:3.1	NoVerse	Esg.10:4  [=Esg.10
 LongVerse/LVExtra	Esg.10:5-13	NoVerse	Esg.F:2-10	Esg.10:3.2-10	NoVerse	NoVerse	Esg.10:5-13	Esg.10:5-13
 LongVerse/LVExtra	Esg.11:1	NoVerse	Esg.F:11	Esg.10:3.11	NoVerse	NoVerse	Esg.11:1	Esg.10:14
 
-
 $Job.16:4-16:22	English	Hebrew	Latin	Greek	
 TEST: If...	Job.16:22=Last	Job.16:22=Last	Job.16:23=Last	Job.16:22=Last			
 SubdividedVerse	Job.16:4	Job.16:4	Job.16:4-5	Job.16:4			
 OneToOne	Job.16:5-22	Job.16:5-22	Job.16:6-23	Job.16:5-22			
 
-$Job.40:1--41:34	English	Hebrew	Latin	Greek	Spanish RV 1909	French NEG 1979 	
-TEST: If...	Job.39:30=Last	Job.39:30=Last	Job.39:35=Last	Job.39:30=Last	Job.39:38=Last	Job.39:38=Last		
-TEST: If...	Job.40:24=Last	Job.40:32=Last	Job.40:28=Last	Job.40:32=Last	Job.40:19=Last	Job.40:28=Last	
-TEST: If...	Job.41:34=Last	Job.41:26=Last	Job.41:25=Last	Job.41:26=Last	Job.41:34=Last	Job.41:25=Last		
-OneToOne	Job.38:39-41	Job.38:39-41	Job.38:39-41	Job.38:39-41	Job.39:1-3	Job.39:1-3	
-OneToOne	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:4-33	Job.39:4-33	
-OneToOne	Job.40:1-5	Job.40:1-5	Job.39:31-35	Job.40:1-5	Job.39:34-38	Job.39:34-38	
-OneToOne	Job.40:6-24	Job.40:6-24	Job.40:1-19	Job.40:6-24	Job.40:1-19	Job.40:1-19	
-OneToOne	Job.41:1-8	Job.40:25-32	Job.40:20-27	Job.40:25-32	Job.41:1-8	Job.40:20-27	
-OneToOne	Job.41:9	Job.41:1	Job.40:28	Job.41:1	Job.41:9	Job.40:28	
-OneToOne	Job.41:10-34	Job.41:2-26	Job.41:1-25	Job.41:2-26	Job.41:10-34	Job.41:1-25	
+$Job.40:1--41:34	English	Hebrew	Latin	Greek	Spanish RV 1909	French NEG 1979 	Bulgarian# 	
+TEST: If...	Job.39:30=Last	Job.39:30=Last	Job.39:35=Last	Job.39:30=Last	Job.39:38=Last	Job.39:38=Last	Job.39:35=Last		
+TEST: If...	Job.40:24=Last	Job.40:32=Last	Job.40:28=Last	Job.40:32=Last	Job.40:19=Last	Job.40:28=Last	Job.40:27=Last	
+TEST: If...	Job.41:34=Last	Job.41:26=Last	Job.41:25=Last	Job.41:26=Last	Job.41:34=Last	Job.41:25=Last	Job.41:26=Last		
+OneToOne	Job.38:39-41	Job.38:39-41	Job.38:39-41	Job.38:39-41	Job.39:1-3	Job.39:1-3	Job.38:39-41	
+OneToOne	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:1-30	Job.39:4-33	Job.39:4-33	Job.39:1-30	
+OneToOne	Job.40:1-5	Job.40:1-5	Job.39:31-35	Job.40:1-5	Job.39:34-38	Job.39:34-38	Job.39:31-35	
+OneToOne	Job.40:6-24	Job.40:6-24	Job.40:1-19	Job.40:6-24	Job.40:1-19	Job.40:1-19	Job.40:1-19	
+OneToOne	Job.41:1-8	Job.40:25-32	Job.40:20-27	Job.40:25-32	Job.41:1-8	Job.40:20-27	Job.40:20-27	
+OneToOne	Job.41:9	Job.41:1	Job.40:28	Job.41:1	Job.41:9	Job.40:28	Job.41:1	
+OneToOne	Job.41:10-34	Job.41:2-26	Job.41:1-25	Job.41:2-26	Job.41:10-34	Job.41:1-25	Job.41:2-26	
 
 $Job.42:16-17	English	Hebrew	Latin	Greek	
 TEST: If...	Job.42:17=Last	Job.42:17=Last	Job.42:16=Last	Job.42:17=Last			
@@ -1621,9 +1624,13 @@ $Pro.4:27	English	Hebrew	Latin	Greek	Greek2
 TEST: If...	Pro.4:27=Last	Pro.4:27=Last	Pro.4:27=Last	Pro.4:27=Last	Pro.4:29=Last		
 SubdividedVerse	Pro.4:27	Pro.4:27	Pro.4:27	Pro.4:27	Pro.4:27-29		
 
-$Pro.18:22	English	Hebrew	Latin	Greek	Greek2
-TEST: If...	Pro.18:22=Last	Pro.18:22=Last	Pro.18:22=Last	Pro.18:22=Last	Pro.18:23=Last		
-SubdividedVerse	Pro.18:22	Pro.18:22	Pro.18:22	Pro.18:22	Pro.18:22-23		
+$Pro.18:8-24	English	Hebrew	Latin	Greek	Greek2	Bulgarian
+TEST: If...	Pro.18:24=Last	Pro.18:24=Last	Pro.18:24=Last	Pro.18:22=Last	Pro.18:23=Last	Pro.18:25=Last
+TEST: & if... #	Pro.18:22.1=NotExist	Pro.18:22.1=NotExist	Pro.18:22.1=NotExist	Pro.18:22.1=NotExist	Pro.18:22.1=Exist	Pro.18:22.1=NotExist	
+SubdividedVerse	Pro.18:8	Pro.18:8	Pro.18:8	Pro.18:8	Pro.18:8	Pro.18:8-9	
+OneToOne	Pro.18:9-21	Pro.18:9-21	Pro.18:9-21	Pro.18:9-21	Pro.18:9-21	Pro.18:10-22	
+SubdividedVerse	Pro.18:22	Pro.18:22	Pro.18:22	Pro.18:22	Pro.18:22-23	Pro.18:23	
+SubdividedVerse	Pro.18:23-24	Pro.18:23-24	Pro.18:23-24	Absent	Absent	Pro.18:24-25	
 
 $Pro.20:20-22	English	Hebrew	Latin	Greek	
 TEST: If...	Pro.20:20-22>Pro.20:23	Pro.20:20-22>Pro.20:23	Pro.20:20-22>Pro.20:23	Pro.20:20-22<Pro.20:23			
@@ -1853,7 +1860,6 @@ TEST: If...	Bel.1:42=Last	Bel.1:10=NotExist	Bel.1:10=NotExist	Bel.1:42=Last
 TEST: & if... 	Dan.14:1=NotExist	Dan.14:1=NotExist	Dan.14:1=Exist	Dan.14:1=NotExist			
 TextMayBeMissing	Bel.1:1	NoVerse	Absent	Bel.1:1			
 OneToOne	Bel.1:2-42	NoVerse	Dan.14:1-41	Bel.1:2-42			
-
 
 $Hos.1:10--2:23	English	Hebrew	Latin	Greek	
 TEST: If...	Hos.2:23=Last	Hos.2:25=Last	Hos.2:24=Last	Hos.2:23=Last			
@@ -2480,12 +2486,58 @@ SubdividedVerse	Sir.51:19	Sir.51:25-26	Sir.51:19
 SubdividedVerse	Sir.51:20	Sir.51:27-28	Sir.51:20			
 OneToOne	Sir.51:21-30	Sir.51:29-38	Sir.51:21-30			
 
+$Sir.4:10-4:31	English	Latin	Greek	Bulgarian#
+TEST: If...	Sir.4:31=Last	Sir.4:36=Last	Sir.4:31=Last	Sir.4:35=Last			
+SubdividedVerse	Sir.4:10	Sir.4:10-11	Sir.4:10	Sir.4:10-11	
+OneToOne	Sir.4:11-16	Sir.4:12-17	Sir.4:11-16	Sir.4:12-17	
+SubdividedVerse	Sir.4:17	Sir.4:18-19	Sir.4:17	Sir.4:18-19	
+SubdividedVerse	Sir.4:18	Sir.4:20-21	Sir.4:18	Sir.4:20-21	
+OneToOne	Sir.4:19	Sir.4:22	Sir.4:19	Sir.4:22	
+SubdividedVerse	Sir.4:20	Sir.4:23-24	Sir.4:20	Sir.4:23-24	
+OneToOne	Sir.4:21	Sir.4:25	Sir.4:21	Sir.4:25	
+SubdividedVerse	Sir.4:22	Sir.4:26-27	Sir.4:22	Sir.4:26	
+OneToOne	Sir.4:23-31	Sir.4:28-36	Sir.4:23-31	Sir.4:27-35	
+
+$Wis.5:1-5:23#	English	Latin	Greek		
+TEST: If...	Wis.5:23=Last	Wis.5:24=Last	Wis.5:23=Last	
+OneToOne	Wis.5:1-12	Wis.5:1-12	Wis.5:1-12	
+SubdividedVerse	Wis.5:13	Wis.5:13-14	Wis.5:13	
+OneToOne	Wis.5:14-23	Wis.5:15-24	Wis.5:14-23	
+
 $Wis.6:1-6:25	English	Latin	Greek		
 TEST: If...	Wis.6:25=Last	Wis.6:27=Last	Wis.6:25=Last			
 SubdividedVerse	Wis.6:1	Wis.6:1-2	Wis.6:1			
 OneToOne	Wis.6:2-20	Wis.6:3-21	Wis.6:2-20			
 SubdividedVerse	Wis.6:21	Wis.6:22-23	Wis.6:21			
 OneToOne	Wis.6:22-25	Wis.6:24-27	Wis.6:22-25			
+
+$Sir.7:1-36#	English	Latin*	Greek	Bulgarian#	
+TEST: If...	Sir.7:36=Last	Sir.7:40=Last	Sir.7:36=Last	Sir.7:39=Last			
+OneToOne	Sir.7:1-8	Sir.7:1-8	Sir.7:1-8	Sir.7:1-8	
+OneToOne	Sir.7:9	Sir.7:11	Sir.7:9	Sir.7:9	
+SubdividedVerse	Sir.7:10	Sir.7:9-10	Sir.7:10	Sir.7:10	
+OneToOne	Sir.7:11-15	Sir.7:12-16	Sir.7:11-15	Sir.7:11-15	
+SubdividedVerse	Sir.7:16	Sir.7:17-18	Sir.7:16	Sir.7:16, 18	
+SubdividedVerse	Sir.7:17	Sir.7:19	Sir.7:17	Sir.7:17, 19	
+OneToOne	Sir.7:18-30	Sir.7:20-32	Sir.7:18-30	Sir.7:20-32	
+SubdividedVerse	Sir.7:31	Sir.7:33-35	Sir.7:31	Sir.7:33-34	
+OneToOne	Sir.7:32-36	Sir.7:36-40	Sir.7:32-36	Sir.7:35-39	
+
+$Wis.9:1-9:18#	English	Latin	Greek		
+TEST: If...	Wis.9:18=Last	Wis.9:19=Last	Wis.9:18=Last	
+OneToOne	Wis.9:1-17	Wis.9:1-17	Wis.9:1-17	
+SubdividedVerse	Wis.9:18	Wis.9:18-19	Wis.9:18			
+
+$Wis.11:1-11:26	English	Latin	Greek		
+TEST: If...	Wis.11:26=Last	Wis.11:27=Last	Wis.11:26=Last			
+OneToOne	Wis.11:1-4	Wis.11:1-4	Wis.11:1-4			
+SubdividedVerse	Wis.11:5	Wis.11:5-6	Wis.11:5			
+OneToOne	Wis.11:6-26	Wis.11:7-27	Wis.11:6-26			
+
+$Wis.12:1-12:27	English	Latin	Greek	Bulgarian#	
+TEST: If...	Wis.12:27=Last	Wis.12:27=Last	Wis.12:27=Last	Wis.12:28=Last	
+OneToOne	Wis.12:1-26	Wis.12:1-26	Wis.12:1-26	Wis.12:1-26	
+SubdividedVerse	Wis.12:27	Wis.12:27	Wis.12:27	Wis.12:27-28	
 
 $Wis.17:9-17:21	English	Latin	Greek		
 TEST: If...	Wis.17:21=Last	Wis.17:20=Last	Wis.17:21=Last			
@@ -2498,20 +2550,182 @@ MergedVerses	Wis.19:12-13	Wis.19:12	Wis.19:12-13
 OneToOne	Wis.19:14-20	Wis.19:13-19	Wis.19:14-20			
 MergedVerses	Wis.19:21-22	Wis.19:20	Wis.19:21-22			
 
-$Wis.11:1-11:26	English	Latin	Greek		
-TEST: If...	Wis.11:26=Last	Wis.11:27=Last	Wis.11:26=Last			
-OneToOne	Wis.11:1-4	Wis.11:1-4	Wis.11:1-4			
-SubdividedVerse	Wis.11:5	Wis.11:5-6	Wis.11:5			
-OneToOne	Wis.11:6-26	Wis.11:7-27	Wis.11:6-26			
+$Sir.22:7-22:27	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.22:27=Last	Sir.22:33=Last	Sir.22:27=Last	Sir.22:31=Last			
+TextMayBeMissing	Sir.22:7-8	Absent	Sir.22:7-8	Absent		
+OneToOne	Sir.22:9-10	Sir.22:7-8	Sir.22:9-10	Sir.22:7-8		
+SubdividedVerse	Sir.22:11	Sir.22:10-12	Sir.22:11	Sir.22:9-10		
+OneToOne	Sir.22:12	Sir.22:13	Sir.22:12	Sir.22:11		
+SubdividedVerse	Sir.22:13	Sir.22:14-16	Sir.22:13	Sir.22:12-14		
+OneToOne	Sir.22:14-15	Sir.22:17-18	Sir.22:14-15	Sir.22:15-16		
+SubdividedVerse	Sir.22:16	Sir.22:19-21	Sir.22:16	Sir.22:17		
+MergedVerses	Sir.22:17-18	Sir.22:22	Sir.22:17-18	Sir.22:18-19		
+OneToOne	Sir.22:19-21	Sir.22:23-25	Sir.22:19-21	Sir.22:21-23		
+SubdividedVerse	Sir.22:22	Sir.22:26-27	Sir.22:22	Sir.22:24		
+SubdividedVerse	Sir.22:23	Sir.22:28-29	Sir.22:23	Sir.22:26-27		
+OneToOne	Sir.22:24-27	Sir.22:30-33	Sir.22:24-27	Sir.22:28-31		
 
+$Sir.23:9-23:27	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.23:27=Last	Sir.23:38=Last	Sir.23:27=Last	Sir.23:37=Last			
+MergedVerses	Sir.23:4-5	Sir.23:4-5	Sir.23:4-5	Sir.23:4	
+MergedVerses	Sir.23:6-8	Sir.23:6-8	Sir.23:6-8	Sir.23:5-7	
+SubdividedVerse	Sir.23:9	Sir.23:9-10	Sir.23:9	Sir.23:8-9	
+OneToOne	Sir.23:10	Sir.23:11	Sir.23:10	Sir.23:10	
+SubdividedVerse	Sir.23:11	Sir.23:12-14	Sir.23:11	Sir.23:11-13	
+SubdividedVerse	Sir.23:12	Sir.23:15-16	Sir.23:12	Sir.23:14-15	
+OneToOne	Sir.23:13	Sir.23:17	Sir.23:13	Sir.23:16	
+SubdividedVerse	Sir.23:14	Sir.23:18-19	Sir.23:14	Sir.23:17-18	
+OneToOne	Sir.23:15-16	Sir.23:20-21	Sir.23:15-16	Sir.23:19-20	
+SubdividedVerse	Sir.23:17	Sir.23:22-24	Sir.23:17	Sir.23:21-23	
+SubdividedVerse	Sir.23:18	Sir.23:25-26	Sir.23:18	Sir.23:24-25	
+SubdividedVerse	Sir.23:19	Sir.23:27-28	Sir.23:19	Sir.23:26-27	
+OneToOne	Sir.23:20-21	Sir.23:29-30	Sir.23:20-21	Sir.23:28-29	
+SubdividedVerse	Sir.23:22	Sir.23:31-32	Sir.23:22	Sir.23:30-31	
+OneToOne	Sir.23:23-26	Sir.23:33-36	Sir.23:23-26	Sir.23:32-35	
+SubdividedVerse	Sir.23:27	Sir.23:37-38	Sir.23:27	Sir.23:36-37	
+
+$Sir.24:2-24:34	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.24:34=Last	Sir.24:47=Last	Sir.24:34=Last	Sir.24:37=Last			
+SubdividedVerse	Sir.24:2	Sir.24:2-4	Sir.24:2	Sir.24:2		
+SubdividedVerse	Sir.24:3	Sir.24:5-6	Sir.24:3	Sir.24:3		
+OneToOne	Sir.24:4-5	Sir.24:7-8	Sir.24:4-5	Sir.24:4-5		
+SubdividedVerse	Sir.24:6	Sir.24:9-10	Sir.24:6	Sir.24:6		
+OneToOne	Sir.24:7	Sir.24:11	Sir.24:7	Sir.24:7		
+SubdividedVerse	Sir.24:8	Sir.24:12-13	Sir.24:8	Sir.24:8-9		
+OneToOne	Sir.24:9-14	Sir.24:14-19	Sir.24:9-14	Sir.24:10-15		
+SubdividedVerse	Sir.24:15	Sir.24:20-21	Sir.24:15	Sir.24:16-18		
+OneToOne	Sir.24:16-17	Sir.24:22-23	Sir.24:16-17	Sir.24:19-20	
+SubdividedVerse	Sir.24:18	Sir.24:24-25	Absent	Absent	
+OneToOne	Sir.24:19	Sir.24:26	Sir.24:19	Sir.24:21	
+SubdividedVerse	Sir.24:20	Sir.24:27-28	Sir.24:20	Sir.24:22	
+OneToOne	Sir.24:21	Sir.24:29	Sir.24:21	Sir.24:23	
+SubdividedVerse	Sir.24:22	Sir.24:30-31	Sir.24:22	Sir.24:24	
+SubdividedVerse	Sir.24:23	Sir.24:32-33	Sir.24:23	Sir.24:25	
+OneToOne	Sir.24:24	Sir.24:34	Absent	Absent	
+OneToOne	Sir.24:25-29	Sir.24:35-39	Sir.24:25-29	Sir.24:27-31	
+SubdividedVerse	Sir.24:30	Sir.24:40-41	Sir.24:30	Sir.24:32	
+SubdividedVerse	Sir.24:31	Sir.24:42-43	Sir.24:31	Sir.24:33	
+SubdividedVerse	Sir.24:32	Sir.24:44-45	Sir.24:32	Sir.24:35	
+OneToOne	Sir.24:33-34	Sir.24:46-47	Sir.24:33-34	Sir.24:36-37	
+
+$Sir.25:1-25:26	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.25:26=Last	Sir.25:36=Last	Sir.25:26=Last	Sir.25:29=Last
+SubdividedVerse	Sir.25:1	Sir.25:1-2	Sir.25:1	Sir.25:1-2	
+SubdividedVerse	Sir.25:2	Sir.25:3-4	Sir.25:2	Sir.25:3-4	
+OneToOne	Sir.25:3-6	Sir.25:5-8	Sir.25:3-6	Sir.25:5-8	
+SubdividedVerse	Sir.25:7	Sir.25:9-10	Sir.25:7	Sir.25:9-10	
+OneToOne	Sir.25:8-10	Sir.25:11-13	Sir.25:8-10	Sir.25:11-13	
+SubdividedVerse	Sir.25:11	Sir.25:14-15	Sir.25:11	Sir.25:14	
+OneToOne	Sir.25:12	Sir.25:16	Absent	Absent	
+SubdividedVerse	Sir.25:13	Sir.25:17-19	Sir.25:13	Sir.25:15	
+SubdividedVerse	Sir.25:14	Sir.25:20-21	Sir.25:14	Sir.25:16	
+OneToOne	Sir.25:15-21	Sir.25:22-28	Sir.25:15-21	Sir.25:17-23	
+SubdividedVerse	Sir.25:22	Sir.25:29-30	Sir.25:22	Sir.25:24	
+SubdividedVerse	Sir.25:23	Sir.25:31-32	Sir.25:23	Sir.25:25-26	
+OneToOne	Sir.25:24-25	Sir.25:33-34	Sir.25:24-25	Sir.25:27-28	
+SubdividedVerse	Sir.25:26	Sir.25:35-36	Sir.25:26	Sir.25:29	
+
+$Sir.29:5-29:28	English	Latin	Greek	Latin2-DRA	Bulgarian#
+TEST: If...	Sir.29:28=Last	Sir.29:35=Last	Sir.29:28=Last	Sir.29:34=Last	Sir.29:31=Last		
+SubdividedVerse	Sir.29:5	Sir.29:5-6	Sir.29:5	Sir.29:5-6	Sir.29:5-6	
+SubdividedVerse	Sir.29:6	Sir.29:7-9	Sir.29:6	Sir.29:7-9	Sir.29:7-9	
+OneToOne	Sir.29:7-12	Sir.29:10-15	Sir.29:7-12	Sir.29:10-15	Sir.29:10-15	
+SubdividedVerse	Sir.29:13	Sir.29:16-17	Sir.29:13	Sir.29:16	Sir.29:16	
+OneToOne	Sir.29:14-15	Sir.29:18-19	Sir.29:14-15	Sir.29:17-18	Sir.29:17-18	
+OneToOne	Sir.29:16-17	Sir.29:20-21	Sir.29:16-17	Sir.29:19-20	Sir.29:18-19	
+SubdividedVerse	Sir.29:18	Sir.29:22-25	Sir.29:18	Sir.29:22-24	Sir.29:20-21	
+OneToOne	Sir.29:19-28	Sir.29:26-35	Sir.29:19-28	Sir.29:25-34	Sir.29:22-31	
+
+$Sir.31:12-31:31	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.31:31=Last	Sir.31:42=Last	Sir.31:31=Last	Sir.31:37=Last			
+SubdividedVerse	Sir.31:10	Sir.31:10	Sir.31:10	Sir.31:10-11		
+SubdividedVerse	Sir.31:11	Sir.31:11	Sir.31:11	Sir.31:12		
+SubdividedVerse	Sir.31:12	Sir.31:12-13	Sir.31:12	Sir.31:13		
+SubdividedVerse	Sir.31:13	Sir.31:14-15	Sir.31:13	Sir.31:14-15		
+SubdividedVerse	Sir.31:14	Sir.31:16-17	Sir.31:14	Sir.31:16		
+OneToOne	Sir.31:15-18	Sir.31:18-21	Sir.31:15-18	Sir.31:17-20		
+SubdividedVerse	Sir.31:19	Sir.31:22-23	Sir.31:19	Sir.31:21		
+OneToOne	Sir.31:20-21	Sir.31:24-25	Sir.31:20-21	Sir.31:22-24		
+SubdividedVerse	Sir.31:22	Sir.31:26-27	Sir.31:22	Sir.31:25-26		
+OneToOne	Sir.31:23-26	Sir.31:28-31	Sir.31:23-26	Sir.31:27-30		
+SubdividedVerse	Sir.31:27	Sir.31:32-35	Sir.31:27	Sir.31:31-32		
+SubdividedVerse	Sir.31:28	Sir.31:36-37	Sir.31:28	Sir.31:33		
+OneToOne	Sir.31:29	Sir.31:38	Sir.31:29	Sir.31:34		
+SubdividedVerse	Sir.31:30	Sir.31:39-40	Sir.31:30	Sir.31:35		
+SubdividedVerse	Sir.31:31	Sir.31:41-42	Sir.31:31	Sir.31:36-37		
+
+$Sir.32:2-32:21	English	Latin*	Greek	Bulgarian#	
+TEST: If...	Sir.32:24=Last	Sir.32:28=Last	Sir.32:24=Last	Sir.32:25=Last			
+SubdividedVerse	Sir.32:2	Sir.32:2-3	Sir.32:2	Sir.32:2-3		
+SubdividedVerse	Sir.32:3	Sir.32:4-5	Sir.32:3	Sir.32:4-5		
+OneToOne	Sir.32:4-6	Sir.32:6-8	Sir.32:4-6	Sir.32:6-8		
+SubdividedVerse	Sir.32:7	Sir.32:10-11	Sir.32:7	Sir.32:9		
+SubdividedVerse	Sir.32:8	Sir.32:9, 12	Sir.32:8	Sir.32:10		
+OneToOne	Sir.32:9	Sir.32:13	Sir.32:9	Sir.32:11		
+OneToOne	Sir.32:10-17	Sir.32:14-21	Sir.32:10-17	Sir.32:12-19		
+SubdividedVerse	Sir.32:18	Sir.32:22-23	Sir.32:18	Sir.32:20		
+OneToOne	Sir.32:19	Sir.32:24	Sir.32:19	Sir.32:21		
+MergedVerses	Sir.32:20-21	Sir.32:25	Sir.32:20-21	Sir.32:22-23		
+OneToOne	Sir.32:22	Sir.32:26	Sir.32:22	Absent		
+OneToOne	Sir.32:23-24	Sir.32:27-28	Sir.32:23-24	Sir.32:24-25		
+
+$Sir.39:4-39:35	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.39:35=Last	Sir.39:41=Last	Sir.39:35=Last	Sir.39:42=Last			
+SubdividedVerse	Sir.39:4	Sir.39:4-5	Sir.39:4	Sir.39:4		
+SubdividedVerse	Sir.39:5	Sir.39:6-7	Sir.39:5	Sir.39:5-6		
+SubdividedVerse	Sir.39:6	Sir.39:8-9	Sir.39:6	Sir.39:7-8		
+OneToOne	Sir.39:7-8	Sir.39:10-11	Sir.39:7-8	Sir.39:9-10		
+SubdividedVerse	Sir.39:9	Sir.39:12-13	Sir.39:9	Sir.39:11-12		
+OneToOne	Sir.39:10-13	Sir.39:14-17	Sir.39:10-13	Sir.39:13-16		
+SubdividedVerse	Sir.39:14	Sir.39:18-19	Sir.39:14	Sir.39:17-18		
+OneToOne	Sir.39:15	Sir.39:20	Sir.39:15	Sir.39:19-20		
+OneToOne	Sir.39:16	Sir.39:21	Sir.39:16	Sir.39:21		
+OneToOne	Sir.39:17	Sir.39:22	Sir.39:17	Sir.39:22-23		
+OneToOne	Sir.39:18-27	Sir.39:23-32	Sir.39:18-27	Sir.39:24-33		
+SubdividedVerse	Sir.39:28	Sir.39:33-34	Sir.39:28	Sir.39:34-35		
+OneToOne	Sir.39:29-35	Sir.39:35-41	Sir.39:29-35	Sir.39:36-42		
+
+$Sir.41:1-41:22	English	Latin	Greek	Bulgarian	Bulgarian2#
+TEST: If...	Sir.41:22=Last	Sir.41:28=Last	Sir.41:22=Last	Sir.41:27=Last	Sir.41:29=Last	
+SubdividedVerse	Sir.41:1	Sir.41:1-2	Sir.41:1	Sir.41:1	Sir.41:1-2	
+SubdividedVerse	Sir.41:2	Sir.41:3-4	Sir.41:2	Sir.41:2	Sir.41:3-4	
+OneToOne	Sir.41:3	Sir.41:5	Sir.41:3	Sir.41:3	Sir.41:5	
+SubdividedVerse	Sir.41:4	Sir.41:6-7	Sir.41:4	Sir.41:4	Sir.41:6-7	
+OneToOne	Sir.41:5-15	Sir.41:8-18	Sir.41:5-15	Sir.41:5-15	Sir.41:8-18	
+SubdividedVerse	Sir.41:16	Sir.41:19-20	Sir.41:16	Sir.41:16	Sir.41:19-20	
+OneToOne	Sir.41:17-20	Sir.41:21-24	Sir.41:17-20	Sir.41:17-20	Sir.41:21-24	
+SubdividedVerse	Sir.41:21	Sir.41:25-26	Sir.41:21	Sir.41:21-23	Sir.41:25-27	
+SubdividedVerse	Sir.41:22	Sir.41:27-28	Sir.41:22	Sir.41:24-27	Sir.41:28-29	
+
+$Sir.43:8-43:33	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.43:33=Last	Sir.43:37=Last	Sir.43:33=Last	Sir.43:36=Last			
+SubdividedVerse	Sir.43:8	Sir.43:8-9	Sir.43:8	Sir.43:8-9		
+OneToOne	Sir.43:9-16	Sir.43:10-17	Sir.43:9-16	Sir.43:10-17		
+OneToOne	Sir.43:17	Sir.43:18	Sir.43:17	Sir.43:18-19		
+SubdividedVerse	Sir.43:18	Sir.43:19-20	Sir.43:18	Sir.43:20		
+OneToOne	Sir.43:19-28	Sir.43:21-30	Sir.43:19-28	Sir.43:21-30		
+SubdividedVerse	Sir.43:29	Sir.43:31-32	Sir.43:29	Sir.43:31		
+SubdividedVerse	Sir.43:30	Sir.43:33-34	Sir.43:30	Sir.43:32-33		
+OneToOne	Sir.43:31-33	Sir.43:35-37	Sir.43:31-33	Sir.43:34-36		
+
+$Sir.49:1-49:16	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.49:16=Last	Sir.49:19=Last	Sir.49:16=Last	Sir.49:18=Last			
+SubdividedVerse	Sir.49:1	Sir.49:1-2	Sir.49:1	Sir.49:1-2		
+OneToOne	Sir.49:2-3	Sir.49:3-4	Sir.49:2-3	Sir.49:3-4		
+SubdividedVerse	Sir.49:4	Sir.49:5-6	Sir.49:4	Sir.49:5-6		
+OneToOne	Sir.49:5-14	Sir.49:7-16	Sir.49:5-14	Sir.49:7-16		
+SubdividedVerse	Sir.49:15	Sir.49:17-18	Sir.49:15	Sir.49:17		
+OneToOne	Sir.49:16	Sir.49:19	Sir.49:16	Sir.49:18		
+
+$2Ma.2:1-2:32	English	Latin	Greek	Bulgarian#	
+TEST: If...	2Ma.2:32=Last	2Ma.2:33=Last	2Ma.2:32=Last	2Ma.2:33=Last		
+SubdividedVerse	2Ma.2:18	2Ma.2:18-19	2Ma.2:18	2Ma.2:18-19		
+OneToOne	2Ma.219-32	2Ma.2:20-33	2Ma.2:19-32	2Ma.2:20-33		
 
 $2Ma.15:37-15:39	English	Latin	Greek		
 TEST: If...	2Ma.15:39=Last	2Ma.15:40=Last	2Ma.15:39=Last			
 SubdividedVerse	2Ma.15:37	2Ma.15:37-38	2Ma.15:37			
 OneToOne	2Ma.15:38-39	2Ma.15:39-40	2Ma.15:38-39			
-
-
-
 
 $1Es.1:15-1:58	English	Latin	Greek		
 TEST: If...	1Es.1:58=Last	1Es.1:55=Last	1Es.1:55=Last			
@@ -2521,17 +2735,18 @@ OneToOne	1Es.1:19-50	1Es.1:17-48	1Es.1:17-48
 MergedVerses	1Es.1:51-52	1Es.1:49	1Es.1:49			
 OneToOne	1Es.1:53-58	1Es.1:50-55	1Es.1:50-55			
 
-$1Es.2:1-2:30	English	Latin	Greek		
-TEST: If...	1Es.2:30=Last	1Es.2:30=Exist	1Es.2:25=Last			
-MergedVerses	1Es.2:1-2	1Es.2:1-2	1Es.2:1			
-MergedVerses	1Es.2:3-4	1Es.2:3-4	1Es.2:2		
-OneToOne	1Es.2:5	1Es.2:5	1Es.2:3		
-MergedVerses	1Es.2:6-7	1Es.2:6-7	1Es.2:4		
-OneToOne	1Es.2:8-10	1Es.2:8-10	1Es.2:5-7		
-MergedVerses	1Es.2:11-12	1Es.2:11-12	1Es.2:8		
-OneToOne	1Es.2:13-19	1Es.2:13-19	1Es.2:9-15		
-MergedVerses	1Es.2:20-21	1Es.2:20-21	1Es.2:16		
-OneToOne	1Es.2:22-30	1Es.2:22-30	1Es.2:17-25		
+$1Es.2:1-2:30	English	Latin	Greek	Bulgarian#	
+TEST: If...	1Es.2:30=Last	1Es.2:30=Exist	1Es.2:25=Last	1Es.2:31=Last		
+MergedVerses	1Es.2:1-2	1Es.2:1-2	1Es.2:1	1Es.2:1-2		
+MergedVerses	1Es.2:3-4	1Es.2:3-4	1Es.2:2	1Es.2:3-4	
+OneToOne	1Es.2:5	1Es.2:5	1Es.2:3	1Es.2:5	
+MergedVerses	1Es.2:6-7	1Es.2:6-7	1Es.2:4	1Es.2:6-7	
+OneToOne	1Es.2:8-10	1Es.2:8-10	1Es.2:5-7	1Es.2:8-10	
+MergedVerses	1Es.2:11-12	1Es.2:11-12	1Es.2:8	1Es.2:11-12	
+OneToOne	1Es.2:13-19	1Es.2:13-19	1Es.2:9-15	1Es.2:13-19	
+MergedVerses	1Es.2:20-21	1Es.2:20-21	1Es.2:16	1Es.2:20-21	
+OneToOne	1Es.2:22-29	1Es.2:22-29	1Es.2:17-24	1Es.2:22-29	
+OneToOne	1Es.2:30	1Es.2:30	1Es.2:25	1Es.2:30-31	
 
 $1Es.5:41-5:73	English	Latin	Greek		
 TEST: If...	1Es.5:73=Last	1Es.5:73=Last	1Es.5:70=Last			
@@ -2573,8 +2788,6 @@ OneToOne	1Es.8:94-96	1Es.8:95-97	1Es.8:90-92
 $4Es./2Es.10:59-10:60	English	Latin	Greek		
 TEST: If...	2Es.10:59=Last	2Es.10:60=Last	2Es.10:59=Last			
 SubdividedVerse	2Es.10:59	2Es.10:59-60	2Es.10:59		
-
-
 
 $Tob.1:10-1:22	English	Latin	Greek		
 TEST: If...	Tob.1:22=Last	Tob.1:25=Last	Tob.1:22=Last			
@@ -2663,7 +2876,6 @@ SubdividedVerse	Tob.11:9	Tob.11:9-11	Tob.11:9
 OneToOne	Tob.11:10-17	Tob.11:12-19	Tob.11:10-17	
 SubdividedVerse	Tob.11:18	Tob.11:20-21	Tob.11:18-19			
 
-
 $Tob.13:6-13:17	English	Latin	Greek		
 TEST: If...	Tob.13:17=Last	Tob.13:23=Last	Tob.13:18=Last			
 SubdividedVerse	Tob.13:6	Tob.13:6-8	Tob.13:6-7	
@@ -2677,7 +2889,6 @@ TEST: If...	Tob.14:15=Last	Tob.14:17=Last	Tob.14:15=Last
 OneToOne	Tob.14:1	Tob.14:1	Tob.14:1	
 SubdividedVerse	Tob.14:2	Tob.14:2-4	Tob.14:2	
 OneToOne	Tob.14:3-15	Tob.14:5-17	Tob.14:3-15	
-
 
 $Jdt.3:4-3:10	English	Latin	Greek		
 TEST: If...	Jdt.3:10=Last	Jdt.3:15=Last	Jdt.3:10=Last			
@@ -2724,7 +2935,6 @@ MergedVerses	Jdt.8:29-31	Jdt.8:29	Jdt.8:29-31
 SubdividedVerse	Jdt.8:32	Jdt.8:30-31	Jdt.8:32	
 OneToOne	Jdt.8:33-34	Jdt.8:32-33	Jdt.8:33-34	
 MergedVerses	Jdt.8:35-36	Jdt.8:34	Jdt.8:35-36			
-
 
 $Jdt.9:1-9:14	English	Latin	Greek		
 TEST: If...	Jdt.9:14=Last	Jdt.9:19=Last	Jdt.9:14=Last			
@@ -2793,10 +3003,6 @@ OneToOne	Jdt.16:18-22	Jdt.16:22-26	Jdt.16:18-22
 SubdividedVerse	Jdt.16:23	Jdt.16:27-28	Jdt.16:23	
 OneToOne	Jdt.16:24	Jdt.16:29	Jdt.16:24	
 SubdividedVerse	Jdt.16:25	Jdt.16:30-31	Jdt.16:25			
-
-
-
-
 
 $Mat.12:47	English	Greek	Greek2
 TEST: If...	Mat.12:47=NotExist	Mat.12:47=NotExist	Mat.12:47=Exist
@@ -4690,6 +4896,19 @@ English+Hebrew+Latin	Jos.24:31	Jos.24:31	Keep verse	Acd. [29]	%In some Bibles th
 Greek	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29	
 Greek	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29	
 Greek	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29	
+Greek2	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=NotExist
+Greek2	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=NotExist
+Greek2	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=NotExist
+Greek2	Jos.24:33.0	Jos.24:33	Renumber verse	Nec. [0]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=NotExist
+Greek2	Jos.24:33.1	Jos.24:33.1	Keep verse	Acd. [33a]	%In some Bibles the verse numbering here is% 24:33a.		(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=NotExist
+Greek2	Jos.24:33.2	Jos.24:33.2	Keep verse	Acd. [33b]	%In some Bibles the verse numbering here is% 24:33b.		(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=NotExist
+Bulgarian	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=Exist
+Bulgarian	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=Exist
+Bulgarian	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=Exist
+Bulgarian	Jos.24:33.0	Jos.24:33	Renumber verse	Nec. [33]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=Exist
+Bulgarian	Jos.24:33.1	Jos.24:33.1	Keep verse	Acd. [33a]	%Some manuscripts have no text at% 24:33a.		(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=Exist
+Bulgarian	Jos.24:33.2-	Jos.24:33b	Renumber verse	Nec. [33b]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 24:33b.		(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=Exist
+Bulgarian	Jos.24:3	Jos.24:33b	Merged with	Nec. [33c]	%Normally in this Bible some text may be missing here because it is merged with% 24:33b.		(Hebrew=  • Latin=  • Greek= )	Jos.24:26<Jos.24:29 & JOS.24:33.1=Exist & JOS.24:33.3=Exist
 
 English+Hebrew+Greek	Jdg.5:31	Jdg.5:31	Keep verse	Acd. [31-32]	%In some Bibles the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:31=Last	
 Latin	Jdg.5:31	Jdg.5:31.1	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:32=Last	
@@ -7405,6 +7624,7 @@ Latin	Job.16:20	Job.16:19	Renumber verse	Nec. [20]	%Normally in this Bible the v
 Latin	Job.16:21	Job.16:20	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 16:21.		(Hebrew=16:20 • Latin=16:21 • Greek=16:20)	Job.16:23=Last	
 Latin	Job.16:22	Job.16:21	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 16:22.		(Hebrew=16:21 • Latin=16:22 • Greek=16:21)	Job.16:23=Last	
 Latin	Job.16:23	Job.16:22	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 16:23.		(Hebrew=16:22 • Latin=16:23 • Greek=16:22)	Job.16:23=Last	
+
 FrenchNEG	Job.39:1	Job.38:39	Renumber verse	Nec. [39:1]	%Normally in this Bible the verse numbering here is% 39:1.		(Hebrew=38:39 • Latin=38:39 • Greek=38:39)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
 FrenchNEG	Job.39:2	Job.38:40	Renumber verse	Nec. [39:2]	%Normally in this Bible the verse numbering here is% 39:2.		(Hebrew=38:40 • Latin=38:40 • Greek=38:40)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
 FrenchNEG	Job.39:3	Job.38:41	Renumber verse	Nec. [39:3]	%Normally in this Bible the verse numbering here is% 39:3.		(Hebrew=38:41 • Latin=38:41 • Greek=38:41)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
@@ -7761,6 +7981,64 @@ Latin	Job.41:22	Job.41:31	Renumber verse	Nec. [22]	%Normally in this Bible the v
 Latin	Job.41:23	Job.41:32	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
 Latin	Job.41:24	Job.41:33	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
 Latin	Job.41:25	Job.41:34	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.39:38=Last & Job.40:28=Last & Job.41:25=Last	
+Bulgarian 	Job.39:31	Job.40:1	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 39:31.		(Hebrew=40:1 • Latin=39:31 • Greek=40:1)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.39:32	Job.40:2	Renumber verse	Nec. [32]	%In some Bibles the verse numbering here is% 39:32.		(Hebrew=40:2 • Latin=39:32 • Greek=40:2)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.39:33	Job.40:3	Renumber verse	Nec. [33]	%In some Bibles the verse numbering here is% 39:33.		(Hebrew=40:3 • Latin=39:33 • Greek=40:3)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.39:34	Job.40:4	Renumber verse	Nec. [34]	%In some Bibles the verse numbering here is% 39:34.		(Hebrew=40:4 • Latin=39:34 • Greek=40:4)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.39:35	Job.40:5	Keep verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 39:35.		(Hebrew=40:5 • Latin=39:35 • Greek=40:5)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:1	Job.40:6	Renumber verse	Nec. [1]	%In some Bibles the verse numbering here is% 40:1.		(Hebrew=40:6 • Latin=40:1 • Greek=40:6)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:2	Job.40:7	Renumber verse	Nec. [2]	%In some Bibles the verse numbering here is% 40:2.		(Hebrew=40:7 • Latin=40:2 • Greek=40:7)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:3	Job.40:8	Renumber verse	Nec. [3]	%In some Bibles the verse numbering here is% 40:3.		(Hebrew=40:8 • Latin=40:3 • Greek=40:8)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:4	Job.40:9	Renumber verse	Nec. [4]	%In some Bibles the verse numbering here is% 40:4.		(Hebrew=40:9 • Latin=40:4 • Greek=40:9)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:5	Job.40:10	Renumber verse	Nec. [5]	%In some Bibles the verse numbering here is% 40:5.		(Hebrew=40:10 • Latin=40:5 • Greek=40:10)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:6	Job.40:11	Renumber verse	Nec. [6]	%In some Bibles the verse numbering here is% 40:6.		(Hebrew=40:11 • Latin=40:6 • Greek=40:11)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:7	Job.40:12	Renumber verse	Nec. [7]	%In some Bibles the verse numbering here is% 40:7.		(Hebrew=40:12 • Latin=40:7 • Greek=40:12)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:8	Job.40:13	Renumber verse	Nec. [8]	%In some Bibles the verse numbering here is% 40:8.		(Hebrew=40:13 • Latin=40:8 • Greek=40:13)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:9	Job.40:14	Renumber verse	Nec. [9]	%In some Bibles the verse numbering here is% 40:9.		(Hebrew=40:14 • Latin=40:9 • Greek=40:14)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:10	Job.40:15	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 40:10.		(Hebrew=40:15 • Latin=40:10 • Greek=40:15)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:11	Job.40:16	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 40:11.		(Hebrew=40:16 • Latin=40:11 • Greek=40:16)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:12	Job.40:17	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 40:12.		(Hebrew=40:17 • Latin=40:12 • Greek=40:17)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:13	Job.40:18	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 40:13.		(Hebrew=40:18 • Latin=40:13 • Greek=40:18)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:14	Job.40:19	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 40:14.		(Hebrew=40:19 • Latin=40:14 • Greek=40:19)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:15	Job.40:20	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 40:15.		(Hebrew=40:20 • Latin=40:15 • Greek=40:20)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:16	Job.40:21	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 40:16.		(Hebrew=40:21 • Latin=40:16 • Greek=40:21)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:17	Job.40:22	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 40:17.		(Hebrew=40:22 • Latin=40:17 • Greek=40:22)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:18	Job.40:23	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 40:18.		(Hebrew=40:23 • Latin=40:18 • Greek=40:23)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:19	Job.40:24	Keep verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 40:19.		(Hebrew=40:24 • Latin=40:19 • Greek=40:24)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:20	Job.41:1	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 40:20.		(Hebrew=40:25 • Latin=40:20 • Greek=40:25)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:21	Job.41:2	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 40:21.		(Hebrew=40:26 • Latin=40:21 • Greek=40:26)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:22	Job.41:3	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 40:22.		(Hebrew=40:27 • Latin=40:22 • Greek=40:27)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:23	Job.41:4	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 40:23.		(Hebrew=40:28 • Latin=40:23 • Greek=40:28)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:24	Job.41:5	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 40:24.		(Hebrew=40:29 • Latin=40:24 • Greek=40:29)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:25	Job.41:6	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 40:25.		(Hebrew=40:30 • Latin=40:25 • Greek=40:30)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:26	Job.41:7	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% 40:26.		(Hebrew=40:31 • Latin=40:26 • Greek=40:31)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.40:27	Job.41:8	Keep verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 40:27.		(Hebrew=40:32 • Latin=40:27 • Greek=40:32)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:1	Job.41:9	Renumber verse	Nec. [1]	%In some Bibles the verse numbering here is% 41:1.		(Hebrew=41:1 • Latin=40:28 • Greek=41:1)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:2	Job.41:10	Renumber verse	Nec. [2]	%In some Bibles the verse numbering here is% 41:2.		(Hebrew=41:2 • Latin=41:1 • Greek=41:2)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:3	Job.41:11	Renumber verse	Nec. [3]	%In some Bibles the verse numbering here is% 41:3.		(Hebrew=41:3 • Latin=41:2 • Greek=41:3)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:4	Job.41:12	Renumber verse	Nec. [4]	%In some Bibles the verse numbering here is% 41:4.		(Hebrew=41:4 • Latin=41:3 • Greek=41:4)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:5	Job.41:13	Renumber verse	Nec. [5]	%In some Bibles the verse numbering here is% 41:5.		(Hebrew=41:5 • Latin=41:4 • Greek=41:5)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:6	Job.41:14	Renumber verse	Nec. [6]	%In some Bibles the verse numbering here is% 41:6.		(Hebrew=41:6 • Latin=41:5 • Greek=41:6)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:7	Job.41:15	Renumber verse	Nec. [7]	%In some Bibles the verse numbering here is% 41:7.		(Hebrew=41:7 • Latin=41:6 • Greek=41:7)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:8	Job.41:16	Renumber verse	Nec. [8]	%In some Bibles the verse numbering here is% 41:8.		(Hebrew=41:8 • Latin=41:7 • Greek=41:8)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:9	Job.41:17	Renumber verse	Nec. [9]	%In some Bibles the verse numbering here is% 41:9.		(Hebrew=41:9 • Latin=41:8 • Greek=41:9)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:10	Job.41:18	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 41:10.		(Hebrew=41:10 • Latin=41:9 • Greek=41:10)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:11	Job.41:19	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 41:11.		(Hebrew=41:11 • Latin=41:10 • Greek=41:11)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:12	Job.41:20	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 41:12.		(Hebrew=41:12 • Latin=41:11 • Greek=41:12)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:13	Job.41:21	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 41:13.		(Hebrew=41:13 • Latin=41:12 • Greek=41:13)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:14	Job.41:22	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 41:14.		(Hebrew=41:14 • Latin=41:13 • Greek=41:14)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:15	Job.41:23	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 41:15.		(Hebrew=41:15 • Latin=41:14 • Greek=41:15)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:16	Job.41:24	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 41:16.		(Hebrew=41:16 • Latin=41:15 • Greek=41:16)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:17	Job.41:25	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 41:17.		(Hebrew=41:17 • Latin=41:16 • Greek=41:17)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:18	Job.41:26	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 41:18.		(Hebrew=41:18 • Latin=41:17 • Greek=41:18)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:19	Job.41:27	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 41:19.		(Hebrew=41:19 • Latin=41:18 • Greek=41:19)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:20	Job.41:28	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 41:20.		(Hebrew=41:20 • Latin=41:19 • Greek=41:20)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:21	Job.41:29	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 41:21.		(Hebrew=41:21 • Latin=41:20 • Greek=41:21)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:22	Job.41:30	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 41:22.		(Hebrew=41:22 • Latin=41:21 • Greek=41:22)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:23	Job.41:31	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 41:23.		(Hebrew=41:23 • Latin=41:22 • Greek=41:23)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:24	Job.41:32	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 41:24.		(Hebrew=41:24 • Latin=41:23 • Greek=41:24)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:25	Job.41:33	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 41:25.		(Hebrew=41:25 • Latin=41:24 • Greek=41:25)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
+Bulgarian 	Job.41:26	Job.41:34	Keep verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 41:26.		(Hebrew=41:26 • Latin=41:25 • Greek=41:26)	Job.39:35=Last & JOB.40:27=Last & JOB.41:26=Last
 
 English+Hebrew+Greek	Job.42:16	Job.42:16	Keep verse	Acd. [16a]	%In some Bibles the verse numbering here is% 42:16a.		(Hebrew=42:16 • Latin=42:16a • Greek=42:16)	Job.42:17=Last	
 English+Hebrew+Greek	Job.42:17	Job.42:17	Keep verse	Acd. [16b]	%In some Bibles the verse numbering here is% 42:16b.		(Hebrew=42:17 • Latin=42:16b • Greek=42:17)	Job.42:17=Last	
@@ -14240,15 +14518,48 @@ Latin	Psa.147:20	Psa.147:20	Keep verse	Acd. [9]	%In some Bibles the verse number
 
 English+Latin	Ps2.1:1	Ps2.1:1	Keep verse	Acd. [0]	%In some Bibles this book is found at% Psalm 151		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:1)	Psa.151:1=NotExist & Ps2.1:1=Exist 	
 Greek	Psa.151:1	Ps2.1:1	Renumber verse	Acd. [0]	%In some Bibles this chapter is a separate book%		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:1)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
+Greek	Psa.151:2	Ps2.1:2	Renumber verse	Acd. [0]	%Normally in this Bible verse numbering here is% Psalm 151:2		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:2)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
+Greek	Psa.151:3	Ps2.1:3	Renumber verse	Acd. [0]	%Normally in this Bible verse numbering here is% Psalm 151:3		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:3)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
+Greek	Psa.151:4	Ps2.1:4	Renumber verse	Acd. [0]	%Normally in this Bible verse numbering here is% Psalm 151:4		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:4)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
+Greek	Psa.151:5	Ps2.1:5	Renumber verse	Acd. [0]	%Normally in this Bible verse numbering here is% Psalm 151:5		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:5)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
+Greek	Psa.151:6	Ps2.1:6	Renumber verse	Acd. [0]	%Normally in this Bible verse numbering here is% Psalm 151:6		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:6)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
+Greek	Psa.151:7	Ps2.1:7	Renumber verse	Acd. [0]	%Normally in this Bible verse numbering here is% Psalm 151:7		(Hebrew= -- • Latin=Ps2.1:1 • Greek=Psa.151:7)	Psa.151:1=Exist & Ps2.1:1=NotExist 	
 
 English+Hebrew+Latin+Greek	Pro.4:27	Pro.4:27	Keep verse	Acd. [27-29]	%In some Bibles the verse numbering here is% 4:27-29.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-29)	Pro.4:27=Last	
 Greek2	Pro.4:27	Pro.4:27.1	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 35:27-28.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-28)	Pro.4:29=Last	
 Greek2	Pro.4:28	Pro.4:27.2	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 35:28.		(Hebrew= -- •  Latin=35:27b • Greek=35:28)	Pro.4:29=Last	
 Greek2	Pro.4:29	Pro.4:27.3	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 35:29.		(Hebrew= -- •  Latin=35:27c • Greek=35:29)	Pro.4:29=Last	
 
-English+Hebrew+Latin+Greek	Pro.18:22	Pro.18:22	Keep verse	Acd. [22-23]	%In some Bibles the verse numbering here is% 18:22-23.		(Hebrew=35:27 • Latin=35:27 • Greek=35:27-29)	Pro.18:22=Last	
-Greek2	Pro.18:22	Pro.18:22.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 18:22-23.		(Hebrew=18:22 • Latin=18:22 • Greek=18:22-23)	Pro.18:23=Last	
-Greek2	Pro.18:23	Pro.18:22.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 18:23.		(Hebrew= -- •  Latin=18:22b • Greek=18:23)	Pro.18:23=Last	
+Bulgarian	Pro.18:8	Pro.18:8.1	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 18:8.		(Hebrew=18:8 • Latin=18:8a • Greek=18:8a)	Pro.18:25=Last & Pro.18:22.1=NotExist
+Bulgarian	Pro.18:9	Pro.18:8.2	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 18:9.		(Hebrew=18:9 • Latin=18:8b • Greek=18:8b)	Pro.18:25=Last & Pro.18:22.1=NotExist
+Bulgarian	Pro.18:10	Pro.18:9	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 18:10.		(Hebrew=18:9 • Latin=18:9 • Greek=18:9)	Pro.18:25=Last & Pro.18:22.1=NotExist
+Bulgarian	Pro.18:11	Pro.18:10	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 18:11.		(Hebrew=18:10 • Latin=18:10)	Pro.18:25=Last & Pro.18:23.1=NotExist
+Bulgarian	Pro.18:12	Pro.18:11	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 18:12.		(Hebrew=18:11 • Latin=18:11)	Pro.18:25=Last & Pro.18:24.1=NotExist
+Bulgarian	Pro.18:13	Pro.18:12	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 18:13.		(Hebrew=18:12 • Latin=18:12)	Pro.18:25=Last & Pro.18:25.1=NotExist
+Bulgarian	Pro.18:14	Pro.18:13	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 18:14.		(Hebrew=18:13 • Latin=18:13)	Pro.18:25=Last & Pro.18:26.1=NotExist
+Bulgarian	Pro.18:15	Pro.18:14	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 18:15.		(Hebrew=18:14 • Latin=18:14)	Pro.18:25=Last & Pro.18:27.1=NotExist
+Bulgarian	Pro.18:16	Pro.18:15	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 18:16.		(Hebrew=18:15 • Latin=18:15)	Pro.18:25=Last & Pro.18:28.1=NotExist
+Bulgarian	Pro.18:17	Pro.18:16	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 18:17.		(Hebrew=18:16 • Latin=18:16)	Pro.18:25=Last & Pro.18:29.1=NotExist
+Bulgarian	Pro.18:18	Pro.18:17	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 18:18.		(Hebrew=18:17 • Latin=18:17)	Pro.18:25=Last & Pro.18:30.1=NotExist
+Bulgarian	Pro.18:19	Pro.18:18	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 18:19.		(Hebrew=18:18 • Latin=18:18)	Pro.18:25=Last & Pro.18:31.1=NotExist
+Bulgarian	Pro.18:20	Pro.18:19	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 18:20.		(Hebrew=18:19 • Latin=18:19)	Pro.18:25=Last & Pro.18:32.1=NotExist
+Bulgarian	Pro.18:21	Pro.18:20	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 18:21.		(Hebrew=18:20 • Latin=18:20)	Pro.18:25=Last & Pro.18:33.1=NotExist
+Bulgarian	Pro.18:22	Pro.18:21	Keep verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 18:22.		(Hebrew=18:21 • Latin=18:21 • Greek=18:21)	Pro.18:25=Last & Pro.18:22.1=NotExist
+Bulgarian	Pro.18:23	Pro.18:22	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 18:23.		(Hebrew=18:22 • Latin=18:22 • Greek=18:22)	Pro.18:25=Last & Pro.18:22.1=NotExist
+Bulgarian	Pro.18:24	Pro.18:23	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 18:24.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:25=Last & Pro.18:22.1=NotExist
+Bulgarian	Pro.18:25	Pro.18:24	Keep verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 18:25.		(Hebrew=18:24 • Latin=18:24 • Greek= --)	Pro.18:25=Last & Pro.18:22.1=NotExist
+Greek2	Pro.18:22	Pro.18:22.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 18:22.		(Hebrew=18:22 • Latin=18:22a • Greek=18:22a)	Pro.18:23=Last & Pro.18:22.1=Exist
+Greek2	Pro.18:23	Pro.18:22.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 18:23.		(Hebrew=18:23 • Latin=18:22b • Greek=18:22b)	Pro.18:23=Last & Pro.18:22.1=Exist
+Greek2	Pro.18:23	Pro.18:23	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:23=Last & Pro.18:22.1=Exist
+Greek2	Pro.18:23	Pro.18:24	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:23=Last & Pro.18:22.1=Exist
+Greek	Pro.18:23	Pro.18:23	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:22=Last & Pro.18:22.1=NotExist
+Greek	Pro.18:23	Pro.18:24	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:22=Last & Pro.18:22.1=NotExist
+Latin	Pro.18:23	Pro.18:23	Keep verse	Acd. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:24=Last & Pro.18:22.1=NotExist
+Latin	Pro.18:24	Pro.18:24	Keep verse	Acd. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:24 • Latin=18:24 • Greek= --)	Pro.18:24=Last & Pro.18:22.1=NotExist
+Hebrew	Pro.18:23	Pro.18:23	Keep verse	Acd. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:24=Last & Pro.18:22.1=NotExist
+Hebrew	Pro.18:24	Pro.18:24	Keep verse	Acd. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:24 • Latin=18:24 • Greek= --)	Pro.18:24=Last & Pro.18:22.1=NotExist
+English	Pro.18:23	Pro.18:23	Keep verse	Acd. [23]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:23 • Latin=18:23 • Greek= --)	Pro.18:24=Last & Pro.18:22.1=NotExist
+English	Pro.18:24	Pro.18:24	Keep verse	Acd. [24]	%In some Bibles this verse may not contain any text%.		(Hebrew=18:24 • Latin=18:24 • Greek= --)	Pro.18:24=Last & Pro.18:22.1=NotExist
 
 English+Hebrew+Latin	Pro.20:20	Pro.20:20	Keep verse	Acd. [9a]	%In some Bibles the verse numbering here is% 20:9a.		(Hebrew=20:20 • Latin=20:20 • Greek=20:9a)	Pro.20:20-22>Pro.20:23	
 English+Hebrew+Latin	Pro.20:21	Pro.20:21	Keep verse	Acd. [9b]	%In some Bibles the verse numbering here is% 20:9b.		(Hebrew=20:21 • Latin=20:21 • Greek=20:9b)	Pro.20:20-22>Pro.20:23	
@@ -17103,7 +17414,8 @@ Latin	Dan.14:37	Bel.1:38	Renumber verse	Nec. [37]	%Normally in this Bible the ve
 Latin	Dan.14:38	Bel.1:39	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% Dan.14:38.		(Hebrew= -- • Latin=Dan.14:38 • Greek=Bel.1:39)	Bel.1:10=NotExist & Dan.14:1=Exist	
 Latin	Dan.14:39	Bel.1:40	Renumber verse	Nec. [39]	%Normally in this Bible the verse numbering here is% Dan.14:39.		(Hebrew= -- • Latin=Dan.14:39 • Greek=Bel.1:40)	Bel.1:10=NotExist & Dan.14:1=Exist	
 Latin	Dan.14:40	Bel.1:41	Renumber verse	Nec. [40]	%Normally in this Bible the verse numbering here is% Dan.14:40.		(Hebrew= -- • Latin=Dan.14:40 • Greek=Bel.1:41)	Bel.1:10=NotExist & Dan.14:1=Exist	
-Latin	Dan.14:41	Bel.1:42	Renumber verse	Nec. [41]	%Normally in this Bible the verse numbering here is% Dan.14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:41	Bel.1:42.1	Renumber verse	Nec. [41]	%Normally in this Bible the verse numbering here is% Dan.14:41.		(Hebrew= -- • Latin=Dan.14:41 • Greek=Bel.1:42a)	Bel.1:10=NotExist & Dan.14:1=Exist	
+Latin	Dan.14:42	Bel.1:42.2	Renumber verse	Nec. [41]	%Normally in this Bible the verse numbering here is% Dan.14:42.		(Hebrew= -- • Latin=Dan.14:42 • Greek=Bel.1:42b)	Bel.1:10=NotExist & Dan.14:1=Exist	
 
 English+Greek	Hos.1:10	Hos.1:10	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 2:1.		(Hebrew=2:1 • Latin=1:10 • Greek=1:10)	Hos.2:23=Last	
 English+Greek	Hos.1:11	Hos.1:11	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 2:2.		(Hebrew=2:2 • Latin=1:11 • Greek=1:11)	Hos.2:23=Last	
@@ -18001,6 +18313,32 @@ Latin	Sir.4:33	Sir.4:28	Renumber verse	Nec. [33]	%Normally in this Bible the ver
 Latin	Sir.4:34	Sir.4:29	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 4:34.		(Latin=4:34 • Greek=4:29)	Sir.4:36=Last	
 Latin	Sir.4:35	Sir.4:30	Renumber verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 4:35.		(Latin=4:35 • Greek=4:30)	Sir.4:36=Last	
 Latin	Sir.4:36	Sir.4:31	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 4:36.		(Latin=4:36 • Greek=4:31)	Sir.4:36=Last	
+Bulgarian	Sir.4:10	Sir.4:10.1	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 4:10.		(Latin=4:10 • Greek=4:10a)	Sir.4:35=Last
+Bulgarian	Sir.4:11	Sir.4:10.2	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 4:11.		(Latin=4:11 • Greek=4:10b)	Sir.4:35=Last
+Bulgarian	Sir.4:12	Sir.4:11	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 4:12.		(Latin=4:12 • Greek=4:11)	Sir.4:35=Last
+Bulgarian	Sir.4:13	Sir.4:12	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 4:13.		(Latin=4:13 • Greek=4:12)	Sir.4:35=Last
+Bulgarian	Sir.4:14	Sir.4:13	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 4:14.		(Latin=4:14 • Greek=4:13)	Sir.4:35=Last
+Bulgarian	Sir.4:15	Sir.4:14	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 4:15.		(Latin=4:15 • Greek=4:14)	Sir.4:35=Last
+Bulgarian	Sir.4:16	Sir.4:15	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 4:16.		(Latin=4:16 • Greek=4:15)	Sir.4:35=Last
+Bulgarian	Sir.4:17	Sir.4:16	Keep verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 4:17.		(Latin=4:17 • Greek=4:16)	Sir.4:35=Last
+Bulgarian	Sir.4:18	Sir.4:17.1	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 4:18.		(Latin=4:18 • Greek=4:17a)	Sir.4:35=Last
+Bulgarian	Sir.4:19	Sir.4:17.2	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 4:19.		(Latin=4:19 • Greek=4:17b)	Sir.4:35=Last
+Bulgarian	Sir.4:20	Sir.4:18.1	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 4:20.		(Latin=4:20 • Greek=4:18a)	Sir.4:35=Last
+Bulgarian	Sir.4:21	Sir.4:18.2	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 4:21.		(Latin=4:21 • Greek=4:18b)	Sir.4:35=Last
+Bulgarian	Sir.4:22	Sir.4:19	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 4:22.		(Latin=4:22 • Greek=4:19)	Sir.4:35=Last
+Bulgarian	Sir.4:23	Sir.4:20.1	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 4:23.		(Latin=4:23 • Greek=4:20a)	Sir.4:35=Last
+Bulgarian	Sir.4:24	Sir.4:20.2	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 4:24.		(Latin=4:24 • Greek=4:20b)	Sir.4:35=Last
+Bulgarian	Sir.4:25	Sir.4:21	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 4:25.		(Latin=4:25 • Greek=4:21)	Sir.4:35=Last
+Bulgarian	Sir.4:26	Sir.4:22	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% 4:26.		(Latin=4:26 • Greek=4:22)	Sir.4:35=Last
+Bulgarian	Sir.4:27	Sir.4:23	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 4:27.		(Latin=4:28 • Greek=4:23)	Sir.4:35=Last
+Bulgarian	Sir.4:28	Sir.4:24	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 4:28.		(Latin=4:29 • Greek=4:24)	Sir.4:35=Last
+Bulgarian	Sir.4:29	Sir.4:25	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 4:29.		(Latin=4:30 • Greek=4:25)	Sir.4:35=Last
+Bulgarian	Sir.4:30	Sir.4:26	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 4:30.		(Latin=4:31 • Greek=4:26)	Sir.4:35=Last
+Bulgarian	Sir.4:31	Sir.4:27	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 4:31.		(Latin=4:32 • Greek=4:27)	Sir.4:35=Last
+Bulgarian	Sir.4:32	Sir.4:28	Renumber verse	Nec. [32]	%In some Bibles the verse numbering here is% 4:32.		(Latin=4:33 • Greek=4:28)	Sir.4:35=Last
+Bulgarian	Sir.4:33	Sir.4:29	Renumber verse	Nec. [33]	%In some Bibles the verse numbering here is% 4:33.		(Latin=4:34 • Greek=4:29)	Sir.4:35=Last
+Bulgarian	Sir.4:34	Sir.4:30	Renumber verse	Nec. [34]	%In some Bibles the verse numbering here is% 4:34.		(Latin=4:35 • Greek=4:30)	Sir.4:35=Last
+Bulgarian	Sir.4:35	Sir.4:31	Keep verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 4:35.		(Latin=4:36 • Greek=4:31)	Sir.4:35=Last
 
 English+Greek	Sir.5:6	Sir.5:6	Keep verse	Acd. [6-7]	%In some Bibles the verse numbering here is% 5:6-7.		(Latin=5:6-7 • Greek=5:6)	Sir.5:15=Last	
 English+Greek	Sir.5:7	Sir.5:7	Keep verse	Acd. [8-9]	%In some Bibles the verse numbering here is% 5:8-9.		(Latin=5:8-9 • Greek=5:7)	Sir.5:15=Last	
@@ -18089,6 +18427,7 @@ Latin	Sir.6:33	Sir.6:32	Renumber verse	Nec. [33]	%Normally in this Bible the ver
 Latin	Sir.6:34	Sir.6:33	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 6:34.		(Latin=6:34 • Greek=6:33)	Sir.7:40=Last	
 Latin	Sir.6:35	Sir.6:34	Renumber verse	Nec. [34-35]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 6:35.		(Latin=6:35a • Greek=6:34)	Sir.7:40=Last	
 Latin	Sir.6:35	Sir.6:35	Merged with	Nec. [35b]	%Normally in this Bible some text may be missing here because it is merged with% 6:34.		(Latin=6:35b • Greek=6:35)	Sir.7:40=Last	
+
 Latin	Sir.7:9	Sir.7:10.1	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 7:9.		(Latin=7:9-10 • Greek=7:10)	Sir.7:40=Last	
 Latin	Sir.7:10	Sir.7:10.2	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 7:10.		(Latin=7:9-10 • Greek=7:10)	Sir.7:40=Last	
 Latin	Sir.7:11	Sir.7:9	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 7:11.		(Latin=7:11 • Greek=7:9)	Sir.7:40=Last	
@@ -18121,6 +18460,37 @@ Latin	Sir.7:37	Sir.7:33	Renumber verse	Nec. [37]	%Normally in this Bible the ver
 Latin	Sir.7:38	Sir.7:34	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% 7:38.		(Latin=7:38 • Greek=7:34)	Sir.7:40=Last	
 Latin	Sir.7:39	Sir.7:35	Renumber verse	Nec. [39]	%Normally in this Bible the verse numbering here is% 7:39.		(Latin=7:39 • Greek=7:35)	Sir.7:40=Last	
 Latin	Sir.7:40	Sir.7:36	Renumber verse	Nec. [40]	%Normally in this Bible the verse numbering here is% 7:40.		(Latin=7:40 • Greek=7:36)	Sir.7:40=Last	
+Bulgarian	Sir.7:9	Sir.7:9	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 7:9.		(Latin=7:11 • Greek=7:9)	Sir.7:39=Last
+Bulgarian	Sir.7:10	Sir.7:10	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 7:10.		(Latin=7:9 • Greek=7:10)	Sir.7:39=Last
+Bulgarian	Sir.7:11	Sir.7:11	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 7:11.		(Latin=7:12 • Greek=7:11)	Sir.7:39=Last
+Bulgarian	Sir.7:12	Sir.7:12	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 7:12.		(Latin=7:13 • Greek=7:12)	Sir.7:39=Last
+Bulgarian	Sir.7:13	Sir.7:13	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 7:13.		(Latin=7:14 • Greek=7:13)	Sir.7:39=Last
+Bulgarian	Sir.7:14	Sir.7:14	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 7:14.		(Latin=7:15 • Greek=7:14)	Sir.7:39=Last
+Bulgarian	Sir.7:15	Sir.7:15	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 7:15.		(Latin=7:16 • Greek=7:15)	Sir.7:39=Last
+Bulgarian	Sir.7:16	Sir.7:16.1	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 7:16.		(Latin=7:17 • Greek=7:16a)	Sir.7:39=Last
+Bulgarian	Sir.7:18	Sir.7:16.2	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 7:18.		(Latin=7:18 • Greek=7:16b)	Sir.7:39=Last
+Bulgarian	Sir.7:17	Sir.7:17.1	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 7:17.		(Latin=7:19a • Greek=7:17a)	Sir.7:39=Last
+Bulgarian	Sir.7:19	Sir.7:17.2	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 7:19.		(Latin=7:19b • Greek=7:17b)	Sir.7:39=Last
+Bulgarian	Sir.7:20	Sir.7:18	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 7:20.		(Latin=7:20 • Greek=7:18)	Sir.7:39=Last
+Bulgarian	Sir.7:21	Sir.7:19	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 7:21.		(Latin=7:21 • Greek=7:19)	Sir.7:39=Last
+Bulgarian	Sir.7:22	Sir.7:20	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 7:22.		(Latin=7:22 • Greek=7:20)	Sir.7:39=Last
+Bulgarian	Sir.7:23	Sir.7:21	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 7:23.		(Latin=7:23 • Greek=7:21)	Sir.7:39=Last
+Bulgarian	Sir.7:24	Sir.7:22	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 7:24.		(Latin=7:24 • Greek=7:22)	Sir.7:39=Last
+Bulgarian	Sir.7:25	Sir.7:23	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 7:25.		(Latin=7:25 • Greek=7:23)	Sir.7:39=Last
+Bulgarian	Sir.7:26	Sir.7:24	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% 7:26.		(Latin=7:26 • Greek=7:24)	Sir.7:39=Last
+Bulgarian	Sir.7:27	Sir.7:25	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 7:27.		(Latin=7:27 • Greek=7:25)	Sir.7:39=Last
+Bulgarian	Sir.7:28	Sir.7:26	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 7:28.		(Latin=7:28 • Greek=7:26)	Sir.7:39=Last
+Bulgarian	Sir.7:29	Sir.7:27	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 7:29.		(Latin=7:29 • Greek=7:27)	Sir.7:39=Last
+Bulgarian	Sir.7:30	Sir.7:28	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 7:30.		(Latin=7:30 • Greek=7:28)	Sir.7:39=Last
+Bulgarian	Sir.7:31	Sir.7:29	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 7:31.		(Latin=7:31 • Greek=7:29)	Sir.7:39=Last
+Bulgarian	Sir.7:32	Sir.7:30	Keep verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 7:32.		(Latin=7:32 • Greek=7:30)	Sir.7:39=Last
+Bulgarian	Sir.7:33	Sir.7:31.1	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 7:33.		(Latin=7:33 • Greek=7:31a)	Sir.7:39=Last
+Bulgarian	Sir.7:34	Sir.7:31.2	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 7:34.		(Latin=7:34 • Greek=7:31b)	Sir.7:39=Last
+Bulgarian	Sir.7:35	Sir.7:32	Renumber verse	Nec. [35]	%In some Bibles the verse numbering here is% 7:35.		(Latin=7:36 • Greek=7:32)	Sir.7:39=Last
+Bulgarian	Sir.7:36	Sir.7:33	Renumber verse	Nec. [36]	%In some Bibles the verse numbering here is% 7:36.		(Latin=7:37 • Greek=7:33)	Sir.7:39=Last
+Bulgarian	Sir.7:37	Sir.7:34	Renumber verse	Nec. [37]	%In some Bibles the verse numbering here is% 7:37.		(Latin=7:38 • Greek=7:34)	Sir.7:39=Last
+Bulgarian	Sir.7:38	Sir.7:35	Renumber verse	Nec. [38]	%In some Bibles the verse numbering here is% 7:38.		(Latin=7:39 • Greek=7:35)	Sir.7:39=Last
+Bulgarian	Sir.7:39	Sir.7:36	Keep verse	Nec. [39]	%Normally in this Bible the verse numbering here is% 7:39.		(Latin=7:40 • Greek=7:36)	Sir.7:39=Last
 
 English+Greek	Sir.8:2	Sir.8:2	Keep verse	Acd. [2-3]	%In some Bibles the verse numbering here is% 8:2-3.		(Latin=8:2-3 • Greek=8:2)	Sir.8:19=Last	
 English+Greek	Sir.8:3	Sir.8:3	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 8:4.		(Latin=8:4 • Greek=8:3)	Sir.8:19=Last	
@@ -18723,6 +19093,31 @@ Latin	Sir.22:30	Sir.22:24	Renumber verse	Nec. [30]	%Normally in this Bible the v
 Latin	Sir.22:31	Sir.22:25	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 22:31.		(Latin=22:31 • Greek=22:25)	Sir.22:33=Last	
 Latin	Sir.22:32	Sir.22:26	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 22:32.		(Latin=22:32 • Greek=22:26)	Sir.22:33=Last	
 Latin	Sir.22:33	Sir.22:27	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 22:33.		(Latin=22:33 • Greek=22:27)	Sir.22:33=Last	
+Bulgarian	Sir.22:7	Sir.22:7	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=22:7 • Greek= --)	Sir.22:31=Last
+Bulgarian	Sir.22:7	Sir.22:8	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=22:7 • Greek= --)	Sir.22:31=Last
+Bulgarian	Sir.22:7	Sir.22:9	Renumber verse	Nec. [7]	%In some Bibles the verse numbering here is% 22:7.		(Latin=22:7 • Greek=22:9)	Sir.22:31=Last
+Bulgarian	Sir.22:8	Sir.22:10	Keep verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 22:8.		(Latin=22:8 • Greek=22:10)	Sir.22:31=Last
+Bulgarian	Sir.22:9	Sir.22:11.1	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 22:9.		(Latin=22:10 • Greek=22:11a)	Sir.22:31=Last
+Bulgarian	Sir.22:10	Sir.22:11.2	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 22:10.		(Latin=22:12 • Greek=22:11b)	Sir.22:31=Last
+Bulgarian	Sir.22:11	Sir.22:12	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 22:11.		(Latin=22:13 • Greek=22:12)	Sir.22:31=Last
+Bulgarian	Sir.22:12	Sir.22:13.1	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 22:12.		(Latin=22:14 • Greek=22:13)	Sir.22:31=Last
+Bulgarian	Sir.22:13	Sir.22:13.2	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 22:13.		(Latin=22:15 • Greek=22:14)	Sir.22:31=Last
+Bulgarian	Sir.22:14	Sir.22:13.3	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 22:14.		(Latin=22:16 • Greek=22:15)	Sir.22:31=Last
+Bulgarian	Sir.22:15	Sir.22:14	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 22:15.		(Latin=22:17 • Greek=22:14)	Sir.22:31=Last
+Bulgarian	Sir.22:16	Sir.22:15	Keep verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 22:16.		(Latin=22:18 • Greek=22:15)	Sir.22:31=Last
+Bulgarian	Sir.22:17	Sir.22:16	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 22:17.		(Latin=22:19 • Greek=22:16)	Sir.22:31=Last
+Bulgarian	Sir.22:18	Sir.22:17	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 22:18.		(Latin=22:22a • Greek=22:17)	Sir.22:31=Last
+Bulgarian	Sir.22:19	Sir.22:18	Keep verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 22:19.		(Latin=22:22b • Greek=22:18)	Sir.22:31=Last
+Bulgarian	Sir.22:21	Sir.22:19	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 22:21.		(Latin=22:23 • Greek=22:19)	Sir.22:31=Last
+Bulgarian	Sir.22:22	Sir.22:20	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 22:22.		(Latin=22:24 • Greek=22:20)	Sir.22:31=Last
+Bulgarian	Sir.22:23	Sir.22:21	Keep verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 22:23.		(Latin=22:25 • Greek=22:21)	Sir.22:31=Last
+Bulgarian	Sir.22:24	Sir.22:22	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 22:24.		(Latin=22:26 • Greek=22:22)	Sir.22:31=Last
+Bulgarian	Sir.22:26	Sir.22:23.1	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 22:26.		(Latin=22:28 • Greek=22:23a)	Sir.22:31=Last
+Bulgarian	Sir.22:27	Sir.22:23.2	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 22:27.		(Latin=22:29 • Greek=22:23b)	Sir.22:31=Last
+Bulgarian	Sir.22:28	Sir.22:24	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 22:28.		(Latin=22:30 • Greek=22:24)	Sir.22:31=Last
+Bulgarian	Sir.22:29	Sir.22:25	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 22:29.		(Latin=22:31 • Greek=22:25)	Sir.22:31=Last
+Bulgarian	Sir.22:30	Sir.22:26	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 22:30.		(Latin=22:32 • Greek=22:26)	Sir.22:31=Last
+Bulgarian	Sir.22:31	Sir.22:27	Keep verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 22:31.		(Latin=22:33 • Greek=22:27)	Sir.22:31=Last
 
 English+Greek	Sir.23:9	Sir.23:9	Keep verse	Acd. [9-10]	%In some Bibles the verse numbering here is% 23:9-10.		(Latin=23:9-10 • Greek=23:9)	Sir.23:27=Last	
 English+Greek	Sir.23:10	Sir.23:10	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 23:11.		(Latin=23:11 • Greek=23:10)	Sir.23:27=Last	
@@ -18773,6 +19168,41 @@ Latin	Sir.23:35	Sir.23:25	Renumber verse	Nec. [35]	%Normally in this Bible the v
 Latin	Sir.23:36	Sir.23:26	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 23:36.		(Latin=23:36 • Greek=23:26)	Sir.23:38=Last	
 Latin	Sir.23:37	Sir.23:27.1	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 23:37.		(Latin=23:37-38 • Greek=23:27)	Sir.23:38=Last	
 Latin	Sir.23:38	Sir.23:27.2	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% 23:38.		(Latin=23:37-38 • Greek=23:27)	Sir.23:38=Last	
+Bulgarian	Sir.23:4	Sir.23:4	Renumber verse	Nec. [4-5]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 23:4.		(Latin=23:4 • Greek=23:4)	Sir.23:37=Last
+Bulgarian	Sir.23:4	Sir.23:5	Merged with	Nec. [4b]	%Normally in this Bible some text may be missing here because it is merged with% 23:4.		(Latin=23:5 • Greek=23:5)	Sir.23:37=Last
+Bulgarian	Sir.23:5	Sir.23:6	Renumber verse	Nec. [5]	%In some Bibles the verse numbering here is% 23:5.		(Latin=23:6 • Greek=23:6)	Sir.23:37=Last
+Bulgarian	Sir.23:6	Sir.23:7	Renumber verse	Nec. [6]	%In some Bibles the verse numbering here is% 23:6.		(Latin=23:7 • Greek=23:7)	Sir.23:37=Last
+Bulgarian	Sir.23:7	Sir.23:8	Keep verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 23:7.		(Latin=23:8 • Greek=23:8)	Sir.23:37=Last
+Bulgarian	Sir.23:8	Sir.23:9.1	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 23:8.		(Latin=23:9 • Greek=23:9a)	Sir.23:37=Last
+Bulgarian	Sir.23:9	Sir.23:9.2	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 23:9.		(Latin=23:10 • Greek=23:9b)	Sir.23:37=Last
+Bulgarian	Sir.23:10	Sir.23:10	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 23:10.		(Latin=23:11 • Greek=23:10)	Sir.23:37=Last
+Bulgarian	Sir.23:11	Sir.23:11.1	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 23:11.		(Latin=23:12 • Greek=23:11a)	Sir.23:37=Last
+Bulgarian	Sir.23:12	Sir.23:11.2	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 23:12.		(Latin=23:13 • Greek=23:11b)	Sir.23:37=Last
+Bulgarian	Sir.23:13	Sir.23:11.3	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 23:13.		(Latin=23:14 • Greek=23:11c)	Sir.23:37=Last
+Bulgarian	Sir.23:14	Sir.23:12.1	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 23:14.		(Latin=23:15 • Greek=23:12a)	Sir.23:37=Last
+Bulgarian	Sir.23:15	Sir.23:12.2	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 23:15.		(Latin=23:16 • Greek=23:12b)	Sir.23:37=Last
+Bulgarian	Sir.23:16	Sir.23:13	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 23:16.		(Latin=23:17 • Greek=23:13)	Sir.23:37=Last
+Bulgarian	Sir.23:17	Sir.23:14.1	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 23:17.		(Latin=23:18 • Greek=23:14a)	Sir.23:37=Last
+Bulgarian	Sir.23:18	Sir.23:14.2	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 23:18.		(Latin=23:19 • Greek=23:14b)	Sir.23:37=Last
+Bulgarian	Sir.23:19	Sir.23:15	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 23:19.		(Latin=23:20 • Greek=23:15)	Sir.23:37=Last
+Bulgarian	Sir.23:20	Sir.23:16	Keep verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 23:20.		(Latin=23:21 • Greek=23:16)	Sir.23:37=Last
+Bulgarian	Sir.23:21	Sir.23:17.1	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 23:21.		(Latin=23:22 • Greek=23:17a)	Sir.23:37=Last
+Bulgarian	Sir.23:22	Sir.23:17.2	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 23:22.		(Latin=23:23 • Greek=23:17b)	Sir.23:37=Last
+Bulgarian	Sir.23:23	Sir.23:17.3	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 23:23.		(Latin=23:24 • Greek=23:17c)	Sir.23:37=Last
+Bulgarian	Sir.23:24	Sir.23:18.1	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 23:24.		(Latin=23:25 • Greek=23:18a)	Sir.23:37=Last
+Bulgarian	Sir.23:25	Sir.23:18.2	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 23:25.		(Latin=23:26 • Greek=23:18b)	Sir.23:37=Last
+Bulgarian	Sir.23:26	Sir.23:19.1	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 23:26.		(Latin=23:27 • Greek=23:19a)	Sir.23:37=Last
+Bulgarian	Sir.23:27	Sir.23:19.2	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 23:27.		(Latin=23:28 • Greek=23:19b)	Sir.23:37=Last
+Bulgarian	Sir.23:28	Sir.23:20	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 23:28.		(Latin=23:29 • Greek=23:20)	Sir.23:37=Last
+Bulgarian	Sir.23:29	Sir.23:21	Keep verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 23:29.		(Latin=23:30 • Greek=23:21)	Sir.23:37=Last
+Bulgarian	Sir.23:30	Sir.23:22.1	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 23:30.		(Latin=23:31 • Greek=23:22a)	Sir.23:37=Last
+Bulgarian	Sir.23:31	Sir.23:22.2	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 23:31.		(Latin=23:32 • Greek=23:22b)	Sir.23:37=Last
+Bulgarian	Sir.23:32	Sir.23:23	Renumber verse	Nec. [32]	%In some Bibles the verse numbering here is% 23:32.		(Latin=23:33 • Greek=23:23)	Sir.23:37=Last
+Bulgarian	Sir.23:33	Sir.23:24	Renumber verse	Nec. [33]	%In some Bibles the verse numbering here is% 23:33.		(Latin=23:34 • Greek=23:24)	Sir.23:37=Last
+Bulgarian	Sir.23:34	Sir.23:25	Renumber verse	Nec. [34]	%In some Bibles the verse numbering here is% 23:34.		(Latin=23:35 • Greek=23:25)	Sir.23:37=Last
+Bulgarian	Sir.23:35	Sir.23:26	Keep verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 23:35.		(Latin=23:36 • Greek=23:26)	Sir.23:37=Last
+Bulgarian	Sir.23:36	Sir.23:27.1	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 23:36.		(Latin=23:37 • Greek=23:27a)	Sir.23:37=Last
+Bulgarian	Sir.23:37	Sir.23:27.2	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 23:37.		(Latin=23:38 • Greek=23:27b)	Sir.23:37=Last
 
 English+Greek	Sir.24:2	Sir.24:2	Keep verse	Acd. [2-4]	%In some Bibles the verse numbering here is% 24:2-4.		(Latin=24:2-4 • Greek=24:2)	Sir.24:34=Last	
 English+Greek	Sir.24:3	Sir.24:3	Keep verse	Acd. [5-6]	%In some Bibles the verse numbering here is% 24:5-6.		(Latin=24:5-6 • Greek=24:3)	Sir.24:34=Last	
@@ -18853,6 +19283,40 @@ Latin	Sir.24:44	Sir.24:32.1	Renumber verse	Nec. [44]	%Normally in this Bible the
 Latin	Sir.24:45	Sir.24:32.2	Renumber verse	Nec. [45]	%Normally in this Bible the verse numbering here is% 24:45.		(Latin=24:44-45 • Greek=24:32)	Sir.24:47=Last	
 Latin	Sir.24:46	Sir.24:33	Renumber verse	Nec. [46]	%Normally in this Bible the verse numbering here is% 24:46.		(Latin=24:46 • Greek=24:33)	Sir.24:47=Last	
 Latin	Sir.24:47	Sir.24:34	Renumber verse	Nec. [47]	%Normally in this Bible the verse numbering here is% 24:47.		(Latin=24:47 • Greek=24:34)	Sir.24:47=Last	
+Bulgarian	Sir.24:3	Sir.24:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 24:3.		(Latin=24:5 • Greek=24:3)	Sir.24:37=Last
+Bulgarian	Sir.24:4	Sir.24:4	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 24:4.		(Latin=24:7 • Greek=24:4)	Sir.24:37=Last
+Bulgarian	Sir.24:5	Sir.24:5	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 24:5.		(Latin=24:8 • Greek=24:5)	Sir.24:37=Last
+Bulgarian	Sir.24:6	Sir.24:6	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 24:6.		(Latin=24:9 • Greek=24:6)	Sir.24:37=Last
+Bulgarian	Sir.24:7	Sir.24:7	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 24:7.		(Latin=24:11 • Greek=24:7)	Sir.24:37=Last
+Bulgarian	Sir.24:8	Sir.24:8.1	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 24:8.		(Latin=24:12 • Greek=24:8a)	Sir.24:37=Last
+Bulgarian	Sir.24:9	Sir.24:8.2	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 24:9.		(Latin=24:13 • Greek=24:8b)	Sir.24:37=Last
+Bulgarian	Sir.24:10	Sir.24:9	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 24:10.		(Latin=24:14 • Greek=24:9)	Sir.24:37=Last
+Bulgarian	Sir.24:11	Sir.24:10	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 24:11.		(Latin=24:15 • Greek=24:10)	Sir.24:37=Last
+Bulgarian	Sir.24:12	Sir.24:11	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 24:12.		(Latin=24:16 • Greek=24:11)	Sir.24:37=Last
+Bulgarian	Sir.24:13	Sir.24:12	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 24:13.		(Latin=24:17 • Greek=24:12)	Sir.24:37=Last
+Bulgarian	Sir.24:14	Sir.24:13	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 24:14.		(Latin=24:18 • Greek=24:13)	Sir.24:37=Last
+Bulgarian	Sir.24:15	Sir.24:14	Keep verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 24:15.		(Latin=24:19 • Greek=24:14)	Sir.24:37=Last
+Bulgarian	Sir.24:16	Sir.24:15.1	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 24:16.		(Latin=24:20 • Greek=24:15a)	Sir.24:37=Last
+Bulgarian	Sir.24:18	Sir.24:15.2	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 24:18.		(Latin=24:21 • Greek=24:15b)	Sir.24:37=Last
+Bulgarian	Sir.24:19	Sir.24:16	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 24:19.		(Latin=24:22 • Greek=24:16)	Sir.24:37=Last
+Bulgarian	Sir.24:20	Sir.24:17	Keep verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 24:20.		(Latin=24:23 • Greek=24:17)	Sir.24:37=Last
+Bulgarian	Sir.24:18	Sir.24:18	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=24:24 • Greek= --)	Sir.24:37=Last
+Bulgarian	Sir.24:21	Sir.24:19	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 24:21.		(Latin=24:26 • Greek=24:19)	Sir.24:37=Last
+Bulgarian	Sir.24:22	Sir.24:20	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 24:22.		(Latin=24:27 • Greek=24:20)	Sir.24:37=Last
+Bulgarian	Sir.24:23	Sir.24:21	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 24:23.		(Latin=24:29 • Greek=24:21)	Sir.24:37=Last
+Bulgarian	Sir.24:24	Sir.24:22	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 24:24.		(Latin=24:30 • Greek=24:22)	Sir.24:37=Last
+Bulgarian	Sir.24:25	Sir.24:23	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 24:25.		(Latin=24:32 • Greek=24:23)	Sir.24:37=Last
+Bulgarian	Sir.24:24	Sir.24:24	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=24:34 • Greek= --)	Sir.24:37=Last
+Bulgarian	Sir.24:27	Sir.24:25	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 24:27.		(Latin=24:35 • Greek=24:25)	Sir.24:37=Last
+Bulgarian	Sir.24:28	Sir.24:26	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 24:28.		(Latin=24:36 • Greek=24:26)	Sir.24:37=Last
+Bulgarian	Sir.24:29	Sir.24:27	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Latin=24:37 • Greek=24:27)	Sir.24:37=Last
+Bulgarian	Sir.24:30	Sir.24:28	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Latin=24:38 • Greek=24:28)	Sir.24:37=Last
+Bulgarian	Sir.24:31	Sir.24:29	Keep verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 24:31.		(Latin=24:39 • Greek=24:29)	Sir.24:37=Last
+Bulgarian	Sir.24:32	Sir.24:30	Renumber verse	Nec. [32]	%In some Bibles the verse numbering here is% 24:32.		(Latin=24:40 • Greek=24:30)	Sir.24:37=Last
+Bulgarian	Sir.24:33	Sir.24:31	Renumber verse	Nec. [33]	%In some Bibles the verse numbering here is% 24:33.		(Latin=24:42 • Greek=24:31)	Sir.24:37=Last
+Bulgarian	Sir.24:35	Sir.24:32	Renumber verse	Nec. [35]	%In some Bibles the verse numbering here is% 24:35.		(Latin=24:44 • Greek=24:32)	Sir.24:37=Last
+Bulgarian	Sir.24:36	Sir.24:33	Renumber verse	Nec. [36]	%In some Bibles the verse numbering here is% 24:36.		(Latin=24:46 • Greek=24:33)	Sir.24:37=Last
+Bulgarian	Sir.24:37	Sir.24:34	Keep verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 24:37.		(Latin=24:47 • Greek=24:34)	Sir.24:37=Last
 
 English+Greek	Sir.25:1	Sir.25:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 25:1-2.		(Latin=25:1-2 • Greek=25:1)	Sir.25:26=Last	
 English+Greek	Sir.25:2	Sir.25:2	Keep verse	Acd. [3-4]	%In some Bibles the verse numbering here is% 25:3-4.		(Latin=25:3-4 • Greek=25:2)	Sir.25:26=Last	
@@ -18916,6 +19380,36 @@ Latin	Sir.25:33	Sir.25:24	Renumber verse	Nec. [33]	%Normally in this Bible the v
 Latin	Sir.25:34	Sir.25:25	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 25:34.		(Latin=25:34 • Greek=25:25)	Sir.25:36=Last	
 Latin	Sir.25:35	Sir.25:26.1	Renumber verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 25:35.		(Latin=25:35-36 • Greek=25:26)	Sir.25:36=Last	
 Latin	Sir.25:36	Sir.25:26.2	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 25:36.		(Latin=25:35-36 • Greek=25:26)	Sir.25:36=Last	
+Bulgarian	Sir.25:1	Sir.25:1.1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 25:1.		(Latin=25:1 • Greek=25:1a)	Sir.25:29=Last
+Bulgarian	Sir.25:2	Sir.25:1.2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 25:2.		(Latin=25:2 • Greek=25:1b)	Sir.25:29=Last
+Bulgarian	Sir.25:3	Sir.25:2.1	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 25:3.		(Latin=25:3 • Greek=25:2a)	Sir.25:29=Last
+Bulgarian	Sir.25:4	Sir.25:2.2	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 25:4.		(Latin=25:4 • Greek=25:2b)	Sir.25:29=Last
+Bulgarian	Sir.25:5	Sir.25:3	Renumber verse	Nec. [5]	%In some Bibles the verse numbering here is% 25:5.		(Latin=25:5 • Greek=25:3)	Sir.25:29=Last
+Bulgarian	Sir.25:6	Sir.25:4	Renumber verse	Nec. [6]	%In some Bibles the verse numbering here is% 25:6.		(Latin=25:6 • Greek=25:4)	Sir.25:29=Last
+Bulgarian	Sir.25:7	Sir.25:5	Renumber verse	Nec. [7]	%In some Bibles the verse numbering here is% 25:7.		(Latin=25:7 • Greek=25:5)	Sir.25:29=Last
+Bulgarian	Sir.25:8	Sir.25:6	Keep verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 25:8.		(Latin=25:8 • Greek=25:6)	Sir.25:29=Last
+Bulgarian	Sir.25:9	Sir.25:7.1	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 25:9.		(Latin=25:9 • Greek=25:7a)	Sir.25:29=Last
+Bulgarian	Sir.25:10	Sir.25:7.2	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 25:10.		(Latin=25:10 • Greek=25:7b)	Sir.25:29=Last
+Bulgarian	Sir.25:11	Sir.25:8	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 25:11.		(Latin=25:11 • Greek=25:8)	Sir.25:29=Last
+Bulgarian	Sir.25:12	Sir.25:9	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 25:12.		(Latin=25:12 • Greek=25:9)	Sir.25:29=Last
+Bulgarian	Sir.25:13	Sir.25:10	Keep verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 25:13.		(Latin=25:13 • Greek=25:10)	Sir.25:29=Last
+Bulgarian	Sir.25:14	Sir.25:11	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 25:14.		(Latin=25:14 • Greek=25:11)	Sir.25:29=Last
+Bulgarian	Sir.25:12	Sir.25:12	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=25:16 • Greek= --)	Sir.25:29=Last
+Bulgarian	Sir.25:15	Sir.25:13	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 25:15.		(Latin=25:17 • Greek=25:13)	Sir.25:29=Last
+Bulgarian	Sir.25:16	Sir.25:14	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 25:16.		(Latin=25:20 • Greek=25:14)	Sir.25:29=Last
+Bulgarian	Sir.25:17	Sir.25:15	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 25:17.		(Latin=25:22 • Greek=25:15)	Sir.25:29=Last
+Bulgarian	Sir.25:18	Sir.25:16	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 25:18.		(Latin=25:23 • Greek=25:16)	Sir.25:29=Last
+Bulgarian	Sir.25:19	Sir.25:17	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 25:19.		(Latin=25:24 • Greek=25:17)	Sir.25:29=Last
+Bulgarian	Sir.25:20	Sir.25:18	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 25:20.		(Latin=25:25 • Greek=25:18)	Sir.25:29=Last
+Bulgarian	Sir.25:21	Sir.25:19	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 25:21.		(Latin=25:26 • Greek=25:19)	Sir.25:29=Last
+Bulgarian	Sir.25:22	Sir.25:20	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 25:22.		(Latin=25:27 • Greek=25:20)	Sir.25:29=Last
+Bulgarian	Sir.25:23	Sir.25:21	Keep verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 25:23.		(Latin=25:28 • Greek=25:21)	Sir.25:29=Last
+Bulgarian	Sir.25:24	Sir.25:22	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 25:24.		(Latin=25:29 • Greek=25:22)	Sir.25:29=Last
+Bulgarian	Sir.25:25	Sir.25:23.1	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 25:25.		(Latin=25:31 • Greek=25:23a)	Sir.25:29=Last
+Bulgarian	Sir.25:26	Sir.25:23.2	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 25:26.		(Latin=25:32 • Greek=25:23b)	Sir.25:29=Last
+Bulgarian	Sir.25:27	Sir.25:24	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 25:27.		(Latin=25:33 • Greek=25:24)	Sir.25:29=Last
+Bulgarian	Sir.25:28	Sir.25:25	Keep verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 25:28.		(Latin=25:34 • Greek=25:25)	Sir.25:29=Last
+Bulgarian	Sir.25:29	Sir.25:26	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 25:29.		(Latin=25:35 • Greek=25:26)	Sir.25:29=Last
 
 English+Greek	Sir.26:5	Sir.26:5	Keep verse	Acd. [5-7]	%In some Bibles the verse numbering here is% 26:5-7.		(Latin=26:5-7 • Greek=26:5)	Sir.26:29=Last	
 English+Greek	Sir.26:6	Sir.26:6	Keep verse	Acd. [8-9]	%In some Bibles the verse numbering here is% 26:8-9.		(Latin=26:8-9 • Greek=26:6)	Sir.26:29=Last	
@@ -19168,6 +19662,34 @@ Latin2-DRA	Sir.29:31	Sir.29:25	Renumber verse	Nec. [31]	%Normally in this Bible 
 Latin2-DRA	Sir.29:32	Sir.29:26	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 29:32.		(Latin=29:33 • Greek=29:26 • Latin2=29:32)	Sir.29:34=Last	
 Latin2-DRA	Sir.29:33	Sir.29:27	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 29:33.		(Latin=29:34 • Greek=29:27 • Latin2=29:33)	Sir.29:34=Last	
 Latin2-DRA	Sir.29:34	Sir.29:28	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 29:34.		(Latin=29:35 • Greek=29:28 • Latin2=29:34)	Sir.29:34=Last	
+Bulgarian	Sir.29:5	Sir.29:5.1	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 29:5.		(Latin=29:5 • Greek=29:5a)	Sir.29:31=Last
+Bulgarian	Sir.29:6	Sir.29:5.2	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 29:6.		(Latin=29:6 • Greek=29:5b)	Sir.29:31=Last
+Bulgarian	Sir.29:7	Sir.29:6.1	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 29:7.		(Latin=29:7 • Greek=29:6a)	Sir.29:31=Last
+Bulgarian	Sir.29:8	Sir.29:6.2	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 29:8.		(Latin=29:8 • Greek=29:6b)	Sir.29:31=Last
+Bulgarian	Sir.29:9	Sir.29:6.3	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 29:9.		(Latin=29:9 • Greek=29:6c)	Sir.29:31=Last
+Bulgarian	Sir.29:10	Sir.29:7	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 29:10.		(Latin=29:10 • Greek=29:7)	Sir.29:31=Last
+Bulgarian	Sir.29:11	Sir.29:8	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 29:11.		(Latin=29:11 • Greek=29:8)	Sir.29:31=Last
+Bulgarian	Sir.29:12	Sir.29:9	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 29:12.		(Latin=29:12 • Greek=29:9)	Sir.29:31=Last
+Bulgarian	Sir.29:13	Sir.29:10	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 29:13.		(Latin=29:13 • Greek=29:10)	Sir.29:31=Last
+Bulgarian	Sir.29:14	Sir.29:11	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 29:14.		(Latin=29:14 • Greek=29:11)	Sir.29:31=Last
+Bulgarian	Sir.29:15	Sir.29:12	Keep verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 29:15.		(Latin=29:15 • Greek=29:12)	Sir.29:31=Last
+Bulgarian	Sir.29:16	Sir.29:13	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 29:16.		(Latin=29:16 • Greek=29:13)	Sir.29:31=Last
+Bulgarian	Sir.29:17	Sir.29:14	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 29:17.		(Latin=29:18 • Greek=29:14)	Sir.29:31=Last
+Bulgarian	Sir.29:18	Sir.29:15	Keep verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 29:18.		(Latin=29:19 • Greek=29:15)	Sir.29:31=Last
+Bulgarian	Sir.29:18	Sir.29:16	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 29:18.		(Latin=29:20 • Greek=29:16)	Sir.29:31=Last
+Bulgarian	Sir.29:19	Sir.29:17	Keep verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 29:19.		(Latin=29:21 • Greek=29:17)	Sir.29:31=Last
+Bulgarian	Sir.29:20	Sir.29:18.1	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 29:20.		(Latin=29:22 • Greek=29:18a)	Sir.29:31=Last
+Bulgarian	Sir.29:21	Sir.29:18.2	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 29:21.		(Latin=29:25 • Greek=29:18b)	Sir.29:31=Last
+Bulgarian	Sir.29:22	Sir.29:19	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 29:22.		(Latin=29:26 • Greek=29:19)	Sir.29:31=Last
+Bulgarian	Sir.29:23	Sir.29:20	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 29:23.		(Latin=29:27 • Greek=29:20)	Sir.29:31=Last
+Bulgarian	Sir.29:24	Sir.29:21	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 29:24.		(Latin=29:28 • Greek=29:21)	Sir.29:31=Last
+Bulgarian	Sir.29:25	Sir.29:22	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 29:25.		(Latin=29:29 • Greek=29:22)	Sir.29:31=Last
+Bulgarian	Sir.29:26	Sir.29:23	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% 29:26.		(Latin=29:30 • Greek=29:23)	Sir.29:31=Last
+Bulgarian	Sir.29:27	Sir.29:24	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 29:27.		(Latin=29:31 • Greek=29:24)	Sir.29:31=Last
+Bulgarian	Sir.29:28	Sir.29:25	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 29:28.		(Latin=29:32 • Greek=29:25)	Sir.29:31=Last
+Bulgarian	Sir.29:29	Sir.29:26	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 29:29.		(Latin=29:33 • Greek=29:26)	Sir.29:31=Last
+Bulgarian	Sir.29:30	Sir.29:27	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 29:30.		(Latin=29:34 • Greek=29:27)	Sir.29:31=Last
+Bulgarian	Sir.29:31	Sir.29:28	Keep verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 29:31.		(Latin=29:35 • Greek=29:28)	Sir.29:31=Last
 
 English+Greek	Sir.30:19	Sir.30:19	Keep verse	Acd. [19-20]	%In some Bibles the verse numbering here is% 30:19-20.		(Latin=30:19-20 • Greek=30:19)	Sir.30:25=Last	
 English+Greek	Sir.30:20	Sir.30:20	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 30:21.		(Latin=30:21 • Greek=30:20)	Sir.30:25=Last	
@@ -19237,6 +19759,34 @@ Latin	Sir.31:39	Sir.31:30.1	Renumber verse	Nec. [39]	%Normally in this Bible the
 Latin	Sir.31:40	Sir.31:30.2	Renumber verse	Nec. [40]	%Normally in this Bible the verse numbering here is% 31:40.		(Latin=31:39-40 • Greek=31:30)	Sir.31:42=Last	
 Latin	Sir.31:41	Sir.31:31.1	Renumber verse	Nec. [41]	%Normally in this Bible the verse numbering here is% 31:41.		(Latin=31:41-42 • Greek=31:31)	Sir.31:42=Last	
 Latin	Sir.31:42	Sir.31:31.2	Renumber verse	Nec. [42]	%Normally in this Bible the verse numbering here is% 31:42.		(Latin=31:41-42 • Greek=31:31)	Sir.31:42=Last	
+Bulgarian	Sir.31:10	Sir.31:10.1	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 31:10.		(Latin=31:10a • Greek=31:10a)	Sir.31:37=Last
+Bulgarian	Sir.31:11	Sir.31:10.2	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 31:11.		(Latin=31:10b • Greek=31:10b)	Sir.31:37=Last
+Bulgarian	Sir.31:12	Sir.31:11	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 31:12.		(Latin=31:11 • Greek=31:11)	Sir.31:37=Last
+Bulgarian	Sir.31:13	Sir.31:12	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 31:13.		(Latin=31:12 • Greek=31:12)	Sir.31:37=Last
+Bulgarian	Sir.31:14	Sir.31:13.1	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 31:14.		(Latin=31:14 • Greek=31:13a)	Sir.31:37=Last
+Bulgarian	Sir.31:15	Sir.31:13.2	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 31:15.		(Latin=31:15 • Greek=31:13b)	Sir.31:37=Last
+Bulgarian	Sir.31:16	Sir.31:14	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 31:16.		(Latin=31:16 • Greek=31:14)	Sir.31:37=Last
+Bulgarian	Sir.31:17	Sir.31:15	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 31:17.		(Latin=31:18 • Greek=31:15)	Sir.31:37=Last
+Bulgarian	Sir.31:18	Sir.31:16	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 31:18.		(Latin=31:19 • Greek=31:16)	Sir.31:37=Last
+Bulgarian	Sir.31:19	Sir.31:17	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 31:19.		(Latin=31:20 • Greek=31:17)	Sir.31:37=Last
+Bulgarian	Sir.31:20	Sir.31:18	Keep verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 31:20.		(Latin=31:21 • Greek=31:18)	Sir.31:37=Last
+Bulgarian	Sir.31:21	Sir.31:19	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 31:21.		(Latin=31:22 • Greek=31:19)	Sir.31:37=Last
+Bulgarian	Sir.31:22	Sir.31:20	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 31:22.		(Latin=31:24 • Greek=31:20)	Sir.31:37=Last
+Bulgarian	Sir.31:23	Sir.31:21	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 31:23.		(Latin=31:25 • Greek=31:21)	Sir.31:37=Last
+Bulgarian	Sir.31:24	Sir.31:21	Keep verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 31:24.		(Latin=31:25 • Greek=31:21)	Sir.31:37=Last
+Bulgarian	Sir.31:25	Sir.31:22.1	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 31:25.		(Latin=31:26 • Greek=31:22a)	Sir.31:37=Last
+Bulgarian	Sir.31:26	Sir.31:22.2	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 31:26.		(Latin=31:27 • Greek=31:22b)	Sir.31:37=Last
+Bulgarian	Sir.31:27	Sir.31:23	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 31:27.		(Latin=31:28 • Greek=31:23)	Sir.31:37=Last
+Bulgarian	Sir.31:28	Sir.31:24	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 31:28.		(Latin=31:29 • Greek=31:24)	Sir.31:37=Last
+Bulgarian	Sir.31:29	Sir.31:25	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 31:29.		(Latin=31:30 • Greek=31:25)	Sir.31:37=Last
+Bulgarian	Sir.31:30	Sir.31:26	Keep verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 31:30.		(Latin=31:31 • Greek=31:26)	Sir.31:37=Last
+Bulgarian	Sir.31:31	Sir.31:27.1	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 31:31.		(Latin=31:32 • Greek=31:27a)	Sir.31:37=Last
+Bulgarian	Sir.31:32	Sir.31:27.2	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 31:32.		(Latin=31:35 • Greek=31:27b)	Sir.31:37=Last
+Bulgarian	Sir.31:33	Sir.31:28	Renumber verse	Nec. [33]	%In some Bibles the verse numbering here is% 31:33.		(Latin=31:36 • Greek=31:28)	Sir.31:37=Last
+Bulgarian	Sir.31:34	Sir.31:29	Renumber verse	Nec. [34]	%In some Bibles the verse numbering here is% 31:34.		(Latin=31:38 • Greek=31:29)	Sir.31:37=Last
+Bulgarian	Sir.31:35	Sir.31:30	Renumber verse	Nec. [35]	%In some Bibles the verse numbering here is% 31:35.		(Latin=31:39 • Greek=31:30)	Sir.31:37=Last
+Bulgarian	Sir.31:36	Sir.31:31.1	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 31:36.		(Latin=31:41 • Greek=31:31a)	Sir.31:37=Last
+Bulgarian	Sir.31:37	Sir.31:31.2	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 31:37.		(Latin=31:42 • Greek=31:31b)	Sir.31:37=Last
 
 English+Greek	Sir.32:2	Sir.32:2	Keep verse	Acd. [2-3]	%In some Bibles the verse numbering here is% 32:2-3.		(Latin=32:2-3 • Greek=32:2)	Sir.32:24=Last	
 English+Greek	Sir.32:3	Sir.32:3	Keep verse	Acd. [4-5]	%In some Bibles the verse numbering here is% 32:4-5.		(Latin=32:4-5 • Greek=32:3)	Sir.32:24=Last	
@@ -19289,6 +19839,31 @@ Latin	Sir.32:25	Sir.32:21	Merged with	Nec. [25b]	%Normally in this Bible some te
 Latin	Sir.32:26	Sir.32:22	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 32:26.		(Latin=32:26 • Greek=32:22)	Sir.32:28=Last	
 Latin	Sir.32:27	Sir.32:23	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 32:27.		(Latin=32:27 • Greek=32:23)	Sir.32:28=Last	
 Latin	Sir.32:28	Sir.32:24	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 32:28.		(Latin=32:28 • Greek=32:24)	Sir.32:28=Last	
+Bulgarian	Sir.32:2	Sir.32:2.1	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 32:2.		(Latin=32:2 • Greek=32:2a)	Sir.32:25=Last
+Bulgarian	Sir.32:3	Sir.32:2.2	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 32:3.		(Latin=32:3 • Greek=32:2b)	Sir.32:25=Last
+Bulgarian	Sir.32:4	Sir.32:3.1	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 32:4.		(Latin=32:4 • Greek=32:3a)	Sir.32:25=Last
+Bulgarian	Sir.32:5	Sir.32:3.2	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 32:5.		(Latin=32:5 • Greek=32:3b)	Sir.32:25=Last
+Bulgarian	Sir.32:6	Sir.32:4	Renumber verse	Nec. [6]	%In some Bibles the verse numbering here is% 32:6.		(Latin=32:6 • Greek=32:4)	Sir.32:25=Last
+Bulgarian	Sir.32:7	Sir.32:5	Renumber verse	Nec. [7]	%In some Bibles the verse numbering here is% 32:7.		(Latin=32:7 • Greek=32:5)	Sir.32:25=Last
+Bulgarian	Sir.32:8	Sir.32:6	Keep verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 32:8.		(Latin=32:8 • Greek=32:6)	Sir.32:25=Last
+Bulgarian	Sir.32:9	Sir.32:7	Renumber verse	Nec. [9]	%In some Bibles the verse numbering here is% 32:9.		(Latin=32:10 • Greek=32:7)	Sir.32:25=Last
+Bulgarian	Sir.32:10	Sir.32:8	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 32:10.		(Latin=32:9,12 • Greek=32:8)	Sir.32:25=Last
+Bulgarian	Sir.32:11	Sir.32:9	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 32:11.		(Latin=32:13 • Greek=32:9)	Sir.32:25=Last
+Bulgarian	Sir.32:12	Sir.32:10	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 32:12.		(Latin=32:14 • Greek=32:10)	Sir.32:25=Last
+Bulgarian	Sir.32:13	Sir.32:11	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 32:13.		(Latin=32:15 • Greek=32:11)	Sir.32:25=Last
+Bulgarian	Sir.32:14	Sir.32:12	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 32:14.		(Latin=32:16 • Greek=32:12)	Sir.32:25=Last
+Bulgarian	Sir.32:15	Sir.32:13	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 32:15.		(Latin=32:17 • Greek=32:13)	Sir.32:25=Last
+Bulgarian	Sir.32:16	Sir.32:14	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 32:16.		(Latin=32:18 • Greek=32:14)	Sir.32:25=Last
+Bulgarian	Sir.32:17	Sir.32:15	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 32:17.		(Latin=32:19 • Greek=32:15)	Sir.32:25=Last
+Bulgarian	Sir.32:18	Sir.32:16	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 32:18.		(Latin=32:20 • Greek=32:16)	Sir.32:25=Last
+Bulgarian	Sir.32:19	Sir.32:17	Keep verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 32:19.		(Latin=32:21 • Greek=32:17)	Sir.32:25=Last
+Bulgarian	Sir.32:20	Sir.32:18	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 32:20.		(Latin=32:22 • Greek=32:18)	Sir.32:25=Last
+Bulgarian	Sir.32:21	Sir.32:19	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 32:21.		(Latin=32:24 • Greek=32:19)	Sir.32:25=Last
+Bulgarian	Sir.32:22	Sir.32:20	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 32:22.		(Latin=32:25a • Greek=32:20)	Sir.32:25=Last
+Bulgarian	Sir.32:23	Sir.32:21	Keep verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 32:23.		(Latin=32:25b • Greek=32:21)	Sir.32:25=Last
+Bulgarian	Sir.32:22	Sir.32:22	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Latin=32:26 • Greek=32:22)	Sir.32:25=Last
+Bulgarian	Sir.32:24	Sir.32:23	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 32:24.		(Latin=32:27 • Greek=32:23)	Sir.32:25=Last
+Bulgarian	Sir.32:25	Sir.32:24	Keep verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 32:25.		(Latin=32:28 • Greek=32:24)	Sir.32:25=Last
 
 English+Greek	Sir.33:28	Sir.33:28	Keep verse	Acd. [28-29]	%In some Bibles the verse numbering here is% 33:28-29.		(Latin=33:28-29 • Greek=33:28)	Sir.37:31=Last	
 English+Greek	Sir.33:29	Sir.33:29	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 33:30.		(Latin=33:30 • Greek=33:29)	Sir.37:31=Last	
@@ -19537,6 +20112,44 @@ Latin	Sir.39:38	Sir.39:32	Renumber verse	Nec. [38]	%Normally in this Bible the v
 Latin	Sir.39:39	Sir.39:33	Renumber verse	Nec. [39]	%Normally in this Bible the verse numbering here is% 39:39.		(Latin=39:39 • Greek=39:33)	Sir.39:41=Last	
 Latin	Sir.39:40	Sir.39:34	Renumber verse	Nec. [40]	%Normally in this Bible the verse numbering here is% 39:40.		(Latin=39:40 • Greek=39:34)	Sir.39:41=Last	
 Latin	Sir.39:41	Sir.39:35	Renumber verse	Nec. [41]	%Normally in this Bible the verse numbering here is% 39:41.		(Latin=39:41 • Greek=39:35)	Sir.39:41=Last	
+Bulgarian	Sir.39:5	Sir.39:5.1	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 39:5.		(Latin=39:6 • Greek=39:5a)	Sir.39:42=Last
+Bulgarian	Sir.39:6	Sir.39:5.2	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 39:6.		(Latin=39:7 • Greek=39:5b)	Sir.39:42=Last
+Bulgarian	Sir.39:7	Sir.39:6.1	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 39:7.		(Latin=39:8 • Greek=39:6a)	Sir.39:42=Last
+Bulgarian	Sir.39:8	Sir.39:6.2	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 39:8.		(Latin=39:9 • Greek=39:6b)	Sir.39:42=Last
+Bulgarian	Sir.39:9	Sir.39:7	Renumber verse	Nec. [9]	%In some Bibles the verse numbering here is% 39:9.		(Latin=39:10 • Greek=39:7)	Sir.39:42=Last
+Bulgarian	Sir.39:10	Sir.39:8	Keep verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 39:10.		(Latin=39:11 • Greek=39:8)	Sir.39:42=Last
+Bulgarian	Sir.39:11	Sir.39:9.1	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 39:11.		(Latin=39:12 • Greek=39:9a)	Sir.39:42=Last
+Bulgarian	Sir.39:12	Sir.39:9.2	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 39:12.		(Latin=39:13 • Greek=39:9b)	Sir.39:42=Last
+Bulgarian	Sir.39:13	Sir.39:10	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 39:13.		(Latin=39:14 • Greek=39:10)	Sir.39:42=Last
+Bulgarian	Sir.39:14	Sir.39:11	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 39:14.		(Latin=39:15 • Greek=39:11)	Sir.39:42=Last
+Bulgarian	Sir.39:15	Sir.39:12	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 39:15.		(Latin=39:16 • Greek=39:12)	Sir.39:42=Last
+Bulgarian	Sir.39:16	Sir.39:13	Keep verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 39:16.		(Latin=39:17 • Greek=39:13)	Sir.39:42=Last
+Bulgarian	Sir.39:17	Sir.39:14.1	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 39:17.		(Latin=39:18 • Greek=39:14a)	Sir.39:42=Last
+Bulgarian	Sir.39:18	Sir.39:14.2	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 39:18.		(Latin=39:19 • Greek=39:14b)	Sir.39:42=Last
+Bulgarian	Sir.39:19	Sir.39:15.1	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 39:19.		(Latin=39:20a • Greek=39:15a)	Sir.39:42=Last
+Bulgarian	Sir.39:20	Sir.39:15.2	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 39:20.		(Latin=39:20b • Greek=39:15b)	Sir.39:42=Last
+Bulgarian	Sir.39:21	Sir.39:16	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 39:21.		(Latin=39:21 • Greek=39:16)	Sir.39:42=Last
+Bulgarian	Sir.39:22	Sir.39:17.1	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 39:22.		(Latin=39:22a • Greek=39:17a)	Sir.39:42=Last
+Bulgarian	Sir.39:23	Sir.39:17.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 39:23.		(Latin=39:22b • Greek=39:17b)	Sir.39:42=Last
+Bulgarian	Sir.39:24	Sir.39:18	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 39:24.		(Latin=39:23 • Greek=39:18)	Sir.39:42=Last
+Bulgarian	Sir.39:25	Sir.39:19	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 39:25.		(Latin=39:24 • Greek=39:19)	Sir.39:42=Last
+Bulgarian	Sir.39:26	Sir.39:20	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% 39:26.		(Latin=39:25 • Greek=39:20)	Sir.39:42=Last
+Bulgarian	Sir.39:27	Sir.39:21	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 39:27.		(Latin=39:26 • Greek=39:21)	Sir.39:42=Last
+Bulgarian	Sir.39:28	Sir.39:22	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 39:28.		(Latin=39:27 • Greek=39:22)	Sir.39:42=Last
+Bulgarian	Sir.39:29	Sir.39:23	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 39:29.		(Latin=39:28 • Greek=39:23)	Sir.39:42=Last
+Bulgarian	Sir.39:30	Sir.39:24	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 39:30.		(Latin=39:29 • Greek=39:24)	Sir.39:42=Last
+Bulgarian	Sir.39:31	Sir.39:25	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 39:31.		(Latin=39:30 • Greek=39:25)	Sir.39:42=Last
+Bulgarian	Sir.39:32	Sir.39:26	Renumber verse	Nec. [32]	%In some Bibles the verse numbering here is% 39:32.		(Latin=39:31 • Greek=39:26)	Sir.39:42=Last
+Bulgarian	Sir.39:33	Sir.39:27	Keep verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 39:33.		(Latin=39:32 • Greek=39:27)	Sir.39:42=Last
+Bulgarian	Sir.39:34	Sir.39:28.1	Renumber verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 39:34.		(Latin=39:33 • Greek=39:28a)	Sir.39:42=Last
+Bulgarian	Sir.39:35	Sir.39:28.2	Renumber verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 39:35.		(Latin=39:34 • Greek=39:28b)	Sir.39:42=Last
+Bulgarian	Sir.39:36	Sir.39:29	Renumber verse	Nec. [36]	%In some Bibles the verse numbering here is% 39:36.		(Latin=39:35 • Greek=39:29)	Sir.39:42=Last
+Bulgarian	Sir.39:37	Sir.39:30	Renumber verse	Nec. [37]	%In some Bibles the verse numbering here is% 39:37.		(Latin=39:36 • Greek=39:30)	Sir.39:42=Last
+Bulgarian	Sir.39:38	Sir.39:31	Renumber verse	Nec. [38]	%In some Bibles the verse numbering here is% 39:38.		(Latin=39:37 • Greek=39:31)	Sir.39:42=Last
+Bulgarian	Sir.39:39	Sir.39:32	Renumber verse	Nec. [39]	%In some Bibles the verse numbering here is% 39:39.		(Latin=39:38 • Greek=39:32)	Sir.39:42=Last
+Bulgarian	Sir.39:40	Sir.39:33	Renumber verse	Nec. [40]	%In some Bibles the verse numbering here is% 39:40.		(Latin=39:39 • Greek=39:33)	Sir.39:42=Last
+Bulgarian	Sir.39:41	Sir.39:34	Renumber verse	Nec. [41]	%In some Bibles the verse numbering here is% 39:41.		(Latin=39:40 • Greek=39:34)	Sir.39:42=Last
+Bulgarian	Sir.39:42	Sir.39:35	Keep verse	Nec. [42]	%Normally in this Bible the verse numbering here is% 39:42.		(Latin=39:41 • Greek=39:35)	Sir.39:42=Last
 
 English+Greek	Sir.40:26	Sir.40:26	Keep verse	Acd. [26-27]	%In some Bibles the verse numbering here is% 40:26-27.		(Latin=40:26-27 • Greek=40:26)	Sir.40:30=Last	
 English+Greek	Sir.40:27	Sir.40:27	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 40:28.		(Latin=40:28 • Greek=40:27)	Sir.40:30=Last	
@@ -19601,13 +20214,57 @@ Latin	Sir.41:25	Sir.41:21.1	Renumber verse	Nec. [25]	%Normally in this Bible the
 Latin	Sir.41:26	Sir.41:21.2	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 41:26.		(Latin=41:25-26 • Greek=41:21)	Sir.41:28=Last	
 Latin	Sir.41:27	Sir.41:22.1	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 41:27.		(Latin=41:27-28 • Greek=41:22)	Sir.41:28=Last	
 Latin	Sir.41:28	Sir.41:22.2	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 41:28.		(Latin=41:27-28 • Greek=41:22)	Sir.41:28=Last	
-Bulgarian	Sir.41:21	Sir.41:21.1	Keep verse	Nec. [21-23]	%Normally in this Bible the verse numbering here is% 41:21.		(Latin=41:25-26 • Greek=41:21)	Sir.41:27=Last	
-Bulgarian	Sir.41:22	Sir.41:21.2	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 41:22.		(Latin=41:25-26 • Greek=41:21)	Sir.41:27=Last	
-Bulgarian	Sir.41:23	Sir.41:21.3	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Latin=41:25-26 • Greek=41:21)	Sir.41:27=Last	
-Bulgarian	Sir.41:24	Sir.41:22.1	Renumber verse	Nec. [24-27]	%Normally in this Bible the verse numbering here is% 41:24.		(Latin=41:27 • Greek=41:22a)	Sir.41:27=Last	
-Bulgarian	Sir.41:25	Sir.41:22.2	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Latin=41:27 • Greek=41:22a)	Sir.41:27=Last	
-Bulgarian	Sir.41:26	Sir.41:22.3	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 41:26.		(Latin=41:28 • Greek=41:22b)	Sir.41:27=Last	
-Bulgarian	Sir.41:27	Sir.41:22.4	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 41:27.		(Latin=41:28 • Greek=41:22b)	Sir.41:27=Last	
+Bulgarian2	Sir.41:1	Sir.41:1.1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 41:1.		(Latin=41:1 • Greek=41:1a)	Sir.41:29=Last
+Bulgarian2	Sir.41:2	Sir.41:1.2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 41:2.		(Latin=41:2 • Greek=41:1b)	Sir.41:29=Last
+Bulgarian2	Sir.41:3	Sir.41:2.1	Renumber verse	Nec. [3]	%Normally in this Bible the verse numbering here is% 41:3.		(Latin=41:3 • Greek=41:2a)	Sir.41:29=Last
+Bulgarian2	Sir.41:4	Sir.41:2.2	Renumber verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 41:4.		(Latin=41:4 • Greek=41:2b)	Sir.41:29=Last
+Bulgarian2	Sir.41:5	Sir.41:3	Renumber verse	Nec. [5]	%In some Bibles the verse numbering here is% 41:5.		(Latin=41:5 • Greek=41:3)	Sir.41:29=Last
+Bulgarian2	Sir.41:6	Sir.41:4.1	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 41:6.		(Latin=41:6 • Greek=41:4a)	Sir.41:29=Last
+Bulgarian2	Sir.41:7	Sir.41:4.2	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 41:7.		(Latin=41:7 • Greek=41:4b)	Sir.41:29=Last
+Bulgarian2	Sir.41:8	Sir.41:5	Renumber verse	Nec. [8]	%In some Bibles the verse numbering here is% 41:8.		(Latin=41:8 • Greek=41:5)	Sir.41:29=Last
+Bulgarian2	Sir.41:9	Sir.41:6	Renumber verse	Nec. [9]	%In some Bibles the verse numbering here is% 41:9.		(Latin=41:9 • Greek=41:6)	Sir.41:29=Last
+Bulgarian2	Sir.41:10	Sir.41:7	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 41:10.		(Latin=41:10 • Greek=41:7)	Sir.41:29=Last
+Bulgarian2	Sir.41:11	Sir.41:8	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 41:11.		(Latin=41:11 • Greek=41:8)	Sir.41:29=Last
+Bulgarian2	Sir.41:12	Sir.41:9	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 41:12.		(Latin=41:12 • Greek=41:9)	Sir.41:29=Last
+Bulgarian2	Sir.41:13	Sir.41:10	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 41:13.		(Latin=41:13 • Greek=41:10)	Sir.41:29=Last
+Bulgarian2	Sir.41:14	Sir.41:11	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 41:14.		(Latin=41:14 • Greek=41:11)	Sir.41:29=Last
+Bulgarian2	Sir.41:15	Sir.41:12	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 41:15.		(Latin=41:15 • Greek=41:12)	Sir.41:29=Last
+Bulgarian2	Sir.41:16	Sir.41:13	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 41:16.		(Latin=41:16 • Greek=41:13)	Sir.41:29=Last
+Bulgarian2	Sir.41:17	Sir.41:14	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 41:17.		(Latin=41:17 • Greek=41:14)	Sir.41:29=Last
+Bulgarian2	Sir.41:18	Sir.41:15	Keep verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 41:18.		(Latin=41:18 • Greek=41:15)	Sir.41:29=Last
+Bulgarian2	Sir.41:19	Sir.41:16.1	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 41:19.		(Latin=41:19 • Greek=41:16a)	Sir.41:29=Last
+Bulgarian2	Sir.41:20	Sir.41:16.2	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 41:20.		(Latin=41:20 • Greek=41:16b)	Sir.41:29=Last
+Bulgarian2	Sir.41:21	Sir.41:17	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 41:21.		(Latin=41:21 • Greek=41:17)	Sir.41:29=Last
+Bulgarian2	Sir.41:22	Sir.41:18	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 41:22.		(Latin=41:22 • Greek=41:18)	Sir.41:29=Last
+Bulgarian2	Sir.41:23	Sir.41:19	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 41:23.		(Latin=41:23 • Greek=41:19)	Sir.41:29=Last
+Bulgarian2	Sir.41:24	Sir.41:20	Keep verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Latin=41:24 • Greek=41:20)	Sir.41:29=Last
+Bulgarian2	Sir.41:25	Sir.41:21.1	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Latin=41:25 • Greek=41:21a)	Sir.41:29=Last
+Bulgarian2	Sir.41:27	Sir.41:21.2	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 41:27.		(Latin=41:26 • Greek=41:21b)	Sir.41:29=Last
+Bulgarian2	Sir.41:28	Sir.41:22.1	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 41:28.		(Latin=41:27 • Greek=41:22a)	Sir.41:29=Last
+Bulgarian2	Sir.41:29	Sir.41:22.2	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 41:29.		(Latin=41:28 • Greek=41:22b)	Sir.41:29=Last
+Bulgarian	Sir.41:2	Sir.41:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 41:2.		(Latin=41:3 • Greek=41:2)	Sir.41:27=Last
+Bulgarian	Sir.41:3	Sir.41:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 41:3.		(Latin=41:5 • Greek=41:3)	Sir.41:27=Last
+Bulgarian	Sir.41:4	Sir.41:4	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 41:4.		(Latin=41:6 • Greek=41:4)	Sir.41:27=Last
+Bulgarian	Sir.41:5	Sir.41:5	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 41:5.		(Latin=41:8 • Greek=41:5)	Sir.41:27=Last
+Bulgarian	Sir.41:6	Sir.41:6	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 41:6.		(Latin=41:9 • Greek=41:6)	Sir.41:27=Last
+Bulgarian	Sir.41:7	Sir.41:7	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 41:7.		(Latin=41:10 • Greek=41:7)	Sir.41:27=Last
+Bulgarian	Sir.41:8	Sir.41:8	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 41:8.		(Latin=41:11 • Greek=41:8)	Sir.41:27=Last
+Bulgarian	Sir.41:9	Sir.41:9	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 41:9.		(Latin=41:12 • Greek=41:9)	Sir.41:27=Last
+Bulgarian	Sir.41:10	Sir.41:10	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 41:10.		(Latin=41:13 • Greek=41:10)	Sir.41:27=Last
+Bulgarian	Sir.41:11	Sir.41:11	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 41:11.		(Latin=41:14 • Greek=41:11)	Sir.41:27=Last
+Bulgarian	Sir.41:12	Sir.41:12	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 41:12.		(Latin=41:15 • Greek=41:12)	Sir.41:27=Last
+Bulgarian	Sir.41:13	Sir.41:13	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 41:13.		(Latin=41:16 • Greek=41:13)	Sir.41:27=Last
+Bulgarian	Sir.41:14	Sir.41:14	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 41:14.		(Latin=41:17 • Greek=41:14)	Sir.41:27=Last
+Bulgarian	Sir.41:15	Sir.41:15	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 41:15.		(Latin=41:18 • Greek=41:15)	Sir.41:27=Last
+Bulgarian	Sir.41:16	Sir.41:16	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 41:16.		(Latin=41:19 • Greek=41:16)	Sir.41:27=Last
+Bulgarian	Sir.41:17	Sir.41:17	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 41:17.		(Latin=41:21 • Greek=41:17)	Sir.41:27=Last
+Bulgarian	Sir.41:18	Sir.41:18	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 41:18.		(Latin=41:22 • Greek=41:18)	Sir.41:27=Last
+Bulgarian	Sir.41:19	Sir.41:19	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 41:19.		(Latin=41:23 • Greek=41:19)	Sir.41:27=Last
+Bulgarian	Sir.41:20	Sir.41:20	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 41:20.		(Latin=41:24 • Greek=41:20)	Sir.41:27=Last
+Bulgarian	Sir.41:21	Sir.41:21.1	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 41:21.		(Latin=41:25 • Greek=41:21a)	Sir.41:27=Last
+Bulgarian	Sir.41:23	Sir.41:21.2	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 41:23.		(Latin=41:26 • Greek=41:21b)	Sir.41:27=Last
+Bulgarian	Sir.41:24	Sir.41:22.1	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Latin=41:27 • Greek=41:22a)	Sir.41:27=Last
+Bulgarian	Sir.41:27	Sir.41:22.2	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 41:27.		(Latin=41:28 • Greek=41:22b)	Sir.41:27=Last
 
 English+Greek	Sir.42:21	Sir.42:21	Keep verse	Acd. [21-22]	%In some Bibles the verse numbering here is% 42:21-22.		(Latin=42:21-22 • Greek=42:21)	Sir.42:25=Last	
 English+Greek	Sir.42:22	Sir.42:22	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 42:23.		(Latin=42:23 • Greek=42:22)	Sir.42:25=Last	
@@ -19677,6 +20334,35 @@ Latin	Sir.43:34	Sir.43:30.2	Renumber verse	Nec. [34]	%Normally in this Bible the
 Latin	Sir.43:35	Sir.43:31	Renumber verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 43:35.		(Latin=43:35 • Greek=43:31)	Sir.43:37=Last	
 Latin	Sir.43:36	Sir.43:32	Renumber verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 43:36.		(Latin=43:36 • Greek=43:32)	Sir.43:37=Last	
 Latin	Sir.43:37	Sir.43:33	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 43:37.		(Latin=43:37 • Greek=43:33)	Sir.43:37=Last	
+Bulgarian	Sir.43:8	Sir.43:8.1	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 43:8.		(Latin=43:8 • Greek=43:8a)	Sir.43:36=Last
+Bulgarian	Sir.43:9	Sir.43:8.2	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 43:9.		(Latin=43:9 • Greek=43:8b)	Sir.43:36=Last
+Bulgarian	Sir.43:10	Sir.43:9	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 43:10.		(Latin=43:10 • Greek=43:9)	Sir.43:36=Last
+Bulgarian	Sir.43:11	Sir.43:10	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 43:11.		(Latin=43:11 • Greek=43:10)	Sir.43:36=Last
+Bulgarian	Sir.43:12	Sir.43:11	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 43:12.		(Latin=43:12 • Greek=43:11)	Sir.43:36=Last
+Bulgarian	Sir.43:13	Sir.43:12	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 43:13.		(Latin=43:13 • Greek=43:12)	Sir.43:36=Last
+Bulgarian	Sir.43:14	Sir.43:13	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 43:14.		(Latin=43:14 • Greek=43:13)	Sir.43:36=Last
+Bulgarian	Sir.43:15	Sir.43:14	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 43:15.		(Latin=43:15 • Greek=43:14)	Sir.43:36=Last
+Bulgarian	Sir.43:16	Sir.43:15	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 43:16.		(Latin=43:16 • Greek=43:15)	Sir.43:36=Last
+Bulgarian	Sir.43:17	Sir.43:16	Keep verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 43:17.		(Latin=43:17 • Greek=43:16)	Sir.43:36=Last
+Bulgarian	Sir.43:18	Sir.43:17.1	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 43:18.		(Latin=43:18a • Greek=43:17a)	Sir.43:36=Last
+Bulgarian	Sir.43:19	Sir.43:17.2	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 43:19.		(Latin=43:18b • Greek=43:17b)	Sir.43:36=Last
+Bulgarian	Sir.43:20	Sir.43:18	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 43:20.		(Latin=43:19 • Greek=43:18)	Sir.43:36=Last
+Bulgarian	Sir.43:21	Sir.43:19	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 43:21.		(Latin=43:21 • Greek=43:19)	Sir.43:36=Last
+Bulgarian	Sir.43:22	Sir.43:20	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 43:22.		(Latin=43:22 • Greek=43:20)	Sir.43:36=Last
+Bulgarian	Sir.43:23	Sir.43:21	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 43:23.		(Latin=43:23 • Greek=43:21)	Sir.43:36=Last
+Bulgarian	Sir.43:24	Sir.43:22	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 43:24.		(Latin=43:24 • Greek=43:22)	Sir.43:36=Last
+Bulgarian	Sir.43:25	Sir.43:23	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 43:25.		(Latin=43:25 • Greek=43:23)	Sir.43:36=Last
+Bulgarian	Sir.43:26	Sir.43:24	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% 43:26.		(Latin=43:26 • Greek=43:24)	Sir.43:36=Last
+Bulgarian	Sir.43:27	Sir.43:25	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 43:27.		(Latin=43:27 • Greek=43:25)	Sir.43:36=Last
+Bulgarian	Sir.43:28	Sir.43:26	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 43:28.		(Latin=43:28 • Greek=43:26)	Sir.43:36=Last
+Bulgarian	Sir.43:29	Sir.43:27	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 43:29.		(Latin=43:29 • Greek=43:27)	Sir.43:36=Last
+Bulgarian	Sir.43:30	Sir.43:28	Keep verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 43:30.		(Latin=43:30 • Greek=43:28)	Sir.43:36=Last
+Bulgarian	Sir.43:31	Sir.43:29	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 43:31.		(Latin=43:31 • Greek=43:29)	Sir.43:36=Last
+Bulgarian	Sir.43:32	Sir.43:30.1	Renumber verse	Nec. [32]	%Normally in this Bible the verse numbering here is% 43:32.		(Latin=43:33 • Greek=43:30a)	Sir.43:36=Last
+Bulgarian	Sir.43:33	Sir.43:30.2	Renumber verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 43:33.		(Latin=43:34 • Greek=43:30b)	Sir.43:36=Last
+Bulgarian	Sir.43:34	Sir.43:31	Renumber verse	Nec. [34]	%In some Bibles the verse numbering here is% 43:34.		(Latin=43:35 • Greek=43:31)	Sir.43:36=Last
+Bulgarian	Sir.43:35	Sir.43:32	Renumber verse	Nec. [35]	%In some Bibles the verse numbering here is% 43:35.		(Latin=43:36 • Greek=43:32)	Sir.43:36=Last
+Bulgarian	Sir.43:36	Sir.43:33	Keep verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 43:36.		(Latin=43:37 • Greek=43:33)	Sir.43:36=Last
 
 English+Greek	Sir.44:17	Sir.44:17	Keep verse	Acd. [17-18]	%In some Bibles the verse numbering here is% 44:17-18.		(Latin=44:17-18 • Greek=44:17)	Sir.44:23=Last	
 English+Greek	Sir.44:18	Sir.44:18	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 44:19.		(Latin=44:19 • Greek=44:18)	Sir.44:23=Last	
@@ -19913,6 +20599,24 @@ Latin	Sir.49:16	Sir.49:14	Renumber verse	Nec. [16]	%Normally in this Bible the v
 Latin	Sir.49:17	Sir.49:15.1	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 49:17.		(Latin=49:17-18 • Greek=49:15)	Sir.49:19=Last	
 Latin	Sir.49:18	Sir.49:15.2	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 49:18.		(Latin=49:17-18 • Greek=49:15)	Sir.49:19=Last	
 Latin	Sir.49:19	Sir.49:16	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 49:19.		(Latin=49:19 • Greek=49:16)	Sir.49:19=Last	
+Bulgarian	Sir.49:1	Sir.49:1.1	Renumber verse	Nec. [1]	%Normally in this Bible the verse numbering here is% 49:1.		(Latin=49:1 • Greek=49:1a)	Sir.49:18=Last
+Bulgarian	Sir.49:2	Sir.49:1.2	Renumber verse	Nec. [2]	%Normally in this Bible the verse numbering here is% 49:2.		(Latin=49:2 • Greek=49:1b)	Sir.49:18=Last
+Bulgarian	Sir.49:3	Sir.49:2	Renumber verse	Nec. [3]	%In some Bibles the verse numbering here is% 49:3.		(Latin=49:3 • Greek=49:2)	Sir.49:18=Last
+Bulgarian	Sir.49:4	Sir.49:3	Keep verse	Nec. [4]	%Normally in this Bible the verse numbering here is% 49:4.		(Latin=49:4 • Greek=49:3)	Sir.49:18=Last
+Bulgarian	Sir.49:5	Sir.49:4.1	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 49:5.		(Latin=49:5 • Greek=49:4a)	Sir.49:18=Last
+Bulgarian	Sir.49:6	Sir.49:4.2	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 49:6.		(Latin=49:6 • Greek=49:4b)	Sir.49:18=Last
+Bulgarian	Sir.49:7	Sir.49:5	Renumber verse	Nec. [7]	%In some Bibles the verse numbering here is% 49:7.		(Latin=49:7 • Greek=49:5)	Sir.49:18=Last
+Bulgarian	Sir.49:8	Sir.49:6	Renumber verse	Nec. [8]	%In some Bibles the verse numbering here is% 49:8.		(Latin=49:8 • Greek=49:6)	Sir.49:18=Last
+Bulgarian	Sir.49:9	Sir.49:7	Renumber verse	Nec. [9]	%In some Bibles the verse numbering here is% 49:9.		(Latin=49:9 • Greek=49:7)	Sir.49:18=Last
+Bulgarian	Sir.49:10	Sir.49:8	Renumber verse	Nec. [10]	%In some Bibles the verse numbering here is% 49:10.		(Latin=49:10 • Greek=49:8)	Sir.49:18=Last
+Bulgarian	Sir.49:11	Sir.49:9	Renumber verse	Nec. [11]	%In some Bibles the verse numbering here is% 49:11.		(Latin=49:11 • Greek=49:9)	Sir.49:18=Last
+Bulgarian	Sir.49:12	Sir.49:10	Renumber verse	Nec. [12]	%In some Bibles the verse numbering here is% 49:12.		(Latin=49:12 • Greek=49:10)	Sir.49:18=Last
+Bulgarian	Sir.49:13	Sir.49:11	Renumber verse	Nec. [13]	%In some Bibles the verse numbering here is% 49:13.		(Latin=49:13 • Greek=49:11)	Sir.49:18=Last
+Bulgarian	Sir.49:14	Sir.49:12	Renumber verse	Nec. [14]	%In some Bibles the verse numbering here is% 49:14.		(Latin=49:14 • Greek=49:12)	Sir.49:18=Last
+Bulgarian	Sir.49:15	Sir.49:13	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 49:15.		(Latin=49:15 • Greek=49:13)	Sir.49:18=Last
+Bulgarian	Sir.49:16	Sir.49:14	Keep verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 49:16.		(Latin=49:16 • Greek=49:14)	Sir.49:18=Last
+Bulgarian	Sir.49:17	Sir.49:15	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 49:17.		(Latin=49:17 • Greek=49:15)	Sir.49:18=Last
+Bulgarian	Sir.49:18	Sir.49:16	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 49:18.		(Latin=49:19 • Greek=49:16)	Sir.49:18=Last
 
 English+Greek	Sir.50:11	Sir.50:11	Keep verse	Acd. [11-12]	%In some Bibles the verse numbering here is% 50:11-12.		(Latin=50:11-12 • Greek=50:11)	Sir.50:29=Last	
 English+Greek	Sir.50:12	Sir.50:12	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 50:13.		(Latin=50:13 • Greek=50:12)	Sir.50:29=Last	
@@ -20020,6 +20724,39 @@ Latin	Sir.51:36	Sir.51:28	Renumber verse	Nec. [36]	%Normally in this Bible the v
 Latin	Sir.51:37	Sir.51:29	Renumber verse	Nec. [37]	%Normally in this Bible the verse numbering here is% 51:37.		(Latin=51:37 • Greek=51:29)	Sir.51:38=Last	
 Latin	Sir.51:38	Sir.51:30	Renumber verse	Nec. [38]	%Normally in this Bible the verse numbering here is% 51:38.		(Latin=51:38 • Greek=51:30)	Sir.51:38=Last	
 
+Greek	Wis.5:14	Wis.5:14	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 5:14.		(Latin=5:14 • Greek=5:15)	Wis.5:23=Last
+Greek	Wis.5:15	Wis.5:15	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 5:15.		(Latin=5:15 • Greek=5:16)	Wis.5:23=Last
+Greek	Wis.5:16	Wis.5:16	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 5:16.		(Latin=5:16 • Greek=5:17)	Wis.5:23=Last
+Greek	Wis.5:17	Wis.5:17	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 5:17.		(Latin=5:17 • Greek=5:18)	Wis.5:23=Last
+Greek	Wis.5:18	Wis.5:18	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 5:18.		(Latin=5:18 • Greek=5:19)	Wis.5:23=Last
+Greek	Wis.5:19	Wis.5:19	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 5:19.		(Latin=5:19 • Greek=5:20)	Wis.5:23=Last
+Greek	Wis.5:20	Wis.5:20	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 5:20.		(Latin=5:20 • Greek=5:21)	Wis.5:23=Last
+Greek	Wis.5:21	Wis.5:21	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 5:21.		(Latin=5:21 • Greek=5:22)	Wis.5:23=Last
+Greek	Wis.5:22	Wis.5:22	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 5:22.		(Latin=5:22 • Greek=5:23)	Wis.5:23=Last
+Greek	Wis.5:23	Wis.5:23	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 5:23.		(Latin=5:23 • Greek=5:24)	Wis.5:23=Last
+Latin	Wis.5:13	Wis.5:13.1	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 5:13.		(Latin=5:13 • Greek=5:13a)	Wis.5:24=Last
+Latin	Wis.5:14	Wis.5:13.2	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 5:14.		(Latin=5:14 • Greek=5:13b)	Wis.5:24=Last
+Latin	Wis.5:15	Wis.5:14	Renumber verse	Nec. [15]	%In some Bibles the verse numbering here is% 5:15.		(Latin=5:14 • Greek=5:15)	Wis.5:24=Last
+Latin	Wis.5:16	Wis.5:15	Renumber verse	Nec. [16]	%In some Bibles the verse numbering here is% 5:16.		(Latin=5:15 • Greek=5:16)	Wis.5:24=Last
+Latin	Wis.5:17	Wis.5:16	Renumber verse	Nec. [17]	%In some Bibles the verse numbering here is% 5:17.		(Latin=5:16 • Greek=5:17)	Wis.5:24=Last
+Latin	Wis.5:18	Wis.5:17	Renumber verse	Nec. [18]	%In some Bibles the verse numbering here is% 5:18.		(Latin=5:17 • Greek=5:18)	Wis.5:24=Last
+Latin	Wis.5:19	Wis.5:18	Renumber verse	Nec. [19]	%In some Bibles the verse numbering here is% 5:19.		(Latin=5:18 • Greek=5:19)	Wis.5:24=Last
+Latin	Wis.5:20	Wis.5:19	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 5:20.		(Latin=5:19 • Greek=5:20)	Wis.5:24=Last
+Latin	Wis.5:21	Wis.5:20	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 5:21.		(Latin=5:20 • Greek=5:21)	Wis.5:24=Last
+Latin	Wis.5:22	Wis.5:21	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 5:22.		(Latin=5:21 • Greek=5:22)	Wis.5:24=Last
+Latin	Wis.5:23	Wis.5:22	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 5:23.		(Latin=5:22 • Greek=5:23)	Wis.5:24=Last
+Latin	Wis.5:24	Wis.5:23	Keep verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 5:24.		(Latin=5:23 • Greek=5:24)	Wis.5:24=Last
+English	Wis.5:14	Wis.5:14	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 5:14.		(Latin=5:14 • Greek=5:15)	Wis.5:23=Last
+English	Wis.5:15	Wis.5:15	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 5:15.		(Latin=5:15 • Greek=5:16)	Wis.5:23=Last
+English	Wis.5:16	Wis.5:16	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 5:16.		(Latin=5:16 • Greek=5:17)	Wis.5:23=Last
+English	Wis.5:17	Wis.5:17	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 5:17.		(Latin=5:17 • Greek=5:18)	Wis.5:23=Last
+English	Wis.5:18	Wis.5:18	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 5:18.		(Latin=5:18 • Greek=5:19)	Wis.5:23=Last
+English	Wis.5:19	Wis.5:19	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 5:19.		(Latin=5:19 • Greek=5:20)	Wis.5:23=Last
+English	Wis.5:20	Wis.5:20	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 5:20.		(Latin=5:20 • Greek=5:21)	Wis.5:23=Last
+English	Wis.5:21	Wis.5:21	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 5:21.		(Latin=5:21 • Greek=5:22)	Wis.5:23=Last
+English	Wis.5:22	Wis.5:22	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 5:22.		(Latin=5:22 • Greek=5:23)	Wis.5:23=Last
+English	Wis.5:23	Wis.5:23	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 5:23.		(Latin=5:23 • Greek=5:24)	Wis.5:23=Last
+
 English+Greek	Wis.6:1	Wis.6:1	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 6:1-2.		(Latin=6:1-2 • Greek=6:1)	Wis.6:25=Last	
 English+Greek	Wis.6:2	Wis.6:2	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 6:3.		(Latin=6:3 • Greek=6:2)	Wis.6:25=Last	
 English+Greek	Wis.6:3	Wis.6:3	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 6:4.		(Latin=6:4 • Greek=6:3)	Wis.6:25=Last	
@@ -20073,6 +20810,9 @@ Latin	Wis.6:25	Wis.6:23	Renumber verse	Nec. [25]	%Normally in this Bible the ver
 Latin	Wis.6:26	Wis.6:24	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 6:26.		(Latin=6:26 • Greek=6:24)	Wis.6:27=Last	
 Latin	Wis.6:27	Wis.6:25	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 6:27.		(Latin=6:27 • Greek=6:25)	Wis.6:27=Last	
 
+Latin	Wis.9:18	Wis.9:18.1	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 9:18.		(Latin=9:18 • Greek=9:18a)	Wis.9:19=Last
+Latin	Wis.9:19	Wis.9:18.2	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 9:19.		(Latin=9:19 • Greek=9:18b)	Wis.9:19=Last
+
 English+Greek	Wis.11:10	Wis.11:10	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 11:11.		(Latin=11:11 • Greek=11:10)	Wis.11:26=Last	
 English+Greek	Wis.11:11	Wis.11:11	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 11:12.		(Latin=11:12 • Greek=11:11)	Wis.11:26=Last	
 English+Greek	Wis.11:12	Wis.11:12	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 11:13.		(Latin=11:13 • Greek=11:12)	Wis.11:26=Last	
@@ -20118,6 +20858,9 @@ Latin	Wis.11:6	Wis.11:5.2	Renumber verse	Nec. [6]	%Normally in this Bible the ve
 Latin	Wis.11:7	Wis.11:6	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 11:7.		(Latin=11:7 • Greek=11:6)	Wis.11:27=Last	
 Latin	Wis.11:8	Wis.11:7	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 11:8.		(Latin=11:8 • Greek=11:7)	Wis.11:27=Last	
 Latin	Wis.11:9	Wis.11:8	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 11:9.		(Latin=11:9 • Greek=11:8)	Wis.11:27=Last	
+
+Bulgarian	Wis.12:27	Wis.12:27.1	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 12:27.		(Latin=12:27a • Greek=12:27a)	Wis.12:28=Last
+Bulgarian	Wis.12:28	Wis.12:27.2	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 12:28.		(Latin=12:27b • Greek=12:27b)	Wis.12:28=Last
 
 English+Greek	Wis.17:9	Wis.17:9	Keep verse	Acd. [9a]	%In some Bibles the verse numbering here is% 17:9a.		(Latin=17:9a • Greek=17:9)	Wis.17:21=Last	
 English+Greek	Wis.17:10	Wis.17:10	Keep verse	Acd. [9b]	%In some Bibles the verse numbering here is% 17:9b.		(Latin=17:9b • Greek=17:10)	Wis.17:21=Last	
@@ -20179,6 +20922,23 @@ Latin	Wis.19:18	Wis.19:19	Renumber verse	Nec. [18]	%Normally in this Bible the v
 Latin	Wis.19:19	Wis.19:20	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 19:19.		(Latin=19:19 • Greek=19:20)	Wis.19:20=Last	
 Latin	Wis.19:20	Wis.19:21	Renumber verse	Nec. [21-22]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 19:20.		(Latin=19:20a • Greek=19:21)	Wis.19:20=Last	
 Latin	Wis.19:20	Wis.19:22	Merged with	Nec. [20b]	%Normally in this Bible some text may be missing here because it is merged with% 19:21.		(Latin=19:20b • Greek=19:22)	Wis.19:20=Last	
+
+Bulgarian	2Ma.2:18	2Ma.2:18.1	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 2:18.		(Latin=2:18 • Greek=2:18a)	2Ma.2:33=Last
+Bulgarian	2Ma.2:19	2Ma.2:18.2	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 2:19.		(Latin=2:19 • Greek=2:18b)	2Ma.2:33=Last
+Bulgarian	2Ma.2:20	2Ma.2:19	Renumber verse	Nec. [20]	%In some Bibles the verse numbering here is% 2:20.		(Latin=2:20 • Greek=2:19)	2Ma.2:33=Last
+Bulgarian	2Ma.2:21	2Ma.2:20	Renumber verse	Nec. [21]	%In some Bibles the verse numbering here is% 2:21.		(Latin=2:21 • Greek=2:20)	2Ma.2:33=Last
+Bulgarian	2Ma.2:22	2Ma.2:21	Renumber verse	Nec. [22]	%In some Bibles the verse numbering here is% 2:22.		(Latin=2:22 • Greek=2:21)	2Ma.2:33=Last
+Bulgarian	2Ma.2:23	2Ma.2:22	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 2:23.		(Latin=2:23 • Greek=2:22)	2Ma.2:33=Last
+Bulgarian	2Ma.2:24	2Ma.2:23	Renumber verse	Nec. [24]	%In some Bibles the verse numbering here is% 2:24.		(Latin=2:24 • Greek=2:23)	2Ma.2:33=Last
+Bulgarian	2Ma.2:25	2Ma.2:24	Renumber verse	Nec. [25]	%In some Bibles the verse numbering here is% 2:25.		(Latin=2:25 • Greek=2:24)	2Ma.2:33=Last
+Bulgarian	2Ma.2:26	2Ma.2:25	Renumber verse	Nec. [26]	%In some Bibles the verse numbering here is% 2:26.		(Latin=2:26 • Greek=2:25)	2Ma.2:33=Last
+Bulgarian	2Ma.2:27	2Ma.2:26	Renumber verse	Nec. [27]	%In some Bibles the verse numbering here is% 2:27.		(Latin=2:27 • Greek=2:26)	2Ma.2:33=Last
+Bulgarian	2Ma.2:28	2Ma.2:27	Renumber verse	Nec. [28]	%In some Bibles the verse numbering here is% 2:28.		(Latin=2:28 • Greek=2:27)	2Ma.2:33=Last
+Bulgarian	2Ma.2:29	2Ma.2:28	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 2:29.		(Latin=2:29 • Greek=2:28)	2Ma.2:33=Last
+Bulgarian	2Ma.2:30	2Ma.2:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 2:30.		(Latin=2:30 • Greek=2:29)	2Ma.2:33=Last
+Bulgarian	2Ma.2:31	2Ma.2:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 2:31.		(Latin=2:31 • Greek=2:30)	2Ma.2:33=Last
+Bulgarian	2Ma.2:32	2Ma.2:31	Renumber verse	Nec. [32]	%In some Bibles the verse numbering here is% 2:32.		(Latin=2:32 • Greek=2:31)	2Ma.2:33=Last
+Bulgarian	2Ma.2:33	2Ma.2:32	Keep verse	Nec. [33]	%Normally in this Bible the verse numbering here is% 2:33.		(Latin=2:33 • Greek=2:32)	2Ma.2:33=Last
 
 English+Greek	2Ma.15:37	2Ma.15:37	Keep verse	Acd. [37-38]	%In some Bibles the verse numbering here is% 15:37-38.		(Latin=15:37-38 • Greek=15:37)	2Ma.15:39=Last	
 English+Greek	2Ma.15:38	2Ma.15:38	Keep verse	Acd. [39]	%In some Bibles the verse numbering here is% 15:39.		(Latin=15:39 • Greek=15:38)	2Ma.15:39=Last	
@@ -20414,6 +21174,37 @@ Latin	1Es.2:6	1Es.2:6	Keep verse	Acd. [4a]	%In some Bibles the verse numbering h
 Latin	1Es.2:7	1Es.2:7	Keep verse	Acd. [4b]	%In some Bibles the verse numbering here is% 2:4b.		(Latin=2:7 • Greek=2:4b)	1Es.2:30=Exist	
 Latin	1Es.2:8	1Es.2:8	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 2:5.		(Latin=2:8 • Greek=2:5)	1Es.2:30=Exist	
 Latin	1Es.2:9	1Es.2:9	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 2:6.		(Latin=2:9 • Greek=2:6)	1Es.2:30=Exist	
+Bulgarian	1Es.2:1	1Es.2:1	Keep verse	Acd. [1]	%In some Bibles the verse numbering here is% 2:1.		(Latin=2:1 • Greek=2:1a)	1Es.2:31=Last
+Bulgarian	1Es.2:2	1Es.2:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 2:2.		(Latin=2:2 • Greek=2:1b)	1Es.2:31=Last
+Bulgarian	1Es.2:3	1Es.2:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 2:3.		(Latin=2:3 • Greek=2:2a)	1Es.2:31=Last
+Bulgarian	1Es.2:4	1Es.2:4	Keep verse	Acd. [4]	%In some Bibles the verse numbering here is% 2:4.		(Latin=2:4 • Greek=2:2b)	1Es.2:31=Last
+Bulgarian	1Es.2:5	1Es.2:5	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 2:5.		(Latin=2:5 • Greek=2:3)	1Es.2:31=Last
+Bulgarian	1Es.2:6	1Es.2:6	Keep verse	Acd. [6]	%In some Bibles the verse numbering here is% 2:6.		(Latin=2:6 • Greek=2:4a)	1Es.2:31=Last
+Bulgarian	1Es.2:7	1Es.2:7	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 2:7.		(Latin=2:7 • Greek=2:4b)	1Es.2:31=Last
+Bulgarian	1Es.2:8	1Es.2:8	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 2:8.		(Latin=2:8 • Greek=2:5)	1Es.2:31=Last
+Bulgarian	1Es.2:9	1Es.2:9	Keep verse	Acd. [9]	%In some Bibles the verse numbering here is% 2:9.		(Latin=2:9 • Greek=2:6)	1Es.2:31=Last
+Bulgarian	1Es.2:10	1Es.2:10	Keep verse	Acd. [10]	%In some Bibles the verse numbering here is% 2:10.		(Latin=2:10 • Greek=2:7)	1Es.2:31=Last
+Bulgarian	1Es.2:11	1Es.2:11	Keep verse	Acd. [11]	%In some Bibles the verse numbering here is% 2:11.		(Latin=2:11 • Greek=2:8a)	1Es.2:31=Last
+Bulgarian	1Es.2:12	1Es.2:12	Keep verse	Acd. [12]	%In some Bibles the verse numbering here is% 2:12.		(Latin=2:12 • Greek=2:8b)	1Es.2:31=Last
+Bulgarian	1Es.2:13	1Es.2:13	Keep verse	Acd. [13]	%In some Bibles the verse numbering here is% 2:13.		(Latin=2:13 • Greek=2:9)	1Es.2:31=Last
+Bulgarian	1Es.2:14	1Es.2:14	Keep verse	Acd. [14]	%In some Bibles the verse numbering here is% 2:14.		(Latin=2:14 • Greek=2:10)	1Es.2:31=Last
+Bulgarian	1Es.2:15	1Es.2:15	Keep verse	Acd. [15]	%In some Bibles the verse numbering here is% 2:15.		(Latin=2:15 • Greek=2:11)	1Es.2:31=Last
+Bulgarian	1Es.2:16	1Es.2:16	Keep verse	Acd. [16]	%In some Bibles the verse numbering here is% 2:16.		(Latin=2:16 • Greek=2:12)	1Es.2:31=Last
+Bulgarian	1Es.2:17	1Es.2:17	Keep verse	Acd. [17]	%In some Bibles the verse numbering here is% 2:17.		(Latin=2:17 • Greek=2:13)	1Es.2:31=Last
+Bulgarian	1Es.2:18	1Es.2:18	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 2:18.		(Latin=2:18 • Greek=2:14)	1Es.2:31=Last
+Bulgarian	1Es.2:19	1Es.2:19	Keep verse	Acd. [19]	%In some Bibles the verse numbering here is% 2:19.		(Latin=2:19 • Greek=2:15)	1Es.2:31=Last
+Bulgarian	1Es.2:20	1Es.2:20	Keep verse	Acd. [20]	%In some Bibles the verse numbering here is% 2:20.		(Latin=2:20 • Greek=2:16a)	1Es.2:31=Last
+Bulgarian	1Es.2:21	1Es.2:21	Keep verse	Acd. [21]	%In some Bibles the verse numbering here is% 2:21.		(Latin=2:21 • Greek=2:16b)	1Es.2:31=Last
+Bulgarian	1Es.2:22	1Es.2:22	Keep verse	Acd. [22]	%In some Bibles the verse numbering here is% 2:22.		(Latin=2:22 • Greek=2:17)	1Es.2:31=Last
+Bulgarian	1Es.2:23	1Es.2:23	Keep verse	Acd. [23]	%In some Bibles the verse numbering here is% 2:23.		(Latin=2:23 • Greek=2:18)	1Es.2:31=Last
+Bulgarian	1Es.2:24	1Es.2:24	Keep verse	Acd. [24]	%In some Bibles the verse numbering here is% 2:24.		(Latin=2:24 • Greek=2:19)	1Es.2:31=Last
+Bulgarian	1Es.2:25	1Es.2:25	Keep verse	Acd. [25]	%In some Bibles the verse numbering here is% 2:25.		(Latin=2:25 • Greek=2:20)	1Es.2:31=Last
+Bulgarian	1Es.2:26	1Es.2:26	Keep verse	Acd. [26]	%In some Bibles the verse numbering here is% 2:26.		(Latin=2:26 • Greek=2:21)	1Es.2:31=Last
+Bulgarian	1Es.2:27	1Es.2:27	Keep verse	Acd. [27]	%In some Bibles the verse numbering here is% 2:27.		(Latin=2:27 • Greek=2:22)	1Es.2:31=Last
+Bulgarian	1Es.2:28	1Es.2:28	Keep verse	Acd. [28]	%In some Bibles the verse numbering here is% 2:28.		(Latin=2:28 • Greek=2:23)	1Es.2:31=Last
+Bulgarian	1Es.2:29	1Es.2:29	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 2:29.		(Latin=2:29 • Greek=2:24)	1Es.2:31=Last
+Bulgarian	1Es.2:30	1Es.2:30.1	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 2:30.		(Latin=2:30a • Greek=2:25a)	1Es.2:31=Last
+Bulgarian	1Es.2:31	1Es.2:30.2	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 2:31.		(Latin=2:30b • Greek=2:25b)	1Es.2:31=Last
 
 English+Latin	1Es.5:41	1Es.5:41	Keep verse	Acd. [41a]	%In some Bibles the verse numbering here is% 5:41a.		(Latin=5:41 • Greek=5:41a)	1Es.5:73=Last	
 English+Latin	1Es.5:42	1Es.5:42	Keep verse	Acd. [41b]	%In some Bibles the verse numbering here is% 5:41b.		(Latin=5:42 • Greek=5:41b)	1Es.5:73=Last	
@@ -21878,11 +22669,9 @@ English+Greek	Rom.14:23	Rom.14:23	Keep verse	Acd. [22b]	%In some Bibles the vers
 English+Greek	Rom.16:25	Rom.16:25	Keep verse	Acd. [23a]	%In some Bibles the verse numbering here is% 14:23a.		(Greek=16:25-27 / 14:23)	Rom.16:27=Last	
 English+Greek	Rom.16:26	Rom.16:26	Keep verse	Acd. [23b]	%In some Bibles the verse numbering here is% 14:23b.		(Greek=16:25-27 / 14:23)	Rom.16:27=Last	
 English+Greek	Rom.16:27	Rom.16:27	Keep verse	Acd. [23c]	%In some Bibles the verse numbering here is% 14:23c.		(Greek=16:25-27 / 14:23)	Rom.16:27=Last	
-Greek2	Rom.14:22	Rom.14:22	Keep verse	Nec. [22-23]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 14:22.		(Greek=14:22 / 14:22a)	Rom.16:24=Last	
-Greek2	Rom.14:22	Rom.14:23	Merged with	Nec. [22b]	%Normally in this Bible some text may be missing here because it is merged with% 14:22.		(Greek=14:23 / 14:22b)	Rom.16:24=Last	
-Greek2	Rom.14:23.1	Rom.16:25	Renumber verse	Nec. [14:23a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 14:23.		(Greek=16:25-27 / 14:23)	Rom.16:24=Last	
-Greek2	Rom.14:23.2	Rom.16:26	Renumber verse	Nec. [14:23b]	%Normally in this Bible some text may be missing here because it is merged with% 14:23.		(Greek=16:25-27 / 14:23)	Rom.16:24=Last	
-Greek2	Rom.14:23.3	Rom.16:27	Renumber verse	Nec. [14:23c]	%Normally in this Bible some text may be missing here because it is merged with% 14:23.		(Greek=16:25-27 / 14:23)	Rom.16:24=Last	
+Greek2	Rom.14:24	Rom.16:25	Renumber verse	Nec. [14:24]	%Normally in this Bible the verse numbering here is% 14:24.		(Greek=16:25-27 / 14:23)	Rom.16:24=Last	
+Greek2	Rom.14:25	Rom.16:26	Renumber verse	Nec. [14:25]	%Normally in this Bible the verse numbering here is% 14:25.		(Greek=16:25-27 / 14:23)	Rom.16:24=Last	
+Greek2	Rom.14:26	Rom.16:27	Renumber verse	Nec. [14:26]	%Normally in this Bible the verse numbering here is% 14:26.		(Greek=16:25-27 / 14:23)	Rom.16:24=Last	
 
 English+Greek	1Co.11:1	1Co.11:1	Keep verse	Acd. [34]	%In some Bibles the verse numbering here is% 10:34.		(Greek=11:1)	1Co.10:33=Last	
 English+Greek	1Co.11:2	1Co.11:2	Keep verse	Acd. [1-2]	%In some Bibles the verse numbering here is% 11:1-2.		(Greek=11:2)	1Co.10:33=Last	
@@ -22095,9 +22884,6 @@ Notes: 	If the Standard Ref is a subverse, place the note and text AFTER any tex
 
 3) When this is finished, for any SourceRef that still contains text: 
 	Cut the text and paste it into the identical StandardRef. Add no note.    (If there is already some text in this StandardRef, then an error has occurred.)
-
-
-
 
 EG for the line:
 Hebrew	Gen.32:1	Gen.31:55	Renumber verse	Nec. [32:1]	%Normally in this Bible the verse numbering here is% 32:1.		(Hebrew=32:1 • Latin=31:55 • Greek=31:55)	Hebrew	Gen.32:33=Last	
