@@ -5436,7 +5436,7 @@ Greek	1Ki.2:35.4	1Ki.2:35.4	Keep verse	Nec. [5:29]	%Normally in this Bible simil
 Greek	1Ki.2:35.5	1Ki.2:35.5	Keep verse	Nec. [7:10]	%Normally in this Bible similar text is found at% 7:10.		(Hebrew=5:9 • Latin=4:29 • Greek=5:9[=2:35e])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.2:35.6	1Ki.2:35.6	Keep verse	Nec. [9:9a]	%Normally in this Bible similar text is found at% 9:9a.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:9.1	1Ki.9:24	Renumber verse	Nec. [9a]	%Normally in this Bible the verse numbering here is% 9:9a.		(Hebrew=9:24 • Latin=9:24 • Greek=2:35f[=9:9a])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
-Greek	1Ki.2:35.7	1Ki.2:35.7	Keep verse	Nec. [9:25]	%In some Bibles similar text is found at% 9:25. 		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.2:35.7	1Ki.2:35.7	Keep verse	Nec. [9:25]	%In some Bibles similar text is found at% 9:25.		(Hebrew=9:25 • Latin=9:25 • Greek=2:35g)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.9:23	1Ki.9:23.1	Keep verse	Acd. [2:35i-k]	%In some Bibles the verse numbering here is% 2:35i-k.		(Hebrew=9:23 • Latin=9:23 • Greek=2:35i-k)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.2:35.8	1Ki.2:35.8	Keep verse	Nec. [9:23a]	%In some Bibles similar text is found at% 9:23a.		(Hebrew=9:23a • Latin=9:23a • Greek=2:35h)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.2:35.9	1Ki.2:35.9	Keep verse	Nec. [9:23b]	%In some Bibles similar text is found at% 9:23b.		(Hebrew=9:23b • Latin=9:23b • Greek=2:35i)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
@@ -6860,9 +6860,9 @@ GreekUndivided	Est.5:1	Est.5:1	Renumber verse	Nec. [1]	%Normally in this Bible t
 Hebrew+Latin	Est.5:1	Est.5:1.0	Renumber verse	Nec. [1]	%In some Bibles this verse contains extra text%.		(Hebrew=5:1 • Latin=5:1 • Greek=5:1)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Hebrew+Latin	Est.5:2	Est.5:2.0	Renumber verse	Nec. [2]	%In some Bibles this verse contains extra text%.		(Hebrew=5:2 • Latin=5:2 • Greek=5:2)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Latin	Est.D:1	Est.5:1.1	Renumber verse	Nec. [D:1]	%Normally in this Bible the verse numbering here is% D:1.		(Hebrew= -- • Latin=15:1 / D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
-Latin	Est.D:1	Est.5:1.2	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.1.		(Hebrew= -- • Latin=15:1 / D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
-Latin	Est.D:1	Est.5:1.3	Merged with	Nec. [1c]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.1.		(Hebrew= -- • Latin=15:1 / D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
-Latin	Est.D:1	Est.5:1.4	Merged with	Nec. [1d]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.1.		(Hebrew= -- • Latin=15:1 / D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
+Latin	Est.D:1	Est.5:1.2	Merged with	Nec. [1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1a.		(Hebrew= -- • Latin=15:1 / D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
+Latin	Est.D:1	Est.5:1.3	Merged with	Nec. [1c]	%Normally in this Bible some text may be missing here because it is merged with% 5:1a.		(Hebrew= -- • Latin=15:1 / D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
+Latin	Est.D:1	Est.5:1.4	Merged with	Nec. [1d]	%Normally in this Bible some text may be missing here because it is merged with% 5:1a.		(Hebrew= -- • Latin=15:1 / D:1 • Greek=5:1a-d)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Latin	Est.D:2	Est.5:1.5	Renumber verse	Nec. [D:2]	%Normally in this Bible the verse numbering here is% D:2.		(Hebrew= -- • Latin=15:2 / D:2 • Greek=5:1e)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Latin	Est.D:3	Est.5:1.6	Renumber verse	Nec. [D:3]	%Normally in this Bible the verse numbering here is% D:3.		(Hebrew= -- • Latin=15:3 / D:3 • Greek=5:1f)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
 Latin	Est.D:4	Est.5:1.7	Renumber verse	Nec. [D:4]	%Normally in this Bible the verse numbering here is% D:4.		(Hebrew= -- • Latin=15:4 / D:4 • Greek=5:1g)	Est.5:14=Last & Est.5:1.1=NotExist & Est.5:1<Est.5:5*3 & Est.15:1=NotExist	
@@ -22315,7 +22315,7 @@ English+Greek	Jdt.13:19	Jdt.13:19	Keep verse	Acd. [25]	%In some Bibles the verse
 English+Greek	Jdt.13:20	Jdt.13:20	Keep verse	Acd. [26-31]	%In some Bibles the verse numbering here is% 13:26-31.		(Latin=13:26-31 • Greek=13:20)	Jdt.13:20=Last	
 Latin	Jdt.13:1	Jdt.13:1.1	Renumber verse	Nec. [1-2]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 13:1.		(Latin=13:1-2 • Greek=13:1)	Jdt.13:31=Last	
 Latin	Jdt.13:2	Jdt.13:1.2	Renumber verse	Nec. [2]	%Normally in this Bible some text may be missing here because it is merged with% 13:2.		(Latin=13:1-2 • Greek=13:1)	Jdt.13:31=Last	
-Latin	Jdt.13:3	Jdt.13:2.1	Renumber verse	Nec. [3]	%Normally in this Bible this verse and the next are merged into one verse that is numbered%13:3.		(Latin=13:3-4 • Greek=13:2)	Jdt.13:31=Last	
+Latin	Jdt.13:3	Jdt.13:2.1	Renumber verse	Nec. [3]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 13:3.		(Latin=13:3-4 • Greek=13:2)	Jdt.13:31=Last	
 Latin	Jdt.13:4	Jdt.13:2.2	Renumber verse	Nec. [4]	%Normally in this Bible some text may be missing here because it is merged with% 13:4.		(Latin=13:3-4 • Greek=13:2)	Jdt.13:31=Last	
 Latin	Jdt.13:5	Jdt.13:3	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 13:5.		(Latin=13:5 • Greek=13:3)	Jdt.13:31=Last	
 Latin	Jdt.13:6	Jdt.13:4	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 13:6.		(Latin=13:6 • Greek=13:4)	Jdt.13:31=Last	
@@ -23002,25 +23002,40 @@ Phrases and Abbreviations to translate to different languages:
 ======================================
 %In some Bibles the verse numbering here is% REF.
 %Normally in this Bible the verse numbering here is% REF.
+normallyInThisBibleVerseNumberingHereIs
 %Normally in this Bible this verse and the next are merged into one verse that is numbered% REF.
+normallyInThisBibleThisVerseAndTheNextAreMergedIntoOneVerseThatIsNumbered
 %Normally in this Bible some text may be missing here because it is merged with% REF.
 %Normally in this Bible this verse includes words that are at% REF.
-%This verse may include words that are alternatively at% REF.   NOT USED
 %The extra words are found at% REF.
 %Normally in this Bible similar text is found at% REF.
+normallyInThisBibleSimilarTextIsFoundAt
 %In some Bibles similar text is found at% REF.
+inSomeBiblesSimilarTextIsFoundAt
 %In some Bibles this verse may contain text similar to% REF.
+inSomeBiblesThisVerseMayContainTextSimilarTo
 %Some manuscripts have no text here. Others have text similar to% REF.
+someManuscriptsHaveNoTextHereOthersHaveTextSimilarTo
 %Similar words are found at% REF.
+similarWordsAreFoundAt
 %Some manuscripts have no text at% REF.
 %In some Bibles this verse may not contain any text%.
 %In some Bibles only the start of this verse is present%.
+inSomeBiblesOnlyTheStartOfThisVerseIsPresent
+%Normally in this Bible only the start of this verse is present%.
+normallyInThisBibleOnlyTheStartOfThisVerseIsPresent
 %In some Bibles this verse contains extra text%.
+inSomeBiblesThisVerseContainsExtraText
 %This verse may not contain any text%.
 %In some Bibles this chapter is a separate book%.
 %In some Bibles this book is found at% REF.
 %In some Bibles this verse starts on a different word%.
 %At the end of this verse some manuscripts add information such as where this letter was written%.
+
+
+
+
+
 
 
 Abbreviation equivalent to:
