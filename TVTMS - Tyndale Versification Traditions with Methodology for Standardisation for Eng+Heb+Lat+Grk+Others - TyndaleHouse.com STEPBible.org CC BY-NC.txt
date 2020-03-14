@@ -2035,17 +2035,17 @@ SubdividedVerse	Sir.8:8	Sir.8:9-10	Sir.8:8
 SubdividedVerse	Sir.8:9	Sir.8:11-12	Sir.8:9			
 OneToOne	Sir.8:10-19	Sir.8:13-22	Sir.8:10-19			
 
-$Sir.9:8-9:18	English	Latin*	Greek	
-TEST: If...	Sir.9:18=Last	Sir.9:25=Last	Sir.9:18=Last			
-SubdividedVerse	Sir.9:8	Sir.9:8-11	Sir.9:8			
-SubdividedVerse	Sir.9:9	Sir.9:12-13	Sir.9:9			
-SubdividedVerse	Sir.9:10	Sir.9:14-15	Sir.9:10			
-OneToOne	Sir.9:11-12	Sir.9:16-17	Sir.9:11-12			
-SubdividedVerse	Sir.9:13	Sir.9:18-20	Sir.9:13			
-OneToOne	Sir.9:14	Sir.9:21	Sir.9:14			
-OneToOne	Sir.9:15	Sir.9:23	Sir.9:15			
-OneToOne	Sir.9:16	Sir.9:22	Sir.9:16			
-OneToOne	Sir.9:17-18	Sir.9:24-25	Sir.9:17-18			
+$Sir.9:8-9:18	English	Latin*	Greek	Bulgarian
+TEST: If...	Sir.9:18=Last	Sir.9:25=Last	Sir.9:18=Last	Sir.9:23=Last		
+SubdividedVerse	Sir.9:8	Sir.9:8-11	Sir.9:8	Sir.9:8		
+SubdividedVerse	Sir.9:9	Sir.9:12-13	Sir.9:9	Sir.9:9-11		
+SubdividedVerse	Sir.9:10	Sir.9:14-15	Sir.9:10	Sir.9:12-13		
+OneToOne	Sir.9:11-12	Sir.9:16-17	Sir.9:11-12	Sir.9:14-15		
+SubdividedVerse	Sir.9:13	Sir.9:18-20	Sir.9:13	Sir.9:16-18		
+OneToOne	Sir.9:14	Sir.9:21	Sir.9:14	Sir.9:19		
+OneToOne	Sir.9:15	Sir.9:23	Sir.9:15	Sir.9:20		
+OneToOne	Sir.9:16	Sir.9:22	Sir.9:16	Sir.9:21		
+OneToOne	Sir.9:17-18	Sir.9:24-25	Sir.9:17-18	Sir.9:22-23		
 
 $Sir.10:9-10:31	English	Latin*	Greek
 TEST: If...	Sir.10:31=Last	Sir.10:34=Last	Sir.10:31=Last			
@@ -4905,10 +4905,10 @@ Greek2	Jos.24:33.2	Jos.24:33.2	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- �
 Bulgarian	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
 Bulgarian	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
 Bulgarian	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:33.0	Jos.24:33.0	Keep verse	Nec. [33]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:33.1	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:33.2	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:33.3	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew=  • Latin=  • Greek= )	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
+Bulgarian	Jos.24:33	Jos.24:33.0	Keep verse	Nec. [33]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
+Bulgarian	Jos.24:34	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
+Bulgarian	Jos.24:35	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
+Bulgarian	Jos.24:36	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew=  • Latin=  • Greek= )	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
 
 English+Hebrew+Greek	Jdg.5:31	Jdg.5:31	Keep verse	Acd. [31-32]	%In some Bibles the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:31=Last	
 Latin	Jdg.5:31	Jdg.5:31.1	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:32=Last	
@@ -18561,6 +18561,21 @@ Latin	Sir.9:22	Sir.9:16	Renumber verse	Nec. [22]	%Normally in this Bible the ver
 Latin	Sir.9:23	Sir.9:15	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 9:23.		(Latin=9:23 • Greek=9:15)	Sir.9:25=Last	
 Latin	Sir.9:24	Sir.9:17	Renumber verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 9:24.		(Latin=9:24 • Greek=9:17)	Sir.9:25=Last	
 Latin	Sir.9:25	Sir.9:18	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 9:25.		(Latin=9:25 • Greek=9:18)	Sir.9:25=Last	
+Bulgarian	Sir.9:9	Sir.9:9.1	Renumber verse	Nec. [9]	%Normally in this Bible the verse numbering here is% 9:9.		(Latin=9:12 • Greek=9:9a)	Sir.9:23=Last
+Bulgarian	Sir.9:10-	Sir.9:9.2	Renumber verse	Nec. [10]	%Normally in this Bible the verse numbering here is% 9:10.		(Latin=9:13 • Greek=9:9b)	Sir.9:23=Last
+Bulgarian	Sir.9:11	Sir.9:9.3	Renumber verse	Nec. [11]	%Normally in this Bible the verse numbering here is% 9:11.		(Latin=9:13 • Greek=9:9c)	Sir.9:23=Last
+Bulgarian	Sir.9:12	Sir.9:10.1	Renumber verse	Nec. [12]	%Normally in this Bible the verse numbering here is% 9:12.		(Latin=9:14 • Greek=9:10a)	Sir.9:23=Last
+Bulgarian	Sir.9:13	Sir.9:10.2	Renumber verse	Nec. [13]	%Normally in this Bible the verse numbering here is% 9:13.		(Latin=9:15 • Greek=9:10b)	Sir.9:23=Last
+Bulgarian	Sir.9:14	Sir.9:11	Renumber verse	Nec. [14]	%Normally in this Bible the verse numbering here is% 9:14.		(Latin=9:16 • Greek=9:11)	Sir.9:23=Last
+Bulgarian	Sir.9:15	Sir.9:12	Renumber verse	Nec. [15]	%Normally in this Bible the verse numbering here is% 9:15.		(Latin=9:17 • Greek=9:12)	Sir.9:23=Last
+Bulgarian	Sir.9:16	Sir.9:13.1	Renumber verse	Nec. [16]	%Normally in this Bible the verse numbering here is% 9:16.		(Latin=9:18 • Greek=9:13a)	Sir.9:23=Last
+Bulgarian	Sir.9:17	Sir.9:13.2	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 9:17.		(Latin=9:19 • Greek=9:13b)	Sir.9:23=Last
+Bulgarian	Sir.9:18	Sir.9:13.3	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 9:18.		(Latin=9:20 • Greek=9:13c)	Sir.9:23=Last
+Bulgarian	Sir.9:19	Sir.9:14	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 9:19.		(Latin=9:21 • Greek=9:14)	Sir.9:23=Last
+Bulgarian	Sir.9:20	Sir.9:15	Renumber verse	Nec. [20]	%Normally in this Bible the verse numbering here is% 9:20.		(Latin=9:23 • Greek=9:15)	Sir.9:23=Last
+Bulgarian	Sir.9:21	Sir.9:16	Renumber verse	Nec. [21]	%Normally in this Bible the verse numbering here is% 9:21.		(Latin=9:22 • Greek=9:16)	Sir.9:23=Last
+Bulgarian	Sir.9:22	Sir.9:17	Renumber verse	Nec. [22]	%Normally in this Bible the verse numbering here is% 9:22.		(Latin=9:24 • Greek=9:17)	Sir.9:23=Last
+Bulgarian	Sir.9:23	Sir.9:18	Renumber verse	Nec. [23]	%Normally in this Bible the verse numbering here is% 9:23.		(Latin=9:25 • Greek=9:18)	Sir.9:23=Last
 
 English+Greek	Sir.10:9	Sir.10:9	Keep verse	Acd. [9-10]	%In some Bibles the verse numbering here is% 10:9-10.		(Latin=10:9-10 • Greek=10:9)	Sir.10:31=Last	
 English+Greek	Sir.10:10	Sir.10:10	Keep verse	Acd. [11-12]	%In some Bibles the verse numbering here is% 10:11-12.		(Latin=10:11-12 • Greek=10:10)	Sir.10:31=Last	
