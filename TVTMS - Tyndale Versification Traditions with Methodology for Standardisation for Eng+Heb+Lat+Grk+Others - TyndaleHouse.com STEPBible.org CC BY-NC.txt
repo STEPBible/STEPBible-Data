@@ -105,6 +105,15 @@ $Gen.2:24--3:1	English	Hebrew	Latin	Greek	Greek2 (eg NETS)
 TEST: If...	Gen.2:25=Last	Gen.2:25=Last	Gen.2:25=Last	Gen.2:25=Last	Gen.2:24=Last	
 SubdividedVerse	Gen.3:1	Gen.3:1	Gen.3:1	Gen.3:1	Gen.2:25--3:1	
 
+$Gen.5:31--6:1	English	Hebrew	Latin	Greek	GreekUndivided	LatinUndivided
+TEST: If... 	Gen.5:32=Last	Gen.5:32=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	
+TEST: & if... 	Gen.6:1<Gen.6:2	Gen.6:1<Gen.6:2	Gen.6:1<Gen.6:2	Gen.6:1>Gen.6:2	Gen.6:1>Gen.6:2	Gen.6:1<Gen.6:2
+TEST: & if... 	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist	Gen.5:31.2=Exist	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist
+TEST: & if... 	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=Exist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist
+MergedVerses	Gen.5:31	Gen.5:31	Gen.5:31.1	Gen.5:31	Gen.5:31	Gen.5:31			
+MergedVerses	Gen.5:32	Gen.5:32	Gen.5:31.2	Gen.6:1.1	Gen.6:1	Absent			
+MergedVerses	Gen.6:1	Gen.6:1	Gen.6:1	Gen.6:1.2	Absent	Gen.6:1			
+
 $Gen.31:55--32:32	English	Hebrew	Latin	Greek	
 TEST: If...	Gen.32:32=Last	Gen.32:33=Last	Gen.32:32=Last	Gen.32:32=Last			
 OneToOne	Gen.31:55	Gen.32:1	Gen.31:55	Gen.31:55			
@@ -370,15 +379,14 @@ OneToOne	Jos.21:40-45	Jos.21:40-45	Jos.21:38-43	Jos.21:40-45
 
 $Jos.24:29-24:31	English	Hebrew	Latin	Greek*	Greek2*#	Bulgarian*#
 TEST: If...	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26<Jos.24:29			
-TEST: & if... 	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=Exist	Jos.24:33.1=Exist	
-TEST: & if... 	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=NotExist	Jos.24:33.3=Exist	
+TEST: & if... 	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=Exist	Jos.24:34=Exist	
 OneToOne	Jos.24:29	Jos.24:29	Jos.24:29	Jos.24:30	Jos.24:30	Jos.24:30			
 OneToOne	Jos.24:30	Jos.24:30	Jos.24:30	Jos.24:31	Jos.24:31	Jos.24:31			
 OneToOne	Jos.24:31	Jos.24:31	Jos.24:31	Jos.24:29	Jos.24:29	Jos.24:29			
 OneToOne	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32			
-OneToOne	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33.0	Jos.24:33.0			
-OneToOne	Jos.24:33.1	NoVerse	NoVerse	NoVerse	Jos.24:33.1	Jos.24:33.1			
-SubdividedVerse	Jos.24:33.2	NoVerse	NoVerse	NoVerse	Jos.24:33.2	Jos.24:33.2-3			
+OneToOne	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33.0	Jos.24:33			
+OneToOne	Jos.24:33.1	NoVerse	NoVerse	NoVerse	Jos.24:33.1	Jos.24:34			
+SubdividedVerse	Jos.24:33.2	NoVerse	NoVerse	NoVerse	Jos.24:33.2	Jos.24:35-36			
 
 $Jdg.5:31	English	Hebrew	Latin	Greek	
 TEST: If...	Jdg.5:31=Last	Jdg.5:31=Last	Jdg.5:32=Last	Jdg.5:31=Last			
@@ -1932,15 +1940,6 @@ OneToOne	Mal.4:4	Mal.3:22	Mal.4:4	Mal.4:5
 OneToOne	Mal.4:5	Mal.3:23	Mal.4:5	Mal.4:6			
 OneToOne	Mal.4:6	Mal.3:24	Mal.4:6	Mal.4:4			
 
-$Gen.5:31--6:1	English	Hebrew	Latin	Greek	GreekUndivided	LatinUndivided
-TEST: If... 	Gen.5:32=Last	Gen.5:32=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	
-TEST: & if... 	Gen.6:1<Gen.6:2	Gen.6:1<Gen.6:2	Gen.6:1<Gen.6:2	Gen.6:1>Gen.6:2	Gen.6:1>Gen.6:2	Gen.6:1<Gen.6:2
-TEST: & if... 	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist	Gen.5:31.2=Exist	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist
-TEST: & if... 	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=Exist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist
-MergedVerses	Gen.5:31	Gen.5:31	Gen.5:31.1	Gen.5:31	Gen.5:31	Gen.5:31			
-MergedVerses	Gen.5:32	Gen.5:32	Gen.5:31.2	Gen.6:1.1	Gen.6:1	Absent			
-MergedVerses	Gen.6:1	Gen.6:1	Gen.6:1	Gen.6:1.2	Absent	Gen.6:1			
-
 $Bar.3:34-38	English	Latin	Greek		
 TEST: If...	Bar.3:37=Last 	Bar.3:38=Last	Bar.3:38=Last	 		
 SubdividedVerse	Bar.3:34	Bar.3:34-35	Bar.3:34-35			
@@ -1994,17 +1993,17 @@ OneToOne	Sir.3:27-28	Sir.3:29-30	Sir.3:27-28
 SubdividedVerse	Sir.3:29	Sir.3:31-32	Sir.3:29			
 OneToOne	Sir.3:30-31	Sir.3:33-34	Sir.3:30-31			
 
-$Sir.4:10-4:31	English	Latin	Greek	
-TEST: If...	Sir.4:31=Last	Sir.4:36=Last	Sir.4:31=Last			
-SubdividedVerse	Sir.4:10	Sir.4:10-11	Sir.4:10			
-OneToOne	Sir.4:11-16	Sir.4:12-17	Sir.4:11-16			
-SubdividedVerse	Sir.4:17	Sir.4:18-19	Sir.4:17			
-SubdividedVerse	Sir.4:18	Sir.4:20-21	Sir.4:18			
-OneToOne	Sir.4:19	Sir.4:22	Sir.4:19			
-SubdividedVerse	Sir.4:20	Sir.4:23-24	Sir.4:20			
-OneToOne	Sir.4:21	Sir.4:25	Sir.4:21			
-SubdividedVerse	Sir.4:22	Sir.4:26-27	Sir.4:22			
-OneToOne	Sir.4:23-31	Sir.4:28-36	Sir.4:23-31			
+$Sir.4:10-4:31	English	Latin	Greek	Bulgarian
+TEST: If...	Sir.4:31=Last	Sir.4:36=Last	Sir.4:31=Last	Sir.4:35=Last			
+SubdividedVerse	Sir.4:10	Sir.4:10-11	Sir.4:10	Sir.4:10-11	
+OneToOne	Sir.4:11-16	Sir.4:12-17	Sir.4:11-16	Sir.4:12-17	
+SubdividedVerse	Sir.4:17	Sir.4:18-19	Sir.4:17	Sir.4:18-19	
+SubdividedVerse	Sir.4:18	Sir.4:20-21	Sir.4:18	Sir.4:20-21	
+OneToOne	Sir.4:19	Sir.4:22	Sir.4:19	Sir.4:22	
+SubdividedVerse	Sir.4:20	Sir.4:23-24	Sir.4:20	Sir.4:23-24	
+OneToOne	Sir.4:21	Sir.4:25	Sir.4:21	Sir.4:25	
+SubdividedVerse	Sir.4:22	Sir.4:26-27	Sir.4:22	Sir.4:26	
+OneToOne	Sir.4:23-31	Sir.4:28-36	Sir.4:23-31	Sir.4:27-35	
 
 $Sir.5:6-5:15	English	Latin	Greek	
 TEST: If...	Sir.5:15=Last	Sir.5:18=Last	Sir.5:15=Last			
@@ -2026,6 +2025,18 @@ SubdividedVerse	Sir.7:16	Sir.7:17-18	Sir.7:16
 OneToOne	Sir.7:17-30	Sir.7:19-32	Sir.7:17-30			
 SubdividedVerse	Sir.7:31	Sir.7:33-35	Sir.7:31			
 OneToOne	Sir.7:32-36	Sir.7:36-40	Sir.7:32-36			
+
+$Sir.7:1-36	English	Latin*	Greek	Bulgarian	
+TEST: If...	Sir.7:36=Last	Sir.7:40=Last	Sir.7:36=Last	Sir.7:39=Last			
+OneToOne	Sir.7:1-8	Sir.7:1-8	Sir.7:1-8	Sir.7:1-8	
+OneToOne	Sir.7:9	Sir.7:11	Sir.7:9	Sir.7:9	
+SubdividedVerse	Sir.7:10	Sir.7:9-10	Sir.7:10	Sir.7:10	
+OneToOne	Sir.7:11-15	Sir.7:12-16	Sir.7:11-15	Sir.7:11-15	
+SubdividedVerse	Sir.7:16	Sir.7:17-18	Sir.7:16	Sir.7:16, 18	
+SubdividedVerse	Sir.7:17	Sir.7:19	Sir.7:17	Sir.7:17, 19	
+OneToOne	Sir.7:18-30	Sir.7:20-32	Sir.7:18-30	Sir.7:20-32	
+SubdividedVerse	Sir.7:31	Sir.7:33-35	Sir.7:31	Sir.7:33-34	
+OneToOne	Sir.7:32-36	Sir.7:36-40	Sir.7:32-36	Sir.7:35-39	
 
 $Sir.8:2-8:19	English	Latin	Greek	
 TEST: If...	Sir.8:19=Last	Sir.8:22=Last	Sir.8:19=Last			
@@ -2164,77 +2175,80 @@ SubdividedVerse	Sir.21:11	Sir.21:12-13	Sir.21:11
 SubdividedVerse	Sir.21:12	Sir.21:14-15	Sir.21:12			
 OneToOne	Sir.21:13-28	Sir.21:16-31	Sir.21:13-28			
 
-$Sir.22:7-22:27	English	Latin	Greek	
-TEST: If...	Sir.22:27=Last	Sir.22:33=Last	Sir.22:27=Last			
-TextMayBeMissing	Sir.22:7-8	Absent	Sir.22:7-8			
-OneToOne	Sir.22:9-10	Sir.22:7-8	Sir.22:9-10			
-SubdividedVerse	Sir.22:11	Sir.22:10-12	Sir.22:11			
-OneToOne	Sir.22:12	Sir.22:13	Sir.22:12			
-SubdividedVerse	Sir.22:13	Sir.22:14-16	Sir.22:13			
-OneToOne	Sir.22:14-15	Sir.22:17-18	Sir.22:14-15			
-SubdividedVerse	Sir.22:16	Sir.22:19-21	Sir.22:16			
-MergedVerses	Sir.22:17-18	Sir.22:22	Sir.22:17-18			
-OneToOne	Sir.22:19-21	Sir.22:23-25	Sir.22:19-21			
-SubdividedVerse	Sir.22:22	Sir.22:26-27	Sir.22:22			
-SubdividedVerse	Sir.22:23	Sir.22:28-29	Sir.22:23			
-OneToOne	Sir.22:24-27	Sir.22:30-33	Sir.22:24-27			
+$Sir.22:7-22:27	English	Latin	Greek	Bulgarian	
+TEST: If...	Sir.22:27=Last	Sir.22:33=Last	Sir.22:27=Last	Sir.22:31=Last			
+TextMayBeMissing	Sir.22:7-8	Absent	Sir.22:7-8	Absent		
+OneToOne	Sir.22:9-10	Sir.22:7-8	Sir.22:9-10	Sir.22:7-8		
+SubdividedVerse	Sir.22:11	Sir.22:10-12	Sir.22:11	Sir.22:9-10		
+OneToOne	Sir.22:12	Sir.22:13	Sir.22:12	Sir.22:11		
+SubdividedVerse	Sir.22:13	Sir.22:14-16	Sir.22:13	Sir.22:12-14		
+OneToOne	Sir.22:14-15	Sir.22:17-18	Sir.22:14-15	Sir.22:15-16		
+SubdividedVerse	Sir.22:16	Sir.22:19-21	Sir.22:16	Sir.22:17		
+MergedVerses	Sir.22:17-18	Sir.22:22	Sir.22:17-18	Sir.22:18-19		
+OneToOne	Sir.22:19-21	Sir.22:23-25	Sir.22:19-21	Sir.22:21-23		
+SubdividedVerse	Sir.22:22	Sir.22:26-27	Sir.22:22	Sir.22:24		
+SubdividedVerse	Sir.22:23	Sir.22:28-29	Sir.22:23	Sir.22:26-27		
+OneToOne	Sir.22:24-27	Sir.22:30-33	Sir.22:24-27	Sir.22:28-31		
 
-$Sir.23:9-23:27	English	Latin	Greek	
-TEST: If...	Sir.23:27=Last	Sir.23:38=Last	Sir.23:27=Last			
-SubdividedVerse	Sir.23:9	Sir.23:9-10	Sir.23:9			
-OneToOne	Sir.23:10	Sir.23:11	Sir.23:10			
-SubdividedVerse	Sir.23:11	Sir.23:12-14	Sir.23:11			
-SubdividedVerse	Sir.23:12	Sir.23:15-16	Sir.23:12			
-OneToOne	Sir.23:13	Sir.23:17	Sir.23:13			
-SubdividedVerse	Sir.23:14	Sir.23:18-19	Sir.23:14			
-OneToOne	Sir.23:15-16	Sir.23:20-21	Sir.23:15-16			
-SubdividedVerse	Sir.23:17	Sir.23:22-24	Sir.23:17			
-SubdividedVerse	Sir.23:18	Sir.23:25-26	Sir.23:18			
-SubdividedVerse	Sir.23:19	Sir.23:27-28	Sir.23:19			
-OneToOne	Sir.23:20-21	Sir.23:29-30	Sir.23:20-21			
-SubdividedVerse	Sir.23:22	Sir.23:31-32	Sir.23:22			
-OneToOne	Sir.23:23-26	Sir.23:33-36	Sir.23:23-26			
-SubdividedVerse	Sir.23:27	Sir.23:37-38	Sir.23:27			
+$Sir.23:9-23:27	English	Latin	Greek	Bulgarian	
+TEST: If...	Sir.23:27=Last	Sir.23:38=Last	Sir.23:27=Last	Sir.23:37=Last			
+MergedVerses	Sir.23:4-5	Sir.23:4-5	Sir.23:4-5	Sir.23:4	
+MergedVerses	Sir.23:6-8	Sir.23:6-8	Sir.23:6-8	Sir.23:5-7	
+SubdividedVerse	Sir.23:9	Sir.23:9-10	Sir.23:9	Sir.23:8-9	
+OneToOne	Sir.23:10	Sir.23:11	Sir.23:10	Sir.23:10	
+SubdividedVerse	Sir.23:11	Sir.23:12-14	Sir.23:11	Sir.23:11-13	
+SubdividedVerse	Sir.23:12	Sir.23:15-16	Sir.23:12	Sir.23:14-15	
+OneToOne	Sir.23:13	Sir.23:17	Sir.23:13	Sir.23:16	
+SubdividedVerse	Sir.23:14	Sir.23:18-19	Sir.23:14	Sir.23:17-18	
+OneToOne	Sir.23:15-16	Sir.23:20-21	Sir.23:15-16	Sir.23:19-20	
+SubdividedVerse	Sir.23:17	Sir.23:22-24	Sir.23:17	Sir.23:21-23	
+SubdividedVerse	Sir.23:18	Sir.23:25-26	Sir.23:18	Sir.23:24-25	
+SubdividedVerse	Sir.23:19	Sir.23:27-28	Sir.23:19	Sir.23:26-27	
+OneToOne	Sir.23:20-21	Sir.23:29-30	Sir.23:20-21	Sir.23:28-29	
+SubdividedVerse	Sir.23:22	Sir.23:31-32	Sir.23:22	Sir.23:30-31	
+OneToOne	Sir.23:23-26	Sir.23:33-36	Sir.23:23-26	Sir.23:32-35	
+SubdividedVerse	Sir.23:27	Sir.23:37-38	Sir.23:27	Sir.23:36-37	
 
-$Sir.24:2-24:34	English	Latin	Greek	
-TEST: If...	Sir.24:34=Last	Sir.24:47=Last	Sir.24:34=Last			
-SubdividedVerse	Sir.24:2	Sir.24:2-4	Sir.24:2			
-SubdividedVerse	Sir.24:3	Sir.24:5-6	Sir.24:3			
-OneToOne	Sir.24:4-5	Sir.24:7-8	Sir.24:4-5			
-SubdividedVerse	Sir.24:6	Sir.24:9-10	Sir.24:6			
-OneToOne	Sir.24:7	Sir.24:11	Sir.24:7			
-SubdividedVerse	Sir.24:8	Sir.24:12-13	Sir.24:8			
-OneToOne	Sir.24:9-14	Sir.24:14-19	Sir.24:9-14			
-SubdividedVerse	Sir.24:15	Sir.24:20-21	Sir.24:15			
-OneToOne	Sir.24:16-17	Sir.24:22-23	Sir.24:16-17			
-SubdividedVerse	Sir.24:18	Sir.24:24-25	Sir.24:18			
-OneToOne	Sir.24:19	Sir.24:26	Sir.24:19			
-SubdividedVerse	Sir.24:20	Sir.24:27-28	Sir.24:20			
-OneToOne	Sir.24:21	Sir.24:29	Sir.24:21			
-SubdividedVerse	Sir.24:22	Sir.24:30-31	Sir.24:22			
-SubdividedVerse	Sir.24:23	Sir.24:32-33	Sir.24:23			
-OneToOne	Sir.24:24-29	Sir.24:34-39	Sir.24:24-29			
-SubdividedVerse	Sir.24:30	Sir.24:40-41	Sir.24:30			
-SubdividedVerse	Sir.24:31	Sir.24:42-43	Sir.24:31			
-SubdividedVerse	Sir.24:32	Sir.24:44-45	Sir.24:32			
-OneToOne	Sir.24:33-34	Sir.24:46-47	Sir.24:33-34			
+$Sir.24:2-24:34	English	Latin	Greek	Bulgarian	
+TEST: If...	Sir.24:34=Last	Sir.24:47=Last	Sir.24:34=Last	Sir.24:37=Last			
+SubdividedVerse	Sir.24:2	Sir.24:2-4	Sir.24:2	Sir.24:2		
+SubdividedVerse	Sir.24:3	Sir.24:5-6	Sir.24:3	Sir.24:3		
+OneToOne	Sir.24:4-5	Sir.24:7-8	Sir.24:4-5	Sir.24:4-5		
+SubdividedVerse	Sir.24:6	Sir.24:9-10	Sir.24:6	Sir.24:6		
+OneToOne	Sir.24:7	Sir.24:11	Sir.24:7	Sir.24:7		
+SubdividedVerse	Sir.24:8	Sir.24:12-13	Sir.24:8	Sir.24:8-9		
+OneToOne	Sir.24:9-14	Sir.24:14-19	Sir.24:9-14	Sir.24:10-15		
+SubdividedVerse	Sir.24:15	Sir.24:20-21	Sir.24:15	Sir.24:16-18		
+OneToOne	Sir.24:16-17	Sir.24:22-23	Sir.24:16-17	Sir.24:19-20	
+SubdividedVerse	Sir.24:18	Sir.24:24-25	Absent	Absent	
+OneToOne	Sir.24:19	Sir.24:26	Sir.24:19	Sir.24:21	
+SubdividedVerse	Sir.24:20	Sir.24:27-28	Sir.24:20	Sir.24:22	
+OneToOne	Sir.24:21	Sir.24:29	Sir.24:21	Sir.24:23	
+SubdividedVerse	Sir.24:22	Sir.24:30-31	Sir.24:22	Sir.24:24	
+SubdividedVerse	Sir.24:23	Sir.24:32-33	Sir.24:23	Sir.24:25	
+OneToOne	Sir.24:24	Sir.24:34	Absent	Absent	
+OneToOne	Sir.24:25-29	Sir.24:35-39	Sir.24:25-29	Sir.24:27-31	
+SubdividedVerse	Sir.24:30	Sir.24:40-41	Sir.24:30	Sir.24:32	
+SubdividedVerse	Sir.24:31	Sir.24:42-43	Sir.24:31	Sir.24:33	
+SubdividedVerse	Sir.24:32	Sir.24:44-45	Sir.24:32	Sir.24:35	
+OneToOne	Sir.24:33-34	Sir.24:46-47	Sir.24:33-34	Sir.24:36-37	
 
-$Sir.25:1-25:26	English	Latin	Greek	
-TEST: If...	Sir.25:26=Last	Sir.25:36=Last	Sir.25:26=Last			
-SubdividedVerse	Sir.25:1	Sir.25:1-2	Sir.25:1			
-SubdividedVerse	Sir.25:2	Sir.25:3-4	Sir.25:2			
-OneToOne	Sir.25:3-6	Sir.25:5-8	Sir.25:3-6			
-SubdividedVerse	Sir.25:7	Sir.25:9-10	Sir.25:7			
-OneToOne	Sir.25:8-10	Sir.25:11-13	Sir.25:8-10			
-SubdividedVerse	Sir.25:11	Sir.25:14-15	Sir.25:11			
-OneToOne	Sir.25:12	Sir.25:16	Sir.25:12			
-SubdividedVerse	Sir.25:13	Sir.25:17-19	Sir.25:13			
-SubdividedVerse	Sir.25:14	Sir.25:20-21	Sir.25:14			
-OneToOne	Sir.25:15-21	Sir.25:22-28	Sir.25:15-21			
-SubdividedVerse	Sir.25:22	Sir.25:29-30	Sir.25:22			
-SubdividedVerse	Sir.25:23	Sir.25:31-32	Sir.25:23			
-OneToOne	Sir.25:24-25	Sir.25:33-34	Sir.25:24-25			
-SubdividedVerse	Sir.25:26	Sir.25:35-36	Sir.25:26			
+$Sir.25:1-25:26	English	Latin	Greek	Bulgarian	
+TEST: If...	Sir.25:26=Last	Sir.25:36=Last	Sir.25:26=Last	Sir.25:29=Last
+SubdividedVerse	Sir.25:1	Sir.25:1-2	Sir.25:1	Sir.25:1-2	
+SubdividedVerse	Sir.25:2	Sir.25:3-4	Sir.25:2	Sir.25:3-4	
+OneToOne	Sir.25:3-6	Sir.25:5-8	Sir.25:3-6	Sir.25:5-8	
+SubdividedVerse	Sir.25:7	Sir.25:9-10	Sir.25:7	Sir.25:9-10	
+OneToOne	Sir.25:8-10	Sir.25:11-13	Sir.25:8-10	Sir.25:11-13	
+SubdividedVerse	Sir.25:11	Sir.25:14-15	Sir.25:11	Sir.25:14	
+OneToOne	Sir.25:12	Sir.25:16	Absent	Absent	
+SubdividedVerse	Sir.25:13	Sir.25:17-19	Sir.25:13	Sir.25:15	
+SubdividedVerse	Sir.25:14	Sir.25:20-21	Sir.25:14	Sir.25:16	
+OneToOne	Sir.25:15-21	Sir.25:22-28	Sir.25:15-21	Sir.25:17-23	
+SubdividedVerse	Sir.25:22	Sir.25:29-30	Sir.25:22	Sir.25:24	
+SubdividedVerse	Sir.25:23	Sir.25:31-32	Sir.25:23	Sir.25:25-26	
+OneToOne	Sir.25:24-25	Sir.25:33-34	Sir.25:24-25	Sir.25:27-28	
+SubdividedVerse	Sir.25:26	Sir.25:35-36	Sir.25:26	Sir.25:29	
 
 $Sir.26:5-26:29	English	Latin	Greek	
 TEST: If...	Sir.26:29=Last	Sir.26:28=Last	Sir.26:29=Last			
@@ -2266,16 +2280,16 @@ SubdividedVerse	Sir.28:14	Sir.28:16-18	Sir.28:14
 OneToOne	Sir.28:15-24	Sir.28:19-28	Sir.28:15-24			
 SubdividedVerse	Sir.28:26	Sir.28:29-30	Sir.28:26			
 
-$Sir.29:5-29:28	English	Latin	Greek	Latin2-DRA
-TEST: If...	Sir.29:28=Last	Sir.29:35=Last	Sir.29:28=Last	Sir.29:34=Last		
-SubdividedVerse	Sir.29:5	Sir.29:5-6	Sir.29:5	Sir.29:5-6		
-SubdividedVerse	Sir.29:6	Sir.29:7-9	Sir.29:6	Sir.29:7-9		
-OneToOne	Sir.29:7-12	Sir.29:10-15	Sir.29:7-12	Sir.29:10-15		
-SubdividedVerse	Sir.29:13	Sir.29:16-17	Sir.29:13	Sir.29:16		
-OneToOne	Sir.29:14-16	Sir.29:18-20	Sir.29:14-16	Sir.29:17-19		
-SubdividedVerse	Sir.29:17	Sir.29:21-22	Sir.29:17	Sir.29:20-21		
-SubdividedVerse	Sir.29:18	Sir.29:23-25	Sir.29:18	Sir.29:22-24		
-OneToOne	Sir.29:19-28	Sir.29:26-35	Sir.29:19-28	Sir.29:25-34		
+$Sir.29:5-29:28	English	Latin	Greek	Latin2-DRA	Bulgarian
+TEST: If...	Sir.29:28=Last	Sir.29:35=Last	Sir.29:28=Last	Sir.29:34=Last	Sir.29:31=Last		
+SubdividedVerse	Sir.29:5	Sir.29:5-6	Sir.29:5	Sir.29:5-6	Sir.29:5-6	
+SubdividedVerse	Sir.29:6	Sir.29:7-9	Sir.29:6	Sir.29:7-9	Sir.29:7-9	
+OneToOne	Sir.29:7-12	Sir.29:10-15	Sir.29:7-12	Sir.29:10-15	Sir.29:10-15	
+SubdividedVerse	Sir.29:13	Sir.29:16-17	Sir.29:13	Sir.29:16	Sir.29:16	
+OneToOne	Sir.29:14-15	Sir.29:18-19	Sir.29:14-15	Sir.29:17-18	Sir.29:17-18	
+OneToOne	Sir.29:16-17	Sir.29:20-21	Sir.29:16-17	Sir.29:19-20	Sir.29:18-19	
+SubdividedVerse	Sir.29:18	Sir.29:22-25	Sir.29:18	Sir.29:22-24	Sir.29:20-21	
+OneToOne	Sir.29:19-28	Sir.29:26-35	Sir.29:19-28	Sir.29:25-34	Sir.29:22-31	
 
 $Sir.30:19-30:25	English	Latin	Greek	
 TEST: If...	Sir.30:25=Last	Sir.30:27=Last	Sir.30:25=Last			
@@ -2284,35 +2298,38 @@ OneToOne	Sir.30:20-22	Sir.30:21-23	Sir.30:20-22
 SubdividedVerse	Sir.30:23	Sir.30:24-25	Sir.30:23			
 OneToOne	Sir.30:24-25	Sir.30:26-27	Sir.30:24-25			
 
-$Sir.31:12-31:31	English	Latin	Greek	
-TEST: If...	Sir.31:31=Last	Sir.31:42=Last	Sir.31:31=Last			
-SubdividedVerse	Sir.31:12	Sir.31:12-13	Sir.31:12			
-SubdividedVerse	Sir.31:13	Sir.31:14-15	Sir.31:13			
-SubdividedVerse	Sir.31:14	Sir.31:16-17	Sir.31:14			
-OneToOne	Sir.31:15-18	Sir.31:18-21	Sir.31:15-18			
-SubdividedVerse	Sir.31:19	Sir.31:22-23	Sir.31:19			
-OneToOne	Sir.31:20-21	Sir.31:24-25	Sir.31:20-21			
-SubdividedVerse	Sir.31:22	Sir.31:26-27	Sir.31:22			
-OneToOne	Sir.31:23-26	Sir.31:28-31	Sir.31:23-26			
-SubdividedVerse	Sir.31:27	Sir.31:32-35	Sir.31:27			
-SubdividedVerse	Sir.31:28	Sir.31:36-37	Sir.31:28			
-OneToOne	Sir.31:29	Sir.31:38	Sir.31:29			
-SubdividedVerse	Sir.31:30	Sir.31:39-40	Sir.31:30			
-SubdividedVerse	Sir.31:31	Sir.31:41-42	Sir.31:31			
+$Sir.31:12-31:31	English	Latin	Greek	Bulgarian	
+TEST: If...	Sir.31:31=Last	Sir.31:42=Last	Sir.31:31=Last	Sir.31:37=Last			
+SubdividedVerse	Sir.31:10	Sir.31:10	Sir.31:10	Sir.31:10-11		
+SubdividedVerse	Sir.31:11	Sir.31:11	Sir.31:11	Sir.31:12		
+SubdividedVerse	Sir.31:12	Sir.31:12-13	Sir.31:12	Sir.31:13		
+SubdividedVerse	Sir.31:13	Sir.31:14-15	Sir.31:13	Sir.31:14-15		
+SubdividedVerse	Sir.31:14	Sir.31:16-17	Sir.31:14	Sir.31:16		
+OneToOne	Sir.31:15-18	Sir.31:18-21	Sir.31:15-18	Sir.31:17-20		
+SubdividedVerse	Sir.31:19	Sir.31:22-23	Sir.31:19	Sir.31:21		
+OneToOne	Sir.31:20-21	Sir.31:24-25	Sir.31:20-21	Sir.31:22-24		
+SubdividedVerse	Sir.31:22	Sir.31:26-27	Sir.31:22	Sir.31:25-26		
+OneToOne	Sir.31:23-26	Sir.31:28-31	Sir.31:23-26	Sir.31:27-30		
+SubdividedVerse	Sir.31:27	Sir.31:32-35	Sir.31:27	Sir.31:31-32		
+SubdividedVerse	Sir.31:28	Sir.31:36-37	Sir.31:28	Sir.31:33		
+OneToOne	Sir.31:29	Sir.31:38	Sir.31:29	Sir.31:34		
+SubdividedVerse	Sir.31:30	Sir.31:39-40	Sir.31:30	Sir.31:35		
+SubdividedVerse	Sir.31:31	Sir.31:41-42	Sir.31:31	Sir.31:36-37		
 
-$Sir.32:2-32:21	English	Latin*	Greek	
-TEST: If...	Sir.32:24=Last	Sir.32:28=Last	Sir.32:24=Last			
-SubdividedVerse	Sir.32:2	Sir.32:2-3	Sir.32:2			
-SubdividedVerse	Sir.32:3	Sir.32:4-5	Sir.32:3			
-OneToOne	Sir.32:4-6	Sir.32:6-8	Sir.32:4-6			
-SubdividedVerse	Sir.32:7	Sir.32:10-11	Sir.32:7			
-SubdividedVerse	Sir.32:8	Sir.32:9, 12	Sir.32:8			
-OneToOne	Sir.32:9	Sir.32:13	Sir.32:9			
-OneToOne	Sir.32:10-17	Sir.32:14-21	Sir.32:10-17			
-SubdividedVerse	Sir.32:18	Sir.32:22-23	Sir.32:18			
-OneToOne	Sir.32:19	Sir.32:24	Sir.32:19			
-MergedVerses	Sir.32:20-21	Sir.32:25	Sir.32:20-21			
-OneToOne	Sir.32:22-24	Sir.32:26-28	Sir.32:22-24			
+$Sir.32:2-32:21	English	Latin*	Greek	Bulgarian	
+TEST: If...	Sir.32:24=Last	Sir.32:28=Last	Sir.32:24=Last	Sir.32:25=Last			
+SubdividedVerse	Sir.32:2	Sir.32:2-3	Sir.32:2	Sir.32:2-3		
+SubdividedVerse	Sir.32:3	Sir.32:4-5	Sir.32:3	Sir.32:4-5		
+OneToOne	Sir.32:4-6	Sir.32:6-8	Sir.32:4-6	Sir.32:6-8		
+SubdividedVerse	Sir.32:7	Sir.32:10-11	Sir.32:7	Sir.32:9		
+SubdividedVerse	Sir.32:8	Sir.32:9, 12	Sir.32:8	Sir.32:10		
+OneToOne	Sir.32:9	Sir.32:13	Sir.32:9	Sir.32:11		
+OneToOne	Sir.32:10-17	Sir.32:14-21	Sir.32:10-17	Sir.32:12-19		
+SubdividedVerse	Sir.32:18	Sir.32:22-23	Sir.32:18	Sir.32:20		
+OneToOne	Sir.32:19	Sir.32:24	Sir.32:19	Sir.32:21		
+MergedVerses	Sir.32:20-21	Sir.32:25	Sir.32:20-21	Sir.32:22-23		
+OneToOne	Sir.32:22	Sir.32:26	Sir.32:22	Absent		
+OneToOne	Sir.32:23-24	Sir.32:27-28	Sir.32:23-24	Sir.32:24-25		
 
 $Sir.33:28--37:18	English	Latin	Greek	
 TEST: If...	Sir.37:31=Last	Sir.37:34=Last	Sir.37:31=Last			
@@ -2350,18 +2367,21 @@ OneToOne	Sir.38:31	Sir.38:35	Sir.38:31
 SubdividedVerse	Sir.38:32	Sir.38:36-37	Sir.38:32			
 OneToOne	Sir.38:33-34	Sir.38:38-39	Sir.38:33-34			
 
-$Sir.39:4-39:35	English	Latin	Greek	
-TEST: If...	Sir.39:35=Last	Sir.39:41=Last	Sir.39:35=Last			
-SubdividedVerse	Sir.39:4	Sir.39:4-5	Sir.39:4			
-SubdividedVerse	Sir.39:5	Sir.39:6-7	Sir.39:5			
-SubdividedVerse	Sir.39:6	Sir.39:8-9	Sir.39:6			
-OneToOne	Sir.39:7-8	Sir.39:10-11	Sir.39:7-8			
-SubdividedVerse	Sir.39:9	Sir.39:12-13	Sir.39:9			
-OneToOne	Sir.39:10-13	Sir.39:14-17	Sir.39:10-13			
-SubdividedVerse	Sir.39:14	Sir.39:18-19	Sir.39:14			
-OneToOne	Sir.39:15-27	Sir.39:20-32	Sir.39:15-27			
-SubdividedVerse	Sir.39:28	Sir.39:33-34	Sir.39:28			
-OneToOne	Sir.39:29-35	Sir.39:35-41	Sir.39:29-35			
+$Sir.39:4-39:35	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.39:35=Last	Sir.39:41=Last	Sir.39:35=Last	Sir.39:42=Last			
+SubdividedVerse	Sir.39:4	Sir.39:4-5	Sir.39:4	Sir.39:4		
+SubdividedVerse	Sir.39:5	Sir.39:6-7	Sir.39:5	Sir.39:5-6		
+SubdividedVerse	Sir.39:6	Sir.39:8-9	Sir.39:6	Sir.39:7-8		
+OneToOne	Sir.39:7-8	Sir.39:10-11	Sir.39:7-8	Sir.39:9-10		
+SubdividedVerse	Sir.39:9	Sir.39:12-13	Sir.39:9	Sir.39:11-12		
+OneToOne	Sir.39:10-13	Sir.39:14-17	Sir.39:10-13	Sir.39:13-16		
+SubdividedVerse	Sir.39:14	Sir.39:18-19	Sir.39:14	Sir.39:17-18		
+OneToOne	Sir.39:15	Sir.39:20	Sir.39:15	Sir.39:19-20		
+OneToOne	Sir.39:16	Sir.39:21	Sir.39:16	Sir.39:21		
+OneToOne	Sir.39:17	Sir.39:22	Sir.39:17	Sir.39:22-23		
+OneToOne	Sir.39:18-27	Sir.39:23-32	Sir.39:18-27	Sir.39:24-33		
+SubdividedVerse	Sir.39:28	Sir.39:33-34	Sir.39:28	Sir.39:34-35		
+OneToOne	Sir.39:29-35	Sir.39:35-41	Sir.39:29-35	Sir.39:36-42		
 
 $Sir.40:26-40:30	English	Latin	Greek	
 TEST: If...	Sir.40:30=Last	Sir.40:32=Last	Sir.40:30=Last			
@@ -2379,23 +2399,24 @@ SubdividedVerse	Sir.41:4	Sir.41:6-7	Sir.41:4	Sir.41:4	Sir.41:6-7
 OneToOne	Sir.41:5-15	Sir.41:8-18	Sir.41:5-15	Sir.41:5-15	Sir.41:8-18	
 SubdividedVerse	Sir.41:16	Sir.41:19-20	Sir.41:16	Sir.41:16	Sir.41:19-20	
 OneToOne	Sir.41:17-20	Sir.41:21-24	Sir.41:17-20	Sir.41:17-20	Sir.41:21-24	
-SubdividedVerse	Sir.41:21	Sir.41:25-26	Sir.41:21	Sir.41:21-23	Sir.41:25-26	
-SubdividedVerse	Sir.41:22	Sir.41:27-28	Sir.41:22	Sir.41:24-27	Sir.41:27-29	
+SubdividedVerse	Sir.41:21	Sir.41:25-26	Sir.41:21	Sir.41:21-23	Sir.41:25-27	
+SubdividedVerse	Sir.41:22	Sir.41:27-28	Sir.41:22	Sir.41:24-27	Sir.41:28-29	
 
 $Sir.42:21-42:25	English	Latin	Greek	
 TEST: If...	Sir.42:25=Last	Sir.42:26=Last	Sir.42:25=Last			
 SubdividedVerse	Sir.42:21	Sir.42:21-22	Sir.42:21			
 OneToOne	Sir.42:22-25	Sir.42:23-26	Sir.42:22-25			
 
-$Sir.43:8-43:33	English	Latin	Greek	
-TEST: If...	Sir.43:33=Last	Sir.43:37=Last	Sir.43:33=Last			
-SubdividedVerse	Sir.43:8	Sir.43:8-9	Sir.43:8			
-OneToOne	Sir.43:9-17	Sir.43:10-18	Sir.43:9-17			
-SubdividedVerse	Sir.43:18	Sir.43:19-20	Sir.43:18			
-OneToOne	Sir.43:19-28	Sir.43:21-30	Sir.43:19-28			
-SubdividedVerse	Sir.43:29	Sir.43:31-32	Sir.43:29			
-SubdividedVerse	Sir.43:30	Sir.43:33-34	Sir.43:30			
-OneToOne	Sir.43:31-33	Sir.43:35-37	Sir.43:31-33			
+$Sir.43:8-43:33	English	Latin	Greek	Bulgarian	
+TEST: If...	Sir.43:33=Last	Sir.43:37=Last	Sir.43:33=Last	Sir.43:36=Last			
+SubdividedVerse	Sir.43:8	Sir.43:8-9	Sir.43:8	Sir.43:8-9		
+OneToOne	Sir.43:9-16	Sir.43:10-17	Sir.43:9-16	Sir.43:10-17		
+OneToOne	Sir.43:17	Sir.43:18	Sir.43:17	Sir.43:18-19		
+SubdividedVerse	Sir.43:18	Sir.43:19-20	Sir.43:18	Sir.43:20		
+OneToOne	Sir.43:19-28	Sir.43:21-30	Sir.43:19-28	Sir.43:21-30		
+SubdividedVerse	Sir.43:29	Sir.43:31-32	Sir.43:29	Sir.43:31		
+SubdividedVerse	Sir.43:30	Sir.43:33-34	Sir.43:30	Sir.43:32-33		
+OneToOne	Sir.43:31-33	Sir.43:35-37	Sir.43:31-33	Sir.43:34-36		
 
 $Sir.44:17-44:23	English	Latin	Greek	
 TEST: If...	Sir.44:23=Last	Sir.44:27=Last	Sir.44:23=Last			
@@ -2454,14 +2475,14 @@ OneToOne	Sir.48:17-19	Sir.48:19-21	Sir.48:17-19
 SubdividedVerse	Sir.48:20	Sir.48:22-23	Sir.48:20			
 OneToOne	Sir.48:21-25	Sir.48:24-28	Sir.48:21-25			
 
-$Sir.49:1-49:16	English	Latin	Greek	
-TEST: If...	Sir.49:16=Last	Sir.49:19=Last	Sir.49:16=Last			
-SubdividedVerse	Sir.49:1	Sir.49:1-2	Sir.49:1			
-OneToOne	Sir.49:2-3	Sir.49:3-4	Sir.49:2-3			
-SubdividedVerse	Sir.49:4	Sir.49:5-6	Sir.49:4			
-OneToOne	Sir.49:5-14	Sir.49:7-16	Sir.49:5-14			
-SubdividedVerse	Sir.49:15	Sir.49:17-18	Sir.49:15			
-OneToOne	Sir.49:16	Sir.49:19	Sir.49:16			
+$Sir.49:1-49:16	English	Latin	Greek	Bulgarian#	
+TEST: If...	Sir.49:16=Last	Sir.49:19=Last	Sir.49:16=Last	Sir.49:18=Last			
+SubdividedVerse	Sir.49:1	Sir.49:1-2	Sir.49:1	Sir.49:1-2		
+OneToOne	Sir.49:2-3	Sir.49:3-4	Sir.49:2-3	Sir.49:3-4		
+SubdividedVerse	Sir.49:4	Sir.49:5-6	Sir.49:4	Sir.49:5-6		
+OneToOne	Sir.49:5-14	Sir.49:7-16	Sir.49:5-14	Sir.49:7-16		
+SubdividedVerse	Sir.49:15	Sir.49:17-18	Sir.49:15	Sir.49:17		
+OneToOne	Sir.49:16	Sir.49:19	Sir.49:16	Sir.49:18		
 
 $Sir.50:11-50:29	English	Latin	Greek	
 TEST: If...	Sir.50:29=Last	Sir.50:31=Last	Sir.50:29=Last			
@@ -2486,17 +2507,6 @@ SubdividedVerse	Sir.51:19	Sir.51:25-26	Sir.51:19
 SubdividedVerse	Sir.51:20	Sir.51:27-28	Sir.51:20			
 OneToOne	Sir.51:21-30	Sir.51:29-38	Sir.51:21-30			
 
-$Sir.4:10-4:31	English	Latin	Greek	Bulgarian#
-TEST: If...	Sir.4:31=Last	Sir.4:36=Last	Sir.4:31=Last	Sir.4:35=Last			
-SubdividedVerse	Sir.4:10	Sir.4:10-11	Sir.4:10	Sir.4:10-11	
-OneToOne	Sir.4:11-16	Sir.4:12-17	Sir.4:11-16	Sir.4:12-17	
-SubdividedVerse	Sir.4:17	Sir.4:18-19	Sir.4:17	Sir.4:18-19	
-SubdividedVerse	Sir.4:18	Sir.4:20-21	Sir.4:18	Sir.4:20-21	
-OneToOne	Sir.4:19	Sir.4:22	Sir.4:19	Sir.4:22	
-SubdividedVerse	Sir.4:20	Sir.4:23-24	Sir.4:20	Sir.4:23-24	
-OneToOne	Sir.4:21	Sir.4:25	Sir.4:21	Sir.4:25	
-SubdividedVerse	Sir.4:22	Sir.4:26-27	Sir.4:22	Sir.4:26	
-OneToOne	Sir.4:23-31	Sir.4:28-36	Sir.4:23-31	Sir.4:27-35	
 
 $Wis.5:1-5:23#	English	Latin	Greek		
 TEST: If...	Wis.5:23=Last	Wis.5:24=Last	Wis.5:23=Last	
@@ -2510,18 +2520,6 @@ SubdividedVerse	Wis.6:1	Wis.6:1-2	Wis.6:1
 OneToOne	Wis.6:2-20	Wis.6:3-21	Wis.6:2-20			
 SubdividedVerse	Wis.6:21	Wis.6:22-23	Wis.6:21			
 OneToOne	Wis.6:22-25	Wis.6:24-27	Wis.6:22-25			
-
-$Sir.7:1-36#	English	Latin*	Greek	Bulgarian#	
-TEST: If...	Sir.7:36=Last	Sir.7:40=Last	Sir.7:36=Last	Sir.7:39=Last			
-OneToOne	Sir.7:1-8	Sir.7:1-8	Sir.7:1-8	Sir.7:1-8	
-OneToOne	Sir.7:9	Sir.7:11	Sir.7:9	Sir.7:9	
-SubdividedVerse	Sir.7:10	Sir.7:9-10	Sir.7:10	Sir.7:10	
-OneToOne	Sir.7:11-15	Sir.7:12-16	Sir.7:11-15	Sir.7:11-15	
-SubdividedVerse	Sir.7:16	Sir.7:17-18	Sir.7:16	Sir.7:16, 18	
-SubdividedVerse	Sir.7:17	Sir.7:19	Sir.7:17	Sir.7:17, 19	
-OneToOne	Sir.7:18-30	Sir.7:20-32	Sir.7:18-30	Sir.7:20-32	
-SubdividedVerse	Sir.7:31	Sir.7:33-35	Sir.7:31	Sir.7:33-34	
-OneToOne	Sir.7:32-36	Sir.7:36-40	Sir.7:32-36	Sir.7:35-39	
 
 $Wis.9:1-9:18#	English	Latin	Greek		
 TEST: If...	Wis.9:18=Last	Wis.9:19=Last	Wis.9:18=Last	
@@ -2549,173 +2547,6 @@ TEST: If...	Wis.19:21=Last	Wis.19:20=Last	Wis.19:22=Last
 MergedVerses	Wis.19:12-13	Wis.19:12	Wis.19:12-13			
 OneToOne	Wis.19:14-20	Wis.19:13-19	Wis.19:14-20			
 MergedVerses	Wis.19:21-22	Wis.19:20	Wis.19:21-22			
-
-$Sir.22:7-22:27	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.22:27=Last	Sir.22:33=Last	Sir.22:27=Last	Sir.22:31=Last			
-TextMayBeMissing	Sir.22:7-8	Absent	Sir.22:7-8	Absent		
-OneToOne	Sir.22:9-10	Sir.22:7-8	Sir.22:9-10	Sir.22:7-8		
-SubdividedVerse	Sir.22:11	Sir.22:10-12	Sir.22:11	Sir.22:9-10		
-OneToOne	Sir.22:12	Sir.22:13	Sir.22:12	Sir.22:11		
-SubdividedVerse	Sir.22:13	Sir.22:14-16	Sir.22:13	Sir.22:12-14		
-OneToOne	Sir.22:14-15	Sir.22:17-18	Sir.22:14-15	Sir.22:15-16		
-SubdividedVerse	Sir.22:16	Sir.22:19-21	Sir.22:16	Sir.22:17		
-MergedVerses	Sir.22:17-18	Sir.22:22	Sir.22:17-18	Sir.22:18-19		
-OneToOne	Sir.22:19-21	Sir.22:23-25	Sir.22:19-21	Sir.22:21-23		
-SubdividedVerse	Sir.22:22	Sir.22:26-27	Sir.22:22	Sir.22:24		
-SubdividedVerse	Sir.22:23	Sir.22:28-29	Sir.22:23	Sir.22:26-27		
-OneToOne	Sir.22:24-27	Sir.22:30-33	Sir.22:24-27	Sir.22:28-31		
-
-$Sir.23:9-23:27	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.23:27=Last	Sir.23:38=Last	Sir.23:27=Last	Sir.23:37=Last			
-MergedVerses	Sir.23:4-5	Sir.23:4-5	Sir.23:4-5	Sir.23:4	
-MergedVerses	Sir.23:6-8	Sir.23:6-8	Sir.23:6-8	Sir.23:5-7	
-SubdividedVerse	Sir.23:9	Sir.23:9-10	Sir.23:9	Sir.23:8-9	
-OneToOne	Sir.23:10	Sir.23:11	Sir.23:10	Sir.23:10	
-SubdividedVerse	Sir.23:11	Sir.23:12-14	Sir.23:11	Sir.23:11-13	
-SubdividedVerse	Sir.23:12	Sir.23:15-16	Sir.23:12	Sir.23:14-15	
-OneToOne	Sir.23:13	Sir.23:17	Sir.23:13	Sir.23:16	
-SubdividedVerse	Sir.23:14	Sir.23:18-19	Sir.23:14	Sir.23:17-18	
-OneToOne	Sir.23:15-16	Sir.23:20-21	Sir.23:15-16	Sir.23:19-20	
-SubdividedVerse	Sir.23:17	Sir.23:22-24	Sir.23:17	Sir.23:21-23	
-SubdividedVerse	Sir.23:18	Sir.23:25-26	Sir.23:18	Sir.23:24-25	
-SubdividedVerse	Sir.23:19	Sir.23:27-28	Sir.23:19	Sir.23:26-27	
-OneToOne	Sir.23:20-21	Sir.23:29-30	Sir.23:20-21	Sir.23:28-29	
-SubdividedVerse	Sir.23:22	Sir.23:31-32	Sir.23:22	Sir.23:30-31	
-OneToOne	Sir.23:23-26	Sir.23:33-36	Sir.23:23-26	Sir.23:32-35	
-SubdividedVerse	Sir.23:27	Sir.23:37-38	Sir.23:27	Sir.23:36-37	
-
-$Sir.24:2-24:34	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.24:34=Last	Sir.24:47=Last	Sir.24:34=Last	Sir.24:37=Last			
-SubdividedVerse	Sir.24:2	Sir.24:2-4	Sir.24:2	Sir.24:2		
-SubdividedVerse	Sir.24:3	Sir.24:5-6	Sir.24:3	Sir.24:3		
-OneToOne	Sir.24:4-5	Sir.24:7-8	Sir.24:4-5	Sir.24:4-5		
-SubdividedVerse	Sir.24:6	Sir.24:9-10	Sir.24:6	Sir.24:6		
-OneToOne	Sir.24:7	Sir.24:11	Sir.24:7	Sir.24:7		
-SubdividedVerse	Sir.24:8	Sir.24:12-13	Sir.24:8	Sir.24:8-9		
-OneToOne	Sir.24:9-14	Sir.24:14-19	Sir.24:9-14	Sir.24:10-15		
-SubdividedVerse	Sir.24:15	Sir.24:20-21	Sir.24:15	Sir.24:16-18		
-OneToOne	Sir.24:16-17	Sir.24:22-23	Sir.24:16-17	Sir.24:19-20	
-SubdividedVerse	Sir.24:18	Sir.24:24-25	Absent	Absent	
-OneToOne	Sir.24:19	Sir.24:26	Sir.24:19	Sir.24:21	
-SubdividedVerse	Sir.24:20	Sir.24:27-28	Sir.24:20	Sir.24:22	
-OneToOne	Sir.24:21	Sir.24:29	Sir.24:21	Sir.24:23	
-SubdividedVerse	Sir.24:22	Sir.24:30-31	Sir.24:22	Sir.24:24	
-SubdividedVerse	Sir.24:23	Sir.24:32-33	Sir.24:23	Sir.24:25	
-OneToOne	Sir.24:24	Sir.24:34	Absent	Absent	
-OneToOne	Sir.24:25-29	Sir.24:35-39	Sir.24:25-29	Sir.24:27-31	
-SubdividedVerse	Sir.24:30	Sir.24:40-41	Sir.24:30	Sir.24:32	
-SubdividedVerse	Sir.24:31	Sir.24:42-43	Sir.24:31	Sir.24:33	
-SubdividedVerse	Sir.24:32	Sir.24:44-45	Sir.24:32	Sir.24:35	
-OneToOne	Sir.24:33-34	Sir.24:46-47	Sir.24:33-34	Sir.24:36-37	
-
-$Sir.25:1-25:26	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.25:26=Last	Sir.25:36=Last	Sir.25:26=Last	Sir.25:29=Last
-SubdividedVerse	Sir.25:1	Sir.25:1-2	Sir.25:1	Sir.25:1-2	
-SubdividedVerse	Sir.25:2	Sir.25:3-4	Sir.25:2	Sir.25:3-4	
-OneToOne	Sir.25:3-6	Sir.25:5-8	Sir.25:3-6	Sir.25:5-8	
-SubdividedVerse	Sir.25:7	Sir.25:9-10	Sir.25:7	Sir.25:9-10	
-OneToOne	Sir.25:8-10	Sir.25:11-13	Sir.25:8-10	Sir.25:11-13	
-SubdividedVerse	Sir.25:11	Sir.25:14-15	Sir.25:11	Sir.25:14	
-OneToOne	Sir.25:12	Sir.25:16	Absent	Absent	
-SubdividedVerse	Sir.25:13	Sir.25:17-19	Sir.25:13	Sir.25:15	
-SubdividedVerse	Sir.25:14	Sir.25:20-21	Sir.25:14	Sir.25:16	
-OneToOne	Sir.25:15-21	Sir.25:22-28	Sir.25:15-21	Sir.25:17-23	
-SubdividedVerse	Sir.25:22	Sir.25:29-30	Sir.25:22	Sir.25:24	
-SubdividedVerse	Sir.25:23	Sir.25:31-32	Sir.25:23	Sir.25:25-26	
-OneToOne	Sir.25:24-25	Sir.25:33-34	Sir.25:24-25	Sir.25:27-28	
-SubdividedVerse	Sir.25:26	Sir.25:35-36	Sir.25:26	Sir.25:29	
-
-$Sir.29:5-29:28	English	Latin	Greek	Latin2-DRA	Bulgarian#
-TEST: If...	Sir.29:28=Last	Sir.29:35=Last	Sir.29:28=Last	Sir.29:34=Last	Sir.29:31=Last		
-SubdividedVerse	Sir.29:5	Sir.29:5-6	Sir.29:5	Sir.29:5-6	Sir.29:5-6	
-SubdividedVerse	Sir.29:6	Sir.29:7-9	Sir.29:6	Sir.29:7-9	Sir.29:7-9	
-OneToOne	Sir.29:7-12	Sir.29:10-15	Sir.29:7-12	Sir.29:10-15	Sir.29:10-15	
-SubdividedVerse	Sir.29:13	Sir.29:16-17	Sir.29:13	Sir.29:16	Sir.29:16	
-OneToOne	Sir.29:14-15	Sir.29:18-19	Sir.29:14-15	Sir.29:17-18	Sir.29:17-18	
-OneToOne	Sir.29:16-17	Sir.29:20-21	Sir.29:16-17	Sir.29:19-20	Sir.29:18-19	
-SubdividedVerse	Sir.29:18	Sir.29:22-25	Sir.29:18	Sir.29:22-24	Sir.29:20-21	
-OneToOne	Sir.29:19-28	Sir.29:26-35	Sir.29:19-28	Sir.29:25-34	Sir.29:22-31	
-
-$Sir.31:12-31:31	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.31:31=Last	Sir.31:42=Last	Sir.31:31=Last	Sir.31:37=Last			
-SubdividedVerse	Sir.31:10	Sir.31:10	Sir.31:10	Sir.31:10-11		
-SubdividedVerse	Sir.31:11	Sir.31:11	Sir.31:11	Sir.31:12		
-SubdividedVerse	Sir.31:12	Sir.31:12-13	Sir.31:12	Sir.31:13		
-SubdividedVerse	Sir.31:13	Sir.31:14-15	Sir.31:13	Sir.31:14-15		
-SubdividedVerse	Sir.31:14	Sir.31:16-17	Sir.31:14	Sir.31:16		
-OneToOne	Sir.31:15-18	Sir.31:18-21	Sir.31:15-18	Sir.31:17-20		
-SubdividedVerse	Sir.31:19	Sir.31:22-23	Sir.31:19	Sir.31:21		
-OneToOne	Sir.31:20-21	Sir.31:24-25	Sir.31:20-21	Sir.31:22-24		
-SubdividedVerse	Sir.31:22	Sir.31:26-27	Sir.31:22	Sir.31:25-26		
-OneToOne	Sir.31:23-26	Sir.31:28-31	Sir.31:23-26	Sir.31:27-30		
-SubdividedVerse	Sir.31:27	Sir.31:32-35	Sir.31:27	Sir.31:31-32		
-SubdividedVerse	Sir.31:28	Sir.31:36-37	Sir.31:28	Sir.31:33		
-OneToOne	Sir.31:29	Sir.31:38	Sir.31:29	Sir.31:34		
-SubdividedVerse	Sir.31:30	Sir.31:39-40	Sir.31:30	Sir.31:35		
-SubdividedVerse	Sir.31:31	Sir.31:41-42	Sir.31:31	Sir.31:36-37		
-
-$Sir.32:2-32:21	English	Latin*	Greek	Bulgarian#	
-TEST: If...	Sir.32:24=Last	Sir.32:28=Last	Sir.32:24=Last	Sir.32:25=Last			
-SubdividedVerse	Sir.32:2	Sir.32:2-3	Sir.32:2	Sir.32:2-3		
-SubdividedVerse	Sir.32:3	Sir.32:4-5	Sir.32:3	Sir.32:4-5		
-OneToOne	Sir.32:4-6	Sir.32:6-8	Sir.32:4-6	Sir.32:6-8		
-SubdividedVerse	Sir.32:7	Sir.32:10-11	Sir.32:7	Sir.32:9		
-SubdividedVerse	Sir.32:8	Sir.32:9, 12	Sir.32:8	Sir.32:10		
-OneToOne	Sir.32:9	Sir.32:13	Sir.32:9	Sir.32:11		
-OneToOne	Sir.32:10-17	Sir.32:14-21	Sir.32:10-17	Sir.32:12-19		
-SubdividedVerse	Sir.32:18	Sir.32:22-23	Sir.32:18	Sir.32:20		
-OneToOne	Sir.32:19	Sir.32:24	Sir.32:19	Sir.32:21		
-MergedVerses	Sir.32:20-21	Sir.32:25	Sir.32:20-21	Sir.32:22-23		
-OneToOne	Sir.32:22	Sir.32:26	Sir.32:22	Absent		
-OneToOne	Sir.32:23-24	Sir.32:27-28	Sir.32:23-24	Sir.32:24-25		
-
-$Sir.39:4-39:35	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.39:35=Last	Sir.39:41=Last	Sir.39:35=Last	Sir.39:42=Last			
-SubdividedVerse	Sir.39:4	Sir.39:4-5	Sir.39:4	Sir.39:4		
-SubdividedVerse	Sir.39:5	Sir.39:6-7	Sir.39:5	Sir.39:5-6		
-SubdividedVerse	Sir.39:6	Sir.39:8-9	Sir.39:6	Sir.39:7-8		
-OneToOne	Sir.39:7-8	Sir.39:10-11	Sir.39:7-8	Sir.39:9-10		
-SubdividedVerse	Sir.39:9	Sir.39:12-13	Sir.39:9	Sir.39:11-12		
-OneToOne	Sir.39:10-13	Sir.39:14-17	Sir.39:10-13	Sir.39:13-16		
-SubdividedVerse	Sir.39:14	Sir.39:18-19	Sir.39:14	Sir.39:17-18		
-OneToOne	Sir.39:15	Sir.39:20	Sir.39:15	Sir.39:19-20		
-OneToOne	Sir.39:16	Sir.39:21	Sir.39:16	Sir.39:21		
-OneToOne	Sir.39:17	Sir.39:22	Sir.39:17	Sir.39:22-23		
-OneToOne	Sir.39:18-27	Sir.39:23-32	Sir.39:18-27	Sir.39:24-33		
-SubdividedVerse	Sir.39:28	Sir.39:33-34	Sir.39:28	Sir.39:34-35		
-OneToOne	Sir.39:29-35	Sir.39:35-41	Sir.39:29-35	Sir.39:36-42		
-
-$Sir.41:1-41:22	English	Latin	Greek	Bulgarian	Bulgarian2#
-TEST: If...	Sir.41:22=Last	Sir.41:28=Last	Sir.41:22=Last	Sir.41:27=Last	Sir.41:29=Last	
-SubdividedVerse	Sir.41:1	Sir.41:1-2	Sir.41:1	Sir.41:1	Sir.41:1-2	
-SubdividedVerse	Sir.41:2	Sir.41:3-4	Sir.41:2	Sir.41:2	Sir.41:3-4	
-OneToOne	Sir.41:3	Sir.41:5	Sir.41:3	Sir.41:3	Sir.41:5	
-SubdividedVerse	Sir.41:4	Sir.41:6-7	Sir.41:4	Sir.41:4	Sir.41:6-7	
-OneToOne	Sir.41:5-15	Sir.41:8-18	Sir.41:5-15	Sir.41:5-15	Sir.41:8-18	
-SubdividedVerse	Sir.41:16	Sir.41:19-20	Sir.41:16	Sir.41:16	Sir.41:19-20	
-OneToOne	Sir.41:17-20	Sir.41:21-24	Sir.41:17-20	Sir.41:17-20	Sir.41:21-24	
-SubdividedVerse	Sir.41:21	Sir.41:25-26	Sir.41:21	Sir.41:21-23	Sir.41:25-27	
-SubdividedVerse	Sir.41:22	Sir.41:27-28	Sir.41:22	Sir.41:24-27	Sir.41:28-29	
-
-$Sir.43:8-43:33	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.43:33=Last	Sir.43:37=Last	Sir.43:33=Last	Sir.43:36=Last			
-SubdividedVerse	Sir.43:8	Sir.43:8-9	Sir.43:8	Sir.43:8-9		
-OneToOne	Sir.43:9-16	Sir.43:10-17	Sir.43:9-16	Sir.43:10-17		
-OneToOne	Sir.43:17	Sir.43:18	Sir.43:17	Sir.43:18-19		
-SubdividedVerse	Sir.43:18	Sir.43:19-20	Sir.43:18	Sir.43:20		
-OneToOne	Sir.43:19-28	Sir.43:21-30	Sir.43:19-28	Sir.43:21-30		
-SubdividedVerse	Sir.43:29	Sir.43:31-32	Sir.43:29	Sir.43:31		
-SubdividedVerse	Sir.43:30	Sir.43:33-34	Sir.43:30	Sir.43:32-33		
-OneToOne	Sir.43:31-33	Sir.43:35-37	Sir.43:31-33	Sir.43:34-36		
-
-$Sir.49:1-49:16	English	Latin	Greek	Bulgarian#	
-TEST: If...	Sir.49:16=Last	Sir.49:19=Last	Sir.49:16=Last	Sir.49:18=Last			
-SubdividedVerse	Sir.49:1	Sir.49:1-2	Sir.49:1	Sir.49:1-2		
-OneToOne	Sir.49:2-3	Sir.49:3-4	Sir.49:2-3	Sir.49:3-4		
-SubdividedVerse	Sir.49:4	Sir.49:5-6	Sir.49:4	Sir.49:5-6		
-OneToOne	Sir.49:5-14	Sir.49:7-16	Sir.49:5-14	Sir.49:7-16		
-SubdividedVerse	Sir.49:15	Sir.49:17-18	Sir.49:15	Sir.49:17		
-OneToOne	Sir.49:16	Sir.49:19	Sir.49:16	Sir.49:18		
 
 $2Ma.2:1-2:32	English	Latin	Greek	Bulgarian#	
 TEST: If...	2Ma.2:32=Last	2Ma.2:33=Last	2Ma.2:32=Last	2Ma.2:33=Last		
@@ -4890,25 +4721,25 @@ Latin	Jos.21:41	Jos.21:43	Renumber verse	Nec. [41]	%Normally in this Bible the v
 Latin	Jos.21:42	Jos.21:44	Renumber verse	Nec. [42]	%Normally in this Bible the verse numbering here is% 21:42.		(Hebrew=21:44 • Latin=21:42 • Greek=21:44)	Jos.21:43=Last	
 Latin	Jos.21:43	Jos.21:45	Renumber verse	Nec. [43]	%Normally in this Bible the verse numbering here is% 21:43.		(Hebrew=21:45 • Latin=21:43 • Greek=21:45)	Jos.21:43=Last	
 
-English+Hebrew+Latin	Jos.24:29	Jos.24:29	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26>Jos.24:29	
-English+Hebrew+Latin	Jos.24:30	Jos.24:30	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26>Jos.24:29	
-English+Hebrew+Latin	Jos.24:31	Jos.24:31	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26>Jos.24:29	
-Greek	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29	
-Greek	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29	
-Greek	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29	
-Greek2	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=NotExist
-Greek2	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=NotExist
-Greek2	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=NotExist
-Greek2	Jos.24:33.0	Jos.24:33.0	Renumber verse	Nec. [0]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=NotExist
-Greek2	Jos.24:33.1	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=NotExist
-Greek2	Jos.24:33.2	Jos.24:33.2	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=NotExist
-Bulgarian	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:33	Jos.24:33.0	Keep verse	Nec. [33]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:34	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:35	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
-Bulgarian	Jos.24:36	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew=  • Latin=  • Greek= )	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist & Jos.24:33.3=Exist
+English+Hebrew+Latin	Jos.24:29	Jos.24:29	Keep verse	Acd. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26>Jos.24:29 & Jos.24:33.1=NotExist	
+English+Hebrew+Latin	Jos.24:30	Jos.24:30	Keep verse	Acd. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26>Jos.24:29 & Jos.24:33.1=NotExist	
+English+Hebrew+Latin	Jos.24:31	Jos.24:31	Keep verse	Acd. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26>Jos.24:29 & Jos.24:33.1=NotExist	
+Greek	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & Jos.24:33.1=NotExist	
+Greek	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%Normally in this Bible the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & Jos.24:33.1=NotExist	
+Greek	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & Jos.24:33.1=NotExist	
+Greek2	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
+Greek2	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
+Greek2	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
+Greek2	Jos.24:33.0	Jos.24:33.0	Renumber verse	Nec. [0]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
+Greek2	Jos.24:33.1	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
+Greek2	Jos.24:33.2	Jos.24:33.2	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
+Bulgarian	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:33	Jos.24:33.0	Keep verse	Nec. [33]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:34	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:35	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:36	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew=  • Latin=  • Greek= )	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
 
 English+Hebrew+Greek	Jdg.5:31	Jdg.5:31	Keep verse	Acd. [31-32]	%In some Bibles the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:31=Last	
 Latin	Jdg.5:31	Jdg.5:31.1	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:32=Last	
@@ -20254,8 +20085,9 @@ Bulgarian2	Sir.41:22	Sir.41:18	Renumber verse	Nec. [22]	%In some Bibles the vers
 Bulgarian2	Sir.41:23	Sir.41:19	Renumber verse	Nec. [23]	%In some Bibles the verse numbering here is% 41:23.		(Latin=41:23 • Greek=41:19)	Sir.41:29=Last
 Bulgarian2	Sir.41:24	Sir.41:20	Keep verse	Nec. [24]	%Normally in this Bible the verse numbering here is% 41:24.		(Latin=41:24 • Greek=41:20)	Sir.41:29=Last
 Bulgarian2	Sir.41:25	Sir.41:21.1	Renumber verse	Nec. [25]	%Normally in this Bible the verse numbering here is% 41:25.		(Latin=41:25 • Greek=41:21a)	Sir.41:29=Last
-Bulgarian2	Sir.41:27	Sir.41:21.2	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 41:27.		(Latin=41:26 • Greek=41:21b)	Sir.41:29=Last
-Bulgarian2	Sir.41:28	Sir.41:22.1	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 41:28.		(Latin=41:27 • Greek=41:22a)	Sir.41:29=Last
+Bulgarian2	Sir.41:26	Sir.41:21.2	Renumber verse	Nec. [26]	%Normally in this Bible the verse numbering here is% 41:26.		(Latin=41:26 • Greek=41:21b)	Sir.41:29=Last
+Bulgarian2	Sir.41:27	Sir.41:21.3	Renumber verse	Nec. [27]	%Normally in this Bible the verse numbering here is% 41:27.		(Latin=41:27 • Greek=41:21c)	Sir.41:29=Last
+Bulgarian2	Sir.41:28	Sir.41:22.1	Renumber verse	Nec. [28]	%Normally in this Bible the verse numbering here is% 41:28.		(Latin=41:28 • Greek=41:22a)	Sir.41:29=Last
 Bulgarian2	Sir.41:29	Sir.41:22.2	Renumber verse	Nec. [29]	%Normally in this Bible the verse numbering here is% 41:29.		(Latin=41:28 • Greek=41:22b)	Sir.41:29=Last
 Bulgarian	Sir.41:2	Sir.41:2	Keep verse	Acd. [2]	%In some Bibles the verse numbering here is% 41:2.		(Latin=41:3 • Greek=41:2)	Sir.41:27=Last
 Bulgarian	Sir.41:3	Sir.41:3	Keep verse	Acd. [3]	%In some Bibles the verse numbering here is% 41:3.		(Latin=41:5 • Greek=41:3)	Sir.41:27=Last
