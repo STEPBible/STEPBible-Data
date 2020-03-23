@@ -378,11 +378,11 @@ MergedVerses	Jos.21:38-39	Jos.21:38-39	Jos.21:37	Jos.21:38-39
 OneToOne	Jos.21:40-45	Jos.21:40-45	Jos.21:38-43	Jos.21:40-45			
 
 $Jos.24:29-24:31	English	Hebrew	Latin	Greek*	Greek2*#	Bulgarian*#
-TEST: If...	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26<Jos.24:29			
+TEST: If...	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26>Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26<Jos.24:29	Jos.24:26>Jos.24:29			
 TEST: & if... 	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=NotExist	Jos.24:33.1=Exist	Jos.24:34=Exist	
-OneToOne	Jos.24:29	Jos.24:29	Jos.24:29	Jos.24:30	Jos.24:30	Jos.24:30			
-OneToOne	Jos.24:30	Jos.24:30	Jos.24:30	Jos.24:31	Jos.24:31	Jos.24:31			
-OneToOne	Jos.24:31	Jos.24:31	Jos.24:31	Jos.24:29	Jos.24:29	Jos.24:29			
+OneToOne	Jos.24:29	Jos.24:29	Jos.24:29	Jos.24:30	Jos.24:30	Jos.24:29			
+OneToOne	Jos.24:30	Jos.24:30	Jos.24:30	Jos.24:31	Jos.24:31	Jos.24:30			
+OneToOne	Jos.24:31	Jos.24:31	Jos.24:31	Jos.24:29	Jos.24:29	Jos.24:31			
 OneToOne	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32	Jos.24:32			
 OneToOne	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33	Jos.24:33.0	Jos.24:33			
 OneToOne	Jos.24:33.1	NoVerse	NoVerse	NoVerse	Jos.24:33.1	Jos.24:34			
@@ -4733,13 +4733,9 @@ Greek2	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse nu
 Greek2	Jos.24:33.0	Jos.24:33.0	Renumber verse	Nec. [0]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
 Greek2	Jos.24:33.1	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
 Greek2	Jos.24:33.2	Jos.24:33.2	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:33.1=Exist
-Bulgarian	Jos.24:30	Jos.24:29	Renumber verse	Nec. [30]	%In some Bibles the verse numbering here is% 24:30.		(Hebrew=24:29 • Latin=24:29 • Greek=24:30)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
-Bulgarian	Jos.24:31	Jos.24:30	Renumber verse	Nec. [31]	%In some Bibles the verse numbering here is% 24:31.		(Hebrew=24:30 • Latin=24:30 • Greek=24:31)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
-Bulgarian	Jos.24:29	Jos.24:31	Renumber verse	Nec. [29]	%In some Bibles the verse numbering here is% 24:29.		(Hebrew=24:31 • Latin=24:31 • Greek=24:29)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
-Bulgarian	Jos.24:33	Jos.24:33.0	Keep verse	Nec. [33]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
-Bulgarian	Jos.24:34	Jos.24:33.1	Keep verse	Acd. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:34	Jos.24:33.1	Keep verse	Nec. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
 Bulgarian	Jos.24:35	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
-Bulgarian	Jos.24:36	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew=  • Latin=  • Greek= )	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:36	Jos.24:33.2	Keep verse	Nec. [0]			(Hebrew= -- • Latin= -- • Greek= --)	Jos.24:26<Jos.24:29 & Jos.24:34=Exist
 
 English+Hebrew+Greek	Jdg.5:31	Jdg.5:31	Keep verse	Acd. [31-32]	%In some Bibles the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:31=Last	
 Latin	Jdg.5:31	Jdg.5:31.1	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:32=Last	
