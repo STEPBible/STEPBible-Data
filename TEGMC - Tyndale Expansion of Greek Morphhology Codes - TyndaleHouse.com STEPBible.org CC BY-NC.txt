@@ -354,16 +354,16 @@ A-DSN-S	Function=Adjective; Case=Dative; Number=Singular; Gender=Neuter; Extra=S
 	Adjective Dative Singular Neuter Superlative
 	"DESCRIBING a neuter person or thing that something is done for‚ or in relation to "
 	"giving to a _wise_ nation": "giving to a _wise_ nation"
-ADV	-1	Adverb									
-ADV	-2	Adverb									
-ADV	-3										
-ADV	-4	describing a specific action									
-ADV	-5x	describing a specific action 	1	"it was _wisely_ given"	"it was _wisely_ given"	Adverb	1	Function=Adverb			
-ADV-ARAM	-1	Adverb								Transcribed from Aramaic	
-ADV-ARAM	-2	Adverb								Original language	
-ADV-ARAM	-3										
-ADV-ARAM	-4	describing a specific action								(originally Aramaic)	
-ADV-ARAM	-5x	describing a specific action 	1	"it was _wisely_ given"	"it was _wisely_ given"	Adverb	1 9	Function=Adverb; Original language=Transcribed from Aramaic		
+$
+ADV	Function=Adverb
+	Adverb
+	describing a specific action 
+	"it was _wisely_ given": "it was _wisely_ given"
+$
+ADV-ARAM	Function=Adverb; Original language=Transcribed from Aramaic
+	Adverb
+	describing a specific action 
+	"it was _wisely_ given": "it was _wisely_ given"
 $
 ADV-C	Function=Adverb; Extra=Comparative
 	Adverb Comparative 
@@ -414,11 +414,11 @@ A-GPF-S	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine; Extra
 	Adjective Genitive Plural Feminine Superlative
 	describing female people or things that something belongs to 
 	"teachings of _wise_ women": "something of _wise_ women"
-A-GPF-NUI	-1	Adjective					Genitive	Plural	Feminine	Numeral	
-A-GPF-NUI	-2	Adjective					Case	Number	Gender	Extra	
-A-GPF-NUI	-3	describing people or things					something belongs to them	there are two or more of them	they are female or take a feminine form		
-A-GPF-NUI	-4	describing numerically					that something belongs to	people or things	female	"numerically‚"	
-A-GPF-NUI	-5x	describing numerically female people or things that something belongs to 	154362	"teachings of _ten_ women"	"something of _ten_ women"	Adjective Genitive Plural Feminine	1 6 7 8 9	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine; Extra=Numeral		
+$
+A-GPF-NUI	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine; Extra=Numeral
+	Adjective Genitive Plural Feminine
+	describing numerically female people or things that something belongs to 
+	"teachings of _ten_ women": "something of _ten_ women"
 $
 A-GPM	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine
 	Adjective Genitive Plural Masculine 
@@ -449,11 +449,11 @@ A-GPM-PG	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Nam
 	Adjective Genitive Plural Masculine Person Gentilic
 	DESCRIBING those related to a named person: male people or things that something belongs to 
 	"teachings of _wise_ men": "something of _wise_ men"
-A-GPM-L	-1	Adjective					Genitive	Plural	Masculine	Location	
-A-GPM-L	-2	Adjective					Case	Number	Gender	Name type	
-A-GPM-L	-3	describing people or things					something belongs to them	there are two or more of them	they are male or take a masculine form	the name of a place	
-A-GPM-L	-4	DESCRIBING					that something belongs to	people or things	male		
-A-GPM-L	-5x	describing male people or things that something belongs to 	154362	"teachings of _wise_ men"	"something of _wise_ men"	Adjective Genitive Plural Masculine Location	1 6 7 8 9	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Location		
+$
+A-GPM-L	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Location
+	Adjective Genitive Plural Masculine Location
+	describing male people or things that something belongs to 
+	"teachings of _wise_ men": "something of _wise_ men"
 $
 A-GPM-S	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Extra=Superlative
 	Adjective Genitive Plural Masculine Superlative
@@ -569,16 +569,16 @@ A-NPF	Function=Adjective; Case=Nominative; Number=Plural; Gender=Feminine
 	Adjective Nominative Plural Feminine 
 	describing female people or things that are doing something 
 	" _wise_ women are giving": " _wise_ women are giving"
-A-NPF-NUI	-1	Adjective					Nominative	Plural	Feminine	Numeral	
-A-NPF-NUI	-2	Adjective					Case	Number	Gender	Extra	
-A-NPF-NUI	-3	describing people or things					they are doing something	there are two or more of them	they are female or take a feminine form		
-A-NPF-NUI	-4	DESCRIBING					that are doing something	people or things	female	"numerically‚"	
-A-NPF-NUI	-5x	describing numerically female people or things that are doing something 	154362	" _first_ women are giving"	" _first_ women are giving"	Adjective Nominative Plural Feminine	1 6 7 8 9	Function=Adjective; Case=Nominative; Number=Plural; Gender=Feminine; Extra=Numeral		
-A-NPF-NUI-ABB	-1	Adjective					Nominative	Plural	Feminine	Abbreviated Numeral	
-A-NPF-NUI-ABB	-2	Adjective					Case	Number	Gender	Extra	
-A-NPF-NUI-ABB	-3	describing people or things					they are doing something	there are two or more of them	they are female or take a feminine form		
-A-NPF-NUI-ABB	-4	DESCRIBING					that are doing something	people or things	female	"numerically‚"	
-A-NPF-NUI-ABB	-5x	describing female people or things that are doing something 	154362	" _first_ women are giving"	" _first_ women are giving"	Adjective Nominative Plural Feminine	1 6 7 8 9	Function=Adjective; Case=Nominative; Number=Plural; Gender=Feminine; Extra=Abbreviated Numeral		
+$
+A-NPF-NUI	Function=Adjective; Case=Nominative; Number=Plural; Gender=Feminine; Extra=Numeral
+	Adjective Nominative Plural Feminine
+	describing numerically female people or things that are doing something 
+	" _first_ women are giving": " _first_ women are giving"
+$
+A-NPF-NUI-ABB	Function=Adjective; Case=Nominative; Number=Plural; Gender=Feminine; Extra=Abbreviated Numeral
+	Adjective Nominative Plural Feminine
+	describing female people or things that are doing something 
+	" _first_ women are giving": " _first_ women are giving"
 $
 A-NPF-LG	Function=Adjective; Case=Nominative; Number=Plural; Gender=Feminine; Name type=Location Gentilic
 	Adjective Nominative Plural Feminine Location Gentilic
@@ -604,16 +604,16 @@ A-NPM	Function=Adjective; Case=Nominative; Number=Plural; Gender=Masculine
 	Adjective Nominative Plural Masculine 
 	describing male people or things that are doing something 
 	" _wise_ men are giving": " _wise_ men are giving"
-A-NPM-NUI	-1	Adjective					Nominative	Plural	Masculine	Numeral	
-A-NPM-NUI	-2	Adjective					Case	Number	Gender	Extra	
-A-NPM-NUI	-3	describing people or things					they are doing something	there are two or more of them	they are male or take a masculine form		
-A-NPM-NUI	-4	DESCRIBING					that are doing something	people or things	male	"numerically‚"	
-A-NPM-NUI	-5x	describing numerically male people or things that are doing something 	154362	" _first_ men are giving"	" _first_ men are giving"	Adjective Nominative Plural Masculine	1 6 7 8 9	Function=Adjective; Case=Nominative; Number=Plural; Gender=Masculine; Extra=Numeral		
-A-NPM-NUI-ABB	-1	Adjective					Nominative	Plural	Masculine	Abbreviated Numeral	
-A-NPM-NUI-ABB	-2	Adjective					Case	Number	Gender	Extra	
-A-NPM-NUI-ABB	-3	describing people or things					they are doing something	there are two or more of them	they are male or take a masculine form		
-A-NPM-NUI-ABB	-4	DESCRIBING					that are doing something	people or things	male		
-A-NPM-NUI-ABB	-5x	describing male people or things that are doing something 	154362	" _first_ men are giving"	" _first_ men are giving"	Adjective Nominative Plural Masculine	1 6 7 8 9	Function=Adjective; Case=Nominative; Number=Plural; Gender=Masculine; Extra=Numeral		
+$
+A-NPM-NUI	Function=Adjective; Case=Nominative; Number=Plural; Gender=Masculine; Extra=Numeral
+	Adjective Nominative Plural Masculine
+	describing numerically male people or things that are doing something 
+	" _first_ men are giving": " _first_ men are giving"
+$
+A-NPM-NUI-ABB	Function=Adjective; Case=Nominative; Number=Plural; Gender=Masculine; Extra=Numeral
+	Adjective Nominative Plural Masculine
+	describing male people or things that are doing something 
+	" _first_ men are giving": " _first_ men are giving"
 $
 A-NPM-C	Function=Adjective; Case=Nominative; Number=Plural; Gender=Masculine; Extra=Comparative
 	Adjective Nominative Plural Masculine Comparative
@@ -639,11 +639,11 @@ A-NPN	Function=Adjective; Case=Nominative; Number=Plural; Gender=Neuter
 	Adjective Nominative Plural Neuter 
 	describing neuter people or things that are doing something 
 	" _wise_ nations are giving": " _wise_ nations are giving"
-A-NPN-NUI	-1	Adjective					Nominative	Plural	Neuter	Numeral	
-A-NPN-NUI	-2	Adjective					Case	Number	Gender	Extra	
-A-NPN-NUI	-3	describing people or things					they are doing something	there are two or more of them	they are neuter		
-A-NPN-NUI	-4	DESCRIBING					that are doing something	people or things	neuter	"numerically‚"	
-A-NPN-NUI	-5x	describing numerically neuter people or things that are doing something 	154362	" _first_ nations are giving"	" _first_ nations are giving"	Adjective Nominative Plural Neuter	1 6 7 8 9	Function=Adjective; Case=Nominative; Number=Plural; Gender=Neuter; Extra=Numeral		
+$
+A-NPN-NUI	Function=Adjective; Case=Nominative; Number=Plural; Gender=Neuter; Extra=Numeral
+	Adjective Nominative Plural Neuter
+	describing numerically neuter people or things that are doing something 
+	" _first_ nations are giving": " _first_ nations are giving"
 $
 A-NPN-LG	Function=Adjective; Case=Nominative; Number=Plural; Gender=Neuter; Name type=Location Gentilic
 	Adjective Nominative Plural Neuter Location Gentilic
@@ -1639,11 +1639,11 @@ N-APF	Function=Noun; Case=Accusative; Number=Plural; Gender=Feminine
 	Noun Accusative Plural Feminine 
 	female PEOPLE OR THINGS that are having something done to them 
 	"giving _women_ to them": "giving _women_ to them"
-N-APF-L	-1	Noun					Accusative	Plural	Feminine	Location	
-N-APF-L	-2	Noun					Case	Number	Gender	Name type	
-N-APF-L	-3	objects or concepts or types of people					they are having something done to them	there are two or more of them	they are female or take a feminine form	the name of a place	
-N-APF-L	-4						that are having something done to them	people or things	female		
-N-APF-L	-5x	female LOCATIONS that are having something done to them 	154362	"giving _women_ to them"	"giving _women_ to them"	Noun Accusative Plural Feminine Location	1 6 7 8 9	Function=Noun; Case=Accusative; Number=Plural; Gender=Feminine; Name type=Location		
+$
+N-APF-L	Function=Noun; Case=Accusative; Number=Plural; Gender=Feminine; Name type=Location
+	Noun Accusative Plural Feminine Location
+	female LOCATIONS that are having something done to them 
+	"giving _women_ to them": "giving _women_ to them"
 $
 N-APF-C	Function=Noun; Case=Accusative; Number=Plural; Gender=Feminine; Extra=Contracted form
 	Noun Accusative Plural Feminine Contracted form
@@ -1674,11 +1674,11 @@ N-APM-LG	Function=Noun; Case=Accusative; Number=Plural; Gender=Masculine; Name t
 	Noun Accusative Plural Masculine Location Gentilic
 	from a named place: male PEOPLE OR THINGS that are having something done to them 
 	"giving _men_ to them": "giving _men_ to them"
-N-APM-L	-1	Noun					Accusative	Plural	Masculine	Location	
-N-APM-L	-2	Noun					Case	Number	Gender	Name type	
-N-APM-L	-3	objects or concepts or types of people					they are having something done to them	there are two or more of them	they are male or take a masculine form	the name of a place	
-N-APM-L	-4						that are having something done to them	people or things	male		
-N-APM-L	-5x	male LOCATIONS that are having something done to them 	154362	"giving _men_ to them"	"giving _men_ to them"	Noun Accusative Plural Masculine Location 	1 6 7 8 9	Function=Noun; Case=Accusative; Number=Plural; Gender=Masculine; Name type=Location 		
+$
+N-APM-L	Function=Noun; Case=Accusative; Number=Plural; Gender=Masculine; Name type=Location 
+	Noun Accusative Plural Masculine Location 
+	male LOCATIONS that are having something done to them 
+	"giving _men_ to them": "giving _men_ to them"
 $
 N-APM-P	Function=Noun; Case=Accusative; Number=Plural; Gender=Masculine; Name type=Individual
 	Noun Accusative Plural Masculine Individual
@@ -1689,11 +1689,11 @@ N-APN	Function=Noun; Case=Accusative; Number=Plural; Gender=Neuter
 	Noun Accusative Plural Neuter 
 	neuter PEOPLE OR THINGS that are having something done to them 
 	"giving _nations_ to them": "giving _nations_ to them"
-N-APN-L	-1	Noun					Accusative	Plural	Neuter	Location	
-N-APN-L	-2	Noun					Case	Number	Gender	Name type	
-N-APN-L	-3	objects or concepts or types of people					they are having something done to them	there are two or more of them	they are neuter	the name of a place	
-N-APN-L	-4						that are having something done to them	people or things	neuter		
-N-APN-L	-5x	neuter LOCATIONS that are having something done to them 	154362	"giving _nations_ to them"	"giving _nations_ to them"	Noun Accusative Plural Neuter Location 	1 6 7 8 9	Function=Noun; Case=Accusative; Number=Plural; Gender=Neuter; Name type=Location		
+$
+N-APN-L	Function=Noun; Case=Accusative; Number=Plural; Gender=Neuter; Name type=Location
+	Noun Accusative Plural Neuter Location 
+	neuter LOCATIONS that are having something done to them 
+	"giving _nations_ to them": "giving _nations_ to them"
 $
 N-APN-C	Function=Noun; Case=Accusative; Number=Plural; Gender=Neuter; Extra=Contracted form
 	Noun Accusative Plural Neuter Contracted form
@@ -1719,11 +1719,11 @@ N-ASF-C	Function=Noun; Case=Accusative; Number=Singular; Gender=Feminine; Extra=
 	Noun Accusative Singular Feminine Contracted form
 	a female PERSON OR THING that is having something done to them 
 	"giving a _woman_ to them": "giving a _woman_ to them"
-N-ASF-L	-1	Noun					Accusative	Singular	Feminine	Location	
-N-ASF-L	-2	Noun					Case	Number	Gender	Name type	
-N-ASF-L	-3	an object or concept or type of person					they are having something done to them	there is only one of them	they are female or take a feminine form	the name of a place	
-N-ASF-L	-4						that is having something done to them	person or thing	a female		
-N-ASF-L	-5x	a female LOCATION that is having something done to them 	154362	"giving a _woman_ to them"	"giving a _woman_ to them"	Noun Accusative Singular Feminine Location 	1 6 7 8 9	Function=Noun; Case=Accusative; Number=Singular; Gender=Feminine; Name type=Location					
+$
+N-ASF-L	Function=Noun; Case=Accusative; Number=Singular; Gender=Feminine; Name type=Location
+	Noun Accusative Singular Feminine Location 
+	a female LOCATION that is having something done to them 
+	"giving a _woman_ to them": "giving a _woman_ to them"
 $
 N-ASF-P	Function=Noun; Case=Accusative; Number=Singular; Gender=Feminine; Name type=Individual
 	Noun Accusative Singular Feminine Individual
@@ -1739,11 +1739,11 @@ N-ASM-LG	Function=Noun; Case=Accusative; Number=Singular; Gender=Masculine; Name
 	Noun Accusative Singular Masculine Location Gentilic
 	from a named place: a male PERSON OR THING that is having something done to them 
 	"giving a _man_ to them": "giving a _man_ to them"
-N-ASM-L	-1	Noun					Accusative	Singular	Masculine	Location	
-N-ASM-L	-2	Noun					Case	Number	Gender	Name type	
-N-ASM-L	-3	an object or concept or type of person					they are having something done to them	there is only one of them	they are male or take a masculine form	the name of a place	
-N-ASM-L	-4						that is having something done to them	person or thing	a male		
-N-ASM-L	-5x	a male LOCATION that is having something done to them 	154362	"giving a _man_ to them"	"giving a _man_ to them"	Noun Accusative Singular Masculine Location 	1 6 7 8 9	Function=Noun; Case=Accusative; Number=Singular; Gender=Masculine; Name type=Location		
+$
+N-ASM-L	Function=Noun; Case=Accusative; Number=Singular; Gender=Masculine; Name type=Location
+	Noun Accusative Singular Masculine Location 
+	a male LOCATION that is having something done to them 
+	"giving a _man_ to them": "giving a _man_ to them"
 $
 N-ASM-P	Function=Noun; Case=Accusative; Number=Singular; Gender=Masculine; Name type=Individual
 	Noun Accusative Singular Masculine Individual
@@ -1759,11 +1759,11 @@ N-ASN	Function=Noun; Case=Accusative; Number=Singular; Gender=Neuter
 	Noun Accusative Singular Neuter 
 	a neuter PERSON OR THING that is having something done to them 
 	"giving a _nation_ to them": "giving a _nation_ to them"
-N-ASN-L	-1	Noun					Accusative	Singular	Neuter	Location	
-N-ASN-L	-2	Noun					Case	Number	Gender	Name type	
-N-ASN-L	-3	an object or concept or type of person					they are having something done to them	there is only one of them	they are neuter	the name of a place	
-N-ASN-L	-4						that is having something done to them	person or thing	a neuter		
-N-ASN-L	-5x	a neuter LOCATION that is having something done to them 	154362	"giving a _nation_ to them"	"giving a _nation_ to them"	Noun Accusative Singular Neuter Location 	1 6 7 8 9	Function=Noun; Case=Accusative; Number=Singular; Gender=Neuter; Name type=Location		
+$
+N-ASN-L	Function=Noun; Case=Accusative; Number=Singular; Gender=Neuter; Name type=Location
+	Noun Accusative Singular Neuter Location 
+	a neuter LOCATION that is having something done to them 
+	"giving a _nation_ to them": "giving a _nation_ to them"
 $
 N-ASN-HEB	Function=Noun; Original language=Transcribed from Hebrew; Case=Accusative; Number=Singular; Gender=Neuter
 	Noun Transcribed from Hebrew Accusative Singular Neuter 
@@ -1779,11 +1779,11 @@ N-DPF	Function=Noun; Case=Dative; Number=Plural; Gender=Feminine
 	Noun Dative Plural Feminine 
 	"female PEOPLE OR THINGS that something is done for‚ or in relation to "
 	"giving them to _women_": "giving them to _women_"
-N-DPF-L	-1	Noun					Dative	Plural	Feminine	Location	
-N-DPF-L	-2	Noun					Case	Number	Gender	Name type	
-N-DPF-L	-3	objects or concepts or types of people					something is being done for them or relating to them	there are two or more of them	they are female or take a feminine form	the name of a place	
-N-DPF-L	-4						"that something is done for‚ or in relation to"	people or things	female		
-N-DPF-L	-5x	"female LOCATIONS that something is done for‚ or in relation to "	154362	"giving them to _women_"	"giving them to _women_"	Noun Dative Plural Feminine Location 	1 6 7 8 9	Function=Noun; Case=Dative; Number=Plural; Gender=Feminine; Name type=Location		
+$
+N-DPF-L	Function=Noun; Case=Dative; Number=Plural; Gender=Feminine; Name type=Location
+	Noun Dative Plural Feminine Location 
+	"female LOCATIONS that something is done for‚ or in relation to "
+	"giving them to _women_": "giving them to _women_"
 $
 N-DPF-P	Function=Noun; Case=Dative; Number=Plural; Gender=Feminine; Name type=Individual
 	Noun Dative Plural Feminine Individual
@@ -1804,11 +1804,11 @@ N-DPM-LG	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=
 	Noun Dative Plural Masculine Location Gentilic
 	"from a named place: male PEOPLE OR THINGS that something is done for‚ or in relation to "
 	"giving them to _men_": "giving them to _men_"
-N-DPM-L	-1	Noun					Dative	Plural	Masculine	Location	
-N-DPM-L	-2	Noun					Case	Number	Gender	Name type	
-N-DPM-L	-3	objects or concepts or types of people					something is being done for them or relating to them	there are two or more of them	they are male or take a masculine form	the name of a place	
-N-DPM-L	-4						"that something is done for‚ or in relation to"	people or things	male		
-N-DPM-L	-5x	"male LOCATIONS that something is done for‚ or in relation to "	154362	"giving them to _men_"	"giving them to _men_"	Noun Dative Plural Masculine Location 	1 6 7 8 9	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Location 		
+$
+N-DPM-L	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Location 
+	Noun Dative Plural Masculine Location 
+	"male LOCATIONS that something is done for‚ or in relation to "
+	"giving them to _men_": "giving them to _men_"
 $
 N-DPM-G	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Gentilic
 	Noun Dative Plural Masculine Gentilic
@@ -1824,11 +1824,11 @@ N-DPN	Function=Noun; Case=Dative; Number=Plural; Gender=Neuter
 	Noun Dative Plural Neuter 
 	"neuter PEOPLE OR THINGS that something is done for‚ or in relation to "
 	"giving them to _nations_": "giving them to _nations_"
-N-DPN-L	-1	Noun					Dative	Plural	Neuter	Location	
-N-DPN-L	-2	Noun					Case	Number	Gender	Name type	
-N-DPN-L	-3	objects or concepts or types of people					something is being done for them or relating to them	there are two or more of them	they are neuter	the name of a place	
-N-DPN-L	-4						"that something is done for‚ or in relation to"	people or things	neuter		
-N-DPN-L	-5x	"neuter LOCATIONS that something is done for‚ or in relation to "	154362	"giving them to _nations_"	"giving them to _nations_"	Noun Dative Plural Neuter Location 	1 6 7 8 9	Function=Noun; Case=Dative; Number=Plural; Gender=Neuter; Name type=Location		
+$
+N-DPN-L	Function=Noun; Case=Dative; Number=Plural; Gender=Neuter; Name type=Location
+	Noun Dative Plural Neuter Location 
+	"neuter LOCATIONS that something is done for‚ or in relation to "
+	"giving them to _nations_": "giving them to _nations_"
 $
 N-DPN-P	Function=Noun; Case=Dative; Number=Plural; Gender=Neuter; Name type=Individual
 	Noun Dative Plural Neuter Individual
@@ -1849,11 +1849,11 @@ N-DSF-LG	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type
 	Noun Dative Singular Feminine Location Gentilic
 	"from a named place: a female PERSON OR THING that something is done for‚ or in relation to "
 	"giving them to a _woman_": "giving them to a _woman_"
-N-DSF-L	-1	Noun					Dative	Singular	Feminine	Location	
-N-DSF-L	-2	Noun					Case	Number	Gender	Name type	
-N-DSF-L	-3	an object or concept or type of person					something is being done for them or relating to them	there is only one of them	they are female or take a feminine form	the name of a place	
-N-DSF-L	-4						"that something is done for‚ or in relation to"	person or thing	a female		
-N-DSF-L	-5x	"a female LOCATION that something is done for‚ or in relation to "	154362	"giving them to a _woman_"	"giving them to a _woman_"	Noun Dative Singular Feminine Location 	1 6 7 8 9	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type=Location 		
+$
+N-DSF-L	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type=Location 
+	Noun Dative Singular Feminine Location 
+	"a female LOCATION that something is done for‚ or in relation to "
+	"giving them to a _woman_": "giving them to a _woman_"
 $
 N-DSF-P	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type=Individual
 	Noun Dative Singular Feminine Individual
@@ -1869,11 +1869,11 @@ N-DSM-LG	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Name typ
 	Noun Dative Singular Masculine Location Gentilic
 	"from a named place: a male PERSON OR THING that something is done for‚ or in relation to "
 	"giving them to a _man_": "giving them to a _man_"
-N-DSM-L	-1	Noun					Dative	Singular	Masculine	Location	
-N-DSM-L	-2	Noun					Case	Number	Gender	Name type	
-N-DSM-L	-3	an object or concept or type of person					something is being done for them or relating to them	there is only one of them	they are male or take a masculine form	the name of a place	
-N-DSM-L	-4						"that something is done for‚ or in relation to"	person or thing	a male		
-N-DSM-L	-5x	"a male LOCATION that something is done for‚ or in relation to "	154362	"giving them to a _man_"	"giving them to a _man_"	Noun Dative Singular Masculine Location 	1 6 7 8 9	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Name type=Location 		
+$
+N-DSM-L	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Name type=Location 
+	Noun Dative Singular Masculine Location 
+	"a male LOCATION that something is done for‚ or in relation to "
+	"giving them to a _man_": "giving them to a _man_"
 $
 N-DSM-P	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Name type=Individual
 	Noun Dative Singular Masculine Individual
@@ -1889,11 +1889,11 @@ N-DSN	Function=Noun; Case=Dative; Number=Singular; Gender=Neuter
 	Noun Dative Singular Neuter 
 	"a neuter PERSON OR THING that something is done for‚ or in relation to "
 	"giving them to a _nation_": "giving them to a _nation_"
-N-DSN-L	-1	Noun					Dative	Singular	Neuter	Location	
-N-DSN-L	-2	Noun					Case	Number	Gender	Name type	
-N-DSN-L	-3	an object or concept or type of person					something is being done for them or relating to them	there is only one of them	they are neuter	the name of a place	
-N-DSN-L	-4						"that something is done for‚ or in relation to"	person or thing	a neuter		
-N-DSN-L	-5x	"a neuter LOCATION that something is done for‚ or in relation to "	154362	"giving them to a _nation_"	"giving them to a _nation_"	Noun Dative Singular Neuter Location 	1 6 7 8 9	Function=Noun; Case=Dative; Number=Singular; Gender=Neuter; Name type=Location		
+$
+N-DSN-L	Function=Noun; Case=Dative; Number=Singular; Gender=Neuter; Name type=Location
+	Noun Dative Singular Neuter Location 
+	"a neuter LOCATION that something is done for‚ or in relation to "
+	"giving them to a _nation_": "giving them to a _nation_"
 $
 N-DSN-P	Function=Noun; Case=Dative; Number=Singular; Gender=Neuter; Name type=Individual
 	Noun Dative Singular Neuter Individual
@@ -1909,11 +1909,11 @@ N-GPF-LG	Function=Noun; Case=Genitive; Number=Plural; Gender=Feminine; Name type
 	Noun Genitive Plural Feminine Location Gentilic
 	from a named place: female PEOPLE OR THINGS that something belongs to 
 	"giving teachings of _women_": "giving something of _women_"
-N-GPF-L	-1	Noun					Genitive	Plural	Feminine	Location	
-N-GPF-L	-2	Noun					Case	Number	Gender	Name type	
-N-GPF-L	-3	objects or concepts or types of people					something belongs to them	there are two or more of them	they are female or take a feminine form	the name of a place	
-N-GPF-L	-4						that something belongs to	people or things	female		
-N-GPF-L	-5x	female LOCATIONS that something belongs to 	154362	"giving teachings of _women_"	"giving something of _women_"	Noun Genitive Plural Feminine Location 	1 6 7 8 9	Function=Noun; Case=Genitive; Number=Plural; Gender=Feminine; Name type=Location 		
+$
+N-GPF-L	Function=Noun; Case=Genitive; Number=Plural; Gender=Feminine; Name type=Location 
+	Noun Genitive Plural Feminine Location 
+	female LOCATIONS that something belongs to 
+	"giving teachings of _women_": "giving something of _women_"
 $
 N-GPF-P	Function=Noun; Case=Genitive; Number=Plural; Gender=Feminine; Name type=Individual
 	Noun Genitive Plural Feminine Individual
@@ -1934,11 +1934,11 @@ N-GPM-LG	Function=Noun; Case=Genitive; Number=Plural; Gender=Masculine; Name typ
 	Noun Genitive Plural Masculine Location Gentilic
 	from a named place: male PEOPLE OR THINGS that something belongs to 
 	"giving teachings of _men_": "giving something of _men_"
-N-GPM-L	-1	Noun					Genitive	Plural	Masculine	Location	
-N-GPM-L	-2	Noun					Case	Number	Gender	Name type	
-N-GPM-L	-3	objects or concepts or types of people					something belongs to them	there are two or more of them	they are male or take a masculine form	the name of a place	
-N-GPM-L	-4						that something belongs to	people or things	male		
-N-GPM-L	-5x	male LOCATIONS that something belongs to 	154362	"giving teachings of _men_"	"giving something of _men_"	Noun Genitive Plural Masculine Location 	1 6 7 8 9	Function=Noun; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Location 		
+$
+N-GPM-L	Function=Noun; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Location 
+	Noun Genitive Plural Masculine Location 
+	male LOCATIONS that something belongs to 
+	"giving teachings of _men_": "giving something of _men_"
 $
 N-GPM-P	Function=Noun; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Individual
 	Noun Genitive Plural Masculine Individual
@@ -1954,11 +1954,11 @@ N-GPN	Function=Noun; Case=Genitive; Number=Plural; Gender=Neuter
 	Noun Genitive Plural Neuter 
 	neuter PEOPLE OR THINGS that something belongs to 
 	"giving teachings of _nations_": "giving something of _nations_"
-N-GPN-L	-1	Noun					Genitive	Plural	Neuter	Location	
-N-GPN-L	-2	Noun					Case	Number	Gender	Name type	
-N-GPN-L	-3	objects or concepts or types of people					something belongs to them	there are two or more of them	they are neuter	the name of a place	
-N-GPN-L	-4						that something belongs to	people or things	neuter		
-N-GPN-L	-5x	neuter LOCATIONS that something belongs to 	154362	"giving teachings of _nations_"	"giving something of _nations_"	Noun Genitive Plural Neuter Location	1 6 7 8 9	Function=Noun; Case=Genitive; Number=Plural; Gender=Neuter; Name type=Location		
+$
+N-GPN-L	Function=Noun; Case=Genitive; Number=Plural; Gender=Neuter; Name type=Location
+	Noun Genitive Plural Neuter Location
+	neuter LOCATIONS that something belongs to 
+	"giving teachings of _nations_": "giving something of _nations_"
 $
 N-GPN-P	Function=Noun; Case=Genitive; Number=Plural; Gender=Neuter; Name type=Individual
 	Noun Genitive Plural Neuter Individual
@@ -1974,11 +1974,11 @@ N-GSF-LG	Function=Noun; Case=Genitive; Number=Singular; Gender=Feminine; Name ty
 	Noun Genitive Singular Feminine Location Gentilic
 	from a named place: a female PERSON OR THING that something belongs to 
 	"giving teachings of a _woman_": "giving something of a _woman_"
-N-GSF-L	-1	Noun					Genitive	Singular	Feminine	Location	
-N-GSF-L	-2	Noun					Case	Number	Gender	Name type	
-N-GSF-L	-3	an object or concept or type of person					something belongs to them	there is only one of them	they are female or take a feminine form	the name of a place	
-N-GSF-L	-4						that something belongs to	person or thing	a female		
-N-GSF-L	-5x	a female LOCATION that something belongs to 	154362	"giving teachings of a _woman_"	"giving something of a _woman_"	Noun Genitive Singular Feminine Location 	1 6 7 8 9	Function=Noun; Case=Genitive; Number=Singular; Gender=Feminine; Name type=Location 		
+$
+N-GSF-L	Function=Noun; Case=Genitive; Number=Singular; Gender=Feminine; Name type=Location 
+	Noun Genitive Singular Feminine Location 
+	a female LOCATION that something belongs to 
+	"giving teachings of a _woman_": "giving something of a _woman_"
 $
 N-GSF-P	Function=Noun; Case=Genitive; Number=Singular; Gender=Feminine; Name type=Individual
 	Noun Genitive Singular Feminine Individual
@@ -2009,11 +2009,11 @@ N-GSM-G	Function=Noun; Case=Genitive; Number=Singular; Gender=Masculine; Name ty
 	Noun Genitive Singular Masculine Gentilic
 	a member of a named group: a male PERSON OR THING that something belongs to 
 	"giving teachings of a _man_": "giving something of a _man_"
-N-GSM-L	-1	Noun					Genitive	Singular	Masculine	Location	
-N-GSM-L	-2	Noun					Case	Number	Gender	Name type	
-N-GSM-L	-3	an object or concept or type of person					something belongs to them	there is only one of them	they are male or take a masculine form	the name of a place	
-N-GSM-L	-4						that something belongs to	person or thing	a male		
-N-GSM-L	-5x	a male LOCATION that something belongs to 	154362	"giving teachings of a _man_"	"giving something of a _man_"	Noun Genitive Singular Masculine Location 	1 6 7 8 9	Function=Noun; Case=Genitive; Number=Singular; Gender=Masculine; Name type=Location 		
+$
+N-GSM-L	Function=Noun; Case=Genitive; Number=Singular; Gender=Masculine; Name type=Location 
+	Noun Genitive Singular Masculine Location 
+	a male LOCATION that something belongs to 
+	"giving teachings of a _man_": "giving something of a _man_"
 $
 N-GSM-P	Function=Noun; Case=Genitive; Number=Singular; Gender=Masculine; Name type=Individual
 	Noun Genitive Singular Masculine Individual
@@ -2029,11 +2029,11 @@ N-GSN	Function=Noun; Case=Genitive; Number=Singular; Gender=Neuter
 	Noun Genitive Singular Neuter 
 	a neuter PERSON OR THING that something belongs to 
 	"giving teachings of a _nation_": "giving something of a _nation_"
-N-GSN-L	-1	Noun					Genitive	Singular	Neuter	Location	
-N-GSN-L	-2	Noun					Case	Number	Gender	Name type	
-N-GSN-L	-3	an object or concept or type of person					something belongs to them	there is only one of them	they are neuter	the name of a place	
-N-GSN-L	-4						that something belongs to	person or thing	a neuter		
-N-GSN-L	-5x	a neuter LOCATION that something belongs to 	154362	"giving teachings of a _nation_"	"giving something of a _nation_"	Noun Genitive Singular Neuter Location 	1 6 7 8 9	Function=Noun; Case=Genitive; Number=Singular; Gender=Neuter; Name type=Location		
+$
+N-GSN-L	Function=Noun; Case=Genitive; Number=Singular; Gender=Neuter; Name type=Location
+	Noun Genitive Singular Neuter Location 
+	a neuter LOCATION that something belongs to 
+	"giving teachings of a _nation_": "giving something of a _nation_"
 $
 N-GSN-HEB	Function=Noun; Original language=Transcribed from Hebrew; Case=Genitive; Number=Singular; Gender=Neuter
 	Noun Transcribed from Hebrew Genitive Singular Neuter 
@@ -2069,11 +2069,11 @@ N-NPM-LG	Function=Noun; Case=Nominative; Number=Plural; Gender=Masculine; Name t
 	Noun Nominative Plural Masculine Location Gentilic
 	from a named place: male PEOPLE OR THINGS that are doing something 
 	" _men_ giving teachings": " _men_ giving teachings"
-N-NPM-L	-1	Noun					Nominative	Plural	Masculine	Location	
-N-NPM-L	-2	Noun					Case	Number	Gender	Name type	
-N-NPM-L	-3	objects or concepts or types of people					they are doing something	there are two or more of them	they are male or take a masculine form	the name of a place	
-N-NPM-L	-4						that are doing something	people or things	male		
-N-NPM-L	-5x	male LOCATIONS that are doing something 	154362	" _men_ giving teachings"	" _men_ giving teachings"	Noun Nominative Plural Masculine Location 	1 6 7 8 9	Function=Noun; Case=Nominative; Number=Plural; Gender=Masculine; Name type=Location 		
+$
+N-NPM-L	Function=Noun; Case=Nominative; Number=Plural; Gender=Masculine; Name type=Location 
+	Noun Nominative Plural Masculine Location 
+	male LOCATIONS that are doing something 
+	" _men_ giving teachings": " _men_ giving teachings"
 $
 N-NPM-G	Function=Noun; Case=Nominative; Number=Plural; Gender=Masculine; Name type=Gentilic
 	Noun Nominative Plural Masculine Gentilic
@@ -2099,11 +2099,11 @@ N-NPN-T	Function=Noun; Case=Nominative; Number=Plural; Gender=Neuter; Name type=
 	Noun Nominative Plural Neuter Title
 	a proper name of neuter PEOPLE OR THINGS that are doing something 
 	" _nations_ giving teachings": " _nations_ giving teachings"
-N-NPN-L	-1	Noun					Nominative	Plural	Neuter	Location	
-N-NPN-L	-2	Noun					Case	Number	Gender	Name type	
-N-NPN-L	-3	objects or concepts or types of people					they are doing something	there are two or more of them	they are neuter	the name of a place	
-N-NPN-L	-4						that are doing something	people or things	neuter		
-N-NPN-L	-5x	neuter LOCATIONS that are doing something 	154362	" _nations_ giving teachings"	" _nations_ giving teachings"	Noun Nominative Plural Neuter Location 	1 6 7 8 9	Function=Noun; Case=Nominative; Number=Plural; Gender=Neuter; Name type=Location		
+$
+N-NPN-L	Function=Noun; Case=Nominative; Number=Plural; Gender=Neuter; Name type=Location
+	Noun Nominative Plural Neuter Location 
+	neuter LOCATIONS that are doing something 
+	" _nations_ giving teachings": " _nations_ giving teachings"
 $
 N-NPN-P	Function=Noun; Case=Nominative; Number=Plural; Gender=Neuter; Name type=Individual
 	Noun Nominative Plural Neuter Individual
@@ -2124,11 +2124,11 @@ N-NSF-LG	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Name 
 	Noun Nominative Singular Feminine Location Gentilic
 	from a named place: a female PERSON OR THING that is doing something 
 	"a _woman_ giving teachings": "a _woman_ giving teachings"
-N-NSF-L	-1	Noun					Nominative	Singular	Feminine	Location	
-N-NSF-L	-2	Noun					Case	Number	Gender	Name type	
-N-NSF-L	-3	an object or concept or type of person					they are doing something	there is only one of them	they are female or take a feminine form	the name of a place	
-N-NSF-L	-4						that is doing something	person or thing	a female		
-N-NSF-L	-5x	a female LOCATION that is doing something 	154362	"a _woman_ giving teachings"	"a _woman_ giving teachings"	Noun Nominative Singular Feminine Location 	1 6 7 8 9	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Name type=Location 		
+$
+N-NSF-L	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Name type=Location 
+	Noun Nominative Singular Feminine Location 
+	a female LOCATION that is doing something 
+	"a _woman_ giving teachings": "a _woman_ giving teachings"
 $
 N-NSF-P	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Name type=Individual
 	Noun Nominative Singular Feminine Individual
@@ -2164,11 +2164,11 @@ N-NSM-G	Function=Noun; Case=Nominative; Number=Singular; Gender=Masculine; Name 
 	Noun Nominative Singular Masculine Gentilic
 	a member of a named group: a male PERSON OR THING that is doing something 
 	"a _man_ giving teachings": "a _man_ giving teachings"
-N-NSM-L	-1	Noun					Nominative	Singular	Masculine	Location	
-N-NSM-L	-2	Noun					Case	Number	Gender	Name type	
-N-NSM-L	-3	an object or concept or type of person					they are doing something	there is only one of them	they are male or take a masculine form	the name of a place	
-N-NSM-L	-4						that is doing something	a person or thing			
-N-NSM-L	-5x	a male LOCATION that is doing something	154362	"a _man_ giving teachings"	"a _man_ giving teachings"	Noun Nominative Singular Masculine Location 	1 6 7 8 9	Function=Noun; Case=Nominative; Number=Singular; Gender=Masculine; Name type=Location 		
+$
+N-NSM-L	Function=Noun; Case=Nominative; Number=Singular; Gender=Masculine; Name type=Location 
+	Noun Nominative Singular Masculine Location 
+	a male LOCATION that is doing something
+	"a _man_ giving teachings": "a _man_ giving teachings"
 $
 N-NSM-P	Function=Noun; Case=Nominative; Number=Singular; Gender=Masculine; Name type=Individual
 	Noun Nominative Singular Masculine Individual
@@ -2194,11 +2194,11 @@ N-NSN-T	Function=Noun; Case=Nominative; Number=Singular; Gender=Neuter; Name typ
 	Noun Nominative Singular Neuter Title
 	a proper name of a neuter PERSON OR THING that is doing something 
 	"a _nation_ giving teachings": "a _nation_ giving teachings"
-N-NSN-L	-1	Noun					Nominative	Singular	Neuter	Location	
-N-NSN-L	-2	Noun					Case	Number	Gender	Name type	
-N-NSN-L	-3	an object or concept or type of person					they are doing something	there is only one of them	they are neuter	the name of a place	
-N-NSN-L	-4						that is doing something	person or thing	a neuter		
-N-NSN-L	-5x	a neuter LOCATION that is doing something 	154362	"a _nation_ giving teachings"	"a _nation_ giving teachings"	Noun Nominative Singular Neuter Location 	1 6 7 8 9	Function=Noun; Case=Nominative; Number=Singular; Gender=Neuter; Name type=Title; Name type=Location		
+$
+N-NSN-L	Function=Noun; Case=Nominative; Number=Singular; Gender=Neuter; Name type=Title; Name type=Location
+	Noun Nominative Singular Neuter Location 
+	a neuter LOCATION that is doing something 
+	"a _nation_ giving teachings": "a _nation_ giving teachings"
 $
 N-NSN-LI	Function=Noun; Extra=Indeclinable Letter; Case=Nominative; Number=Singular; Gender=Neuter
 	Noun Indeclinable Letter Nominative Singular Neuter 
@@ -2225,105 +2225,100 @@ N-PRI	Function=Indeclinable Proper Noun; Indeclinable=
 	a name
 	"_Mary_": "_Mary_"
 $
-NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
-	Adjective Indeclinable Numeral 
-	describing a number
-	"the _first_ gift": "the _first_ gift"
-N-VPF	-1	Noun					Vocative	Plural	Feminine		
-N-VPF	-2	Noun					Case	Number	Gender		
-N-VPF	-3	objects or concepts or types of people					they are being addressed or spoken to	there are two or more of them	they are female or take a feminine form		
-N-VPF	-4						that are being addressed	people or things	female		
-N-VPF	-5x	female PEOPLE OR THINGS that are being addressed 	154362	listen to me	" O _women_"	Noun Vocative Plural Feminine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Plural; Gender=Feminine		
-N-VPM	-1	Noun					Vocative	Plural	Masculine		
-N-VPM	-2	Noun					Case	Number	Gender		
-N-VPM	-3	objects or concepts or types of people					they are being addressed or spoken to	there are two or more of them	they are male or take a masculine form		
-N-VPM	-4						that are being addressed	people or things	male		
-N-VPM	-5x	male PEOPLE OR THINGS that are being addressed 	154362	listen to me	" O _men_"	Noun Vocative Plural Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine		
-N-VPM-PG	-1	Noun					Vocative	Plural	Masculine	Person Gentilic	
-N-VPM-PG	-2	Noun					Case	Number	Gender	Name type	
-N-VPM-PG	-3	objects or concepts or types of people					they are being addressed or spoken to	there are two or more of them	they are male or take a masculine form	they are of a group related to this person	
-N-VPM-PG	-4						that are being addressed	people or things	male		
-N-VPM-PG	-5x	male PEOPLE OR THINGS that are being addressed 	154362	listen to me	O men	Noun Vocative Plural Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Person Gentilic		
-N-VPM-LG	-1	Noun					Vocative	Plural	Masculine	Location Gentilic	
-N-VPM-LG	-2	Noun					Case	Number	Gender	Name type	
-N-VPM-LG	-3	objects or concepts or types of people					they are being addressed or spoken to	there are two or more of them	they are male or take a masculine form	they are of a group who come from this place	
-N-VPM-LG	-4						that are being addressed	people or things	male	from a named place: 	
-N-VPM-LG	-5x	from a named place: male PEOPLE OR THINGS that are being addressed 	7154362	listen to me	" O _men_"	Noun Vocative Plural Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Location Gentilic		
-N-VPM-P	-1	Noun					Vocative	Plural	Masculine	Individual	
-N-VPM-P	-2	Noun					Case	Number	Gender	Name type	
-N-VPM-P	-3	objects or concepts or types of people					they are being addressed or spoken to	there are two or more of them	they are male or take a masculine form	the name of an individual	
-N-VPM-P	-4						that are being addressed	people	male		
-N-VPM-P	-5x	male PEOPLE that are being addressed 	154362	listen to me	" O _men_"	Noun Vocative Plural Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Individual		
-N-VPM-T	-1	Noun					Vocative	Plural	Masculine	Title	
-N-VPM-T	-2	Noun					Case	Number	Gender	Name type	
-N-VPM-T	-3	objects or concepts or types of people					they are being addressed or spoken to	there are two or more of them	they are male or take a masculine form	a title or proper name	
-N-VPM-T	-4						that are being addressed	people or things	male	a proper name of 	
-N-VPM-T	-5x	a proper name of male PEOPLE OR THINGS that are being addressed 	7154362	listen to me	" O _men_"	Noun Vocative Plural Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Title		
-N-VPN	-1	Noun					Vocative	Plural	Neuter		
-N-VPN	-2	Noun					Case	Number	Gender		
-N-VPN	-3	objects or concepts or types of people					they are being addressed or spoken to	there are two or more of them	they are neuter		
-N-VPN	-4						that are being addressed	people or things	neuter		
-N-VPN	-5x	neuter PEOPLE OR THINGS that are being addressed 	154362	listen to me	" O _nations_"	Noun Vocative Plural Neuter 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Plural; Gender=Neuter		
-N-VSF	-1	Noun					Vocative	Singular	Feminine		
-N-VSF	-2	Noun					Case	Number	Gender		
-N-VSF	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are female or take a feminine form		
-N-VSF	-4						that is being addressed	person or thing	a female		
-N-VSF	-5x	a female PERSON OR THING that is being addressed 	154362	listen to me	" O _woman_"	Noun Vocative Singular Feminine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine		
-N-VSF-ARAM	-1	Noun					Vocative	Singular	Feminine	Transcribed from Aramaic	
-N-VSF-ARAM	-2	Noun					Case	Number	Gender	Original language	
-N-VSF-ARAM	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are female or take a feminine form		
-N-VSF-ARAM	-4x		(originally Aramaic)				that is being addressed	person or thing	a female		
-N-VSF-ARAM	-5x	a female PERSON OR THING that is being addressed 	154362	listen to me	" O _woman_"	Noun Vocative Singular Feminine Transcribed from Aramaic	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine; Original language=Title Transcribed from Aramaic		
-N-VSF-L	-1	Noun					Vocative	Singular	Feminine	Location	
-N-VSF-L	-2	Noun					Case	Number	Gender	Name type	
-N-VSF-L	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are female or take a feminine form	the name of a place	
-N-VSF-L	-4						that is being addressed	person or thing	a female		
-N-VSF-L	-5x	a female LOCATION that is being addressed 	154362	listen to me	" O _woman_"	Noun Vocative Singular Feminine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine		
-N-VSF-P	-1	Noun					Vocative	Singular	Feminine	Individual	
-N-VSF-P	-2	Noun					Case	Number	Gender	Name type	
-N-VSF-P	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are female or take a feminine form	the name of an individual	
-N-VSF-P	-4						that is being addressed	person	a female		
-N-VSF-P	-5x	a female PERSON that is being addressed 	154362	listen to me	" O _woman_"	Noun Vocative Singular Feminine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine		
-N-VSM	-1	Noun					Vocative	Singular	Masculine		
-N-VSM	-2	Noun					Case	Number	Gender		
-N-VSM	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are male or take a masculine form		
-N-VSM	-4						that is being addressed	person or thing	a male		
-N-VSM	-5x	a male PERSON OR THING that is being addressed 	154362	listen to me	" O _man_"	Noun Vocative Singular Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine		
-N-VSM-ARAM	-1	Noun					Vocative	Singular	Masculine	Transcribed from Aramaic	
-N-VSM-ARAM	-2	Noun					Case	Number	Gender	Original language	
-N-VSM-ARAM	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are male or take a masculine form		
-N-VSM-ARAM	-4x		(originally Aramaic)				that is being addressed	person or thing	a male		
-N-VSM-ARAM	-5x	a male PERSON OR THING that is being addressed 	154362	listen to me	" O _man_"	Noun Vocative Singular Masculine Transcribed from Aramaic 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Original language=Title Transcribed from Aramaic		
-N-VSM-L	-1	Noun					Vocative	Singular	Masculine	Location	
-N-VSM-L	-2	Noun					Case	Number	Gender	Name type	
-N-VSM-L	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are male or take a masculine form	the name of a place	
-N-VSM-L	-4						that is being addressed	person or thing	a male		
-N-VSM-L	-5x	a male LOCATION that is being addressed 	154362	listen to me	" O _man_"	Noun Vocative Singular Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name type=Person Gentilic		
-N-VSM-P	-1	Noun					Vocative	Singular	Masculine	Individual	
-N-VSM-P	-2	Noun					Case	Number	Gender	Name type	
-N-VSM-P	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are male or take a masculine form	the name of an individual	
-N-VSM-P	-4						that is being addressed	person	a male		
-N-VSM-P	-5x	a male PERSON that is being addressed 	154362	listen to me	" O _man_"	Noun Vocative Singular Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name type=Person Gentilic		
-N-VSM-T	-1	Noun					Vocative	Singular	Masculine	Title	
-N-VSM-T	-2	Noun					Case	Number	Gender	Name type	
-N-VSM-T	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are male or take a masculine form	a title or proper name	
-N-VSM-T	-4						that is being addressed	person or thing	a male	a proper name of 	
-N-VSM-T	-5x	a proper name of a male PERSON OR THING that is being addressed 	7154362	listen to me	" O _man_"	Noun Vocative Singular Masculine 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name type=Person Gentilic		
-N-VSM-T-HEB	-1	Noun					Vocative	Singular	Masculine	Title Transcribed from Hebrew	
-N-VSM-T-HEB	-2	Noun					Case	Number	Gender	Name in Original language	
-N-VSM-T-HEB	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are male or take a masculine form	a title or proper name	
-N-VSM-T-HEB	-4x		(originally Hebrew)				that is being addressed	person or thing	a male		
-N-VSM-T-HEB	-5x	a male PERSON OR THING that is being addressed 	154362	listen to me	" O _man_"	Noun Vocative Singular Masculine  Transcribed from Hebrew	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name in Original language=Title Transcribed from Hebrew		
-N-VSM-T-ARAM	-1	Noun					Vocative	Singular	Masculine	Title Transcribed from Aramaic	
-N-VSM-T-ARAM	-2	Noun					Case	Number	Gender	Name in Original language	
-N-VSM-T-ARAM	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are male or take a masculine form	a title or proper name	
-N-VSM-T-ARAM	-4x		(originally Aramaic)				that is being addressed	person or thing	a male		
-N-VSM-T-ARAM	-5x	a male PERSON OR THING that is being addressed 	154362	listen to me	" O _man_"	Noun Vocative Singular Masculine  Transcribed from Aramaic	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name in Original language=Title Transcribed from Aramaic		
-N-VSN	-1	Noun					Vocative	Singular	Neuter		
-N-VSN	-2	Noun					Case	Number	Gender		
-N-VSN	-3	an object or concept or type of person					they are being addressed or spoken to	there is only one of them	they are neuter		
-N-VSN	-4						that is being addressed	person or thing	a neuter		
-N-VSN	-5x	a neuter PERSON OR THING that is being addressed 	154362	listen to me	" O _nation_"	Noun Vocative Singular Neuter 	1 6 7 8 9	Function=Noun; Case=Vocative; Number=Singular; Gender=Neuter		
+N-VPF	Function=Noun; Case=Vocative; Number=Plural; Gender=Feminine
+	Noun Vocative Plural Feminine 
+	female PEOPLE OR THINGS that are being addressed 
+	listen to me: " O _women_"
+$
+N-VPM	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine
+	Noun Vocative Plural Masculine 
+	male PEOPLE OR THINGS that are being addressed 
+	listen to me: " O _men_"
+$
+N-VPM-PG	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Person Gentilic
+	Noun Vocative Plural Masculine 
+	male PEOPLE OR THINGS that are being addressed 
+	listen to me: O men
+$
+N-VPM-LG	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Location Gentilic
+	Noun Vocative Plural Masculine 
+	from a named place: male PEOPLE OR THINGS that are being addressed 
+	listen to me: " O _men_"
+$
+N-VPM-P	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Individual
+	Noun Vocative Plural Masculine 
+	male PEOPLE that are being addressed 
+	listen to me: " O _men_"
+$
+N-VPM-T	Function=Noun; Case=Vocative; Number=Plural; Gender=Masculine; Name type=Title
+	Noun Vocative Plural Masculine 
+	a proper name of male PEOPLE OR THINGS that are being addressed 
+	listen to me: " O _men_"
+$
+N-VPN	Function=Noun; Case=Vocative; Number=Plural; Gender=Neuter
+	Noun Vocative Plural Neuter 
+	neuter PEOPLE OR THINGS that are being addressed 
+	listen to me: " O _nations_"
+$
+N-VSF	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine
+	Noun Vocative Singular Feminine 
+	a female PERSON OR THING that is being addressed 
+	listen to me: " O _woman_"
+$
+N-VSF-ARAM	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine; Original language=Title Transcribed from Aramaic
+	Noun Vocative Singular Feminine Transcribed from Aramaic
+	a female PERSON OR THING that is being addressed 
+	listen to me: " O _woman_"
+$
+N-VSF-L	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine
+	Noun Vocative Singular Feminine 
+	a female LOCATION that is being addressed 
+	listen to me: " O _woman_"
+$
+N-VSF-P	Function=Noun; Case=Vocative; Number=Singular; Gender=Feminine
+	Noun Vocative Singular Feminine 
+	a female PERSON that is being addressed 
+	listen to me: " O _woman_"
+$
+N-VSM	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine
+	Noun Vocative Singular Masculine 
+	a male PERSON OR THING that is being addressed 
+	listen to me: " O _man_"
+$
+N-VSM-ARAM	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Original language=Title Transcribed from Aramaic
+	Noun Vocative Singular Masculine Transcribed from Aramaic 
+	a male PERSON OR THING that is being addressed 
+	listen to me: " O _man_"
+$
+N-VSM-L	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name type=Person Gentilic
+	Noun Vocative Singular Masculine 
+	a male LOCATION that is being addressed 
+	listen to me: " O _man_"
+$
+N-VSM-P	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name type=Person Gentilic
+	Noun Vocative Singular Masculine 
+	a male PERSON that is being addressed 
+	listen to me: " O _man_"
+$
+N-VSM-T	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name type=Person Gentilic
+	Noun Vocative Singular Masculine 
+	a proper name of a male PERSON OR THING that is being addressed 
+	listen to me: " O _man_"
+$
+N-VSM-T-HEB	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name in Original language=Title Transcribed from Hebrew
+	Noun Vocative Singular Masculine  Transcribed from Hebrew
+	a male PERSON OR THING that is being addressed 
+	listen to me: " O _man_"
+$
+N-VSM-T-ARAM	Function=Noun; Case=Vocative; Number=Singular; Gender=Masculine; Name in Original language=Title Transcribed from Aramaic
+	Noun Vocative Singular Masculine  Transcribed from Aramaic
+	a male PERSON OR THING that is being addressed 
+	listen to me: " O _man_"
+$
+N-VSN	Function=Noun; Case=Vocative; Number=Singular; Gender=Neuter
+	Noun Vocative Singular Neuter 
+	a neuter PERSON OR THING that is being addressed 
+	listen to me: " O _nation_"
 $
 P-1AP	Function=Personal pronoun; Person=1st; Case=Accusative; Number=Plural
 	Personal pronoun 1st Accusative Plural 
@@ -2559,11 +2554,11 @@ PREP	Function=Preposition
 	Preposition 
 	relating it to another person or thing
 	"_of‚ from‚ by‚ in_": "_of‚ from‚ by‚ in_"
-PRT	-1	Particle or Disjunctive									
-PRT	-2	Particle									
-PRT	-3	introducing an alternative									
-PRT	-4	introducing an alternative									
-PRT	-5x	introducing an alternative	1	"giving to this _or_ that"	"giving to this _or_ that"	"Particle or Disjunctive particle" 	1 2 3 4 5 6 7 8 9	Function="Particle or Disjunctive particle",		
+$
+PRT	
+	"Particle or Disjunctive particle" ,1 2 3 4 5 6 7 8 9
+	introducing an alternative
+	"giving to this _or_ that": "giving to this _or_ that"
 $
 PRT-I	Function=Interrogative Particle; Extra=Interrogative
 	Interrogative Particle Interrogative 
@@ -4034,11 +4029,11 @@ V-2LAI-3P-ATT	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Pe
 	Verb Pluperfect Active Indicative 3rd Plural ATTic form 
 	an ACTION that had happened - by people or things being discussed 
 	"_they had taught _": "_they had done _"
-V-2LAI-3P	-1	Verb	Pluperfect	Active	Indicative	3rd		Plural			
-V-2LAI-3P	-2	Verb	Tense	Voice	Mood	Person		Number			
-V-2LAI-3P	-3	an action or activity	it had happened in the past	it is something one does	saying that an action actually happens	they are people or things being spoken or written about		there are two or more of them			
-V-2LAI-3P	-4	an ACTION	had happened	- by	that	being discussed		people or things			
-V-2LAI-3P	-5x	an ACTION that had happened - by people or things being discussed 	142375	"_they had taught _"	"_they had done _"	Verb 2nd Pluperfect Active Indicative 3rd Plural 	1 2 3 4 5 7 9	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural		
+$
+V-2LAI-3P	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural
+	Verb 2nd Pluperfect Active Indicative 3rd Plural 
+	an ACTION that had happened - by people or things being discussed 
+	"_they had taught _": "_they had done _"
 $
 V-2LAI-3S	Function=Verb; Tense=2nd Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular
 	Verb 2nd Pluperfect Active Indicative 3rd Singular 
@@ -7365,10 +7360,10 @@ V-RMP-APM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Accu
 	an ACTION that was done to or for male people or things that is having something done to them 
 	"give them a man that _has taught themselves_ wisdom ": "give them a man that _has done themselves_ good"
 $
-V-RMP-DPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Dative; Number=Plural; Gender=Masculine
-	Verb Perfect Middle Participle Dative Plural Masculine 
-	"an ACTION that was done to or for male people or things that is having something done for‚ or in relation to" 
-	"give them a man that _has taught themselves_ wisdom ": "give them to a man that _has done themselves_ good"
+V-RMP-DPM	
+	1 2 3 4 6 7 8 9
+	"an ACTION that was done to or for male people or things that is having something done for‚ or in relation to" ,1243876
+	"give them to a man that _has done themselves_ good": Verb Perfect Middle Participle Dative Plural Masculine 
 $
 V-RMP-GPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Plural; Gender=Masculine
 	Verb Perfect Middle Participle Genitive Plural Masculine 
@@ -7380,10 +7375,10 @@ V-RMP-ASF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Accu
 	an ACTION that was done to or for a female person or thing that is having something done to them 
 	"give them a woman that _has taught herself_ wisdom ": "give them a woman that _has done herself_ good"
 $
-V-RMP-GSF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Singular; Gender=Feminine
-	Verb Perfect Middle Participle Genitive Singular Feminine 
-	"an ACTION that was done to or for a female person or thing that is done for‚ or in relation to" 
-	"give them a woman of wisdom ": "give them a woman of good"
+V-RMP-GSF	
+	1 2 3 4 6 7 8 9
+	"an ACTION that was done to or for a female person or thing that is done for‚ or in relation to" ,1243876
+	"give them a woman of good": Verb Perfect Middle Participle Genitive Singular Feminine 
 $
 V-RMP-ASM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Accusative; Number=Singular; Gender=Masculine
 	Verb Perfect Middle Participle Accusative Singular Masculine 
@@ -7674,26 +7669,26 @@ V-RPP-NSN-ATT	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case
 	Verb Perfect Passive Participle Nominative Singular Neuter ATTic form
 	an ACTION that was done to a neuter person or thing that is doing something 
 	"a nation that _was taught_ gave them wisdom ": "a nation that _was done_ good"
-V-RPP-VPM	-1	Verb	Perfect	Passive	Participle		Vocative	Plural	Masculine		
-V-RPP-VPM	-2	Verb	Tense	Voice	Form		Case	Number	Gender		
-V-RPP-VPM	-3	an action or activity	it has happened in the past	it is something done to one	describing something as 'happening' or 'happened'		they are being addressed or spoken to	there is more than one of them	they are male or take a masculine form		
-V-RPP-VPM	-4	an ACTION	that was	to	done		that is being addressed	people or things	male		
-V-RPP-VPM	-5x	an ACTION that was done to male people or things that is being addressed 	1243876	O man that _was taught_	" give them wisdom "	"O man that _was done_ good"	1 2 3 4 6 7 8 9	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Plural; Gender=Masculine		
-V-RPP-VSF	-1	Verb	Perfect	Passive	Participle		Vocative	Singular	Feminine		
-V-RPP-VSF	-2	Verb	Tense	Voice	Form		Case	Number	Gender		
-V-RPP-VSF	-3	an action or activity	it has happened in the past	it is something done to one	describing something as 'happening' or 'happened'		they are being addressed or spoken to	there is only one of them	they are female or take a feminine form		
-V-RPP-VSF	-4	an ACTION	that was	to	done		that is being addressed	person or thing	a female		
-V-RPP-VSF	-5x	an ACTION that was done to a female person or thing that is being addressed 	1243876	O woman that _was taught_	" give them wisdom "	"O woman that _was done_ good"	1 2 3 4 6 7 8 9	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Singular; Gender=Feminine		
-V-RPP-VSM	-1	Verb	Perfect	Passive	Participle		Vocative	Singular	Masculine		
-V-RPP-VSM	-2	Verb	Tense	Voice	Form		Case	Number	Gender		
-V-RPP-VSM	-3	an action or activity	it has happened in the past	it is something done to one	describing something as 'happening' or 'happened'		they are being addressed or spoken to	there is only one of them	they are male or take a masculine form		
-V-RPP-VSM	-4	an ACTION	that was	to	done		that is being addressed	person or thing	a male		
-V-RPP-VSM	-5x	an ACTION that was done to a male person or thing that is being addressed 	1243876	O man that _was taught_	" give them wisdom "	"O man that _was done_ good"	1 2 3 4 6 7 8 9	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Singular; Gender=Masculine		
-V-RPP-VSN	-1	Verb	Perfect	Passive	Participle		Vocative	Singular	Neuter		
-V-RPP-VSN	-2	Verb	Tense	Voice	Form		Case	Number	Gender		
-V-RPP-VSN	-3	an action or activity	it has happened in the past	it is something done to one	describing something as 'happening' or 'happened'		they are being addressed or spoken to	there is only one of them	they are neuter or take a neuter form		
-V-RPP-VSN	-4	an ACTION	that was	to	done		that is being addressed	thing	a neuter		
-V-RPP-VSN	-5x	an ACTION that was done to a neuter thing that is being addressed 	1243876	O thing that _was taught_	" give them wisdom "	"O thing that _was done_ good"	1 2 3 4 6 7 8 9	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Singular; Gender=Neuter		
+$
+V-RPP-VPM	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Plural; Gender=Masculine
+	"O man that _was done_ good"
+	an ACTION that was done to male people or things that is being addressed 
+	O man that _was taught_: " give them wisdom "
+$
+V-RPP-VSF	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Singular; Gender=Feminine
+	"O woman that _was done_ good"
+	an ACTION that was done to a female person or thing that is being addressed 
+	O woman that _was taught_: " give them wisdom "
+$
+V-RPP-VSM	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Singular; Gender=Masculine
+	"O man that _was done_ good"
+	an ACTION that was done to a male person or thing that is being addressed 
+	O man that _was taught_: " give them wisdom "
+$
+V-RPP-VSN	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Vocative; Number=Singular; Gender=Neuter
+	"O thing that _was done_ good"
+	an ACTION that was done to a neuter thing that is being addressed 
+	O thing that _was taught_: " give them wisdom "
 $
 V-XXM-2P	Function=Verb; Tense=indefinite tense; Voice=indefinite voice; Mood=Imperative; Person=2nd; Number=Plural
 	Verb indefinite tense indefinite voice Imperative 2nd Plural 
