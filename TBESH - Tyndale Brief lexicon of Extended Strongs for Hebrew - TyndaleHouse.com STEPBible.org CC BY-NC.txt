@@ -1,4 +1,6 @@
-﻿Extended Strongs for Hebrew is backward compatible with original Strong and extended to include all entries in BDB (compatible with OpenScriptures) and all prefixes, suffixes, personal pronoun endings and punctuation (as tagged in Tyndale House texts) 
+﻿TBESH - Tyndale Brief lexicon of Extended Strongs for Hebrew - TyndaleHouse.com STEPBible.org CC BY-NC
+
+Extended Strongs for Hebrew is backward compatible with original Strong and extended to include all entries in BDB (compatible with OpenScriptures) and all prefixes, suffixes, personal pronoun endings and punctuation (as tagged in Tyndale House texts) 
 The Brief lexicon is based on Abridged BDB by Online Bible, and edited to conform with the extended Strongs. This is provided  for guidence only. Permission should be gained from Online Bible before these definitions are applied in any project. 
 The Full lexicon is edited from the Full BDB by Tyndale House, formatted to make it easy to read, with expansion of abbreviations and revealing bibliographic details on hover. 
 
@@ -12,7 +14,7 @@ This licence allows you to:
 * Refer others to this repository as the source of the data.
 And you should:
 * List any changes you make to the data. Please also send changes to TyndaleStep@gmail.com so that others can benefit.
-* Attribute the original data to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, 
+* Attribute the original data to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com
   and to "STEP Bible" linked to www.STEPBible.org
 * Link to its source at https://tyndale.github.io/STEPBible-Data/
 
@@ -32,7 +34,7 @@ Hebrew form	These are based on BDB, then normalised.
 
 Transliteration	
 
-Morph	These were created by Tyndale scholars as a simple gramatical value of the main word represented as Language:Type-Gender-Extra. 
+Morph	These were created by Tyndale scholars as a simple grammatical value of the main word represented as Language:Type-Gender-Extra. 
 	Language:Type-Gender-Extra.   Language is A=Aramaic, H=Hebrew, G=Greek and n+Name (which is not language specific). 
 	Type is A=Adjective, Adv=Adverb, Art=Article, Cond=Conditional, Conj=Conjunction, Cor=Correlative, DemP=Demonstrative Pn, ImpP=Impersonal Pn, Intg=Interogative, Intj=Interjection, N=Noun, Neg=Negative, Part=Particle, Prep=Preposition, PerP=Personal Pn, PosP=Possessive Pn, RefP=Reflexive Pn, RelP=Relative Pn, V=Verb. 
 	Gender is F=Female, M=Male, N=Neuter, C=Common and P or S is optionally added for Plural Singular
@@ -50,7 +52,6 @@ Meaning	These are based on the Abridged BDB by Online Bible, and edited to confo
 
 
 EStrong#	Hebrew	Transliteration	Morph	Gloss	Meaning
-========================================================================================
 
 H0001	אָב	av	H:N-M	father	1) father of an individual<br>2) of God as father of his people<br>3) head or founder of a household, group, family, or clan<br>4) ancestor<br>4a) grandfather, forefathers - of person<br>4b) of people<br>5) originator or patron of a class, profession, or art<br>6) of producer, generator (fig.)<br>7) of benevolence and protection (fig.)<br>8) term of respect and honour<br>9) ruler or chief (spec.)<br>	
 H0002	אַב	av	A:N-M	father	1) father<br>	
@@ -589,7 +590,7 @@ H0515	אֶלְתְּקֹן	el.te.qon	N:N--L	Eltekon	Eltekon = "God is straight"<
 H0516	אַל תַּשְׁחֵת	al tash.chet	H:N-M	Al-taschith	Al-taschith = "do not destroy"<br>1) (Hiphil) a command to the chief musician, or perhaps the title of a melody used for several Psalms<br>	
 H0517	אֵם	em	H:N-F	mother	1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division<br>	
 H0518a	אִם	im	H:Cond	if	1) if<br>1a) conditional clauses<br>1a1) of possible situations<br>1a2) of impossible situations<br>1b) oath contexts<br>1b1) no, not<br>1c) if...if, whether...or, whether...or...or<br>1d) when, whenever<br>1e) since<br>1f) interrogative particle<br>1g) but rather<br>	
-H0518b	כִּי אם־		H:Cond	that if	1) each particle retaining its independent force, and relating to a differentclause <br>1a) that if<br>	
+H0518b	כִּי אם		H:Cond	if	1) except if <br>1a) but if<br>	
 H0519	אָמָה	a.mah	H:N-F	maidservant	1) maid-servant, female slave, maid, handmaid, concubine<br>1a) of humility (fig.)<br>	
 H0520a	אַמָּה	am.mah	H:N-F	cubit	1) cubit-a measure of distance (the forearm), roughly 18 in (. 5m). There are several cubits used in the OT, the cubit of a man or common cubit (<ref="Deu.3.11">De 3:11</ref>), the legal cubit or cubit of the sanctuary (<ref="Ezk.40.5">Eze 40:5</ref>) plus others. See a Bible Dictionary for a complete treatment.<br>	
 H0520b	אַמָּה	am.mah	H:N-F	foundation	1) foundation<br>	
@@ -2451,6 +2452,20 @@ H2283	חָגָּא	cha.ga	H:N-F	terror	1) terror, a reeling (in terror)<br>
 H2284	חָגָב	cha.gav	H:N-M	locust	1) locust, grasshopper<br>	
 H2285	חֲגָבָא	cha.ga.va	N:N-M-P	Hagaba	Hagaba or Hagabah = "locust"<br>1) head of a family of exiles who returned with Zerubbabel<br>	
 H2286b	חֲגָבָה	cha.ga.va	N:N-M-P	Hagabah	Hagaba or Hagabah = "locust"<br>1) head of a family of exiles who returned with Zerubbabel<br>	
+$=H2286a ==============================
+@zh_Gloss=	哈迦巴
+@zh_tw_Gloss=	哈迦巴
+$=H2286a ==============================
+@zh_Gloss=	哈迦巴
+@zh_tw_Gloss=	哈迦巴
+@zh_Definition=	哈迦巴 这个阳性专有名词在希伯来文的意思是 "蝗虫"<br>跟随所罗巴伯被掳归回的一个家族领袖
+@zh_tw_Definition=	哈迦巴 这个陽性專有名詞在希伯來文的意思是 "蝗蟲"<br>跟隨所羅巴伯被擄歸回的一個家族領袖
+$=H2286b	§Hagaba|Hagabah@Ezr.2.45#
+@zh_Definition=	哈迦巴 这个阳性专有名词在希伯来文的意思是 "蝗虫"<br>跟随所罗巴伯被掳归回的一个家族领袖
+@zh_tw_Definition=	哈迦巴 这个陽性專有名詞在希伯來文的意思是 "蝗蟲"<br>跟隨所羅巴伯被擄歸回的一個家族領袖
+$=H2286b	§Hagabah@Ezr.2.45#
+@zh_Definition=	哈迦巴 这个阳性专有名词在希伯来文的意思是 "蝗虫"<br>跟随所罗巴伯被掳归回的一个家族领袖
+@zh_tw_Definition=	哈迦巴 这个陽性專有名詞在希伯來文的意思是 "蝗蟲"<br>跟隨所羅巴伯被擄歸回的一個家族領袖
 H2287	חָגַג	cha.gag	H:V	to celebrate	1) to hold a feast, hold a festival, make pilgrimage, keep a pilgrim-feast, celebrate, dance, stagger<br>1a) (Qal)<br>1a1) to keep a pilgrim-feast<br>1a2) to reel<br>	
 H2288	חֲגָוִים	cha.gav	H:N-M	cleft	1) clefts, places of concealment, retreats<br>	
 H2289	חָגוֹר	cha.gor	H:A-M	blelted	1) clothed, girded, girt<br>	
@@ -3842,7 +3857,7 @@ H3585	כַּ֫חַשׁ	ka.chash	H:N-M	lie	1) lying, deception<br>2) leanness, fa
 H3586	כֶּחָשׁ	ke.chash	H:A	deceptive	1) deceitful, false, deceptive, lying<br>	
 H3587	כִּי	ki	H:N-M	branding	1) burning, branding<br>	
 H3588a	כִּי	ki	H:Conj	for	1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since<br>1a) that<br>1a1) yea, indeed<br>1b) when (of time)<br>1b1) when, if, though (with a concessive force)<br>1c) because, since (causal connection)<br>1d) but (after negative)<br>1e) that if, for if, indeed if, for though, but if<br>1f) but rather, but<br>1g) except that<br>1h) only, nevertheless<br>1i) surely<br>1j) that is<br>1k) but if<br>1l) for though<br>1m) forasmuch as, for therefore<br>	
-H3588b	כִּי אם־		H:Conj	for if	1) that, for if, indeed if, for if, indeed if<br>	
+H3588b	כִּי אם		H:Conj	that	1) except if <br>1a) but if<br>	
 H3588c	כִּי [עַל כֵּן]		H:Conj	for since	1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since<br>1a) that<br>1a1) yea, indeed<br>1b) when (of time)<br>1b1) when, if, though (with a concessive force)<br>1c) because, since (causal connection)<br>1d) but (after negative)<br>1e) that if, for if, indeed if, for though, but if<br>1f) but rather, but<br>1g) except that<br>1h) only, nevertheless<br>1i) surely<br>1j) that is<br>1k) but if<br>1l) for though<br>1m) forasmuch as, for therefore<br>	
 H3589	כִּיד	kid	H:N-M	ruin	1) ruin, destruction<br>	
 H3590	כִּידוֹד	ki.dod	H:N-M	spark	1) spark<br>	
@@ -5254,7 +5269,7 @@ H4913	מָשָׁל	ma.shal	N:N--L	Mashal	Mashal = "entreaty"<br>1) a town in the
 H4914	מְשֹׁל	me.shol	H:N-M	byword	1) byword<br>	
 H4915a	מֹ֫שֶׁל	mo.shel	H:N-M	likeness	1) likeness, one like, similitude<br>	
 H4915b	מֹ֫שֶׁל	mo.shel	H:N-M	dominion	1) dominion<br>	
-H4916a	מִשְׁלַח		H:N-M	sending	1) outstretching	
+H4916a	מִשְׁלַח		H:N-M	sending	1) outstretching<br>	
 H4916b	מִשְׁלוֹחַ	mish.lo.ach	H:N-M	sending	1) outstretching, sending, sending forth<br>	
 H4917	מִשְׁלַ֫חַת	mish.la.chat	H:N-F	deputation	1) discharge, sending, sending away, deputation<br>1a) discharge<br>1b) deputation<br>	
 H4918	מְשֻׁלָּם	me.shul.lam	N:N-M-P	Meshullam	Meshullam = "friend"<br>1) grandfather of Shaphan, the scribe<br>2) son of Zerubbabel<br>3) a Benjamite of the sons of Elpaal<br>4) a Benjamite, father of Sallu<br>5) a Benjamite who lived at Jerusalem after the captivity<br>6) a Benjamite<br>6a) perhaps the same as 3 or 4<br>7) a Gadite in the reign of king Jotham of Judah<br>8) son of Berechiah who assisted in rebuilding the wall of Jerusalem<br>9) son of Besodeiah who assisted Jehoiada the son of Paseah in restoring the old gate of Jerusalem<br>10) a chief of the people who sealed the covenant with Nehemiah<br>11) father of Hilkiah and high priest probably in the reign of king Amon of Judah<br>11a) perhaps the same as 'Shallum'<br>12) a priest, son of Meshillemith or Meshillemoth, son of Immer, and ancestor of Maasiai or Amashai<br>13) a priest or family of priests who sealed the covenant with Nehemiah<br>14) a priest, head of the family of Ginnethon and representative of the house of Ezra in the days of Joiakim, the son of Jeshua<br>15) a priest, one of the princes of Judah at the dedication of the wall of Jerusalem<br>16) a Kohathite or family of Kohathite Levites in the reign of Josiah<br>17) a Levite, one of the heads sent to Iddo to gather the Levites to join the caravan about to return to Jerusalem; a chief man who assisted Ezra in abolishing the marriages which some of the people had made with foreign wives<br>18) ancestor of a family of porters or Levites in days of Nehemiah<br>19) a descendant of Bani who had a foreign wife and put her away<br>20) one of the men who stood at the left hand of Ezra when he read the law to the people<br>20a) maybe the same as 17<br>	
@@ -5734,7 +5749,7 @@ H5350	נִקּוּד	niq.qud	H:N-M	crumb	1) crumbled thing, thing easily crumble
 H5351	נְקֻדָּה	ne.qud.dah	H:N-F	bead	1) point, drop<br>1a) of silver<br>	
 H5352	נָקָה	na.qah	H:V	to clear	1) to be empty, be clear, be pure, be free, be innocent, be desolate, be cut off<br>1a) (Qal) to be empty, be clean, be pure<br>1b) (Niphal)<br>1b1) to be cleaned out, be purged out<br>1b2) to be clean, be free from guilt, be innocent<br>1b3) to be free, be exempt from punishment<br>1b4) to be free, be exempt from obligation<br>1c) (Piel)<br>1c1) to hold innocent, acquit<br>1c2) to leave unpunished<br>	
 H5353	נְקוֹדָא	ne.qo.da	N:N-M-P	Nekoda	Nekoda = "distinguished"<br>1) head of a family of temple slaves returning from exile to Jerusalem with Zerubbabel<br>2) head of a family of exiles who were from Tel Melah, Tel Harsha, Cherub, Addan, and Immer and who could not identify their father's house or their genealogy being of Israel and who returned with Zerubbabel<br>	
-H5354	נָקַט	na.qat	H:V	to tire	1) to loathe, be grieved, feel a loathing<br>1b) (Niphal) to feel loathing against self<br>>	
+H5354	נָקַט	na.qat	H:V	to tire	1) to loathe, be grieved, feel a loathing<br>1b) (Niphal) to feel loathing against self<br>	
 H5355a	נָקִי	na.qi	H:A	innocent	1) clean, free from, exempt, clear, innocent<br>1a) free from guilt, clean, innocent<br>1b) free from punishment<br>1c) free or exempt from obligations<br>	
 H5355b	נָקִיא		H:A	innocent	1) innocent<br>	
 H5356a	נִקָּיוֹן	niq.qa.von	H:N-M	innocence	1) innocency<br>1a) freedom from guilt, innocency<br>1b) freedom from punishment<br>1c) cleanness of teeth (physical sense)<br>	
@@ -7394,7 +7409,7 @@ H6859	צְפַ֫תָה	tse.pha.tah	N:N--L	Zephathah	Zephathah = "watch-tower"<br
 H6860	צִקְלַג	tsiq.lag	N:N--L	Ziklag	Ziklag = "winding"<br>1) a town in the south of Judah, later allotted to Simeon; noted for its having been the city of David given to him by king Achish of Gath and his residence when he was joined by many of his mighty warriors and when he received word of the death of Saul<br>	
 H6861	צִקָּלֹן	tsiq.lon	H:N-M	sack	1) sack, bag<br>1a) meaning dubious<br>	
 H6862a	צַר	tsar	H:A	narrow	1) narrow, tight<br>	
-H6862b	צַר	tsar	H:N-M	straits	1) straits, distress<br>	
+H6862b	צַר	tsar	H:N-M	distress	1) straits, distress<br>	
 H6862c	צַר	tsar	H:N-M	enemy	1) adversary, foe, enemy, oppressor<br>	
 H6862d	צַר	tsar	H:N-M	hard	1) hard pebble, flint<br>	
 H6863	צֵר	tser	N:N--L	Zer	Zer = "flint"<br>1) fortified town in Naphtali, probably in the area of the Sea of Galilee<br>	
@@ -9347,53 +9362,53 @@ H8671	תְּשִׁיעִי	te.shi.i	H:A	ninth	1) ninth (as ordinal number)<br>
 H8672	תֵּ֫שַׁע	te.sah	H:N	nine	1) nine, nonad<br>1a) nine (as cardinal number)<br>1b) ninth (as ordinal number)<br>1c) in combination with other numbers<br>	
 H8673	תִּשְׁעִים	tish.im	H:N	ninety	1) ninety<br>	
 H8674	תַּתְּנַי	ta.te.nay	N:N-M-P	Tattenai	Tatnai = "gift"<br>1) a Persian governor in Syria who opposed the rebuilding of Jerusalem<br>	
-H9000	ו	v	H:Conj	and	Verbal vav or conjunctive vav	
-H9001	ו	v	H:Conj	and	Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)	
-H9002	ו	v	H:Conj	and	Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)	
-H9003		b		in|on|with	Prefix  beth 	
-H9004		k		like|as	Prefix  kaph 	
-H9005		l		to|for	Prefix  lamed 	
-H9006		m		from	Prefix  mem 	
-H9007		s		which|that	Prefix  shin 	
-H9008		i		[?]	Prefix  hé interrogative 	
-H9009		hé		[the]	Prefix  hé article 	
-H9010		a		[the]	Suffix  aleph article 	
-H9011		hé		[to]	Suffix  hé – directional 	
-H9012		p		[emph.?]	Suffix  hé – paragogic 	
-H9013		n		[emph.?]	Punctuation  nun – paragogic 	
-H9014		-		[-]	Punctuation Maqqef	
-H9015		¦		[ ]	Punctuation Paseq	
-H9016		:		[.]	Punctuation Sof-Pasuq	
-H9017		P		[¶]	Punctuation Pe paragraph	
-H9018		S		[¶]	Punctuation Sameq paragraph	
-H9019		N		[¶]	Punctuation Inverted Nun paragraph	
-H9020			Ps1c	my	Personal posessive -  noun suffix: 1st p comm. sing.  	
-H9021			Ps2m	your	Personal posessive -  noun suffix: 2nd p masc. sing. 	
-H9022			Ps2f	your	Personal posessive -  noun suffix: 2nd p fem. sing. 	
-H9023			Ps3m	his	Personal posessive -  noun suffix: 3rd p masc. sing. 	
-H9024			Ps3f	her	Personal posessive -  noun suffix: 3rd p fem. sing. 	
-H9025			Pp1c	our	Personal posessive -  noun suffix: 1st p comm. plural 	
-H9026			Pp2m	your	Personal posessive -  noun suffix: 2nd p masc. plural 	
-H9027			Pp2f	your	Personal posessive -  noun suffix: 2nd p fem. plural 	
-H9028			Pp3m	their	Personal posessive -  noun suffix: 3rd p masc. plural 	
-H9029			Pp3f	their	Personal posessive -  noun suffix: 3rd p fem. plural 	
-H9030			Os1c	me	Personal pronoun -  verb/prep. suffix: 1st p comm. sing. 	
-H9031			Os2m	you	Personal pronoun -  verb/prep. 2nd p masc. sing. 	
-H9032			Os2f	you	Personal pronoun -  verb/prep. 2nd p fem. sing. 	
-H9033			Os3m	him	Personal pronoun -  verb/prep. 3rd p masc. sing. 	
-H9034			Os3f	her	Personal pronoun -  verb/prep. 3rd p fem. sing. 	
-H9035			Op1c	us	Personal pronoun -  verb/prep. 1st p comm. plural 	
-H9036			Op2m	you	Personal pronoun -  verb/prep. 2nd p masc. plural 	
-H9037			Op2f	you	Personal pronoun -  verb/prep. 2nd p fem. plural 	
-H9038			Op3m	them	Personal pronoun -  verb/prep. 3rd p masc. plural 	
-H9039			Op3f	them	Personal pronoun -  verb/prep. 3rd p fem. plural 	
-H9040			Ss1c	I	Subject pronoun -  subj..: 1st p comm. sing. 	
-H9041			Ss2m	you	Subject pronoun -  subj.. 2nd p masc. sing. 	
-H9042			Ss2f	you	Subject pronoun -  subj.. 2nd p fem. sing. 	
-H9043			Ss3m	he	Subject pronoun -  subj.. 3rd p masc. sing. 	
-H9044			Ss3f	she	Subject pronoun -  subj.. 3rd p fem. sing. 	
-H9045			Sp1c	we	Subject pronoun -  subj.. 1st p comm. plural 	
-H9046			Sp2m	you	Subject pronoun -  subj.. 2nd p masc. plural 	
+H9000	/ו	v	H:Conj	and	Verbal vav or conjunctive vav	
+H9001	/וַ	v	H:Conj	and	Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)	
+H9002	/וְ	v	H:Conj	and	Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)	
+H9003	/ב	b		in|on|with	Prefix  beth 	
+H9004	/כ	k		like|as	Prefix  kaph 	
+H9005	/ל	l		to|for	Prefix  lamed 	
+H9006	/מ	m		from	Prefix  mem 	
+H9007	/שׁ	s		which|that	Prefix  shin 	
+H9008	/ה	i		[?]	Prefix  hé interrogative 	
+H9009	/ה	hé		[the]	Prefix  hé article 	
+H9010	א/	a		[the]	Suffix  aleph article 	
+H9011	ה/	hé		[to]	Suffix  hé – directional 	
+H9012	ה/	p		[emph.?]	Suffix  hé – paragogic 	
+H9013	ן/	n		[emph.?]	Punctuation  nun – paragogic 	
+H9014	־	-		[-]	Punctuation Maqqef	
+H9015	׀	¦		[ ]	Punctuation Paseq	
+H9016	׃	:		[.]	Punctuation Sof-Pasuq	
+H9017	פ	P		[¶]	Punctuation Pe paragraph	
+H9018	ס	S		[¶]	Punctuation Sameq paragraph	
+H9019	/׆	N		[¶]	Punctuation Inverted Nun paragraph	
+H9020	י		Ps1c	my	Personal posessive -  noun suffix: 1st p comm. sing.  	
+H9021	ךָ		Ps2m	your	Personal posessive -  noun suffix: 2nd p masc. sing. 	
+H9022	ךְ		Ps2f	your	Personal posessive -  noun suffix: 2nd p fem. sing. 	
+H9023	הוּ		Ps3m	his	Personal posessive -  noun suffix: 3rd p masc. sing. 	
+H9024	הּ		Ps3f	her	Personal posessive -  noun suffix: 3rd p fem. sing. 	
+H9025	נוּ		Pp1c	our	Personal posessive -  noun suffix: 1st p comm. plural 	
+H9026	כֶם		Pp2m	your	Personal posessive -  noun suffix: 2nd p masc. plural 	
+H9027	כֶן		Pp2f	your	Personal posessive -  noun suffix: 2nd p fem. plural 	
+H9028	הֶם		Pp3m	their	Personal posessive -  noun suffix: 3rd p masc. plural 	
+H9029	הֶן		Pp3f	their	Personal posessive -  noun suffix: 3rd p fem. plural 	
+H9030	נִי		Os1c	me	Personal pronoun -  verb/prep. suffix: 1st p comm. sing. 	
+H9031	ךָּ		Os2m	you	Personal pronoun -  verb/prep. 2nd p masc. sing. 	
+H9032	ךְ		Os2f	you	Personal pronoun -  verb/prep. 2nd p fem. sing. 	
+H9033	וֹ		Os3m	him	Personal pronoun -  verb/prep. 3rd p masc. sing. 	
+H9034	הָ		Os3f	her	Personal pronoun -  verb/prep. 3rd p fem. sing. 	
+H9035	נוּ		Op1c	us	Personal pronoun -  verb/prep. 1st p comm. plural 	
+H9036	כֶם		Op2m	you	Personal pronoun -  verb/prep. 2nd p masc. plural 	
+H9037	כֶן		Op2f	you	Personal pronoun -  verb/prep. 2nd p fem. plural 	
+H9038	הֶם		Op3m	them	Personal pronoun -  verb/prep. 3rd p masc. plural 	
+H9039	הֶן		Op3f	them	Personal pronoun -  verb/prep. 3rd p fem. plural 	
+H9040	נִי		Ss1c	I	Subject pronoun -  subj..: 1st p comm. sing. 	
+H9041	ךָ		Ss2m	you	Subject pronoun -  subj.. 2nd p masc. sing. 	
+H9042	ךְ		Ss2f	you	Subject pronoun -  subj.. 2nd p fem. sing. 	
+H9043	נּוּ		Ss3m	he	Subject pronoun -  subj.. 3rd p masc. sing. 	
+H9044	נָּה		Ss3f	she	Subject pronoun -  subj.. 3rd p fem. sing. 	
+H9045	נוּ		Sp1c	we	Subject pronoun -  subj.. 1st p comm. plural 	
+H9046	כוֹן		Sp2m	you	Subject pronoun -  subj.. 2nd p masc. plural 	
 H9047			Sp2f	you	Subject pronoun -  subj.. 2nd p fem. plural 	
-H9048			Sp3m	they	Subject pronoun -  subj.. 3rd p masc. plural 	
-H9049			Sp3f	they	Subject pronoun -  subj.. 3rd p fem. plural 	
+H9048	ם		Sp3m	they	Subject pronoun -  subj.. 3rd p masc. plural 	
+H9049	ינה		Sp3f	they	Subject pronoun -  subj.. 3rd p fem. plural 	
