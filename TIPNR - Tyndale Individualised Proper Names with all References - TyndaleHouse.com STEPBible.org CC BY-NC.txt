@@ -3369,7 +3369,7 @@ Hadad@1Ki.11.14	Male living at the time of United monarchy	 + 		sister_of_Tahpen
 	Hadad@1Ki.11.14	H1908=הֲדַד	Hadad	1Ki.11.14; 1Ki.11.17b; 1Ki.11.19; 1Ki.11.21a; 1Ki.11.21b; 1Ki.11.25; 
 $========== PERSON(s)
 Hadad@Gen.25.15	Male living at the time of the first Patriarchs	Ishmael@Gen.16.11 + 	Nebaioth@Gen.25.13, Kedar@Gen.25.13, Adbeel@Gen.25.13, Mibsam@Gen.25.13, Mishma@Gen.25.14, Dumah@Gen.25.14, Massa@Gen.25.14, Tema@Gen.25.15, Jetur@Gen.25.15, Naphish@Gen.25.15, Kedemah@Gen.25.15, Mahalath@Gen.28.9		
-	Hadad@Gen.25.15	H2316=חֲדַר	Hadad (KJV= Hadar)	Gen.25.15; 
+	Hadad@Gen.25.15	H2316=חֲדַר	Hadad (KJV= Hadar, in Ben Chaim)	Gen.25.15; 
 	Hadad@Gen.25.15	H2301=חֲדַד	Hadad	1Ch.1.30; 
 $========== PERSON(s)
 Hadad@Gen.36.35	Male living at the time of the first Patriarchs	Bedad@Gen.36.35 + 			
@@ -10433,7 +10433,7 @@ Akeldama@Act.1.19	Place	Akeldama	31.777444,35.234935 = Near Jerusalem
 	Akeldama@Act.1.19	G0184=Ἀκελδαμά	Akeldama	Act.1.19; 
 $========== PLACE
 Akrabbim@Num.34.4	Place	Akrabbim	30.688292,35.263182
-	Akrabbim@Num.34.4	H6137=עַקְרָב	Akrabbim (KJV= Maaleh-acrabbim; NIV= Scorpion Pass)	Num.34.4; Jos.15.3; Jdg.1.36; 
+	Akrabbim@Num.34.4	H4610=עַקְרַבִּים	Akrabbim (NIV= Scorpion)	Num.34.4; Jos.15.3; Jdg.1.36; 
 $========== PLACE
 Alemeth@Jos.21.18	Place	Alemeth	31.828406,35.287637
 	Alemeth@Jos.21.18	H5964=עָלֶ֫מֶת	Alemeth	1Ch.6.60; 
@@ -11699,7 +11699,7 @@ Geba@Jos.18.24	Place	Geba_1	31.85787804122625,35.25975521608824
 	Geba@Jos.18.24	H1387=גֶּ֫בַע	Geba	Jos.18.24; Jos.21.17; 1Sa.13.3; 1Sa.13.16; 1Sa.14.5; 1Ki.15.22; 2Ki.23.8; 1Ch.6.60; 1Ch.8.6; 2Ch.16.6; Ezr.2.26; Neh.7.30; Neh.11.31; Neh.12.29; Isa.10.29; Zec.14.10; 
 $========== PLACE
 Gebal@Jos.13.5	Place	Gebal	34.11910360710159,35.6461419556213
-	Gebal@Jos.13.5	H1380=גְּבַל, גְּבָל	Gebal	Ezk.27.9; 
+	Gebal@Jos.13.5	H1380=גְּבַל	Gebal	Ezk.27.9; 
 	Gebal@Jos.13.5	H1381=גְּבָל	Gebal	Psa.83.7; 
 	Gebal@Jos.13.5	H1382=גִּבְלִי	Gebal	1Ki.5.18; 
 	Gebal@Jos.13.5	H1382=גִּבְלִי	Gebalite	Jos.13.5; 
@@ -11763,8 +11763,7 @@ Gibeah@Jos.15.57	Place	Gibeah_2	31.43333151674604,35.13333188530802 = Near Carme
 $========== PLACE
 Gibeah@Jos.18.28	Place	Gibeah_1	31.82378102460309,35.23100936128631
 	Gibeah@Jos.18.28	H1387=גֶּ֫בַע	Gibeah	Jdg.20.10; 
-	Gibeah@Jos.18.28	H1389=גִּבְעָה	Gibeah	Jos.24.33; 1Sa.10.10; 
-	Gibeah@Jos.18.28	H1390=גִּבְעָה	Gibeah	Jdg.19.12; Jdg.19.13; Jdg.19.14; Jdg.19.15; Jdg.19.16; Jdg.20.4; Jdg.20.5; Jdg.20.9; Jdg.20.13; Jdg.20.14; Jdg.20.15; Jdg.20.19; Jdg.20.20; Jdg.20.21; Jdg.20.25; Jdg.20.29; Jdg.20.30; Jdg.20.31; Jdg.20.34; Jdg.20.36; Jdg.20.37; Jdg.20.43; 1Sa.10.26; 1Sa.11.4; 1Sa.13.2; 1Sa.13.15; 1Sa.14.2; 1Sa.14.16; 1Sa.15.34; 1Sa.22.6; 1Sa.23.19; 1Sa.26.1; 2Sa.21.6; 2Sa.23.29; 1Ch.11.31; Isa.10.29; Hos.5.8; Hos.9.9; Hos.10.9a; Hos.10.9b 
+	Gibeah@Jos.18.28	H1390=גִּבְעָה	Gibeah	Jos.24.33; Jdg.19.12; Jdg.19.13; Jdg.19.14; Jdg.19.15; Jdg.19.16; Jdg.20.4; Jdg.20.5; Jdg.20.9; Jdg.20.13; Jdg.20.14; Jdg.20.15; Jdg.20.19; Jdg.20.20; Jdg.20.21; Jdg.20.25; Jdg.20.29; Jdg.20.30; Jdg.20.31; Jdg.20.34; Jdg.20.36; Jdg.20.37; Jdg.20.43; 1Sa.10.10; 1Sa.10.26; 1Sa.11.4; 1Sa.13.2; 1Sa.13.15; 1Sa.14.2; 1Sa.14.16; 1Sa.15.34; 1Sa.22.6; 1Sa.23.19; 1Sa.26.1; 2Sa.21.6; 2Sa.23.29; 1Ch.11.31; Isa.10.29; Hos.5.8; Hos.9.9; Hos.10.9a; Hos.10.9b 
 	Gibeah@Jos.18.28	H1394=גִּבְעַת	Gibeah	Jos.18.28; 
 	Gibeah@Jos.18.28	H1395=גִּבְעָתִי	Gibeah	1Ch.12.3; 
 $========== PLACE
