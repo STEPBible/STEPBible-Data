@@ -1,34 +1,4 @@
-﻿﻿TEGMC - Tyndale Expansion of Greek Morphhology Codes - TyndaleHouse.com STEPBible.org CC BY-NC.txt
-Greek morphology codes with expanded explanations in terms of parsing, meaning and example
-
-
-===========================================================
-Data created for www.STEPBible.org by Tyndale House Cambridge (CC BY-NC 4.0)
-===========================================================
-This licence allows you to:
-* Include any part of this data in free software or free publications without requesting permission 
-* Request permission if your project is not free. A reasonable request is unlikely to be refused.
-* Download the data and reformat it for your application
-* Refer others to this repository as the source of the data.
-And you should:
-* List any changes you make to the data. Please also send changes to TyndaleStep@gmail.com so that others can benefit.
-* Attribute the original data to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, 
- and to "STEP Bible" linked to www.STEPBible.org
-* Link to its source at https://tyndale.github.io/STEPBible-Data/
-
-If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
-==============================================================
-
-FIELD DESCRIPTIONS:
-==============
-
-Codes + expansion	- based on Robinson codes  used by BibleWorks and other software. These codes are described in detail at https://goo.gl/Xr7kbo#GrkMorph
-                    morphology 	- the morphology in a phrase that makes sense in English
-                    explanation 	- the meaning of this morphology in a phrase that makes sense in English 
-                    example	- an example of how a Hebrew or Aramaic word in this form might be translated, using: "Jew" for gentilics, "person/man/woman" for nouns, "late" for adjectives etc
-	- verbs are based on עָנָה (H6031b) which means, roughly: Qal= "to lower"; Piel= "to humble"; Hiphil="to humiliate"
-
-
+﻿"1 CODE"	Group#1	specific Function	specific Tense	specific Voice	specific Mood	specific Person	specific Case	specific Number	specific Gender	specific Extra	12-CODE again	Group#2	Function	Tense	Voice	Mood	Person	Case	Number	Gender	Extra	23-CODE again	Group#3	Function explained	Tense explained	Voice explained	Mood explained	Person explained	Case explained	Number explained	Gender explained	Extra explained	34-CODE again	Group#4	Function in description	Tense in description	Voice in description	Mood in description	Person in description	Case in description	Number in description	Gender in description	Extra in description	45-CODE again	Group#5	Explanation	Order for Description	Example (“e.g….”)	Shorter Example						
 $
 A-APF	Function=Adjective; Case=Accusative; Number=Plural; Gender=Feminine
 	Adjective Accusative Plural Feminine 
@@ -113,6 +83,11 @@ $
 A-ASF	Function=Adjective; Case=Accusative; Number=Singular; Gender=Feminine
 	Adjective Accusative Singular Feminine 
 	describing a female person or thing that is having something done to them 
+	"giving a _wise_ woman to them": "giving a _wise_ woman to them"
+$
+A-ASF-L	Function=Adjective; Case=Accusative; Number=Singular; Gender=Feminine; Name type=Location
+	Adjective Accusative Singular Feminine Location
+	DESCRIBING a female location that is having something done to them 
 	"giving a _wise_ woman to them": "giving a _wise_ woman to them"
 $
 A-ASF-LG	Function=Adjective; Case=Accusative; Number=Singular; Gender=Feminine; Name type=Location Gentilic
@@ -278,6 +253,11 @@ $
 A-DSF	Function=Adjective; Case=Dative; Number=Singular; Gender=Feminine
 	Adjective Dative Singular Feminine 
 	"DESCRIBING a female person or thing that something is done for‚ or in relation to "
+	"giving to a _wise_ woman": "giving to a _wise_ woman"
+$
+A-DSF-L	Function=Adjective; Case=Dative; Number=Singular; Gender=Feminine; Name type=Location
+	Adjective Dative Singular Feminine Location
+	"DESCRIBING a female location that something is done for‚ or in relation to "
 	"giving to a _wise_ woman": "giving to a _wise_ woman"
 $
 A-DSF-LG	Function=Adjective; Case=Dative; Number=Singular; Gender=Feminine; Name type=Location Gentilic
@@ -452,7 +432,7 @@ A-GPM-PG	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Nam
 $
 A-GPM-L	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Location
 	Adjective Genitive Plural Masculine Location
-	describing male people or things that something belongs to 
+	DESCRIBING male locations that something belongs to 
 	"teachings of _wise_ men": "something of _wise_ men"
 $
 A-GPM-S	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Extra=Superlative
@@ -488,6 +468,11 @@ $
 A-GSF	Function=Adjective; Case=Genitive; Number=Singular; Gender=Feminine
 	Adjective Genitive Singular Feminine 
 	describing a female person or thing that something belongs to 
+	"teachings of a _wise_ woman": "something of a _wise_ woman"
+$
+A-GSF-L	Function=Adjective; Case=Genitive; Number=Singular; Gender=Feminine; Name type=Location
+	Adjective Genitive Singular Feminine Location
+	DESCRIBING a female LOCATION that something belongs to 
 	"teachings of a _wise_ woman": "something of a _wise_ woman"
 $
 A-GSF-LG	Function=Adjective; Case=Genitive; Number=Singular; Gender=Feminine; Name type=Location Gentilic
@@ -710,8 +695,8 @@ A-NSM-PG	Function=Adjective; Case=Nominative; Number=Singular; Gender=Masculine;
 	DESCRIBING those related to a named person: a male person or thing that is doing something 
 	"a _wise_ man is giving": "a _wise_ man is giving"
 $
-A-NSM-ATT	Function=Adjective; Case=Nominative; Number=Singular; Gender=Masculine; Extra=ATTic Greek form
-	Adjective Nominative Singular Masculine ATTic Greek form
+A-NSM-ATT	Function=Adjective; Case=Nominative; Number=Singular; Gender=Masculine; Extra=Attic Greek form
+	Adjective Nominative Singular Masculine Attic Greek form
 	describing a male person or thing that is doing something 
 	"a _wise_ man is giving": "a _wise_ man is giving"
 $
@@ -785,8 +770,8 @@ A-NUI-PG	Function=Adjective; Adj.Numb.=Indeclinable Numeral; Name type=Person Ge
 	describing a number of those related to a named person
 	"the _first_ Levite": "the _first_ Levite"
 $
-A-NUI-ABB	Function=Adjective; Adj.Numb.=Indeclinable Numeral; Extra=ABBreviated form
-	Adjective Indeclinable Numeral ABBreviated form 
+A-NUI-ABB	Function=Adjective; Adj.Numb.=Indeclinable Numeral; Extra=Contracted form
+	Adjective Indeclinable Numeral Contracted form 
 	describing a number
 	"the _1st_ gift": "the _1st_ gift"
 $
@@ -2225,6 +2210,11 @@ N-PRI	Function=Indeclinable Proper Noun; Indeclinable=
 	a name
 	"_Mary_": "_Mary_"
 $
+NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
+	Adjective Indeclinable Numeral 
+	describing a number
+	"the _first_ gift": "the _first_ gift"
+$
 N-VPF	Function=Noun; Case=Vocative; Number=Plural; Gender=Feminine
 	Noun Vocative Plural Feminine 
 	female PEOPLE OR THINGS that are being addressed 
@@ -2735,8 +2725,8 @@ R-GSN	Function=Relative pronoun; Case=Genitive; Number=Singular; Gender=Neuter
 	a REFERENCE BACK to a neuter person or thing that something belongs to 
 	"you gave teachings belonginging to the nation _which_ is wise": "something of the nation _which_ is wise"
 $
-R-GSN-ATT	Function=Relative pronoun; Case=Genitive; Number=Singular; Gender=Neuter; Extra=ATTic Greek form
-	Relative pronoun Genitive Singular Neuter ATTic Greek form
+R-GSN-ATT	Function=Relative pronoun; Case=Genitive; Number=Singular; Gender=Neuter; Extra=Attic Greek form
+	Relative pronoun Genitive Singular Neuter Attic Greek form
 	a REFERENCE BACK to a neuter person or thing that something belongs to 
 	"you gave teachings belonginging to the nation _which_ is wise": "something of the nation _which_ is wise"
 $
@@ -3225,8 +3215,8 @@ V-2AAI-3P	Function=Verb; Tense=2nd Aorist; Voice=Active; Mood=Indicative; Person
 	an ACTION that happened - by people or things being discussed 
 	"_they taught _": "_they did _"
 $
-V-2AAI-3P-ATT	Function=Verb; Tense=2nd Aorist; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb 2nd Aorist Active Indicative 3rd Plural ATTic form 
+V-2AAI-3P-ATT	Function=Verb; Tense=2nd Aorist; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb 2nd Aorist Active Indicative 3rd Plural Attic form 
 	an ACTION that happened - by people or things being discussed 
 	"_they taught _": "_they did _"
 $
@@ -3250,8 +3240,8 @@ V-2AAM-2S-AP	Function=Verb; Tense=2nd Aorist; Voice=Active; Mood=Imperative; Per
 	an ACTION that certainly should or must happen - by a person being spoken or written to 
 	"_you_ alone _must teach _": "_you_ alone _should or must do _"
 $
-V-2AAM-2S-ATT	Function=Verb; Tense=2nd Aorist; Voice=Active; Mood=Imperative; Person=2nd; Number=Singular; Extra=ATTic form
-	Verb 2nd Aorist Active Imperative 2nd Singular ATTic form 
+V-2AAM-2S-ATT	Function=Verb; Tense=2nd Aorist; Voice=Active; Mood=Imperative; Person=2nd; Number=Singular; Extra=Attic form
+	Verb 2nd Aorist Active Imperative 2nd Singular Attic form 
 	an ACTION that certainly should or must happen - by a person being spoken or written to 
 	"_you_ alone _must teach _": "_you_ alone _should or must do _"
 $
@@ -4025,8 +4015,8 @@ V-2LAI-2S	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person
 	an ACTION that had happened - by a person being spoken or written to 
 	"_you_ alone _had taught _": "_you_ alone _had done _"
 $
-V-2LAI-3P-ATT	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Pluperfect Active Indicative 3rd Plural ATTic form 
+V-2LAI-3P-ATT	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Pluperfect Active Indicative 3rd Plural Attic form 
 	an ACTION that had happened - by people or things being discussed 
 	"_they had taught _": "_they had done _"
 $
@@ -4055,8 +4045,8 @@ V-2RAI-1P	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Perso
 	an ACTION that has happened - by people or things that are speaking or writing 
 	"_we had taught _": "_we had done _"
 $
-V-2RAI-1P-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=1st; Number=Plural; Extra=ATTic form
-	Verb 2nd Perfect Active Indicative 1st Plural ATTic form 
+V-2RAI-1P-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=1st; Number=Plural; Extra=Attic form
+	Verb 2nd Perfect Active Indicative 1st Plural Attic form 
 	an ACTION that has happened - by people or things that are speaking or writing 
 	"_we had taught _": "_we had done _"
 $
@@ -4070,8 +4060,8 @@ V-2RAI-2P	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Perso
 	an ACTION that has happened - by persons being spoken or written to 
 	"_you_ all _had taught _": "_you_ all _had done _"
 $
-V-2RAI-2P-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=2nd; Number=Plural; Extra=ATTic form
-	Verb 2nd Perfect Active Indicative 2nd Plural ATTic form 
+V-2RAI-2P-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=2nd; Number=Plural; Extra=Attic form
+	Verb 2nd Perfect Active Indicative 2nd Plural Attic form 
 	an ACTION that has happened - by persons being spoken or written to 
 	"_you_ all _had taught _": "_you_ all _had done _"
 $
@@ -4085,8 +4075,8 @@ V-2RAI-3P	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Perso
 	an ACTION that has happened - by people or things being discussed 
 	"_they had taught _": "_they had done _"
 $
-V-2RAI-3P-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb 2nd Perfect Active Indicative 3rd Plural ATTic form 
+V-2RAI-3P-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb 2nd Perfect Active Indicative 3rd Plural Attic form 
 	an ACTION that has happened - by people or things being discussed 
 	"_they had taught _": "_they had done _"
 $
@@ -4100,8 +4090,8 @@ V-2RAI-3S	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Perso
 	an ACTION that has happened - by a person or thing being discussed 
 	"_he/she/it had taught _": "_he/she/it had done _"
 $
-V-2RAI-3S-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb 2nd Perfect Active Indicative 3rd Singular ATTic form 
+V-2RAI-3S-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb 2nd Perfect Active Indicative 3rd Singular Attic form 
 	an ACTION that has happened - by a person or thing being discussed 
 	"_he had taught _": "_he had done _"
 $
@@ -4120,8 +4110,8 @@ V-2RAP-APM	Function=Verb; Tense=2nd Perfect; Voice=Active; Form=Participle; Case
 	an ACTION that was happening - done by male people or things that are having something done to them 
 	"give them men that _were teaching_ wisdom ": "give them men that _were doing_"
 $
-V-2RAP-APM-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Form=Participle; Case=Accusative; Number=Plural; Gender=Masculine; Extra=ATTic form
-	Verb 2nd Perfect Active Participle Accusative Plural Masculine ATTic form
+V-2RAP-APM-ATT	Function=Verb; Tense=2nd Perfect; Voice=Active; Form=Participle; Case=Accusative; Number=Plural; Gender=Masculine; Extra=Attic form
+	Verb 2nd Perfect Active Participle Accusative Plural Masculine Attic form
 	an ACTION that was happening - done by male people or things that are having something done to them 
 	"give them men that _were teaching_ wisdom ": "give them men that _were doing_"
 $
@@ -4820,8 +4810,8 @@ V-AOI-1P	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; P
 	an ACTION that happened – by people or things that are speaking or writing 
 	"_we taught_": "_we did_"
 $
-V-AOI-1P-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=1st; Number=Plural; Extra=ATTic form
-	Verb Aorist Passive Deponent Indicative 1st Plural ATTic form 
+V-AOI-1P-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=1st; Number=Plural; Extra=Attic form
+	Verb Aorist Passive Deponent Indicative 1st Plural Attic form 
 	an ACTION that happened – by people or things that are speaking or writing 
 	"_we taught_": "_we did_"
 $
@@ -4830,8 +4820,8 @@ V-AOI-1S	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; P
 	an ACTION that happened – by a person or thing that is speaking or writing 
 	"_I taught_": "_I did_"
 $
-V-AOI-1S-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=1st; Number=Singular; Extra=ATTic form
-	Verb Aorist Passive Deponent Indicative 1st Singular ATTic form 
+V-AOI-1S-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=1st; Number=Singular; Extra=Attic form
+	Verb Aorist Passive Deponent Indicative 1st Singular Attic form 
 	an ACTION that happened – by a person or thing that is speaking or writing 
 	"_I taught_": "_I did_"
 $
@@ -4840,8 +4830,8 @@ V-AOI-2P	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; P
 	an ACTION that happened – by persons being spoken or written to 
 	"_you_ all_ taught_": "_you_ all_ did_"
 $
-V-AOI-2P-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=2nd; Number=Plural; Extra=ATTic form
-	Verb Aorist Passive Deponent Indicative 2nd Plural ATTic form 
+V-AOI-2P-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=2nd; Number=Plural; Extra=Attic form
+	Verb Aorist Passive Deponent Indicative 2nd Plural Attic form 
 	an ACTION that happened – by persons being spoken or written to 
 	"_you_ all_ taught_": "_you_ all_ did_"
 $
@@ -4850,8 +4840,8 @@ V-AOI-3P	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; P
 	an ACTION that happened – by people or things being discussed 
 	"_they taught_": "_they did_"
 $
-V-AOI-3P-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Aorist Passive Deponent Indicative 3rd Plural ATTic form 
+V-AOI-3P-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Aorist Passive Deponent Indicative 3rd Plural Attic form 
 	an ACTION that happened – by people or things being discussed 
 	"_they taught_": "_they did_"
 $
@@ -4860,8 +4850,8 @@ V-AOI-3S	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; P
 	an ACTION that happened – by a person or thing being discussed 
 	"_he/she/it taught_": "_he/she/it did_"
 $
-V-AOI-3S-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb Aorist Passive Deponent Indicative 3rd Singular ATTic form 
+V-AOI-3S-ATT	Function=Verb; Tense=Aorist; Voice=Passive Deponent; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb Aorist Passive Deponent Indicative 3rd Singular Attic form 
 	an ACTION that happened – by a person or thing being discussed 
 	"_he taught_": "_he did_"
 $
@@ -5235,8 +5225,8 @@ V-FAI-1S	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=1st;
 	an ACTION that will happen - by a person or thing that is speaking or writing 
 	"_I will teach _": "_I will do _"
 $
-V-FAI-1S-ATT	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=1st; Number=Singular; Extra=ATTic form
-	Verb Future Active Indicative 1st Singular ATTic form 
+V-FAI-1S-ATT	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=1st; Number=Singular; Extra=Attic form
+	Verb Future Active Indicative 1st Singular Attic form 
 	an ACTION that will happen - by a person or thing that is speaking or writing 
 	"_I will teach _": "_I will do _"
 $
@@ -5255,8 +5245,8 @@ V-FAI-3P	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=3rd;
 	an ACTION that will happen - by people or things being discussed 
 	"_they will teach _": "_they will do _"
 $
-V-FAI-3P-ATT	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Future Active Indicative 3rd Plural ATTic form 
+V-FAI-3P-ATT	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Future Active Indicative 3rd Plural Attic form 
 	an ACTION that will happen - by people or things being discussed 
 	"_they will teach _": "_they will do _"
 $
@@ -5265,8 +5255,8 @@ V-FAI-3S	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=3rd;
 	an ACTION that will happen - by a person or thing being discussed 
 	"_he/she/it will teach _": "_he/she/it will do _"
 $
-V-FAI-3S-ATT	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb Future Active Indicative 3rd Singular ATTic form 
+V-FAI-3S-ATT	Function=Verb; Tense=Future; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb Future Active Indicative 3rd Singular Attic form 
 	an ACTION that will happen - by a person or thing being discussed 
 	"_he will teach _": "_he will do _"
 $
@@ -5340,8 +5330,8 @@ V-FDI-2P	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Pe
 	an ACTION that will happen - by persons being spoken or written to 
 	"_you_ all _will teach_": "_you_ all _will do_"
 $
-V-FDI-2P-ATT	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Person=2nd; Number=Plural; Extra=ATTic form
-	Verb Future Middle Deponent Indicative 2nd Plural ATTic form 
+V-FDI-2P-ATT	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Person=2nd; Number=Plural; Extra=Attic form
+	Verb Future Middle Deponent Indicative 2nd Plural Attic form 
 	an ACTION that will happen - by persons being spoken or written to 
 	"_you_ all _will teach_": "_you_ all _will do_"
 $
@@ -5350,8 +5340,8 @@ V-FDI-2S	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Pe
 	an ACTION that will happen - by a person being spoken or written to 
 	"_you_ alone _will teach_": "_you_ alone _will do_"
 $
-V-FDI-2S-ATT	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Person=2nd; Number=Singular; Extra=ATTic form
-	Verb Future Middle Deponent Indicative 2nd Singular ATTic form 
+V-FDI-2S-ATT	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Person=2nd; Number=Singular; Extra=Attic form
+	Verb Future Middle Deponent Indicative 2nd Singular Attic form 
 	an ACTION that will happen - by a person being spoken or written to 
 	"_you_ alone _will teach_": "_you_ alone _will do_"
 $
@@ -5365,8 +5355,8 @@ V-FDI-3S	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Pe
 	an ACTION that will happen - by a person or thing being discussed 
 	"_he/she/it will teach_": "_he/she/it will do_"
 $
-V-FDI-3S-ATT	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb Future Middle Deponent Indicative 3rd Singular ATTic form 
+V-FDI-3S-ATT	Function=Verb; Tense=Future; Voice=Middle Deponent; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb Future Middle Deponent Indicative 3rd Singular Attic form 
 	an ACTION that will happen - by a person or thing being discussed 
 	"_he/she/it will teach_": "_he/she/it will do_"
 $
@@ -5570,8 +5560,8 @@ V-IAI-3P	Function=Verb; Tense=Imperfect; Voice=Active; Mood=Indicative; Person=3
 	an ACTION that was happening - done by people or things being discussed 
 	"_they did teach _": "_they did do _"
 $
-V-IAI-3P-ATT	Function=Verb; Tense=Imperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Imperfect Active Indicative 3rd Plural ATTic form 
+V-IAI-3P-ATT	Function=Verb; Tense=Imperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Imperfect Active Indicative 3rd Plural Attic form 
 	an ACTION that was happening - done by people or things being discussed 
 	"_they did teach _": "_they did do _"
 $
@@ -5580,8 +5570,8 @@ V-IAI-3S	Function=Verb; Tense=Imperfect; Voice=Active; Mood=Indicative; Person=3
 	an ACTION that was happening - done by a person or thing being discussed 
 	"_he/she/it did teach _": "_he/she/it did do _"
 $
-V-IAI-3S-ATT	Function=Verb; Tense=Imperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb Imperfect Active Indicative 3rd Singular ATTic form 
+V-IAI-3S-ATT	Function=Verb; Tense=Imperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb Imperfect Active Indicative 3rd Singular Attic form 
 	an ACTION that was happening - done by a person or thing being discussed 
 	"_he did teach _": "_he did do _"
 $
@@ -5640,8 +5630,8 @@ V-INI-2P	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=
 	an ACTION that was happening - by persons being spoken or written to 
 	"_you_ all _used to teach_": "_you_ all _used to do_"
 $
-V-INI-2P-ATT	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=Indicative; Person=2nd; Number=Plural; Extra=ATTic form
-	Verb Imperfect Middle or Passive Deponent Indicative 2nd Plural ATTic form 
+V-INI-2P-ATT	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=Indicative; Person=2nd; Number=Plural; Extra=Attic form
+	Verb Imperfect Middle or Passive Deponent Indicative 2nd Plural Attic form 
 	an ACTION that was happening - by persons being spoken or written to 
 	"_you_ all _used to teach_": "_you_ all _used to do_"
 $
@@ -5655,8 +5645,8 @@ V-INI-3P	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=
 	an ACTION that was happening - by people or things being discussed 
 	"_they used to teach_": "_they used to do_"
 $
-V-INI-3P-ATT	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Imperfect Middle or Passive Deponent Indicative 3rd Plural ATTic form 
+V-INI-3P-ATT	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Imperfect Middle or Passive Deponent Indicative 3rd Plural Attic form 
 	an ACTION that was happening - by people or things being discussed 
 	"_they used to teach_": "_they used to do_"
 $
@@ -5665,8 +5655,8 @@ V-INI-3S	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=
 	an ACTION that was happening - by a person or thing being discussed 
 	"_he/she/it used to teach_": "_he/she/it used to do_"
 $
-V-INI-3S-ATT	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb Imperfect Middle or Passive Deponent Indicative 3rd Singular ATTic form 
+V-INI-3S-ATT	Function=Verb; Tense=Imperfect; Voice=Middle or Passive Deponent; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb Imperfect Middle or Passive Deponent Indicative 3rd Singular Attic form 
 	an ACTION that was happening - by a person or thing being discussed 
 	"_he/she/it used to teach_": "_he/she/it used to do_"
 $
@@ -5750,8 +5740,8 @@ V-LAI-3P	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=
 	an ACTION that had happened - by people or things being discussed 
 	"_they had taught _": "_they had done _"
 $
-V-LAI-3P-ATT	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Pluperfect Active Indicative 3rd Plural ATTic form 
+V-LAI-3P-ATT	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Pluperfect Active Indicative 3rd Plural Attic form 
 	an ACTION that had happened - by people or things being discussed 
 	"_they had taught _": "_they had done _"
 $
@@ -5760,8 +5750,8 @@ V-LAI-3S	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=
 	an ACTION that had happened - by a person or thing being discussed 
 	"_he/she/it had taught _": "_he/she/it had done _"
 $
-V-LAI-3S-ATT	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb Pluperfect Active Indicative 3rd Singular ATTic form 
+V-LAI-3S-ATT	Function=Verb; Tense=Pluperfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb Pluperfect Active Indicative 3rd Singular Attic form 
 	an ACTION that had happened - by a person or thing being discussed 
 	"_he had taught _": "_he had done _"
 $
@@ -5810,8 +5800,8 @@ V-PAI-3P	Function=Verb; Tense=Present; Voice=Active; Mood=Indicative; Person=3rd
 	an ACTION that happens - by people or things being discussed 
 	"_they teach_": "_they do_"
 $
-V-PAI-3P-ATT	Function=Verb; Tense=Present; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Present Active Indicative 3rd Plural ATTic form 
+V-PAI-3P-ATT	Function=Verb; Tense=Present; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Present Active Indicative 3rd Plural Attic form 
 	an ACTION that happens - by people or things being discussed 
 	"_they teach_": "_they do_"
 $
@@ -6395,8 +6385,8 @@ V-PNI-2S	Function=Verb; Tense=Present; Voice=Middle or Passive Deponent; Mood=In
 	an ACTION that happens - by a person being spoken or written to 
 	"_you_ alone _are taught_": "_you_ alone _are done_"
 $
-V-PNI-2S-ATT	Function=Verb; Tense=Present; Voice=Middle or Passive Deponent; Mood=Indicative; Person=2nd; Number=Singular; Extra=ATTic form
-	Verb Present Middle or Passive Deponent Indicative 2nd Singular ATTic form 
+V-PNI-2S-ATT	Function=Verb; Tense=Present; Voice=Middle or Passive Deponent; Mood=Indicative; Person=2nd; Number=Singular; Extra=Attic form
+	Verb Present Middle or Passive Deponent Indicative 2nd Singular Attic form 
 	an ACTION that happens - by a person being spoken or written to 
 	"_you_ alone _are taught_": "_you_ alone _are done_"
 $
@@ -7080,8 +7070,8 @@ V-RAI-1P	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=1st
 	an ACTION that has happened - by people or things that are speaking or writing 
 	"_we have taught_": "_we have done_"
 $
-V-RAI-1P-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=1st; Number=Plural; Extra=ATTic form
-	Verb Perfect Active Indicative 1st Plural ATTic form 
+V-RAI-1P-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=1st; Number=Plural; Extra=Attic form
+	Verb Perfect Active Indicative 1st Plural Attic form 
 	an ACTION that has happened - by people or things that are speaking or writing 
 	"_we have taught_": "_we have done_"
 $
@@ -7090,8 +7080,8 @@ V-RAI-1S	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=1st
 	an ACTION that has happened - by a person or thing that is speaking or writing 
 	"_I have taught_": "_I have done_"
 $
-V-RAI-1S-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=1st; Number=Singular; Extra=ATTic form
-	Verb Perfect Active Indicative 1st Singular ATTic form 
+V-RAI-1S-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=1st; Number=Singular; Extra=Attic form
+	Verb Perfect Active Indicative 1st Singular Attic form 
 	an ACTION that has happened - by a person or thing that is speaking or writing 
 	"_I have taught_": "_I have done_"
 $
@@ -7100,8 +7090,8 @@ V-RAI-2P	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=2nd
 	an ACTION that has happened - by persons being spoken or written to 
 	"_you_ all _have taught_": "_you_ all _have done_"
 $
-V-RAI-2P-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=2nd; Number=Plural; Extra=ATTic form
-	Verb Perfect Active Indicative 2nd Plural ATTic form 
+V-RAI-2P-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=2nd; Number=Plural; Extra=Attic form
+	Verb Perfect Active Indicative 2nd Plural Attic form 
 	an ACTION that has happened - by persons being spoken or written to 
 	"_you_ all _have taught_": "_you_ all _have done_"
 $
@@ -7110,8 +7100,8 @@ V-RAI-2S	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=2nd
 	an ACTION that has happened - by a person being spoken or written to 
 	"_you_ alone _have taught_": "_you_ alone _have done_"
 $
-V-RAI-2S-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=2nd; Number=Singular; Extra=ATTic form
-	Verb Perfect Active Indicative 2nd Singular ATTic form 
+V-RAI-2S-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=2nd; Number=Singular; Extra=Attic form
+	Verb Perfect Active Indicative 2nd Singular Attic form 
 	an ACTION that has happened - by a person being spoken or written to 
 	"_you_ alone _have taught_": "_you_ alone _have done_"
 $
@@ -7120,8 +7110,8 @@ V-RAI-3P	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=3rd
 	an ACTION that has happened - by people or things being discussed 
 	"_they have taught_": "_they have done_"
 $
-V-RAI-3P-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=ATTic form
-	Verb Perfect Active Indicative 3rd Plural ATTic form 
+V-RAI-3P-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Plural; Extra=Attic form
+	Verb Perfect Active Indicative 3rd Plural Attic form 
 	an ACTION that has happened - by people or things being discussed 
 	"_they have taught_": "_they have done_"
 $
@@ -7130,8 +7120,8 @@ V-RAI-3S	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=3rd
 	an ACTION that has happened - by a person or thing being discussed 
 	"_he/she/it has taught_": "_he/she/it has done_"
 $
-V-RAI-3S-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=ATTic form
-	Verb Perfect Active Indicative 3rd Singular ATTic form 
+V-RAI-3S-ATT	Function=Verb; Tense=Perfect; Voice=Active; Mood=Indicative; Person=3rd; Number=Singular; Extra=Attic form
+	Verb Perfect Active Indicative 3rd Singular Attic form 
 	an ACTION that has happened - by a person or thing being discussed 
 	"_he has taught_": "_he has done_"
 $
@@ -7145,8 +7135,8 @@ V-RAN	Function=Verb; Tense=Perfect; Voice=Active; Form=Infinitive
 	an ACTION that was to happen 
 	"_was to teach_ ": "_was to do_ "
 $
-V-RAN-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Infinitive; Extra=ATTic form
-	Verb Perfect Active Infinitive ATTic form 
+V-RAN-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Infinitive; Extra=Attic form
+	Verb Perfect Active Infinitive Attic form 
 	an ACTION that was to happen 
 	"_was to teach_ ": "_was to do_ "
 $
@@ -7240,8 +7230,8 @@ V-RAP-GSM	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Geni
 	an ACTION that was happening - done by a male person or thing that something belongs to 
 	"give them wisdom of a man that _was teaching_ ": "something of a man that _was doing_ "
 $
-V-RAP-GSN-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Genitive; Number=Singular; Gender=Neuter; Extra=ATTic form
-	Verb Perfect Active Participle Genitive Singular Neuter ATTic form
+V-RAP-GSN-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Genitive; Number=Singular; Gender=Neuter; Extra=Attic form
+	Verb Perfect Active Participle Genitive Singular Neuter Attic form
 	an ACTION that was happening - done by a neuter person or thing that something belongs to 
 	"give them wisdom of a nation that _was teaching_ ": "something of a nation that _was doing_ "
 $
@@ -7255,8 +7245,8 @@ V-RAP-NPM	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Nomi
 	an ACTION that was happening - done by male people or things that are doing something 
 	" men that _were teaching_ gave them wisdom ": " men that _were doing_"
 $
-V-RAP-NPM-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Nominative; Number=Plural; Gender=Masculine; Extra=ATTic form
-	Verb Perfect Active Participle Nominative Plural Masculine ATTic form
+V-RAP-NPM-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Nominative; Number=Plural; Gender=Masculine; Extra=Attic form
+	Verb Perfect Active Participle Nominative Plural Masculine Attic form
 	an ACTION that was happening - done by male people or things that are doing something 
 	" men that _were teaching_ gave them wisdom ": " men that _were doing_"
 $
@@ -7280,8 +7270,8 @@ V-RAP-NSM	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Nomi
 	an ACTION that was happening - done by a male person or thing that is doing something 
 	"a man that _was teaching_ gave them wisdom ": "a man that _was doing_"
 $
-V-RAP-NSM-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Nominative; Number=Singular; Gender=Masculine; Extra=ATTic form
-	Verb Perfect Active Participle Nominative Singular Masculine ATTic form
+V-RAP-NSM-ATT	Function=Verb; Tense=Perfect; Voice=Active; Form=Participle; Case=Nominative; Number=Singular; Gender=Masculine; Extra=Attic form
+	Verb Perfect Active Participle Nominative Singular Masculine Attic form
 	an ACTION that was happening - done by a male person or thing that is doing something 
 	"a man that _was teaching_ gave them wisdom ": "a man that _was doing_"
 $
@@ -7570,8 +7560,8 @@ V-RPP-ASN	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Acc
 	an ACTION that was done to a neuter person or thing that is having something done to them 
 	"give them a nation that _was taught_ wisdom ": "give them a nation that _was done_ good"
 $
-V-RPP-ASN-ATT	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Accusative; Number=Singular; Gender=Neuter; Extra=ATTic form
-	Verb Perfect Passive Participle Accusative Singular Neuter ATTic form
+V-RPP-ASN-ATT	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Accusative; Number=Singular; Gender=Neuter; Extra=Attic form
+	Verb Perfect Passive Participle Accusative Singular Neuter Attic form
 	an ACTION that was done to a neuter person or thing that is having something done to them 
 	"give them a nation that _was taught_ wisdom ": "give them a nation that _was done_ good"
 $
@@ -7665,8 +7655,8 @@ V-RPP-NSN	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Nom
 	an ACTION that was done to a neuter person or thing that is doing something 
 	"a nation that _was taught_ gave them wisdom ": "a nation that _was done_ good"
 $
-V-RPP-NSN-ATT	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Nominative; Number=Singular; Gender=Neuter; Extra=ATTic form
-	Verb Perfect Passive Participle Nominative Singular Neuter ATTic form
+V-RPP-NSN-ATT	Function=Verb; Tense=Perfect; Voice=Passive; Form=Participle; Case=Nominative; Number=Singular; Gender=Neuter; Extra=Attic form
+	Verb Perfect Passive Participle Nominative Singular Neuter Attic form
 	an ACTION that was done to a neuter person or thing that is doing something 
 	"a nation that _was taught_ gave them wisdom ": "a nation that _was done_ good"
 $
