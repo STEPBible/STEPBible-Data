@@ -49,6 +49,9 @@ Abridged BDB linked to extended Strongs (compatible with OpenScriptures and back
 * **[TBESG - Tyndale Brief lexicon of Extended Strongs for Greek](https://github.com/tyndale/STEPBible-Data)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
 
+* **[TFLSJ - Tyndale Formatted full LSJ lexicon](https://github.com/tyndale/STEPBible-Data)**    
+Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
+
 * **[TIPNR - Tyndale Individualised Proper Names with all References](https://github.com/tyndale/STEPBible-Data)**  
 Every name in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places. Each form of the names for each individual includes exhaustive refs for where that individual is named with data of their spouses, siblings and offspring or the places' geolocation (based on OpenBible).    
 
@@ -70,9 +73,6 @@ LXX text with later Ecclesiastical variants. The base text is Rhalfs with varian
 
 * **TFBDB - Tyndale Formatted full BDB lexicon**   
 Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)    
-
-* **TFLSJ - Tyndale Formatted full LSJ lexicon**    
-Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
 * **TOTMM - Tyndale OT Manuscripts and Meanings**  
 Translation, Hebrew form and witnesses for each variant that affects the meaning of the text, as determined by Barthélemy's UBS committee. Also, alternate meanings found in standard translations. Shown as alternate renderings of a base text (ESV 2011).    
