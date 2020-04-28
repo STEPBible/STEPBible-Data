@@ -857,12 +857,12 @@ A-NSN-S	Function=Adjective; Case=Nominative; Number=Singular; Gender=Neuter; Ext
 	describing a neuter person or thing that is doing something 
 	"a _wise_ nation is giving wisdom"
 $
-A-NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
+NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
 	Adjective Indeclinable Numeral 
 	describing a number
 	"the _first_ gift"
 $
-NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
+A-NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
 	Adjective Indeclinable Numeral 
 	describing a number
 	"the _first_ gift"
@@ -2316,11 +2316,6 @@ N-PRI	Function=Indeclinable Proper Noun; Indeclinable=
 	Indeclinable Proper Noun 
 	a name
 	"_Mary_"
-$
-NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
-	Adjective Indeclinable Numeral 
-	describing a number
-	"the _first_ gift"
 $
 N-VPF	Function=Noun; Case=Vocative; Number=Plural; Gender=Feminine
 	Noun Vocative Plural Feminine 
