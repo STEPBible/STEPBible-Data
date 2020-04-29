@@ -1,6 +1,8 @@
 ﻿TEGMC - Tyndale Expansion of Greek Morphhology Codes - TyndaleHouse.com STEPBible.org CC BY-NC
 =========================================================================
-Brief  morphology codes - as used in the Greek lexicons
+
+Greek morphology codes with expanded explanations in terms of parsing, meaning and example
+Brief morphology codes - as used in the Greek lexicons
 Full morphology codes    - as used in tagged Greek texts
 
 
@@ -22,7 +24,7 @@ And you should:
 If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
 ==============================================================
 
-BRIEF  MORPHOLOGY CODES: 
+BRIEF LEXICAL MORPHOLOGY CODES: 
 ================
 Form is:   Language:Function-Gender-Type
 Example: "a Samaritan" is "N:N-M-LG" where "N:" is a "Name" (a special form of 'language' because it isn't restricted to one language); "N" is the function "Noun"; "M" is "Male"; "L" is Location, G=Gentilic (i.e. defining a group of people). 
@@ -33,68 +35,68 @@ The following forms occur in the NT:
 
 Code	Meaning	Example in English
 ====================================================
-A:Intg	Aramaic Interogative	Hey!
-A:N	Aramaic Noun	a thought
-A:V	Aramaic Verb	to think
-A:V + A:N	Aramaic 	Come lord
-G:A	Greek Adjective	thoughtful
-G:A / G:Adv	Greek Adjective OR Greek Adverb	fast
-G:A / G:V	Greek Adjective OR Greek Verb	green
-G:Adv	Greek Adverb	thoughtfully
-G:Adv / G:Imperat	Greek Adverb OR Greek Imperative	now!
-G:Art	Greek Article	the
-G:Art + G:V + G:Conj + G:Art + G:V + G:Conj + G:Art + G:V	Greek Article WITH Greek Verb WITH Greek Conjunction WITH Greek Article WITH Greek Verb WITH Greek Conjunction WITH Greek Article WITH Greek Verb	who was, and who is and who will be
-G:Cond	Greek Conditional	if
-G:Cond / G:Conj	Greek Conditional OR Greek Conjunction	even
-G:Cond + G:Neg	Greek Conditional WITH Greek Negative	if not
-G:Cond + G:Neg + G:Conj	Greek Conditional WITH Greek Negative WITH Greek Conjunction	if not also
-G:Conj	Greek Conjunction	and
-G:Conj+G:PerP	Greek Conjunction JOINED TO Greek Personal Pronoun	#MeToo
-G:Cor	Greek Correlative	how much?
-G:Cor+G:Intg	Greek Correlative JOINED TO Greek Interogative	howMuch?
-G:DemP	Greek DemonstrativePronoun	this
-G:Intg	Greek Interogative	what
-G:Intg+G:Neg	Greek Interogative JOINED TO Greek Negative	never?
-G:Intj	Greek Intjection		Hey!
-G:Neg	Greek Negative		not
-G:Neg + G:Neg	Greek Negative WITH Greek Negative	not never
-G:Neg+G:Conj	Greek Negative JOINED TO Greek Conjunction	nor
-G:Neg+G:Conj + G:Neg	Greek Negative JOINED TO Greek Conjunction WITH Greek Negative	nor not
-G:N	Greek Noun	thought
-G:N / G:A	Greek Noun OR Greek Adjective	green
-G:N-F	Greek Noun (Feminine)	woman
-G:N-F / G:A	Greek Noun (Feminine) OR Greek Adjective	female
-G:N-F / N:N--T	Greek Noun (Feminine) OR Proper Noun of some kind	Grace
-G:N-F/N	Greek Noun (Feminine or Neuter)	cow
-G:N-M	Greek Noun (Masculine)	man
-G:N-M/F	Greek Noun (Masculine or Feminine)	person
-G:N-M/N	Greek Noun (Masculine or Neuter)	dog
-G:N-N	Greek Noun Neuter	thought
-G:N-N / G:V	Greek Noun Neuter OR Greek Verb	green
-G:Part	Greek Particle	up
-G:PerP	Greek Personal Pronoun	he
-G:PosP	Greek Possessive Pronoun	his
-G:Prep	Greek Preposition	with
-G:Prep / G:Adv	Greek Preposition OR Greek Adverb	close
-G:RefP	Greek Reflexive Pronoun	himself
-G:RelP	Greek Relative Pronoun	that
-G:V	Greek Verb	think
-G:V / G:A	Greek Verb OR Greek Adjective	green
-H:A	Hebrew Adjective	thoughtful
-H:Intj	Hebrew Intjection	Hey!
-H:N	Hebrew Noun	thought
-N:Adv--L	Name Adverb of a Location	Britishly
-N:N-F-L	Proper name (Feminine) of a Location	Victoria
-N:N-F-LG	Proper Name (Feminine) of a Location in Gentilic sense	Victorian
-N:N-F-P	Proper Name (Feminine) of a Person	Victoria
-N:N--L	Proper Name of a Location with no gender	Germany
-N:N--LG	Proper Name of a Location in Gentilic sense	German
-N:N-M-L	Proper Name (Masculine) of a Location	Rome
-N:N-M-LG	Proper Name (Masculine) of a Location in Gentilic sense	Roman
-N:N-M-P	Proper Name (Masculine) of a Person	Peter
-N:N-M-T	Proper Name (Masculine) of some kind	January
-N:N--PG	Proper Name of a Person in Gentilic sense	Christian
-N:N--T	Proper Name of some kind	Pharaoh
+A:Intg	how?	Aramaic Interogative	
+A:N	lord	Aramaic Noun	
+A:V	to lord	Aramaic Verb	
+A:V + A:N	Come lord	Aramaic 	
+G:A	thoughtful	Greek Adjective	
+G:A / G:Adv	fast	Greek Adjective OR Greek Adverb	
+G:A / G:V	green	Greek Adjective OR Greek Verb	
+G:Adv	thoughtfully	Greek Adverb	
+G:Adv / G:Imperat	now!	Greek Adverb OR Greek Imperative	
+G:Art	the	Greek Article	
+G:Art + G:V + G:Conj + G:Art + G:V + G:Conj + G:Art + G:V	who was, and who is and who will be	Greek Article WITH Greek Verb WITH Greek Conjunction WITH Greek Article WITH Greek Verb WITH Greek Conjunction WITH Greek Article WITH Greek Verb	
+G:Cond	if	Greek Conditional	
+G:Cond / G:Conj	even	Greek Conditional OR Greek Conjunction	
+G:Cond + G:Neg	if not	Greek Conditional WITH Greek Negative	
+G:Cond + G:Neg + G:Conj	if not also	Greek Conditional WITH Greek Negative WITH Greek Conjunction	
+G:Conj	and	Greek Conjunction	
+G:Conj+G:PerP	#MeToo	Greek Conjunction JOINED TO Greek Personal Pronoun	
+G:Cor	how much?	Greek Correlative	
+G:Cor+G:Intg	howMuch?	Greek Correlative JOINED TO Greek Interogative	
+G:DemP	this	Greek DemonstrativePronoun	
+G:Intg	what	Greek Interogative	
+G:Intg+G:Neg	never?	Greek Interogative JOINED TO Greek Negative	
+G:Intj	Hey!	Greek Intjection	
+G:Neg	not	Greek Negative	
+G:Neg + G:Neg	not never	Greek Negative WITH Greek Negative	
+G:Neg+G:Conj	nor	Greek Negative JOINED TO Greek Conjunction	
+G:Neg+G:Conj + G:Neg	nor not	Greek Negative JOINED TO Greek Conjunction WITH Greek Negative	
+G:N	thought	Greek Noun	
+G:N / G:A	green	Greek Noun OR Greek Adjective	
+G:N-F	woman	Greek Noun (Feminine)	
+G:N-F / G:A	female	Greek Noun (Feminine) OR Greek Adjective	
+G:N-F / N:N--T	Grace	Greek Noun (Feminine) OR Proper Noun of some kind	
+G:N-F/N	cow	Greek Noun (Feminine or Neuter)	
+G:N-M	man	Greek Noun (Masculine)	
+G:N-M/F	person	Greek Noun (Masculine or Feminine)	
+G:N-M/N	dog	Greek Noun (Masculine or Neuter)	
+G:N-N	thought	Greek Noun Neuter	
+G:N-N / G:V	green	Greek Noun Neuter OR Greek Verb	
+G:Part	up	Greek Particle	
+G:PerP	he	Greek Personal Pronoun	
+G:PosP	his	Greek Possessive Pronoun	
+G:Prep	with	Greek Preposition	
+G:Prep / G:Adv	close	Greek Preposition OR Greek Adverb	
+G:RefP	himself	Greek Reflexive Pronoun	
+G:RelP	that	Greek Relative Pronoun	
+G:V	think	Greek Verb	
+G:V / G:A	green	Greek Verb OR Greek Adjective	
+H:A	thoughtful	Hebrew Adjective	
+H:Intj	Hey!	Hebrew Intjection	
+H:N	thought	Hebrew Noun	
+N:Adv--L	Britishly	Name Adverb of a Location	
+N:N-F-L	Victoria	Proper Name (Feminine) of a Location	
+N:N-F-LG	Victorian	Proper Name (Feminine) of a Location in Gentilic sense	
+N:N-F-P	Victoria	Proper Name (Feminine) of a Person	
+N:N--L	Germany	Proper Name of a Location with no gender	
+N:N--LG	German	Proper Name of a Location in Gentilic sense	
+N:N-M-L	Rome	Proper Name (Masculine) of a Location	
+N:N-M-LG	Roman	Proper Name (Masculine) of a Location in Gentilic sense	
+N:N-M-P	Peter	Proper Name (Masculine) of a Person	
+N:N-M-T	January	Proper Name (Masculine) of some kind	
+N:N--PG	Christian	Proper Name of a Person in Gentilic sense	
+N:N--T	Pharaoh	Proper Name of some kind	
 
 
 
