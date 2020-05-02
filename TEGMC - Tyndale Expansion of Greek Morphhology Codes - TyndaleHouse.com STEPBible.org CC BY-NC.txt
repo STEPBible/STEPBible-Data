@@ -484,7 +484,7 @@ A-GPF	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine
 	describing female people or things that something belongs to 
 	"teachings of _wise_ women"
 $
-A-GPF-LG	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine; Name type=Location
+A-GPF-L	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine; Name type=Location
 	Adjective Genitive Plural Feminine Location
 	DESCRIBING female locations that something belongs to 
 	"teachings of _wise_ women"
