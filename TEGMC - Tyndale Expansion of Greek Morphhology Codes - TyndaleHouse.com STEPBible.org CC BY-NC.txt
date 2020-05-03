@@ -55,6 +55,7 @@ G:Conj+G:PerP	#MeToo	Greek Conjunction JOINED TO Greek Personal Pronoun
 G:Cor	how much?	Greek Correlative	
 G:Cor+G:Intg	howMuch?	Greek Correlative JOINED TO Greek Interogative	
 G:DemP	this	Greek DemonstrativePronoun	
+G:Imperat	now!	Greek Imperative	
 G:Intg	what	Greek Interogative	
 G:Intg+G:Neg	never?	Greek Interogative JOINED TO Greek Negative	
 G:Intj	Hey!	Greek Intjection	
@@ -1513,6 +1514,11 @@ F-GPF	Function=Reflexive pronoun; Case=Genitive; Number=Plural; Gender=Feminine
 	Reflexive pronoun Genitive Plural Feminine 
 	a reference to THEMSELVES: female people or things that something belongs to 
 	" women giving teachings of _themselves_"
+$
+HEB	Function=Hebrew transliterated word
+	Hebrew transliterated word 
+	a transliterated Hebrew word
+	"He said: _Rabbi_"
 $
 HEB	Function=Hebrew transliterated word
 	Hebrew transliterated word 
