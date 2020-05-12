@@ -413,7 +413,7 @@ H0345	אַיָּה	ay.yah	N:N-M-P	Aiah	Aiah or Ajah = "falcon"<br>1) a Horite, s
 H0346	אַיֵּה	ay.yeh	H:Adv	where?	1) where?<br>1a) of persons, things<br>1b) rhetorical<br>	
 H0347	אִיּוֹב	iy.yov	N:N-M-P	Job	Job = "hated"<br>1) a patriarch, the subject of the book of Job<br>	
 H0348	אִיזֶבֶל	i.ze.vel	N:N-F-P	Jezebel	Jezebel = "Baal exalts" or "Baal is husband to" or "unchaste"<br>1) queen of Israel, wife of Ahab, daughter of Ethbaal<br>	
-H0349a	אֵיךְ	ekh	H:Adv	how?	interrog adv<br>1) how?<br> 	
+H0349a	אֵיךְ	ekh	H:Adv	how?	interrog adv<br>1) how?<br>	
 H0349b	אֵיכָה		H:Adv	how?	interrog adv<br>1) how?<br>interj<br>2) how! (in lamentation)<br>3) expression of satisfaction<br>	
 H0349c	אֵיכָ֫כָה		H:Adv	how?	1) how?<br>	
 H0350	אִי־כָבוֹד	i-kha.vod	N:N-M-P	Ichabod	Ichabod = "no glory"<br>1) a son of Phinehas, so named because of the capture of the Ark by the Philistines<br>	
@@ -591,7 +591,7 @@ H0515	אֶלְתְּקֹן	el.te.qon	N:N--L	Eltekon	Eltekon = "God is straight"<
 H0516	אַל תַּשְׁחֵת	al tash.chet	H:N-M	Al-taschith	Al-taschith = "do not destroy"<br>1) (Hiphil) a command to the chief musician, or perhaps the title of a melody used for several Psalms<br>	
 H0517	אֵם	em	H:N-F	mother	1) mother<br>1a) of humans<br>1b) of Deborah's relationship to the people (fig.)<br>1c) of animals<br>2) point of departure or division<br>	
 H0518a	אִם	im	H:Cond	if	1) if<br>1a) conditional clauses<br>1a1) of possible situations<br>1a2) of impossible situations<br>1b) oath contexts<br>1b1) no, not<br>1c) if...if, whether...or, whether...or...or<br>1d) when, whenever<br>1e) since<br>1f) interrogative particle<br>1g) but rather<br>	
-H0518b	כִּי אם		H:Cond	if	1) except if <br>1a) but if<br>	
+H0518b	כִּי אם		H:Cond		1) except if <br>1a) but if<br>	
 H0519	אָמָה	a.mah	H:N-F	maidservant	1) maid-servant, female slave, maid, handmaid, concubine<br>1a) of humility (fig.)<br>	
 H0520a	אַמָּה	am.mah	H:N-F	cubit	1) cubit-a measure of distance (the forearm), roughly 18 in (. 5m). There are several cubits used in the OT, the cubit of a man or common cubit (<ref="Deu.3.11">De 3:11</ref>), the legal cubit or cubit of the sanctuary (<ref="Ezk.40.5">Eze 40:5</ref>) plus others. See a Bible Dictionary for a complete treatment.<br>	
 H0520b	אַמָּה	am.mah	H:N-F	foundation	1) foundation<br>	
@@ -951,7 +951,7 @@ H0859a	אַתָּ֫ה	at.tah	H:PerP-MS	you(m.s.)	1) you (second pers. sing. masc
 H0859b	אתִּי		H:PerP-FS	you(f.s.)	1) you (second pers. sing. fem.)<br>	
 H0859c	אַתְּ		H:PerP-FS	you(f.s.)	1) you (second pers. sing. fem.)<br>	
 H0859d	אַתֶּם		H:PerP-MP	you(m.p.)	1) you (second pers. pl. masc.)<br>	
-H0859e	אַתֵּן		H:PerP-FP	you	1) you (second pers. pl. fem.)<br>	
+H0859e	אַתֵּן		H:PerP-FP	you(f.p.)	1) you (second pers. pl. fem.)<br>	
 H0860	אָתוֹן	a.ton	H:N-F	she-ass	1) she-ass, she-donkey<br>	
 H0861	אַתּוּן	at.tun	A:N-M	furnace	1) furnace<br>	
 H0862a	אַתּוּק	at.tuq	H:N-M	gallery	1) gallery, porch<br>	
@@ -1209,7 +1209,7 @@ H1106a	בֶּ֫לַע	be.la	N:N-M-P	Bela	Bela = "destruction"<br>n pr m<br>1) a 
 H1106b	בֶּ֫לַע	be.la	N:N--L	Bela	Bela = "destruction"<br>n pr loc<br>1) one of the five cities of the plain which was spared at the intercession of Lot, and received the name of Zoar<br>	
 H1107	בִּלְעֲדֵי	bil.a.de	H:Part	beside	1) apart from, except, without, besides<br>	
 H1108	בַּלְעִי	bal.i	N:N--PG	Belaite	Belaites = "swallowing"<br>1) descendants of Bela<br>	
-H1109a	בִּלְעָם	bil.am	N:N-M-P 	Balaam	Balaam = "not of the people"<br>n pr m<br>1) the son of Beor, a man endowed with the gift of prophecy<br>	
+H1109a	בִּלְעָם	bil.am	N:N-M-P	Balaam	Balaam = "not of the people"<br>n pr m<br>1) the son of Beor, a man endowed with the gift of prophecy<br>	
 H1109b	בִּלְעָם	bil.am	N:N--L	Bileam	Balaam = "not of the people"<br>n pr loc<br>1) a town in Manasseh<br>	
 H1110	בָּלַק	ba.laq	H:V	to waste	1) to waste, lay waste, devastate<br>1a) (Poel) to make waste<br>1b) (Pual) devastated (participle)<br>	
 H1111	בָּלָק	ba.laq	N:N-M-P	Balak	Balak = "devastator"<br>1) a king of Moab who hired Balaam to curse Israel<br>	
@@ -3088,7 +3088,7 @@ H2855	חֶתְלֹן	chet.lon	N:N--L	Hethlon	Hethlon = "hiding place"<br>1) a pl
 H2856	חָתַם	cha.tam	H:V	to seal	1) to seal, seal up, affix a seal<br>1a) (Qal)<br>1a1) to seal, affix one's seal<br>1a2) to seal up, fasten up by sealing<br>1b) (Niphal) to seal<br>1c) (Piel) to lock up<br>1d) (Hiphil) to be stopped<br>	
 H2857	חֲתַם	cha.tam	A:V	to seal	1) (P'al) seal.<br>	
 H2858	חֹתֶ֫מֶת	cho.te.met	H:N-F	ring	1) signet ring, signet seal<br>	
-H2859a	חֹתֵן		H:N-M	relative	1) a son-in-law, a daughter's husband, wife's father, wife's mother, father-in-law, mother-in- law 	
+H2859a	חֹתֵן		H:N-M	relative	1) a son-in-law, a daughter's husband, wife's father, wife's mother, father-in-law, mother-in- law	
 H2859b	חָתַן	cha.tan	H:V	be related	1) to become a son-in-law, make oneself a daughter's husband<br>1a) (Qal) wife's father, wife's mother, father-in-law, mother-in- law (participle)<br>1b) (Hithpael) to make oneself a daughter's husband<br>	
 H2860	חָתָן	cha.tan	H:N-M	son-in-law	1) son-in-law, daughter's husband, bridegroom, husband<br>	
 H2861	חֲתֻנָּה	cha.tun.nah	H:N-F	marriage	1) wedding, marriage<br>	
@@ -4033,7 +4033,7 @@ H3753	כִּרְכָּרָה	kar.ka.rah	H:N-F	dromedary	1) dromedary, dromedary 
 H3754	כֶּרֶם	ke.rem	H:N-M	vineyard	1) vineyard<br>	
 H3755	כָּרַם	ko.rem	H:V	to tend vineyards	1) to tend vines or vineyards, to dress vines or vineyards<br>1a) (Qal) vinedressers (participle)<br>	
 H3756	כַּרְמִי	kar.mi	N:N-M-P	Carmi	Carmi = "my vineyard"<br>1) the 4th son of Reuben and progenitor of the Carmites<br>2) a Judaite, father of Achan, the 'troubler of Israel' in the time of Joshua<br>	
-H3757	כַּרְמִי	kar.mi	N:N-M-P	Carmite	Carmi = "my vineyard"<br>1) the Carmites descended from the 4th son of Reuben 	
+H3757	כַּרְמִי	kar.mi	N:N-M-P	Carmite	Carmi = "my vineyard"<br>1) the Carmites descended from the 4th son of Reuben	
 H3758	כַּרְמִיל	kar.mil	H:N-M	crimson	1) crimson, red, carmine<br>	
 H3759	כַּרְמֶל	kar.mel	H:N-M	plantation	1) plantation, garden-land, orchard, fruit orchard<br>2) fruit, garden-growth (meton)<br>	
 H3760	כַּרְמֶל	kar.mel	N:N--L	Carmel	Carmel = "garden-land"<br>1) a mountain on the Mediterranean coast of northern Israel, just below Haifa<br>2) a town in the mountains on the west side of the Dead Sea and south of Hebron<br>	
@@ -5383,7 +5383,7 @@ H5030	נָבִיא	na.vi	H:N-M	prophet	1) spokesman, speaker, prophet<br>1a) pro
 H5031	נְבִיאָה	ne.vi.ah	H:N-F	prophetess	1) prophetess<br>1a) ancient type endowed with gift of song (Miriam)<br>1b) later type consulted for a word (Huldah)<br>1c) false prophetess (Noadiah)<br>1d) wife of Isaiah the prophet<br>	
 H5032	נְבָיוֹת	ne.va.vot	N:N-M-P	Nebaioth	Nebaioth or Nebajoth = "heights"<br>1) a son of Ishmael<br>2) people descended from1 called the Nabateans with their capital at Petra<br>	
 H5033	נֵ֫בֶךְ	ne.vekh	H:N-M	spring	1) spring, springs<br>	
-H5034a	נָבַל		H:V	be senseless	1) to be senseless, be foolish<br>1a) (Qal) to be foolish<br>1b) (Piel)<br>1b1) to regard or treat as foolish<br>1b2) to treat with contempt<br>	
+H5034a	נָבַל	na.val	H:V	be senseless	1) to be senseless, be foolish<br>1a) (Qal) to be foolish<br>1b) (Piel)<br>1b1) to regard or treat as foolish<br>1b2) to treat with contempt<br>	
 H5034b	נָבֵל	na.vel	H:V	to wither	1) to sink or drop down, languish, wither and fall, fade<br>1a) (Qal)<br>1a1) to sink or drop down<br>1a2) to fall, wither and fall, fade<br>1a3) to droop<br>	
 H5035a	נֵ֫בֶל	ne.vel	H:N-M	bag	1) a skin-bag, jar, pitcher<br>1a) skin-bottle, skin<br>1b) jar, pitcher (earthen)<br>	
 H5035b	נֵ֫בֶל	ne.vel	H:N-M	harp	1) harp, lute, guitar, musical instrument<br>	
@@ -6386,7 +6386,7 @@ H5931	עִלָּה	il.lah	A:N-F	pretext	1) matter, affair, occasion<br>
 H5932	עַלְוָה	al.vah	H:N-F	iniquity	1) injustice, unrighteousness, iniquity<br>	
 H5933	עַלְוָה	al.vah	N:N-M-P	Alvah	Aliah or Alvah = "evil"<br>1) a duke of Edom<br>	
 H5934	עָלוּמִים	a.lum	H:N-M	youth	1) youth, youthful, vigour<br>	
-H5935	עַלְיָן, עַלְוָן 	al.van	N:N-M-P	Alian	Alian or Alvan = "tall"<br>1) a Horite, son of Shobal<br>	
+H5935	עַלְיָן, עַלְוָן	al.van	N:N-M-P	Alian	Alian or Alvan = "tall"<br>1) a Horite, son of Shobal<br>	
 H5936	עֲלוּקָה	a.lu.qah	H:N-F	leech	1) leech<br>	
 H5937	עָלַז	a.laz	H:V	to exult	1) (Qal) to exult, rejoice, triumph<br>	
 H5938	עָלֵז	a.lez	H:A	exultant	1) exultant, jubilant<br>	
@@ -7793,7 +7793,7 @@ H7215	רָאמוֹת	ra.mah	H:N-F	coral	1) corals<br>
 H7216	רָאמוֹת	ra.mot	N:N--L	Ramoth	Ramoth = "heights"<br>1) a place in Gilead; site dubious<br>2) a Levitical city in Issachar<br>	
 H7217	רֵאשׁ	resh	A:N-M	head	1) chief, head<br>1a) head (of man)<br>1b) head (as seat of visions)<br>1c) chief<br>1d) sum (essential content)<br>	
 H7218a	רֹאשׁ	rosh	H:N-M	head	1) head, top, summit, upper part, chief, total, sum, height, front, beginning<br>1a) head (of man, animals)<br>1b) top, tip (of mountain)<br>1c) height (of stars)<br>1d) chief, head (of man, city, nation, place, family, priest)<br>1e) head, front, beginning<br>1f) chief, choicest, best<br>1g) head, division, company, band<br>1h) sum<br>	
-H7218b	רֹאשׁ	rosh	H:N-M / N:N--T	leader	1) head, chief 	
+H7218b	רֹאשׁ	rosh	H:N-M / N:N--T	leader	1) head, chief	
 H7219	רֹאשׁ	rosh	H:N-M	poison	1) gall, venom, bitter, poisonous<br>	
 H7220	רֹאשׁ	rosh	N:N-M-P	Rosh	Rosh = "head"<br>n pr m<br>1) a son of Benjamin<br>	
 H7221	רִאשָׁה	ri.shah	H:N-F	beginning	1) beginning time, early time<br>	
@@ -8026,7 +8026,7 @@ H7429	רָמַס	ra.mas	H:V	to trample	1) to trample<br>1a) (Qal)<br>1a1) to tra
 H7430	רָמַשׂ	ra.ma.s	H:V	to creep	1) to creep, move lightly, move about, walk on all fours<br>1a) (Qal)<br>1a1) to creep, teem (of all creeping things)<br>1a2) to creep (of animals)<br>1a3) to move lightly, glide about (of water animals)<br>1a4) to move about (of all land animals generally)<br>	
 H7431	רֶ֫מֶשׂ	re.me.s	H:N-M	creeping	1) creeping things, moving things, creeping organism<br>1a) creeping things<br>1b) gliding things (of sea animals)<br>1c) moving things (of all animals)<br>	
 H7432	רֶמֶת	re.met	N:N--L	Remeth	Remeth = "height"<br>1) a town in Issachar<br>1a) probably the same as 'Ramoth' H07433<br>	
-H7433	רָמֹת 	ra.mot gi.l.ad	N:N-M-P / N:N--L	Ramoth	Ramoth = "heights"<br>n pr m<br>1) an Israelite who had a foreign wife in the time of Ezra<br>n pr loc<br>2) Ramoth-gilead-a place in Gilead<br>2a) site dubious<br>	
+H7433	רָמֹת	ra.mot gi.l.ad	N:N-M-P / N:N--L	Ramoth	Ramoth = "heights"<br>n pr m<br>1) an Israelite who had a foreign wife in the time of Ezra<br>n pr loc<br>2) Ramoth-gilead-a place in Gilead<br>2a) site dubious<br>	
 H7434	רָמַת הַמִּצְפֶּה	ra.mat ham.mits.peh	N:N--L	Ramath-mizpeh	Ramath-mizpeh = "high place of the watch tower"<br>1) a place in Gilead on the northern border of Gad<br>	
 H7435	רָמָתִי	ra.ma.ti	N:N--LG	Ramathite	Ramathite = see Ramah "the height"<br>1) an inhabitant of Ramah<br>	
 H7436	רָמָתַיִם צוֹפִים	ra.ma.ta.yim tso.phim	N:N--L	Ramathaim-zophim	Ramathaim-zophim = "double height of the watchers"<br>1) the home place of Samuel located in the hill country of Ephraim<br>1a) the same as H07414<br>	
@@ -9353,50 +9353,50 @@ H8674	תַּתְּנַי	ta.te.nay	N:N-M-P	Tattenai	Tatnai = "gift"<br>1) a Pers
 H9000	/ו	v	H:Conj	and	Verbal vav or conjunctive vav	
 H9001	/וַ	v	H:Conj	and	Verbal vav: joined to verb with no intervening prefix (usually conversive)  (future<->past)	
 H9002	/וְ	v	H:Conj	and	Conjunctive vav -  i.e. followed by prefix, suffix or non-verb (conjunctive) (‘and/but’)	
-H9003	/ב	b		in|on|with	Prefix  beth 	
-H9004	/כ	k		like|as	Prefix  kaph 	
-H9005	/ל	l		to|for	Prefix  lamed 	
-H9006	/מ	m		from	Prefix  mem 	
-H9007	/שׁ	s		which|that	Prefix  shin 	
-H9008	/ה	i		[?]	Prefix  hé interrogative 	
-H9009	/ה	hé		[the]	Prefix  hé article 	
-H9010	א/	a		[the]	Suffix  aleph article 	
-H9011	ה/	hé		[to]	Suffix  hé – directional 	
-H9012	ה/	p		[emph.?]	Suffix  hé – paragogic 	
-H9013	ן/	n		[emph.?]	Punctuation  nun – paragogic 	
-H9014	־	-		[-]	Punctuation Maqqef	
-H9015	׀	¦		[ ]	Punctuation Paseq	
-H9016	׃	:		[.]	Punctuation Sof-Pasuq	
+H9003	/ב	b		in|on|with	Prefix  beth	
+H9004	/כ	k		like|as	Prefix  kaph	
+H9005	/ל	l		to|for	Prefix  lamed	
+H9006	/מ	m		from	Prefix  mem	
+H9007	/שׁ	s		which|that	Prefix  shin	
+H9008	/ה	i		[?]	Prefix  hé interrogative	
+H9009	/ה	hé		[the]	Prefix  hé article	
+H9010	א/	a		[the]	Suffix  aleph article	
+H9011	ה/	hé		[to]	Suffix  hé – directional	
+H9012	ה/	p		[emph.?]	Suffix  hé – paragogic	
+H9013	ן/	n		[emph.?]	Punctuation  nun – paragogic	
+H9014	-	-		[-]	Punctuation Maqqef	
+H9015	|	¦		[ ]	Punctuation Paseq	
+H9016	:	:		[.]	Punctuation Sof-Pasuq	
 H9017	פ	P		[¶]	Punctuation Pe paragraph	
 H9018	ס	S		[¶]	Punctuation Sameq paragraph	
 H9019	/׆	N		[¶]	Punctuation Inverted Nun paragraph	
-H9020	י		Ps1c	my	Personal posessive -  noun suffix: 1st p comm. sing.  	
-H9021	ךָ		Ps2m	your	Personal posessive -  noun suffix: 2nd p masc. sing. 	
-H9022	ךְ		Ps2f	your	Personal posessive -  noun suffix: 2nd p fem. sing. 	
-H9023	הוּ		Ps3m	his	Personal posessive -  noun suffix: 3rd p masc. sing. 	
-H9024	הּ		Ps3f	her	Personal posessive -  noun suffix: 3rd p fem. sing. 	
-H9025	נוּ		Pp1c	our	Personal posessive -  noun suffix: 1st p comm. plural 	
-H9026	כֶם		Pp2m	your	Personal posessive -  noun suffix: 2nd p masc. plural 	
-H9027	כֶן		Pp2f	your	Personal posessive -  noun suffix: 2nd p fem. plural 	
-H9028	הֶם		Pp3m	their	Personal posessive -  noun suffix: 3rd p masc. plural 	
-H9029	הֶן		Pp3f	their	Personal posessive -  noun suffix: 3rd p fem. plural 	
-H9030	נִי		Os1c	me	Personal pronoun -  verb/prep. suffix: 1st p comm. sing. 	
-H9031	ךָּ		Os2m	you	Personal pronoun -  verb/prep. 2nd p masc. sing. 	
-H9032	ךְ		Os2f	you	Personal pronoun -  verb/prep. 2nd p fem. sing. 	
-H9033	וֹ		Os3m	him	Personal pronoun -  verb/prep. 3rd p masc. sing. 	
-H9034	הָ		Os3f	her	Personal pronoun -  verb/prep. 3rd p fem. sing. 	
-H9035	נוּ		Op1c	us	Personal pronoun -  verb/prep. 1st p comm. plural 	
-H9036	כֶם		Op2m	you	Personal pronoun -  verb/prep. 2nd p masc. plural 	
-H9037	כֶן		Op2f	you	Personal pronoun -  verb/prep. 2nd p fem. plural 	
-H9038	הֶם		Op3m	them	Personal pronoun -  verb/prep. 3rd p masc. plural 	
-H9039	הֶן		Op3f	them	Personal pronoun -  verb/prep. 3rd p fem. plural 	
-H9040	נִי		Ss1c	I	Subject pronoun -  subj..: 1st p comm. sing. 	
-H9041	ךָ		Ss2m	you	Subject pronoun -  subj.. 2nd p masc. sing. 	
-H9042	ךְ		Ss2f	you	Subject pronoun -  subj.. 2nd p fem. sing. 	
-H9043	נּוּ		Ss3m	he	Subject pronoun -  subj.. 3rd p masc. sing. 	
-H9044	נָּה		Ss3f	she	Subject pronoun -  subj.. 3rd p fem. sing. 	
-H9045	נוּ		Sp1c	we	Subject pronoun -  subj.. 1st p comm. plural 	
-H9046	כוֹן		Sp2m	you	Subject pronoun -  subj.. 2nd p masc. plural 	
-H9047			Sp2f	you	Subject pronoun -  subj.. 2nd p fem. plural 	
-H9048	ם		Sp3m	they	Subject pronoun -  subj.. 3rd p masc. plural 	
-H9049	ינה		Sp3f	they	Subject pronoun -  subj.. 3rd p fem. plural 	
+H9020	י		Ps1c	my	Personal posessive -  noun suffix: 1st p comm. sing.	
+H9021	ךָ		Ps2m	your	Personal posessive -  noun suffix: 2nd p masc. sing.	
+H9022	ךְ		Ps2f	your	Personal posessive -  noun suffix: 2nd p fem. sing.	
+H9023	הוּ		Ps3m	his	Personal posessive -  noun suffix: 3rd p masc. sing.	
+H9024	הּ		Ps3f	her	Personal posessive -  noun suffix: 3rd p fem. sing.	
+H9025	נוּ		Pp1c	our	Personal posessive -  noun suffix: 1st p comm. plural	
+H9026	כֶם		Pp2m	your	Personal posessive -  noun suffix: 2nd p masc. plural	
+H9027	כֶן		Pp2f	your	Personal posessive -  noun suffix: 2nd p fem. plural	
+H9028	הֶם		Pp3m	their	Personal posessive -  noun suffix: 3rd p masc. plural	
+H9029	הֶן		Pp3f	their	Personal posessive -  noun suffix: 3rd p fem. plural	
+H9030	נִי		Os1c	me	Personal pronoun -  verb/prep. suffix: 1st p comm. sing.	
+H9031	ךָּ		Os2m	you	Personal pronoun -  verb/prep. 2nd p masc. sing.	
+H9032	ךְ		Os2f	you	Personal pronoun -  verb/prep. 2nd p fem. sing.	
+H9033	וֹ		Os3m	him	Personal pronoun -  verb/prep. 3rd p masc. sing.	
+H9034	הָ		Os3f	her	Personal pronoun -  verb/prep. 3rd p fem. sing.	
+H9035	נוּ		Op1c	us	Personal pronoun -  verb/prep. 1st p comm. plural	
+H9036	כֶם		Op2m	you	Personal pronoun -  verb/prep. 2nd p masc. plural	
+H9037	כֶן		Op2f	you	Personal pronoun -  verb/prep. 2nd p fem. plural	
+H9038	הֶם		Op3m	them	Personal pronoun -  verb/prep. 3rd p masc. plural	
+H9039	הֶן		Op3f	them	Personal pronoun -  verb/prep. 3rd p fem. plural	
+H9040	נִי		Ss1c	I	Subject pronoun -  subj..: 1st p comm. sing.	
+H9041	ךָ		Ss2m	you	Subject pronoun -  subj.. 2nd p masc. sing.	
+H9042	ךְ		Ss2f	you	Subject pronoun -  subj.. 2nd p fem. sing.	
+H9043	נּוּ		Ss3m	he	Subject pronoun -  subj.. 3rd p masc. sing.	
+H9044	נָּה		Ss3f	she	Subject pronoun -  subj.. 3rd p fem. sing.	
+H9045	נוּ		Sp1c	we	Subject pronoun -  subj.. 1st p comm. plural	
+H9046	כוֹן		Sp2m	you	Subject pronoun -  subj.. 2nd p masc. plural	
+H9047			Sp2f	you	Subject pronoun -  subj.. 2nd p fem. plural	
+H9048	ם		Sp3m	they	Subject pronoun -  subj.. 3rd p masc. plural	
+H9049	ינה		Sp3f	they	Subject pronoun -  subj.. 3rd p fem. plural	
