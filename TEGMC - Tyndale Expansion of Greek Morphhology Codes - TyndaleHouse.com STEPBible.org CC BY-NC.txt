@@ -26,6 +26,8 @@ If you use this data, we'd love to hear about your project when you make it avai
 
 BRIEF LEXICAL MORPHOLOGY CODES: 
 ================
+These codes are used in the Lexicon. They are used to define the the word, and not each individual instance of the word.
+
 Form is:   Language:Function-Gender-Type
 Example: "a Samaritan" is "N:N-M-LG" where "N:" is a "Name" (a special form of 'language' because it isn't restricted to one language); "N" is the function "Noun"; "M" is "Male"; "L" is Location, G=Gentilic (i.e. defining a group of people). 
 Some traditional Strong numbers refer to more than one word, e.g. G1508= "εἰ μή" which is "G:Cond + G:Neg" (note the space either side of "+")
@@ -103,6 +105,8 @@ N:N--T	Pharaoh	Proper Name of some kind
 
 FULL MORPHOLOGY CODES:
 ================
+These codes are used in the tagged texts. They are used to define each individual instance of the word.
+
 line 1: full list of morphological elements with values
 line 2: a phrase summarising these elements
 line 3: a description of the function of this morphology
@@ -1514,16 +1518,6 @@ F-GPF	Function=Reflexive pronoun; Case=Genitive; Number=Plural; Gender=Feminine
 	Reflexive pronoun Genitive Plural Feminine 
 	a reference to THEMSELVES: female people or things that something belongs to 
 	" women giving teachings of _themselves_"
-$
-HEB	Function=Hebrew transliterated word
-	Hebrew transliterated word 
-	a transliterated Hebrew word
-	"He said: _Rabbi_"
-$
-HEB	Function=Hebrew transliterated word
-	Hebrew transliterated word 
-	a transliterated Hebrew word
-	"He said: _Rabbi_"
 $
 I-APF	Function=Interrogative pronoun; Case=Accusative; Number=Plural; Gender=Feminine
 	Interrogative pronoun Accusative Plural Feminine 
