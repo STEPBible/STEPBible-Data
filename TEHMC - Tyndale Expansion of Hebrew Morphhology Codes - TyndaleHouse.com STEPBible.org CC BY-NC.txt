@@ -24,6 +24,8 @@ If you use this data, we'd love to hear about your project when you make it avai
 
 BRIEF LEXICAL MORPHOLOGY CODES: 
 ================
+These codes are used in the Lexicon. They are used to define the the word, and not each individual instance of the word.
+
 Form is:   Language:Function-Gender-Type
 Example: "a Samaritan" is "N:N-M-LG" where "N:" is a "Name" (a special form of 'language' because it isn't restricted to one language); "N" is the function "Noun"; "M" is "Male"; "L" is Location, G=Gentilic (i.e. defining a group of people). 
 Some traditional Strong numbers refer to more than one word, e.g. G1508= "εἰ μή" which is "G:Cond + G:Neg" (note the space either side of "+")
@@ -58,12 +60,12 @@ H:N-M / N:N--L	bath	Hebrew Noun (Masculine) OR Proper Name of a Location
 H:N-M / N:N--T	president	Hebrew Noun (Masculine) OR Proper Name of some kind
 H:N-M / N:N-M-T	king	Hebrew Noun (Masculine) OR Proper Name (Masculine) of some kind
 H:Part	up	Hebrew Particle
-H:PerP-CP	we	Hebrew Personal Pronoun-Common Plural
-H:PerP-CS	I	Hebrew Personal Pronoun-Common Singular
-H:PerP-FP	they	Hebrew Personal Pronoun-Feminine Plural
-H:PerP-FS	she	Hebrew Personal Pronoun-Feminine Singular
-H:PerP-MP	they	Hebrew Personal Pronoun-Masculine Plural
-H:PerP-MS	he	Hebrew Personal Pronoun-Masculine Singular
+H:PerP-CP	we	Hebrew Personal Pronoun (Common Plural)
+H:PerP-CS	I	Hebrew Personal Pronoun (Common Singular)
+H:PerP-FP	they	Hebrew Personal Pronoun (Feminine Plural)
+H:PerP-FS	she	Hebrew Personal Pronoun (Feminine Singular)
+H:PerP-MP	they	Hebrew Personal Pronoun (Masculine Plural)
+H:PerP-MS	he	Hebrew Personal Pronoun (Masculine Singular)
 H:Prep	from	Hebrew Preposition
 H:Prep / H:Conj	with	Hebrew Preposition OR Conjunction
 H:Prep+H:RelP	wence (from where)	Hebrew Preposition JOINED TO Relative Pronoun
@@ -129,6 +131,7 @@ Sp3f	they	Object suffix: 3rd person feminine plural
 
 FULL MORPHOLOGY CODES:
 ================
+These codes are used in the tagged texts. They are used to define each individual instance of the word.
 
 line 1: Codes + expansion	- based on OpenScripture codes which are similar to Westminster codes used by BibleWorks and other commercial software. These codes are described in detail at https://goo.gl/HP4mZQ#HebMorph
 	- some of the parsing is derived from the data in the codes: Stem implies the likely Action and Voice; Form implies the likely Tense and Mood. These are not definite and depend on context and the normal usage of each verb. See more at https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.evqm50b2x4wq
@@ -175,8 +178,6 @@ NOTES:
 
 
 
-"1 CODE"	Group#1	specific Function	specific Stem	specific Action	specific Voice	specific Form	specific Tense	specific Mood	specific Person	specific Gender	specific Number	specific State	12-CODE again	Group#2	Function	Stem	Action	Voice	Form	Tense	Mood	Person	Gender	Number	State	23-CODE again	Group#3	Function abbreviated	Stem explained	Action explained	Voice explained	Form explained	Tense explained	Mood explained	Person explained	Gender explained	Number explained	State explained	34-CODE again	Group#4	Function in description	Stem in description	Action in description	Voice in description	Form in description	Tense in description	Mood in description	Person in description	Gender in description	Number in description	State	45-CODE again	Group#5	Explanation	Order for Explanation	Longer Example	Shorter Example	Description	Order for Description	Elements listed					
-$
 "1 CODE"	Group#1	specific Function	specific Stem	specific Action	specific Voice	specific Form	specific Tense	specific Mood	specific Person	specific Gender	specific Number	specific State	12-CODE again	Group#2	Function	Stem	Action	Voice	Form	Tense	Mood	Person	Gender	Number	State	23-CODE again	Group#3	Function abbreviated	Stem explained	Action explained	Voice explained	Form explained	Tense explained	Mood explained	Person explained	Gender explained	Number explained	State explained	34-CODE again	Group#4	Function in description	Stem in description	Action in description	Voice in description	Form in description	Tense in description	Mood in description	Person in description	Gender in description	Number in description	State	45-CODE again	Group#5	Explanation	Order for Explanation	Longer Example	Shorter Example	Description	Order for Description	Elements listed					
 $
 AC	Function=Conjunction 
