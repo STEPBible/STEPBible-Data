@@ -9370,33 +9370,33 @@ H9016	:	:		[.]	Punctuation Sof-Pasuq
 H9017	פ	P		[¶]	Punctuation Pe paragraph	
 H9018	ס	S		[¶]	Punctuation Sameq paragraph	
 H9019	/׆	N		[¶]	Punctuation Inverted Nun paragraph	
-H9020	י		Ps1c	my	Personal posessive -  noun suffix: 1st p comm. sing.	
-H9021	ךָ		Ps2m	your	Personal posessive -  noun suffix: 2nd p masc. sing.	
-H9022	ךְ		Ps2f	your	Personal posessive -  noun suffix: 2nd p fem. sing.	
-H9023	הוּ		Ps3m	his	Personal posessive -  noun suffix: 3rd p masc. sing.	
-H9024	הּ		Ps3f	her	Personal posessive -  noun suffix: 3rd p fem. sing.	
-H9025	נוּ		Pp1c	our	Personal posessive -  noun suffix: 1st p comm. plural	
-H9026	כֶם		Pp2m	your	Personal posessive -  noun suffix: 2nd p masc. plural	
-H9027	כֶן		Pp2f	your	Personal posessive -  noun suffix: 2nd p fem. plural	
-H9028	הֶם		Pp3m	their	Personal posessive -  noun suffix: 3rd p masc. plural	
-H9029	הֶן		Pp3f	their	Personal posessive -  noun suffix: 3rd p fem. plural	
-H9030	נִי		Os1c	me	Personal pronoun -  verb/prep. suffix: 1st p comm. sing.	
-H9031	ךָּ		Os2m	you	Personal pronoun -  verb/prep. 2nd p masc. sing.	
-H9032	ךְ		Os2f	you	Personal pronoun -  verb/prep. 2nd p fem. sing.	
-H9033	וֹ		Os3m	him	Personal pronoun -  verb/prep. 3rd p masc. sing.	
-H9034	הָ		Os3f	her	Personal pronoun -  verb/prep. 3rd p fem. sing.	
-H9035	נוּ		Op1c	us	Personal pronoun -  verb/prep. 1st p comm. plural	
-H9036	כֶם		Op2m	you	Personal pronoun -  verb/prep. 2nd p masc. plural	
-H9037	כֶן		Op2f	you	Personal pronoun -  verb/prep. 2nd p fem. plural	
-H9038	הֶם		Op3m	them	Personal pronoun -  verb/prep. 3rd p masc. plural	
-H9039	הֶן		Op3f	them	Personal pronoun -  verb/prep. 3rd p fem. plural	
-H9040	נִי		Ss1c	I	Subject pronoun -  subj..: 1st p comm. sing.	
-H9041	ךָ		Ss2m	you	Subject pronoun -  subj.. 2nd p masc. sing.	
-H9042	ךְ		Ss2f	you	Subject pronoun -  subj.. 2nd p fem. sing.	
-H9043	נּוּ		Ss3m	he	Subject pronoun -  subj.. 3rd p masc. sing.	
-H9044	נָּה		Ss3f	she	Subject pronoun -  subj.. 3rd p fem. sing.	
-H9045	נוּ		Sp1c	we	Subject pronoun -  subj.. 1st p comm. plural	
-H9046	כוֹן		Sp2m	you	Subject pronoun -  subj.. 2nd p masc. plural	
-H9047			Sp2f	you	Subject pronoun -  subj.. 2nd p fem. plural	
-H9048	ם		Sp3m	they	Subject pronoun -  subj.. 3rd p masc. plural	
-H9049	ינה		Sp3f	they	Subject pronoun -  subj.. 3rd p fem. plural	
+H9020	י		Ps1c	my	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  1st person singular	
+H9021	ךָ		Ps2m	your	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine singular	
+H9022	ךְ		Ps2f	your	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person feminine singular	
+H9023	הוּ		Ps3m	his	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine singular	
+H9024	הּ		Ps3f	her	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine singular	
+H9025	נוּ		Pp1c	our	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  1st person plural	
+H9026	כֶם		Pp2m	your	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person masculine plural	
+H9027	כֶן		Pp2f	your	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  2nd person feminine plural	
+H9028	הֶם		Pp3m	their	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person masculine plural	
+H9029	הֶן		Pp3f	their	Personal posessive pronoun - suffix for nouns, adjectives and passive participles:  3rd person feminine plural	
+H9030	נִי		Os1c	me	Personal object pronoun -  suffix for propositions and verbs without an object: 1st person singular	
+H9031	ךָּ		Os2m	you	Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine singular	
+H9032	ךְ		Os2f	you	Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine singular	
+H9033	וֹ		Os3m	him	Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine singular	
+H9034	הָ		Os3f	her	Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine singular	
+H9035	נוּ		Op1c	us	Personal object pronoun -  suffix for propositions and verbs without an object: 1st person plural	
+H9036	כֶם		Op2m	you	Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person masculine plural	
+H9037	כֶן		Op2f	you	Personal object pronoun -  suffix for propositions and verbs without an object: 2nd person feminine plural	
+H9038	הֶם		Op3m	them	Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person masculine plural	
+H9039	הֶן		Op3f	them	Personal object pronoun -  suffix for propositions and verbs without an object: 3rd person feminine plural	
+H9040	נִי		Ss1c	I	Personal subject pronoun -  suffix for some adverbs and infinitives:  1st person singular	
+H9041	ךָ		Ss2m	you	Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine singular	
+H9042	ךְ		Ss2f	you	Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person feminine singular	
+H9043	נּוּ		Ss3m	he	Personal subject pronoun -  suffix for some adverbs and infinitives:  3rd person masculine singular	
+H9044	נָּה		Ss3f	she	Personal subject pronoun -  suffix for some adverbs and infinitives:  3rd person feminine singular	
+H9045	נוּ		Sp1c	we	Personal subject pronoun -  suffix for some adverbs and infinitives:  1st person plural	
+H9046	כוֹן		Sp2m	you	Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person masculine plural	
+H9047			Sp2f	you	Personal subject pronoun -  suffix for some adverbs and infinitives:  2nd person feminine  plural	
+H9048	ם		Sp3m	they	Personal subject pronoun -  suffix for some adverbs and infinitives:  3rd person masculine plural	
+H9049	ינה		Sp3f	they	Personal subject pronoun -  suffix for some adverbs and infinitives:  3rd person feminine plural	
