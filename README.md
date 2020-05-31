@@ -49,7 +49,7 @@ Abridged BDB linked to extended Strongs (compatible with OpenScriptures and back
 * **[TBESG - Tyndale Brief lexicon of Extended Strongs for Greek](https://github.com/tyndale/STEPBible-Data)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
 
-* **[TFLSJ - Tyndale Formatted full LSJ lexicon](https://github.com/tyndale/STEPBible-Data)**    
+* **[TFLSJ - Tyndale Formatted full LSJ lexicon](https://docs.google.com/spreadsheets/d/17BfQ8vAqsAiLMRC1dwXOGY3BogNHYM31f6B3VqBPCNk/edit#gid=1455420223)**    
 Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
 * **[TIPNR - Tyndale Individualised Proper Names with all References](https://github.com/tyndale/STEPBible-Data)**  
