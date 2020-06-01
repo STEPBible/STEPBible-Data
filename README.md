@@ -29,6 +29,7 @@ The data in this repository is created and curated collaboratively by Tyndale sc
 The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is derivative from other publically licenced sources, and has been compared with other non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to TyndaleStepATgmail.com for checking.  
 
 # Datasets available 
+The data is available as **[downloadable tab-separated text files](http://public.modules.stepbible.org/packages/)** (see notes on the data format below).
 The following datasets are already posted 
 
 * **[Bible modules for OSIS Sword software](http://public.modules.stepbible.org/packages/)**
