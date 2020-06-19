@@ -50,13 +50,13 @@ Abridged BDB linked to extended Strongs (compatible with OpenScriptures and back
 * **[TBESG - Tyndale Brief lexicon of Extended Strongs for Greek](https://github.com/tyndale/STEPBible-Data)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
 
-* **[TFLSJ - Tyndale Formatted full LSJ Bible lexicon](https://docs.google.com/spreadsheets/d/17BfQ8vAqsAiLMRC1dwXOGY3BogNHYM31f6B3VqBPCNk/edit#gid=1455420223)**    
+* **[TFLSJ - Tyndale Formatted full LSJ Bible lexicon](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/edit)**    
 Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
 * **[TIPNR - Tyndale Individualised Proper Names with all References](https://github.com/tyndale/STEPBible-Data)**  
 Every name in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places. Each form of the names for each individual includes exhaustive refs for where that individual is named with data of their spouses, siblings and offspring or the places' geolocation (based on OpenBible).    
 
-* **[TVTMS - Tyndale Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://github.com/tyndale/STEPBible-Data)**  
+* **[TVTMS - Tyndale Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/edit)**  
 All the versification differences in the OT traditional texts in Hebrew, Latin and Greek, and NT early versification, compared with English standard (defined by NRSV which is virtually identical to KJV). Bible translations have an almost infinite variety of versifications because they may follow (for example) Latin in several sections, Hebrew in a few and English most of the time. The Methodology provides simple rules for every section, such as "if this chapter has 29 verses, it is using Greek versification". Using this, a whole Bible can be reversified according to English or traditional Hebrew or Greek or Latin versification, or compared with Bibles using that versification.   
 
 * **[TEHMC - Tyndale Expansion of Hebrew Morphology Codes](https://github.com/tyndale/STEPBible-Data)**  
