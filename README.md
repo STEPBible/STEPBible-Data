@@ -53,7 +53,7 @@ Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using co
 * **[TFLSJ - Tyndale Formatted full LSJ Bible lexicon](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/edit)**    
 Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
-* **[TIPNR - Tyndale Individualised Proper Names with all References](https://github.com/tyndale/STEPBible-Data)**  
+* **[TIPNR - Tyndale Individualised Proper Names with all References](https://docs.google.com/spreadsheets/d/1ye5ujH_YutNfz1yYy7aiM_TBz3vMVACPpqKgNz0iH0Y/edit)**  
 Every name in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places. Each form of the names for each individual includes exhaustive refs for where that individual is named with data of their spouses, siblings and offspring or the places' geolocation (based on OpenBible).    
 
 * **[TVTMS - Tyndale Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/edit)**  
