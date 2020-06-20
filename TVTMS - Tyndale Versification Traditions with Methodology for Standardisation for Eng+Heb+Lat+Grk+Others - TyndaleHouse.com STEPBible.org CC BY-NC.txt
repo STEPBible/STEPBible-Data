@@ -12,14 +12,15 @@ And you should:
 * List any changes you make to the data. Please also send changes to TyndaleStep@gmail.com so that others can benefit.
 * Attribute the original data to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, 
   and to "STEP Bible" linked to www.STEPBible.org
-* Link to its source at https://t
-yndale.github.io/STEPBible-Data/
+* Link to its source at https://tyndale.github.io/STEPBible-Data/
 
 If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
 ==============================================================
-For a brief introduction and explanation see https://drive.google.com/file/d/1lk_zRisi1sn5-CdyIDUjPzw3XM6cHL7n/view?usp=sharing
+How to use this:  - see the instructions at https://www.tinyurl.com/VersificationHowTo	
+Further explanations at https://drive.google.com/file/d/1lk_zRisi1sn5-CdyIDUjPzw3XM6cHL7n/view?usp=sharing	
 
-How to use this:  - see the instructions at tinyurl.com/VersificationHowTo
+$ How to use this: 	- at https://www.tinyurl.com/VersificationHowTo
+$ More explanations 	- at https://drive.google.com/file/d/1lk_zRisi1sn5-CdyIDUjPzw3XM6cHL7n/view?usp=sharing
 
 1) Condensed Version - each section with the Tests to identify the versification being followed, and comparison of numbering in different traditions. This version is easy for humans to understand
 2) Expanded Version - verse-by-verse renumbering to Standard versification with explanatory notes for each verse. This version is easy for use in software to Standardise a Bible or to add notes about Standard versification to a Bible
@@ -4737,7 +4738,7 @@ Greek2	Jos.24:33.2	Jos.24:33.2	Keep verse	Acd. [b]			(Hebrew=24:33 • Latin=24:
 Bulgarian	Jos.24:33	Jos.24:33.0	Keep verse	Nec. [0]	%In some Bibles only the start of this verse is present%.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26>Jos.24:29 & Jos.24:34=Exist
 Bulgarian	Jos.24:34	Jos.24:33.1	Keep verse	Nec. [34]	%Normally in this Bible the verse numbering here is% 24:34.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26>Jos.24:29 & Jos.24:34=Exist
 Bulgarian	Jos.24:35	Jos.24:33.2	Keep verse	Nec. [35]	%Normally in this Bible the verse numbering here is% 24:35.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26>Jos.24:29 & Jos.24:34=Exist
-Bulgarian	Jos.24:36	Jos.24:33.2	Keep verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 24:36.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26>Jos.24:29 & Jos.24:34=Exist
+Bulgarian	Jos.24:36	Jos.24:33.3	Keep verse	Nec. [36]	%Normally in this Bible the verse numbering here is% 24:36.		(Hebrew=24:33 • Latin=24:33 • Greek=24:33)	Jos.24:26>Jos.24:29 & Jos.24:34=Exist
 
 English+Hebrew+Greek	Jdg.5:31	Jdg.5:31	Keep verse	Acd. [31-32]	%In some Bibles the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:31=Last	
 Latin	Jdg.5:31	Jdg.5:31.1	Renumber verse	Nec. [31]	%Normally in this Bible the verse numbering here is% 5:31-32.		(Hebrew=5:31 • Latin=5:31-32 • Greek=5:31)	Jdg.5:32=Last	
@@ -4990,7 +4991,6 @@ Greek	1Ki.2:46.8	1Ki.4:25.2	Keep verse	Nec. [2:46h]	%In some Bibles similar text
 Greek	1Ki.2:46.9	1Ki.4:26	Keep verse	Nec. [2:46i]	%In some Bibles similar text is found at% 2:46i.		(Hebrew=5:6 • Latin=4:26 • Greek=2:46i)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.2:46.10	1Ki.4:21.1	Keep verse	Nec. [2:46j]	%Normally in this Bible similar text is found at% 2:46j.		(Hebrew=5:1 • Latin=4:21 • Greek=2:46j)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.2:46.11	1Ki.4:21.2	Keep verse	Nec. [2:46k]	%Normally in this Bible similar text is found at% 2:46k.		(Hebrew=5:1 • Latin=4:21 • Greek=2:46k)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.10:26.1	1Ki.10:26.1	Keep verse	Nec. [10:26a]	%Normally in this Bible similar text is found at% 4:21		(Hebrew=4:1 • Latin=4:1 • Greek=10:26a)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.4:17	1Ki.4:18	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 4:17.		(Hebrew=4:18 • Latin=4:18 • Greek=4:17)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.4:18	1Ki.4:19	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 4:18.		(Hebrew=4:19 • Latin=4:19 • Greek=4:18)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.4:19	1Ki.4:17	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 4:19.		(Hebrew=4:17 • Latin=4:17 • Greek=4:19)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
@@ -5287,6 +5287,7 @@ Greek	1Ki.10:22.2	1Ki.9:20	Renumber verse	Nec. [10:20-21]	%Normally in this Bibl
 Greek	1Ki.10:22.2	1Ki.9:21	Merged with prev	Nec. [10:22b]	%Normally in this Bible some text may be missing here because it is merged with% 10:22.		(Hebrew=9:21 • Latin=9:21 • Greek=10:22b2)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.10:22.3	1Ki.9:22	Renumber verse	Nec. [10:22c]	%Normally in this Bible the verse numbering here is% 10:22c.		(Hebrew=9:22 • Latin=9:22 • Greek=10:22c)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 Greek	1Ki.10:26.0	1Ki.10:26.0	Keep verse	Nec. [26,a]	%In some Bibles the verse numbering here is% 10:26, 26a.	%The extra words are found at% 4:21.	(Hebrew=10:26 • Latin=10:26 • Greek=10:26, 26a[+4:21])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
+Greek	1Ki.10:26.1	1Ki.10:26.1	Keep verse	Nec. [10:26a]	%Normally in this Bible similar text is found at% 4:21		(Hebrew=4:1 • Latin=4:1 • Greek=10:26a)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=Exist	
 GreekUndivided	1Ki.8:12	1Ki.8:12	Keep verse	Acd. [53a]	%In some Bibles the verse numbering here is% 8:53a.		(Hebrew=8:12 • Latin=8:12 • Greek=8:53a)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=NotExist	
 GreekUndivided	1Ki.8:13	1Ki.8:13	Keep verse	Acd. [53b]	%In some Bibles the verse numbering here is% 8:53b.		(Hebrew=8:13 • Latin=8:13 • Greek=8:53b)	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=NotExist	
 GreekUndivided	1Ki.8:53	1Ki.8:53	Keep verse	Acd. [12-13]	%In some Bibles the verse numbering here is% 8:12-13.	%The extra words are found at% 8:12-13.	(Hebrew=8:53 • Latin=8:53 • Greek=8:53, 53a-b[+8:12-13])	1Ki.9:14>1Ki.9:23 & 1Ki.10:21*2<1Ki.10:22 & 1Ki.10:22.1=NotExist	
