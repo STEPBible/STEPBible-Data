@@ -16,11 +16,18 @@ And you should:
 
 If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
 ==============================================================
-How to use this:  - see the instructions at https://www.tinyurl.com/VersificationHowTo	
-Further explanations at https://drive.google.com/file/d/1lk_zRisi1sn5-CdyIDUjPzw3XM6cHL7n/view?usp=sharing	
+This file is displayed as a Google Sheet at:   
+https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/edit
+and is a flat-form tab-separated text file at: 
+https://github.com/tyndale/STEPBible-Data
+Corrections or suggestions can be left as a comments or issue at these locations. 
 
-$ How to use this: 	- at https://www.tinyurl.com/VersificationHowTo
-$ More explanations 	- at https://drive.google.com/file/d/1lk_zRisi1sn5-CdyIDUjPzw3XM6cHL7n/view?usp=sharing
+Instructions on how to use this file:
+https://docs.google.com/document/d/1M0Md53-EFiAbuG_fKCst5yPG7e7796kH9anMUPfrwLU/edit
+More explanations:
+https://drive.google.com/file/d/1lk_zRisi1sn5-CdyIDUjPzw3XM6cHL7n/view?usp=sharing
+
+
 
 1) Condensed Version - each section with the Tests to identify the versification being followed, and comparison of numbering in different traditions. This version is easy for humans to understand
 2) Expanded Version - verse-by-verse renumbering to Standard versification with explanatory notes for each verse. This version is easy for use in software to Standardise a Bible or to add notes about Standard versification to a Bible
@@ -654,16 +661,16 @@ TEST: & if... 	Est.4:17.1=Exist	Est.4:17.1=NotExist	Est.4:17.1=NotExist	Est.4:17
 TEST: & if... 	Est.4:17>Est.4:16	Est.4:17<Est.4:16	Est.4:17<Est.4:16	Est.4:17>Est.4:16	Est.4:17>Est.4:16	Est.4:17<Est.4:16	Est.4:17<Est.4:16	
 TEST: & if... 	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=NotExist	Est.14:1=Exist	Est.14:1=NotExist	
 OneToOne	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	Est.4:1-16	
-OneToOne	Est.4:17.0	Est.4:17	Est.4:17	Est.4:17.0	Est.4:17 [=+Est.13:8-18; 14:1-19 (C:1-30)]	Est.4:17
+OneToOne	Est.4:17.0	Est.4:17	Est.4:17	Est.4:17.0	Est.4:17 [=+Est.13:8-18; 14:1-19 (C:1-30)]	Est.4:17	Est.4:17
 LongVerse/LVExtra	Est.4:17.1-2	NoVerse	Est.C:1-2	Est.4:17.1-2	NoVerse	Est.13:8-9	Est.4:18-19
 MergedVerses	Est.4:17.3-4	NoVerse	Est.C:3-4	Est.4:17.3-4	NoVerse	Est.13:10-11	Est.4:20
 MergedVerses	Est.4:17.5-6	NoVerse	Est.C:5-6	Est.4:17.5-6	NoVerse	Est.13:12-13	Est.4:21
 LongVerse/LVExtra	Est.4:17.7-11	NoVerse	Est.C:7-11	Est.4:17.7-11	NoVerse	Est.13:14-18	Est.4:22-26
-+MergedVerses	Est.4:17.12-13	NoVerse	Est.C:12-13	Est.4:17.12-13	NoVerse	Est.14:1-2	Est.4:27
-+MergedVerses	Est.4:17.14-15	NoVerse	Est.C:14-15	Est.4:17.14-15	NoVerse	Est.14:3-4	Est.4:28
-+MergedVerses	Est.4:17.16-17	NoVerse	Est.C:16-17	Est.4:17.16-17	NoVerse	Est.14:5-6	Est.4:29
+MergedVerses	Est.4:17.12-13	NoVerse	Est.C:12-13	Est.4:17.12-13	NoVerse	Est.14:1-2	Est.4:27
+MergedVerses	Est.4:17.14-15	NoVerse	Est.C:14-15	Est.4:17.14-15	NoVerse	Est.14:3-4	Est.4:28
+MergedVerses	Est.4:17.16-17	NoVerse	Est.C:16-17	Est.4:17.16-17	NoVerse	Est.14:5-6	Est.4:29
 LongVerse/LVExtra	Est.4:17.18-21	NoVerse	Est.C:18-21	Est.4:17.18-21	NoVerse	Est.14:7-10	Est.4:30-33
-+MergedVerses	Est.4:17.22-23	NoVerse	Est.C:22-23	Est.4:17.22-23	NoVerse	Est.14:11-12	Est.4:34
+MergedVerses	Est.4:17.22-23	NoVerse	Est.C:22-23	Est.4:17.22-23	NoVerse	Est.14:11-12	Est.4:34
 LongVerse/LVExtra	Est.4:17.24-30	NoVerse	Est.C:24-30	Est.4:17.24-30	NoVerse	Est.14:13-19	Est.4:35-41
 
 $Est.5:1-14	English	Hebrew	Latin	Greek	GreekUndivided	Latin2	GreekIntegrated	
@@ -732,11 +739,11 @@ LongVerse/LVExtra	Esg.13:8-9	NoVerse	Esg.C:1-2	Esg.4:17.1-2	NoVerse	Esg.13:8-9	E
 MergedVerses	Esg.13:10-11	NoVerse	Esg.C:3-4	Esg.4:17.3-4	NoVerse	Esg.13:10-11	Esg.4:20
 MergedVerses	Esg.13:12-13	NoVerse	Esg.C:5-6	Esg.4:17.5-6	NoVerse	Esg.13:12-13	Esg.4:21
 LongVerse/LVExtra	Esg.13:14-18	NoVerse	Esg.C:7-11	Esg.4:17.7-11	NoVerse	Esg.13:14-18	Esg.4:22-26
-+MergedVerses	Esg.14:1-2	NoVerse	Esg.C:12-13	Esg.4:17.12-13	NoVerse	Esg.14:1-2	Esg.4:27
-+MergedVerses	Esg.14:3-4	NoVerse	Esg.C:14-15	Esg.4:17.14-15	NoVerse	Esg.14:3-4	Esg.4:28
-+MergedVerses	Esg.14:5-6	NoVerse	Esg.C:16-17	Esg.4:17.16-17	NoVerse	Esg.14:5-6	Esg.4:28
+MergedVerses	Esg.14:1-2	NoVerse	Esg.C:12-13	Esg.4:17.12-13	NoVerse	Esg.14:1-2	Esg.4:27
+MergedVerses	Esg.14:3-4	NoVerse	Esg.C:14-15	Esg.4:17.14-15	NoVerse	Esg.14:3-4	Esg.4:28
+MergedVerses	Esg.14:5-6	NoVerse	Esg.C:16-17	Esg.4:17.16-17	NoVerse	Esg.14:5-6	Esg.4:28
 LongVerse/LVExtra	Esg.14:7-10	NoVerse	Esg.C:18-21	Esg.4:17.18-21	NoVerse	Esg.14:7-10	Esg.4:29-31
-+MergedVerses	Esg.14:11-12	NoVerse	Esg.C:22-23	Esg.4:17.22-23	NoVerse	Esg.14:11-12	Esg.4:32
+MergedVerses	Esg.14:11-12	NoVerse	Esg.C:22-23	Esg.4:17.22-23	NoVerse	Esg.14:11-12	Esg.4:32
 LongVerse/LVExtra	Esg.14:13-19	NoVerse	Esg.C:24-30	Esg.4:17.24-30	NoVerse	Esg.14:13-19	Esg.4:33-41
 
 $Esg.5:1-14	English	Hebrew	Latin	Greek	GreekUndivided	Latin2	GreekIntegrated	
@@ -2973,12 +2980,12 @@ $3Jn.14:15	English	Greek	Greek2
 TEST: If...	3Jn.1:14=Last	3Jn.1:15=Last	3Jn.1:14=Last
 MergedVerses	3Jn.1:14-15	3Jn.1:14-15	3Jn.1:14
 
-$Rev.12:17-13.1a	English	Greek	Greek2
-TEST: If...	Rev.12:18=Last	Rev.12:17=Last	Rev.12:17=Last
-TEST: & if... 		Rev.12:17>Rev.13:1	Rev.12:17<Rev.13:1
-OneToOne	Rev.12:17	12:17a	12:17
-OneToOne	Rev.12:18	12:17b	13:1a
-OneToOne	Rev.13:1	13:1	13:1b
+$Rev.12:17-13.1a	English (NRSV)	Eng2 (eg NIV, KJV)	Eng3 (eg ESV)	Greek	Greek2
+TEST: If...	Rev.12:18=Last	Rev.12:17=Last	Rev.12:17=Last	Rev.12:18=Last	Rev.12:17=Last
+TEST: & if... 		Rev.12:17>Rev.13:1	Rev.12:17<Rev.13:1		Rev.12:17<Rev.13:1
+OneToOne	Rev.12:17	Rev.12:17	Rev.12:17a	Rev.12:17	Rev.12:17
+OneToOne	Rev.12:18	Rev.13:1a	Rev.12:17b	Rev.12:18	Rev.13:1a
+OneToOne	Rev.13:1	Rev.13:1b	Rev.13:1	Rev.13:1	Rev.13:1b
 
 
 #DataEnd(Condensed)
