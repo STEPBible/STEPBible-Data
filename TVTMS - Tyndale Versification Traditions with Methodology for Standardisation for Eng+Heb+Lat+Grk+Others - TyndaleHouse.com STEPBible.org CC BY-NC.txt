@@ -114,7 +114,8 @@ $Section (in Eng refs)	English	Hebrew	Latin	Greek	[Greek2, Slavonic etc.]
 
 $Gen.2:24--3:1	English	Hebrew	Latin	Greek	Greek2 (eg NETS)
 TEST: If...	Gen.2:25=Last	Gen.2:25=Last	Gen.2:25=Last	Gen.2:25=Last	Gen.2:24=Last	
-SubdividedVerse	Gen.3:1	Gen.3:1	Gen.3:1	Gen.3:1	Gen.2:25--3:1	
+MergedVerses	Gen.2:25	Gen.2:25	Gen.2:25	Gen.2:25	Gen.3:1.1	
+MergedVerses	Gen.3:1	Gen.3:1	Gen.3:1	Gen.3:1	Gen.3:1.2	
 
 $Gen.5:31--6:1	English	Hebrew	Latin	Greek	GreekUndivided	LatinUndivided	
 TEST: If... 	Gen.5:32=Last	Gen.5:32=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	
@@ -985,7 +986,7 @@ SubdividedVerse	Psa.31:1	Psa.31:1-2	Psa.30:1-2	Psa.30:1-2	Psa.31:1.0-1
 OneToOne	Psa.31:2-24	Psa.31:3-25	Psa.30:3-25	Psa.30:3-25	Psa.31:2-24		
 
 $Psa.32:1-11	English	Hebrew	Latin	Greek	EngTitleSeparate		
-TEST: If...	Psa.32:11=Last	Psa.32:11=Last	Psa.32:22=Last	Psa.32:22=Last	32		
+TEST: If...	Psa.32:11=Last	Psa.32:11=Last	Psa.32:22=Last	Psa.32:22=Last	Psa.32:11=Last		
 TEST: & if... 	Psa.32:1.1=NotExist	Psa.32:1.1=NotExist	Psa.32:1.1=NotExist	Psa.32:1.1=NotExist	Psa.32:1.1=Exist	
 SubdividedVerse	Psa.32:1	Psa.32:1	Psa.31:1	Psa.31:1	Psa.32:1.0-1			
 OneToOne	Psa.32:2-11	Psa.32:2-11	Psa.31:2-11	Psa.31:2-11	Psa.32:2-11			
@@ -1955,7 +1956,6 @@ $Bar.3:34-38	English	Latin	Greek
 TEST: If...	Bar.3:37=Last 	Bar.3:38=Last	Bar.3:38=Last	 		
 SubdividedVerse	Bar.3:34	Bar.3:34-35	Bar.3:34-35			
 OneToOne	Bar.3:35-37	Bar.3:36-38	Bar.3:36-38			
-			
 
 $Bar.6:1-6:73	English	Latin	Greek	Greek2	
 TEST: If...	Bar.6:73=Last 	Bar.6:72=Last	LJe.1:72=Last	LJe.1:73=Last 		
@@ -2972,7 +2972,7 @@ OneToOne	Php.1:16	Php.1:16	Php.1:17
 OneToOne	Php.1:17	Php.1:17	Php.1:16
 
 $1Jn.5:7-8	English	Greek	Greek2
-TEST: If...	1Jh.5:7<1Jh.1Jh.5:19	1Jh.5:7<1Jh.1Jh.5:19	1Jh.5:7>1Jh.1Jh.5:19
+TEST: If...	1Jn.5:7<1Jn.5:19	1Jn.5:7<1Jn.5:19	1Jn.5:7>1Jn.5:19
 TextMayBeMissing	1Jn.5:7	1Jn.5:7.1	1Jn.5:7
 TextMayBeMissing	1Jn.5:8	1Jn.5:8.2	1Jn.5:8
 
@@ -3053,8 +3053,8 @@ SourceType	SourceRef	StandardRef	Action	NoteMarker	Note A	Note B	Ancient Version
 ==========================================================================================================================================================
 
 English+Hebrew+Latin+Greek	Gen.2:25	Gen.2:25	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 3:1a.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 / 3:1a)	Gen.2:25=Last	
-Greek2	Gen.3:1	Gen.2:25	Merged with next	Nec. [1a]	%Normally in this Bible some text may be missing here because it is merged with% 3:1.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 / 3:1a)	Gen.2:24=Last	
-Greek2	Gen.3:1	Gen.3:1	Keep verse	Nec. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 3:1.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1 / 3:1b)	Gen.2:24=Last	
+Greek2	Gen.3:1.1	Gen.2:25	Merged with next	Nec. [1a]	%Normally in this Bible some text may be missing here because it is merged with% 3:1.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 / 3:1a)	Gen.2:24=Last	
+Greek2	Gen.3:1.2	Gen.3:1	Keep verse	Nec. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 3:1.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1 / 3:1b)	Gen.2:24=Last	
 
 English+Hebrew	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 English+Hebrew	Gen.5:32	Gen.5:32	Keep verse	Acd. [31b]	%In some Bibles the verse numbering here is% 5:31b.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
