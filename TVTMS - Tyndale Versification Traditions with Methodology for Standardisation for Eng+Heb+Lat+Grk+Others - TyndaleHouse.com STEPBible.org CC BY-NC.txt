@@ -993,7 +993,7 @@ OneToOne	Psa.32:2-11	Psa.32:2-11	Psa.31:2-11	Psa.31:2-11	Psa.32:2-11
 
 $Psa.33:1-22	English	Hebrew	Latin	Greek	EngTitleSeparate		
 TEST: If...	Psa.33:22=Last	Psa.33:22=Last	Psa.33:23=Last	Psa.33:23=Last	Psa.33:22=Last		
-OneToOne	Psa.33:1-22	Psa.33:1-22	Psa.32:1-22	Psa.32:1-22			
+OneToOne	Psa.33:1-22	Psa.33:1-22	Psa.32:1-22	Psa.32:1-22	Psa.33:1-22			
 
 $Psa.34:1-34:22	English	Hebrew	Latin	Greek	EngTitleSeparate
 TEST: If...	Psa.34:22=Last	Psa.34:23=Last	Psa.34:28=Last	Psa.34:28=Last	Psa.34:22=Last		
@@ -1514,7 +1514,7 @@ TEST: If...	Psa.126:6=Last	Psa.126:6=Last	Psa.125:7=Last	Psa.125:6=Last	Psa.126:
 TEST: & if... 	Psa.126:1.1=NotExist	Psa.126:1.1=NotExist	Psa.126:1.1=NotExist	Psa.126:1.1=NotExist	Psa.126:1.1=Exist	
 SubdividedVerse	Psa.126:1	Psa.126:1	Psa.125:1	Psa.125:1	Psa.126:1.0-1			
 OneToOne	Psa.126:2-5	Psa.126:2-5	Psa.125:2-5	Psa.125:2-5	Psa.126:2-5			
-SubdividedVerse	Psa.126:6	Psa.126:6	Psa.125:6-7	Psa.125:6			
+SubdividedVerse	Psa.126:6	Psa.126:6	Psa.125:6-7	Psa.125:6	Psa.126:6		
 
 $Psa.127:1-5	English	Hebrew	Latin	Greek	EngTitleSeparate		
 TEST: If...	Psa.127:5=Last	Psa.127:5=Last	Psa.127:6=Last	Psa.127:6=Last	Psa.127:5=Last		
@@ -1953,7 +1953,7 @@ OneToOne	Mal.4:5	Mal.3:23	Mal.4:5	Mal.4:6
 OneToOne	Mal.4:6	Mal.3:24	Mal.4:6	Mal.4:4			
 
 $Bar.3:34-38	English	Latin	Greek		
-TEST: If...	Bar.3:37=Last 	Bar.3:38=Last	Bar.3:38=Last	 		
+TEST: If...	Bar.3:37=Last 	Bar.3:38=Last	Bar.3:38=Last			
 SubdividedVerse	Bar.3:34	Bar.3:34-35	Bar.3:34-35			
 OneToOne	Bar.3:35-37	Bar.3:36-38	Bar.3:36-38			
 
