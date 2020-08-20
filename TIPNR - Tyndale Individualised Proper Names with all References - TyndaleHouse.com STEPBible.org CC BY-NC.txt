@@ -50,15 +50,15 @@ Each record starts with "$" and fields are separated by Tabs.
 The first line is a Header, and subsequent lines are linked subRecords which all start with a tab (i.e. an emty field). The fields in the Header can be regarded as the initial fields for each linked subRecord. 
 The fields in Headers for individuals and places are different:
 
-$========== PERSON(s)
+ $========== PERSON(s)
 UniqueName	Description	Parents Male+Female	Siblings	Partners	Offspring
 	UniqueTag	Hebrew/Greek	ESV name	Refs
 
-$========== PLACE
+ $========== PLACE
 UniqueName	Description	OpenBible name	Geoposition at OpenBible
 	UniqueTag	Hebrew/Greek	ESV name	Refs
 
-$========== OTHER
+ $========== OTHER
 UniqueName	Description	
 	UniqueTag	Hebrew/Greek	ESV name	Refs
 
@@ -69,7 +69,7 @@ When there is uncertainty about whether someone or some place in one reference i
 EXAMPLES: 
 =======
 
-$========== PLACE
+ $========== PLACE
 Cyprus@Num.24.24	Place	Cyprus	35.018306,33.207693
 	Cyprus@Num.24.24	G2953=Κύπριος	Cyprus	Act.4.36; Act.11.20; Act.21.16; 
 	Cyprus@Num.24.24	G2954=Κύπρος	Cyprus	Act.11.19; Act.13.4; Act.15.39; Act.21.3; Act.27.4; 
@@ -82,29 +82,36 @@ The most common name is Cyprus, so this is used in the UniqueName, along with th
 The "Elishah" of Ezk.27.7 may be Cyprus, Crete. We only know that it was an island or coastland (אִי) and it was a source of purple, which was manufactured throughout the ancient Mediteranian. A survey of all the known sites of ancient purple manufacture show a preponderance in Crete  and this was perhaps the oldest site (see http://maajournal.com/Issues/2017/Vol17-1/Kalaitzaki et al. 17%281%29.pdf), but Cyprus was also as ancient and this island was as something like "Elishah" in the Akkadian & Ugaritic texts and the Amarna letters. 
 The name is sometimes translated differently in KJV & NIV, and  these are noted. 
 
-$========== PERSON(s)
+ $========== PERSON(s)
 Rahab@Jos.2.1	Female living at the time of Egypt and Wilderness	 + 			
 	Rahab@Jos.2.1	G4460=Ῥαάβ	Rahab	Heb.11.31; Jas.2.25; 
 	Rahab@Jos.2.1	H7343=רָחָב	Rahab	Jos.2.1; Jos.2.3; Jos.6.17; Jos.6.23; Jos.6.25; 
-$========== PERSON(s)
+ $========== PERSON(s)
 Rahab@Mat.1.5	Female living at the time of Israel before the monarchy	 + 			Boaz@Rut.2.1
 	Rahab@Mat.1.5	G4477=Ῥαχάβ	Rahab (KJV= Rachab)	Mat.1.5; 
 NOTES:
 These two Rahabs are considered identical in rabbinic Midrashim and probably in the minds of NT readers. However, the chronological distance between the two make it difficult for them to be the same person.
 
-$========== OTHER
+ $========== OTHER
 Abaddon@Job.26.6	A non-physical place				
 	Abaddon@Job.26.6	H0011=אֲבַדּוֹן	Abaddon	Job.26.6; Job.28.22; Job.31.12; Psa.88.11; Pro.15.11; 
 	Abaddon@Job.26.6	H0011=אֲבַדּוֹן	Abaddon (=Qere. Ketiv= destruction)	Pro.27.20; 
+
+
+£ = below this, is PRIVATE
 NOTES:
 The Ketiv and Qere are different at Pro.27.20 and these are noted. 
 
 A JSON version of this data has been created at https://github.com/robertrouse/STEPBible-Data/tree/master/json 
 
+To COPY data to 	https://docs.google.com/spreadsheets/d/1Iap4E8q-K-CeTpsc1M9a2SdU8zWwKUGY7jf6QzM3Phc/edit#gid=0
+(LOGIN = StepBibleProject@gmail.com = Psalm.119:18)
+(?<=^TIPNR.*\r\n)[^£]*|(?<=^\$===.*\r\n)[^\$]* => 	
 
 
 
 
+$========== FIELDS:
 #==========================================================================================================
 #PERSON(s) UniqueName	Description	Father + Mother	Siblings	Partners	Offspring
 #	UniqueTag	Hebrew/Greek	ESV name (and KJV, NIV)	Refs
@@ -261,7 +268,7 @@ Abinadab@1Sa.7.1	Male living at the time of United monarchy	 + 			Eleazar@1Sa.7.
 	Abinadab@1Sa.7.1	H0041=אֲבִינָדָב	Abinadab	1Sa.7.1; 2Sa.6.3a; 2Sa.6.3b; 1Ch.13.7; 
 $========== PERSON(s)
 Abinadab@1Ki.4.11	Male living at the time of United monarchy	 + 			Ben-abinadab@1Ki.4.11
-	Abinadab@1Ki.4.11	H0041=אֲבִינָדָב	Abinadab	[1Ki.4.11]; 
+	Abinadab@1Ki.4.11	H0041=אֲבִינָדָב	Abinadab	1Ki.4.11; 
 $========== PERSON(s)
 Abinoam@Jdg.4.6	Male living at the time of Israel before the monarchy	 + 			Barak@Jdg.4.6
 	Abinoam@Jdg.4.6	H0042=אֲבִינֹ֫עַם	Abinoam	Jdg.4.6; Jdg.4.12; Jdg.5.1; Jdg.5.12; 
@@ -475,7 +482,7 @@ Agee@2Sa.23.11	Male living at the time of United monarchy	 + 			Shammah@2Sa.23.1
 	Agee@2Sa.23.11	H0089=אָגֵא	Agee	2Sa.23.11; 
 $========== PERSON(s)
 Agrippa@Act.25.13	Male living at the time of the New Testament 	 + 			
-	Agrippa@Act.25.13	G0067=Ἀγρίππας	[ ] (KJV, NIV= Agrippa)	Act.26.7; 
+	Agrippa@Act.25.13	G0067=Ἀγρίππας	[ ] (KJV, NIV= Agrippa)	[Act.26.7]; 
 	Agrippa@Act.25.13	G0067=Ἀγρίππας	Agrippa	Act.25.13; Act.25.22; Act.25.23; Act.25.24; Act.25.26; Act.26.1; Act.26.2; Act.26.19; Act.26.27; Act.26.28; Act.26.32; 
 $========== PERSON(s)
 Agur@Pro.30.1	Male living at the time of United monarchy	Jakeh@Pro.30.1 + 			
@@ -1021,7 +1028,7 @@ Aran@Gen.36.28	Male living at the time of the first Patriarchs	Dishan@Gen.36.21 
 	Aran@Gen.36.28	H0765=אֲרָן	Aran	Gen.36.28; 1Ch.1.42; 
 $========== PERSON(s)
 Arba@Jos.14.15	Male living at the time of Israel before the monarchy	 + 			Anak@Num.13.22
-	Arba@Jos.14.15	[ ]	Arba	Jos.14.15
+	Arba@Jos.14.15	[ ]	Arba	[Jos.14.15]
 $========== PERSON(s)
 Archelaus@Mat.2.22	Male living at the time of the New Testament 	Herod@Mat.2.1 + 	Herod@Mat.14.1, Philip@Mat.14.3, Philip@Luk.3.1		
 	Archelaus@Mat.2.22	G0745=Ἀρχέλαος	Archelaus	Mat.2.22; 
@@ -1751,10 +1758,9 @@ Benjamin@Gen.35.18	Male living at the time of the first Patriarchs	Israel@Gen.25
 	Benjamin@Gen.35.18	H1144=בִּנְיָמִין	Benjamin	Gen.35.18; Gen.35.24; Gen.42.4; Gen.42.36; Gen.43.14; Gen.43.15; Gen.43.16; Gen.43.29; Gen.43.34; Gen.44.12; Gen.45.12; Gen.45.14a; Gen.45.14b; Gen.45.22; Gen.46.19; Gen.46.21; Gen.49.27; Exo.1.3; Num.1.11; Num.1.36; Num.1.37; Num.2.22a; Num.2.22b; Num.7.60; Num.10.24; Num.13.9; Num.26.38; Num.26.41; Num.34.21; Deu.27.12; Deu.33.12; Jos.18.11; Jos.18.20; Jos.18.21; Jos.18.28; Jos.21.4; Jos.21.17; Jdg.1.21a; Jdg.1.21b; Jdg.5.14; Jdg.10.9; Jdg.19.14; Jdg.20.3; Jdg.20.4; Jdg.20.10; Jdg.20.12; Jdg.20.14; Jdg.20.15; Jdg.20.17; Jdg.20.18; Jdg.20.20; Jdg.20.21; Jdg.20.23; Jdg.20.24; Jdg.20.25; Jdg.20.28; Jdg.20.30; Jdg.20.31; Jdg.20.32; Jdg.20.35a; Jdg.20.35b; Jdg.20.36a; Jdg.20.36b; Jdg.20.39; Jdg.20.41; Jdg.20.44; Jdg.20.46; Jdg.20.48; Jdg.21.1; Jdg.21.6; Jdg.21.13; Jdg.21.14; Jdg.21.15; Jdg.21.16; Jdg.21.17; Jdg.21.18; Jdg.21.20; Jdg.21.21; Jdg.21.23; 1Sa.4.12; 1Sa.9.16; 1Sa.9.21; 1Sa.10.2; 1Sa.10.20; 1Sa.10.21; 1Sa.13.2; 1Sa.13.15; 1Sa.13.16; 1Sa.14.16; 2Sa.2.9; 2Sa.2.15; 2Sa.2.25; 2Sa.2.31; 2Sa.3.19a; 2Sa.3.19b; 2Sa.4.2a; 2Sa.4.2b; 2Sa.19.17; 2Sa.21.14; 2Sa.23.29; 1Ki.4.18; 1Ki.12.21; 1Ki.12.23; 1Ki.15.22; 1Ch.2.2; 1Ch.6.60; 1Ch.6.65; 1Ch.7.6; 1Ch.8.1; 1Ch.9.3; 1Ch.11.31; 1Ch.12.16; 1Ch.21.6; 1Ch.27.21; 2Ch.11.1; 2Ch.11.3; 2Ch.11.10; 2Ch.11.12; 2Ch.11.23; 2Ch.14.8; 2Ch.15.2; 2Ch.15.8; 2Ch.15.9; 2Ch.17.17; 2Ch.25.5; 2Ch.31.1; 2Ch.34.9; 2Ch.34.32; Ezr.1.5; Ezr.4.1; Ezr.10.9; Neh.11.4; Neh.11.7; Neh.11.31; Neh.11.36; Psa.68.27; Psa.80.2; Jer.1.1; Jer.6.1; Jer.17.26; Jer.32.8; Jer.32.44; Jer.33.13; Jer.37.12; Ezk.48.22; Ezk.48.23; Ezk.48.24; Ezk.48.32; Hos.5.8; Oba.1.19; 
 	Benjamin@Gen.35.18	H1144=בִּנְיָמִין	Benjaminite	Jdg.20.13; Jdg.20.40; Jdg.20.43; 1Ch.8.40; 1Ch.9.7; 1Ch.12.2; 1Ch.12.29; 
 	Benjamin@Gen.35.18	H1145=בֶּן־יְמִינִי	Benjaminite	Jdg.3.15; Jdg.19.16; 1Sa.9.21; 2Sa.16.11; 2Sa.19.16; 1Ki.2.8; 1Ch.27.12; Est.2.5; Psa.7.1; 
-	Benjamin@Gen.35.18	H3225=יָמִין	Benjamin	1Sa.9.1; 
-	Benjamin@Gen.35.18	H3227b=יְמִינִי	Benjamin	1Sa.9.4; 1Sa.22.7; 
-	Benjamin@Gen.35.18	H3227b=יְמִינִי	Benjaminite	1Sa.9.1; 
-	Benjamin@Gen.35.18	H3228=יָֽמִינִי	Benjaminite	2Sa.20.1; 
+	Benjamin@Gen.35.18	H3225=יָמִין	[Ben]jamin	1Sa.9.1; 
+	Benjamin@Gen.35.18	H3227b=יְמִינִי	[Ben]jaminite	1Sa.9.1; 1Sa.9.4; 1Sa.22.7; 
+	Benjamin@Gen.35.18	H3228=יָֽמִינִי	[Ben]jaminite	2Sa.20.1; 
 	Ben-oni|Benjamin@Gen.35.18	H1126=בֶּן־אוֹנִ֑י	Ben-oni	Gen.35.18; 
 $========== PERSON(s)
 Benjamin@Neh.12.34	Male living at the time of Exile and return	 + 			
@@ -2250,7 +2256,7 @@ Dehavite@Ezr.4.9	Word sometimes translated as a name	 +
 	that_is|Dehavite@Ezr.4.9	H1723=דֵּהָיֵא	that is (=Ketiv. Qere, KJV= Dehavite)	Ezr.4.9; 
 $========== PERSON(s)
 Deker@1Ki.4.9	Male living at the time of United monarchy	 + 			Ben-deker@1Ki.4.9
-	Deker@1Ki.4.9	H1128=בֶּן־דֶּ֫קֶר	Deker (KJV= Dekar)	[1Ki.4.9]; 
+	Deker@1Ki.4.9	H1128=בֶּן־דֶּ֫קֶר	Deker (KJV= Dekar)	1Ki.4.9; 
 $========== PERSON(s)
 Delaiah@1Ch.24.18	Male living at the time of Divided monarchy	 + 			
 	Delaiah@1Ch.24.18	H1806=דְּלָיָ֫הוּ	Delaiah	1Ch.24.18; 
@@ -3181,7 +3187,7 @@ Gazzam@Ezr.2.48	Male living at the time of Exile and return	 +
 	Gazzam@Ezr.2.48	H1502=גַּזָּם	Gazzam	Ezr.2.48; Neh.7.51; 
 $========== PERSON(s)
 Geber@1Ki.4.13	Male living at the time of United monarchy	 + 			Ben-geber@1Ki.4.13
-	Geber@1Ki.4.13	H1127=בֶּן־גֶּ֫בֶר	Geber	[1Ki.4.13]; 
+	Geber@1Ki.4.13	H1127=בֶּן־גֶּ֫בֶר	Geber	1Ki.4.13; 
 $========== PERSON(s)
 Geber@1Ki.4.19	Male living at the time of United monarchy	Uri@1Ki.4.19 + 			
 	Geber@1Ki.4.19	H1398=גֶּ֫בֶר	Geber	1Ki.4.19; 
@@ -3930,7 +3936,7 @@ Herodion@Rom.16.11	Male living at the time of the New Testament 	 +
 	Herodion@Rom.16.11	G2267=Ἡρωδίων	Herodion	Rom.16.11; 
 $========== PERSON(s)
 Hesed@1Ki.4.10	Male living at the time of United monarchy	 + 			Ben-hesed@1Ki.4.10
-	Hesed@1Ki.4.10	H2618=חֶ֫סֶד	Hesed	[1Ki.4.10]; 
+	Hesed@1Ki.4.10	H2618=חֶ֫סֶד	Hesed	1Ki.4.10; 
 $========== PERSON(s)
 Heth@Gen.10.15	Male living at the time of the first Patriarchs	Canaan@Gen.9.18 + 	Sidon@Gen.10.15, Jebusite@Gen.10.16, Amorite@Gen.10.16, Girgasite@Gen.10.16, Hivite@Gen.10.17, Arkite@Gen.10.17, Sinite@Gen.10.17, Arvadite@Gen.10.18, Zemarite@Gen.10.18, Hamathite@Gen.10.18		
 	Heth@Gen.10.15	H2845=חֵת	Hittite (KJV= of Heth)	Gen.23.3; Gen.23.5; Gen.23.7; Gen.23.10a; Gen.23.10b; Gen.23.16; Gen.23.18; Gen.23.20; Gen.25.10; Gen.27.46a; Gen.27.46b; Gen.49.32; 
@@ -4148,7 +4154,7 @@ Huppim@Gen.46.21	Male living at the time of the first Patriarchs	Benjamin@Gen.35
 	Huram|Huppim@Gen.46.21	H2361=חוּרָם	Huram	1Ch.8.5; 
 $========== PERSON(s)
 Hur@1Ki.4.8	Male living at the time of United monarchy	 + 			Ben-hur@1Ki.4.8
-	Hur@1Ki.4.8	H1133=בֶּן־חוּר	Hur	[1Ki.4.8]; 
+	Hur@1Ki.4.8	H1133=בֶּן־חוּר	Hur	1Ki.4.8; 
 $========== PERSON(s)
 Hur@Exo.17.10	Male living at the time of Egypt and Wilderness	Caleb@1Ch.2.9 + Ephrathah@1Ch.2.19	Jesher@1Ch.2.18, Shobab@1Ch.2.18, Ardon@1Ch.2.18, Mareshah@1Ch.2.42, Haran@1Ch.2.46, Moza@1Ch.2.46, Gazez@1Ch.2.46a, Jahdai@1Ch.2.47, Sheber@1Ch.2.48, Tirhanah@1Ch.2.48, Shaaph@1Ch.2.49, Sheva@1Ch.2.49, Achsah@1Ch.2.49		Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4
 	Hur@Exo.17.10	H2354=חוּר	Hur	Exo.17.10; Exo.17.12; Exo.24.14; Exo.31.2; Exo.35.30; Exo.38.22; 1Ch.2.19; 1Ch.2.20; 1Ch.2.50; 1Ch.4.1; 1Ch.4.4; 2Ch.1.5; 
@@ -4778,10 +4784,6 @@ $========== PERSON(s)
 Javan@Gen.10.2	Male living at the time of the first Patriarchs 	Japheth@Gen.5.32 + 	Gomer@Gen.10.2, Magog@Gen.10.2, Madai@Gen.10.2, Tubal@Gen.10.2, Meshech@Gen.10.2, Tiras@Gen.10.2		Elishah@Gen.10.4, Tarshish@Gen.10.4, Kittim@Gen.10.4, Dodanim@Gen.10.4
 	Javan@Gen.10.2	H3120=יָוָן	Javan	Gen.10.2; Gen.10.4; 1Ch.1.5; 1Ch.1.7; 
 $==========
-Javan@Isa.66.19	A language	
-	Greek|Javan@Isa.66.19	G1673=Ἑλληνικός=Ἑλληνικός	Greek	Luk.23.38; Rev.9.11
-	Gentile|Javan@Isa.66.19	G1674=Ἑλληνίς=Ἑλληνίς	Gentile (KJV, NIV= Greek)	Mrk.7.26; Act.17.12
-$==========
 Javan@Isa.66.19	People living in Greece	
 	Greek|Javan@Isa.66.19	G1672=Ἕλλην=Ἕλλην	Greek (KJV, NIV= Gentile)	Rom.2.9; Rom.2.10; Rom.3.9; 1Co.12.13; 
 	Greek|Javan@Isa.66.19	G1672=Ἕλλην=Ἕλλην	Greek (KJV= Gentile)	Jhn.7.35a; Jhn.7.35b; 1Co.10.32; 
@@ -5283,7 +5285,8 @@ $========== PERSON(s)
 Jesus@Mat.1.1	Male living at the time of the New Testament 	Joseph@Mat.1.16 + Mary@Mat.1.16	James@Mat.13.55, Joseph@Mat.13.55, Simon@Mat.13.55, Jude@Mat.13.55		
 	Christ|Jesus@Mat.1.1	G2424=Ἰησοῦς	Christ	Col.1.28; 1Pe.5.10; 1Pe.5.14; 
 	Christ|Jesus@Mat.1.1	G5546=Χριστιανός	Christian	Act.11.26; Act.26.28; 1Pe.4.16; 
-	Christ|Jesus@Mat.1.1	G5547=Χριστός	[ ] (KJV= Christ)	Col.1.2b; 1Th.1.1b; 
+	Christ|Jesus@Mat.1.1	G5547=Χριστός	[ ] (NIV, KJV= Christ)	Col.1.2b; 
+	Christ|Jesus@Mat.1.1	G5547=Χριστός	[ ] (KJV= Christ)	1Th.1.1b; 
 	Christ|Jesus@Mat.1.1	G5547=Χριστός	Christ	Mat.1.1; Mat.1.16; Mat.1.17; Mat.1.18; Mat.2.4; Mat.11.2; Mat.16.16; Mat.16.20; Mat.22.42; Mat.23.10; Mat.24.5; Mat.24.23; Mat.26.63; Mat.26.68; Mat.27.17; Mat.27.22; Mrk.1.1; Mrk.8.29; Mrk.9.41; Mrk.12.35; Mrk.13.21; Mrk.14.61; Mrk.15.32; Luk.2.11; Luk.2.26; Luk.3.15; Luk.4.41; Luk.9.20; Luk.20.41; Luk.22.67; Luk.23.2; Luk.23.35; Luk.23.39; Luk.24.26; Luk.24.46; Jhn.1.17; Jhn.1.20; Jhn.1.25; Jhn.1.41; Jhn.3.28; Jhn.4.25; Jhn.4.29; Jhn.7.26; Jhn.7.27; Jhn.7.31; Jhn.7.41a; Jhn.7.41b; Jhn.7.42; Jhn.9.22; Jhn.10.24; Jhn.11.27; Jhn.12.34; Jhn.17.3; Jhn.20.31; Act.2.31; Act.2.36; Act.2.38; Act.3.6; Act.3.18; Act.3.20; Act.4.10; Act.5.42; Act.8.5; Act.8.12; Act.9.22; Act.9.34; Act.10.36; Act.11.17; Act.15.26; Act.16.18; Act.17.3a; Act.17.3b; Act.18.5; Act.18.28; Act.20.21; Act.24.24; Act.26.23; Act.28.31; Rom.1.1; Rom.1.4; Rom.1.6; Rom.1.7; Rom.1.8; Rom.2.16; Rom.3.22; Rom.3.24; Rom.5.1; Rom.5.6; Rom.5.8; Rom.5.11; Rom.5.15; Rom.5.17; Rom.5.21; Rom.6.3; Rom.6.4; Rom.6.8; Rom.6.9; Rom.6.11; Rom.6.23; Rom.7.4; Rom.7.25; Rom.8.1; Rom.8.2; Rom.8.9; Rom.8.10; Rom.8.11; Rom.8.17; Rom.8.34; Rom.8.35; Rom.8.39; Rom.9.1; Rom.9.3; Rom.9.5; Rom.10.4; Rom.10.6; Rom.10.7; Rom.10.17; Rom.12.5; Rom.13.14; Rom.14.9; Rom.14.15; Rom.14.18; Rom.15.3; Rom.15.5; Rom.15.6; Rom.15.7; Rom.15.8; Rom.15.16; Rom.15.17; Rom.15.18; Rom.15.19; Rom.15.20; Rom.15.29; Rom.15.30; Rom.16.3; Rom.16.5; Rom.16.7; Rom.16.9; Rom.16.10; Rom.16.16; Rom.16.18; Rom.16.20; Rom.16.25; Rom.16.27; 1Co.1.1; 1Co.1.2a; 1Co.1.2b; 1Co.1.3; 1Co.1.4; 1Co.1.6; 1Co.1.7; 1Co.1.8; 1Co.1.9; 1Co.1.10; 1Co.1.12; 1Co.1.13; 1Co.1.17a; 1Co.1.17b; 1Co.1.23; 1Co.1.24; 1Co.1.30; 1Co.2.2; 1Co.2.16; 1Co.3.1; 1Co.3.11; 1Co.3.23a; 1Co.3.23b; 1Co.4.1; 1Co.4.10a; 1Co.4.10b; 1Co.4.15a; 1Co.4.15b; 1Co.4.17; 1Co.5.7; 1Co.6.15a; 1Co.6.15b; 1Co.7.22; 1Co.8.6; 1Co.8.11; 1Co.8.12; 1Co.9.12; 1Co.9.21; 1Co.10.4; 1Co.10.9; 1Co.10.16a; 1Co.10.16b; 1Co.11.1; 1Co.11.3a; 1Co.11.3b; 1Co.12.12; 1Co.12.27; 1Co.15.3; 1Co.15.12; 1Co.15.13; 1Co.15.14; 1Co.15.15; 1Co.15.16; 1Co.15.17; 1Co.15.18; 1Co.15.19; 1Co.15.20; 1Co.15.22; 1Co.15.23a; 1Co.15.23b; 1Co.15.31; 1Co.15.57; 1Co.16.24; 2Co.1.1; 2Co.1.2; 2Co.1.3; 2Co.1.5a; 2Co.1.5b; 2Co.1.19; 2Co.1.21; 2Co.2.10; 2Co.2.12; 2Co.2.14; 2Co.2.15; 2Co.2.17; 2Co.3.3; 2Co.3.4; 2Co.3.14; 2Co.4.4; 2Co.4.5; 2Co.4.6; 2Co.5.10; 2Co.5.14; 2Co.5.16; 2Co.5.17; 2Co.5.18; 2Co.5.19; 2Co.5.20a; 2Co.5.20b; 2Co.6.15; 2Co.8.9; 2Co.8.23; 2Co.9.13; 2Co.10.1; 2Co.10.5; 2Co.10.7a; 2Co.10.7b; 2Co.10.14; 2Co.11.2; 2Co.11.3; 2Co.11.10; 2Co.11.13; 2Co.11.23; 2Co.12.2; 2Co.12.9; 2Co.12.10; 2Co.12.19; 2Co.13.3; 2Co.13.5; 2Co.13.14; Gal.1.1; Gal.1.3; Gal.1.6; Gal.1.7; Gal.1.10; Gal.1.12; Gal.1.22; Gal.2.4; Gal.2.16a; Gal.2.16b; Gal.2.16c; Gal.2.17a; Gal.2.17b; Gal.2.20a; Gal.2.20b; Gal.2.21; Gal.3.1; Gal.3.13; Gal.3.14; Gal.3.16; Gal.3.22; Gal.3.24; Gal.3.26; Gal.3.27a; Gal.3.27b; Gal.3.28; Gal.3.29; Gal.4.14; Gal.4.19; Gal.5.1; Gal.5.2; Gal.5.4; Gal.5.6; Gal.5.24; Gal.6.2; Gal.6.12; Gal.6.14; Gal.6.18; Eph.1.1a; Eph.1.1b; Eph.1.2; Eph.1.3a; Eph.1.3b; Eph.1.5; Eph.1.12; Eph.1.17; Eph.1.20; Eph.2.5; Eph.2.6; Eph.2.7; Eph.2.10; Eph.2.12; Eph.2.13a; Eph.2.13b; Eph.2.20; Eph.3.1; Eph.3.4; Eph.3.6; Eph.3.8; Eph.3.11; Eph.3.17; Eph.3.19; Eph.3.21; Eph.4.7; Eph.4.12; Eph.4.13; Eph.4.15; Eph.4.20; Eph.4.32; Eph.5.2; Eph.5.5; Eph.5.14; Eph.5.20; Eph.5.21; Eph.5.23; Eph.5.24; Eph.5.25; Eph.5.32; Eph.6.5; Eph.6.6; Eph.6.23; Eph.6.24; Php.1.1a; Php.1.1b; Php.1.2; Php.1.6; Php.1.8; Php.1.10; Php.1.11; Php.1.13; Php.1.15; Php.1.17; Php.1.18; Php.1.19; Php.1.20; Php.1.21; Php.1.23; Php.1.26; Php.1.27; Php.1.29; Php.2.1; Php.2.5; Php.2.11; Php.2.16; Php.2.21; Php.2.30; Php.3.3; Php.3.7; Php.3.8a; Php.3.8b; Php.3.9; Php.3.12; Php.3.14; Php.3.18; Php.3.20; Php.4.7; Php.4.19; Php.4.21; Php.4.23; Col.1.1; Col.1.2; Col.1.3; Col.1.4; Col.1.7; Col.1.24; Col.1.27; Col.1.28; Col.2.2; Col.2.5; Col.2.6; Col.2.8; Col.2.11; Col.2.17; Col.2.20; Col.3.1a; Col.3.1b; Col.3.3; Col.3.4; Col.3.11; Col.3.16; Col.3.24; Col.4.3; Col.4.12; 1Th.1.1; 1Th.1.3; 1Th.2.6; 1Th.2.14; 1Th.3.2; 1Th.4.16; 1Th.5.9; 1Th.5.18; 1Th.5.23; 1Th.5.28; 2Th.1.1; 2Th.1.2; 2Th.1.12; 2Th.2.1; 2Th.2.14; 2Th.2.16; 2Th.3.5; 2Th.3.6; 2Th.3.12; 2Th.3.18; 1Ti.1.1a; 1Ti.1.1b; 1Ti.1.2; 1Ti.1.12; 1Ti.1.14; 1Ti.1.15; 1Ti.1.16; 1Ti.2.5; 1Ti.3.13; 1Ti.4.6; 1Ti.5.11; 1Ti.5.21; 1Ti.6.3; 1Ti.6.13; 1Ti.6.14; 2Ti.1.1a; 2Ti.1.1b; 2Ti.1.2; 2Ti.1.9; 2Ti.1.10; 2Ti.1.13; 2Ti.2.1; 2Ti.2.3; 2Ti.2.8; 2Ti.2.10; 2Ti.3.12; 2Ti.3.15; 2Ti.4.1; Tit.1.1; Tit.1.4; Tit.2.13; Tit.3.6; Phm.1.1; Phm.1.3; Phm.1.6; Phm.1.8; Phm.1.9; Phm.1.20; Phm.1.23; Phm.1.25; Heb.3.6; Heb.3.14; Heb.5.5; Heb.6.1; Heb.9.11; Heb.9.14; Heb.9.24; Heb.9.28; Heb.10.10; Heb.11.26; Heb.13.8; Heb.13.21; Jas.1.1; Jas.2.1; 1Pe.1.1; 1Pe.1.2; 1Pe.1.3a; 1Pe.1.3b; 1Pe.1.7; 1Pe.1.11a; 1Pe.1.11b; 1Pe.1.13; 1Pe.1.19; 1Pe.2.5; 1Pe.2.21; 1Pe.3.16; 1Pe.3.18; 1Pe.3.21; 1Pe.4.1; 1Pe.4.11; 1Pe.4.13; 1Pe.4.14; 1Pe.5.1; 1Pe.5.10; 1Pe.5.14; 2Pe.1.1a; 2Pe.1.1b; 2Pe.1.8; 2Pe.1.11; 2Pe.1.14; 2Pe.1.16; 2Pe.2.20; 2Pe.3.18; 1Jn.1.3; 1Jn.2.1; 1Jn.2.22; 1Jn.3.23; 1Jn.4.2; 1Jn.5.1; 1Jn.5.6; 1Jn.5.20; 2Jn.1.3; 2Jn.1.7; 2Jn.1.9; Jud.1.1a; Jud.1.1b; Jud.1.4; Jud.1.17; Jud.1.21; Jud.1.25; Rev.1.1; Rev.1.2; Rev.1.5; Rev.11.15; Rev.12.10; Rev.20.4; Rev.20.6; 
 	Father|Jesus@Mat.1.1	G2424=Ἰησοῦς	Father	Col.1.2; 
 	Jesus@Mat.1.1	G2424=Ἰησοῦς	[ ] (KJV= Jesus)	Luk.10.39; 1Th.1.1b; 
@@ -5573,7 +5576,8 @@ John@Act.4.6	Male living at the time of the New Testament 	 +
 	John@Act.4.6	G2491=Ἰωάννης	John	Act.4.6; 
 $========== PERSON(s)
 John@Mat.16.17	Male living at the time of the New Testament 	 + 			Peter@Mat.4.18, Andrew@Mat.4.18
-	John@Mat.16.17	G2495=Ἰωνᾶς	John (KJV= Jona)	Mat.16.17; Jhn.1.42; 
+	Jonah|John@Mat.16.17	G2495=Ἰωνᾶς	Jonah (KJV= Jona)	Mat.16.17; 
+	John@Mat.16.17	G2495=Ἰωνᾶς	John (KJV= Jona)	Jhn.1.42; 
 	John@Mat.16.17	G2495=Ἰωνᾶς	John (KJV= Jonas)	Jhn.21.15; Jhn.21.16; Jhn.21.17; 
 $========== PERSON(s)
 John@Mat.3.1	Male living at the time of the New Testament 	Zechariah@Luk.1.5 + Elizabeth@Luk.1.5			
@@ -6076,9 +6080,6 @@ Lamech@Gen.5.25	Male living at the time of the first Patriarchs	Methuselah@Gen.5
 $========== PERSON(s)
 Lappidoth@Jdg.4.4	Female living at the time of Israel before the monarchy	 + 		Deborah@Jdg.4.4	
 	Lappidoth@Jdg.4.4	H3941=לַפִּידוֹת	Lappidoth (KJV= Lapidoth)	Jdg.4.4; 
-$==========
-Latin@Luk.23.38	A language	
-	Latin@Luk.23.38	G4513=Ῥωμαϊκός	[ ] (KJV= Latin)	Luk.23.38; 
 $========== PERSON(s)
 Lazarus@Jhn.11.1	Male living at the time of the New Testament 	father_of_Lazarus@Luk.10.39 + 	Martha@Luk.10.38, Mary@Luk.10.39		
 	Lazarus@Jhn.11.1	G2976=Λάζαρος	Lazarus	Jhn.11.1; Jhn.11.2; Jhn.11.5; Jhn.11.11; Jhn.11.14; Jhn.11.43; Jhn.12.1; Jhn.12.2; Jhn.12.9; Jhn.12.10; Jhn.12.17; 
@@ -7691,8 +7692,8 @@ Patrobas@Rom.16.14	Male living at the time of the New Testament 	 +
 	Patrobas@Rom.16.14	G3969=Πατροβᾶς	Patrobas	Rom.16.14; 
 $========== PERSON(s)
 Paul@Act.7.58	Male living at the time of the New Testament 	 + 			
-	Paul@Act.7.58	G3972=Παῦλος	[ ] (KJV= Paul)	Act.21.8; Act.23.11; 2Ti.4.22; 
-	Paul@Act.7.58	G3972=Παῦλος	he (KJV, NIV= Paul)	Act.24.23; Act.25.7; Act.28.17; Act.28.30; 
+	Paul@Act.7.58	G3972=Παῦλος	[ ] (KJV= Paul)	Act.21.8; 2Ti.4.22; 
+	Paul@Act.7.58	G3972=Παῦλος	he (KJV, NIV= Paul)	Act.23.11; Act.24.23; Act.25.7; Act.28.17; Act.28.30; 
 	Paul@Act.7.58	G3972=Παῦλος	Paul	Act.13.9; Act.13.13; Act.13.16; Act.13.43; Act.13.45; Act.13.46; Act.13.50; Act.14.9; Act.14.11; Act.14.12; Act.14.14; Act.14.19; Act.15.2a; Act.15.2b; Act.15.12; Act.15.22; Act.15.25; Act.15.35; Act.15.36; Act.15.38; Act.15.40; Act.16.3; Act.16.9; Act.16.14; Act.16.17; Act.16.18; Act.16.19; Act.16.25; Act.16.28; Act.16.29; Act.16.36; Act.16.37; Act.17.2; Act.17.4; Act.17.10; Act.17.13; Act.17.14; Act.17.15; Act.17.16; Act.17.22; Act.17.33; Act.18.1; Act.18.5; Act.18.9; Act.18.12; Act.18.14; Act.18.18; Act.19.1; Act.19.4; Act.19.6; Act.19.11; Act.19.13; Act.19.15; Act.19.21; Act.19.26; Act.19.29; Act.19.30; Act.20.1; Act.20.7; Act.20.9; Act.20.10; Act.20.13; Act.20.16; Act.20.37; Act.21.4; Act.21.11; Act.21.13; Act.21.18; Act.21.26; Act.21.29; Act.21.30; Act.21.32; Act.21.37; Act.21.39; Act.21.40; Act.22.25; Act.22.28; Act.22.30; Act.23.1; Act.23.3; Act.23.5; Act.23.6; Act.23.10; Act.23.12; Act.23.14; Act.23.16a; Act.23.16b; Act.23.17; Act.23.18; Act.23.20; Act.23.24; Act.23.31; Act.23.33; Act.24.1; Act.24.10; Act.24.24; Act.24.26; Act.24.27; Act.25.2; Act.25.4; Act.25.6; Act.25.8; Act.25.9; Act.25.10; Act.25.14; Act.25.19; Act.25.21; Act.25.23; Act.26.1a; Act.26.1b; Act.26.24; Act.26.25; Act.26.28; Act.26.29; Act.27.1; Act.27.3; Act.27.9; Act.27.11; Act.27.21; Act.27.24; Act.27.31; Act.27.33; Act.27.43; Act.28.3; Act.28.8; Act.28.15; Act.28.16; Act.28.25; Rom.1.1; 1Co.1.1; 1Co.1.12; 1Co.1.13a; 1Co.1.13b; 1Co.3.4; 1Co.3.5; 1Co.3.22; 1Co.16.21; 2Co.1.1; 2Co.10.1; Gal.1.1; Gal.5.2; Eph.1.1; Eph.3.1; Php.1.1; Col.1.1; Col.1.23; Col.4.18; 1Th.1.1; 1Th.2.18; 2Th.1.1; 2Th.3.17; 1Ti.1.1; 2Ti.1.1; Tit.1.1; Phm.1.1; Phm.1.9; Phm.1.19; 2Pe.3.15; 
 	Saul|Paul@Act.7.58	G4549=Σαούλ	Saul	Act.9.4a; Act.9.4b; Act.9.17; Act.22.7a; Act.22.7b; Act.22.13; Act.26.14a; Act.26.14b; 
 	Saul|Paul@Act.7.58	G4569=Σαῦλος	Saul	Act.7.58; Act.8.1; Act.8.3; Act.9.1; Act.9.8; Act.9.11; Act.9.22; Act.9.24; Act.11.25; Act.11.30; Act.12.25; Act.13.1; Act.13.2; Act.13.7; Act.13.9; 
@@ -7807,7 +7808,6 @@ Peter@Mat.4.18	Male living at the time of the New Testament 	John@Mat.16.17 + 	A
 	Cephas|Peter@Mat.4.18	G2786=Κηφᾶς	Cephas	Jhn.1.42; 1Co.1.12; 1Co.3.22; 1Co.9.5; 1Co.15.5; Gal.2.9; 
 	Peter@Mat.4.18	G4074=Πέτρος	he (KJV, NIV= Peter)	Mat.17.26; Act.10.23b; Act.12.13; 
 	Peter@Mat.4.18	G4074=Πέτρος	(KJV= Peter)	Luk.22.62; Act.10.23a; Gal.1.18; Gal.2.11; Gal.2.14
-	Peter@Mat.4.18	G4074=Πέτρος	[ ]	Mrk.16.8;
 	Peter@Mat.4.18	G4074=Πέτρος	Peter	Mat.4.18; Mat.8.14; Mat.10.2; Mat.14.28; Mat.14.29; Mat.15.15; Mat.16.16; Mat.16.18; Mat.16.22; Mat.16.23; Mat.17.1; Mat.17.4; Mat.17.24; Mat.18.21; Mat.19.27; Mat.26.33; Mat.26.35; Mat.26.37; Mat.26.40; Mat.26.58; Mat.26.69; Mat.26.73; Mat.26.75; Mrk.3.16; Mrk.5.37; Mrk.8.29; Mrk.8.32; Mrk.8.33; Mrk.9.2; Mrk.9.5; Mrk.10.28; Mrk.11.21; Mrk.13.3; Mrk.14.29; Mrk.14.33; Mrk.14.37; Mrk.14.54; Mrk.14.66; Mrk.14.67; Mrk.14.70; Mrk.14.72; Mrk.16.7; Luk.5.8; Luk.6.14; Luk.8.45; Luk.8.51; Luk.9.20; Luk.9.28; Luk.9.32; Luk.9.33; Luk.12.41; Luk.18.28; Luk.22.8; Luk.22.34; Luk.22.54; Luk.22.55; Luk.22.58; Luk.22.60; Luk.22.61a; Luk.22.61b; Luk.24.12; Jhn.1.40; Jhn.1.42; Jhn.1.44; Jhn.6.8; Jhn.6.68; Jhn.13.6; Jhn.13.8; Jhn.13.9; Jhn.13.24; Jhn.13.36; Jhn.13.37; Jhn.18.10; Jhn.18.11; Jhn.18.15; Jhn.18.16a; Jhn.18.16b; Jhn.18.17; Jhn.18.18; Jhn.18.25; Jhn.18.26; Jhn.18.27; Jhn.20.2; Jhn.20.3; Jhn.20.4; Jhn.20.6; Jhn.21.2; Jhn.21.3; Jhn.21.7a; Jhn.21.7b; Jhn.21.11; Jhn.21.15; Jhn.21.17; Jhn.21.20; Jhn.21.21; Act.1.13; Act.1.15; Act.2.14; Act.2.37; Act.2.38; Act.3.1; Act.3.3; Act.3.4; Act.3.6; Act.3.11; Act.3.12; Act.4.8; Act.4.13; Act.4.19; Act.5.3; Act.5.8; Act.5.9; Act.5.15; Act.5.29; Act.8.14; Act.8.20; Act.9.32; Act.9.34; Act.9.38; Act.9.39; Act.9.40a; Act.9.40b; Act.10.5; Act.10.9; Act.10.13; Act.10.14; Act.10.17; Act.10.18; Act.10.19; Act.10.21; Act.10.25; Act.10.26; Act.10.32; Act.10.34; Act.10.44; Act.10.45; Act.10.46; Act.11.2; Act.11.4; Act.11.7; Act.11.13; Act.12.3; Act.12.5; Act.12.6; Act.12.7; Act.12.11; Act.12.14a; Act.12.14b; Act.12.16; Act.12.18; Act.15.7; Gal.2.7; Gal.2.8; 1Pe.1.1; 2Pe.1.1; 
 	Simon|Peter@Mat.4.18	G4613=Σίμων	Simon	Mat.4.18; Mat.10.2; Mat.16.16; Mat.16.17; Mat.17.25; Mrk.1.16; Mrk.1.29; Mrk.1.30; Mrk.1.36; Mrk.3.16; Mrk.14.37; Luk.4.38a; Luk.4.38b; Luk.5.3; Luk.5.4; Luk.5.5; Luk.5.8; Luk.5.10a; Luk.5.10b; Luk.6.14; Luk.22.31a; Luk.22.31b; Luk.24.34; Jhn.1.40; Jhn.1.41; Jhn.1.42; Jhn.6.8; Jhn.6.68; Jhn.13.6; Jhn.13.9; Jhn.13.24; Jhn.13.36; Jhn.18.10; Jhn.18.15; Jhn.18.25; Jhn.20.2; Jhn.20.6; Jhn.21.2; Jhn.21.3; Jhn.21.7; Jhn.21.11; Jhn.21.15a; Jhn.21.15b; Jhn.21.16; Jhn.21.17; Act.10.5; Act.10.18; Act.10.32a; Act.11.13; 
 	Simeon|Peter@Mat.4.18	G4826=Συμεών	Simeon (Var, KJV, NIV= Simon)	Act.15.14; 2Pe.1.1; 
@@ -13075,8 +13075,9 @@ Philadelphia@Rev.1.11	Place	Philadelphia	38.34904803135629,28.51946209047604
 $========== PLACE
 Philippi@Act.16.12	Place	Philippi	41.0119594798466,24.28619097780519
 	Philippi@Act.16.12	G5374=Φιλιππήσιος	Philippian	Php.4.15; 
+	Philippi@Act.16.12	G5374=Φιλιππήσιος	[ ] (KJV=Philippian)	Php.4.23; 
 	Philippi@Act.16.12	G5375=Φίλιπποι	Philippi	Act.16.12; Act.20.6; Php.1.1; 1Th.2.2; 
-	Philippi@Act.16.12	G5375=Φίλιπποι	[ ] (KJV= Philippi)	1Co.16.24; 2Co.13.14; Php.4.14; 
+	Philippi@Act.16.12	G5375=Φίλιπποι	[ ] (KJV= Philippi)	1Co.16.24; 2Co.13.14; 
 $========== PLACE
 Philistine@Gen.21.32	Place for descendants of Philistine@Gen.10.14	Philistia	33.56316734135746,35.36634649354799
 	Philistine@Gen.21.32	H6429=פְּלֶ֫שֶׁת	Philistia	Exo.15.14; Psa.60.8; Psa.83.7; Psa.87.4; Psa.108.9; Isa.14.29; Isa.14.31; Jol.3.4; 
@@ -13970,7 +13971,7 @@ Abba@Mrk.14.36	A deity/angel
 $========== OTHER
 Abib@Exo.13.4	Name of month #1				
 	Abib@Exo.13.4	H0024=אָבִיב	Abib (NIV= Aviv)	Exo.13.4; Exo.23.15; Exo.34.18a; Exo.34.18b; Deu.16.1a; Deu.16.1b 
-	Nisan|Abib@Exo.13.4	H5212=נִיסָן	Nisan	Neh.2.1; 
+	Nisan|Abib@Exo.13.4	H5212=נִיסָן	Nisan	Neh.2.1; Est.3.7; 
 $========== OTHER
 Adar@Ezr.6.15	Name of month #12				
 	Adar@Ezr.6.15	H0143=אֲדָר	Adar	Est.3.7; Est.3.13; Est.8.12; Est.9.1; Est.9.15; Est.9.17; Est.9.19; Est.9.21; 
@@ -13984,7 +13985,7 @@ Al-taschith@Psa.57.1	A musical term
 $========== OTHER
 Amon@Jer.46.25	A deity/angel				
 	Amon@Jer.46.25	H0528=אָמוֹן	Amon	Jer.46.25; Nam.3.8; 
-$========== OTHER
+$========== LANGUAGE
 Aramaic@2Ki.18.26	A language				
 	Aramaic@2Ki.18.26	G1447=Ἑβραϊστί	Aramaic	Jhn.5.2; Jhn.19.13; Jhn.19.17; Jhn.19.20; Jhn.20.16; 
 	Aramaic@2Ki.18.26	H0762=אֲרָמִית	Aramaic	2Ki.18.26; Ezr.4.7; Isa.36.11; Dan.2.4; 
@@ -14143,6 +14144,10 @@ $========== OTHER
 Jachin@1Ki.7.21	A pillar in temple				
 	Jachin@1Ki.7.21	H3199=יָכִין	Jachin	1Ki.7.21; 2Ch.3.17; 
 $========== OTHER
+Javan@Isa.66.19	A language	
+	Greek|Javan@Isa.66.19	G1673=Ἑλληνικός=Ἑλληνικός	Greek	Luk.23.38; Rev.9.11
+	Gentile|Javan@Isa.66.19	G1674=Ἑλληνίς=Ἑλληνίς	Gentile (KJV, NIV= Greek)	Mrk.7.26; Act.17.12
+$========== OTHER
 Jonath-elem-rechokim@Psa.56.1	A musical term				
 	Dove_on_Far-off_Terebinths|Jonath-elem-rechokim@Psa.56.1	H3128=יוֹנַת אֵלֶם רְחֹקִים	Dove on Far-off Terebinths (KJV= Jonath-elem-rechokim; NIV= Dove on distant oaks)	Psa.56.1; 
 $========== OTHER
@@ -14151,6 +14156,9 @@ Judaism@Gal.1.13	A religion
 $========== OTHER
 Kiyyun@Amo.5.26	A deity/angel				
 	Kiyyun@Amo.5.26	H3594=כִּיּוּן	Kiyyun	Amo.5.26; 
+$========== OTHER
+Latin@Luk.23.38	A language	
+	Latin@Luk.23.38	G4513=Ῥωμαϊκός	[ ] (KJV= Latin)	Luk.23.38; 
 $========== OTHER
 Legion@Mrk.5.9	Group of demons				
 	Legion@Mrk.5.9	G3003=λεγεών	Legion	Mrk.5.9; Luk.8.30; 
@@ -14219,9 +14227,6 @@ $========== OTHER
 Nicolaitans@Rev.2.6	A group in New Testament times				
 	Nicolaitans@Rev.2.6	G3531=Νικολαΐτης	Nicolaitan	Rev.2.6; Rev.2.15; 
 $========== OTHER
-Nisan@Neh.2.1	Name of month #1				
-	Nisan@Neh.2.1	H5212=נִיסָן	Nisan	Est.3.7; 
-$========== OTHER
 Nisroch@2Ki.19.37	A deity/angel				
 	Nisroch@2Ki.19.37	H5268=נִסְרֹךְ	Nisroch	2Ki.19.37; Isa.37.38; 
 $========== OTHER
@@ -14240,7 +14245,7 @@ Passover@Exo.12.11	Name of a feastival
 $========== OTHER
 Pharisee@Mat.3.7	A group in New Testament times				
 	Pharisee@Mat.3.7	G5330=Φαρισαῖος	Pharisee	Mat.3.7; Mat.5.20; Mat.9.11; Mat.9.14; Mat.9.34; Mat.12.2; Mat.12.14; Mat.12.24; Mat.12.38; Mat.15.1; Mat.15.12; Mat.16.1; Mat.16.6; Mat.16.11; Mat.16.12; Mat.19.3; Mat.21.45; Mat.22.15; Mat.22.34; Mat.22.41; Mat.23.2; Mat.23.13; Mat.23.15; Mat.23.23; Mat.23.25; Mat.23.26; Mat.23.27; Mat.23.29; Mat.27.62; Mrk.2.16; Mrk.2.18a; Mrk.2.18b; Mrk.2.24; Mrk.3.6; Mrk.7.1; Mrk.7.3; Mrk.7.5; Mrk.8.11; Mrk.8.15; Mrk.10.2; Mrk.12.13; Luk.5.17; Luk.5.21; Luk.5.30; Luk.5.33; Luk.6.2; Luk.6.7; Luk.7.30; Luk.7.36a; Luk.7.36b; Luk.7.37; Luk.7.39; Luk.11.37; Luk.11.38; Luk.11.39; Luk.11.42; Luk.11.43; Luk.11.53; Luk.12.1; Luk.13.31; Luk.14.1; Luk.14.3; Luk.15.2; Luk.16.14; Luk.17.20; Luk.18.10; Luk.18.11; Luk.19.39; Jhn.1.24; Jhn.3.1; Jhn.4.1; Jhn.7.32a; Jhn.7.32b; Jhn.7.45; Jhn.7.47; Jhn.7.48; Jhn.8.3; Jhn.8.13; Jhn.9.13; Jhn.9.15; Jhn.9.16; Jhn.9.40; Jhn.11.46; Jhn.11.47; Jhn.11.57; Jhn.12.19; Jhn.12.42; Jhn.18.3; Act.5.34; Act.15.5; Act.23.6a; Act.23.6b; Act.23.6c; Act.23.7; Act.23.8; Act.23.9; Act.26.5; Php.3.5; 
-	Pharisee@Mat.3.7	G5330=Φαρισαῖος	[ ] (KJV= Pharisee)	Mat.23.14; Mat.27.41; Luk.11.44; 
+	Pharisee@Mat.3.7	G5330=Φαρισαῖος	[ ] (KJV= Pharisee)	Mat.23.14; Luk.11.44; 
 $========== OTHER
 Pleiades@Job.9.9	A star or constellation				
 	Pleiades@Job.9.9	H3598=כִּימָה	Pleiades	Job.9.9; Job.38.31; Amo.5.8; 
@@ -14389,7 +14394,8 @@ Names are based on the most common form + the first ref where the individual occ
 When a deliberate difference exists that should be reflected in the translation, the alternate is prefixed, eg Abram|Abraham@Gen.11.26, Jacob|Israel@Gen.25.26
 
 The exhaustive lists of refs were created from these texts. For 2nd + 3rd occurrences of a name in the same verse, reference appended with "a", "b" etc.  - see e.g. Abel@Gen.4.2
-Square bracketted [ref] is used for individuals who are not actually mentioned but are necessary to provide links between individuals, eg father of Barnabas and Mary: [Col.4.10]
+Square bracketted [name] is used for individuals who are not actually mentioned but are necessary to provide links between individuals, eg father of Barnabas and Mary at Col.4.10
+Square bracketted [refs] is used for places where translations add a name that is not in any supporting manuscript, eg Agrippa in KJV & NIV of Act.26.7.
 Extended Strongs numbers line up with the outine BDB of OpenScriptures and full BDB, and Full LSJ  - available at https://tyndale.github.io/STEPBible-Data/
 
 Genealogy relationships are based on analyses at complete-bible-genealogy.com. Another good source is marshallgenealogy.org/bible/index3.htm. 
@@ -14456,7 +14462,7 @@ Title:
 - Name of a star or planet
 - name of a place or object other than a town or country
 
-
+$
 ©>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 TO DO
