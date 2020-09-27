@@ -109,13 +109,13 @@ Note: the section "Gen.5:31--6:1" is placed after Malachi for the sole reason th
 
 
 #DataStart(Condensed)
-$Section (in Eng refs)	English	Hebrew	Latin	Greek	[Greek2, Slavonic etc.]		
+$Section (in Eng refs)	English	Hebrew	Latin	Greek	Unidivided or others eg Greek2, Slavonic etc....		
 ============================================================================================================================================
 
-$Gen.2:24--3:1	English	Hebrew	Latin	Greek	Greek2 (eg NETS)
+$Gen.2:24--3:1	English	Hebrew	Latin	Greek	GreekUndivided (eg NETS)
 TEST: If...	Gen.2:25=Last	Gen.2:25=Last	Gen.2:25=Last	Gen.2:25=Last	Gen.2:24=Last	
-MergedVerses	Gen.2:25	Gen.2:25	Gen.2:25	Gen.2:25	Gen.3:1.1	
-MergedVerses	Gen.3:1	Gen.3:1	Gen.3:1	Gen.3:1	Gen.3:1.2	
+MergedVerses	Gen.2:25	Gen.2:25	Gen.2:25	Gen.3:1.1	Absent	
+MergedVerses	Gen.3:1	Gen.3:1	Gen.3:1	Gen.3:1.2	Gen.3:1	
 
 $Gen.5:31--6:1	English	Hebrew	Latin	Greek	GreekUndivided	LatinUndivided	
 TEST: If... 	Gen.5:32=Last	Gen.5:32=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	Gen.5:31=Last	
@@ -123,8 +123,8 @@ TEST: & if... 	Gen.6:1<Gen.6:2	Gen.6:1<Gen.6:2	Gen.6:1<Gen.6:2	Gen.6:1>Gen.6:2	G
 TEST: & if... 	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist	Gen.5:31.2=Exist	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist	Gen.5:31.2=NotExist
 TEST: & if... 	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist	Gen.6:1.2=Exist	Gen.6:1.2=NotExist	Gen.6:1.2=NotExist
 MergedVerses	Gen.5:31	Gen.5:31	Gen.5:31.1	Gen.5:31	Gen.5:31	Gen.5:31			
-MergedVerses	Gen.5:32	Gen.5:32	Gen.5:31.2	Gen.6:1.1	Gen.6:1	Absent			
-MergedVerses	Gen.6:1	Gen.6:1	Gen.6:1	Gen.6:1.2	Absent	Gen.6:1			
+MergedVerses	Gen.5:32	Gen.5:32	Gen.5:31.2	Gen.6:1.1	Absent	Absent			
+MergedVerses	Gen.6:1	Gen.6:1	Gen.6:1	Gen.6:1.2	Gen.6:1	Gen.6:1			
 
 $Gen.31:55--32:32	English	Hebrew	Latin	Greek	
 TEST: If...	Gen.32:32=Last	Gen.32:33=Last	Gen.32:32=Last	Gen.32:32=Last			
@@ -3034,7 +3034,7 @@ FIELD DESCRIPTIONS:
 SourceType	This isn't used in programming but is useful for checking. It is the type of Bible versification being followed on this line, and selected by the Tests at the end.
 SourceRef	This is a verse number in a Bible being tested and/or converted. 
 StandardRef	This is the equivalent verse number in a Standard Bible IF the tests at the end are TRUE
-Action	This is what you do with the text in the verse found in the Source (See "How to use this" below)
+Action	This is what you do with the text in the verse found in the Source (See "How to use this" \t https://docs.google.com/document/d/1M0Md53-EFiAbuG_fKCst5yPG7e7796kH9anMUPfrwLU/edit)
 Importance & NoteMarker	"Nec" = Necessary note because the verse number has changed. "Acd" = useful in Bibles used by academics who want to know all differences in ancient Bibles. "Ped" = Pedantic list of changes - eg a separate note on every verse in Baruch, Susanna & Ep Jeremiah. 
 	"[1]" etc are suggested markers for the note. It is normally the verse number of the most important alternate version. The chapter number is included if it is different to the chapter in the StandardRef
 NoteA & Note B 	This is the text of a note that is suited to that version of the Bible at that verse in the StandardRef. Note B contains a second sentence used in some notes. They use standard phrases (listed at the end) bounded by "%" to aid replacement by translated phrases.
@@ -3053,20 +3053,21 @@ SourceType	SourceRef	StandardRef	Action	NoteMarker	Note A	Note B	Ancient Version
 ==========================================================================================================================================================
 
 English+Hebrew+Latin+Greek	Gen.2:25	Gen.2:25	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 3:1a.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 / 3:1a)	Gen.2:25=Last	
-Greek2	Gen.3:1.1	Gen.2:25	Merged with next	Nec. [1a]	%Normally in this Bible some text may be missing here because it is merged with% 3:1.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 / 3:1a)	Gen.2:24=Last	
-Greek2	Gen.3:1.2	Gen.3:1	Keep verse	Nec. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 3:1.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1 / 3:1b)	Gen.2:24=Last	
+Greek	Gen.3:1.1	Gen.2:25	Renumber verse	Nec. [1a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 3:1.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 / 3:1a)	Gen.2:24=Last & Gen.3:1.2=Exist	
+Greek	Gen.3:1.2	Gen.3:1	Renumber verse	Nec. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 3:1.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1 / 3:1b)	Gen.2:24=Last & Gen.3:1.2=Exist	
+GreekUndivided	Gen.3:1	Gen.2:25	Merged with next	Nec. [1a]	%Normally in this Bible some text may be missing here because it is merged with% 3:1.		(Hebrew=2:25 • Latin=2:25 • Greek=2:25 / 3:1a)	Gen.2:24=Last & Gen.3:1.2=NotExist	
+GreekUndivided	Gen.3:1	Gen.3:1	Keep verse	Nec. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 3:1.		(Hebrew=3:1 • Latin=3:1 • Greek=3:1 / 3:1b)	Gen.2:24=Last & Gen.3:1.2=NotExist	
 
-English+Hebrew	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
+
+English+Hebrew+Greek	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 English+Hebrew	Gen.5:32	Gen.5:32	Keep verse	Acd. [31b]	%In some Bibles the verse numbering here is% 5:31b.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 English+Hebrew	Gen.6:1	Gen.6:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:32=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
-Greek	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=NotExist	
-Greek	Gen.6:1.1	Gen.5:32	Merged with next	Nec. [1a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=NotExist	
+Greek	Gen.6:1.1	Gen.5:32	Renumber verse	Nec. [1a]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=NotExist	
 Greek	Gen.6:1.2	Gen.6:1	Renumber verse	Nec. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=Exist & Gen.5:31.2=NotExist	
-GreekUndivided	Gen.5:31	Gen.5:31	Keep verse	Acd. [31a]	%In some Bibles the verse numbering here is% 5:31a.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 GreekUndivided	Gen.6:1	Gen.5:32	Merged with next	Nec. [32-1]	%Normally in this Bible some text may be missing here because it is merged with% 6:1.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 GreekUndivided	Gen.6:1	Gen.6:1	Keep verse	Nec. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 6:1.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1>Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 Latin	Gen.5:31.1	Gen.5:31	Renumber verse	Nec. [31-32]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:31.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
-Latin	Gen.5:31.2	Gen.5:32	Merged with prev	Nec. [31b]	%Normally in this Bible some text may be missing here because it is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
+Latin	Gen.5:31.2	Gen.5:32	Renumber verse	Nec. [31b]	%Normally in this Bible some text may be missing here because it is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek= 6:1a)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
 Latin	Gen.6:1	Gen.6:1	Keep verse	Acd. [1b]	%In some Bibles the verse numbering here is% 6:1b.		(Hebrew=6:1 • Latin=6:1 • Greek=6:1b)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=Exist	
 LatinUndivided	Gen.5:31	Gen.5:31	Keep verse	Nec. [31-32]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:31.		(Hebrew=5:31 • Latin= 5:31a • Greek=5:31)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
 LatinUndivided	Gen.5:31	Gen.5:32	Merged with prev	Nec. [31b]	%Normally in this Bible some text may be missing here because it is merged with% 5:31.		(Hebrew=5:32 • Latin=5:31b • Greek=6:1a)	Gen.5:31=Last & Gen.6:1<Gen.6:2 & Gen.6:1.2=NotExist & Gen.5:31.2=NotExist	
@@ -3585,8 +3586,8 @@ English+Hebrew+Latin	Exo.37:29	Exo.37:29	Keep verse	Acd. [25]	%In some Bibles th
 Greek	Exo.38:1	Exo.37:1	Renumber verse	Nec. [38:1]	%Normally in this Bible the verse numbering here is% 38:1.		(Hebrew=37:1 • Latin=37:1 • Greek=38:1)	Exo.37:21=Last & Exo.38:11.1=Exist	
 Greek	Exo.38:2	Exo.37:2	Renumber verse	Nec. [38:2]	%Normally in this Bible the verse numbering here is% 38:2.		(Hebrew=37:2 • Latin=37:2 • Greek=38:2)	Exo.37:21=Last & Exo.38:11.1=Exist	
 Greek	Exo.38:3	Exo.37:3	Renumber verse	Nec. [38:3]	%Normally in this Bible the verse numbering here is% 38:3.		(Hebrew=37:3 • Latin=37:3 • Greek=38:3)	Exo.37:21=Last & Exo.38:11.1=Exist	
-Greek	Exo.38:4.1	Exo.37:4	Renumber verse	Nec. [38:4-5]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 38:4.		(Hebrew=37:4 • Latin=37:4 • Greek=38:4a)	Exo.37:21=Last & Exo.38:11.1=Exist	
-Greek	Exo.38:4.2	Exo.37:5	Merged with prev	Nec. [38:4b]	%Normally in this Bible some text may be missing here because it is merged with% 37:4.		(Hebrew=37:5 • Latin=37:5 • Greek=38:4b)	Exo.37:21=Last & Exo.38:11.1=Exist	
+Greek	Exo.38:4	Exo.37:4	Renumber verse	Nec. [38:4-5]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 38:4.		(Hebrew=37:4 • Latin=37:4 • Greek=38:4a)	Exo.37:21=Last & Exo.38:11.1=Exist	
+Greek	Exo.38:4	Exo.37:5	Merged with prev	Nec. [38:4b]	%Normally in this Bible some text may be missing here because it is merged with% 37:4.		(Hebrew=37:5 • Latin=37:5 • Greek=38:4b)	Exo.37:21=Last & Exo.38:11.1=Exist	
 Greek	Exo.38:5	Exo.37:6	Renumber verse	Nec. [38:5]	%Normally in this Bible the verse numbering here is% 38:5.		(Hebrew=37:6 • Latin=37:6 • Greek=38:5)	Exo.37:21=Last & Exo.38:11.1=Exist	
 Greek	Exo.38:6	Exo.37:7	Renumber verse	Nec. [38:6]	%Normally in this Bible the verse numbering here is% 38:6.		(Hebrew=37:7 • Latin=37:7 • Greek=38:6)	Exo.37:21=Last & Exo.38:11.1=Exist	
 Greek	Exo.38:7	Exo.37:8	Renumber verse	Nec. [38:7]	%Normally in this Bible the verse numbering here is% 38:7.		(Hebrew=37:8 • Latin=37:8 • Greek=38:7)	Exo.37:21=Last & Exo.38:11.1=Exist	
@@ -5001,8 +5002,8 @@ Greek	1Ki.2:46.11	1Ki.4:21.2	Keep verse	Nec. [2:46k]	%Normally in this Bible sim
 Greek	1Ki.4:17	1Ki.4:18	Renumber verse	Nec. [17]	%Normally in this Bible the verse numbering here is% 4:17.		(Hebrew=4:18 • Latin=4:18 • Greek=4:17)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.4:18	1Ki.4:19	Renumber verse	Nec. [18]	%Normally in this Bible the verse numbering here is% 4:18.		(Hebrew=4:19 • Latin=4:19 • Greek=4:18)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.4:19	1Ki.4:17	Renumber verse	Nec. [19]	%Normally in this Bible the verse numbering here is% 4:19.		(Hebrew=4:17 • Latin=4:17 • Greek=4:19)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.5:1.1	1Ki.4:27	Renumber verse	Nec. [27-28]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:1.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
-Greek	1Ki.5:1.2	1Ki.4:28	Merged with prev	Nec. [5:1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
+Greek	1Ki.5:1.1	1Ki.4:27	Renumber verse	Nec. [27-28]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:1.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.5:1.2=Exist	
+Greek	1Ki.5:1.2	1Ki.4:28	Renumber verse	Nec. [5:1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.5:1.2=Exist	
 Greek	1Ki.5:2	1Ki.4:22	Renumber verse	Nec. [5:2]	%Normally in this Bible the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=4:22 • Greek=5:2)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:3	1Ki.4:23	Renumber verse	Nec. [5:3]	%Normally in this Bible the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=4:23 • Greek=5:3)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
 Greek	1Ki.5:4	1Ki.4:24.2	Renumber verse	Nec. [5:4]	%Normally in this Bible the verse numbering here is% 5:4.	%Normally in this Bible only the start of this verse is present%.	(Hebrew=5:4 • Latin=4:24 • Greek=5:4 [=2:46f])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=Exist	
@@ -5044,8 +5045,8 @@ GreekUndivided	1Ki.4:20	1Ki.4:20	Merged with prev	Nec. [46a-e]	%Normally in this
 GreekUndivided	1Ki.4:21	1Ki.4:21	Merged with prev	Nec. [46j-k]	%Normally in this Bible some text may be missing here because it is merged with% 2:46.		(Hebrew=5:1 • Latin=4:21 • Greek=2:46j-k)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.4:25	1Ki.4:25	Merged with prev	Nec. [46g-h]	%Normally in this Bible some text may be missing here because it is merged with% 2:46.		(Hebrew=5:5 • Latin=4:25 • Greek=2:46g-h)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.4:26	1Ki.4:26	Keep verse	Acd. [46i]	%In some Bibles the verse numbering here is% 2:46i.		(Hebrew=5:6 • Latin=4:26 • Greek=2:46i)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
-GreekUndivided	1Ki.5:1	1Ki.4:27	Renumber verse	Nec. [27-28]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:1.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
-GreekUndivided	1Ki.5:1	1Ki.4:28	Merged with prev	Nec. [5:1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
+GreekUndivided	1Ki.5:1	1Ki.4:27	Renumber verse	Nec. [27-28]	%Normally in this Bible this verse and the next are merged into one verse that is numbered% 5:1.		(Hebrew=5:7 • Latin=4:27 • Greek=5:1a)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.5:1.2=NotExist	
+GreekUndivided	1Ki.5:1	1Ki.4:28	Merged with prev	Nec. [5:1b]	%Normally in this Bible some text may be missing here because it is merged with% 5:1.		(Hebrew=5:8 • Latin=4:28 • Greek=5:1b)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.5:1.2=NotExist	
 GreekUndivided	1Ki.5:2	1Ki.4:22	Renumber verse	Nec. [5:2]	%Normally in this Bible the verse numbering here is% 5:2.		(Hebrew=5:2 • Latin=4:22 • Greek=5:2)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.5:3	1Ki.4:23	Renumber verse	Nec. [5:3]	%Normally in this Bible the verse numbering here is% 5:3.		(Hebrew=5:3 • Latin=4:23 • Greek=5:3)	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
 GreekUndivided	1Ki.5:4	1Ki.4:24	Renumber verse	Nec. [5:4]	%Normally in this Bible the verse numbering here is% 5:4.	%Similar words are found at% 2:46f.	(Hebrew=5:4 • Latin=4:24 • Greek=5:4 [=2:46f])	1Ki.4:19=Last & 1Ki.2:33<1Ki.2:35 & 1Ki.2:35.1=NotExist	
@@ -22536,8 +22537,8 @@ Greek	Rev.12:17	Rev.12:17	Keep verse	Acd. [17-18]	%Normally in this Bible this v
 Greek	Rev.12:17	Rev.12:18	Merged with prev	Nec. [17b]	%Normally in this Bible some text may be missing here because it is merged with% 12:17.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:17=Last & Rev.12:17>Rev.13:1	
 Greek	Rev.13:1	Rev.13:1	Keep verse	Acd. [18]	%In some Bibles the verse numbering here is% 12:18--13:1.		(Greek=12:18 / 13:1a)	Rev.12:17=Last & Rev.12:17>Rev.13:1	
 Greek2	Rev.12:17	Rev.12:17	Keep verse	Acd. [17a]	%In some Bibles the verse numbering here is% 12:17a.		(Greek=12:17 / 12:17a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
-Greek2	Rev.13:1	Rev.12:18	Merged with next	Nec. [1a]	%Normally in this Bible some text may be missing here because it is merged with% 13:1.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
 Greek2	Rev.13:1	Rev.13:1	Keep verse	Acd. [1b]	%Normally in this Bible this verse and the previous are merged into one verse that is numbered% 13:1.		(Greek=12:18 / 13:1a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
+Greek2	Rev.13:1	Rev.12:18	Merged with next	Nec. [1a]	%Normally in this Bible some text may be missing here because it is merged with% 13:1.		(Greek=12:18 / 12:17b / 13:1a)	Rev.12:17=Last & Rev.12:17<Rev.13:1	
 
 # NO TESTS: 
 
