@@ -521,9 +521,13 @@ OneToOne	1Ki.11:8	1Ki.11:8	1Ki.11:8	1Ki.11:7
 $1Ki.11:21--14:20	English	Hebrew	Latin	Greek	GreekUndivided
 TEST: If...	1Ki.12:24.1=NotExist	1Ki.12:24.1=NotExist	1Ki.12:24.1=NotExist	1Ki.12:24.1=Exist	1Ki.12:24.1=NotExist		
 TEST: & if... 	1Ki.12:21*2>1Ki.12:24	1Ki.12:21*2>1Ki.12:24	1Ki.12:21*2>1Ki.12:24	1Ki.12:21*2<1Ki.12:24	1Ki.12:21*2<1Ki.12:24		
+LongVerseElsewhere	1Ki.11:14	1Ki.11:14	1Ki.11:14	1Ki.11:14.0	1Ki.11:14 [=1Ki.11:23-25]
 LongVerseDuplicated	1Ki.11:19	1Ki.11:19	1Ki.11:19	1Ki.11:19 [=1Ki.12:24.5]	1Ki.11:19 [=1Ki.12:24.5]			
 LongVerseDuplicated	1Ki.11:21	1Ki.11:21	1Ki.11:21	1Ki.11:21 [=1Ki.12:24.4]	1Ki.11:21 [=1Ki.12:24.4]			
 LongVerseDuplicated	1Ki.11:22	1Ki.11:22	1Ki.11:22	1Ki.11:22 [=1Ki.12:24.4]	1Ki.11:22 [=1Ki.12:24.4]			
+LongVerseElsewhere	1Ki.11:23	1Ki.11:23	1Ki.11:23	1Ki.11:14.1	Absent [=1Ki.11:14.1]	
+LongVerseElsewhere	1Ki.11:24	1Ki.11:24	1Ki.11:24	1Ki.11:14.2	Absent [=1Ki.11:14.3]	
+LongVerseElsewhere	1Ki.11:25	1Ki.11:25	1Ki.11:25	1Ki.11:14.2	Absent [=1Ki.11:14.3]	
 LongVerseDuplicated	1Ki.11:26	1Ki.11:26	1Ki.11:26	1Ki.11:26 [=1Ki.12:24.2]	1Ki.11:26 [=1Ki.12:24.2]			
 LongVerseDuplicated	1Ki.11:27	1Ki.11:27	1Ki.11:27	1Ki.11:27 [=1Ki.12:24.2]	1Ki.11:27 [=1Ki.12:24.2]			
 LongVerseDuplicated	1Ki.11:28	1Ki.11:28	1Ki.11:28	1Ki.11:28 [=1Ki.12:24.2]	1Ki.11:28 [=1Ki.12:24.2]			
@@ -5353,11 +5357,6 @@ English+Hebrew+Latin	1Ki.11:5	1Ki.11:5	Keep verse	Acd. [6]	%In some Bibles the v
 English+Hebrew+Latin	1Ki.11:6	1Ki.11:6	Keep verse	Acd. [8]	%In some Bibles the verse numbering here is% 11:8.		(Hebrew=11:6 • Latin=11:6 • Greek=11:8)	1Ki.11:6>1Ki.11:35	
 English+Hebrew+Latin	1Ki.11:7	1Ki.11:7	Keep verse	Acd. [5]	%In some Bibles the verse numbering here is% 11:5.		(Hebrew=11:7 • Latin=11:7 • Greek=11:5)	1Ki.11:6>1Ki.11:35	
 English+Hebrew+Latin	1Ki.11:8	1Ki.11:8	Keep verse	Acd. [7]	%In some Bibles the verse numbering here is% 11:7.		(Hebrew=11:8 • Latin=11:8 • Greek=11:7)	1Ki.11:6>1Ki.11:35	
-Greek	1Ki.11:5	1Ki.11:7	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 11:5.		(Hebrew=11:7 • Latin=11:7 • Greek=11:5)	1Ki.11:6<1Ki.11:35	
-Greek	1Ki.11:6	1Ki.11:5	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 11:6.		(Hebrew=11:5 • Latin=11:5 • Greek=11:6)	1Ki.11:6<1Ki.11:35	
-Greek	1Ki.11:7	1Ki.11:8	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 11:7.		(Hebrew=11:8 • Latin=11:8 • Greek=11:7)	1Ki.11:6<1Ki.11:35	
-Greek	1Ki.11:8	1Ki.11:6	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 11:8.		(Hebrew=11:6 • Latin=11:6 • Greek=11:8)	1Ki.11:6<1Ki.11:35	
-
 English+Hebrew+Latin	1Ki.11:19	1Ki.11:19	Keep verse	Acd. [24e]	%In some Bibles similar text is found at% 12:24e.		(Hebrew=11:19 • Latin=11:19 • Greek=11:19 [=12:24e])	1Ki.12:24.1=NotExist & 1Ki.12:21*2>1Ki.12:24	
 English+Hebrew+Latin	1Ki.11:21	1Ki.11:21	Keep verse	Acd. [24d]	%In some Bibles similar text is found at% 12:24d.		(Hebrew=11:21 • Latin=11:21 • Greek=11:21 [=12:24d1])	1Ki.12:24.1=NotExist & 1Ki.12:21*2>1Ki.12:24	
 English+Hebrew+Latin	1Ki.11:22	1Ki.11:22	Keep verse	Acd. [24d]	%In some Bibles similar text is found at% 12:24d.		(Hebrew=11:22 • Latin=11:22 • Greek=11:22 [=12:24d2])	1Ki.12:24.1=NotExist & 1Ki.12:21*2>1Ki.12:24	
@@ -5403,9 +5402,17 @@ English+Hebrew+Latin	1Ki.14:17	1Ki.14:17	Keep verse	Acd. [24m]	%In some Bibles t
 English+Hebrew+Latin	1Ki.14:18	1Ki.14:18	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Hebrew=14:18 • Latin=14:18 • Greek= --)	1Ki.12:24.1=NotExist & 1Ki.12:21*2>1Ki.12:24	
 English+Hebrew+Latin	1Ki.14:19	1Ki.14:19	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Hebrew=14:19 • Latin=14:19 • Greek= --)	1Ki.12:24.1=NotExist & 1Ki.12:21*2>1Ki.12:24	
 English+Hebrew+Latin	1Ki.14:20	1Ki.14:20	Keep verse	Acd. [+]	%In some Bibles this verse may not contain any text%.		(Hebrew=14:20 • Latin=14:20 • Greek= --)	1Ki.12:24.1=NotExist & 1Ki.12:21*2>1Ki.12:24	
+Greek	1Ki.11:5	1Ki.11:7	Renumber verse	Nec. [5]	%Normally in this Bible the verse numbering here is% 11:5.		(Hebrew=11:7 • Latin=11:7 • Greek=11:5)	1Ki.11:6<1Ki.11:35	
+Greek	1Ki.11:6	1Ki.11:5	Renumber verse	Nec. [6]	%Normally in this Bible the verse numbering here is% 11:6.		(Hebrew=11:5 • Latin=11:5 • Greek=11:6)	1Ki.11:6<1Ki.11:35	
+Greek	1Ki.11:7	1Ki.11:8	Renumber verse	Nec. [7]	%Normally in this Bible the verse numbering here is% 11:7.		(Hebrew=11:8 • Latin=11:8 • Greek=11:7)	1Ki.11:6<1Ki.11:35	
+Greek	1Ki.11:8	1Ki.11:6	Renumber verse	Nec. [8]	%Normally in this Bible the verse numbering here is% 11:8.		(Hebrew=11:6 • Latin=11:6 • Greek=11:8)	1Ki.11:6<1Ki.11:35	
+Greek	1Ki.11:14.0	1Ki.11:14	Keep verse	Acd. [0]	%Normally in this Bible the verse numbering here is% 11:14.0.		(Hebrew=11:14 • Latin=11:14 • Greek=11:14.0)	1Ki.12:24.1=NotExist & 1Ki.12:21*2>1Ki.12:24 & 1Ki.11:14.1=Exist	
 Greek	1Ki.11:19	1Ki.11:19	Keep verse	Acd. [24e]	%Normally in this Bible similar text is found at% 12:24e.		(Hebrew=11:19 • Latin=11:19 • Greek=11:19 [=12:24e])	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
 Greek	1Ki.11:21	1Ki.11:21	Keep verse	Acd. [24d]	%Normally in this Bible similar text is found at% 12:24d.		(Hebrew=11:21 • Latin=11:21 • Greek=11:21 [=12:24d1])	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
 Greek	1Ki.11:22	1Ki.11:22	Keep verse	Acd. [24d]	%Normally in this Bible similar text is found at% 12:24d.		(Hebrew=11:22 • Latin=11:22 • Greek=11:22 [=12:24d2])	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
+Greek	1Ki.11:14.1	1Ki.11:23	Renumber verse	Nec. [14a]	%Normally in this Bible the verse numbering here is% 11:14a.		(Hebrew=11:25 • Latin=11:25 • Greek=11:14a)	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24 & 1Ki.11:14.1=Exist	
+Greek	1Ki.11:14.2	1Ki.11:24	Renumber verse	Nec. [14b]	%Normally in this Bible the verse numbering here is% 11:14b.		(Hebrew=11:25 • Latin=11:25 • Greek=11:14b)	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24 & 1Ki.11:14.1=Exist	
+Greek	1Ki.11:14.3	1Ki.11:25	Renumber verse	Nec. [14c]	%Normally in this Bible the verse numbering here is% 11:14c.		(Hebrew=11:25 • Latin=11:25 • Greek=11:14c)	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24 & 1Ki.11:14.1=Exist	
 Greek	1Ki.11:26	1Ki.11:26	Keep verse	Acd. [24b]	%Normally in this Bible similar text is found at% 12:24b.		(Hebrew=11:26 • Latin=11:26 • Greek=11:26 [=12:24b1])	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
 Greek	1Ki.11:27	1Ki.11:27	Keep verse	Acd. [24b]	%Normally in this Bible similar text is found at% 12:24b.		(Hebrew=11:27 • Latin=11:27 • Greek=11:27 [=12:24b2])	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
 Greek	1Ki.11:28	1Ki.11:28	Keep verse	Acd. [24b]	%Normally in this Bible similar text is found at% 12:24b.		(Hebrew=11:28 • Latin=11:28 • Greek=11:28 [=12:24b3])	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
@@ -5471,9 +5478,13 @@ Greek	1Ki.14:16	1Ki.14:16	Empty verse	Nec. [0]	%In some Bibles this verse may no
 Greek	1Ki.14:18	1Ki.14:18	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=14:18 • Latin=14:18 • Greek= --)	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
 Greek	1Ki.14:19	1Ki.14:19	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=14:19 • Latin=14:19 • Greek= --)	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
 Greek	1Ki.14:20	1Ki.14:20	Empty verse	Nec. [0]	%In some Bibles this verse may not contain any text%.		(Hebrew=14:20 • Latin=14:20 • Greek= --)	1Ki.12:24.1=Exist & 1Ki.12:21*2<1Ki.12:24	
+GreekUndivided	1Ki.11:14	1Ki.11:14	Keep verse	Acd. [14,a-c]	%The extra words are found at% 11:23-25		(Hebrew=11:14 • Latin=11:14 • Greek=11:14 [=11:23,-25])	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24 & 1Ki.11:14.1=NotExist	
 GreekUndivided	1Ki.11:19	1Ki.11:19	Keep verse	Acd. [24e]	%Normally in this Bible similar text is found at% 12:24e.		(Hebrew=11:19 • Latin=11:19 • Greek=11:19 [=12:24e])	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24	
 GreekUndivided	1Ki.11:21	1Ki.11:21	Keep verse	Acd. [24d]	%Normally in this Bible similar text is found at% 12:24d.		(Hebrew=11:21 • Latin=11:21 • Greek=11:21 [=12:24d1])	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24	
 GreekUndivided	1Ki.11:22	1Ki.11:22	Keep verse	Acd. [24d]	%Normally in this Bible similar text is found at% 12:24d.		(Hebrew=11:22 • Latin=11:22 • Greek=11:22 [=12:24d2])	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24	
+GreekUndivided	1Ki.11:14	1Ki.11:23	Merged verse	Nec. [14a]	%Normally in this Bible some text may be missing here because it is merged with% 11:14.		(Hebrew=11:25 • Latin=11:25 • Greek=11:14a)	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24 & 1Ki.11:14.1=NotExist	
+GreekUndivided	1Ki.11:14	1Ki.11:24	Merged verse	Nec. [14b]	%Normally in this Bible some text may be missing here because it is merged with% 11:14b.		(Hebrew=11:25 • Latin=11:25 • Greek=11:14b)	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24 & 1Ki.11:14.1=NotExist	
+GreekUndivided	1Ki.11:14	1Ki.11:25	Merged verse	Nec. [14c]	%Normally in this Bible some text may be missing here because it is merged with% 11:14c.		(Hebrew=11:25 • Latin=11:25 • Greek=11:14c)	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24 & 1Ki.11:14.1=NotExist	
 GreekUndivided	1Ki.11:26	1Ki.11:26	Keep verse	Acd. [24b]	%Normally in this Bible similar text is found at% 12:24b.		(Hebrew=11:26 • Latin=11:26 • Greek=11:26 [=12:24b1])	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24	
 GreekUndivided	1Ki.11:27	1Ki.11:27	Keep verse	Acd. [24b]	%Normally in this Bible similar text is found at% 12:24b.		(Hebrew=11:27 • Latin=11:27 • Greek=11:27 [=12:24b2])	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24	
 GreekUndivided	1Ki.11:28	1Ki.11:28	Keep verse	Acd. [24b]	%Normally in this Bible similar text is found at% 12:24b.		(Hebrew=11:28 • Latin=11:28 • Greek=11:28 [=12:24b3])	1Ki.12:24.1=NotExist & 1Ki.12:21*2<1Ki.12:24	
