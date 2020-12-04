@@ -1,32 +1,27 @@
-# Tyndale House STEPBible Data Repository
-Data created for [www.STEPBible.org](www.STEPBible.org) by [Tyndale House Cambridge](www.tyndale.cam.ac.uk) with **CC BY-NC 4.0**   
-(the [code for STEPBible.org](https://github.com/tyndale/step) is on a separate licence)
+# Tyndale House STEPBible Data Repository  **CC BY 4.0**
+Data created initially by [Tyndale House Cambridge](www.tyndale.cam.ac.uk) now curated by [www.STEPBible.org](www.STEPBible.org)
+(The [code for wwww.STEPBible.org](https://github.com/tyndale/step) is on a separate licence)
 
 # This licence allows...
 This public licence allows you to: 
-* **Include any part of STEPBible-Data in free software or free publications** without requesting permission    
+* **Include any part of STEPBible-Data in any software or publications** without requesting permission    
   (Though we'd love to hear from you about your project when you make it available.)  
-* **Request permission if your project is not free.** A reasonable request is unlikely to be refused.   
-* **Download the data and reformat it for your application, without changing the data itself.**  
-  Any changes to the formatting, order and application can be made without needing to record it
 * **Make changes to the data and record the differences**   
-  You can make corrections or report possible errors to be checked at TyndaleStepATgmail.com
+  You can make corrections or report possible errors to be checked at STEPBibleATgmail.com
   Any changes made to data should be recorded and made available to subsequent users.   
 * **Refer others to this repository as the source of the data.**   
   Updates or corrections are easier to implement when the data is distributed from a single source. 
   You are welcome to make a mirror, so long as it is kept up-to-date and has a link back here. 
   
 And you should:   
-* **Credit it** to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com,  
-  and to "STEP Bible" linked to www.STEPBible.org    
+* **Credit it** to "STEP Bible" linked to www.STEPBible.org    
   and refer to the source as tyndale.github.io/STEPBible-Data/
 
-# Tyndale House is...  
-Tyndale House is an international Biblical Research Institute. About 50 scholars at a time work there, often from more than a dozen countries. Most work on private research, and some work on special projects for Tyndale House, such as this one.   
+# STEPBible is...  
+A registered UK charity (Reg # pending) run by Bible scholars and computer enthusiasts, as well as members who help decide priorities. 
+The datasets are based on by by scholars at Tyndale House - an international Biblical Research Institute in Cambridge UK (see www.TyndaleHouse.com) 
 
-The data in this repository is created and curated collaboratively by Tyndale scholars, directed by David Instone-Brewer with the oversight of Peter Williams, and by their successors.   
-
-The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is derivative from other publically licenced sources, and has been compared with other non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to TyndaleStepATgmail.com for checking.  
+The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is derivative from other publically licenced sources, and has been compared with other non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to STEPBibleATgmail.com for checking.  
 
 # Datasets available 
 The data is available as **[downloadable tab-separated text files](https://github.com/tyndale/STEPBible-Data/)** (see notes on the data format below).
@@ -107,3 +102,7 @@ Apoc: Tob, Jdt, EsG, Wis, Sir, Bar, LJe, S3Y, Sus, Bel, 1Ma, 2Ma, 3Ma, 4Ma, 1Es,
 Alternate MSS: JsA, JdB, TbS, SsT, DnT, BlT,  
 NT: Mat, Mrk, Luk, Jhn, Act, Rom, 1Co, 2Co, Gal, Eph, Php, Col, 1Th, 2Th, 1Ti, 2Ti, Tit, Phm, Heb, Jas, 1Pe, 2Pe, 1Jn, 2Jn, 3Jn, Jud, Rev  
 (OT+NT are all based on the first 3 characters, except: Jdg, Sng, Ezk, Jol, Nam, Mrk, Jhn, Php, Phm, Jas, 1Jn, 2Jn, 3Jn)
+
+# Error reporting
+Please report all errors at STEPBible.FeedbackATgmail.com     See [Current reported errors](https://docs.google.com/spreadsheets/d/1HnNr-iNgO0NwByU7eKrz3YzmIBe8PWHrssNVZipuM6s/edit#gid=0)
+
