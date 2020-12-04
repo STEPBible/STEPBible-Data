@@ -1,25 +1,25 @@
-# Tyndale STEPBible Data Repository  **CC BY 4.0**
-Data created initially by [Tyndale House Cambridge](www.tyndale.cam.ac.uk) now curated by [www.STEPBible.org](www.STEPBible.org)
+# Tyndale STEPBible Data Repository  **CC BY 4.0**  
+Data created initially by [Tyndale House Cambridge](www.tyndale.cam.ac.uk) now curated by [www.STEPBible.org](www.STEPBible.org)  
 (The [code for wwww.STEPBible.org](https://github.com/tyndale/step) is on a separate licence)
 
-# This licence allows...
-This public licence allows you to: 
+# This licence allows...  
+This public licence allows you to:   
 * **Include any part of STEPBible-Data in any software or publications** without requesting permission    
   (Though we'd love to hear from you about your project when you make it available.)  
 * **Make changes to the data and record the differences**   
-  You can make corrections or report possible errors to be checked at STEPBibleATgmail.com
+  You can make corrections or report possible errors to be checked at STEPBibleATgmail.com   
   Any changes made to data should be recorded and made available to subsequent users.   
 * **Refer others to this repository as the source of the data.**   
-  Updates or corrections are easier to implement when the data is distributed from a single source. 
-  You are welcome to make a mirror, so long as it is kept up-to-date and has a link back here. 
+  Updates or corrections are easier to implement when the data is distributed from a single source.  
+  You are welcome to make a mirror, so long as it is kept up-to-date and has a link back here.   
   
 And you should:   
 * **Credit it** to "STEP Bible" linked to www.STEPBible.org    
-  and refer to the source as tyndale.github.io/STEPBible-Data/
+  and refer to the source as tyndale.github.io/STEPBible-Data/  
 
-# STEPBible is...  
-A registered UK charity (Reg # pending) run by Bible scholars and computer enthusiasts, as well as members who help decide priorities. 
-The datasets are based on by by scholars at Tyndale House - an international Biblical Research Institute in Cambridge UK (see www.TyndaleHouse.com) 
+# STEPBible is...    
+A registered UK charity (Reg # pending) run by Bible scholars and computer enthusiasts, as well as members who help decide priorities.   
+The datasets are based on work by scholars at Tyndale House - an international Biblical Studies research institute in Cambridge, UK (see www.TyndaleHouse.com)   
 
 The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is derivative from other publically licenced sources, and has been compared with other non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to STEPBibleATgmail.com for checking.  
 
