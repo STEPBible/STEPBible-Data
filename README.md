@@ -1,4 +1,4 @@
-# Tyndale House STEPBible Data Repository  **CC BY 4.0**
+# Tyndale STEPBible Data Repository  **CC BY 4.0**
 Data created initially by [Tyndale House Cambridge](www.tyndale.cam.ac.uk) now curated by [www.STEPBible.org](www.STEPBible.org)
 (The [code for wwww.STEPBible.org](https://github.com/tyndale/step) is on a separate licence)
 
