@@ -1,4 +1,4 @@
-﻿TEGMC - Tyndale Expansion of Greek Morphhology Codes - TyndaleHouse.com STEPBible.org CC BY-NC
+﻿TEGMC - Tyndale Expansion of Greek Morphhology Codes - TyndaleHouse.com STEPBible.org CC BY
 =========================================================================
 
 Greek morphology codes with expanded explanations in terms of parsing, meaning and example
@@ -6,22 +6,17 @@ Brief morphology codes - as used in the Greek lexicons
 Full morphology codes    - as used in tagged Greek texts
 
 
-
-===========================================================
-Data created for www.STEPBible.org by Tyndale House Cambridge (CC BY-NC 4.0)
-===========================================================
+==============================================================
+Data created for www.STEPBible.org by Tyndale House Cambridge and others (CC BY 4.0)
+==============================================================
 This licence allows you to:
-* Include any part of this data in free software or free publications without requesting permission 
-* Request permission if your project is not free. A reasonable request is unlikely to be refused.
-* Download the data and reformat it for your application
-* Refer others to this repository as the source of the data.
-And you should:
-* List any changes you make to the data. Please also send changes to TyndaleStep@gmail.com so that others can benefit.
-* Attribute the original data to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, 
-  and to "STEP Bible" linked to www.STEPBible.org
-* Link to its source at https://tyndale.github.io/STEPBible-Data/
-
-If you use this data, we'd love to hear about your project when you make it available. Email us at TyndaleSTEP@Gmail.com.
+* Include any part of this data in software or publications without requesting permission 
+* Download the data and reformat it for your application, without changing the data
+* Send any proposed corrections to STEPBible@gmail.com to be verified 
+  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)
+* Refer others to this repository as the source of the data. Please do not redistribute it yourself. 
+  (Updates or corrections are easier to implement when the data is distributed from a single source)
+* We'd love to hear about your project when you make it available. Email us at STEPBible@Gmail.com.
 ==============================================================
 
 BRIEF LEXICAL MORPHOLOGY CODES: 
