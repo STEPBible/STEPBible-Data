@@ -1,4 +1,5 @@
-﻿Added fields. changed  ambiguous families of Ishbah, Mered, 
+﻿
+Added fields. changed  ambiguous families of Ishbah, Mered, 
 Fields for PERSON now include: Tribe/nation
 Extra line with Description, starting with #
 Fields for PLACE now include "Founded by", "People living there", "Tribal area/Nation"
@@ -23,8 +24,8 @@ This licence allows you to:
 ==============================================================
 
 Ambiguous passages are discussed at:		https://tinyurl.com/TIPNR-Decisions
+Ambiguous passages are discussed at:		https://tinyurl.com/TIPNR-Geography
 Decisions are based on maximum links, minimum anonymous individuals, and maximum coherence with the Hebrew text, in that order. 						>
-
 						
 FIELD DESCRIPTIONS:						>
 ==============						
@@ -1483,12 +1484,12 @@ Ashbel@Gen.46.21=H0788A	Male living at the time of Egypt and Wilderness 	Benjami
 	Ashbel@Gen.46.21	H0789=אַשְׁבֵּלִי	Ashbelite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ashbelite*|reference=Num.26.38	Num.26.38; 		
 $========== PERSON(s)						
 Asher@Gen.30.13=H0836A	Male living at the time of the Patriarchs	Israel@Gen.25.26 + Zilpah@Gen.29.24	Reuben@Gen.29.32, Simeon@Gen.29.33, Levi@Gen.29.34, Judah@Gen.29.35, Dan@Gen.30.6, Naphtali@Gen.30.8, Gad@Gen.30.11, Issachar@Gen.30.18, Zebulun@Gen.30.20, Dinah@Gen.30.21, Joseph@Gen.30.24, Benjamin@Gen.35.18		Imnah@Gen.46.17, Ishvah@Gen.46.17, Ishvi@Gen.46.17, Beriah@Gen.46.17, Serah@Gen.46.17	Asher Tribe
-#A man living at the time of the Patriarchs; son of Israel@Gen.25.26; whose mother was Zilpah@Gen.29.24; brother of Gad@Gen.30.11; half-brother of Reuben@Gen.29.32, Simeon@Gen.29.33, Levi@Gen.29.34, Judah@Gen.29.35, Dan@Gen.30.6, Naphtali@Gen.30.8, Issachar@Gen.30.18, Zebulun@Gen.30.20, Dinah@Gen.30.21, Joseph@Gen.30.24 and Benjamin@Gen.35.18; father of Imnah@Gen.46.17, Ishvah@Gen.46.17, Ishvi@Gen.46.17, Beriah@Gen.46.17 and Serah@Gen.46.17; also translated "pine" or "cypress wood" at Ezk.27.6;  Ashurite at 2Sa.2.9; 						
+#A man living at the time of the Patriarchs; son of Israel@Gen.25.26; whose mother was Zilpah@Gen.29.24; brother of Gad@Gen.30.11; half-brother of Reuben@Gen.29.32, Simeon@Gen.29.33, Levi@Gen.29.34, Judah@Gen.29.35, Dan@Gen.30.6, Naphtali@Gen.30.8, Issachar@Gen.30.18, Zebulun@Gen.30.20, Dinah@Gen.30.21, Joseph@Gen.30.24 and Benjamin@Gen.35.18; father of Imnah@Gen.46.17, Ishvah@Gen.46.17, Ishvi@Gen.46.17, Beriah@Gen.46.17 and Serah@Gen.46.17; also translated "pine" or "cypress wood" at Ezk.27.6(?);  Ashurite at 2Sa.2.9(?); 						
 	Asher@Gen.30.13	H0836=אָשֵׁר	Asher (KJV= Aser)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Asher*|reference=Gen.30.13;Gen.35.26;Gen.46.17;Gen.49.20;Exo.1.4;Num.1.13;Num.1.40;Num.1.41;Num.2.27;Num.2.27;Num.7.72;Num.10.26;Num.13.13;Num.26.44;Num.26.46;Num.26.47;Num.34.27;Deu.27.13;Deu.33.24;Deu.33.24;Jos.17.7;Jos.17.10;Jos.17.11;Jos.19.24;Jos.19.31;Jos.19.34;Jos.21.6;Jos.21.30;Jdg.1.31;Jdg.5.17;Jdg.6.35;Jdg.7.23;1Ki.4.16;1Ch.2.2;1Ch.6.62;1Ch.6.74;1Ch.7.30;1Ch.7.40;1Ch.12.36;2Ch.30.11	Gen.30.13; Gen.35.26; Gen.46.17; Gen.49.20; Exo.1.4; Num.1.13; Num.1.40; Num.1.41; Num.2.27a; Num.2.27b; Num.7.72; Num.10.26; Num.13.13; Num.26.44; Num.26.46; Num.26.47; Num.34.27; Deu.27.13; Deu.33.24a; Deu.33.24b; Jos.17.7; Jos.17.10; Jos.17.11; Jos.19.24; Jos.19.31; Jos.19.34; Jos.21.6; Jos.21.30; Jdg.1.31; Jdg.5.17; Jdg.6.35; Jdg.7.23; 1Ki.4.16; 1Ch.2.2; 1Ch.6.62; 1Ch.6.74; 1Ch.7.30; 1Ch.7.40; 1Ch.12.36; 2Ch.30.11; Ezk.48.2; Ezk.48.3; Ezk.48.34; 		
 	Asher@Gen.30.13	H0843=אָשֵׁרִי	Asherite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Asherite*|reference=Jdg.1.32	Jdg.1.32; 		
 	Asher@Gen.30.13	G0768=Ἀσήρ	Asher	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Asher*|reference=Luk.2.36;Rev.7.6	Luk.2.36; Rev.7.6; 		
-	pine|Asherite@Ezk.27.6	H0843=אָשֵׁרִי	"pine" (KJV= Asherite; NIV= cypress wood)	https://www.stepbible.org/?q=version=ESV|version=KJV|text="pine"*|reference=Eze.27.6	Ezk.27.6; 		
-	Ashurite|Asher@Gen.30.13	H0805b=אֲשׁוּרִי	Ashurite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ashurite*|reference=2Sa.2.9	2Sa.2.9; 		
+	pine|Asherite@Ezk.27.6(?)	H0843=אָשֵׁרִי	"pine" (KJV= Asherite; NIV= cypress wood)	https://www.stepbible.org/?q=version=ESV|version=KJV|text="pine"*|reference=Eze.27.6	Ezk.27.6; 		
+	Ashurite|Asher@Gen.30.13(?)	H0805b=אֲשׁוּרִי	Ashurite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ashurite*|reference=2Sa.2.9	2Sa.2.9; 		
 $========== PERSON(s)						
 Ashhur@1Ch.2.24=H0806A	Male living at the time of Egypt and Wilderness	Hezron@Gen.46.12 + Abiah@1Ch.2.24	Ram@Rut.4.19, Jerahmeel@1Sa.27.10, Caleb@1Ch.2.9, Segub@1Ch.2.21	Helah@1Ch.4.5, Naarah@1Ch.4.5	Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6, Temeni@1Ch.4.6, Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Izhar@1Ch.4.7, Ethnan@1Ch.4.7, Koz@1Ch.4.8	Judah Tribe
 #A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hezron@Gen.46.12; whose mother was Abiah@1Ch.2.24; half-brother of Ram@Rut.4.19, Jerahmeel@1Sa.27.10, Caleb@1Ch.2.9 and Segub@1Ch.2.21; married to Helah@1Ch.4.5 and Naarah@1Ch.4.5; father of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6, Temeni@1Ch.4.6, Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Izhar@1Ch.4.7, Ethnan@1Ch.4.7 and Koz@1Ch.4.8						
@@ -2568,9 +2569,9 @@ Caleb@Num.13.6=H3612A	Male living at the time of Egypt and Wilderness & Israel b
 	Caleb@Num.13.6	H3614=כָּלִבִּי	Calebite (=Qere. Ketiv= like his heart)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Calebite*|reference=1Sa.25.3	1Sa.25.3; 		
 $========== PERSON(s)						
 Caleb@1Ch.2.9=H3612B	Male living at the time of Egypt and Wilderness	Hezron@Gen.46.12 + 	Ram@Rut.4.19, Jerahmeel@1Sa.27.10, Segub@1Ch.2.21, Ashhur@1Ch.2.24	Azubah@1Ch.2.18, Jerioth@1Ch.2.18, Ephrathah@1Ch.2.19, Ephah@1Ch.2.46, Maacah@1Ch.2.48	Hur@Exo.17.10, Jesher@1Ch.2.18, Shobab@1Ch.2.18, Ardon@1Ch.2.18, Mareshah@1Ch.2.42, Haran@1Ch.2.46, Moza@1Ch.2.46, Gazez@1Ch.2.46a, Jahdai@1Ch.2.47, Sheber@1Ch.2.48, Tirhanah@1Ch.2.48, Shaaph@1Ch.2.49, Sheva@1Ch.2.49, Achsah@1Ch.2.49	Judah Tribe
-#A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hezron@Gen.46.12; brother of Ram@Rut.4.19, Jerahmeel@1Sa.27.10, Segub@1Ch.2.21 and Ashhur@1Ch.2.24; married to Azubah@1Ch.2.18, Jerioth@1Ch.2.18, Ephrathah@1Ch.2.19, Ephah@1Ch.2.46 and Maacah@1Ch.2.48; father of Hur@Exo.17.10, Jesher@1Ch.2.18, Shobab@1Ch.2.18, Ardon@1Ch.2.18, Mareshah@1Ch.2.42, Haran@1Ch.2.46, Moza@1Ch.2.46, Gazez@1Ch.2.46a, Jahdai@1Ch.2.47, Sheber@1Ch.2.48, Tirhanah@1Ch.2.48, Shaaph@1Ch.2.49, Sheva@1Ch.2.49 and Achsah@1Ch.2.49; also called Carmi (NIV: Karmi) at 1Ch.4.1;  Chelubai at 1Ch.2.9; 						
+#A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hezron@Gen.46.12; brother of Ram@Rut.4.19, Jerahmeel@1Sa.27.10, Segub@1Ch.2.21 and Ashhur@1Ch.2.24; married to Azubah@1Ch.2.18, Jerioth@1Ch.2.18, Ephrathah@1Ch.2.19, Ephah@1Ch.2.46 and Maacah@1Ch.2.48; father of Hur@Exo.17.10, Jesher@1Ch.2.18, Shobab@1Ch.2.18, Ardon@1Ch.2.18, Mareshah@1Ch.2.42, Haran@1Ch.2.46, Moza@1Ch.2.46, Gazez@1Ch.2.46a, Jahdai@1Ch.2.47, Sheber@1Ch.2.48, Tirhanah@1Ch.2.48, Shaaph@1Ch.2.49, Sheva@1Ch.2.49 and Achsah@1Ch.2.49; also called Carmi (NIV: Karmi) at 1Ch.4.1(?);  Chelubai at 1Ch.2.9; 						
 	Caleb@1Ch.2.9	H3612=כָּלֵב	Caleb	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Caleb*|reference=1Ch.2.18;1Ch.2.19;1Ch.2.42;1Ch.2.46;1Ch.2.48;1Ch.2.49;1Ch.2.50	1Ch.2.18; 1Ch.2.19; 1Ch.2.42; 1Ch.2.46; 1Ch.2.48; 1Ch.2.49; 1Ch.2.50; 		
-	Carmi|Caleb@1Ch.2.9	H3756=כַּרְמִי	Carmi (NIV=Karmi)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Carmi*|reference=1Ch.4.1	1Ch.4.1; 		
+	Carmi|Caleb@1Ch.2.9(?)	H3756=כַּרְמִי	Carmi (NIV=Karmi)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Carmi*|reference=1Ch.4.1	1Ch.4.1; 		
 	Chelubai|Caleb@1Ch.2.9	H3621=כְּלוּבָ֑י	Chelubai	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Chelubai*|reference=1Ch.2.9	1Ch.2.9; 		
 $========== PERSON(s)						
 Canaan@Gen.9.18=H3667B	Male living at the time of the Patriarchs	Ham@Gen.5.32 + 	Cush@Gen.10.6, Egypt@Gen.10.6, Put@Gen.10.6		Sidon@Gen.10.15, Heth@Gen.10.15, Jebusite@Gen.10.16, Amorite@Gen.10.16, Girgashite@Gen.10.16, Hivite@Gen.10.17, Arkite@Gen.10.17, Sinite@Gen.10.17, Arvadite@Gen.10.18, Zemarite@Gen.10.18, Hamathite@Gen.10.18	Canaan
@@ -3819,7 +3820,7 @@ Ethbaal@1Ki.16.31=H0856A	Male living at the time of Divided Monarchy	 + 			Jezeb
 	Ethbaal@1Ki.16.31	H0856=אֶתְבַּ֫עַל	Ethbaal	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ethbaal*|reference=1Ki.16.31	1Ki.16.31; 		
 $========== PERSON(s)						
 Ethnan@1Ch.4.7=H0869A	Male living at the time of Divided Monarchy	Ashhur@1Ch.2.24 + Helah@1Ch.4.5	Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6, Temeni@1Ch.4.6, Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Izhar@1Ch.4.7, Koz@1Ch.4.8			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6; brother of Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Izhar@1Ch.4.7 and Koz@1Ch.4.8						
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; brother of Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Izhar@1Ch.4.7 and Koz@1Ch.4.8; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6						
 	Ethnan@1Ch.4.7	H0869=אֶתְנַן	Ethnan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ethnan*|reference=1Ch.4.7	1Ch.4.7; 		
 $========== PERSON(s)						
 Eubulus@2Ti.4.21=G2103A	Male living at the time of the New Testament 	 + 				>
@@ -3873,7 +3874,7 @@ Ezer@Gen.36.21=H0687A	Male living at the time of the Patriarchs	Seir@Gen.36.20 +
 #A man living at the time of the Patriarchs; son of Seir@Gen.36.20; brother of Lotan@Gen.36.20, Shobal@Gen.36.20, Zibeon@Gen.36.20, Anah@Gen.36.20, Dishon@Gen.36.21, Dishan@Gen.36.21 and Timna@Gen.36.22; father of Bilhan@Gen.36.27, Zaavan@Gen.36.27, Akan@Gen.36.27
 	Ezer@Gen.36.21	H0687=אֵ֫צֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=Gen.36.21;Gen.36.27;Gen.36.30;1Ch.1.38;1Ch.1.42	Gen.36.21; Gen.36.27; Gen.36.30; 1Ch.1.38; 1Ch.1.42; 		
 $========== PERSON(s)						
-Ezer@1Ch.4.4=H5829A	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10 + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4		Hushah@1Ch.4.4	Judah Tribe
+Ezer@1Ch.4.4=H5829A	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10(?) + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4		Hushah@1Ch.4.4	Judah Tribe
 #A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hur@Exo.17.10; brother of Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3 and Penuel@1Ch.4.4; father of Hushah@1Ch.4.4						
 	Ezer@1Ch.4.4	H5829=עֵ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=1Ch.4.4	1Ch.4.4; 		
 $========== PERSON(s)						
@@ -4106,8 +4107,8 @@ Gera@1Ch.8.7=H1617D	Male living at the time of Israel before the Monarchy	Ehud@J
 	Gera@1Ch.8.7	H1617=גֵּרָא	Gera	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gera*|reference=1Ch.8.7	1Ch.8.7; 		
 	Heglam|Gera@1Ch.8.7	H1540=הֶגְלָם	Heglam (KJV= removed; NIV= deported)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Heglam*|reference=1Ch.8.7	1Ch.8.7; 		
 $========== PERSON(s)						
-Gershom@Exo.2.22=H1647A	Male living at the time of Egypt and Wilderness	Moses@Exo.2.10 + Zipporah@Exo.2.21	Eliezer@Exo.18.4		Jonathan@Jdg.18.30, Shebuel@1Ch.23.16	Levi Tribe
-#A man of the tribe of Levi living at the time of Egypt and Wilderness; son of Moses@Exo.2.10; whose mother was Zipporah@Exo.2.21; brother of Eliezer@Exo.18.4; father of Jonathan@Jdg.18.30 and Shebuel@1Ch.23.16						
+Gershom@Exo.2.22=H1647A	Male living at the time of Egypt and Wilderness	Moses@Exo.2.10 + Zipporah@Exo.2.21	Eliezer@Exo.18.4		Jonathan@Jdg.18.30(?), Shebuel@1Ch.23.16	Levi Tribe
+#A man of the tribe of Levi living at the time of Egypt and Wilderness; son of Moses@Exo.2.10; whose mother was Zipporah@Exo.2.21; brother of Eliezer@Exo.18.4; father of Jonathan@Jdg.18.30(?) and Shebuel@1Ch.23.16						
 	Gershom@Exo.2.22	H1647=גֵּרְשֹׁם	Gershom	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gershom*|reference=Exo.2.22;Exo.18.3;1Ch.23.15;1Ch.23.16;1Ch.26.24;Jdg.18.30	Exo.2.22; Exo.18.3; 1Ch.23.15; 1Ch.23.16; 1Ch.26.24; Jdg.18.30; 		
 $========== PERSON(s)						
 Gershom@Ezr.8.2=H1647C	Male living at the time of Exile and Return	 + 				>
@@ -4782,8 +4783,8 @@ Hathach@Est.4.5=H2047A	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Hathach@Est.4.5	H2047=הֲתָךְ	Hathach (KJV= Hatach; NIV= Hathak)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hathach*|reference=Est.4.5;Est.4.6;Est.4.9;Est.4.10	Est.4.5; Est.4.6; Est.4.9; Est.4.10; 		
 $========== PERSON(s)						
-Hathath@1Ch.4.13=H2867A	Male living at the time of Israel before the Monarchy	Othniel@Jos.15.17 + 	Meonothai@1Ch.4.14			Judah Tribe
-#A man living at the time of Israel before the Monarchy; son of Othniel@Jos.15.17; brother of Meonothai@1Ch.4.14						
+Hathath@1Ch.4.13=H2867A	Male living at the time of Israel before the Monarchy	Othniel@Jos.15.17 + 	Meonothai@1Ch.4.14(?)			Judah Tribe
+#A man living at the time of Israel before the Monarchy; son of Othniel@Jos.15.17; brother of Meonothai@1Ch.4.14(?)						
 	Hathath@1Ch.4.13	H2867=חֲתַת	Hathath	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hathath*|reference=1Ch.4.13	1Ch.4.13; 		
 $========== PERSON(s)						
 Hatipha@Ezr.2.54=H2412A	Male living at the time of Exile and Return	 + 				>
@@ -4842,7 +4843,7 @@ Hazo@Gen.22.22=H2375A	Male living at the time of the Patriarchs	Nahor@Gen.11.26 
 #A man living at the time of the Patriarchs; son of Nahor@Gen.11.26; whose mother was Milcah@Gen.11.29; brother of Uz@Gen.22.21, Buz@Gen.22.21, Kemuel@Gen.22.21, Chesed@Gen.22.22, Pildash@Gen.22.22, Jidlaph@Gen.22.22 and Bethuel@Gen.22.22; half-brother of Tebah@Gen.22.24, Gaham@Gen.22.24, Tahash@Gen.22.24 and Maacah@Gen.22.24						
 	Hazo@Gen.22.22	H2375=חֲזוֹ	Hazo	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hazo*|reference=Gen.22.22	Gen.22.22; 		
 $========== PERSON(s)						
-Hazzelelponi@1Ch.4.3=H6753A	Female living at the time of Egypt and Wilderness	Hur@Exo.17.10 + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
+Hazzelelponi@1Ch.4.3=H6753A	Female living at the time of Egypt and Wilderness	Hur@Exo.17.10(?) + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
 #A woman of the tribe of Judah living at the time of Egypt and Wilderness; daughter of Hur@Exo.17.10; sister of Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Penuel@1Ch.4.4 and Ezer@1Ch.4.4						
 	Hazzelelponi@1Ch.4.3	H6753=הַצְּלֶלְפּוֹנִי	Hazzelelponi (KJV= Hazelelponi)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hazzelelponi*|reference=1Ch.4.3	1Ch.4.3; 		
 $========== PERSON(s)						
@@ -5237,8 +5238,8 @@ Hoshaiah@Jer.42.1=H1955B	Male living at the time of Divided Monarchy	 + 			Jezan
 #A man living at the time of Divided Monarchy; father of Jezaniah@2Ki.25.23
 	Hoshaiah@Jer.42.1	H1955=הוֹשַׁעֲיָה	Hoshaiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hoshaiah*|reference=Jer.42.1;Jer.43.2	Jer.42.1; Jer.43.2; 		
 $========== PERSON(s)						
-Hoshama@1Ch.3.18=H1953A	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18 and Nedabiah@1Ch.3.18						
+Hoshama@1Ch.3.18=H1953A	Male living at the time of Divided Monarchy	Shealtiel@1Ch.3.17(?) + 	Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Shealtiel@1Ch.3.17(?); brother of Shealtiel@1Ch.3.17(?), Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18 and Nedabiah@1Ch.3.18						
 	Hoshama@1Ch.3.18	H1953=יְהוֹשָׁמָע	Hoshama	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hoshama*|reference=1Ch.3.18	1Ch.3.18; 		
 $========== PERSON(s)						
 Hoshea@2Ki.15.30=H1954A	Male living at the time of Divided Monarchy	Elah@2Ki.15.30 + 				Israel
@@ -5375,7 +5376,7 @@ Ichabod@1Sa.4.21=H0350A	Male living at the time of United Monarchy	Phinehas@1Sa.
 #A man living at the time of United Monarchy; son of Phinehas@1Sa.1.3; brother of Ahitub@1Sa.14.3						
 	Ichabod@1Sa.4.21	H0350=אִי־כָבוֹד	Ichabod	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ichabod*|reference=1Sa.4.21;1Sa.14.3	1Sa.4.21; 1Sa.14.3; 		
 $========== PERSON(s)						
-Idbash@1Ch.4.3=H3031A	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10 + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
+Idbash@1Ch.4.3=H3031A	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10(?) + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
 #A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hur@Exo.17.10; brother of Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4 and Ezer@1Ch.4.4						
 	Idbash@1Ch.4.3	H3031=יִדְבָּשׁ	Idbash	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Idbash*|reference=1Ch.4.3	1Ch.4.3; 		
 $========== PERSON(s)						
@@ -5540,7 +5541,7 @@ Ishbah@1Ch.4.17=H3431A	Male living at the time of Divided Monarchy	Mered@1Ch.4.1
 	Ishbah@1Ch.4.17	H3431=יִשְׁבַּח	Ishbah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ishbah*|reference=1Ch.4.17	1Ch.4.17; 		
 $========== PERSON(s)						
 Ishbak@Gen.25.2=H3435A	Male living at the time of the Patriarchs	Abraham@Gen.11.26 + Keturah@Gen.25.1	Ishmael@Gen.16.11, Isaac@Gen.17.19, Zimran@Gen.25.2, Jokshan@Gen.25.2, Medan@Gen.25.2, Midian@Gen.25.2, Shuah@Gen.25.2			Early Patriarch
-#A man living at the time of the Patriarchs; son of Abraham@Gen.11.26; whose mother was Keturah@Gen.25.1; half-brother of Ishmael@Gen.16.11 and Isaac@Gen.17.19; brother of Zimran@Gen.25.2, Jokshan@Gen.25.2, Medan@Gen.25.2, Midian@Gen.25.2 and Shuah@Gen.25.2						
+#A man living at the time of the Patriarchs; son of Abraham@Gen.11.26; whose mother was Keturah@Gen.25.1; brother of Zimran@Gen.25.2, Jokshan@Gen.25.2, Medan@Gen.25.2, Midian@Gen.25.2 and Shuah@Gen.25.2; half-brother of Ishmael@Gen.16.11 and Isaac@Gen.17.19						
 	Ishbak@Gen.25.2	H3435=יִשְׁבָּק	Ishbak	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ishbak*|reference=Gen.25.2;1Ch.1.32	Gen.25.2; 1Ch.1.32; 		
 $========== PERSON(s)						
 Ishbi-benob@2Sa.21.16=H3430A	Male living at the time of United Monarchy	Rapha@2Sa.21.16 + 	Goliath@1Sa.17.4, Saph@2Sa.21.18, Lahmi@2Sa.21.19, huge_man@2Sa.21.20			>
@@ -5572,7 +5573,7 @@ Ishi@1Ch.5.24=H3469D	Male living at the time of Divided Monarchy	 + 				Manasseh
 #A man living at the time of Divided Monarchy						
 	Ishi@1Ch.5.24	H3469=יִשְׁעִי	Ishi	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ishi*|reference=1Ch.5.24	1Ch.5.24; 		
 $========== PERSON(s)						
-Ishma@1Ch.4.3=H3457A	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10 + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
+Ishma@1Ch.4.3=H3457A	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10(?) + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
 #A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hur@Exo.17.10; brother of Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4 and Ezer@1Ch.4.4						
 	Ishma@1Ch.4.3	H3457=יִשְׁמָא	Ishma	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ishma*|reference=1Ch.4.3	1Ch.4.3; 		
 $========== PERSON(s)						
@@ -5741,7 +5742,7 @@ Izhar@Exo.6.18=H3324A	Male living at the time of Egypt and Wilderness	Kohath@Gen
 	Amminadab|Izhar@Exo.6.18	H5992=עַמִּינָדָב	Izhar	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Izhar*|reference=1Ch.6.22	1Ch.6.22; 		
 $========== PERSON(s)						
 Izhar@1Ch.4.7=H3328A	Male living at the time of Divided Monarchy	Ashhur@1Ch.2.24 + Helah@1Ch.4.5	Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6, Temeni@1Ch.4.6, Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Ethnan@1Ch.4.7, Koz@1Ch.4.8			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6; brother of Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Ethnan@1Ch.4.7 and Koz@1Ch.4.8						
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; brother of Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Ethnan@1Ch.4.7 and Koz@1Ch.4.8; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6						
 	Izhar@1Ch.4.7	H3328=יִצְחַר	Izhar (=Ketiv. Qere, NIV= Zohar; KJV= Jezoar; )	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Izhar*|reference=1Ch.4.7	1Ch.4.7; 		
 $========== PERSON(s)						
 Izliah@1Ch.8.18=H3152A	Male living at the time of Divided Monarchy	Elpaal@1Ch.8.11 + 	Eber@1Ch.8.12, Misham@1Ch.8.12, Shemed@1Ch.8.12, Beriah@1Ch.8.13, Shema@1Ch.8.13, Zebadiah@1Ch.8.17, Meshullam@1Ch.8.17, Hizki@1Ch.8.17, Heber@1Ch.8.17, Ishmerai@1Ch.8.18, Jobab@1Ch.8.18			Benjamin Tribe
@@ -6198,7 +6199,7 @@ Jeduthun@1Ch.9.16=H3038B	Male living at the time of Exile and Return	 + 			Galal
 	Jeduthun@1Ch.9.16	H3038=יְדוּתוּן	Jeduthun	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jeduthun*|reference=1Ch.9.16	1Ch.9.16; 		
 	Jeduthun@1Ch.9.16	H3038=יְדוּתוּן	Jeduthun (=Qere. Ketiv= Jedithun)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jeduthun*|reference=Neh.11.17	Neh.11.17; 		
 $========== PERSON(s)						
-Jehallelel@1Ch.4.16=H3094A	Male living at the time of Divided Monarchy	 + 			Ziph@1Ch.4.16, Ziphah@1Ch.4.16, Tiria@1Ch.4.16, Asarel@1Ch.4.16	Judah Tribe
+Jehallelel@1Ch.4.16=H3094A	Male living at the time of Divided Monarchy	Elah@1Ch.4.15(?) + 	Kenaz@1Ch.4.15(?)		Ziph@1Ch.4.16, Ziphah@1Ch.4.16, Tiria@1Ch.4.16, Asarel@1Ch.4.16	Judah Tribe
 #A man living at the time of Divided Monarchy; father of Ziph@1Ch.4.16, Ziphah@1Ch.4.16, Tiria@1Ch.4.16, Asarel@1Ch.4.16
 	Jehallelel@1Ch.4.16	H3094=יְהַלֶּלְאֵל	Jehallelel (KJV= Jehaleleel)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jehallelel*|reference=1Ch.4.16	1Ch.4.16; 		
 $========== PERSON(s)						
@@ -6279,10 +6280,10 @@ Jehoahaz@2Ki.10.35=H3059A	Male living at the time of Divided Monarchy	Jehu@1Ki.1
 	Jehoahaz@2Ki.10.35	H3099=יוֹאָחָז	Joahaz (KJV, NIV= Jehoahaz)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Joahaz*|reference=2Ki.14.1	2Ki.14.1; 		
 $========== PERSON(s)						
 Jehoahaz@2Ki.23.30=H3059B	Male living at the time of Divided Monarchy	Josiah@1Ki.13.2 + Hamutal@2Ki.23.31	Jehoiakim@2Ki.23.34, Zedekiah@2Ki.24.17, Shallum@1Ch.3.15			Judah Tribe
-#A king of the tribe of Judah living at the time of Divided Monarchy; son of Josiah@1Ki.13.2; whose mother was Hamutal@2Ki.23.31; brother of Zedekiah@2Ki.24.17; half-brother of Jehoiakim@2Ki.23.34 and Shallum@1Ch.3.15; also called Johanan at 1Ch.3.15; 						
+#A king of the tribe of Judah living at the time of Divided Monarchy; son of Josiah@1Ki.13.2; whose mother was Hamutal@2Ki.23.31; brother of Zedekiah@2Ki.24.17; half-brother of Jehoiakim@2Ki.23.34 and Shallum@1Ch.3.15; also called Johanan at 1Ch.3.15(?); 						
 	Jehoahaz@2Ki.23.30	H3059=יְהוֹאָחָז	Jehoahaz	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jehoahaz*|reference=2Ki.23.30;2Ki.23.31;2Ki.23.34;2Ch.36.1	2Ki.23.30; 2Ki.23.31; 2Ki.23.34; 2Ch.36.1; 		
 	Jehoahaz@2Ki.23.30	H3099=יוֹאָחָז	Jehoahaz	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jehoahaz*|reference=2Ch.36.2;2Ch.36.4	2Ch.36.2; 2Ch.36.4; 		
-	Johanan|Jehoahaz@2Ki.23.30	H3110=יוֹחָנָן	Johanan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Johanan*|reference=1Ch.3.15	1Ch.3.15; 		
+	Johanan|Jehoahaz@2Ki.23.30(?)	H3110=יוֹחָנָן	Johanan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Johanan*|reference=1Ch.3.15	1Ch.3.15; 		
 $========== PERSON(s)						
 Jehohanan@1Ch.26.3=H3076C	Male living at the time of Divided Monarchy	Meshelemiah@1Ch.9.21 + 	Zechariah@1Ch.9.21, Jediael@1Ch.26.2, Zebadiah@1Ch.26.2, Jathniel@1Ch.26.2, Elam@1Ch.26.3, Eliehoenai@1Ch.26.3			>
 #A man living at the time of Divided Monarchy; son of Meshelemiah@1Ch.9.21; brother of Zechariah@1Ch.9.21, Jediael@1Ch.26.2, Zebadiah@1Ch.26.2, Jathniel@1Ch.26.2, Elam@1Ch.26.3 and Eliehoenai@1Ch.26.3						
@@ -6316,13 +6317,13 @@ Jehohanan@Neh.12.42=H3076K	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Jehohanan@Neh.12.42	H3076=יְהוֹחָנָן	Jehohanan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jehohanan*|reference=Neh.12.42	Neh.12.42; 		
 $========== PERSON(s)						
-Jehoiachin@2Ki.24.6=H3078A	Male living at the time of Divided Monarchy	Jehoiakim@2Ki.23.34 + Nehushta@2Ki.24.8			Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18	Judah Tribe
-#A king of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiakim@2Ki.23.34; whose mother was Nehushta@2Ki.24.8; father of Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18; also called Jeconiah at 1Ch.3.16,17; Est.2.6; Jer.24.1; 27.20; 28.4; 29.2;  Coniah at Jer.22.24,28; 37.1; Shallum at Jer.22.11; Jechoniah (KJV: Jechonias; NIV: Jeconiah) inMat.1.11; Mat.1.12; 						
+Jehoiachin@2Ki.24.6=H3078A	Male living at the time of Divided Monarchy	Jehoiakim@2Ki.23.34 + Nehushta@2Ki.24.8			Zedekiah@1Ch.3.16(?), Shealtiel@1Ch.3.17	Judah Tribe
+#A king of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiakim@2Ki.23.34; whose mother was Nehushta@2Ki.24.8; father of Zedekiah@1Ch.3.16(?) and Shealtiel@1Ch.3.17; also called Jeconiah at 1Ch.3.16,17; Est.2.6; Jer.24.1; 27.20; 28.4; 29.2;  Coniah at Jer.22.24,28; 37.1; Shallum at Jer.22.11; Jechoniah (KJV: Jechonias; NIV: Jeconiah) inMat.1.11; Mat.1.12; 						
 	Jehoiachin@2Ki.24.6	H3078=יְהוֹיָכִין	Jehoiachin	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jehoiachin*|reference=2Ki.24.6;2Ki.24.8;2Ki.24.12;2Ki.24.15;2Ki.25.27;2Ki.25.27;2Ch.36.8;2Ch.36.9;Jer.52.31;Jer.52.31	2Ki.24.6; 2Ki.24.8; 2Ki.24.12; 2Ki.24.15; 2Ki.25.27a; 2Ki.25.27b; 2Ch.36.8; 2Ch.36.9; Jer.52.31a; Jer.52.31b; 		
 	Jehoiachin@2Ki.24.6	H3112=יוֹיָכִין	Jehoiachin	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jehoiachin*|reference=Eze.1.2	Ezk.1.2; 		
 	Jehoiachin@2Ki.24.6	H3204=יְכוֹנְיָה	Jeconiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jeconiah*|reference=1Ch.3.16;1Ch.3.17;Est.2.6;Jer.24.1;Jer.27.20;Jer.28.4;Jer.29.2	1Ch.3.16; 1Ch.3.17; Est.2.6; Jer.24.1; Jer.27.20; Jer.28.4; Jer.29.2; 		
 	Coniah|Jehoiachin@2Ki.24.6	H3659=כׇּנְיָהוּ	Coniah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Coniah*|reference=Jer.22.24;Jer.22.28;Jer.37.1	Jer.22.24; Jer.22.28; Jer.37.1; 		
-	Shallum|Jehoiachin@2Ki.24.6	H7967=שַׁלּוּם	Shallum	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shallum*|reference=Jer.22.11	Jer.22.11; 		
+	Shallum|Jehoiachin@2Ki.24.6(?)	H7967=שַׁלּוּם	Shallum	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shallum*|reference=Jer.22.11	Jer.22.11; 		
 	Jechoniah|Jehoiachin@2Ki.24.6	G2423=Ἰεχονίας	Jechoniah (KJV= Jechonias; NIV= Jeconiah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jechoniah*|reference=Mat.1.11;Mat.1.12	Mat.1.11; Mat.1.12; 		
 $========== PERSON(s)						
 Jehoiada@2Sa.8.18=H3077A	Male living at the time of United Monarchy	 + 			Benaiah@2Sa.8.18	>
@@ -6488,8 +6489,8 @@ Jekamiah@1Ch.2.41=H3359A	Male living at the time of Divided Monarchy	Shallum@1Ch
 #A man of the tribe of Judah living at the time of Divided Monarchy; son of Shallum@1Ch.2.40; father of Elishama@1Ch.2.41						
 	Jekamiah@1Ch.2.41	H3359=יְקַמְיָה	Jekamiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jekamiah*|reference=1Ch.2.41;1Ch.2.41	1Ch.2.41a; 1Ch.2.41b; 		
 $========== PERSON(s)						
-Jekamiah@1Ch.3.18=H3359B	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
+Jekamiah@1Ch.3.18=H3359B	Male living at the time of Divided Monarchy	Shealtiel@1Ch.3.17(?) + 	Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Shealtiel@1Ch.3.17(?); brother of Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
 	Jekamiah@1Ch.3.18	H3359=יְקַמְיָה	Jekamiah (KJV= Jecamiah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jekamiah*|reference=1Ch.3.18	1Ch.3.18; 		
 $========== PERSON(s)						
 Jekuthiel@1Ch.4.18=H3354A	Male living at the time of Divided Monarchy	Mered@1Ch.4.17(?) + Jehudijah@1Ch.4.18	Jered@1Ch.4.18, Heber@1Ch.4.18, Miriam@1Ch.4.17, Shammai@1Ch.4.17, Ishbah@1Ch.4.17			Judah Tribe(?)
@@ -6885,7 +6886,7 @@ Jezrahiah@Neh.12.42=H3156B	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Jezrahiah@Neh.12.42	H3156=יִזְרַחְיָה	Jezrahiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jezrahiah*|reference=Neh.12.42	Neh.12.42; 		
 $========== PERSON(s)						
-Jezreel@1Ch.4.3=H3157D	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10 + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
+Jezreel@1Ch.4.3=H3157D	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10(?) + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4, Ezer@1Ch.4.4			Judah Tribe
 #A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hur@Exo.17.10; brother of Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Penuel@1Ch.4.4 and Ezer@1Ch.4.4						
 	Jezreel@1Ch.4.3	H3157=יִזְרְעֶאל	Jezreel	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jezreel*|reference=1Ch.4.3	1Ch.4.3; 		
 $========== PERSON(s)						
@@ -7183,7 +7184,7 @@ Jokim@1Ch.4.22=H3137A	Male living at the time of Egypt and Wilderness	Shelah@Gen
 	Jokim@1Ch.4.22	H3137=יוֹקִים	Jokim	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jokim*|reference=1Ch.4.22	1Ch.4.22; 		
 $========== PERSON(s)						
 Jokshan@Gen.25.2=H3370A	Male living at the time of the Patriarchs	Abraham@Gen.11.26 + Keturah@Gen.25.1	Ishmael@Gen.16.11, Isaac@Gen.17.19, Zimran@Gen.25.2, Medan@Gen.25.2, Midian@Gen.25.2, Ishbak@Gen.25.2, Shuah@Gen.25.2		Sheba@Gen.25.3, Dedan@Gen.25.3	Early Patriarch
-#A man living at the time of the Patriarchs; son of Abraham@Gen.11.26; whose mother was Keturah@Gen.25.1; half-brother of Ishmael@Gen.16.11 and Isaac@Gen.17.19; brother of Zimran@Gen.25.2, Medan@Gen.25.2, Midian@Gen.25.2, Ishbak@Gen.25.2 and Shuah@Gen.25.2; father of Sheba@Gen.25.3 and Dedan@Gen.25.3						
+#A man living at the time of the Patriarchs; son of Abraham@Gen.11.26; whose mother was Keturah@Gen.25.1; brother of Zimran@Gen.25.2, Medan@Gen.25.2, Midian@Gen.25.2, Ishbak@Gen.25.2 and Shuah@Gen.25.2; father of Sheba@Gen.25.3 and Dedan@Gen.25.3; half-brother of Ishmael@Gen.16.11 and Isaac@Gen.17.19						
 	Jokshan@Gen.25.2	H3370=יׇקְשָׁן	Jokshan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jokshan*|reference=Gen.25.2;Gen.25.3;1Ch.1.32;1Ch.1.32	Gen.25.2; Gen.25.3; 1Ch.1.32a; 1Ch.1.32b; 		
 $========== PERSON(s)						
 Joktan@Gen.10.25=H3355A	Male living at the time of the Patriarchs	Eber@Gen.10.21 + 	Peleg@Gen.10.25		Almodad@Gen.10.26, Sheleph@Gen.10.26, Hazarmaveth@Gen.10.26, Jerah@Gen.10.26, Hadoram@Gen.10.27, Uzal@Gen.10.27, Diklah@Gen.10.27, Obal@Gen.10.28, Abimael@Gen.10.28, Sheba@Gen.10.28, Ophir@Gen.10.29, Havilah@Gen.10.29, Jobab@Gen.10.29	Early Patriarch
@@ -7211,8 +7212,8 @@ Jonam@Luk.3.30=G2494A	Male living at the time of Divided Monarchy	Eliakim@Luk.3.
 #A man of the tribe of Judah living at the time of Divided Monarchy; son of Eliakim@Luk.3.30; father of Joseph@Luk.3.30						
 	Jonam@Luk.3.30	G2494=Ἰωνάν	Jonam (KJV= Jonan)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jonam*|reference=Luk.3.30	Luk.3.30; 		
 $========== PERSON(s)						
-Jonathan@Jdg.18.30=H3083A	Male living at the time of Israel before the Monarchy	Gershom@Exo.2.22 + 				>
-#A man living at the time of Israel before the Monarchy; son of Gershom@Exo.2.22						
+Jonathan@Jdg.18.30=H3083A	Male living at the time of Israel before the Monarchy	Gershom@Exo.2.22(?) + 				>
+#A man living at the time of Israel before the Monarchy; son of Gershom@Exo.2.22(?)						
 	Jonathan@Jdg.18.30	H3083=יְהוֹנָתָן	Jonathan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jonathan*|reference=Jdg.18.30	Jdg.18.30; 		
 $========== PERSON(s)						
 Jonathan@1Sa.13.2=H3083B	Male living at the time of United Monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Abinadab@1Sa.14.49, Malchi-shua@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8		Mephibosheth@2Sa.4.4	Benjamin Tribe
@@ -7641,7 +7642,7 @@ Kenaz@Num.32.12=H7073C	Male living at the time of Egypt and Wilderness	Jephunneh
 	Kenaz@Num.32.12	H7073=קְנַז	Kenaz	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Kenaz*|reference=Jos.15.17;Jdg.1.13;Jdg.3.9;Jdg.3.11;1Ch.4.13	Jos.15.17; Jdg.1.13; Jdg.3.9; Jdg.3.11; 1Ch.4.13; 		
 	Kenaz@Num.32.12	H7074=קְנִזִּי	Kenizzite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Kenizzite*|reference=Num.32.12;Jos.14.6;Jos.14.14	Num.32.12; Jos.14.6; Jos.14.14; 		
 $========== PERSON(s)						
-Kenaz@1Ch.4.15=H7073D	Male living at the time of Divided Monarchy	Elah@1Ch.4.15 + 				Judah Tribe
+Kenaz@1Ch.4.15=H7073D	Male living at the time of Divided Monarchy	Elah@1Ch.4.15 + 	Jehallelel@1Ch.4.16			Judah Tribe
 #A man living at the time of Divided Monarchy; son of Elah@1Ch.4.15						
 	Kenaz@1Ch.4.15	H7073=קְנַז	Kenaz	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Kenaz*|reference=1Ch.4.15	1Ch.4.15; 		
 $========== PERSON(s)						
@@ -7738,7 +7739,7 @@ Kore@2Ch.31.14=H6981B	Male living at the time of Divided Monarchy	Imnah@2Ch.31.1
 	Kore@2Ch.31.14	H6981=קוֹרֵא	Kore	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Kore*|reference=2Ch.31.14	2Ch.31.14; 		
 $========== PERSON(s)						
 Koz@1Ch.4.8=H6976A	Male living at the time of Egypt and Wilderness	Ashhur@1Ch.2.24 + Helah@1Ch.4.5	Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6, Temeni@1Ch.4.6, Haahashtari@1Ch.4.6, Zereth@1Ch.4.7, Izhar@1Ch.4.7, Ethnan@1Ch.4.7		Anub@1Ch.4.8, Zobebah@1Ch.4.8, Harum@1Ch.4.8, Jabez@1Ch.4.9(?)	Judah Tribe
-#A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6; brother of Haahashtari@1Ch.4.6; brother of Zereth@1Ch.4.7, Izhar@1Ch.4.7 and Ethnan@1Ch.4.7; father of Anub@1Ch.4.8, Zobebah@1Ch.4.8, Harum@1Ch.4.8 and Jabez@1Ch.4.9(?)						
+#A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; brother of Haahashtari@1Ch.4.6; Zereth@1Ch.4.7, Izhar@1Ch.4.7 and Ethnan@1Ch.4.7; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6; father of Anub@1Ch.4.8, Zobebah@1Ch.4.8, Harum@1Ch.4.8 and Jabez@1Ch.4.9(?)						
 	Koz@1Ch.4.8	H6976=קוֹץ	Koz (KJV= Coz)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Koz*|reference=1Ch.4.8	1Ch.4.8; 		
 $========== PERSON(s)						
 Laadah@1Ch.4.21=H3935A	Male living at the time of Egypt and Wilderness	Shelah@Gen.38.5 + 	Er@1Ch.4.21, Jokim@1Ch.4.22, Joash@1Ch.4.22, Saraph@1Ch.4.22		Mareshah@1Ch.4.21	Judah Tribe
@@ -8233,8 +8234,8 @@ Malchijah@Neh.12.42=H4441L	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Malchijah@Neh.12.42	H4441=מַלְכִּיָּהוּ	Malchijah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Malchijah*|reference=Neh.12.42	Neh.12.42; 		
 $========== PERSON(s)						
-Malchiram@1Ch.3.18=H4443A	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
+Malchiram@1Ch.3.18=H4443A	Male living at the time of Divided Monarchy	Shealtiel@1Ch.3.17(?) + 	Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Shealtiel@1Ch.3.17(?); brother of Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
 	Malchiram@1Ch.3.18	H4443=מַלְכִּירָם	Malchiram (NIV= Malkiram)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Malchiram*|reference=1Ch.3.18	1Ch.3.18; 		
 $========== PERSON(s)						
 Malchi-shua@1Sa.14.49=H4444A	Male living at the time of United Monarchy	Saul@1Sa.9.2 + Ahinoam@1Sa.14.50	Jonathan@1Sa.13.2, Abinadab@1Sa.14.49, Merab@1Sa.14.49, Michal@1Sa.14.49, Ish-bosheth@2Sa.2.8, Armoni@2Sa.21.8, Mephibosheth@2Sa.21.8			Benjamin Tribe
@@ -9072,11 +9073,11 @@ Mordecai@Est.2.5=H4782B	Male living at the time of Exile and Return	Jair@Est.2.5
 	Mordecai@Est.2.5	H4782=מׇרְדֳּכַי	Mordecai	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Mordecai*|reference=Est.2.5;Est.2.7;Est.2.10;Est.2.11;Est.2.15;Est.2.19;Est.2.20;Est.2.20;Est.2.21;Est.2.22;Est.2.22;Est.3.2;Est.3.3;Est.3.4;Est.3.5;Est.3.6;Est.3.6;Est.3.6;Est.4.1;Est.4.1;Est.4.4;Est.4.5;Est.4.6;Est.4.7;Est.4.9;Est.4.10;Est.4.12;Est.4.13;Est.4.15;Est.4.17;Est.5.9;Est.5.9;Est.5.13;Est.5.14;Est.6.2;Est.6.3;Est.6.4;Est.6.10;Est.6.11;Est.6.12	Est.2.5; Est.2.7; Est.2.10; Est.2.11; Est.2.15; Est.2.19; Est.2.20a; Est.2.20b; Est.2.21; Est.2.22a; Est.2.22b; Est.3.2; Est.3.3; Est.3.4; Est.3.5; Est.3.6a; Est.3.6b; Est.3.6c; Est.4.1a; Est.4.1b; Est.4.4; Est.4.5; Est.4.6; Est.4.7; Est.4.9; Est.4.10; Est.4.12; Est.4.13; Est.4.15; Est.4.17; Est.5.9a; Est.5.9b; Est.5.13; Est.5.14; Est.6.2; Est.6.3; Est.6.4; Est.6.10; Est.6.11; Est.6.12; Est.6.13; Est.7.9; Est.7.10; Est.8.1; Est.8.2a; Est.8.2b; Est.8.7; Est.8.9; Est.8.15; Est.9.3; Est.9.4a; Est.9.4b; Est.9.20; Est.9.23; Est.9.29; Est.9.31; Est.10.2; Est.10.3; 		
 $========== PERSON(s)						
 Moses@Exo.2.10=H4872A	Male living at the time of Egypt and Wilderness	Amram@Exo.6.18 + Jochebed@Exo.6.20	Aaron@Exo.4.14, Miriam@Exo.15.20	Zipporah@Exo.2.21	Gershom@Exo.2.22, Eliezer@Exo.18.4	Levi Tribe
-#A man of the tribe of Levi living at the time of Egypt and Wilderness; son of Amram@Exo.6.18; whose mother was Jochebed@Exo.6.20; brother of Aaron@Exo.4.14 and Miriam@Exo.15.20; married to Zipporah@Exo.2.21; father of Gershom@Exo.2.22 and Eliezer@Exo.18.4; also called Manasseh at Jdg.18.30						
+#A man of the tribe of Levi living at the time of Egypt and Wilderness; son of Amram@Exo.6.18; whose mother was Jochebed@Exo.6.20; brother of Aaron@Exo.4.14 and Miriam@Exo.15.20; married to Zipporah@Exo.2.21; father of Gershom@Exo.2.22 and Eliezer@Exo.18.4; also called Manasseh at Jdg.18.30(?)						
 	Moses@Exo.2.10	H4872=מֹשֶׁה	Moses	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Moses*|reference=Exo.2.10;Exo.2.11;Exo.2.14;Exo.2.15;Exo.2.15;Exo.2.17;Exo.2.21;Exo.2.21;Exo.3.1;Exo.3.3;Exo.3.4;Exo.3.4;Exo.3.6;Exo.3.11;Exo.3.13;Exo.3.14;Exo.3.15;Exo.4.1;Exo.4.3;Exo.4.4;Exo.4.10;Exo.4.14;Exo.4.18;Exo.4.18;Exo.4.19;Exo.4.20;Exo.4.20;Exo.4.21;Exo.4.27;Exo.4.28;Exo.4.29;Exo.4.30;Exo.5.1;Exo.5.4;Exo.5.20;Exo.5.22;Exo.6.1;Exo.6.2;Exo.6.9;Exo.6.9	Exo.2.10; Exo.2.11; Exo.2.14; Exo.2.15a; Exo.2.15b; Exo.2.17; Exo.2.21a; Exo.2.21b; Exo.3.1; Exo.3.3; Exo.3.4a; Exo.3.4b; Exo.3.6; Exo.3.11; Exo.3.13; Exo.3.14; Exo.3.15; Exo.4.1; Exo.4.3; Exo.4.4; Exo.4.10; Exo.4.14; Exo.4.18a; Exo.4.18b; Exo.4.19; Exo.4.20a; Exo.4.20b; Exo.4.21; Exo.4.27; Exo.4.28; Exo.4.29; Exo.4.30; Exo.5.1; Exo.5.4; Exo.5.20; Exo.5.22; Exo.6.1; Exo.6.2; Exo.6.9a; Exo.6.9b; Exo.6.10; Exo.6.12; Exo.6.13; Exo.6.20; Exo.6.26; Exo.6.27; Exo.6.28; Exo.6.29; Exo.6.30; Exo.7.1; Exo.7.6; Exo.7.7; Exo.7.8; Exo.7.10; Exo.7.14; Exo.7.19; Exo.7.20; Exo.8.1; Exo.8.5; Exo.8.8; Exo.8.9; Exo.8.12a; Exo.8.12b; Exo.8.13; Exo.8.16; Exo.8.20; Exo.8.25; Exo.8.26; Exo.8.29; Exo.8.30; Exo.8.31; Exo.9.1; Exo.9.8a; Exo.9.8b; Exo.9.10; Exo.9.11; Exo.9.12; Exo.9.13; Exo.9.22; Exo.9.23; Exo.9.27; Exo.9.29; Exo.9.33; Exo.9.35; Exo.10.1; Exo.10.3; Exo.10.8; Exo.10.9; Exo.10.12; Exo.10.13; Exo.10.16; Exo.10.21; Exo.10.22; Exo.10.24; Exo.10.25; Exo.10.29; Exo.11.1; Exo.11.3; Exo.11.4; Exo.11.9; Exo.11.10; Exo.12.1; Exo.12.21; Exo.12.28; Exo.12.31; Exo.12.35; Exo.12.43; Exo.12.50; Exo.13.1; Exo.13.3; Exo.13.19; Exo.14.1; Exo.14.11; Exo.14.13; Exo.14.15; Exo.14.21; Exo.14.26; Exo.14.27; Exo.14.31; Exo.15.1; Exo.15.22; Exo.15.24; Exo.16.2; Exo.16.4; Exo.16.6; Exo.16.8; Exo.16.9; Exo.16.11; Exo.16.15; Exo.16.19; Exo.16.20a; Exo.16.20b; Exo.16.22; Exo.16.24; Exo.16.25; Exo.16.28; Exo.16.32; Exo.16.33; Exo.16.34; Exo.17.2a; Exo.17.2b; Exo.17.3; Exo.17.4; Exo.17.5; Exo.17.6; Exo.17.9; Exo.17.10a; Exo.17.10b; Exo.17.11; Exo.17.12; Exo.17.14; Exo.17.15; Exo.18.1a; Exo.18.1b; Exo.18.2a; Exo.18.2b; Exo.18.5a; Exo.18.5b; Exo.18.6; Exo.18.7; Exo.18.8; Exo.18.12a; Exo.18.12b; Exo.18.13a; Exo.18.13b; Exo.18.14; Exo.18.15; Exo.18.17; Exo.18.24; Exo.18.25; Exo.18.26; Exo.18.27; Exo.19.3; Exo.19.7; Exo.19.8; Exo.19.9a; Exo.19.9b; Exo.19.10; Exo.19.14; Exo.19.17; Exo.19.19; Exo.19.20a; Exo.19.20b; Exo.19.21; Exo.19.23; Exo.19.25; Exo.20.19; Exo.20.20; Exo.20.21; Exo.20.22; Exo.24.1; Exo.24.2; Exo.24.3; Exo.24.4; Exo.24.6; Exo.24.8; Exo.24.9; Exo.24.12; Exo.24.13a; Exo.24.13b; Exo.24.15; Exo.24.16; Exo.24.18a; Exo.24.18b; Exo.25.1; Exo.30.11; Exo.30.17; Exo.30.22; Exo.30.34; Exo.31.1; Exo.31.12; Exo.31.18; Exo.32.1a; Exo.32.1b; Exo.32.7; Exo.32.9; Exo.32.11; Exo.32.15; Exo.32.17; Exo.32.19; Exo.32.21; Exo.32.23; Exo.32.25; Exo.32.26; Exo.32.28; Exo.32.29; Exo.32.30; Exo.32.31; Exo.32.33; Exo.33.1; Exo.33.5; Exo.33.7; Exo.33.8a; Exo.33.8b; Exo.33.9a; Exo.33.9b; Exo.33.11; Exo.33.12; Exo.33.17; Exo.34.1; Exo.34.4; Exo.34.8; Exo.34.27; Exo.34.29a; Exo.34.29b; Exo.34.30; Exo.34.31a; Exo.34.31b; Exo.34.33; Exo.34.34; Exo.34.35a; Exo.34.35b; Exo.34.35c; Exo.35.1; Exo.35.4; Exo.35.20; Exo.35.29; Exo.35.30; Exo.36.2; Exo.36.3; Exo.36.5; Exo.36.6; Exo.38.21; Exo.38.22; Exo.39.1; Exo.39.5; Exo.39.7; Exo.39.21; Exo.39.26; Exo.39.29; Exo.39.31; Exo.39.32; Exo.39.33; Exo.39.42; Exo.39.43a; Exo.39.43b; Exo.40.1; Exo.40.16; Exo.40.18; Exo.40.19; Exo.40.21; Exo.40.23; Exo.40.25; Exo.40.27; Exo.40.29; Exo.40.31; Exo.40.32; Exo.40.33; Exo.40.35; Lev.1.1; Lev.4.1; Lev.5.14; Lev.6.1; Lev.6.8; Lev.6.19; Lev.6.24; Lev.7.22; Lev.7.28; Lev.7.38; Lev.8.1; Lev.8.4; Lev.8.5; Lev.8.6; Lev.8.9; Lev.8.10; Lev.8.13a; Lev.8.13b; Lev.8.15; Lev.8.16; Lev.8.17; Lev.8.19; Lev.8.20; Lev.8.21a; Lev.8.21b; Lev.8.23; Lev.8.24a; Lev.8.24b; Lev.8.28; Lev.8.29a; Lev.8.29b; Lev.8.29c; Lev.8.30; Lev.8.31; Lev.8.36; Lev.9.1; Lev.9.5; Lev.9.6; Lev.9.7; Lev.9.10; Lev.9.21; Lev.9.23; Lev.10.3; Lev.10.4; Lev.10.5; Lev.10.6; Lev.10.7; Lev.10.11; Lev.10.12; Lev.10.16; Lev.10.19; Lev.10.20; Lev.11.1; Lev.12.1; Lev.13.1; Lev.14.1; Lev.14.33; Lev.15.1; Lev.16.1; Lev.16.2; Lev.16.34; Lev.17.1; Lev.18.1; Lev.19.1; Lev.20.1; Lev.21.1; Lev.21.16; Lev.21.24; Lev.22.1; Lev.22.17; Lev.22.26; Lev.23.1; Lev.23.9; Lev.23.23; Lev.23.26; Lev.23.33; Lev.23.44; Lev.24.1; Lev.24.11; Lev.24.13; Lev.24.23a; Lev.24.23b; Lev.25.1; Lev.26.46; Lev.27.1; Lev.27.34; Num.1.1; Num.1.17; Num.1.19; Num.1.44; Num.1.48; Num.1.54; Num.2.1; Num.2.33; Num.2.34; Num.3.1a; Num.3.1b; Num.3.5; Num.3.11; Num.3.14; Num.3.16; Num.3.38; Num.3.39; Num.3.40; Num.3.42; Num.3.44; Num.3.49; Num.3.51a; Num.3.51b; Num.4.1; Num.4.17; Num.4.21; Num.4.34; Num.4.37a; Num.4.37b; Num.4.41; Num.4.45a; Num.4.45b; Num.4.46; Num.4.49a; Num.4.49b; Num.5.1; Num.5.4; Num.5.5; Num.5.11; Num.6.1; Num.6.22; Num.7.1; Num.7.4; Num.7.6; Num.7.11; Num.7.89; Num.8.1; Num.8.3; Num.8.4; Num.8.5; Num.8.20a; Num.8.20b; Num.8.22; Num.8.23; Num.9.1; Num.9.4; Num.9.5; Num.9.6; Num.9.8; Num.9.9; Num.9.23; Num.10.1; Num.10.13; Num.10.29a; Num.10.29b; Num.10.35; Num.11.2a; Num.11.2b; Num.11.10a; Num.11.10b; Num.11.11; Num.11.16; Num.11.21; Num.11.23; Num.11.24; Num.11.27; Num.11.28a; Num.11.28b; Num.11.29; Num.11.30; Num.12.1; Num.12.2; Num.12.3; Num.12.4; Num.12.7; Num.12.8; Num.12.11; Num.12.13; Num.12.14; Num.13.1; Num.13.3; Num.13.16a; Num.13.16b; Num.13.17; Num.13.26; Num.13.30; Num.14.2; Num.14.5; Num.14.11; Num.14.13; Num.14.26; Num.14.36; Num.14.39; Num.14.41; Num.14.44; Num.15.1; Num.15.17; Num.15.22; Num.15.23; Num.15.33; Num.15.35; Num.15.36; Num.15.37; Num.16.2; Num.16.3; Num.16.4; Num.16.8; Num.16.12; Num.16.15; Num.16.16; Num.16.18; Num.16.20; Num.16.23; Num.16.25; Num.16.28; Num.16.36; Num.16.40; Num.16.41; Num.16.42; Num.16.43; Num.16.44; Num.16.46; Num.16.47; Num.16.50; Num.17.1; Num.17.6; Num.17.7; Num.17.8; Num.17.9; Num.17.10; Num.17.11; Num.17.12; Num.18.25; Num.19.1; Num.20.2; Num.20.3; Num.20.6; Num.20.7; Num.20.9; Num.20.10; Num.20.11; Num.20.12; Num.20.14; Num.20.23; Num.20.27; Num.20.28a; Num.20.28b; Num.21.5; Num.21.7a; Num.21.7b; Num.21.8; Num.21.9; Num.21.16; Num.21.32; Num.21.34; Num.25.4; Num.25.5; Num.25.6; Num.25.10; Num.25.16; Num.26.1; Num.26.3; Num.26.4; Num.26.9; Num.26.52; Num.26.59; Num.26.63; Num.26.64; Num.27.2; Num.27.5; Num.27.6; Num.27.11; Num.27.12; Num.27.15; Num.27.18; Num.27.22; Num.27.23; Num.28.1; Num.29.40a; Num.29.40b; Num.30.1; Num.30.16; Num.31.1; Num.31.3; Num.31.6; Num.31.7; Num.31.12; Num.31.13; Num.31.14; Num.31.15; Num.31.21; Num.31.25; Num.31.31a; Num.31.31b; Num.31.41a; Num.31.41b; Num.31.42; Num.31.47a; Num.31.47b; Num.31.48; Num.31.49; Num.31.51; Num.31.54; Num.32.2; Num.32.6; Num.32.20; Num.32.25; Num.32.28; Num.32.29; Num.32.33; Num.32.40; Num.33.1; Num.33.2; Num.33.50; Num.34.1; Num.34.13; Num.34.16; Num.35.1; Num.35.9; Num.36.1; Num.36.5; Num.36.10; Num.36.13; Deu.1.1; Deu.1.3; Deu.1.5; Deu.4.41; Deu.4.44; Deu.4.45; Deu.4.46; Deu.5.1; Deu.27.1; Deu.27.9; Deu.27.11; Deu.29.1; Deu.29.2; Deu.31.1; Deu.31.7; Deu.31.9; Deu.31.10; Deu.31.14a; Deu.31.14b; Deu.31.16; Deu.31.22; Deu.31.24; Deu.31.25; Deu.31.30; Deu.32.44; Deu.32.45; Deu.32.48; Deu.33.1; Deu.33.4; Deu.34.1; Deu.34.5; Deu.34.7; Deu.34.8a; Deu.34.8b; Deu.34.9a; Deu.34.9b; Deu.34.10; Deu.34.12; Jos.1.1a; Jos.1.1b; Jos.1.2; Jos.1.3; Jos.1.5; Jos.1.7; Jos.1.13; Jos.1.14; Jos.1.15; Jos.1.17a; Jos.1.17b; Jos.3.7; Jos.4.10; Jos.4.12; Jos.4.14; Jos.8.31a; Jos.8.31b; Jos.8.32; Jos.8.33; Jos.8.35; Jos.9.24; Jos.11.12; Jos.11.15a; Jos.11.15b; Jos.11.15c; Jos.11.20; Jos.11.23; Jos.12.6a; Jos.12.6b; Jos.13.8a; Jos.13.8b; Jos.13.12; Jos.13.15; Jos.13.21; Jos.13.24; Jos.13.29; Jos.13.32; Jos.13.33; Jos.14.2; Jos.14.3; Jos.14.5; Jos.14.6; Jos.14.7; Jos.14.9; Jos.14.10; Jos.14.11; Jos.17.4; Jos.18.7; Jos.20.2; Jos.21.2; Jos.21.8; Jos.22.2; Jos.22.4; Jos.22.5; Jos.22.7; Jos.22.9; Jos.23.6; Jos.24.5; Jdg.1.16; Jdg.1.20; Jdg.3.4; Jdg.4.11; 1Sa.12.6; 1Sa.12.8; 1Ki.2.3; 1Ki.8.9; 1Ki.8.53; 1Ki.8.56; 2Ki.14.6; 2Ki.18.4; 2Ki.18.6; 2Ki.18.12; 2Ki.21.8; 2Ki.23.25; 1Ch.6.3; 1Ch.6.49; 1Ch.15.15; 1Ch.21.29; 1Ch.22.13; 1Ch.23.13; 1Ch.23.14; 1Ch.23.15; 1Ch.26.24; 2Ch.1.3; 2Ch.5.10; 2Ch.8.13; 2Ch.23.18; 2Ch.24.6; 2Ch.24.9; 2Ch.25.4; 2Ch.30.16; 2Ch.33.8; 2Ch.34.14; 2Ch.35.6; 2Ch.35.12; Ezr.3.2; Ezr.7.6; Neh.1.7; Neh.1.8; Neh.8.1; Neh.8.14; Neh.9.14; Neh.10.29; Neh.13.1; Psa.77.20; Psa.90.1; Psa.99.6; Psa.103.7; Psa.105.26; Psa.106.16; Psa.106.23; Psa.106.32; Isa.63.11; Isa.63.12; Jer.15.1; Dan.9.11; Dan.9.13; Mic.6.4; Mal.4.4; 		
 	Moses@Exo.2.10	H4872=מֹשֶׁה	"his" (KJV= Moses)	https://www.stepbible.org/?q=version=ESV|version=KJV|text="his"*|reference=Exo.34.29	Exo.34.29; 		
 	Moses@Exo.2.10	H4873=מֹשֶׁה	Moses	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Moses*|reference=Ezr.6.18	Ezr.6.18; 		
-	Moses@Exo.2.10	H4519=מְנַשֶּׁה	Moses (=LXX; KJV= Manasseh)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Moses*|reference=Jdg.18.30	Jdg.18.30; 		
+	Moses@Exo.2.10(?)	H4519=מְנַשֶּׁה	Moses (=LXX; KJV= Manasseh)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Moses*|reference=Jdg.18.30	Jdg.18.30; 		
 	Moses@Exo.2.10	G3475=Μωϋσῆς, Μωσῆς	Moses	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Moses*|reference=Mat.8.4;Mat.17.3;Mat.17.4;Mat.19.7;Mat.19.8;Mat.22.24;Mat.23.2;Mar.1.44;Mar.7.10;Mar.9.4;Mar.9.5;Mar.10.3;Mar.10.4;Mar.12.19;Mar.12.26;Luk.2.22;Luk.5.14;Luk.9.30;Luk.9.33;Luk.16.29;Luk.16.31;Luk.20.28;Luk.20.37;Luk.24.27;Luk.24.44;Joh.1.17;Joh.1.45;Joh.3.14;Joh.5.45;Joh.5.46;Joh.6.32;Joh.7.19;Joh.7.22;Joh.7.22;Joh.7.23;Joh.8.5;Joh.9.28;Joh.9.29;Act.3.22;Act.6.11	Mat.8.4; Mat.17.3; Mat.17.4; Mat.19.7; Mat.19.8; Mat.22.24; Mat.23.2; Mrk.1.44; Mrk.7.10; Mrk.9.4; Mrk.9.5; Mrk.10.3; Mrk.10.4; Mrk.12.19; Mrk.12.26; Luk.2.22; Luk.5.14; Luk.9.30; Luk.9.33; Luk.16.29; Luk.16.31; Luk.20.28; Luk.20.37; Luk.24.27; Luk.24.44; Jhn.1.17; Jhn.1.45; Jhn.3.14; Jhn.5.45; Jhn.5.46; Jhn.6.32; Jhn.7.19; Jhn.7.22a; Jhn.7.22b; Jhn.7.23; Jhn.8.5; Jhn.9.28; Jhn.9.29; Act.3.22; Act.6.11; Act.6.14; Act.7.20; Act.7.22; Act.7.29; Act.7.31; Act.7.32; Act.7.35; Act.7.37; Act.7.40; Act.7.44; Act.13.38; Act.13.39; Act.15.1; Act.15.5; Act.15.21; Act.21.21; Act.26.22; Act.28.23; Rom.5.14; Rom.9.15; Rom.10.5; Rom.10.19; 1Co.9.9; 1Co.10.2; 2Co.3.7; 2Co.3.13; 2Co.3.15; 2Ti.3.8; Heb.3.2; Heb.3.3; Heb.3.5; Heb.3.16; Heb.7.14; Heb.8.5; Heb.9.19; Heb.10.28; Heb.11.23; Heb.11.24; Heb.12.21; Jud.1.9; Rev.15.3; 		
 $========== PERSON(s)						
 Moza@1Ch.2.46=H4162A	Male living at the time of Egypt and Wilderness	Caleb@1Ch.2.9 + Ephah@1Ch.2.46	Hur@Exo.17.10, Jesher@1Ch.2.18, Shobab@1Ch.2.18, Ardon@1Ch.2.18, Mareshah@1Ch.2.42, Haran@1Ch.2.46, Gazez@1Ch.2.46a, Jahdai@1Ch.2.47, Sheber@1Ch.2.48, Tirhanah@1Ch.2.48, Shaaph@1Ch.2.49, Sheva@1Ch.2.49, Achsah@1Ch.2.49			Judah Tribe
@@ -9337,8 +9338,8 @@ Neco@2Ki.23.29=H5224A	Male living at the time of Divided Monarchy	 + 				Egypt
 	Neco@2Ki.23.29	H6547=פַּרְעֹה+H5224=נְכוֹ	Pharaoh Neco (KJV= Pharaoh-nechoh, NIV= Pharaoh Necho)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Pharaoh*|reference=2Ki.23.29;2Ki.23.33;2Ki.23.34;2Ki.23.35;Jer.46.2	2Ki.23.29; 2Ki.23.33; 2Ki.23.34; 2Ki.23.35; Jer.46.2; 		
 	Neco@2Ki.23.29	H6547=פַּרְעֹה	Pharaoh	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Pharaoh*|reference=2Ki.23.35;2Ki.23.35;Jer.46.17;Jer.46.25;Jer.46.25	2Ki.23.35a; 2Ki.23.35b; Jer.46.17; Jer.46.25a; Jer.46.25b; 		
 $========== PERSON(s)						
-Nedabiah@1Ch.3.18=H5072A	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18 and Hoshama@1Ch.3.18						
+Nedabiah@1Ch.3.18=H5072A	Male living at the time of Divided Monarchy	Shealtiel@1Ch.3.17(?) + 	Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18			Judah Tribe
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Shealtiel@1Ch.3.17(?); brother of Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18 and Hoshama@1Ch.3.18						
 	Nedabiah@1Ch.3.18	H5072=נְדַבְיָה	Nedabiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Nedabiah*|reference=1Ch.3.18	1Ch.3.18; 		
 $========== PERSON(s)						
 Nehelam@Jer.29.24=H5161A	People descended from Nehel(?)	 + 				>
@@ -9912,8 +9913,8 @@ Pedaiah@2Ki.23.36=H6305A	Male living at the time of Divided Monarchy	 + 			Zebid
 #A man living at the time of Divided Monarchy; father of Zebidah@2Ki.23.36
 	Pedaiah@2Ki.23.36	H6305=פְּדָיָהוּ	Pedaiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Pedaiah*|reference=2Ki.23.36	2Ki.23.36; 		
 $========== PERSON(s)						
-Pedaiah@1Ch.3.18=H6305B	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18		Zerubbabel@1Ch.3.19, Shimei@1Ch.3.19	Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18; father of Zerubbabel@1Ch.3.19 and Shimei@1Ch.3.19						
+Pedaiah@1Ch.3.18=H6305B	Male living at the time of Divided Monarchy	Shealtiel@1Ch.3.17(?) + 	Malchiram@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18		Zerubbabel@1Ch.3.19, Shimei@1Ch.3.19	Judah Tribe
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Shealtiel@1Ch.3.17(?); brother of Malchiram@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18; father of Zerubbabel@1Ch.3.19 and Shimei@1Ch.3.19						
 	Pedaiah@1Ch.3.18	H6305=פְּדָיָהוּ	Pedaiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Pedaiah*|reference=1Ch.3.18;1Ch.3.19	1Ch.3.18; 1Ch.3.19; 		
 $========== PERSON(s)						
 Pedaiah@1Ch.27.20=H6305C	Male living at the time of Divided Monarchy	 + 			Joel@1Ch.27.20	>
@@ -10006,7 +10007,7 @@ Peninnah@1Sa.1.2=H6444A	Female living at the time of United Monarchy	 + 		Elkana
 #A woman living at the time of United Monarchy; married to Elkanah@1Sa.1.1						
 	Peninnah@1Sa.1.2	H6444=פְּנִנָּה	Peninnah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Peninnah*|reference=1Sa.1.2;1Sa.1.2;1Sa.1.4	1Sa.1.2a; 1Sa.1.2b; 1Sa.1.4; 		
 $========== PERSON(s)						
-Penuel@1Ch.4.4=H6439B	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10 + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Ezer@1Ch.4.4			Judah Tribe
+Penuel@1Ch.4.4=H6439B	Male living at the time of Egypt and Wilderness	Hur@Exo.17.10(?) + 	Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3, Ezer@1Ch.4.4			Judah Tribe
 #A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hur@Exo.17.10; brother of Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3 and Ezer@1Ch.4.4						
 	Penuel@1Ch.4.4	H6439=פְּנוּאֵל	Penuel	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Penuel*|reference=1Ch.4.4	1Ch.4.4; 		
 $========== PERSON(s)						
@@ -11058,8 +11059,8 @@ Shealtiel@Luk.3.27=G4528A	Male living at the time ofExile and return	Neri@Luk.3.
 #A man of the tribe of Judah living at the time ofExile and return; son of Neri@Luk.3.27; father of Zerubbabel@Luk.3.27						
 	Shealtiel@Luk.3.27	G4528=Σαλαθιήλ	Shealtiel (KJV= Salathiel)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shealtiel*|reference=Luk.3.27	Luk.3.27; 		
 $========== PERSON(s)						
-Shealtiel@1Ch.3.17=H7597A	Male living at the time of Exile and Return	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, 		Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18	Judah Tribe
-#A man of the tribe of Judah living at the time of Exile and Return; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16, ; father of Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
+Shealtiel@1Ch.3.17=H7597A	Male living at the time of Exile and Return	Jehoiachin@2Ki.24.6(?) + 	Zedekiah@1Ch.3.16(?), 		Malchiram@1Ch.3.18(?), Pedaiah@1Ch.3.18(?), Shenazzar@1Ch.3.18(?), Jekamiah@1Ch.3.18(?), Hoshama@1Ch.3.18(?), Nedabiah@1Ch.3.18(?)	Judah Tribe
+#A man of the tribe of Judah living at the time of Exile and Return; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16(?); father(?) of Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
 	Shealtiel@1Ch.3.17	H7597a=שְׁאַלְתִּיאֵל	Shealtiel	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shealtiel*|reference=1Ch.3.17;Ezr.3.2;Ezr.3.8;Neh.12.1;Hag.1.1;Hag.2.23	1Ch.3.17; Ezr.3.2; Ezr.3.8; Neh.12.1; Hag.1.1; Hag.2.23; 		
 	Shealtiel@1Ch.3.17	H7597b=שַׁלְתִּיאֵל	Shealtiel	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shealtiel*|reference=Hag.1.12;Hag.1.14;Hag.2.2	Hag.1.12; Hag.1.14; Hag.2.2; 		
 	Shealtiel@1Ch.3.17	H7598=שְׁאַלְתִּיאֵל	Shealtiel	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shealtiel*|reference=Ezr.5.2	Ezr.5.2; 		
@@ -11458,8 +11459,8 @@ Shemuel@1Ch.7.2=H8050C	Male living at the time of Egypt and Wilderness	Tola@Gen.
 #A man of the tribe of Issachar living at the time of Egypt and Wilderness; son of Tola@Gen.46.13; brother of Uzzi@1Ch.7.2, Rephaiah@1Ch.7.2, Jeriel@1Ch.7.2, Jahmai@1Ch.7.2 and Ibsam@1Ch.7.2						
 	Shemuel@1Ch.7.2	H8050=שְׁמוּאֵל	Shemuel (NIV= Samuel)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shemuel*|reference=1Ch.7.2	1Ch.7.2; 		
 $========== PERSON(s)						
-Shenazzar@1Ch.3.18=H8137A	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6 + 	Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Zedekiah@1Ch.3.16, Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
+Shenazzar@1Ch.3.18=H8137A	Male living at the time of Divided Monarchy	Shealtiel@1Ch.3.17(?) + 	Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Shealtiel@1Ch.3.17(?); brother of Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
 	Shenazzar@1Ch.3.18	H8137=שֶׁנְאַצַּ֑ר	Shenazzar (KJV= Shenazar)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shenazzar*|reference=1Ch.3.18	1Ch.3.18; 		
 $========== PERSON(s)						
 Shephatiah@2Sa.3.4=H8203A	Male living at the time of United Monarchy	David@Rut.4.17 + Abital@2Sa.3.4	Amnon@2Sa.3.2, Chileab@2Sa.3.3, Absalom@2Sa.3.3, Adonijah@2Sa.3.4, Ithream@2Sa.3.5, Shammua@2Sa.5.14, Shobab@2Sa.5.14, Nathan@2Sa.5.14, Solomon@2Sa.5.14, Ibhar@2Sa.5.15, Elishua@2Sa.5.15, Nepheg@2Sa.5.15, Japhia@2Sa.5.15, Elishama@2Sa.5.16, Eliada@2Sa.5.16, Eliphelet@2Sa.5.16, Tamar@2Sa.13.1, Eliphelet@1Ch.3.6, Nogah@1Ch.3.7, Jerimoth@2Ch.11.18			Judah Tribe
@@ -12912,8 +12913,8 @@ Zedekiah@2Ki.24.17=H6667B	Male living at the time of Divided Monarchy	Josiah@1Ki
 	Zedekiah@2Ki.24.17	H6667=צִדְקִיָּ֫הוּ	Zedekiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zedekiah*|reference=2Ki.24.17;2Ki.24.18;2Ki.24.20;2Ki.25.2;2Ki.25.7;2Ki.25.7;1Ch.3.15;2Ch.36.10;2Ch.36.11;Jer.1.3;Jer.21.1;Jer.21.3;Jer.21.7;Jer.24.8;Jer.27.3;Jer.27.12;Jer.28.1;Jer.29.3;Jer.32.1;Jer.32.3;Jer.32.4;Jer.32.5;Jer.34.2;Jer.34.4;Jer.34.6;Jer.34.8;Jer.34.21;Jer.37.1;Jer.37.3;Jer.37.17;Jer.37.18;Jer.37.21;Jer.38.5;Jer.38.14;Jer.38.15;Jer.38.16;Jer.38.17;Jer.38.19;Jer.38.24;Jer.39.1	2Ki.24.17; 2Ki.24.18; 2Ki.24.20; 2Ki.25.2; 2Ki.25.7a; 2Ki.25.7b; 1Ch.3.15; 2Ch.36.10; 2Ch.36.11; Jer.1.3; Jer.21.1; Jer.21.3; Jer.21.7; Jer.24.8; Jer.27.3; Jer.27.12; Jer.28.1; Jer.29.3; Jer.32.1; Jer.32.3; Jer.32.4; Jer.32.5; Jer.34.2; Jer.34.4; Jer.34.6; Jer.34.8; Jer.34.21; Jer.37.1; Jer.37.3; Jer.37.17; Jer.37.18; Jer.37.21; Jer.38.5; Jer.38.14; Jer.38.15; Jer.38.16; Jer.38.17; Jer.38.19; Jer.38.24; Jer.39.1; Jer.39.2; Jer.39.4; Jer.39.5; Jer.39.6; Jer.39.7; Jer.44.30; Jer.49.34; Jer.51.59; Jer.52.1; Jer.52.3; Jer.52.5; Jer.52.8; Jer.52.10; Jer.52.11; 		
 	Mattaniah|Zedekiah@2Ki.24.17	H4983=מַתַּנְיָ֫הוּ	Mattaniah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Mattaniah*|reference=2Ki.24.17	2Ki.24.17; 		
 $========== PERSON(s)						
-Zedekiah@1Ch.3.16=H6667C	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6 + 	Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18, Nedabiah@1Ch.3.18			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Shealtiel@1Ch.3.17, Malchiram@1Ch.3.18, Pedaiah@1Ch.3.18, Shenazzar@1Ch.3.18, Jekamiah@1Ch.3.18, Hoshama@1Ch.3.18 and Nedabiah@1Ch.3.18						
+Zedekiah@1Ch.3.16=H6667C	Male living at the time of Divided Monarchy	Jehoiachin@2Ki.24.6(?) + 	Shealtiel@1Ch.3.17			Judah Tribe
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Jehoiachin@2Ki.24.6; brother of Shealtiel@1Ch.3.17						
 	Zedekiah@1Ch.3.16	H6667=צִדְקִיָּ֫הוּ	Zedekiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zedekiah*|reference=1Ch.3.16	1Ch.3.16; 		
 $========== PERSON(s)						
 Zedekiah@Neh.10.1=H6667D	Male living at the time of Exile and Return	 + 				>
@@ -13005,7 +13006,7 @@ Zeresh@Est.5.10=H2238A	Female living at the time of Exile and Return	 + 		Haman@
 	Zeresh@Est.5.10	H2238=זֶ֫רֶשׁ	Zeresh	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zeresh*|reference=Est.5.10;Est.5.14;Est.6.13;Est.6.13	Est.5.10; Est.5.14; Est.6.13a; Est.6.13b; 		
 $========== PERSON(s)						
 Zereth@1Ch.4.7=H6889A	Male living at the time of Divided Monarchy	Ashhur@1Ch.2.24 + Helah@1Ch.4.5	Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6, Temeni@1Ch.4.6, Haahashtari@1Ch.4.6, Izhar@1Ch.4.7, Ethnan@1Ch.4.7, Koz@1Ch.4.8			Judah Tribe
-#A man of the tribe of Judah living at the time of Divided Monarchy; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6; brother of Haahashtari@1Ch.4.6, Izhar@1Ch.4.7, Ethnan@1Ch.4.7 and Koz@1Ch.4.8						
+#A man of the tribe of Judah living at the time of Divided Monarchy; son of Ashhur@1Ch.2.24; whose mother was Helah@1Ch.4.5; brother of Haahashtari@1Ch.4.6, Izhar@1Ch.4.7, Ethnan@1Ch.4.7 and Koz@1Ch.4.8; half-brother of Ahuzzam@1Ch.4.6, Hepher@1Ch.4.6 and Temeni@1Ch.4.6						
 	Zereth@1Ch.4.7	H6889=צֶ֫רֶת	Zereth	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zereth*|reference=1Ch.4.7	1Ch.4.7; 		
 $========== PERSON(s)						
 Zeri@1Ch.25.3=H6874A	Male living at the time of United Monarchy	Jeduthun@1Ch.6.44 + 	Obed-edom@2Sa.6.10, Mattithiah@1Ch.15.18, Gedaliah@1Ch.25.3, Jeshaiah@1Ch.25.3, Hashabiah@1Ch.25.3			Levi Tribe
