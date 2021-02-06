@@ -36,7 +36,7 @@ Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for 
 * **[TOTHT - Tyndale OT Hebrew Tagged text](https://github.com/tyndale/STEPBible-Data)**        
 The Leningrad codex based on Westminster via OpenScriptures, with full morphological and semantic tags for all words, prefixes and suffixes. Semantic tags use the extended Strongs linked to BDB by OS, is backwardly compatible with simple Strongs tags and includes all affixes (as defined in TBESH). Morphological tags are from ETCBC converted to the format of OS (similar to Westminster) with different morphology for Ketiv/Qere when needed.
 
-* **[TANTT - Tyndale Amalgamated NT Tagged texts](https://github.com/tyndale/STEPBible-Data)**      
+* **[TAGNT - Translators Amalgamated Greek NT](https://docs.google.com/spreadsheets/d/16Y1OCgWcqZndmWP3CA3YfYMPjwxIRb0UMQt-cSS8Wdw/edit#gid=0)**      
 Greek text created from the SBLGNT+apparatus, following the decisions made by NA28, listing the major editions that also use that form (SBL, Treg, TR, Byz, WH, NA28). Variants are being added from major editions plus the 1st 4 centuries of MSS (from Bunning). All words are tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) plus context-sensitive meanings for words with more than one meaning. For copyright reasons, any words, variants or punctuation that occur only in NA27 and/or in NA28 are omitted, so that this data cannot be used to reconstruct those texts.      
 
 * **[TBESH - Tyndale Brief lexicon of Extended Strongs for Hebrew](https://github.com/tyndale/STEPBible-Data)**     
