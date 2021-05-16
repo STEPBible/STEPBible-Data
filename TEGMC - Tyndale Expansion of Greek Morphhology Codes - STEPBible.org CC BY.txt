@@ -7549,9 +7549,9 @@ V-RMP-ASN	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Accu
 	an ACTION that was done to or for a neuter thing that is having something done to them 
 	"give them a thing that _has taught itself_ wisdom "
 $
-V-RMP-DPM	
-	1 2 3 4 6 7 8 9
-	"an ACTION that was done to or for male people or things that is having something done for‚ or in relation to" ,1243876
+V-RMP-DPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Dative; Number=Plural; Gender=Masculine
+	Verb Perfect Middle Participle Dative Plural Masculine
+	an ACTION that was done to or for male people or things that is having something done for‚ or in relation to
 	"give them to a man that _has done themselves_ good"
 $
 V-RMP-GPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Plural; Gender=Masculine
