@@ -2729,8 +2729,8 @@ PREP	Function=Preposition
 	relating it to another person or thing
 	"_of‚ from‚ by‚ in_"
 $
-PRT	
-	"Particle or Disjunctive particle" ,1 2 3 4 5 6 7 8 9
+PRT	    Function=Particle;
+	Particle or Disjunctive particle
 	introducing an alternative
 	"giving to this _or_ that"
 $
