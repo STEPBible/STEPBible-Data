@@ -7559,9 +7559,9 @@ V-RMP-GPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Geni
 	an ACTION that was done by a masculine person or thing that something belongs to 
 	"give them a man of wisdom "
 $
-V-RMP-GSF	
-	1 2 3 4 6 7 8 9
-	"an ACTION that was done to or for a female person or thing that is done for‚ or in relation to" ,1243876
+V-RMP-GSF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Singular; Gender=Feminine
+	Verb Perfect Middle Participle Genitive Singular Feminine
+	an ACTION that was done to or for a female person or thing that is done for‚ or in relation to
 	"give them a woman of good"
 $
 V-RMP-NPF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Nominative; Number=Plural; Gender=Feminine
