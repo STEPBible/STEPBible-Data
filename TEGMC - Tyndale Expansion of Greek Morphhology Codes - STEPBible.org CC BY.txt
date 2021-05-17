@@ -7551,7 +7551,7 @@ V-RMP-ASN	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Accu
 $
 V-RMP-DPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Dative; Number=Plural; Gender=Masculine
 	Verb Perfect Middle Participle Dative Plural Masculine
-	an ACTION that was done to or for male people or things that is having something done for‚ or in relation to
+	"an ACTION that was done to or for male people or things that is having something done for‚ or in relation to"
 	"give them to a man that _has done themselves_ good"
 $
 V-RMP-GPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Plural; Gender=Masculine
@@ -7561,7 +7561,7 @@ V-RMP-GPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Geni
 $
 V-RMP-GSF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Singular; Gender=Feminine
 	Verb Perfect Middle Participle Genitive Singular Feminine
-	an ACTION that was done to or for a female person or thing that is done for‚ or in relation to
+	"an ACTION that was done to or for a female person or thing that is done for‚ or in relation to"
 	"give them a woman of good"
 $
 V-RMP-NPF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Nominative; Number=Plural; Gender=Feminine
