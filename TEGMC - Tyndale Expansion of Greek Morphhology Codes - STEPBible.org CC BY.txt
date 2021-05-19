@@ -2729,8 +2729,8 @@ PREP	Function=Preposition
 	relating it to another person or thing
 	"_of‚ from‚ by‚ in_"
 $
-PRT	
-	"Particle or Disjunctive particle" ,1 2 3 4 5 6 7 8 9
+PRT	    Function=Particle;
+	Particle or Disjunctive particle
 	introducing an alternative
 	"giving to this _or_ that"
 $
@@ -2944,283 +2944,283 @@ R-NSN	Function=Relative pronoun; Case=Nominative; Number=Singular; Gender=Neuter
 	a REFERENCE BACK to a neuter person or thing that is doing something 
 	"a nation _which_ is wise gave you teaching"
 $
-S-1PAPF	Function=Posessive pronoun; Person=1st Plural; Case=Accusative; Number=Plural; Gender=Feminine
-	Posessive pronoun 1st Plural Accusative Plural Feminine 
+S-1PAPF	Function=Possessive pronoun; Person=1st Plural; Case=Accusative; Number=Plural; Gender=Feminine
+	Possessive pronoun 1st Plural Accusative Plural Feminine 
 	a reference to POSSESSORS of something that are female people or things that are speaking or writing that are having something done to them
 	"women say: We give _our_ teachings to you"
 $
-S-1PAPM	Function=Posessive pronoun; Person=1st Plural; Case=Accusative; Number=Plural; Gender=Masculine
-	Posessive pronoun 1st Plural Accusative Plural Masculine 
+S-1PAPM	Function=Possessive pronoun; Person=1st Plural; Case=Accusative; Number=Plural; Gender=Masculine
+	Possessive pronoun 1st Plural Accusative Plural Masculine 
 	a reference to POSSESSORS of something that are male people or things that are speaking or writing that are having something done to them
 	"men say: We give _our_ teachings to you"
 $
-S-1PAPN	Function=Posessive pronoun; Person=1st Plural; Case=Accusative; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Plural Accusative Plural Neuter 
+S-1PAPN	Function=Possessive pronoun; Person=1st Plural; Case=Accusative; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Plural Accusative Plural Neuter 
 	a reference to POSSESSORS of something that are neuter people or things that are speaking or writing that are having something done to them
 	"nations say: We give _our_ teachings to you"
 $
-S-1PASF	Function=Posessive pronoun; Person=1st Plural; Case=Accusative; Number=Singular; Gender=Feminine
-	Posessive pronoun 1st Plural Accusative Singular Feminine 
+S-1PASF	Function=Possessive pronoun; Person=1st Plural; Case=Accusative; Number=Singular; Gender=Feminine
+	Possessive pronoun 1st Plural Accusative Singular Feminine 
 	a reference to POSSESSORS of something who is female people or things that is speaking or writing that is having something done to them
 	"women say: We give _our_ teachings to you"
 $
-S-1PASN	Function=Posessive pronoun; Person=1st Plural; Case=Accusative; Number=Singular; Gender=Neuter
-	Posessive pronoun 1st Plural Accusative Singular Neuter 
+S-1PASN	Function=Possessive pronoun; Person=1st Plural; Case=Accusative; Number=Singular; Gender=Neuter
+	Possessive pronoun 1st Plural Accusative Singular Neuter 
 	a reference to POSSESSORS of something who is neuter people or things that is speaking or writing that is having something done to them
 	"nations say: We give _our_ teachings to you"
 $
-S-1PDPF	Function=Posessive pronoun; Person=1st Plural; Case=Dative; Number=Plural; Gender=Feminine
-	Posessive pronoun 1st Plural Dative Plural Feminine 
+S-1PDPF	Function=Possessive pronoun; Person=1st Plural; Case=Dative; Number=Plural; Gender=Feminine
+	Possessive pronoun 1st Plural Dative Plural Feminine 
 	"a reference to POSSESSORS of something that are female people or things that are speaking or writing that something is done for‚ or in relation to"
 	"women say: Give teachings to _us_"
 $
-S-1PDPM	Function=Posessive pronoun; Person=1st Plural; Case=Dative; Number=Plural; Gender=Masculine
-	Posessive pronoun 1st Plural Dative Plural Masculine 
+S-1PDPM	Function=Possessive pronoun; Person=1st Plural; Case=Dative; Number=Plural; Gender=Masculine
+	Possessive pronoun 1st Plural Dative Plural Masculine 
 	"a reference to POSSESSORS of something that are male people or things that are speaking or writing that something is done for‚ or in relation to"
 	"men say: Give teachings to _us_"
 $
-S-1PDPN	Function=Posessive pronoun; Person=1st Plural; Case=Dative; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Plural Dative Plural Neuter 
+S-1PDPN	Function=Possessive pronoun; Person=1st Plural; Case=Dative; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Plural Dative Plural Neuter 
 	"a reference to POSSESSORS of something that are neuter people or things that are speaking or writing that something is done for‚ or in relation to"
 	"nations say: Give teachings to _us_"
 $
-S-1PGPF	Function=Posessive pronoun; Person=1st Plural; Case=Genitive; Number=Plural; Gender=Feminine
-	Posessive pronoun 1st Plural Genitive Plural Feminine 
+S-1PGPF	Function=Possessive pronoun; Person=1st Plural; Case=Genitive; Number=Plural; Gender=Feminine
+	Possessive pronoun 1st Plural Genitive Plural Feminine 
 	a reference to POSSESSORS of something that are female people or things that are speaking or writing that something belongs to
 	"women say: Give _our_ teachings to others"
 $
-S-1PGPN	Function=Posessive pronoun; Person=1st Plural; Case=Genitive; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Plural Genitive Plural Neuter 
+S-1PGPN	Function=Possessive pronoun; Person=1st Plural; Case=Genitive; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Plural Genitive Plural Neuter 
 	a reference to POSSESSORS of something that are neuter people or things that are speaking or writing that something belongs to
 	"nations say: Give _our_ teachings to others"
 $
-S-1PGSF	Function=Posessive pronoun; Person=1st Singular; Case=Genitive; Number=Singular; Gender=Feminine
-	Posessive pronoun 1st Singular Genitive Singular Feminine 
+S-1PGSF	Function=Possessive pronoun; Person=1st Singular; Case=Genitive; Number=Singular; Gender=Feminine
+	Possessive pronoun 1st Singular Genitive Singular Feminine 
 	a reference to a POSSESSOR of something that are female people or things that are speaking or writing that something belongs to
 	"women say: Give _my_ teachings to others"
 $
-S-1PNPF	Function=Posessive pronoun; Person=1st Plural; Case=Nominative; Number=Plural; Gender=Feminine
-	Posessive pronoun 1st Plural Nominative Plural Feminine 
+S-1PNPF	Function=Possessive pronoun; Person=1st Plural; Case=Nominative; Number=Plural; Gender=Feminine
+	Possessive pronoun 1st Plural Nominative Plural Feminine 
 	a reference to POSSESSORS of something that are female people or things that are doing something
 	"women say: _Our_ teachings are wise"
 $
-S-1PNPM	Function=Posessive pronoun; Person=1st Plural; Case=Nominative; Number=Plural; Gender=Masculine
-	Posessive pronoun 1st Plural Nominative Plural Masculine 
+S-1PNPM	Function=Possessive pronoun; Person=1st Plural; Case=Nominative; Number=Plural; Gender=Masculine
+	Possessive pronoun 1st Plural Nominative Plural Masculine 
 	a reference to POSSESSORS of something that are male people or things that are speaking or writing that are doing something
 	"men say: _Our_ teachings are wise"
 $
-S-1PNPN	Function=Posessive pronoun; Person=1st Plural; Case=Nominative; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Plural Nominative Plural Neuter 
+S-1PNPN	Function=Possessive pronoun; Person=1st Plural; Case=Nominative; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Plural Nominative Plural Neuter 
 	a reference to POSSESSORS of something that are neuter people or things that are speaking or writing that are doing something
 	"nations say: _Our_ teachings are wise"
 $
-S-1PNSF	Function=Posessive pronoun; Person=1st Plural; Case=Nominative; Number=Singular; Gender=Feminine
-	Posessive pronoun 1st Plural Nominative Singular Feminine 
+S-1PNSF	Function=Possessive pronoun; Person=1st Plural; Case=Nominative; Number=Singular; Gender=Feminine
+	Possessive pronoun 1st Plural Nominative Singular Feminine 
 	a reference to POSSESSORS of something who is female people or things that is speaking or writing that is doing something
 	"women say: _Our_ teachings are wise"
 $
-S-1SAPF	Function=Posessive pronoun; Person=1st Singular; Case=Accusative; Number=Plural; Gender=Feminine
-	Posessive pronoun 1st Singular Accusative Plural Feminine 
+S-1SAPF	Function=Possessive pronoun; Person=1st Singular; Case=Accusative; Number=Plural; Gender=Feminine
+	Possessive pronoun 1st Singular Accusative Plural Feminine 
 	a reference to a POSSESSOR of something that are fea male person or thing that are speaking or writing that are having something done to them
 	"a woman says: I give _my_ teachings to you"
 $
-S-1SAPM	Function=Posessive pronoun; Person=1st Singular; Case=Accusative; Number=Plural; Gender=Masculine
-	Posessive pronoun 1st Singular Accusative Plural Masculine 
+S-1SAPM	Function=Possessive pronoun; Person=1st Singular; Case=Accusative; Number=Plural; Gender=Masculine
+	Possessive pronoun 1st Singular Accusative Plural Masculine 
 	a reference to a POSSESSOR of something that are a male person or thing that are speaking or writing that are having something done to them
 	"a man says: I give _my_ teachings to you"
 $
-S-1SAPN	Function=Posessive pronoun; Person=1st Singular; Case=Accusative; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Singular Accusative Plural Neuter 
+S-1SAPN	Function=Possessive pronoun; Person=1st Singular; Case=Accusative; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Singular Accusative Plural Neuter 
 	a reference to a POSSESSOR of something that are a neuter person or thing that are speaking or writing that are having something done to them
 	"a nation says: I give _my_ teachings to you"
 $
-S-1SASF	Function=Posessive pronoun; Person=1st Singular; Case=Accusative; Number=Singular; Gender=Feminine
-	Posessive pronoun 1st Singular Accusative Singular Feminine 
+S-1SASF	Function=Possessive pronoun; Person=1st Singular; Case=Accusative; Number=Singular; Gender=Feminine
+	Possessive pronoun 1st Singular Accusative Singular Feminine 
 	a reference to a POSSESSOR of something who is a female person or thing that is speaking or writing that is having something done to them
 	"a woman says: I give _my_ teachings to you"
 $
-S-1SASM	Function=Posessive pronoun; Person=1st Singular; Case=Accusative; Number=Singular; Gender=Masculine
-	Posessive pronoun 1st Singular Accusative Singular Masculine 
+S-1SASM	Function=Possessive pronoun; Person=1st Singular; Case=Accusative; Number=Singular; Gender=Masculine
+	Possessive pronoun 1st Singular Accusative Singular Masculine 
 	a reference to a POSSESSOR of something who is a male person or thing that is speaking or writing that is having something done to them
 	"a man says: I give _my_ teachings to you"
 $
-S-1SASN	Function=Posessive pronoun; Person=1st Singular; Case=Accusative; Number=Singular; Gender=Neuter
-	Posessive pronoun 1st Singular Accusative Singular Neuter 
+S-1SASN	Function=Possessive pronoun; Person=1st Singular; Case=Accusative; Number=Singular; Gender=Neuter
+	Possessive pronoun 1st Singular Accusative Singular Neuter 
 	a reference to a POSSESSOR of something who is neuter people or things that is speaking or writing that is having something done to them
 	"nations say: I give _my_ teachings to you"
 $
-S-1SDPN	Function=Posessive pronoun; Person=1st Singular; Case=Dative; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Singular Dative Plural Neuter 
+S-1SDPN	Function=Possessive pronoun; Person=1st Singular; Case=Dative; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Singular Dative Plural Neuter 
 	"a reference to a POSSESSOR of something that are a neuter person or thing that are speaking or writing that something is done for‚ or in relation to"
 	"a nation says: Give teachings to _us_"
 $
-S-1SDSF	Function=Posessive pronoun; Person=1st Singular; Case=Dative; Number=Singular; Gender=Feminine
-	Posessive pronoun 1st Singular Dative Singular Feminine 
+S-1SDSF	Function=Possessive pronoun; Person=1st Singular; Case=Dative; Number=Singular; Gender=Feminine
+	Possessive pronoun 1st Singular Dative Singular Feminine 
 	"a reference to a POSSESSOR of something who is a female person or thing that is speaking or writing that something is done for‚ or in relation to"
 	"a woman says: Give teachings to _me_"
 $
-S-1SDSM	Function=Posessive pronoun; Person=1st Singular; Case=Dative; Number=Singular; Gender=Masculine
-	Posessive pronoun 1st Singular Dative Singular Masculine 
+S-1SDSM	Function=Possessive pronoun; Person=1st Singular; Case=Dative; Number=Singular; Gender=Masculine
+	Possessive pronoun 1st Singular Dative Singular Masculine 
 	"a reference to a POSSESSOR of something who is a male person or thing that is speaking or writing that something is done for‚ or in relation to"
 	"a man says: Give teachings to _me_"
 $
-S-1SDSN	Function=Posessive pronoun; Person=1st Singular; Case=Dative; Number=Singular; Gender=Neuter
-	Posessive pronoun 1st Singular Dative Singular Neuter 
+S-1SDSN	Function=Possessive pronoun; Person=1st Singular; Case=Dative; Number=Singular; Gender=Neuter
+	Possessive pronoun 1st Singular Dative Singular Neuter 
 	"a reference to a POSSESSOR of something who is a neuter person or thing that is speaking or writing that something is done for‚ or in relation to"
 	"a nation says: Give teachings to _me_"
 $
-S-1SGPN	Function=Posessive pronoun; Person=1st Singular; Case=Genitive; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Singular Genitive Plural Neuter 
+S-1SGPN	Function=Possessive pronoun; Person=1st Singular; Case=Genitive; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Singular Genitive Plural Neuter 
 	a reference to a POSSESSOR of something that are a neuter person or thing that are speaking or writing that something belongs to
 	"a nation says: Give _my_ teachings to others"
 $
-S-1SGSF	Function=Posessive pronoun; Person=1st Singular; Case=Genitive; Number=Singular; Gender=Feminine
-	Posessive pronoun 1st Singular Genitive Singular Feminine 
+S-1SGSF	Function=Possessive pronoun; Person=1st Singular; Case=Genitive; Number=Singular; Gender=Feminine
+	Possessive pronoun 1st Singular Genitive Singular Feminine 
 	a reference to a POSSESSOR of something who is a female person or thing that is speaking or writing that something belongs to
 	"a woman says: Give _my_ teachings to others"
 $
-S-1SGSN	Function=Posessive pronoun; Person=1st Singular; Case=Genitive; Number=Singular; Gender=Neuter
-	Posessive pronoun 1st Singular Genitive Singular Neuter 
+S-1SGSN	Function=Possessive pronoun; Person=1st Singular; Case=Genitive; Number=Singular; Gender=Neuter
+	Possessive pronoun 1st Singular Genitive Singular Neuter 
 	a reference to a POSSESSOR of something who is a neuter thing that is speaking or writing that something belongs to
 	"a nation says: Give _my_ teachings to others"
 $
-S-1SNPM	Function=Posessive pronoun; Person=1st Singular; Case=Nominative; Number=Plural; Gender=Masculine
-	Posessive pronoun 1st Singular Nominative Plural Masculine 
+S-1SNPM	Function=Possessive pronoun; Person=1st Singular; Case=Nominative; Number=Plural; Gender=Masculine
+	Possessive pronoun 1st Singular Nominative Plural Masculine 
 	a reference to a POSSESSOR of something that are a male person or thing that are speaking or writing that are doing something
 	"a man says: _My_ teachings are wise"
 $
-S-1SNPN	Function=Posessive pronoun; Person=1st Singular; Case=Nominative; Number=Plural; Gender=Neuter
-	Posessive pronoun 1st Singular Nominative Plural Neuter 
+S-1SNPN	Function=Possessive pronoun; Person=1st Singular; Case=Nominative; Number=Plural; Gender=Neuter
+	Possessive pronoun 1st Singular Nominative Plural Neuter 
 	a reference to a POSSESSOR of something that are a neuter person or thing that are speaking or writing that are doing something
 	"a nation says: _My_ teachings are wise"
 $
-S-1SNSF	Function=Posessive pronoun; Person=1st Singular; Case=Nominative; Number=Singular; Gender=Feminine
-	Posessive pronoun 1st Singular Nominative Singular Feminine 
+S-1SNSF	Function=Possessive pronoun; Person=1st Singular; Case=Nominative; Number=Singular; Gender=Feminine
+	Possessive pronoun 1st Singular Nominative Singular Feminine 
 	a reference to a POSSESSOR of something who is a female person or thing that is speaking or writing that is doing something
 	"a woman says: _My_ teachings are wise"
 $
-S-1SNSM	Function=Posessive pronoun; Person=1st Singular; Case=Nominative; Number=Singular; Gender=Masculine
-	Posessive pronoun 1st Singular Nominative Singular Masculine 
+S-1SNSM	Function=Possessive pronoun; Person=1st Singular; Case=Nominative; Number=Singular; Gender=Masculine
+	Possessive pronoun 1st Singular Nominative Singular Masculine 
 	a reference to a POSSESSOR of something who is a male person or thing that is speaking or writing that is doing something
 	"a man says: _My_ teachings are wise"
 $
-S-1SNSN	Function=Posessive pronoun; Person=1st Singular; Case=Nominative; Number=Singular; Gender=Neuter
-	Posessive pronoun 1st Singular Nominative Singular Neuter 
+S-1SNSN	Function=Possessive pronoun; Person=1st Singular; Case=Nominative; Number=Singular; Gender=Neuter
+	Possessive pronoun 1st Singular Nominative Singular Neuter 
 	a reference to a POSSESSOR of something who is a neuter person or thing that is speaking or writing that is doing something
 	"a nation says: _My_ teachings are wise"
 $
-S-2PAPF	Function=Posessive pronoun; Person=2nd Plural; Case=Accusative; Number=Plural; Gender=Feminine
-	Posessive pronoun 2nd Plural Accusative Plural Feminine 
+S-2PAPF	Function=Possessive pronoun; Person=2nd Plural; Case=Accusative; Number=Plural; Gender=Feminine
+	Possessive pronoun 2nd Plural Accusative Plural Feminine 
 	a reference to POSSESSORS of something that are female persons being spoken or written to that are having something done to them
 	"say to women: Give _your_ teachings to me"
 $
-S-2PAPM	Function=Posessive pronoun; Person=2nd Plural; Case=Accusative; Number=Plural; Gender=Masculine
-	Posessive pronoun 2nd Plural Accusative Plural Masculine 
+S-2PAPM	Function=Possessive pronoun; Person=2nd Plural; Case=Accusative; Number=Plural; Gender=Masculine
+	Possessive pronoun 2nd Plural Accusative Plural Masculine 
 	a reference to POSSESSORS of something that are male persons being spoken or written to that are having something done to them
 	"say to men: Give _your_ teachings to me"
 $
-S-2PAPN	Function=Posessive pronoun; Person=2nd Plural; Case=Accusative; Number=Plural; Gender=Neuter
-	Posessive pronoun 2nd Plural Accusative Plural Neuter 
+S-2PAPN	Function=Possessive pronoun; Person=2nd Plural; Case=Accusative; Number=Plural; Gender=Neuter
+	Possessive pronoun 2nd Plural Accusative Plural Neuter 
 	a reference to POSSESSORS of something that are neuter persons being spoken or written to that are having something done to them
 	"say to nations: Give _your_ teachings to me"
 $
-S-2PDPF	Function=Posessive pronoun; Person=2nd Plural; Case=Dative; Number=Plural; Gender=Feminine
-	Posessive pronoun 2nd Plural Dative Plural Feminine 
+S-2PDPF	Function=Possessive pronoun; Person=2nd Plural; Case=Dative; Number=Plural; Gender=Feminine
+	Possessive pronoun 2nd Plural Dative Plural Feminine 
 	"a reference to POSSESSORS of something that are female persons being spoken or written to that something is done for‚ or in relation to"
 	"say to women: I give teachings to _you_"
 $
-S-2PDPM	Function=Posessive pronoun; Person=2nd Plural; Case=Dative; Number=Plural; Gender=Masculine
-	Posessive pronoun 2nd Plural Dative Plural Masculine 
+S-2PDPM	Function=Possessive pronoun; Person=2nd Plural; Case=Dative; Number=Plural; Gender=Masculine
+	Possessive pronoun 2nd Plural Dative Plural Masculine 
 	"a reference to POSSESSORS of something that are male persons being spoken or written to that something is done for‚ or in relation to"
 	"say to men: I give teachings to _you_"
 $
-S-2PDPN	Function=Posessive pronoun; Person=2nd Plural; Case=Dative; Number=Plural; Gender=Neuter
-	Posessive pronoun 2nd Plural Dative Plural Neuter 
+S-2PDPN	Function=Possessive pronoun; Person=2nd Plural; Case=Dative; Number=Plural; Gender=Neuter
+	Possessive pronoun 2nd Plural Dative Plural Neuter 
 	"a reference to POSSESSORS of something that are neuter persons being spoken or written to that something is done for‚ or in relation to"
 	"say to things: I give teachings to _you_"
 $
-S-2PGPF	Function=Posessive pronoun; Person=2nd Plural; Case=Genitive; Number=Plural; Gender=Feminine
-	Posessive pronoun 2nd Plural Genitive Plural Feminine 
+S-2PGPF	Function=Possessive pronoun; Person=2nd Plural; Case=Genitive; Number=Plural; Gender=Feminine
+	Possessive pronoun 2nd Plural Genitive Plural Feminine 
 	a reference to POSSESSORS of something that are female persons being spoken or written to that something belongs to
 	"say to women: Give me _your_ teachings"
 $
-S-2PNPF	Function=Posessive pronoun; Person=2nd Plural; Case=Nominative; Number=Plural; Gender=Feminine
-	Posessive pronoun 2nd Plural Nominative Plural Feminine 
+S-2PNPF	Function=Possessive pronoun; Person=2nd Plural; Case=Nominative; Number=Plural; Gender=Feminine
+	Possessive pronoun 2nd Plural Nominative Plural Feminine 
 	a reference to POSSESSORS of something that are female persons being spoken or written to that are doing something
 	"say to women: _Your_ teachings are wise"
 $
-S-2PNPM	Function=Posessive pronoun; Person=2nd Plural; Case=Nominative; Number=Plural; Gender=Masculine
-	Posessive pronoun 2nd Plural Nominative Plural Masculine 
+S-2PNPM	Function=Possessive pronoun; Person=2nd Plural; Case=Nominative; Number=Plural; Gender=Masculine
+	Possessive pronoun 2nd Plural Nominative Plural Masculine 
 	a reference to POSSESSORS of something that are male persons being spoken or written to that are doing something
 	"say to men: _Your_ teachings are wise"
 $
-S-2PNPN	Function=Posessive pronoun; Person=2nd Plural; Case=Nominative; Number=Plural; Gender=Neuter
-	Posessive pronoun 2nd Plural Nominative Plural Neuter 
+S-2PNPN	Function=Possessive pronoun; Person=2nd Plural; Case=Nominative; Number=Plural; Gender=Neuter
+	Possessive pronoun 2nd Plural Nominative Plural Neuter 
 	a reference to POSSESSORS of something that are neuter persons being spoken or written to that are doing something
 	"say to nations: _Your_ teachings are wise"
 $
-S-2SAPM	Function=Posessive pronoun; Person=2nd Singular; Case=Accusative; Number=Plural; Gender=Masculine
-	Posessive pronoun 2nd Singular Accusative Plural Masculine 
+S-2SAPM	Function=Possessive pronoun; Person=2nd Singular; Case=Accusative; Number=Plural; Gender=Masculine
+	Possessive pronoun 2nd Singular Accusative Plural Masculine 
 	a reference to POSSESSORS of something that are male persons being spoken or written to that are having something done to them
 	"say to men: Give _your_ teachings to me"
 $
-S-2SAPN	Function=Posessive pronoun; Person=2nd Singular; Case=Accusative; Number=Plural; Gender=Neuter
-	Posessive pronoun 2nd Singular Accusative Plural Neuter 
+S-2SAPN	Function=Possessive pronoun; Person=2nd Singular; Case=Accusative; Number=Plural; Gender=Neuter
+	Possessive pronoun 2nd Singular Accusative Plural Neuter 
 	a reference to POSSESSORS of something that are neuter persons being spoken or written to that are having something done to them
 	"say to nations: Give _your_ teachings to me"
 $
-S-2SASF	Function=Posessive pronoun; Person=2nd Singular; Case=Accusative; Number=Singular; Gender=Feminine
-	Posessive pronoun 2nd Singular Accusative Singular Feminine 
+S-2SASF	Function=Possessive pronoun; Person=2nd Singular; Case=Accusative; Number=Singular; Gender=Feminine
+	Possessive pronoun 2nd Singular Accusative Singular Feminine 
 	a reference to a POSSESSOR of something who is a female a person being spoken or written to that is having something done to them
 	"say to a woman: Give _your_ teachings to me"
 $
-S-2SASN	Function=Posessive pronoun; Person=2nd Singular; Case=Accusative; Number=Singular; Gender=Neuter
-	Posessive pronoun 2nd Singular Accusative Singular Neuter 
+S-2SASN	Function=Possessive pronoun; Person=2nd Singular; Case=Accusative; Number=Singular; Gender=Neuter
+	Possessive pronoun 2nd Singular Accusative Singular Neuter 
 	a reference to a POSSESSOR of something who is a neuter person being spoken or written to that is having something done to them
 	"say to a nation: Give _your_ teachings to me"
 $
-S-2SDSF	Function=Posessive pronoun; Person=2nd Singular; Case=Dative; Number=Singular; Gender=Feminine
-	Posessive pronoun 2nd Singular Dative Singular Feminine 
+S-2SDSF	Function=Possessive pronoun; Person=2nd Singular; Case=Dative; Number=Singular; Gender=Feminine
+	Possessive pronoun 2nd Singular Dative Singular Feminine 
 	"a reference to a POSSESSOR of something who is a female a person being spoken or written to that something is done for‚ or in relation to"
 	"say to a woman: I give teachings to _you_"
 $
-S-2SDSM	Function=Posessive pronoun; Person=2nd Singular; Case=Dative; Number=Singular; Gender=Masculine
-	Posessive pronoun 2nd Singular Dative Singular Masculine 
+S-2SDSM	Function=Possessive pronoun; Person=2nd Singular; Case=Dative; Number=Singular; Gender=Masculine
+	Possessive pronoun 2nd Singular Dative Singular Masculine 
 	"a reference to a POSSESSOR of something who is a male a person being spoken or written to that something is done for‚ or in relation to"
 	"say to a man: I give teachings to _you_"
 $
-S-2SDSN	Function=Posessive pronoun; Person=2nd Singular; Case=Dative; Number=Singular; Gender=Neuter
-	Posessive pronoun 2nd Singular Dative Singular Neuter 
+S-2SDSN	Function=Possessive pronoun; Person=2nd Singular; Case=Dative; Number=Singular; Gender=Neuter
+	Possessive pronoun 2nd Singular Dative Singular Neuter 
 	"a reference to a POSSESSOR of something who is a neuter a person being spoken or written to that something is done for‚ or in relation to"
 	"say to a man: I give teachings to _you_"
 $
-S-2SGSF	Function=Posessive pronoun; Person=2nd Singular; Case=Genitive; Number=Singular; Gender=Feminine
-	Posessive pronoun 2nd Singular Genitive Singular Feminine 
+S-2SGSF	Function=Possessive pronoun; Person=2nd Singular; Case=Genitive; Number=Singular; Gender=Feminine
+	Possessive pronoun 2nd Singular Genitive Singular Feminine 
 	a reference to a POSSESSOR of something who is a female a person being spoken or written to that something belongs to
 	"say to a woman: Give me _your_ teachings"
 $
-S-2SNPM	Function=Posessive pronoun; Person=2nd Singular; Case=Nominative; Number=Plural; Gender=Masculine
-	Posessive pronoun 2nd Singular Nominative Plural Masculine 
+S-2SNPM	Function=Possessive pronoun; Person=2nd Singular; Case=Nominative; Number=Plural; Gender=Masculine
+	Possessive pronoun 2nd Singular Nominative Plural Masculine 
 	a reference to a POSSESSOR of something that are male persons being spoken or written to that are doing something
 	"say to men: _Your_ teachings are wise"
 $
-S-2SNPN	Function=Posessive pronoun; Person=2nd Singular; Case=Nominative; Number=Plural; Gender=Neuter
-	Posessive pronoun 2nd Singular Nominative Plural Neuter 
+S-2SNPN	Function=Possessive pronoun; Person=2nd Singular; Case=Nominative; Number=Plural; Gender=Neuter
+	Possessive pronoun 2nd Singular Nominative Plural Neuter 
 	a reference to POSSESSORS of something that are neuter persons being spoken or written to that are doing something
 	"say to nations: _Your_ teachings are wise"
 $
-S-2SNSF	Function=Posessive pronoun; Person=2nd Singular; Case=Nominative; Number=Singular; Gender=Feminine
-	Posessive pronoun 2nd Singular Nominative Singular Feminine 
+S-2SNSF	Function=Possessive pronoun; Person=2nd Singular; Case=Nominative; Number=Singular; Gender=Feminine
+	Possessive pronoun 2nd Singular Nominative Singular Feminine 
 	a reference to a POSSESSOR of something who is a female a person being spoken or written to that is doing something
 	"say to a man: _Your_teachings are wise"
 $
-S-2SNSM	Function=Posessive pronoun; Person=2nd Singular; Case=Nominative; Number=Singular; Gender=Masculine
-	Posessive pronoun 2nd Singular Nominative Singular Masculine 
+S-2SNSM	Function=Possessive pronoun; Person=2nd Singular; Case=Nominative; Number=Singular; Gender=Masculine
+	Possessive pronoun 2nd Singular Nominative Singular Masculine 
 	a reference to a POSSESSOR of something who is a male a person being spoken or written to that is doing something
 	"say to a man: _Your_teachings are wise"
 $
-S-2SNSN	Function=Posessive pronoun; Person=2nd Singular; Case=Nominative; Number=Singular; Gender=Neuter
-	Posessive pronoun 2nd Singular Nominative Singular Neuter 
+S-2SNSN	Function=Possessive pronoun; Person=2nd Singular; Case=Nominative; Number=Singular; Gender=Neuter
+	Possessive pronoun 2nd Singular Nominative Singular Neuter 
 	a reference to a POSSESSOR of something who is a neuter person being spoken or written to that is doing something
 	"say to a nation: _Your_ teachings are wise"
 $
@@ -7549,9 +7549,9 @@ V-RMP-ASN	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Accu
 	an ACTION that was done to or for a neuter thing that is having something done to them 
 	"give them a thing that _has taught itself_ wisdom "
 $
-V-RMP-DPM	
-	1 2 3 4 6 7 8 9
-	"an ACTION that was done to or for male people or things that is having something done for‚ or in relation to" ,1243876
+V-RMP-DPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Dative; Number=Plural; Gender=Masculine
+	Verb Perfect Middle Participle Dative Plural Masculine
+	"an ACTION that was done to or for male people or things that is having something done for‚ or in relation to"
 	"give them to a man that _has done themselves_ good"
 $
 V-RMP-GPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Plural; Gender=Masculine
@@ -7559,9 +7559,9 @@ V-RMP-GPM	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Geni
 	an ACTION that was done by a masculine person or thing that something belongs to 
 	"give them a man of wisdom "
 $
-V-RMP-GSF	
-	1 2 3 4 6 7 8 9
-	"an ACTION that was done to or for a female person or thing that is done for‚ or in relation to" ,1243876
+V-RMP-GSF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Genitive; Number=Singular; Gender=Feminine
+	Verb Perfect Middle Participle Genitive Singular Feminine
+	"an ACTION that was done to or for a female person or thing that is done for‚ or in relation to"
 	"give them a woman of good"
 $
 V-RMP-NPF	Function=Verb; Tense=Perfect; Voice=Middle; Form=Participle; Case=Nominative; Number=Plural; Gender=Feminine
