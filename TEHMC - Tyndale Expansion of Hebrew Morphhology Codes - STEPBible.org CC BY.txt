@@ -92,16 +92,16 @@ N:N-M-T	King	Proper Name of a Male some kind
 N:N--PG	Judean	Proper Name of a Person in Gentilic sense
 N:N--T	Pharaoh	Proper Name of some kind
 N:N--TG	Nazarite	Proper Name of some kind in Gentilic sense
-Ps1c	my	Posessive suffix: 1st person common singular
-Ps2m	your	Posessive suffix: 2nd person masculine singular
-Ps2f	your	Posessive suffix: 2nd person feminine singular
-Ps3m	his	Posessive suffix: 3rd person masculine singular
-Ps3f	her	Posessive suffix: 3rd person feminine singular
-Pp1c	our	Posessive suffix: 1st person common plural
-Pp2m	your	Posessive suffix: 2nd person masculine plural
-Pp2f	your	Posessive suffix: 2nd person feminine plural
-Pp3m	their	Posessive suffix: 3rd person masculine plural
-Pp3f	their	Posessive suffix: 3rd person feminine plural
+Ps1c	my	Possessive suffix: 1st person common singular
+Ps2m	your	Possessive suffix: 2nd person masculine singular
+Ps2f	your	Possessive suffix: 2nd person feminine singular
+Ps3m	his	Possessive suffix: 3rd person masculine singular
+Ps3f	her	Possessive suffix: 3rd person feminine singular
+Pp1c	our	Possessive suffix: 1st person common plural
+Pp2m	your	Possessive suffix: 2nd person masculine plural
+Pp2f	your	Possessive suffix: 2nd person feminine plural
+Pp3m	their	Possessive suffix: 3rd person masculine plural
+Pp3f	their	Possessive suffix: 3rd person feminine plural
 Os1c	me	Object suffix: 1st person common singular
 Os2m	you	Object suffix: 2nd person masculine singular
 Os2f	you	Object suffix: 2nd person feminine singular
