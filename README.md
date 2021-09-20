@@ -1,6 +1,6 @@
 # STEPBible Data Repository  **CC BY 4.0**  
 Data created initially by [Tyndale House Cambridge](www.tyndalehouse.com) now curated by [www.STEPBible.org](www.STEPBible.org)  
-(The [code for wwww.STEPBible.org](https://github.com/tyndale/step) is also on an open licence)
+(The [code for wwww.STEPBible.org](https://github.com/STEPBible/step) is also on an open licence)
 
 # This licence allows...  
 This public licence allows you to:   
@@ -23,25 +23,25 @@ The datasets are based on work by scholars at Tyndale House - an international B
 The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is based on other publically licenced sources, and has been compared with non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to STEPBibleATgmail.com for checking.  
 
 # Datasets available 
-The data is available as **[downloadable tab-separated text files](https://github.com/tyndale/STEPBible-Data/)** (see notes on the data format below).
+The data is available as **[downloadable tab-separated text files](https://github.com/STEPBible/STEPBible-Data/)** (see notes on the data format below).
 The following datasets are already posted 
 
 * **[Bible modules for OSIS Sword software](http://ftp.stepbible.org/pub/sword/zip//)**
 Bibles in the same format as [Crosswire modules](https://www.crosswire.org/sword/modules/) which can be used in any Sword-compatible software.
 
-* **[TTESV - Translators Translation tags for ESV](https://github.com/tyndale/STEPBible-Data)**  
+* **[TTESV - Translators Translation tags for ESV](https://github.com/STEPBible/STEPBible-Data)**  
 Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV.   
 
-* **[TOTHT - Translators OT Hebrew Tagged text](https://github.com/tyndale/STEPBible-Data)**        
+* **[TOTHT - Translators OT Hebrew Tagged text](https://github.com/STEPBible/STEPBible-Data)**        
 The Leningrad codex based on Westminster via OpenScriptures, with full morphological and semantic tags for all words, prefixes and suffixes. Semantic tags use the extended Strongs linked to BDB by OS, is backwardly compatible with simple Strongs tags and includes all affixes (as defined in TBESH). Morphological tags are from ETCBC converted to the format of OS (similar to Westminster) with different morphology for Ketiv/Qere when needed.
 
 * **[TAGNT - Translators Amalgamated Greek NT](https://docs.google.com/spreadsheets/d/16Y1OCgWcqZndmWP3CA3YfYMPjwxIRb0UMQt-cSS8Wdw/edit#gid=0)**      
 Greek text that includes all the words in NA27/28, TR and other major editions (SBLGNT, Treg, Byz, WH, THGNT). Each word is marked with the editions that contain it, positional variants, spelling variants and meaning variants. All words and meaning variants are tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) plus context-sensitive meanings for words with more than one meaning. Spellings are based on NA28 and punctuation on THGNT, and on TR for words not in NA27/28.       
 
-* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew](https://github.com/tyndale/STEPBible-Data)**     
+* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew](https://github.com/STEPBible/STEPBible-Data)**     
 Abridged BDB linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)   
 
-* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek](https://github.com/tyndale/STEPBible-Data)**  
+* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek](https://github.com/STEPBible/STEPBible-Data)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
 
 * **[TFLSJ - Translators Formatted full LSJ Bible lexicon](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/edit)**    
@@ -53,10 +53,10 @@ Every name in the Bible, linked to all Hebrew & Greek forms of that name and sep
 * **[TVTMS - Translators Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/edit)**  
 All the versification differences in the OT traditional texts in Hebrew, Latin and Greek, and NT early versification, compared with English standard (defined by NRSV which is virtually identical to KJV). Bible translations have an almost infinite variety of versifications because they may follow (for example) Latin in several sections, Hebrew in a few and English most of the time. The Methodology provides simple rules for every section, such as "if this chapter has 29 verses, it is using Greek versification". Using this, a whole Bible can be reversified according to English or traditional Hebrew or Greek or Latin versification, or compared with Bibles using that versification.   
 
-* **[TEHMC - Translators Expansion of Hebrew Morphology Codes](https://github.com/tyndale/STEPBible-Data)**  
+* **[TEHMC - Translators Expansion of Hebrew Morphology Codes](https://github.com/STEPBible/STEPBible-Data)**  
 Hebrew morphology codes with expanded explanations in terms of parsing, meaning and example. The codes are based on OpenScripture which is similar to the Westminster code system used in BibleWorks and other commercial software. They include extra codes which occur in STEPBible data which distinguishes sequential perfectives, gentilics, gender/location for personal pronouns, and non-Jussive/Cohortative as well as Jussive/Cohortative & possibly-Jussive/Cohortative forms.
 
-* **[TEGMC - Translators Expansion of Greek Morphology Codes](https://github.com/tyndale/STEPBible-Data)**  
+* **[TEGMC - Translators Expansion of Greek Morphology Codes](https://github.com/STEPBible/STEPBible-Data)**  
 Greek morphology codes with expanded explanations in terms of parsing, meaning and example. The codes are based on Robinson, developed for the Majority text and used in most open-source texts. They include extra codes which occur in STEPBible data which distinguishes persons in possessive and reflexive pronouns, 2nd forms of verbs, and distinctions between deponant forms and ambiguous passive/middle.
 
 # Datasets coming
