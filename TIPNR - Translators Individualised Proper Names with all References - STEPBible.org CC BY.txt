@@ -19,19 +19,20 @@ Spreadsheet version at: 	https://docs.google.com/spreadsheets/d/1ye5ujH_YutNfz1y
 -
 Geographical categories are defined at:		https://tinyurl.com/TIPNR-Geography
 Ambiguous passages are discussed at:		https://tinyurl.com/TIPNR-Decisions
-Decisions are based on maximum links, minimum anonymous individuals, and maximum coherence with the Hebrew text, in that order. 						>
+ - Decisions are based on maximum links, minimum anonymous individuals, and maximum coherence with the Hebrew text, in that order. 						>
 -						
 FIELD DESCRIPTIONS:						>
 ==============						
+Alphabetical for the Unique name within the categories PERSONS, PLACES, OTHER.
 Records are separated by "$" and sub-records are on separate lines. 
 Fields are separated by tabs, which become columns if viewed in a spreadsheet. They include: 						>
+(?) indicates  a decision based on an ambiguity which is discussed at 		TinyURL.com/TIPNR-Decisions				
 -						
 Header fields for  PEOPLE: 						>
-* Unique name - made up of 
- - the most common English form of the name as used in ESV (or in KJV if the ESV doesn't translate it as a name)
- - the first instance where that person/place occurs. EG Abraham@Gen.11.26. (Note that at Gen.11.26 he is actually called Abram, but the unique name is based on the most common form.)						
- -  unique Strong number for that individual person or place, distinguished from others with the same name, and including all their names or versions of those names 						
- - (?) indicates  a decision based on an ambiguity which is discussed at 		TinyURL.com/TIPNR-Decisions				
+* Unique name = Unique EStrong number - made up of:
+ - before "@": the most common English form of the name as used in ESV (or in KJV if the ESV doesn't translate it as a name)
+ - after "@":     the first instance where that person/place occurs. EG Abraham@Gen.11.26. (Note that at Gen.11.26 he is actually called Abram, but the unique name is based on the most common form.)						
+ -  after "=":     a unique EStrong number for that individual person or place, distinguished from others with the same name, and including all their names or versions of those names. See notes below on EStrong.
 -						
 * Basic Description -  such as "Place" or "Male living at the time of the Patriarchs"						
 * Parents - the Unique names in the form of Father + Mother, e.g. "Terah@Gen.11.24 + " (because the mother is unknown)						
@@ -62,6 +63,9 @@ The fields in the Header can be regarded as the initial fields for each linked s
 The fields in Headers for individuals and places are different:						>
 For a place name, the fields in the Header line are: Unique name, Description, OpenBible name, and Geoposition at OpenBible. These fields apply to each of the following linked subRecords which each contain the additional fields: UniqueTag, Heberew/Greek form, ESV Translation (with differences in KJV or NIV) and an exhaustive list of refences where this form and translation occurs. 						>
 -
+EStrong is a unique tag for each person/place which is sometimes different from the eStrong number.
+  The eStrong numbers (in the form of H1111a) are disambiguations of Strongs to match BDB as defined by OpenScriptures. The EStrong numbers (in the form H1111A) fully disambiguate persons/places.  - see below for details. 						
+-
 -
 -						
  $========== PERSON(s)						
@@ -86,6 +90,9 @@ $========== FIELDS:
 #PERSON(s) UniqueName	Description	Father + Mother	Siblings	Partners	Offspring	Tribe/Nation through father
 #	(subRecord:) UniqueTag	Hebrew/Greek	ESV name (and KJV, NIV)	STEPBible link for Refs	Refs	
 #==========================================================================================================						
+Note: If the description starts with "People descended ", the "Father" is the progenitor of that group, and "Offspring" are decendants of that group
+
+
 						
 $========== PERSON(s)						
 Aaron@Exo.4.14=H0175A	Male living at the time of Egypt and Wilderness 	Amram@Exo.6.18 + Jochebed@Exo.6.20	Moses@Exo.2.10, Miriam@Exo.15.20	Elisheba@Exo.6.23	Nadab@Exo.6.23, Abihu@Exo.6.23, Eleazar@Exo.6.23, Ithamar@Exo.6.23	Levi Tribe
@@ -354,14 +361,10 @@ Achbor@Gen.36.38=H5907A	Male living at the time of the Patriarchs	 + 			Baal-han
 #A man living at the time of the Patriarchs; father of Baal-hanan@Gen.36.38
 	Achbor@Gen.36.38	H5907=עַכְבּוֹר	Achbor (NIV= Akbor)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Achbor*|reference=Gen.36.38;Gen.36.39;1Ch.1.49	Gen.36.38; Gen.36.39; 1Ch.1.49; 		
 $========== PERSON(s)						
-Achbor@2Ki.22.12=H5907B	Male living at the time of Divided Monarchy	Micaiah@2Ki.22.12 + 				>
-#A man living at the time of Divided Monarchy; son of Micaiah@2Ki.22.12; also called Abdon at 2Ch.34.20; 						
-	Achbor@2Ki.22.12	H5907=עַכְבּוֹר	Achbor (NIV= Akbor)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Achbor*|reference=2Ki.22.12;2Ki.22.14	2Ki.22.12; 2Ki.22.14; 		
+Achbor@2Ki.22.12=H5907B	Male living at the time of Divided Monarchy	Micaiah@2Ki.22.12 + 			Elnathan@Jer.26.22	>
+#A man living at the time of Divided Monarchy; son of Micaiah@2Ki.22.12; father of Elnathan@Jer.26.22; also called Abdon at 2Ch.34.20; 						
+	Achbor@2Ki.22.12	H5907=עַכְבּוֹר	Achbor (NIV= Akbor)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Achbor*|reference=2Ki.22.12;2Ki.22.14;Jer.26.22;Jer.36.12	2Ki.22.12; 2Ki.22.14; Jer.26.22; Jer.36.12; 		
 	Abdon|Achbor@2Ki.22.12	H5658=עַבְדּוֹן	Abdon	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Abdon*|reference=2Ch.34.20	2Ch.34.20; 		
-$========== PERSON(s)						
-Achbor@Jer.26.22=H5907C	Male living at the time of Divided Monarchy	 + 			Elnathan@Jer.26.22	>
-#A man living at the time of Divided Monarchy; father of Elnathan@Jer.26.22
-	Achbor@Jer.26.22	H5907=עַכְבּוֹר	Achbor (NIV= Akbor)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Achbor*|reference=Jer.26.22;Jer.36.12	Jer.26.22; Jer.36.12; 		
 $========== PERSON(s)						
 Achim@Mat.1.14=G0885A	Male living at the time of Exile and Return	Zadok@Mat.1.14 + 			Eliud@Mat.1.14	Judah Tribe
 #A man of the tribe of Judah living at the time of Exile and Return; son of Zadok@Mat.1.14; father of Eliud@Mat.1.14						
@@ -423,7 +426,7 @@ Adalia@Est.9.8=H0118A	Male living at the time of Exile and Return	Haman@Est.3.1 
 $========== PERSON(s)						
 Adam@Gen.2.19=H0121A	Male living at the time before the Flood 	God + 	Eve@Gen.3.20	Eve@Gen.3.20	Cain@Gen.4.1, Abel@Gen.4.2, Seth@Gen.4.25	Early Patriarch
 #A man living at the time before the Flood ; son of God; brother of Eve@Gen.3.20; married to Eve@Gen.3.20; father of Cain@Gen.4.1, Abel@Gen.4.2 and Seth@Gen.4.25; also translated "man" at Gen.2.19,21,23; 3.8,9,20; 5.2; "mankind" at Deu.32.8; "others" at Job.31.33; 						
-	Adam@Gen.2.19	H0121=אָדָם	Adam	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Adam*|reference=Gen.2.20;Gen.3.17;Gen.3.21;Gen.4.25;Gen.5.1;Gen.5.3;Gen.5.4;Gen.5.5;1Ch.1.1;Hos.6.7	Gen.2.20; Gen.3.17; Gen.3.21; Gen.4.25; Gen.5.1; Gen.5.3; Gen.5.4; Gen.5.5; 1Ch.1.1; Hos.6.7; 		
+	Adam@Gen.2.19	H0121=אָדָם	Adam	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Adam*|reference=Gen.2.20;Gen.3.17;Gen.3.21;Gen.4.25;Gen.5.1;Gen.5.3;Gen.5.4;Gen.5.5;1Ch.1.1;Job.31.33;Hos.6.7	Gen.2.20; Gen.3.17; Gen.3.21; Gen.4.25; Gen.5.1; Gen.5.3; Gen.5.4; Gen.5.5; 1Ch.1.1; Job.31.33; Hos.6.7; 		
 	Adam@Gen.2.19	H0120=אָדָם	Adam	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Adam*|reference=Gen.4.1	Gen.4.1; 		
 	man|Adam@Gen.2.19	H0120=אָדָם	"man" (KJV= Adam)	https://www.stepbible.org/?q=version=ESV|version=KJV|text="man"*|reference=Gen.2.19;Gen.2.21;Gen.2.23;Gen.3.8;Gen.3.9;Gen.3.20;Gen.5.2	Gen.2.19; Gen.2.21; Gen.2.23; Gen.3.8; Gen.3.9; Gen.3.20; Gen.5.2; 		
 	man|Adam@Gen.2.19	H0120=אָדָם	"mankind" (KJV= Adam)	https://www.stepbible.org/?q=version=ESV|version=KJV|text="mankind"*|reference=Deu.32.8	Deu.32.8; 		
@@ -1275,7 +1278,7 @@ Aran@Gen.36.28=H0765A	Male living at the time of the Patriarchs	Dishan@Gen.36.21
 #A man living at the time of the Patriarchs; son of Dishan@Gen.36.21; brother of Uz@Gen.36.28						
 	Aran@Gen.36.28	H0765=אֲרָן	Aran	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Aran*|reference=Gen.36.28;1Ch.1.42	Gen.36.28; 1Ch.1.42; 		
 $========== PERSON(s)						
-Arba@Jos.14.15=H7153A	Male living at the time of Israel before the Monarchy	 + 				Canaan
+Arba@Jos.14.15=H0704A	Male living at the time of Israel before the Monarchy	 + 				Canaan
 #A man of the Anakim, living at the time of Israel before the Monarchy.						
 	Arba@Jos.14.15	[ ]	Arba	https://www.stepbible.org/?q=reference=Jos.14.15	[Jos.14.15]
 $========== PERSON(s)						
@@ -2100,16 +2103,16 @@ Beeri@Hos.1.1=H0882B	Male living at the time of Divided Monarchy	 + 			Hosea@Hos
 #A man living at the time of Divided Monarchy; father of Hosea@Hos.1.1
 	Beeri@Hos.1.1	H0882=בְּאֵרִי	Beeri	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Beeri*|reference=Hos.1.1	Hos.1.1; 		
 $========== PERSON(s)						
-Bela@Gen.36.32=H1106A	Male living at the time of the Patriarchs	Beor@Gen.36.32 + 				>
-#A man living at the time of the Patriarchs; son of Beor@Gen.36.32						
-	Bela@Gen.36.32	H1106a=בֶּ֫לַע	Bela	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Bela*|reference=Gen.36.32;Gen.36.33;1Ch.1.43;1Ch.1.44	Gen.36.32; Gen.36.33; 1Ch.1.43; 1Ch.1.44; 		
-$========== PERSON(s)						
-Bela@Gen.46.21=H1106B	Male living at the time of Egypt and Wilderness	Benjamin@Gen.35.18 + 	Becher@Gen.46.21, Ashbel@Gen.46.21, Gera@Gen.46.21, Naaman@Gen.46.21, Ehi@Gen.46.21, Rosh@Gen.46.21, Muppim@Gen.46.21, Huppim@Gen.46.21, Ard@Gen.46.21, Ahiram@Num.26.38, Jediael@1Ch.7.6		Ard@Num.26.40, Naaman@Num.26.40, Ezbon@1Ch.7.7, Uzzi@1Ch.7.7, Uzziel@1Ch.7.7, Jerimoth@1Ch.7.7, Iri@1Ch.7.7, Addar@1Ch.8.3, Gera@1Ch.8.3, Abihud@1Ch.8.3, Abishua@1Ch.8.4, Ahohi@2Sa.23.9	Benjamin Tribe
+Bela@Gen.46.21=H1106A	Male living at the time of Egypt and Wilderness	Benjamin@Gen.35.18 + 	Becher@Gen.46.21, Ashbel@Gen.46.21, Gera@Gen.46.21, Naaman@Gen.46.21, Ehi@Gen.46.21, Rosh@Gen.46.21, Muppim@Gen.46.21, Huppim@Gen.46.21, Ard@Gen.46.21, Ahiram@Num.26.38, Jediael@1Ch.7.6		Ard@Num.26.40, Naaman@Num.26.40, Ezbon@1Ch.7.7, Uzzi@1Ch.7.7, Uzziel@1Ch.7.7, Jerimoth@1Ch.7.7, Iri@1Ch.7.7, Addar@1Ch.8.3, Gera@1Ch.8.3, Abihud@1Ch.8.3, Abishua@1Ch.8.4, Ahohi@2Sa.23.9	Benjamin Tribe
 #A man of the tribe of Benjamin living at the time of Egypt and Wilderness; son of Benjamin@Gen.35.18; brother of Becher@Gen.46.21, Ashbel@Gen.46.21, Gera@Gen.46.21, Naaman@Gen.46.21, Ehi@Gen.46.21, Rosh@Gen.46.21, Muppim@Gen.46.21, Huppim@Gen.46.21, Ard@Gen.46.21, Ahiram@Num.26.38 and Jediael@1Ch.7.6; father of Ard@Num.26.40, Naaman@Num.26.40, Ezbon@1Ch.7.7, Uzzi@1Ch.7.7, Uzziel@1Ch.7.7, Jerimoth@1Ch.7.7, Iri@1Ch.7.7, Addar@1Ch.8.3, Gera@1Ch.8.3, Abihud@1Ch.8.3, Abishua@1Ch.8.4 and Ahohi@2Sa.23.9						
 	Bela@Gen.46.21	H1106a=בֶּ֫לַע	Bela (KJV= Belah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Bela*|reference=Gen.46.21;Num.26.38;Num.26.40;1Ch.7.6;1Ch.7.7;1Ch.8.1;1Ch.8.3	Gen.46.21; Num.26.38; Num.26.40; 1Ch.7.6; 1Ch.7.7; 1Ch.8.1; 1Ch.8.3; 		
 	Bela@Gen.46.21	H1108=בַּלְעִי	Belaite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Belaite*|reference=Num.26.38	Num.26.38; 		
 $========== PERSON(s)						
-Bela@1Ch.5.8=H1106C	Male living at the time of Divided Monarchy	Azaz@1Ch.5.8 + 				Reuben Tribe
+Bela@Gen.36.32=H1106C	Male living at the time of the Patriarchs	Beor@Gen.36.32 + 				>
+#A man living at the time of the Patriarchs; son of Beor@Gen.36.32						
+	Bela@Gen.36.32	H1106a=בֶּ֫לַע	Bela	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Bela*|reference=Gen.36.32;Gen.36.33;1Ch.1.43;1Ch.1.44	Gen.36.32; Gen.36.33; 1Ch.1.43; 1Ch.1.44; 		
+$========== PERSON(s)						
+Bela@1Ch.5.8=H1106D	Male living at the time of Divided Monarchy	Azaz@1Ch.5.8 + 				Reuben Tribe
 #A manof the tribe of Reuben  living at the time of Divided Monarchy; son of Azaz@1Ch.5.8						
 	Bela@1Ch.5.8	H1106a=בֶּ֫לַע	Bela	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Bela*|reference=1Ch.5.8	1Ch.5.8; 		
 $========== PERSON(s)						
@@ -2573,7 +2576,7 @@ Canaan@Gen.9.18=H3667B	Male living at the time of the Patriarchs	Ham@Gen.5.32 + 
 	Canaan@Gen.9.18	H3667a=כְּנַ֫עַן	Canaan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Canaan*|reference=Gen.9.18;Gen.9.22;Gen.9.25;Gen.9.26;Gen.9.27;Gen.10.6;Gen.10.15;1Ch.1.8;1Ch.1.13	Gen.9.18; Gen.9.22; Gen.9.25; Gen.9.26; Gen.9.27; Gen.10.6; Gen.10.15; 1Ch.1.8; 1Ch.1.13; 		
 $========== PERSON(s)						
 Canaanite_woman@Gen.46.10=H3669A	Male living at the time of the Patriarchs 	 + 			Shaul@Gen.46.10	>
-#A man living at the time of the Patriarchs; father of Shaul@Gen.46.10
+#A woman living at the time of the Patriarchs; mother of Shaul@Gen.46.10
 	Canaanite_woman@Gen.46.10	H3669a=כְּנַעֲנִי	Canaanite woman	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Canaanite*|reference=Gen.46.10;Exo.6.15	Gen.46.10; Exo.6.15; 		
 $========== PERSON(s)						
 Caphtorim@Gen.10.14=H3732A	People from Caphtor (Crete)	Egypt@Gen.10.6 + 	Ludim@Gen.10.13, Anamim@Gen.10.13, Lehabim@Gen.10.13, Naphtuhim@Gen.10.13, Pathrusim@Gen.10.14, Casluhim@Gen.10.14			Early Patriarch
@@ -2820,7 +2823,7 @@ David@Rut.4.17=H1732A	Male living at the time of United Monarchy	Jesse@Rut.4.17 
 	David@Rut.4.17	H1732=דָּוִד	[ ] (KJV, NIV= David)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=[*|reference=2Sa.13.39	2Sa.13.39; 		
 	David@Rut.4.17	G1138=Δαυείδ, Δαυίδ, Δαβίδ	David	https://www.stepbible.org/?q=version=ESV|version=KJV|text=David*|reference=Mat.1.1;Mat.1.6;Mat.1.6;Mat.1.17;Mat.1.17;Mat.1.20;Mat.9.27;Mat.12.3;Mat.12.23;Mat.15.22;Mat.20.30;Mat.20.31;Mat.21.9;Mat.21.15;Mat.22.42;Mat.22.43;Mat.22.45;Mar.2.25;Mar.10.47;Mar.10.48;Mar.11.10;Mar.12.35;Mar.12.36;Mar.12.37;Luk.1.27;Luk.1.32;Luk.1.69;Luk.2.4;Luk.2.4;Luk.2.11;Luk.3.31;Luk.6.3;Luk.18.38;Luk.18.39;Luk.20.41;Luk.20.42;Luk.20.44;Joh.7.42;Joh.7.42;Act.1.16	Mat.1.1; Mat.1.6a; Mat.1.6b; Mat.1.17a; Mat.1.17b; Mat.1.20; Mat.9.27; Mat.12.3; Mat.12.23; Mat.15.22; Mat.20.30; Mat.20.31; Mat.21.9; Mat.21.15; Mat.22.42; Mat.22.43; Mat.22.45; Mrk.2.25; Mrk.10.47; Mrk.10.48; Mrk.11.10; Mrk.12.35; Mrk.12.36; Mrk.12.37; Luk.1.27; Luk.1.32; Luk.1.69; Luk.2.4a; Luk.2.4b; Luk.2.11; Luk.3.31; Luk.6.3; Luk.18.38; Luk.18.39; Luk.20.41; Luk.20.42; Luk.20.44; Jhn.7.42a; Jhn.7.42b; Act.1.16; Act.2.25; Act.2.29; Act.2.34; Act.4.25; Act.7.45; Act.13.22a; Act.13.22b; Act.13.34; Act.13.36; Act.15.16; Rom.1.3; Rom.4.6; Rom.11.9; 2Ti.2.8; Heb.4.7; Heb.11.32; Rev.3.7; Rev.5.5; Rev.22.16; 		
 $========== PERSON(s)						
-Debir@Jos.10.3=H1688B	Male living at the time of Israel before the Monarchy	 + 				>
+Debir@Jos.10.3=H1688D	Male living at the time of Israel before the Monarchy	 + 				>
 #A man living at the time of Israel before the Monarchy						
 	Debir@Jos.10.3	H1688a=דְּבִיר	Debir	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Debir*|reference=Jos.10.3	Jos.10.3; 		
 $========== PERSON(s)						
@@ -3622,8 +3625,8 @@ Elnathan@Ezr.8.16c=H0494D	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Elnathan@Ezr.8.16c	H0494=אֶלְנָתָן	Elnathan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Elnathan*|reference=Ezr.8.16	Ezr.8.16c; 		
 $========== PERSON(s)						
-Elnathan@Jer.26.22=H0494E	Male living at the time of Divided Monarchy	Achbor@Jer.26.22 + 				>
-#A man living at the time of Divided Monarchy; son of Achbor@Jer.26.22						
+Elnathan@Jer.26.22=H0494E	Male living at the time of Divided Monarchy	Achbor@2Ki.22.12 + 				>
+#A man living at the time of Divided Monarchy; son of Achbor@2Ki.22.12						
 	Elnathan@Jer.26.22	H0494=אֶלְנָתָן	Elnathan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Elnathan*|reference=Jer.26.22;Jer.36.12;Jer.36.25	Jer.26.22; Jer.36.12; Jer.36.25; 		
 $========== PERSON(s)						
 Elon@Gen.26.34=H0356A	Male living at the time of the Patriarchs	 + 			Adah@Gen.26.34	>
@@ -3872,21 +3875,21 @@ Ezer@1Ch.4.4=H5829A	Male living at the time of Egypt and Wilderness	Hur@Exo.17.1
 #A man of the tribe of Judah living at the time of Egypt and Wilderness; son of Hur@Exo.17.10; brother of Uri@Exo.31.2, Shobal@1Ch.2.50, Salma@1Ch.2.51, Hareph@1Ch.2.51, Jezreel@1Ch.4.3, Ishma@1Ch.4.3, Idbash@1Ch.4.3, Hazzelelponi@1Ch.4.3 and Penuel@1Ch.4.4; father of Hushah@1Ch.4.4						
 	Ezer@1Ch.4.4	H5829=עֵ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=1Ch.4.4	1Ch.4.4; 		
 $========== PERSON(s)						
-Ezer@1Ch.7.21=H5829B	Male living at the time of Egypt and Wilderness	Ephraim@Gen.41.52 + 	Shuthelah@Num.26.35, Becher@Num.26.35, Tahan@Num.26.35, Elead@1Ch.7.21, Beriah@1Ch.7.23			Ephraim Tribe
+Ezer@1Ch.7.21=HH5827A	Male living at the time of Egypt and Wilderness	Ephraim@Gen.41.52 + 	Shuthelah@Num.26.35, Becher@Num.26.35, Tahan@Num.26.35, Elead@1Ch.7.21, Beriah@1Ch.7.23			Ephraim Tribe
 #A man of the tribe of Ephraim living at the time of Egypt and Wilderness; son of Ephraim@Gen.41.52; brother of Shuthelah@Num.26.35, Becher@Num.26.35, Tahan@Num.26.35, Elead@1Ch.7.21 and Beriah@1Ch.7.23						
-	Ezer@1Ch.7.21	H5829=עֵ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=1Ch.7.21	1Ch.7.21; 		
+	Ezer@1Ch.7.21	H5827=עֶ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=1Ch.7.21	1Ch.7.21; 		
 $========== PERSON(s)						
-Ezer@1Ch.12.9=H5829C	Male living at the time of Divided Monarchy	 + 				>
+Ezer@1Ch.12.9=H5829B	Male living at the time of Divided Monarchy	 + 				>
 #A man living at the time of Divided Monarchy						
 	Ezer@1Ch.12.9	H5829=עֵ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=1Ch.12.9	1Ch.12.9; 		
 $========== PERSON(s)						
-Ezer@Neh.3.19=H5829D	Male living at the time of Exile and Return	Jeshua@Neh.3.19 + 				>
+Ezer@Neh.3.19=H5829C	Male living at the time of Exile and Return	Jeshua@Neh.3.19 + 				>
 #A man living at the time of Exile and Return; son of Jeshua@Neh.3.19						
 	Ezer@Neh.3.19	H5829=עֵ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=Neh.3.19	Neh.3.19; 		
 $========== PERSON(s)						
-Ezer@Neh.12.42=H5829E	Male living at the time of Exile and Return	 + 				>
+Ezer@Neh.12.42=H5827B	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
-	Ezer@Neh.12.42	H5829=עֵ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=Neh.12.42	Neh.12.42; 		
+	Ezer@Neh.12.42	H5827=עֶ֫זֶר	Ezer	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ezer*|reference=Neh.12.42	Neh.12.42; 		
 $========== PERSON(s)						
 Eznite@2Sa.23.8=H6112A	People descended from Ezni(?)	 + 				>
 #People descended from Ezni(?); also translated "spear"; 						
@@ -4173,7 +4176,7 @@ Gilalai@Neh.12.36=H1562A	Male living at the time of Exile and Return	Jonathan@Ne
 $========== PERSON(s)						
 Gilead@Num.26.29=H1568B	Male living at the time of Egypt and Wilderness 	Machir@Gen.50.23 + 	daughter_of_Machir@1Ch.2.21, Peresh@1Ch.7.16, Sheresh@1Ch.7.16, Hammolecheth@1Ch.7.18		Abiezer@Num.26.30, Helek@Num.26.30, Asriel@Num.26.31, Shechem@Num.26.31, Shemida@Num.26.32, Hepher@Num.26.32	Manasseh Tribe
 #A man of the tribe of Manasseh living at the time of Egypt and Wilderness ; son of Machir@Gen.50.23; brother of daughter_of_Machir@1Ch.2.21, Peresh@1Ch.7.16, Sheresh@1Ch.7.16 and Hammolecheth@1Ch.7.18; father of Abiezer@Num.26.30, Helek@Num.26.30, Asriel@Num.26.31, Shechem@Num.26.31, Shemida@Num.26.32 and Hepher@Num.26.32						
-	Gilead@Num.26.29	H1568=גִּלְעָד	Gilead	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gilead*|reference=Num.26.29;Num.26.29;Num.26.30;Num.27.1;Jos.17.1;Jos.17.1;Jos.17.3;1Ch.2.21;1Ch.2.22;1Ch.2.23;1Ch.7.14;1Ch.7.17	Num.26.29a; Num.26.29b; Num.26.30; Num.27.1; Jos.17.1a; Jos.17.1b; Jos.17.3; 1Ch.2.21; 1Ch.2.22; 1Ch.2.23; 1Ch.7.14; 1Ch.7.17; 		
+	Gilead@Num.26.29	H1568=גִּלְעָד	Gilead	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gilead*|reference=Num.26.29;Num.26.29;Num.26.30;Num.27.1;Jos.17.1;Jos.17.3;1Ch.2.21;1Ch.2.23;1Ch.7.14;1Ch.7.17	Num.26.29a; Num.26.29b; Num.26.30; Num.27.1; Jos.17.1a; Jos.17.3; 1Ch.2.21; 1Ch.2.23; 1Ch.7.14; 1Ch.7.17; 		
 $========== PERSON(s)						
 Gilead@Jdg.11.1=H1568C	Male living at the time of Israel before the Monarchy	 + 			Jephthah@Jdg.11.1	>
 #A man living at the time of Israel before the Monarchy; father of Jephthah@Jdg.11.1
@@ -4741,17 +4744,11 @@ Hashum@Neh.10.18=H2828C	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Hashum@Neh.10.18	H2828=חָשֻׁם	Hashum	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hashum*|reference=Neh.10.18	Neh.10.18; 		
 $========== PERSON(s)						
-Hassenaah@Neh.3.3=H5570B	Male living at the time of Exile and Return	 + 				>
-#A man living at the time of Exile and Return						
-	Hassenaah@Neh.3.3	H5570=סְנָאָה	Hassenaah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hassenaah*|reference=Neh.3.3	Neh.3.3; 		
-$========== PERSON(s)						
-Hassenuah@1Ch.9.7=H5574A	Male living at the time of Exile and Return	 + 			Hodaviah@1Ch.9.7	>
-#A man living at the time of Exile and Return; father of Hodaviah@1Ch.9.7
+Hassenuah@1Ch.9.7=H5574A	Descendent from Senaah@Ezr.2.35 before the time of Exile and Return	Senaah@Ezr.2.35(?) + 			Hodaviah@1Ch.9.7, Judah@Neh.11.9	Benjamin Tribe
+#People descended from Senaah@Ezr.2.35 of the tribe of Levi before time of Exile and Return; including Hodaviah@1Ch.9.7 and Judah@Neh.11.9; also called Hassenaah at Neh.3.3
 	Hassenuah@1Ch.9.7	H5574=סְנוּאָה	Hassenuah (KJV= Hasenuah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hassenuah*|reference=1Ch.9.7	1Ch.9.7; 		
-$========== PERSON(s)						
-Hassenuah@Neh.11.9=H5574B	Male living at the time of Exile and Return	 + 			Judah@Neh.11.9	>
-#A man living at the time of Exile and Return; father of Judah@Neh.11.9
-	Hassenuah@Neh.11.9	H5574=סְנוּאָה	Hassenuah (KJV= Senuah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hassenuah*|reference=Neh.11.9	Neh.11.9; 		
+	Hassenaah|Hassenuah@1Ch.9.7	H5570=סְנָאָה	Hassenaah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hassenaah*|reference=Neh.3.3	Neh.3.3; 		
+	Hassenuah|Hassenuah@1Ch.9.7	H5574=סְנוּאָה	Hassenuah (KJV= of Senuah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hassenuah*|reference=Neh.11.9	Neh.11.9; 		
 $========== PERSON(s)						
 Hasshub@1Ch.9.14=H2815A	Male living at the time of Exile and Return	Azrikam@1Ch.9.14 + 			Shemaiah@1Ch.9.14	Levi Tribe
 #A manof the tribe of Levi  living at the time of Exile and Return; son of Azrikam@1Ch.9.14; father of Shemaiah@1Ch.9.14
@@ -5162,21 +5159,21 @@ Hodesh@1Ch.8.9=H2321A	Female living at the time of Divided Monarchy	 + 		Shahara
 #A womanof the tribe of Benjamin  living at the time of Divided Monarchy; married to Shaharaim@1Ch.8.8; mother of Jobab@1Ch.8.9, Zibia@1Ch.8.9, Mesha@1Ch.8.9, Malcam@1Ch.8.9, Jeuz@1Ch.8.10, Sachia@1Ch.8.10 and Mirmah@1Ch.8.10						
 	Hodesh@1Ch.8.9	H2321=חֹ֫דֶשׁ	Hodesh	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hodesh*|reference=1Ch.8.9	1Ch.8.9; 		
 $========== PERSON(s)						
-Hodiah@1Ch.4.19=H1941A	Female(?) living at the time of Divided Monarchy	father_of_Hodiah@1Ch.4.19 + 	Naham@1Ch.4.19	Ishbah@1Ch.4.17(?)	son_of_Hodiah@1Ch.4.19	Judah Tribe(?)
+Hodiah@1Ch.4.19=H1940A	Female(?) living at the time of Divided Monarchy	father_of_Hodiah@1Ch.4.19 + 	Naham@1Ch.4.19	Ishbah@1Ch.4.17(?)	son_of_Hodiah@1Ch.4.19	Judah Tribe(?)
 #A woman(?) of the tribe of Judah(?) living at the time of Divided Monarchy; whose bother was Naham@1Ch.4.19; married to Ishbah@1Ch.4.17(?)						
-	Hodiah@1Ch.4.19	H1941=הוֹדִיָּה	Hodiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hodiah*|reference=1Ch.4.19	1Ch.4.19; 		
+	Hodiah@1Ch.4.19	H1940=הוֹדִיָּה	Hodiah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hodiah*|reference=1Ch.4.19	1Ch.4.19; 		
 $========== PERSON(s)						
-Hodiah@Neh.8.7=H1941B	Male living at the time of Exile and Return	 + 				>
+Hodiah@Neh.8.7=H1941A	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return; also called Judah (NIV: Hodaviah) at Ezr.3.9; Neh.12.8; 						
 	Hodiah@Neh.8.7	H1941=הוֹדִיָּה	Hodiah (KJV= Hodijah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hodiah*|reference=Neh.8.7;Neh.9.5;Neh.10.10	Neh.8.7; Neh.9.5; Neh.10.10; 		
 	Judah|Hodiah@Neh.8.7	H3063=יְהוּדָה	Judah (NIV= Hodaviah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Judah*|reference=Ezr.3.9	Ezr.3.9; 		
 	Judah|Hodiah@Neh.8.7	H3063=יְהוּדָה	Judah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Judah*|reference=Neh.12.8	Neh.12.8; 		
 $========== PERSON(s)						
-Hodiah@Neh.10.13=H1941C	Male living at the time of Exile and Return	 + 				>
+Hodiah@Neh.10.13=H1941B	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Hodiah@Neh.10.13	H1941=הוֹדִיָּה	Hodiah (KJV= Hodijah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hodiah*|reference=Neh.10.13	Neh.10.13; 		
 $========== PERSON(s)						
-Hodiah@Neh.10.18=H1941D	Male living at the time of Exile and Return	 + 				>
+Hodiah@Neh.10.18=H1941C	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Hodiah@Neh.10.18	H1941=הוֹדִיָּה	Hodiah (KJV= Hodijah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hodiah*|reference=Neh.10.18	Neh.10.18; 		
 $========== PERSON(s)						
@@ -6402,7 +6399,7 @@ $========== PERSON(s)
 Jehozadak@1Ch.6.14=H3087A	Male living at the time of Exile and Return	Seraiah@2Ki.25.18 + 	Ezra@Ezr.7.1		Joshua@Ezr.2.2	Levi Tribe
 #A man of the tribe of Levi living at the time of Exile and Return; son of Seraiah@2Ki.25.18; brother of Ezra@Ezr.7.1; father of Joshua@Ezr.2.2; also called Jozadak at Ezr.3.2,8; 5.2; Neh.12.26; 						
 	Jehozadak@1Ch.6.14	H3087=יְהוֹצָדָק	Jehozadak (KJV= Josedech; NIV= Jozadak)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jehozadak*|reference=1Ch.6.14;1Ch.6.15;Hag.1.1;Hag.1.12;Hag.1.14;Hag.2.2;Hag.2.4;Zec.6.11	1Ch.6.14; 1Ch.6.15; Hag.1.1; Hag.1.12; Hag.1.14; Hag.2.2; Hag.2.4; Zec.6.11; 		
-	Jozadak|Jehozadak@1Ch.6.14	H3136a=יוֹצָדָק	Jozadak	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jozadak*|reference=Ezr.3.2;Ezr.3.8;Neh.12.26	Ezr.3.2; Ezr.3.8; Neh.12.26; 		
+	Jozadak|Jehozadak@1Ch.6.14	H3136B«H3136a =יוֹצָדָק	Jozadak	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jozadak*|reference=Ezr.3.2;Ezr.3.8;Neh.12.26	Ezr.3.2; Ezr.3.8; Neh.12.26; 		
 	Jozadak|Jehozadak@1Ch.6.14	H3136b=יוֹצָדָק	Jozadak	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jozadak*|reference=Ezr.5.2	Ezr.5.2; 		
 $========== PERSON(s)						
 Jehu@1Ki.16.1=H3058A	Male living at the time of Divided Monarchy	Hanani@1Ki.16.1 + 				>
@@ -7472,10 +7469,11 @@ Jozabad@Neh.11.16=H3107K	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Jozabad@Neh.11.16	H3107=יוֹזָבָד	Jozabad	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jozabad*|reference=Neh.11.16	Neh.11.16; 		
 $========== PERSON(s)						
-Jozacar@2Ki.12.21=H3107A	Male living at the time of Divided Monarchy	Shimeath@2Ki.12.21 + 				Ammon
-#A man of the Ammonites living at the time of Divided Monarchy; son of Shimeath@2Ki.12.21; also called Zabad at 2Ch.24.26; 						
-	Jozacar@2Ki.12.21	H3107=יוֹזָבָד	Jozacar (KJV= Jozachar; NIV= Jozabad)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jozacar*|reference=2Ki.12.21	2Ki.12.21; 		
-	Zabad|Jozacar@2Ki.12.21	H2066=זָבָד	Zabad	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zabad*|reference=2Ch.24.26	2Ch.24.26; 		
+Jozacar@2Ki.12.22=H3107A	Male living at the time of Divided Monarchy	Shimeath@2Ki.12.22 + 				Ammon
+#A man of the Ammonites living at the time of Divided Monarchy; son of Shimeath@2Ki.12.22; also called Zabad at 2Ch.24.26; 						
+	Jozacar@2Ki.12.22	H3108=יוֹזָכָר	Jozacar (KJV= Jozachar, in many MSS; NIV= Jozabad)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jozacar*|reference=2Ki.12.22	2Ki.12.22; 		
+	Jozabad|Jozacar@2Ki.12.22	H3107=יוֹזָבָד	Jozacar (KJV= Jozachar; NIV= Jozabad)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jozacar*|reference=2Ki.12.22	2Ki.12.22; 		
+	Zabad|Jozacar@2Ki.12.22	H2066=זָבָד	Zabad	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zabad*|reference=2Ch.24.26	2Ch.24.26; 		
 $========== PERSON(s)						
 Jozadak@Ezr.10.18=H3136A	Male living at the time of Exile and Return	 + 			Jeshua@1Ch.24.11	>
 #A man living at the time of Exile and Return; father of Jeshua@1Ch.24.11
@@ -7505,8 +7503,8 @@ Judah@Ezr.10.23=H3063B	Male living at the time of Exile and Return	 + 				>
 #A man living at the time of Exile and Return						
 	Judah@Ezr.10.23	H3063=יְהוּדָה	Judah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Judah*|reference=Ezr.10.23	Ezr.10.23; 		
 $========== PERSON(s)						
-Judah@Neh.11.9=H3063C	Male living at the time of Exile and Return	Hassenuah@Neh.11.9 + 				>
-#A man living at the time of Exile and Return; son of Hassenuah@Neh.11.9						
+Judah@Neh.11.9=H3063C	Male living at the time of Exile and Return	Hassenuah@1Ch.9.7 + 				>
+#A man living at the time of Exile and Return; son of Hassenuah@1Ch.9.7						
 	Judah@Neh.11.9	H3063=יְהוּדָה	Judah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Judah*|reference=Neh.11.9	Neh.11.9; 		
 $========== PERSON(s)						
 Judah@Neh.12.8=H3063D	Male living at the time of Exile and Return	 + 				>
@@ -7716,7 +7714,7 @@ $========== PERSON(s)
 Korah@Exo.6.21=H7141C	Male living at the time of Egypt and Wilderness	Izhar@Exo.6.18 + 	Nepheg@Exo.6.21, Zichri@Exo.6.21, Shelomith@1Ch.23.18		Assir@Exo.6.24, Elkanah@Exo.6.24, Ebiasaph@Exo.6.24	Levi Tribe
 #A man of the tribe of Levi living at the time of Egypt and Wilderness; son of Izhar@Exo.6.18; brother of Nepheg@Exo.6.21, Zichri@Exo.6.21 and Shelomith@1Ch.23.18; father of Assir@Exo.6.24, Elkanah@Exo.6.24 and Ebiasaph@Exo.6.24						
 	Korah@Exo.6.21	H7141=קֹ֫רַח	Korah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Korah*|reference=Exo.6.21;Exo.6.24;Num.16.1;Num.16.5;Num.16.6;Num.16.8;Num.16.16;Num.16.19;Num.16.24;Num.16.27;Num.16.32;Num.16.40;Num.16.49;Num.26.9;Num.26.10;Num.26.11;Num.27.3;1Ch.6.22;1Ch.6.37;1Ch.9.19;Psa.42.1;Psa.44.1;Psa.45.1;Psa.46.1;Psa.47.1;Psa.48.1;Psa.49.1;Psa.84.1;Psa.85.1;Psa.87.1;Psa.88.1	Exo.6.21; Exo.6.24; Num.16.1; Num.16.5; Num.16.6; Num.16.8; Num.16.16; Num.16.19; Num.16.24; Num.16.27; Num.16.32; Num.16.40; Num.16.49; Num.26.9; Num.26.10; Num.26.11; Num.27.3; 1Ch.6.22; 1Ch.6.37; 1Ch.9.19; Psa.42.1; Psa.44.1; Psa.45.1; Psa.46.1; Psa.47.1; Psa.48.1; Psa.49.1; Psa.84.1; Psa.85.1; Psa.87.1; Psa.88.1; 		
-	Korah@Exo.6.21	H7145=קׇרְחִי	Korahite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Korahite*|reference=Exo.6.24;Num.26.58;1Ch.9.19;1Ch.9.31;1Ch.12.6;1Ch.26.1	Exo.6.24; Num.26.58; 1Ch.9.19; 1Ch.9.31; 1Ch.12.6; 1Ch.26.1; 		
+	Korah@Exo.6.21	H7145=קׇרְחִי	Korahite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Korahite*|reference=Exo.6.24;Num.26.58;1Ch.9.19;1Ch.9.31;1Ch.12.6;1Ch.26.1;1Ch.26.19;2Ch.20.19	Exo.6.24; Num.26.58; 1Ch.9.19; 1Ch.9.31; 1Ch.12.6; 1Ch.26.1; 1Ch.26.19; 2Ch.20.19; 		
 	Korah@Exo.6.21	G2879=Κορέ	Korah (KJV= Core)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Korah*|reference=Jud.1.11	Jud.1.11; 		
 $========== PERSON(s)						
 Korah@1Ch.2.43=H7141D	Male living at the time of Divided Monarchy	Hebron@1Ch.2.42 + 	Tappuah@1Ch.2.43, Rekem@1Ch.2.43, Shema@1Ch.2.43			Judah Tribe
@@ -7726,7 +7724,6 @@ $========== PERSON(s)
 Kore@1Ch.9.19=H6981A	Male living at the time of Egypt and Wilderness	Ebiasaph@Exo.6.24 + 	Assir@1Ch.6.23			Levi Tribe
 #A man of the tribe of Levi living at the time of Egypt and Wilderness; son of Ebiasaph@Exo.6.24; brother of Assir@1Ch.6.23; also called Korahite at 1Ch.26.19; 2Ch.20.19; 						
 	Kore@1Ch.9.19	H6981=קוֹרֵא	Kore	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Kore*|reference=1Ch.9.19;1Ch.26.1	1Ch.9.19; 1Ch.26.1; 		
-	Kore@1Ch.9.19	H7145=קׇרְחִי	Korahite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Korahite*|reference=1Ch.26.19;2Ch.20.19	1Ch.26.19; 2Ch.20.19; 		
 $========== PERSON(s)						
 Kore@2Ch.31.14=H6981B	Male living at the time of Divided Monarchy	Imnah@2Ch.31.14 + 				>
 #A man living at the time of Divided Monarchy; son of Imnah@2Ch.31.14						
@@ -7801,7 +7798,7 @@ Lecah@1Ch.4.21=H3922A	Male living at the time of Divided Monarchy	Er@1Ch.4.21 + 
 	Lecah@1Ch.4.21	H3922=לֵכָה	Lecah (NIV= Lekah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Lecah*|reference=1Ch.4.21	1Ch.4.21; 		
 $========== PERSON(s)						
 Lehabim@Gen.10.13=H3853A	People descended from Lehab	Egypt@Gen.10.6 + 	Ludim@Gen.10.13, Anamim@Gen.10.13, Naphtuhim@Gen.10.13, Pathrusim@Gen.10.14, Casluhim@Gen.10.14, Caphtorim@Gen.10.14			Early Patriarch
-#People descended from Lehab of the Egyptians; descended from Egypt@Gen.10.6; along with Ludim@Gen.10.13, Anamim@Gen.10.13, Naphtuhim@Gen.10.13, Pathrusim@Gen.10.14, Casluhim@Gen.10.14 and Caphtorim@Gen.10.14						
+#People descended from Egypt@Gen.10.6; along with Ludim@Gen.10.13, Anamim@Gen.10.13, Naphtuhim@Gen.10.13, Pathrusim@Gen.10.14, Casluhim@Gen.10.14 and Caphtorim@Gen.10.14						
 	Lehabim@Gen.10.13	H3853=לְהָבִים	Lehabim	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Lehabim*|reference=Gen.10.13;1Ch.1.11	Gen.10.13; 1Ch.1.11; 		
 $========== PERSON(s)						
 Lemuel@Pro.31.1=H3927A	Male living at the time of United Monarchy	 + 				>
@@ -7884,7 +7881,7 @@ Lud@Gen.10.22=H3865A	Male living at the time of the Patriarchs	Shem@Gen.5.32 + 	
 	Lud@Gen.10.22	H3866=לוּדִי	Lud (KJV= Lydian; NIV= Lydia)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Lud*|reference=Jer.46.9	Jer.46.9; 		
 $========== PERSON(s)						
 Ludim@Gen.10.13=H3866A	People descended from Egypt	Egypt@Gen.10.6 + 	Anamim@Gen.10.13, Lehabim@Gen.10.13, Naphtuhim@Gen.10.13, Pathrusim@Gen.10.14, Casluhim@Gen.10.14, Caphtorim@Gen.10.14			Early Patriarch
-#People descended from the Egyptians; descended from Egypt@Gen.10.6; along with Anamim@Gen.10.13, Lehabim@Gen.10.13, Naphtuhim@Gen.10.13, Pathrusim@Gen.10.14, Casluhim@Gen.10.14 and Caphtorim@Gen.10.14						
+#People descended from Egypt@Gen.10.6; along with Anamim@Gen.10.13, Lehabim@Gen.10.13, Naphtuhim@Gen.10.13, Pathrusim@Gen.10.14, Casluhim@Gen.10.14 and Caphtorim@Gen.10.14						
 	Ludim@Gen.10.13	H3866=לוּדִי	Ludim (=Qere. Ketiv= Ludiim)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ludim*|reference=Gen.10.13;1Ch.1.11	Gen.10.13; 1Ch.1.11; 		
 $========== PERSON(s)						
 Luke@2Co.13.14=G3065A	Male living at the time of the New Testament 	 + 				>
@@ -10981,7 +10978,7 @@ Shaphan@2Ki.22.3=H8227B	Male living at the time of Divided Monarchy	Azaliah@2Ki.
 #A man living at the time of Divided Monarchy; son of Azaliah@2Ki.22.3; father of Ahikam@2Ki.22.12, Elasah@Jer.29.3, Gemariah@Jer.36.10
 	Shaphan@2Ki.22.3	H8227b=שָׁפָן	Shaphan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shaphan*|reference=2Ki.22.3;2Ki.22.8;2Ki.22.8;2Ki.22.9;2Ki.22.10;2Ki.22.10;2Ki.22.12;2Ki.22.12;2Ki.22.14;2Ki.25.22;2Ch.34.8;2Ch.34.15;2Ch.34.15;2Ch.34.16;2Ch.34.18;2Ch.34.18;2Ch.34.20;2Ch.34.20;Jer.26.24;Jer.29.3;Jer.36.10;Jer.36.11;Jer.36.12;Jer.39.14;Jer.40.5;Jer.40.9;Jer.40.11;Jer.41.2;Jer.43.6	2Ki.22.3; 2Ki.22.8a; 2Ki.22.8b; 2Ki.22.9; 2Ki.22.10a; 2Ki.22.10b; 2Ki.22.12a; 2Ki.22.12b; 2Ki.22.14; 2Ki.25.22; 2Ch.34.8; 2Ch.34.15a; 2Ch.34.15b; 2Ch.34.16; 2Ch.34.18a; 2Ch.34.18b; 2Ch.34.20a; 2Ch.34.20b; Jer.26.24; Jer.29.3; Jer.36.10; Jer.36.11; Jer.36.12; Jer.39.14; Jer.40.5; Jer.40.9; Jer.40.11; Jer.41.2; Jer.43.6; 		
 $========== PERSON(s)						
-Shaphan@Ezk.8.11=H8227B	Male living at the time of Exile and Return	 + 			Jaazaniah@Ezk.8.11	>
+Shaphan@Ezk.8.11=H8227A	Male living at the time of Exile and Return	 + 			Jaazaniah@Ezk.8.11	>
 #A man living at the time of Exile and Return; father of Jaazaniah@Ezk.8.11
 	Shaphan@Ezk.8.11	H8227b=שָׁפָן	Shaphan	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shaphan*|reference=Eze.8.11	Ezk.8.11; 		
 $========== PERSON(s)						
@@ -11088,7 +11085,7 @@ Sheba@2Sa.20.1=H7652A	Male living at the time of United Monarchy	Bichri@2Sa.20.1
 #A man living at the time of United Monarchy; son of Bichri@2Sa.20.1						
 	Sheba@2Sa.20.1	H7652a=שֶׁ֫בַע	Sheba	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Sheba*|reference=2Sa.20.1;2Sa.20.2;2Sa.20.6;2Sa.20.7;2Sa.20.10;2Sa.20.13;2Sa.20.21;2Sa.20.22	2Sa.20.1; 2Sa.20.2; 2Sa.20.6; 2Sa.20.7; 2Sa.20.10; 2Sa.20.13; 2Sa.20.21; 2Sa.20.22; 		
 $========== PERSON(s)						
-Sheba@1Ch.5.13=H7652B	Male living at the time of Divided Monarchy	Abihail@1Ch.5.14 + 	Michael@1Ch.5.13, Meshullam@1Ch.5.13, Jorai@1Ch.5.13, Jacan@1Ch.5.13, Zia@1Ch.5.13, Eber@1Ch.5.13			Gad Tribe
+Sheba@1Ch.5.13=H7652C	Male living at the time of Divided Monarchy	Abihail@1Ch.5.14 + 	Michael@1Ch.5.13, Meshullam@1Ch.5.13, Jorai@1Ch.5.13, Jacan@1Ch.5.13, Zia@1Ch.5.13, Eber@1Ch.5.13			Gad Tribe
 #A manof the tribe of Gad  living at the time of Divided Monarchy; son of Abihail@1Ch.5.14; brother of Michael@1Ch.5.13, Meshullam@1Ch.5.13, Jorai@1Ch.5.13, Jacan@1Ch.5.13, Zia@1Ch.5.13 and Eber@1Ch.5.13						
 	Sheba@1Ch.5.13	H7652a=שֶׁ֫בַע	Sheba	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Sheba*|reference=1Ch.5.13	1Ch.5.13; 		
 $========== PERSON(s)						
@@ -11544,8 +11541,8 @@ Shiloh@Gen.49.10=H7886A	Male living at the time of the Patriarchs	 + 				>
 #A man living at the time of the Patriarchs; also translated "tribute"						
 	tribute|Shiloh@Gen.49.10	H7886=שִׁילֹה	"tribute" (KJV= Shiloh)	https://www.stepbible.org/?q=version=ESV|version=KJV|text="tribute"*|reference=Gen.49.10	Gen.49.10; 		
 $========== PERSON(s)						
-Shiloni@Neh.11.5=H8023A	People living at Shiloh or descended from Shelah(?)	 + 			Zechariah@Neh.11.5	>
-#People living at Shiloh or descended from Shelah(?); progenitors of Zechariah@Neh.11.5						
+Shiloni@Neh.11.5=H8023A	People descended from Shelah@Gen.38.5(?)	 + 			Zechariah@Neh.11.5	Judah Tribe(?)
+#People living at Shiloh or descended from Shelah@Gen.38.5(?); progenitors of Zechariah@Neh.11.5						
 	Shiloni@Neh.11.5	H8023=שִׁלֹנִי	Shilonite (KJV= Shiloni; NIV= of Shelah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shilonite*|reference=Neh.11.5	Neh.11.5; 		
 $========== PERSON(s)						
 Shilshah@1Ch.7.37=H8030A	Male living at the time of Divided Monarchy	Zophah@1Ch.7.35 + 	Suah@1Ch.7.36, Harnepher@1Ch.7.36, Shual@1Ch.7.36, Beri@1Ch.7.36, Imrah@1Ch.7.36, Bezer@1Ch.7.37, Hod@1Ch.7.37, Shamma@1Ch.7.37, Ithran@1Ch.7.37, Beera@1Ch.7.37			Asher Tribe
@@ -12622,7 +12619,7 @@ Zacchaeus@Luk.19.2=G2195A	Male living at the time of the New Testament 	 + 				>
 $========== PERSON(s)						
 Zaccur@Num.13.4=H2139A	Male living at the time of Egypt and Wilderness	 + 			Shammua@Num.13.4	>
 #A man living at the time of Egypt and Wilderness; father of Shammua@Num.13.4
-	Zaccur@Num.13.4	H2139=זַכּוּר	Zaccur (NIV= Zakkur)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zaccur*|reference=Num.13.4	Num.13.4; 		
+	Zaccur@Num.13.4	H2139=זַכּוּר	Zaccur (KJV= Zabbud, NIV= Zakkur)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zaccur*|reference=Num.13.4	Num.13.4; 		
 $========== PERSON(s)						
 Zaccur@1Ch.4.26=H2139B	Male living at the time of Divided Monarchy	Hammuel@1Ch.4.26 + 			Shimei@1Ch.4.26	Simeon Tribe
 #A man of the tribe of Simeon living at the time of Divided Monarchy; son of Hammuel@1Ch.4.26; father of Shimei@1Ch.4.26						
@@ -12783,7 +12780,7 @@ Zechariah@1Ch.9.21=H2148A	Male living at the time of Exile and Return	Meshelemia
 #A manof the tribe of Levi  living at the time of Exile and Return; son of Meshelemiah@1Ch.9.21; brother of Jediael@1Ch.26.2, Zebadiah@1Ch.26.2, Jathniel@1Ch.26.2, Elam@1Ch.26.3, Jehohanan@1Ch.26.3 and Eliehoenai@1Ch.26.3						
 	Zechariah@1Ch.9.21	H2148a=זְכַרְיָהוּ	Zechariah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zechariah*|reference=1Ch.9.21;1Ch.15.18;1Ch.15.20;1Ch.15.24;1Ch.16.5;1Ch.26.2;1Ch.26.14	1Ch.9.21; 1Ch.15.18; 1Ch.15.20; 1Ch.15.24; 1Ch.16.5; 1Ch.26.2; 1Ch.26.14; 		
 $========== PERSON(s)						
-Zechariah@2Ki.14.29=H2148B	Male living at the time of Divided Monarchy	Jeroboam@2Ki.13.13 + 				Israel
+Zechariah@2Ki.14.29=H2148P	Male living at the time of Divided Monarchy	Jeroboam@2Ki.13.13 + 				Israel
 #A king of the Kingdom of Israel, living at the time of Divided Monarchy; son of Jeroboam@2Ki.13.13						
 	Zechariah@2Ki.14.29	H2148a=זְכַרְיָהוּ	Zechariah (KJV= Zachariah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zechariah*|reference=2Ki.14.29;2Ki.15.8;2Ki.15.11	2Ki.14.29; 2Ki.15.8; 2Ki.15.11; 		
 $========== PERSON(s)						
@@ -12840,7 +12837,7 @@ Zechariah@2Ch.35.8=H2148O	Male living at the time of Divided Monarchy	 + 				>
 #A man living at the time of Divided Monarchy						
 	Zechariah@2Ch.35.8	H2148a=זְכַרְיָהוּ	Zechariah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zechariah*|reference=2Ch.35.8	2Ch.35.8; 		
 $========== PERSON(s)						
-Zechariah@Ezr.5.1=H2148P	Male living at the time of Exile and Return	Berechiah@Zec.1.1 + 				>
+Zechariah@Ezr.5.1=H2148B	Male living at the time of Exile and Return	Berechiah@Zec.1.1 + 				>
 #A man living at the time of Exile and Return; son of Berechiah@Zec.1.1						
 	Zechariah@Ezr.5.1	H2148a=זְכַרְיָהוּ	Zechariah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zechariah*|reference=Zec.1.1;Zec.1.7;Zec.7.1;Zec.7.8	Zec.1.1; Zec.1.7; Zec.7.1; Zec.7.8; 		
 	Zechariah@Ezr.5.1	H2148b=זְכַרְיָה	Zechariah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zechariah*|reference=Ezr.5.1;Ezr.6.14	Ezr.5.1; Ezr.6.14; 		
@@ -13206,7 +13203,7 @@ Ziza@2Ch.11.20=H2124B	Male living at the time of Divided Monarchy	Rehoboam@1Ki.1
 $========== PERSON(s)						
 Zobebah@1Ch.4.8=H6637A	Male living at the time of Divided Monarchy	Koz@1Ch.4.8 + 	Anub@1Ch.4.8, Harum@1Ch.4.8			Judah Tribe
 #A man of the tribe of Judah living at the time of Divided Monarchy; son of Koz@1Ch.4.8; brother of Anub@1Ch.4.8 and Harum@1Ch.4.8						
-	Zobebah@1Ch.4.8	H6637=צֹבֵבָה	Zobebah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zobebah*|reference=1Ch.4.8	1Ch.4.8; 		
+	Zobebah@1Ch.4.8	H6637=צֹבֵבָה	Zobebah (NIV= Hazzobebah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Zobebah*|reference=1Ch.4.8	1Ch.4.8; 		
 $========== PERSON(s)						
 Zohar@Gen.23.8=H6714A	Male living at the time of the Patriarchs	 + 			Ephron@Gen.23.8	>
 #A man living at the time of the Patriarchs; father of Ephron@Gen.23.8
@@ -13317,7 +13314,7 @@ son_of_Hodiah@1Ch.4.19=H3431B	Male living at the time of United Monarchy	Ishbah@
 #A man of the tribe of Judah(?) living at the time of United Monarchy; unnamed son of Ishbah@1Ch.4.17(?); whose mother was Hodiah@1Ch.4.19 						
 	son_of_Hodiah@1Ch.4.19	[ ]	[ ]	https://www.stepbible.org/?q=reference=1Ch.4.19	1Ch.4.19
 $========== PERSON(s)						
-father_of_Hodiah@1Ch.4.19=H1941E	Male living at the time of United Monarchy - unnamed father 	 + 			Hodiah@1Ch.4.19, Naham@1Ch.4.19	Judah Tribe(?)
+father_of_Hodiah@1Ch.4.19=H1941D	Male living at the time of United Monarchy - unnamed father 	 + 			Hodiah@1Ch.4.19, Naham@1Ch.4.19	Judah Tribe(?)
 #A man of the tribe of Judah(?) living at the time of United Monarchy; unnamed father of Hodiah@1Ch.4.19 and Naham@1Ch.4.19						
 	father_of_Hodiah@1Ch.4.19	[ ]	[ ]	https://www.stepbible.org/?q=reference=1Ch.4.19	1Ch.4.19
 $========== PERSON(s)						
@@ -13396,7 +13393,7 @@ Abdon@Jos.21.30=H5658A	Ebron			https://www.google.com/maps/@33.047808,35.146201,
 	Abdon@Jos.21.30	H5658=עַבְדּוֹן	Abdon	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Abdon*|reference=Jos.21.30;1Ch.6.74	Jos.21.30; 1Ch.6.74; 		
 	Ebron|Abdon@Jos.21.30	H5683=עֶבְרֹן	Ebron (KJV= Hebron; NIV= Abdon)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Ebron*|reference=Jos.19.28	Jos.19.28; 		
 $========== PLACE						
-Abel@1Sa.6.18=H0059A		Word sometimes translated as a name		https://www.google.com/maps/@,14z	https://palopenmaps.org/view/4336/@	>
+Abel@1Sa.6.18=H0059A		Word sometimes translated as a place		https://www.google.com/maps/@,14z	https://palopenmaps.org/view/4336/@	>
 	stone|Abel@1Sa.6.18	H0059=אָבֵל	stone (KJV= Abel; NIV= rock)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=stone*|reference=1Sa.6.18	1Sa.6.18; 		
 $========== PLACE						
 Abel-beth-maacah@2Sa.20.14=H0059B	Abel-beth-maacah			https://www.google.com/maps/@33.26852614315892,35.57804682248786,14z	https://palopenmaps.org/view/4336/@33.26852614315892,35.57804682248786	>
@@ -13533,7 +13530,7 @@ $========== PLACE
 Allammelech@Jos.19.26=H0487A	Allammelech			https://www.google.com/maps/@32.97829,35.182915,14z	https://palopenmaps.org/view/4336/@32.97829,35.182915	>
 	Allammelech@Jos.19.26	H0487=אַלַּמֶּלֶךְ	Allammelech (NIV= Allammelek)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Allammelech*|reference=Jos.19.26	Jos.19.26; 		
 $========== PLACE						
-Allon@Jos.19.33=H0438A		Word sometimes translated as a name		https://www.google.com/maps/@,14z	https://palopenmaps.org/view/4336/@	>
+Allon@Jos.19.33=H0438A		Word sometimes translated as a place		https://www.google.com/maps/@,14z	https://palopenmaps.org/view/4336/@	>
 	oak|Allon@Jos.19.33	H0438=אַלּוֹן	oak (KJV= Allon; NIV= large tree)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=oak*|reference=Jos.19.33	Jos.19.33; 		
 $========== PLACE						
 Allon-bacuth@Gen.35.8=H0439A	Allon-bacuth= Near Bethel_1			https://www.google.com/maps/@31.93053920580005,35.22103274923676 ,14z	https://palopenmaps.org/view/4336/@31.93053920580005,35.22103274923676 	>
@@ -13849,6 +13846,9 @@ Bahurim@2Sa.3.16=H0980A	Bahurim			https://www.google.com/maps/@31.824736,35.3884
 	Bahurim@2Sa.3.16	H1273=בַּרְחֻמִי	Bahurim (KJV, NIV= Barhumite)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Bahurim*|reference=2Sa.23.31	2Sa.23.31; 		
 	Baharum|Bahurim@2Sa.3.16	H0978=בַּחֲרוּמִי	Baharum (KJV, NIV= Baharumite)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Baharum*|reference=1Ch.11.33	1Ch.11.33; 		
 $========== PLACE						
+Bajith@Isa.15.2=H1006A		Word sometimes translated as a place		https://www.google.com/maps/@31.49684513710609,35.78284105296996,14z	https://palopenmaps.org/view/4336/@31.49684513710609,35.78284105296996	>
+	temple|Bajith@Isa.15.2	H1006=בַּ֫יִת	Bajith (ESV, NIV= temple)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=temple*|reference=Isa.15.2	Isa.15.2; 		
+$========== PLACE						
 Balah@Jos.19.3=H1088A	Balah= Near Beersheba			https://www.google.com/maps/@31.24495217357714,34.8408885849849 ,14z	https://palopenmaps.org/view/4336/@31.24495217357714,34.8408885849849 	>
 	Balah@Jos.19.3	H1088=בָּלָה	Balah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Balah*|reference=Jos.19.3	Jos.19.3; 		
 $========== PLACE						
@@ -13992,7 +13992,7 @@ $========== PLACE
 Beth-emek@Jos.19.27=H1025A	Beth-emek			https://www.google.com/maps/@32.978855,35.167096,14z	https://palopenmaps.org/view/4336/@32.978855,35.167096	>
 	Beth-emek@Jos.19.27	H1025=בֵּית הָעֵ֫מֶק	Beth-emek (NIV= Beth Emek)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Beth-emek*|reference=Jos.19.27	Jos.19.27; 		
 $========== PLACE						
-Bether_Mountain@Sng.2.17=H1336A		Word sometimes translated as a name		https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
+Bether_Mountain@Sng.2.17=H1336A		Word sometimes translated as a place		https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
 	cleft|Bether_Mountain@Sng.2.17	H1336=בֶּ֫תֶר	cleft (KJV= Bether; NIV= rugged)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=cleft*|reference=Son.2.17	Sng.2.17; 		
 $========== PLACE						
 Bethesda@Jhn.5.2=G0964A	Bethesda= In Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
@@ -14127,7 +14127,7 @@ $========== PLACE
 Bilhah@1Ch.4.29=H1090B	Bilhah= Near Beersheba			https://www.google.com/maps/@31.24495217357714,34.8408885849849 ,14z	https://palopenmaps.org/view/4336/@31.24495217357714,34.8408885849849 	>
 	Bilhah@1Ch.4.29	H1090b=בִּלְהָה	Bilhah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Bilhah*|reference=1Ch.4.29	1Ch.4.29; 		
 $========== PLACE						
-Bithron@2Sa.2.29=H1338A		Word sometimes translated as a name		https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
+Bithron@2Sa.2.29=H1338A		Word sometimes translated as a place		https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
 	morning|Bithron@2Sa.2.29	H1338=בִּתְרוֹן	Bithron	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Bithron*|reference=2Sa.2.29	2Sa.2.29; 		
 $========== PLACE						
 Bithynia@Act.16.7=G0978A	Bithynia			https://www.google.com/maps/@40.905503,30.685778,14z	https://palopenmaps.org/view/4336/@40.905503,30.685778	>
@@ -14151,7 +14151,7 @@ $========== PLACE
 Broad_Wall@Neh.3.8=H2346A	Broad Wall= Near Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
 	Broad_Wall@Neh.3.8	H2346=חוֹמָה+H7342=רָחָב	Broad Wall (KJV= broad wall)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Broad*|reference=Neh.3.8;Neh.12.38	Neh.3.8; Neh.12.38; 		
 $========== PLACE						
-Brook_of_Egypt@Num.34.5=H4714D	Brook of Egypt			https://www.google.com/maps/@31.032047,33.854957,14z	https://palopenmaps.org/view/4336/@31.032047,33.854957	>
+Brook_of_Egypt@Num.34.5=H5158A	Brook of Egypt			https://www.google.com/maps/@31.032047,33.854957,14z	https://palopenmaps.org/view/4336/@31.032047,33.854957	>
 	Brook_of_Egypt@Num.34.5	H5158a=נַ֫חַל	Brook (KJV= river)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Brook*|reference=Eze.47.19;Eze.48.28	Ezk.47.19; Ezk.48.28; 		
 	Brook_of_Egypt@Num.34.5	H5158a=נַ֫חַל+H4714=מִצְרַ֫יִם	Brook of Egypt (KJV= river of Egypt; NIV= Wadi of Egypt)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Brook*|reference=Num.34.5;Jos.15.4;Jos.15.47;1Ki.8.65;2Ki.24.7;2Ch.7.8;Isa.27.12	Num.34.5; Jos.15.4; Jos.15.47; 1Ki.8.65; 2Ki.24.7c; 2Ch.7.8; Isa.27.12; 		
 	Shihor|Brook_of_Egypt@Num.34.5	H7883=שִׁיחוֹר	Shihor	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shihor*|reference=Jos.13.3;Isa.23.3	Jos.13.3; Isa.23.3; 		
@@ -14881,7 +14881,7 @@ Gilboa_Mount@1Sa.31.1=H1533B	Mount Gilboa			https://www.google.com/maps/@32.5098
 	Gilboa_Mount@1Sa.31.1	H1568=גִּלְעָד	(Mount )Gilead	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gilead*|reference=Jdg.7.3	Jdg.7.3; 		
 $========== PLACE						
 Gilead@Gen.31.21=H1568A	Gilead	Gilead@Num.26.29		https://www.google.com/maps/@32.042523,35.724241,14z	https://palopenmaps.org/view/4336/@32.042523,35.724241	>
-	Gilead@Gen.31.21	H1568=גִּלְעָד	Gilead	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gilead*|reference=Gen.31.21;Gen.31.23;Gen.31.25;Gen.37.25;Num.32.1;Num.32.26;Num.32.29;Num.32.39;Num.32.40;Num.36.1;Deu.2.36;Deu.3.10;Deu.3.12;Deu.3.13;Deu.3.15;Deu.3.16;Deu.4.43;Deu.34.1;Jos.12.2;Jos.12.5;Jos.13.11;Jos.13.25;Jos.13.31;Jos.17.5;Jos.17.6;Jos.20.8;Jos.21.38;Jos.22.9;Jos.22.13;Jos.22.15;Jos.22.32;Jdg.5.17;Jdg.10.4;Jdg.10.8;Jdg.10.17;Jdg.10.18;Jdg.10.18;Jdg.11.5;Jdg.11.7;Jdg.11.8	Gen.31.21; Gen.31.23; Gen.31.25; Gen.37.25; Num.32.1; Num.32.26; Num.32.29; Num.32.39; Num.32.40; Num.36.1; Deu.2.36; Deu.3.10; Deu.3.12; Deu.3.13; Deu.3.15; Deu.3.16; Deu.4.43; Deu.34.1; Jos.12.2; Jos.12.5; Jos.13.11; Jos.13.25; Jos.13.31; Jos.17.5; Jos.17.6; Jos.20.8; Jos.21.38; Jos.22.9; Jos.22.13; Jos.22.15; Jos.22.32; Jdg.5.17; Jdg.10.4; Jdg.10.8; Jdg.10.17; Jdg.10.18a; Jdg.10.18b; Jdg.11.5; Jdg.11.7; Jdg.11.8a; Jdg.11.8b; Jdg.11.9; Jdg.11.10; Jdg.11.11; Jdg.11.29a; Jdg.11.29b; Jdg.11.29c; Jdg.12.4a; Jdg.12.4b; Jdg.12.5; Jdg.12.7; Jdg.20.1; 1Sa.13.7; 2Sa.2.9; 2Sa.17.26; 2Sa.24.6; 1Ki.4.13b; 1Ki.4.19; 1Ki.17.1; 2Ki.10.33a; 2Ki.10.33b; 2Ki.15.29; 1Ch.5.9; 1Ch.5.10; 1Ch.5.16; 1Ch.6.80; 1Ch.26.31; 1Ch.27.21; Psa.60.7; Psa.108.8; Sng.4.1; Sng.6.5; Jer.8.22; Jer.22.6; Jer.46.11; Jer.50.19; Ezk.47.18; Hos.6.8; Hos.12.11; Amo.1.3; Amo.1.13; Oba.1.19; Mic.7.14; Zec.10.10; 		
+	Gilead@Gen.31.21	H1568=גִּלְעָד	Gilead	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gilead*|reference=Gen.31.21;Gen.31.23;Gen.31.25;Gen.37.25;Num.32.1;Num.32.26;Num.32.29;Num.32.39;Num.32.40;Num.36.1;Deu.2.36;Deu.3.10;Deu.3.12;Deu.3.13;Deu.3.15;Deu.3.16;Deu.4.43;Deu.34.1;Jos.12.2;Jos.12.5;Jos.13.11;Jos.13.25;Jos.13.31;Jos.17.1;Jos.17.5;Jos.17.6;Jos.20.8;Jos.21.38;Jos.22.9;Jos.22.13;Jos.22.15;Jos.22.32;Jdg.5.17;Jdg.10.4;Jdg.10.8;Jdg.10.17;Jdg.10.18;Jdg.10.18;Jdg.11.5;Jdg.11.7;Jdg.11.8	Gen.31.21; Gen.31.23; Gen.31.25; Gen.37.25; Num.32.1; Num.32.26; Num.32.29; Num.32.39; Num.32.40; Num.36.1; Deu.2.36; Deu.3.10; Deu.3.12; Deu.3.13; Deu.3.15; Deu.3.16; Deu.4.43; Deu.34.1; Jos.12.2; Jos.12.5; Jos.13.11; Jos.13.25; Jos.13.31; Jos.17.1b; Jos.17.5; Jos.17.6; Jos.20.8; Jos.21.38; Jos.22.9; Jos.22.13; Jos.22.15; Jos.22.32; Jdg.5.17; Jdg.10.4; Jdg.10.8; Jdg.10.17; Jdg.10.18a; Jdg.10.18b; Jdg.11.5; Jdg.11.7; Jdg.11.8a; Jdg.11.8b; Jdg.11.9; Jdg.11.10; Jdg.11.11; Jdg.11.29a; Jdg.11.29b; Jdg.11.29c; Jdg.12.4a; Jdg.12.4b; Jdg.12.5; Jdg.12.7; Jdg.20.1; 1Sa.13.7; 2Sa.2.9; 2Sa.17.26; 2Sa.24.6; 1Ki.4.13b; 1Ki.4.19; 1Ki.17.1; 2Ki.10.33a; 2Ki.10.33b; 2Ki.15.29; 1Ch.2.22; 1Ch.5.9; 1Ch.5.10; 1Ch.5.16; 1Ch.6.80; 1Ch.26.31; 1Ch.27.21; Psa.60.7; Psa.108.8; Sng.4.1; Sng.6.5; Jer.8.22; Jer.22.6; Jer.46.11; Jer.50.19; Ezk.47.18; Hos.6.8; Hos.12.11; Amo.1.3; Amo.1.13; Oba.1.19; Mic.7.14; Zec.10.10; 		
 	Gilead@Gen.31.21	H1568=גִּלְעָד	Gileadite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gileadite*|reference=Jdg.12.4;Jdg.12.5	Jdg.12.4; Jdg.12.5; 		
 	Gilead@Gen.31.21	H1569=גִּלְעָדִי	Gileadite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gileadite*|reference=Num.26.29;Jdg.10.3;Jdg.11.1;Jdg.11.40;Jdg.12.7;2Sa.17.27;2Sa.19.31;1Ki.2.7;Ezr.2.61;Neh.7.63	Num.26.29; Jdg.10.3; Jdg.11.1; Jdg.11.40; Jdg.12.7; 2Sa.17.27; 2Sa.19.31; 1Ki.2.7; Ezr.2.61; Neh.7.63; 		
 	Gilead@Gen.31.21	H1569=גִּלְעָדִי	Gilead	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Gilead*|reference=2Ki.15.25	2Ki.15.25; 		
@@ -15074,6 +15074,9 @@ Hazar-susim@1Ch.4.31=H2702A	Hazar-susim= Near Madmannah			https://www.google.com
 $========== PLACE						
 Hazer-hatticon@Ezk.47.16=H2694A	Hazer-hatticon= Near Hamath			https://www.google.com/maps/@35.136204,36.749488 ,14z	https://palopenmaps.org/view/4336/@35.136204,36.749488 	>
 	Hazer-hatticon@Ezk.47.16	H2694=חֲצַר הַתִּיכוֹן	Hazer-hatticon (KJV= Hazar-hattikon; NIV= Hazer Hattikon)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hazer-hatticon*|reference=Eze.47.16	Ezk.47.16; 		
+$========== PLACE						
+Hazerim@Deu.2.23=H2699A		Word sometimes translated as a place		https://www.google.com/maps/@31.52481769532773,34.4333647185274,14z	https://palopenmaps.org/view/4336/@31.52481769532773,34.4333647185274	>
+	villages|Hazerim@Deu.2.23	H2699=חֲצֵרִים	villages (KJV= Hazerim)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=temple*|reference=Deu.2.23	Deu.2.23; 		
 $========== PLACE						
 Hazeroth@Num.11.35=H2698A	Hazeroth			https://www.google.com/maps/@28.916667,34.500000,14z	https://palopenmaps.org/view/4336/@28.916667,34.500000	>
 	Hazeroth@Num.11.35	H2698=חֲצֵרוֹת	Hazeroth	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Hazeroth*|reference=Num.11.35;Num.11.35;Num.12.16;Num.33.17;Num.33.18;Deu.1.1	Num.11.35a; Num.11.35b; Num.12.16; Num.33.17; Num.33.18; Deu.1.1; 		
@@ -15523,9 +15526,6 @@ $========== PLACE
 King's_Highway@Num.20.17=H1870A	King's Highway= Near Kir			https://www.google.com/maps/@31.18132579594509,35.70214779044711 ,14z	https://palopenmaps.org/view/4336/@31.18132579594509,35.70214779044711 	>
 	King's_Highway@Num.20.17	H1870=דֶּ֫רֶךְ+H4428=מֶ֫לֶךְ	King's Highway	https://www.stepbible.org/?q=version=ESV|version=KJV|text=King's*|reference=Num.20.17;Num.21.22	Num.20.17; Num.21.22; 		
 $========== PLACE						
-King's_Pool@Neh.2.14=H1295A	King's Pool= In Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
-	King's_Pool@Neh.2.14	H1295=בְּרֵכָה+H4428=מֶ֫לֶךְ	King's Pool	https://www.stepbible.org/?q=version=ESV|version=KJV|text=King's*|reference=Neh.2.14	Neh.2.14; 		
-$========== PLACE						
 King's_Valley@Gen.14.17=H4428A	King's Valley= Near Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
 	King's_Valley@Gen.14.17	H6010=עֵ֫מֶק+H4428=מֶ֫לֶךְ	King's Valley (KJV= king's dale)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=King's*|reference=Gen.14.17;2Sa.18.18	Gen.14.17b; 2Sa.18.18; 		
 $========== PLACE						
@@ -15661,13 +15661,11 @@ $========== PLACE
 Lystra@Act.14.6=G3082A	Lystra			https://www.google.com/maps/@37.57813498250009,32.45318282875567,14z	https://palopenmaps.org/view/4336/@37.57813498250009,32.45318282875567	>
 	Lystra@Act.14.6	G3082=Λύστρα	Lystra	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Lystra*|reference=Act.14.6;Act.14.8;Act.14.21;Act.16.1;Act.16.2;2Ti.3.11	Act.14.6; Act.14.8; Act.14.21; Act.16.1; Act.16.2; 2Ti.3.11; 		
 $========== PLACE						
-Maacah@2Sa.10.6=H4601D	Maacah= Near Aram-maacah			https://www.google.com/maps/@33.2,36.5 ,14z	https://palopenmaps.org/view/4336/@33.2,36.5 	>
-	Maacah@2Sa.10.6	H4601=מַעֲכָה	Maacah (KJV= Maachah; NIV= Maakah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacah*|reference=2Sa.10.6;2Sa.10.8;1Ch.19.7	2Sa.10.6; 2Sa.10.8; 1Ch.19.7; 		
-	Maacah@2Sa.10.6	H4602=מַעֲכָתִי	Maacah (KJV= Maachah; NIV= Maakah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacah*|reference=2Sa.23.34	2Sa.23.34; 		
-$========== PLACE						
-Maacath@Jos.13.13=H4602A	Maacath= Near Aram-maacah			https://www.google.com/maps/@33.2,36.5 ,14z	https://palopenmaps.org/view/4336/@33.2,36.5 	>
-	Maacath@Jos.13.13	H4602=מַעֲכָתִי	Maacathite (KJV=Maachathite; NIV= Maakathite)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacathite*|reference=Deu.3.14;Jos.12.5;Jos.13.11;Jos.13.13;2Ki.25.23;1Ch.4.19;Jer.40.8	Deu.3.14; Jos.12.5; Jos.13.11; Jos.13.13; 2Ki.25.23; 1Ch.4.19; Jer.40.8; 		
-	Maacath@Jos.13.13	H4601=מַעֲכָה	Maacath	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacath*|reference=Jos.13.13	Jos.13.13; 		
+Maacah@Jos.13.13=H4602A	Maacath= Near Aram-maacah			https://www.google.com/maps/@33.2,36.5 ,14z	https://palopenmaps.org/view/4336/@33.2,36.5 	>
+	Maacah@Jos.13.13	H4602=מַעֲכָתִי	Maacathite (KJV=Maachathite; NIV= Maakathite)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacathite*|reference=Deu.3.14;Jos.12.5;Jos.13.11;Jos.13.13;2Ki.25.23;1Ch.4.19;Jer.40.8	Deu.3.14; Jos.12.5; Jos.13.11; Jos.13.13; 2Ki.25.23; 1Ch.4.19; Jer.40.8; 		
+	Maacath|Maacah@Jos.13.13	H4601=מַעֲכָה	Maacath (KJV=Maachathite; NIV= Maakah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacath*|reference=Jos.13.13	Jos.13.13; 		
+	Maacah|Maacath@Jos.13.13	H4601=מַעֲכָה	Maacah (KJV= Maachah; NIV= Maakah)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacah*|reference=2Sa.10.6;2Sa.10.8;1Ch.19.7	2Sa.10.6; 2Sa.10.8; 1Ch.19.7; 		
+	Maacah|Maacath@Jos.13.13	H4602=מַעֲכָתִי	Maacah (KJV=Maachathite; NIV= Maakathite)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maacah*|reference=2Sa.23.34	2Sa.23.34; 		
 $========== PLACE						
 Maarath@Jos.15.59=H4638A	Maarath			https://www.google.com/maps/@31.621003,35.102328,14z	https://palopenmaps.org/view/4336/@31.621003,35.102328	>
 	Maarath@Jos.15.59	H4638=מַעֲרָת	Maarath	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Maarath*|reference=Jos.15.59	Jos.15.59; 		
@@ -15939,6 +15937,7 @@ Mozah@Jos.18.26=H4681A	Mozah			https://www.google.com/maps/@31.802641,35.158376,
 $========== PLACE						
 Muster_Gate@Neh.3.31=H4662A	Muster Gate= In Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
 	Muster_Gate@Neh.3.31	H4662=מִפְקָד	Muster( Gate) (KJV= gate Miphkad; NIV= Inspection gate)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Muster*|reference=Neh.3.31	Neh.3.31; 		
+	Miphkad|Muster_Gate@Neh.3.31	H4663=מִפְקָד	Muster( Gate) (KJV= gate Miphkad; NIV= Inspection gate)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Muster*|reference=Neh.3.31	Neh.3.31; 		
 $========== PLACE						
 Myra@Act.27.5=G3460A	Myra			https://www.google.com/maps/@36.2307717908834,30.01145882074154,14z	https://palopenmaps.org/view/4336/@36.2307717908834,30.01145882074154	>
 	Myra@Act.27.5	G3460=Μύρα	Myra	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Myra*|reference=Act.27.5	Act.27.5; 		
@@ -16102,7 +16101,7 @@ $========== PLACE
 Paran_Mount@Deu.33.2=H6290B	Mount Paran= In Paran			https://www.google.com/maps/@29.151667,33.541944 ,14z	https://palopenmaps.org/view/4336/@29.151667,33.541944 	>
 	Paran_Mount@Deu.33.2	H6290=פָּארָן	(Mount )Paran	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Paran*|reference=Deu.33.2;Hab.3.3	Deu.33.2; Hab.3.3; 		
 $========== PLACE						
-Parbar@1Ch.26.18=H6503A		Word sometimes translated as a name		https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
+Parbar@1Ch.26.18=H6503A		Word sometimes translated as a place		https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
 	colonnade|Parbar@1Ch.26.18	H6503=פַּרְוָר	colonnade (KJV= Parbar; NIV= court)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=colonnade*|reference=1Ch.26.18	1Ch.26.18; 		
 $========== PLACE						
 Parvaim@2Ch.3.6=H6516A				https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
@@ -16430,7 +16429,7 @@ $========== PLACE
 Seleucia@Act.13.4=G4581A	Seleucia			https://www.google.com/maps/@36.11101750333098,35.92680788324002,14z	https://palopenmaps.org/view/4336/@36.11101750333098,35.92680788324002	>
 	Seleucia@Act.13.4	G4581=Σελεύκεια	Seleucia	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Seleucia*|reference=Act.13.4	Act.13.4; 		
 $========== PLACE						
-Senaah@Ezr.2.35=H5570A				https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	>
+Senaah@Ezr.2.35=H5570A				https://www.google.com/maps/@0,14z	https://palopenmaps.org/view/4336/@0	Benjamin Tribe(?)
 	Senaah@Ezr.2.35	H5570=סְנָאָה	Senaah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Senaah*|reference=Ezr.2.35;Neh.7.38	Ezr.2.35; Neh.7.38; 		
 $========== PLACE						
 Seneh@1Sa.14.4=H5573A	Seneh			https://www.google.com/maps/@31.85309428405443,35.28616916703533,14z	https://palopenmaps.org/view/4336/@31.85309428405443,35.28616916703533	>
@@ -16523,9 +16522,6 @@ $========== PLACE
 Shikkeron@Jos.15.11=H7942A	Shikkeron= Near Ekron			https://www.google.com/maps/@31.77761410537458,34.85214575880509 ,14z	https://palopenmaps.org/view/4336/@31.77761410537458,34.85214575880509 	>
 	Shikkeron@Jos.15.11	H7942=שִׁכְּרוֹן	Shikkeron	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shikkeron*|reference=Jos.15.11	Jos.15.11; 		
 $========== PLACE						
-Shiloah@Isa.8.6=H7975B	Shiloah= In Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
-	Shiloah@Isa.8.6	H7975b=שִׁלֹחַ	Shiloah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shiloah*|reference=Isa.8.6	Isa.8.6; 		
-$========== PLACE						
 Shiloh@Jos.18.1=H7887A	Shiloh			https://www.google.com/maps/@32.05570050712985,35.28952869712683,14z	https://palopenmaps.org/view/4336/@32.05570050712985,35.28952869712683	>
 	Shiloh@Jos.18.1	H7887=שִׁלוֹ	Shiloh	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shiloh*|reference=Jos.18.1;Jos.18.8;Jos.18.9;Jos.18.10;Jos.19.51;Jos.21.2;Jos.22.9;Jos.22.12;Jdg.18.31;Jdg.21.12;Jdg.21.19;Jdg.21.21;Jdg.21.21;1Sa.1.3;1Sa.1.9;1Sa.1.24;1Sa.2.14;1Sa.3.21;1Sa.3.21;1Sa.4.3;1Sa.4.4;1Sa.4.12;1Sa.14.3;1Ki.2.27;1Ki.14.2;1Ki.14.4;Psa.78.60;Jer.7.12;Jer.7.14;Jer.26.6;Jer.26.9;Jer.41.5	Jos.18.1; Jos.18.8; Jos.18.9; Jos.18.10; Jos.19.51; Jos.21.2; Jos.22.9; Jos.22.12; Jdg.18.31; Jdg.21.12; Jdg.21.19; Jdg.21.21a; Jdg.21.21b; 1Sa.1.3; 1Sa.1.9; 1Sa.1.24; 1Sa.2.14; 1Sa.3.21a; 1Sa.3.21b; 1Sa.4.3; 1Sa.4.4; 1Sa.4.12; 1Sa.14.3; 1Ki.2.27; 1Ki.14.2; 1Ki.14.4; Psa.78.60; Jer.7.12; Jer.7.14; Jer.26.6; Jer.26.9; Jer.41.5; 		
 	Shiloh@Jos.18.1	H7888=שִׁילֹנִי	Shilonite	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shilonite*|reference=1Ki.11.29;1Ki.12.15;1Ki.15.29;1Ch.9.5;2Ch.9.29;2Ch.10.15	1Ki.11.29; 1Ki.12.15; 1Ki.15.29; 1Ch.9.5; 2Ch.9.29; 2Ch.10.15; 		
@@ -16576,6 +16572,8 @@ Silla@2Ki.12.20=H5538A	Silla= Near Jerusalem			https://www.google.com/maps/@31.7
 	Silla@2Ki.12.20	H5538=סִלָּא	Silla	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Silla*|reference=2Ki.12.20	2Ki.12.20; 		
 $========== PLACE						
 Siloam@Neh.3.15=H7975A	Siloam= In Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
+	King's_Pool|Siloam@Neh.3.15	H1295=בְּרֵכָה+H4428=מֶ֫לֶךְ	King's Pool	https://www.stepbible.org/?q=version=ESV|version=KJV|text=King's*|reference=Neh.2.14	Neh.2.14; 		
+	Shiloah|Siloam@Neh.3.15	H7975b=שִׁלֹחַ	Shiloah	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shiloah*|reference=Isa.8.6	Isa.8.6; 		
 	Shelah|Siloam@Neh.3.15	H7975a=שֶׁ֫לַח	Shelah (KJV= Siloah; NIV= Siloam)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Shelah*|reference=Neh.3.15	Neh.3.15; 		
 	Siloam@Neh.3.15	G4611=Σιλωάμ	Siloam	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Siloam*|reference=Luk.13.4;Joh.9.7;Joh.9.11	Luk.13.4; Jhn.9.7; Jhn.9.11; 		
 $========== PLACE						
@@ -16848,8 +16846,9 @@ Tubal@Isa.66.19=H8422B	Tubal= Near Pontus	Tubal@Gen.10.2		https://www.google.com
 	Tubal@Isa.66.19	H8422=תּוּבַל	Tubal	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Tubal*|reference=Isa.66.19;Eze.27.13;Eze.38.2;Eze.38.3;Eze.39.1	Isa.66.19; Ezk.27.13; Ezk.38.2; Ezk.38.3; Ezk.39.1; 		
 $========== PLACE						
 Tyre@Jos.19.29=H6865A	Tyre			https://www.google.com/maps/@33.27582782266882,35.19257453545583,14z	https://palopenmaps.org/view/4336/@33.27582782266882,35.19257453545583	>
-	Tyre@Jos.19.29	H6865=צֹר	Tyre	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Tyre*|reference=Jos.19.29;2Sa.5.11;2Sa.24.7;1Ki.5.1;1Ki.7.13;1Ki.9.11;1Ki.9.12;1Ch.14.1;2Ch.2.3;2Ch.2.11;Psa.45.12;Psa.83.7;Psa.87.4;Isa.23.1;Isa.23.5;Isa.23.8;Isa.23.15;Isa.23.15;Isa.23.17;Jer.25.22;Jer.27.3;Jer.47.4;Eze.26.2;Eze.26.3;Eze.26.4;Eze.26.7;Eze.26.15;Eze.27.2;Eze.27.3;Eze.27.3;Eze.27.8;Eze.27.32;Eze.28.2;Eze.28.12;Eze.29.18;Eze.29.18;Joe.3.4;Amo.1.9;Amo.1.10;Zec.9.2	Jos.19.29; 2Sa.5.11; 2Sa.24.7; 1Ki.5.1; 1Ki.7.13; 1Ki.9.11; 1Ki.9.12; 1Ch.14.1; 2Ch.2.3; 2Ch.2.11; Psa.45.12; Psa.83.7; Psa.87.4; Isa.23.1; Isa.23.5; Isa.23.8; Isa.23.15a; Isa.23.15b; Isa.23.17; Jer.25.22; Jer.27.3; Jer.47.4; Ezk.26.2; Ezk.26.3; Ezk.26.4; Ezk.26.7; Ezk.26.15; Ezk.27.2; Ezk.27.3a; Ezk.27.3b; Ezk.27.8; Ezk.27.32; Ezk.28.2; Ezk.28.12; Ezk.29.18a; Ezk.29.18b; Jol.3.4; Amo.1.9; Amo.1.10; Zec.9.2; Zec.9.3; 		
-	palm|Tyre@Jos.19.29	H6865=צֹר	palm (KJV, NIV= Tyre)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=palm*|reference=Hos.9.13	Hos.9.13; 		
+	Tyre@Jos.19.29	H6865=צֹר	Tyre	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Tyre*|reference=Jos.19.29;2Sa.5.11;2Sa.24.7;1Ki.5.1;1Ki.7.13;1Ki.9.11;1Ki.9.12;1Ch.14.1;2Ch.2.3;2Ch.2.11;Psa.45.12;Psa.83.7;Psa.87.4;Isa.23.1;Isa.23.5;Isa.23.8;Isa.23.15;Isa.23.15;Isa.23.17; Joe.3.4;	Jos.19.29; 2Sa.5.11; 2Sa.24.7; 1Ki.5.1; 1Ki.7.13; 1Ki.9.11; 1Ki.9.12; 1Ch.14.1; 2Ch.2.3; 2Ch.2.11; Psa.45.12; Psa.83.7; Psa.87.4; Isa.23.1; Isa.23.5; Isa.23.8; Isa.23.15a; Isa.23.15b; Isa.23.17; Jer.25.22; Jer.27.3; Jer.47.4; Ezk.26.2; Ezk.26.3; Ezk.26.4; Ezk.26.7; Ezk.26.15; Ezk.27.2; Ezk.27.3a; Ezk.27.3b; Ezk.27.8; Ezk.27.32; Ezk.28.2; Ezk.28.12; Ezk.29.18a; Ezk.29.18b; Jol.3.4; Amo.1.9; Amo.1.10; Zec.9.2; Zec.9.3; 		
+	Tyre@Jos.19.29	H6865=צֹר	Tyre (KJV= Tyrus)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Tyre*|reference=Jer.25.22;Jer.27.3;Jer.47.4;Eze.26.2;Eze.26.3;Eze.26.4;Eze.26.7;Eze.26.15;Eze.27.2;Eze.27.3;Eze.27.3;Eze.27.8;Eze.27.32;Eze.28.2;Eze.28.12;Eze.29.18;Eze.29.18;Amo.1.9;Amo.1.10;Zec.9.2;Zec.9.3; 	Jer.25.22; Jer.27.3; Jer.47.4; Eze.26.2; Eze.26.3; Eze.26.4; Eze.26.7; Eze.26.15; Eze.27.2; Eze.27.3; Eze.27.3; Eze.27.8; Eze.27.32; Eze.28.2; Eze.28.12; Eze.29.18; Eze.29.18; Amo.1.9; Amo.1.10; Zec.9.2; Zec.9.3; 	
+	palm|Tyre@Jos.19.29	H6865=צֹר	palm (KJV= Tyrus, NIV= Tyre)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=palm*|reference=Hos.9.13	Hos.9.13; 		
 	Tyre@Jos.19.29	H6876=צֹרִי	Tyre	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Tyre*|reference=1Ki.7.14;2Ch.2.14	1Ki.7.14; 2Ch.2.14; 		
 	Tyre@Jos.19.29	H6876=צֹרִי	Tyrian	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Tyrian*|reference=1Ch.22.4;Ezr.3.7;Neh.13.16	1Ch.22.4; Ezr.3.7; Neh.13.16; 		
 	Tyre@Jos.19.29	G5183=Τύριος	Tyre	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Tyre*|reference=Act.12.20	Act.12.20; 		
@@ -16873,7 +16872,7 @@ $========== PLACE
 Uzal@Ezk.27.19=H0187B	Uzal	Uzal@Gen.10.27		https://www.google.com/maps/@15.354879,44.215092,14z	https://palopenmaps.org/view/4336/@15.354879,44.215092	>
 	Uzal@Ezk.27.19	H0187=אוּזָל	Uzal (KJV= going to; NIV= Izal)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Uzal*|reference=Eze.27.19	Ezk.27.19; 		
 $========== PLACE						
-Uzza@2Ki.21.18=H1588A	garden of Uzza= In Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
+Uzza@2Ki.21.18=H5798E	garden of Uzza= In Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
 	Uzza@2Ki.21.18	H1588=גַּן+H5798a=עֻזָּא	garden of Uzza	https://www.stepbible.org/?q=version=ESV|version=KJV|text=garden*|reference=2Ki.21.18;2Ki.21.26	2Ki.21.18; 2Ki.21.26; 		
 $========== PLACE						
 Uzzah@2Sa.6.3=H6560A	Perez-uzzah= Near Jerusalem			https://www.google.com/maps/@31.777444,35.234935 ,14z	https://palopenmaps.org/view/4336/@31.777444,35.234935 	>
@@ -17200,9 +17199,12 @@ God@Gen.1.1=H3068A	The deity 					>
 	God@Gen.1.1	H0430=אֱלֹהִים	God	https://www.stepbible.org/?q=reference=Gen.1:1	Gen.1:1; Etc.0.0; 
 	Elohim|God@Gen.1.1	H0430=אֱלֹהִים	God (KJV= Elohim)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=God*|reference=1Sa.10.5	1Sa.10.5; 		
 	Almighty|God@Gen.1.1	H7706=שַׁדַּי	Almighty	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Almighty*|reference=Gen.17.1;Gen.28.3;Gen.35.11;Gen.43.14;Gen.48.3;Gen.49.25;Exo.6.3;Num.24.4;Num.24.16;Rut.1.20;Rut.1.21;Job.5.17;Job.6.4;Job.6.14;Job.8.3;Job.8.5;Job.11.7;Job.13.3;Job.15.25;Job.21.15;Job.21.20;Job.22.3;Job.22.17;Job.22.23;Job.22.25;Job.22.26;Job.23.16;Job.24.1;Job.27.2;Job.27.10;Job.27.11;Job.27.13;Job.29.5;Job.31.2;Job.31.35;Job.32.8;Job.33.4;Job.34.10;Job.34.12;Job.35.13	Gen.17.1; Gen.28.3; Gen.35.11; Gen.43.14; Gen.48.3; Gen.49.25; Exo.6.3; Num.24.4; Num.24.16; Rut.1.20; Rut.1.21; Job.5.17; Job.6.4; Job.6.14; Job.8.3; Job.8.5; Job.11.7; Job.13.3; Job.15.25; Job.21.15; Job.21.20; Job.22.3; Job.22.17; Job.22.23; Job.22.25; Job.22.26; Job.23.16; Job.24.1; Job.27.2; Job.27.10; Job.27.11; Job.27.13; Job.29.5; Job.31.2; Job.31.35; Job.32.8; Job.33.4; Job.34.10; Job.34.12; Job.35.13; Job.37.23; Job.40.2; Psa.68.14; Psa.91.1; Isa.13.6; Ezk.1.24; Ezk.10.5; Jol.1.15; 		
+	Most_High@Gen.14.18	H5920=עַל	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Hos.11.7	Hos.11.7; 		
+	Most_High@Gen.14.18	H5943=עִלַּי	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Dan.3.26;Dan.4.2;Dan.4.17;Dan.4.24;Dan.4.25;Dan.4.32;Dan.4.34;Dan.5.18;Dan.5.21;Dan.7.25	Dan.3.26; Dan.4.2; Dan.4.17; Dan.4.24; Dan.4.25; Dan.4.32; Dan.4.34; Dan.5.18; Dan.5.21; Dan.7.25; 		
 	Highest|God@Gen.1.1	H5945b=עֶלְיוֹן	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Gen.14.18;Gen.14.19;Gen.14.20;Gen.14.22;Num.24.16;Deu.32.8;2Sa.22.14;Psa.7.17;Psa.9.2;Psa.21.7;Psa.46.4;Psa.47.2;Psa.50.14;Psa.57.2;Psa.73.11;Psa.77.10;Psa.78.17;Psa.78.56;Psa.82.6;Psa.83.18;Psa.91.1;Psa.91.9;Psa.92.1;Psa.107.11;Isa.14.14;Lam.3.35;Lam.3.38	Gen.14.18; Gen.14.19; Gen.14.20; Gen.14.22; Num.24.16; Deu.32.8; 2Sa.22.14; Psa.7.17; Psa.9.2; Psa.21.7; Psa.46.4; Psa.47.2; Psa.50.14; Psa.57.2; Psa.73.11; Psa.77.10; Psa.78.17; Psa.78.56; Psa.82.6; Psa.83.18; Psa.91.1; Psa.91.9; Psa.92.1; Psa.107.11; Isa.14.14; Lam.3.35; Lam.3.38; 		
 	Highest|God@Gen.1.1	H5945b=עֶלְיוֹן	Most High (KJV= Highest)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Psa.18.13;Psa.87.5	Psa.18.13; Psa.87.5; 		
 	Highest|God@Gen.1.1	H5945b=עֶלְיוֹן	Most High (KJV= high)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Psa.78.35	Psa.78.35; 		
+	Most_High@Gen.14.18	H5946=עֶלְיוֹן	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Dan.7.18;Dan.7.22;Dan.7.25;Dan.7.27	Dan.7.18; Dan.7.22; Dan.7.25; Dan.7.27; 		
 	Banner|God@Gen.1.1	H5251=נֵס	Banner (KJV= Nissi) 	https://www.stepbible.org/?q=reference=Exo.17.15	Exo.17.15
 	Peace|God@Gen.1.1	H3073=שָׁלוֹם 	Peace (KJV= Shalom)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Peace*|reference=Jdg.6.24	Jdg.6.24; 		
 	Provider|God@Gen.1.1	H3070=יִרְאֶה	Provider (KJV= Jireh)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Provider*|reference=Gen.22.14	Gen.22.14; 		
@@ -17210,6 +17212,7 @@ God@Gen.1.1=H3068A	The deity 					>
 	Everlasting|God@Gen.1.1	H5769=עוֹלָם	Everlasting (NIV= Eternal)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Everlasting*|reference=Gen.21.33	Gen.21.33; 		
 	Jealous|God@Gen.1.1	H7067=קַנָּא	Jealous	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Jealous*|reference=Exo.34.14	Exo.34.14; 		
 	Hosts|God@Gen.1.1	G4519=σαβαώθ	hosts (KJV= sabaoth; NIV=Almighty)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=hosts*|reference=Rom.9.29;Jas.5.4	Rom.9.29; Jas.5.4; 		
+	Most_High@Gen.14.18	G5310=ὕψιστος	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Mar.5.7;Luk.1.32;Luk.1.35;Luk.1.76;Luk.6.35;Luk.8.28;Act.7.48;Act.16.17;Heb.7.1	Mrk.5.7; Luk.1.32; Luk.1.35; Luk.1.76; Luk.6.35; Luk.8.28; Act.7.48; Act.16.17; Heb.7.1; 		
 $========== OTHER						
 Apharasthchite@Ezr.4.9=H0671A	Word sometimes translated as a title					>
 	governors|Apharsachite@Ezr.4.9	H0671a=אֲפָֽרְסְכָיֵא	governors (KJV= Apharsachites; NIV= officials)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=governors*|reference=Ezr.5.6;Ezr.6.6	Ezr.5.6; Ezr.6.6; 		
@@ -17284,13 +17287,6 @@ Molech@Lev.18.21=H4432A	A deity/angel					Ammon
 	Milcom|Molech@Lev.18.21	H4428=מֶ֫לֶךְ	Milcom (KJV=Malcham; NIV= Molek)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Milcom*|reference=Zep.1.5	Zep.1.5; 		
 	Milcom|Molech@Lev.18.21	H4445b=מִלכֹּם	Milcom (NIV= Molek)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Milcom*|reference=1Ki.11.5;1Ki.11.33;2Ki.23.13	1Ki.11.5; 1Ki.11.33; 2Ki.23.13; 		
 	Moloch|Molech@Lev.18.21	G3434=Μολόχ	Moloch (NIV= Molek)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Moloch*|reference=Act.7.43	Act.7.43; 		
-$========== OTHER						
-Most_High@Gen.14.18=H5945B	A deity/angel					>
-	Most_High@Gen.14.18	H5945b=עֶלְיוֹן	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Gen.14.18;Gen.14.19;Gen.14.20;Gen.14.22;Num.24.16;Deu.32.8;2Sa.22.14;Psa.7.17;Psa.9.2;Psa.18.13;Psa.21.7;Psa.46.4;Psa.47.2;Psa.50.14;Psa.57.2;Psa.73.11;Psa.77.10;Psa.78.17;Psa.78.35;Psa.78.56;Psa.82.6;Psa.83.18;Psa.87.5;Psa.91.1;Psa.91.9;Psa.92.1;Psa.107.11;Isa.14.14;Lam.3.35;Lam.3.38	Gen.14.18; Gen.14.19; Gen.14.20; Gen.14.22; Num.24.16; Deu.32.8; 2Sa.22.14; Psa.7.17; Psa.9.2; Psa.18.13; Psa.21.7; Psa.46.4; Psa.47.2; Psa.50.14; Psa.57.2; Psa.73.11; Psa.77.10; Psa.78.17; Psa.78.35; Psa.78.56; Psa.82.6; Psa.83.18; Psa.87.5; Psa.91.1; Psa.91.9; Psa.92.1; Psa.107.11; Isa.14.14; Lam.3.35; Lam.3.38; 		
-	Most_High@Gen.14.18	H5943=עִלַּי	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Dan.3.26;Dan.4.2;Dan.4.17;Dan.4.24;Dan.4.25;Dan.4.32;Dan.4.34;Dan.5.18;Dan.5.21;Dan.7.25	Dan.3.26; Dan.4.2; Dan.4.17; Dan.4.24; Dan.4.25; Dan.4.32; Dan.4.34; Dan.5.18; Dan.5.21; Dan.7.25; 		
-	Most_High@Gen.14.18	H5946=עֶלְיוֹן	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Dan.7.18;Dan.7.22;Dan.7.25;Dan.7.27	Dan.7.18; Dan.7.22; Dan.7.25; Dan.7.27; 		
-	Most_High@Gen.14.18	H5920=עַל	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Hos.11.7	Hos.11.7; 		
-	Most_High@Gen.14.18	G5310=ὕψιστος	Most High	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Most*|reference=Mar.5.7;Luk.1.32;Luk.1.35;Luk.1.76;Luk.6.35;Luk.8.28;Act.7.48;Act.16.17;Heb.7.1	Mrk.5.7; Luk.1.32; Luk.1.35; Luk.1.76; Luk.6.35; Luk.8.28; Act.7.48; Act.16.17; Heb.7.1; 		
 $========== OTHER						
 Muth-labben@Psa.9.1=H4192A	A musical term					>
 	Muth-labben@Psa.9.1	H4192=לַבֵּן	Muth-labben (KJV= Methlabben; NIV= Death of the Son)	https://www.stepbible.org/?q=version=ESV|version=KJV|text=Muth-labben*|reference=Psa.9.1	Psa.9.1; 		
@@ -17534,16 +17530,18 @@ SOME DIFFERENCES FROM THESE SOURCES: 						>
 KJV orthography follows a standard form of the KJV (complete-bible-genealogy is based on 1769 ed by Dr Blayney of Oxford). 						>
 Inserted missing hyphens in about 70 names to match KJV, eg Bath-sheba, Ben-hadad, Ben-oni etc						>
 ADDED REFS for: Titus, Job and a few others where missing; Shimeam: 1Ch.9.38; 						>
-ADDED INDIVIDUALS:  Cyrus@2Ch.36.22; Amminadib@Sng.6.12; Hushah@1Ch.4.4; Jorkeam@1Ch.2.44; Josheb-basshebet@2Sa.23.8; Machbenah@1Ch.2.49; Gibea@1Ch.2.49; Madmannah@1Ch.2.49; Nacon@2Sa.6.6; Shiloh@Gen.49.10; Shoa@Ezk.23.23; Crescens@2Ti.4.10; Hesed@1Ki.4.10; Abinadab@1Ki.4.11; 						>
+ADDED INDIVIDUALS:  Cyrus@2Ch.36.22; Amminadib@Sng.6.12; Hushah@1Ch.4.4; Jorkeam@1Ch.2.44; Josheb-basshebet@2Sa.23.8; Machbenah@1Ch.2.49; Gibea@1Ch.2.49; Madmannah@1Ch.2.49; Nacon@2Sa.6.6; Shiloh@Gen.49.10; Shoa@Ezk.23.23; Crescens@2Ti.4.10; Hesed@1Ki.4.10; Abinadab@1Ki.4.11; 						
 ADDED GENTILICS of person names that were known and linked with them. Maacathites@1Ch.4.19						>
-MERGED INDIVIDUALS: jerubbesheth_712+gideon_554, hence abimelech_711+abimelech_561; halohesh_2358+hallohesh_2494 (cf.Neh.3.12 'ruler of half of Jerusalem' & Neh.10.14,24 'chief of the people'); Gershom@Jdg.18.30 with Gershom@Exo.2.22; 						>
-CORRECTED Pedaiah@1Ch.3.18 instead of Shealtiel@1Ch.3.17 as father of Zerubbabel@1Ch.3.19 and Pedaiah@1Ch.3.18 with his brothers as sons of Shealtiel@1Ch.3.17 (so Zerubbabel@1Ch.3.19 is g.son of Shealtiel@1Ch.3.17).						>
-OMITTED man_of_understanding_2183 (of Ezr.8.18), mother_of_aholah_and_aholibah_2775 (of Eze.23.2), mother_of_lemuel_2681 (of Pro.31.1) Pro.31.1), mother of the wife of Simon Peter (of Mat.8.14; Mrk.1.30; Luk.4.38); zoar_119 (Gen.14.2,8 - a place); rechah_1183 (1Ch.4.12 - a place); wife_of_salathiel_and_pedaiah_1124 (a solution to the contradiction in 1Ch.3.17-19 and Ezra.3.2 etc); 						>
-SPELLED Gesham@1Ch.2.47 as Geshan; Jeshuah@1Ch.24.11 as Jeshua; Nahari@2Sa.23.37 as Naharai; Abidah@Gen.25.4 as Abida; Mizpar@Ezr.2.2 as Mispar; Malchiah as Malchijah@1Ch.9.12						>
+ADDED PLACES which are translated as normal words in some Bibles: Bajith@Isa.15.2 ('temple'); 
+MERGED INDIVIDUALS: jerubbesheth_712+gideon_554, hence abimelech_711+abimelech_561; halohesh_2358+hallohesh_2494 (cf.Neh.3.12 'ruler of half of Jerusalem' & Neh.10.14,24 'chief of the people'); Gershom@Jdg.18.30 with Gershom@Exo.2.22; Achbor@Jer.26.22 with Achbor@2Ki.22.12; Hassenuah@1Ch.9.7+Hassenaah@Neh.3.3+Hassenuah@Neh.11.9 						
+MERGED PLACES: Maacah@2Sa.10.6+Maacath@Jos.13.13; Siloam@Neh.3.15+King's_Pool@Neh.2.14+Shiloah@Isa.8.6; 
+CORRECTED Pedaiah@1Ch.3.18 instead of Shealtiel@1Ch.3.17 as father of Zerubbabel@1Ch.3.19 and Pedaiah@1Ch.3.18 with his brothers as sons of Shealtiel@1Ch.3.17 (so Zerubbabel@1Ch.3.19 is g.son of Shealtiel@1Ch.3.17).						
+OMITTED man_of_understanding_2183 (of Ezr.8.18), mother_of_aholah_and_aholibah_2775 (of Eze.23.2), mother_of_lemuel_2681 (of Pro.31.1) Pro.31.1), mother of the wife of Simon Peter (of Mat.8.14; Mrk.1.30; Luk.4.38); zoar_119 (Gen.14.2,8 - a place); rechah_1183 (1Ch.4.12 - a place); wife_of_salathiel_and_pedaiah_1124 (a solution to the contradiction in 1Ch.3.17-19 and Ezra.3.2 etc); 						
+SPELLED Gesham@1Ch.2.47 as Geshan; Jeshuah@1Ch.24.11 as Jeshua; Nahari@2Sa.23.37 as Naharai; Abidah@Gen.25.4 as Abida; Mizpar@Ezr.2.2 as Mispar; Malchiah as Malchijah@1Ch.9.12						
 REMOVED Ezar from ezer_235; 						>
 CONVERTED TO PLACE: Eshtemoa@1Ch.4.17, 19 to join Eshtemoa@Jos.21.14						>
-SEPARATED Immanuel/Emmanuel from Jesus; Hermes/Mercurius from Paul; Jupiter from Barnabas; Jethro/Deuel; Judith@Gen.26.34/Oholibamah@Gen.36.2						>
-LINKED Josiphiah@Ezr.8.10 as father of Shelomith@Ezr.8.10 (in acc with LXX and modern trans.); Johanan at 1Ch.3.15 is Johanan|Jehoahaz@2Ki.23.30 instead of  Shallum being Shallum|Jehoahaz@2Ki.23.30; Shallum at Jer.22.11 is Shallum|Jehoiachin@2Ki.24.6 which explains Jer.22.11						>
+SEPARATED Immanuel/Emmanuel from Jesus; Hermes/Mercurius from Paul; Jupiter from Barnabas; Jethro/Deuel; Judith@Gen.26.34/Oholibamah@Gen.36.2						
+LINKED Josiphiah@Ezr.8.10 as father of Shelomith@Ezr.8.10 (in acc with LXX and modern trans.); Johanan at 1Ch.3.15 is Johanan|Jehoahaz@2Ki.23.30 instead of  Shallum being Shallum|Jehoahaz@2Ki.23.30; Shallum at Jer.22.11 is Shallum|Jehoiachin@2Ki.24.6 which explains Jer.22.11						
 Also added: 						>
 People+Gentilics of people (or of unknown places):  Titius|Justus@Act.18.7; Nympha@Col.4.15; Bidkar@2Ki.9.25; Caesar|Augustus@Luk.2.1; Caesar|Claudius@Act.11.28; Caesar|Nero@Php.4.22; Caesar|Tiberius@Mat.22.17; Carpus@2Ti.4.13; Chedorlaomer@Gen.14.1; Chimham@2Sa.19.37; Chloe@1Co.1.11; Claudia@2Ti.4.21; Claudius@Act.11.28; Claudius|Lysias@Act.23.26; Clement@Php.4.3; Cornelius@Act.10.1; Crispus@Act.18.8; Cushan-rishathaim@Jdg.3.8; Harim@Ezr.2.32; John@Mat.16.17; Quirinius@Luk.2.2; Salome@Mrk.15.40; Buzite@Job.32.2; Emim@Gen.14.5; Ezrahite@1Ki.4.31; Girzites@1Sa.27.8; Gizonite@1Ch.11.34; Goiim@Gen.14.1; Hararite@2Sa.23.11; Haruphite@1Ch.12.5; Horonite@Neh.2.10; Hushathite@2Sa.21.18; Ithrite@2Sa.23.38; Kadmonite@Gen.15.19; Kenite@Gen.15.19; Kenizzites@Gen.15.19; Mahavite@1Ch.11.46; Mecherathite@1Ch.11.36; Meholathite@1Sa.18.19; Menuhoth@1Ch.2.52; Meunite@1Ch.4.41; Mezobaite@1Ch.11.47; Mishraite@1Ch.2.53; Mithnite@1Ch.11.43; Naamathite@Job.2.11; Nehelam@Jer.29.24; Nephilim@Gen.6.4; Paltite|Pelonite@2Sa.23.26; Parthian@Act.2.9; Pelonite@2Sa.23.26; Perizzite@Gen.13.7; Puthite@1Ch.2.53; Ramathite@1Ch.27.27; Shiphmite@1Ch.27.27; Shuhite@Job.2.1; Shulammite@Sng.6.13; Shumathite@1Ch.2.53; Shunammite@1Ki.1.3; Sukkiim@2Ch.12.3; Tahchemonite|Hachmonite@2Sa.23.8; Timnite@Jdg.15.6; Tizite@1Ch.11.45; Zorathite@1Ch.2.53; Zuzim@Gen.14.5; 						>
 Title of Gentilic that is non-Geographical and non-Personal, or a leader: Rabbi@Mat.23.7; Baal@Hos.2.16; Asiarch@Act.19.31; Candace@Act.8.27; Nazirite@Num.6.2; Carite|Cherethite@2Sa.8.18; Freedmen@Act.6.9; Stoic@Act.17.18; Sadducee@Mat.3.7; Shimeathite@1Ch.2.55; Pharisee@Mat.3.7; Epicurean@Act.17.18; Nicolaitans@Rev.2.6; Sucathite@1Ch.2.55; Tirathite@1Ch.2.55; Raca@Mat.5.22; 						>
@@ -17565,7 +17563,7 @@ Rernamed Beer as Beer_1; 						>
 Removed because they are people: Esau; Abiezer@Num.26.30; Jetur@1Ch.5.19; Nodab@1Ch.5.19; Naphish@1Ch.5.19; Kedar@Psa.120.5; Nebaioth@Isa.60.7; Nimrod@Mic.5.6						>
 Added refs: OT refs for Gog						>
 Move refs: Jos.19.2 from Sheba to Beer-sheba						>
-Added a few missing places: Addan@Ezr.2.59; Archite@Jos.16.2; Ashurite@2Sa.2.9; Atad@Gen.50.10; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12; Eden@Gen.2.8; Eglath-shelishiyah@Isa.15.5; Elam@Ezr.4.9; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak_Mount@Jos.11.17; Havilah@Gen.2.11; Hazor@Jer.49.28; Hebrew@Gen.14.13; Hellenist|Greece@Dan.8.21; Jew@2Ki.25.25; Jew@2Ki.25.25; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothite@1Ch.27.30; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Moab_Plains@Num.22.1; Scythian@Col.3.11; Senaah@Ezr.2.35; Senaah@Ezr.2.35; Pacatiana@1Ti.6.21; 						>
+Added a few missing places: Addan@Ezr.2.59; Archite@Jos.16.2; Ashurite@2Sa.2.9; Atad@Gen.50.10; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12; Eden@Gen.2.8; Eglath-shelishiyah@Isa.15.5; Elam@Ezr.4.9; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak_Mount@Jos.11.17; Havilah@Gen.2.11; Hazor@Jer.49.28; Hebrew@Gen.14.13; Hellenist|Greece@Dan.8.21; Jew@2Ki.25.25; Jew@2Ki.25.25; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothite@1Ch.27.30; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Moab_Plains@Num.22.1; Scythian@Col.3.11; Senaah@Ezr.2.35; Pacatiana@1Ti.6.21; 						>
 Added gentilics of places for place names that were known. Gentilics based on name unknown as people or places were assumed to be places						>
 Divided Eshtemoa & Anim@Jos.15.50 to two separate places near each other.						>
 						
@@ -17625,10 +17623,63 @@ Note:						>
 *  when you can't tie them to descendents of note, they probably only occur once or twice, so record the refs instead (as for Besodeiah above)						
 *  be as boring as possible when describing the Significance - i.e. try to be repetitive and consistent with what you've used before.						
 						
+EStrong numbers used for backward-compatible tagging 						
+=====================================
+Tagging using eStrong (which includes numbers ending in "a" or "b" etc) can be updated to EStrong (which also contains numbers ending in "A" or "B" etc) 
+The purpose is to disambiguate those individuals who currently have the same Strong number, such as Adam (H0121) who shares the same tag as the place called Adam at Jos.3.16. In EStrong, the person Adam is H0121A and the place is H0121B
+   Some eStrong numbers are already fully disambiguated eg Dedan@Gen.10.7=H1719a; Dedan@Gen.10.7=H1719b; Dedan@Gen.25.3=H1719c, so these are simply changed to H1719A, H1719B and H1719C to confirm they are disambiguated.
+   Some eStrong numbers are partially disambiguated eg Cush@Gen.2.13=H3568a; Cush@Psa.7.1=H3568b but Cush@Gen.10.6=H3568a. In this case the least commonly occuring conflicting name is changed. 
+   eg the tag H2608a is used for 15 individuals. One of those, Hananiah@Dan.1.6,  also uses H2608b so he becomes H2608B. The others occur only once or twice each, except for Hananiah@Jer.28.1 so he becomes H2608A. The rest are tagged "C", "D" etc so these are not backward compatible. 
+   For 175 of the 45274  instances of names,  the resultant EStrong tag is not  backward compatible with eStrong, so if this data is used outside of STEPBible, a note would  needed at the following 'wrong' eStrong numbers:
+H0223A	for Uriah@2Ki.16.10=H0223a => H0223C at 2Ki.16.10;2Ki.16.11;2Ki.16.11;2Ki.16.15;2Ki.16.16;Isa.8.2. 	Uriah@Ezr.8.33=H0223a => H0223D at Neh.3.4;Neh.3.21;Ezr.8.33. 	Uriah@Neh.8.4=H0223a => H0223E at Neh.8.4; 
+H0454A	for Eliehoenai@Ezr.8.4=H0454a => H0454C at Ezr.8.4
+H0454B	for Elioenai@1Ch.4.36=H0454b => H0454D at 1Ch.4.36.	Elioenai@1Ch.7.8=H0454b => H0454E at 1Ch.7.8.	Elioenai@Ezr.10.22=H0454b => H0454F at Ezr.10.22.	Elioenai@Ezr.10.27=H0454b => H0454G at Ezr.10.27.	Elioenai@Neh.12.41=H0454b => H0454H at Neh.12.41
+H0783A & H0783B 	for Artaxerxes@Ezr.4.7=H0783a, H0783b => H0783C at Ezr.4.7;Ezr.4.7 (it is C, not B because Artaxerxes@Ezr.6.14 also uses both H0783a and H0783b). 	Artaxerxes@Ezr.6.14=H0783b => H0783A at Ezr.4.7 (ususally he is tagged H0783a).	Artaxerxes@Ezr.4.7=H0783a => H0783B at Ezr.7.21 (ususally he is tagged H0783b)
+H1106A 	for Bela@Gen.36.32=H1106a => H1106C at Gen.36.32;Gen.36.33;1Ch.1.43;1Ch.1.44 (C not B which is used for a sub entry elsewhere).  	Bela@1Ch.5.8=H1106a => H1106D at 1Ch.5.8; 
+H1168B	for Baal@1Ch.5.5=H1168b => H1168C at 1Ch.5.5;
+H1436A	for Gedaliah@2Ki.25.22=H1436a => H1436B at Jer.40.5;Jer.40.8;Jer.41.16 (usuaually this person is tagged =H1436b).	Gedaliah@Zep.1.1=H1436a => H1436C at Zep.1.1. 	Gedaliah@1Ch.25.3=H1436a => H1436D at 1Ch.25.3;1Ch.25.9. 	Gedaliah@Jer.38.1=H1436a => H1436E at Jer.38.1. 
+H1688A	for Debir@Jos.15.7=H1688a => H1688C at Jos.15.7 (C is used instead of B because H1688b exists as a 2nd version of a name). 	Debir@Jos.10.3=H1688a =H1688D at Jos.10.3
+H1688B	for Lo-debar@Jos.13.26=H3810A  used for alt name H1688b at Jos.13.26
+H1913A	for Joram@2Sa.8.10=H3141A  used for alt name H1913a at 1Ch.18.10
+H2148A	for Zechariah@Ezr.5.1=H2148a => H2148B at Zec.1.1;Zec.1.7;Zec.7.1;Zec.7.8  (another time he is tagged H2148b). 	Zechariah@2Ki.18.2=H2148a => H2148C at  2Ki.18.2;2Ch.29.1. Zechariah@1Ch.5.7=H2148a => H2148D at  1Ch.5.7.	Zechariah@1Ch.24.25=H2148a => H2148E at  1Ch.24.25.	Zechariah@1Ch.26.11=H2148a => H2148F at  1Ch.26.11.	Zechariah@1Ch.27.21=H2148a => H2148G at  1Ch.27.21.	Zechariah@2Ch.17.7=H2148a => H2148H at  2Ch.17.7.	Zechariah@2Ch.20.14=H2148a => H2148I at  2Ch.20.14.	Zechariah@2Ch.21.2=H2148a => H2148J at  2Ch.21.2.	Zechariah@2Ch.24.20=H2148a => H2148K at  2Ch.24.20.	Zechariah@2Ch.26.5=H2148a => H2148L at  2Ch.26.5.	Zechariah@2Ch.29.13=H2148a => H2148M at  2Ch.29.13.	Zechariah@2Ch.34.12=H2148a => H2148N at  2Ch.34.12.	Zechariah@2Ch.35.8=H2148a => H2148O at  2Ch.35.8.	Zechariah@2Ki.14.29=H2148a => H2148P at  2Ki.14.29;2Ki.15.8;2Ki.15.11.	Zechariah@Ezr.8.3=H2148a => H2148Q at  Ezr.8.3.	Zechariah@Ezr.8.11=H2148a => H2148R at  Ezr.8.11.	Zechariah@Ezr.8.16=H2148a => H2148S at  Ezr.8.16.	Zechariah@Ezr.10.26=H2148a => H2148T at  Ezr.10.26.	Zechariah@Neh.8.4=H2148a => H2148U at  Neh.8.4.	Zechariah@Neh.11.4=H2148a => H2148V at  Neh.11.4.	Zechariah@Neh.11.5=H2148a => H2148W at  Neh.11.5.	Zechariah@Neh.11.12=H2148a => H2148X at  Neh.11.12.	Zechariah@Neh.12.16=H2148a => H2148Y at  Neh.12.16.	Zechariah@Neh.12.41=H2148a => H2148y at  Neh.12.41.	Zechariah@Neh.12.35=H2148a => H2148Z at  Neh.12.35.	Zechariah@Isa.8.2=H2148a => H2148z at  Isa.8.2.	Zecher@1Ch.8.31=H2144A  used for alt name  H2148a at 1Ch.9.37
+H2174A	for Zimri@Num.25.14=H2174a => H2174C at  Num.25.14. 	Zimri@1Ch.8.36=H2174a => H2174D at  1Ch.8.36;1Ch.8.36;1Ch.9.42;1Ch.9.42
+H2275A	for Hebron_Valley@Gen.37.14=H6010+H2275a => H2275D
+H2275B	for Hebron@1Ch.2.42=H2275b => H2275C at 1Ch.2.42;1Ch.2.43.	Hebron@Gen.13.18=H2275b => H2275A at 2Sa.5.5; (usually this is H2275a). 	
+H2366B	for Hushim@1Ch.7.12=H2366b => H2366C at 1Ch.7.12
+H2608A	for Hananiah@1Ch.25.4=H2608a => H2608C at 1Ch.25.4;1Ch.25.23. 	Hananiah@2Ch.26.11=H2608a => H2608D at 2Ch.26.11. 	Hananiah@Ezr.10.28=H2608a => H2608E at Ezr.10.28. 	Hananiah@Neh.3.8=H2608a => H2608F at Neh.3.8. 	Hananiah@Neh.3.30=H2608a => H2608G at Neh.3.30. 	Hananiah@Neh.7.2=H2608a => H2608H at Neh.7.2. 	Hananiah@Neh.10.23=H2608a => H2608I at Neh.10.23. 	Hananiah@Neh.12.12=H2608a => H2608J at Neh.12.12. 	Hananiah@Neh.12.41=H2608a => H2608K at Neh.12.41. 	Hananiah@1Ch.3.19=H2608a => H2608L at 1Ch.3.19;1Ch.3.21. 	Hananiah@Jer.36.12=H2608a => H2608M at Jer.36.12. 	Hananiah@Jer.37.13=H2608a => H2608N at Jer.37.13. 	Hananiah@1Ch.8.24=H2608a => H2608O at 1Ch.8.24.
+H2660A	for Hepher@1Ch.4.6=H2660a => H2660C at 1Ch.4.6. 	Hepher@1Ch.11.36=H2660a => H2660D at 1Ch.11.36;
+H3136A	for Jehozadak@1Ch.6.14=H3087A used for alt name H3136a at Ezr.3.2;Ezr.3.8;Neh.12.26
+H3293A	for Kiriath-jearim@Jos.9.17=H7157A  used for alt name H3293a at Psa.132.6
+H3470A	for Jeshaiah@1Ch.25.3=H3470a => H3470C at 1Ch.25.3;1Ch.25.15. 	Isshiah@1Ch.24.21=H3449D  used for alt name H3470a at 1Ch.26.25
+H3470B	for Jeshaiah@Ezr.8.7=H3470b => H3470D at Ezr.8.7. 	Jeshaiah@Ezr.8.19=H3470b => H3470E at Ezr.8.19. 	Jeshaiah@Neh.11.7=H3470b => H3470F at Neh.11.7;
+H3568A 	for Cush@Gen.10.6=H3568a => H3568C at Gen.10.6;Gen.10.7;Gen.10.8;1Ch.1.8;1Ch.1.9;1Ch.1.10 (it is C not B because there are two others, and one is H1106b => H1106B)
+H3669A	for Canaan@Gen.10.18=H3667A  used for alt name H3669a at Eze.16.3; Gen.10.18;Gen.10.19; + freq. 
+H4409A	for Malluch@Neh.10.4=H4409a => H4409B at Neh.10.4;Neh.12.2 (another time he is tagged H4409b). 	Malluch@Ezr.10.32=H4409a => H4409C at Ezr.10.32. 	Malluch@1Ch.6.44=H4409a => H4409D at 1Ch.6.44. 	Malluch@Ezr.10.29=H4409a => H4409E at Ezr.10.29; 
+H5015A	for Nebo@Ezr.2.29=H5015a => H5015D at Ezr.2.29;Ezr.10.43;Neh.7.33. 	Nebo_Mount@Deu.32.49=H5015a => H5015C at Num.27.12;Num.33.47;Num.33.48;Deu.32.49;Jer.22.20
+H5279A	for Naamah@Gen.4.22=H5279a => H5279C at Gen.4.22
+H5543D	for Sallu@Neh.11.7=H5543d => H5543E at Neh.11.7
+H5543E	for Sallu@Neh.12.7=H5543e => H5543B at Neh.12.20;  (other times he is tagged H5543b). 	
+H5731A	for Eden@2Ch.31.15=H5731a => H5731C at 2Ch.31.15
+H5798A	for Uzza@1Ch.8.7=H5798a => H5798C at 1Ch.8.7. 	Uzza@Ezr.2.49=H5798a => H5798D at Ezr.2.49;Neh.7.51. 	Uzza@2Ki.21.18=H5798a => H5798E at 2Ki.21.18;2Ki.21.26
+H5867B	for Elam@1Ch.8.24=H5867b => H5867D at 1Ch.8.24. 	Elam@1Ch.26.3=H5867b => H5867E at 1Ch.26.3. 	Elam@Neh.10.14=H5867b => H5867F at Neh.10.14. 	Elam@Neh.12.42=H5867b => H5867G at Neh.12.42;  
+H5971A	for Amminadib@Sng.6.12=H5971a => H5971B at Son.6.12
+H7014A	for Kenite@Gen.15.19=H7017A  used for alt name H7014a at Jdg.4.11
+H7348A	for Rehum@Neh.3.17=H7348a => H7348C at Neh.3.17. 	Rehum@Neh.10.25=H7348a => H7348D at Neh.10.25
+H7417C	for Dimnah@Jos.21.35=H1829A  used for alt name H7417c at Jos.19.13;1Ch.6.77.	Ain@Num.34.11=H5871A  used for alt name H7417c at Jos.15.32;Jos.19.7;1Ch.4.32;Zec.14.10
+H7597B	for Shealtiel@1Ch.3.17=H7597b => H7597A at Hag.1.12;Hag.1.14;Hag.2.2 (another time he is tagged H7597a)
+H7641A	for Euphrates@Gen.2.14=H6578A  used for alt name H7641a at Isa.27.12
+H7652A	for Sheba@1Ch.5.13=H7652a => H7652C at 1Ch.5.13;  (C is used instead of B because H7652b exists as a 2nd version of a name)
+H8019A	for Shelomith@2Ch.11.20=H8019a => H8019C at 2Ch.11.20. 	Shelomith@Ezr.8.10=H8019a => H8019D at Ezr.8.10. 	
+H8019B	for Shelomith@1Ch.3.19=H8019b => H8019E at 1Ch.3.19
+H8106A	for Shemer@1Ch.6.46=H8106a => H8106C at 1Ch.6.46
+H8165A	for Seir_Mount@Deu.1.2=H8165a => H8165C at Deu.1.2;Deu.2.1;Deu.2.5;1Ch.4.42;2Ch.20.10;2Ch.20.22;2Ch.20.23;Eze.35.2;Eze.35.3;Eze.35.7;Eze.35.15. 	Seir_Mount@Jos.15.10=H8165a => H8165D at Jos.15.10
+H8227B	for Shaphan@Ezk.8.11=H8227b => H8227A at Eze.8.11
+H8599B	for Tappuah@Jos.15.34=H8599b => H8599C at Jos.15.34
+
 						
-						
-NOTES:						>
-======						
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<©						
+DEVELOPMENT NOTES:						>
+================						
 The Ketiv and Qere are different at Pro.27.20 and these are noted. 						>
 						
 A JSON version of this data has been created at https://github.com/robertrouse/STEPBible-Data/tree/master/json 						>
@@ -17654,6 +17705,5 @@ Probs:						>
 Look for names in Ketiv etc that aren't listed separately, eg. Zaanannim@Jos.19.33, Zaccur@Ezr.8.14, Jeremoth@Ezr.10.29						>
 						
 						
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<©						
 						
 						
