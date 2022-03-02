@@ -35,22 +35,22 @@ Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for 
 * **[TOTHT - Translators OT Hebrew Tagged text](https://github.com/STEPBible/STEPBible-Data)**        
 The Leningrad codex based on Westminster via OpenScriptures, with full morphological and semantic tags for all words, prefixes and suffixes. Semantic tags use the extended Strongs linked to BDB by OS, is backwardly compatible with simple Strongs tags and includes all affixes (as defined in TBESH). Morphological tags are from ETCBC converted to the format of OS (similar to Westminster) with different morphology for Ketiv/Qere when needed.
 
-* **[TAGNT - Translators Amalgamated Greek NT](https://docs.google.com/spreadsheets/d/16Y1OCgWcqZndmWP3CA3YfYMPjwxIRb0UMQt-cSS8Wdw/edit#gid=0)**      
+* **[TAGNT - Translators Amalgamated Greek NT](https://docs.google.com/spreadsheets/d/16Y1OCgWcqZndmWP3CA3YfYMPjwxIRb0UMQt-cSS8Wdw/preview)**      
 Greek text that includes all the words in NA27/28, TR and other major editions (SBLGNT, Treg, Byz, WH, THGNT). Each word is marked with the editions that contain it, positional variants, spelling variants and meaning variants. All words and meaning variants are tagged lexically (extended Strong linked to LSJ) and morphologically (Robinson based on Tauber plus a few missing details) plus context-sensitive meanings for words with more than one meaning. Spellings are based on NA28 and punctuation on THGNT, and on TR for words not in NA27/28.       
 
-* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew](https://github.com/STEPBible/STEPBible-Data)**     
+* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)**     
 Abridged BDB linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)   
 
-* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek](https://github.com/STEPBible/STEPBible-Data)**  
+* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
 
-* **[TFLSJ - Translators Formatted full LSJ Bible lexicon](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/edit)**    
+* **[TFLSJ - Translators Formatted full LSJ Bible lexicon up to G5624](https://docs.google.com/spreadsheets/d/1wbWm5FhUgcS8aBZ1s2u0cmnWKO7t-CuzE0ZaKsBtRpw/preview) and [Extra entries](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/preview)**    
 Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
-* **[TIPNR - Translators Individualised Proper Names with all References](https://docs.google.com/spreadsheets/d/1ye5ujH_YutNfz1yYy7aiM_TBz3vMVACPpqKgNz0iH0Y/edit)**  
+* **[TIPNR - Translators Individualised Proper Names with all References](https://docs.google.com/spreadsheets/d/1ye5ujH_YutNfz1yYy7aiM_TBz3vMVACPpqKgNz0iH0Y/preview)**  
 Every name in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places. Each form of the names for each individual includes exhaustive refs for where that individual is named with data of their spouses, siblings and offspring or the places' geolocation (based on OpenBible).    
 
-* **[TVTMS - Translators Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/edit)**  
+* **[TVTMS - Translators Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others](https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/preview)**  
 All the versification differences in the OT traditional texts in Hebrew, Latin and Greek, and NT early versification, compared with English standard (defined by NRSV which is virtually identical to KJV). Bible translations have an almost infinite variety of versifications because they may follow (for example) Latin in several sections, Hebrew in a few and English most of the time. The Methodology provides simple rules for every section, such as "if this chapter has 29 verses, it is using Greek versification". Using this, a whole Bible can be reversified according to English or traditional Hebrew or Greek or Latin versification, or compared with Bibles using that versification.   
 
 * **[TEHMC - Translators Expansion of Hebrew Morphology Codes](https://github.com/STEPBible/STEPBible-Data)**  
