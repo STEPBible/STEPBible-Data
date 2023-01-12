@@ -103,5 +103,5 @@ NT: Mat, Mrk, Luk, Jhn, Act, Rom, 1Co, 2Co, Gal, Eph, Php, Col, 1Th, 2Th, 1Ti, 2
 (OT+NT are all based on the first 3 characters, except: Jdg, Sng, Ezk, Jol, Nam, Mrk, Jhn, Php, Phm, Jas, 1Jn, 2Jn, 3Jn)
 
 # Error reporting
-Please report all errors at Feedback AT STEPBible.org     See [Current reported errors](https://docs.google.com/spreadsheets/d/1HnNr-iNgO0NwByU7eKrz3YzmIBe8PWHrssNVZipuM6s/edit#gid=0)
+Please report all errors at Feedback@STEPBible.org     See [Current reported errors](https://docs.google.com/spreadsheets/d/1HnNr-iNgO0NwByU7eKrz3YzmIBe8PWHrssNVZipuM6s/edit#gid=0)
 
