@@ -17,7 +17,7 @@ And you should:
 * **Credit it** to "STEP Bible" linked to www.STEPBible.org    
   
 # STEPBible is...    
-A Charitable Incorporated Organisation registered in the UK #1193952 run by Bible scholars and computer enthusiasts, as well as members who help to decide priorities.   
+A Charitable Incorporated Organisation registered in the UK #1193950 run by Bible scholars and computer enthusiasts, as well as members who help to decide priorities.   
 The datasets are based on work by scholars at Tyndale House - an international Biblical Studies research institute in Cambridge, UK (see www.TyndaleHouse.com)   
 
 The repository aims to provide reliable and freely usable data for studying the Bible without any denominational or doctrinal bias. Much of the data is based on other publically licenced sources, and has been compared with non-public sources so that differences can be checked by Tyndale scholars. Corrections and proposed updates are welcomed - please send them to STEPBibleATgmail.com for checking.  
