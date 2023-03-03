@@ -32,19 +32,19 @@ Bibles in the same format as [Crosswire modules](https://www.crosswire.org/sword
 * **[TTESV - Translators Translation tags for ESV](https://github.com/STEPBible/STEPBible-Data)**  
 Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV.   
 
-* **[TOTHT - Translators OT Hebrew Tagged text](https://github.com/STEPBible/STEPBible-Data)**        
+* **[TOTHT - Translators OT Hebrew Tagged text](https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT)**        
 The Leningrad codex based on Westminster via OpenScriptures, with full morphological and semantic tags for all words, prefixes and suffixes. Semantic tags use the extended Strongs linked to BDB by OS, is backwardly compatible with simple Strongs tags and includes all affixes (as defined in TBESH). Morphological tags are from ETCBC converted to the format of OS (similar to Westminster) with different morphology for Ketiv/Qere when needed.
 
-* **[TAGNT - Translators Amalgamated Greek NT in Sheets](https://docs.google.com/spreadsheets/d/1Uri4ehqXnzUa97uvH-1-C022708HhLQ1a541Hsnlt70/edit#gid=0)** **[or data](https://github.com/STEPBible/STEPBible-Data)**  
+* **[TAGNT - Translators Amalgamated Greek NT in Sheets](https://docs.google.com/spreadsheets/d/1Uri4ehqXnzUa97uvH-1-C022708HhLQ1a541Hsnlt70/edit#gid=0)** **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT)**  
 Greek text that includes all the words in NA27/28, TR and other major editions (SBLGNT, Treg, Byz, WH, THGNT). Each word is marked with the editions that contain it, positional variants, and meaning variants. All words and meaning variants are tagged lexically (disambiguated Strong linked to LSJ) and morphologically (Robinson based on Tauber with missing details) plus context-sensitive translations Punctuation is based on THGNT with spellings from NA28 or other editions for words not in NA27/28.       
 
-* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data)**  
+* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**  
 Abridged BDB linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)   
 
-* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data)**  
+* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
 
-* **[TFLSJ - Translators Formatted full LSJ Bible lexicon up to G5624 in Sheets](https://docs.google.com/spreadsheets/d/1wbWm5FhUgcS8aBZ1s2u0cmnWKO7t-CuzE0ZaKsBtRpw/preview) and [Extra entries](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/preview)**  **[or data](https://github.com/STEPBible/STEPBible-Data)**      
+* **[TFLSJ - Translators Formatted full LSJ Bible lexicon up to G5624 in Sheets](https://docs.google.com/spreadsheets/d/1wbWm5FhUgcS8aBZ1s2u0cmnWKO7t-CuzE0ZaKsBtRpw/preview) and [Extra entries](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/preview)**  **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**      
 Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
 * **[TIPNR - Translators Individualised Proper Names with all References in Sheets](https://docs.google.com/spreadsheets/d/1ye5ujH_YutNfz1yYy7aiM_TBz3vMVACPpqKgNz0iH0Y/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data)**  
