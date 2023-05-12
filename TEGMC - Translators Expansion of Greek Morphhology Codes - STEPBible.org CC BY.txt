@@ -203,10 +203,20 @@ A-ASF	Function=Adjective; Case=Accusative; Number=Singular; Gender=Feminine
 	DESCRIBING a female person or thing that is having something done to them 
 	"giving a _wise_ woman to them"
 $
+A-ASM-C	Function=Adjective; Case=Accusative; Number=Singular; Gender=Masculine; Extra=Comparative
+	Adjective Accusative Singular Masculine Comparative
+	"DESCRIBING comparatively‚ a male person or thing that is having something done to them "
+	"giving a _wiser_ man to them"
+$
 A-ASF-C	Function=Adjective; Case=Accusative; Number=Singular; Gender=Feminine; Extra=Comparative
 	Adjective Accusative Singular Feminine Comparative
 	"DESCRIBING comparatively‚ a female person or thing that is having something done to them "
 	"giving a _wiser_ woman to them"
+$
+A-ASN-C	Function=Adjective; Case=Accusative; Number=Singular; Gender=Neuter; Extra=Comparative
+	Adjective Accusative Singular Neuter Comparative
+	"DESCRIBING comparatively‚ a neuter person or thing that is having something done to them "
+	"giving a _wiser_ nation to them"
 $
 A-ASF-L	Function=Adjective; Case=Accusative; Number=Singular; Gender=Feminine; Name type=Location
 	Adjective Accusative Singular Feminine Location
@@ -408,7 +418,7 @@ A-DSF-S	Function=Adjective; Case=Dative; Number=Singular; Gender=Feminine; Extra
 	"DESCRIBING superlatively a female person or thing that something is done for‚ or in relation to "
 	"giving to the wisest woman"
 $
-A-DSF-T	Function=Adjective; Case=Dative; Number=Singular; Gender=Feminine; Name type=Type
+A-DSF-T	Function=Adjective; Case=Dative; Number=Singular; Gender=Feminine; Name type=Title
 	Adjective Dative Singular Feminine of a type
 	"DESCRIBING a type of female person or thing that something is done for‚ or in relation to "
 	"giving to the wisest woman"
@@ -513,6 +523,11 @@ ADV-S	Function=Adverb; Extra=Superlative
 	DESCRIBING an ACTION superlatively
 	"it was _most wisely_ given"
 $
+ADV-T	Function=Adverb; Name type=Title
+	Adverb Title
+	DESCRIBING an ACTION of a type of person or thing
+	"it was _most wisely_ given"
+$
 ADV-TG	Function=Adverb; Name type=Title Gentilic
 	Adverb Title Gentilic 
 	DESCRIBING an ACTION of a type of group
@@ -596,6 +611,11 @@ $
 A-GPM-S	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Extra=Superlative
 	Adjective Genitive Plural Masculine Superlative
 	DESCRIBING male people or things that something belongs to 
+	"teachings of _wise_ men"
+$
+A-GPM-T	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Title
+	Adjective Genitive Plural Masculine Title
+	DESCRIBING a type of male people or things that something belongs to 
 	"teachings of _wise_ men"
 $
 A-GPM-TG	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Title Gentilic
@@ -1743,6 +1763,16 @@ K-ASN	Function=Correlative pronoun; Case=Accusative; Number=Singular; Gender=Neu
 	a reference back to a TYPE of a neuter person or thing that is having something done to them 
 	"giving him _whichever_ one of those nations is wise"
 $
+K-DSF	Function=Correlative pronoun; Case=Dative; Number=Singular; Gender=Feminine
+	Correlative pronoun Dative Singular Feminine 
+	"a reference back to a TYPE of a female person or thing that something is done for‚ or in relation to "
+	"of those women‚ _whichever one_ is wise"
+$
+K-DSM	Function=Correlative pronoun; Case=Dative; Number=Singular; Gender=Masculine
+	Correlative pronoun Dative Singular Masculine 
+	"a reference back to a TYPE of a male person or thing that something is done for‚ or in relation to "
+	"of those men‚ _whichever one_ is wise"
+$
 K-DSN	Function=Correlative pronoun; Case=Dative; Number=Singular; Gender=Neuter
 	Correlative pronoun Dative Singular Neuter 
 	"a reference back to a TYPE of a neuter person or thing that something is done for‚ or in relation to "
@@ -1913,6 +1943,11 @@ N-ASM-P	Function=Noun; Case=Accusative; Number=Singular; Gender=Masculine; Name 
 	a male PERSON that is having something done to them 
 	"giving a _man_ to them"
 $
+N-ASM-PG	Function=Noun; Case=Accusative; Number=Singular; Gender=Masculine; Name type=Individual Gentilic
+	Noun Accusative Singular Masculine Individual Gentilic
+	from a named individual: a male PERSON that is having something done to them 
+	"giving a _man_ to them"
+$
 N-ASM-T	Function=Noun; Case=Accusative; Number=Singular; Gender=Masculine; Name type=Title
 	Noun Accusative Singular Masculine Title
 	a proper name of a male PERSON OR THING that is having something done to them 
@@ -1958,6 +1993,11 @@ N-DPM	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine
 	"male PEOPLE OR THINGS that something is done for‚ or in relation to "
 	"giving them to _men_"
 $
+N-DPM-C	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Gentilic; Extra=Contracted form
+	Noun Dative Plural Masculine Gentilic Contracted form
+	"a member of a named group: male PEOPLE OR THINGS that something is done for‚ or in relation to "
+	"giving them to _men_"
+$
 N-DPM-G	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Gentilic
 	Noun Dative Plural Masculine Gentilic
 	"a member of a named group: male PEOPLE OR THINGS that something is done for‚ or in relation to "
@@ -1976,6 +2016,11 @@ $
 N-DPM-P	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Individual
 	Noun Dative Plural Masculine Individual
 	"male PEOPLE that something is done for‚ or in relation to "
+	"giving them to _men_"
+$
+N-DPM-PG	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Individual Gentilic
+	Noun Dative Plural Masculine Individual Gentilic
+	"from a named individual: male PEOPLE that something is done for‚ or in relation to "
 	"giving them to _men_"
 $
 N-DPM-T	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=
@@ -2018,6 +2063,11 @@ N-DSF-P	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type=
 	"a female PERSON that something is done for‚ or in relation to "
 	"giving them to a _woman_"
 $
+N-DSF-PG	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type=Individual Gentilic
+	Noun Dative Singular Feminine Individual Gentilic
+	"from a named individual: a female PERSON that something is done for‚ or in relation to "
+	"giving them to a _woman_"
+$
 N-DSF-T	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type=
 	Noun Dative Singular Feminine 
 	"a proper name of a female PERSON OR THING that something is done for‚ or in relation to "
@@ -2025,6 +2075,11 @@ N-DSF-T	Function=Noun; Case=Dative; Number=Singular; Gender=Feminine; Name type=
 $
 N-DSM	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine
 	Noun Dative Singular Masculine 
+	"a male PERSON OR THING that something is done for‚ or in relation to "
+	"giving them to a _man_"
+$
+N-DSM-C	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Extra=Contracted form
+	Noun Dative Singular Masculine Contracted form
 	"a male PERSON OR THING that something is done for‚ or in relation to "
 	"giving them to a _man_"
 $
@@ -2041,6 +2096,11 @@ $
 N-DSM-P	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Name type=Individual
 	Noun Dative Singular Masculine Individual
 	"a male PERSON that something is done for‚ or in relation to "
+	"giving them to a _man_"
+$
+N-DSM-PG	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Name type=Individual Gentilic
+	Noun Dative Singular Masculine Individual Gentilic
+	"from a named individual: a male PERSON that something is done for‚ or in relation to "
 	"giving them to a _man_"
 $
 N-DSM-T	Function=Noun; Case=Dative; Number=Singular; Gender=Masculine; Name type=Title
@@ -2220,6 +2280,11 @@ N-NPF	Function=Noun; Case=Nominative; Number=Plural; Gender=Feminine
 $
 N-NPM	Function=Noun; Case=Nominative; Number=Plural; Gender=Masculine
 	Noun Nominative Plural Masculine 
+	male PEOPLE OR THINGS that are doing something 
+	" _men_ giving teachings"
+$
+N-NPM-C	Function=Noun; Case=Nominative; Number=Plural; Gender=Masculine; Extra=Contracted form
+	Noun Nominative Plural Masculine Contracted form
 	male PEOPLE OR THINGS that are doing something 
 	" _men_ giving teachings"
 $
@@ -2729,6 +2794,11 @@ PREP	Function=Preposition
 	"_of‚ from‚ by‚ in_"
 $
 PRT	Function=Particle or Disjunctive
+	Particle or Disjunctive Particle
+	introducing an alternative
+	"giving to this _or_ that"
+$
+PRT-ARAM	Function=Particle or Disjunctive; Original language=Transcribed from Aramaic
 	Particle or Disjunctive Particle
 	introducing an alternative
 	"giving to this _or_ that"
@@ -4409,6 +4479,11 @@ V-AAI-2P	Function=Verb; Tense=Aorist; Voice=Active; Mood=Indicative; Person=2nd;
 	"_you_ all _taught _"
 $
 V-AAI-2S	Function=Verb; Tense=Aorist; Voice=Active; Mood=Indicative; Person=2nd; Number=Singular
+	Verb Aorist Active Indicative 2nd Singular 
+	an ACTION that happened - by a person being spoken or written to 
+	"_you_ alone _taught _"
+$
+V-AAI-2S-ARAM	Function=Verb; Tense=Aorist; Voice=Active; Mood=Indicative; Person=2nd; Number=Singular
 	Verb Aorist Active Indicative 2nd Singular 
 	an ACTION that happened - by a person being spoken or written to 
 	"_you_ alone _taught _"
