@@ -267,11 +267,6 @@ A-ASM	Function=Adjective; Case=Accusative; Number=Singular; Gender=Masculine
 	DESCRIBING a male person or thing that is having something done to them 
 	"giving a _wise_ man to them"
 $
-A-ASM-C	Function=Adjective; Case=Accusative; Number=Singular; Gender=Masculine; Extra=Comparative
-	Adjective Accusative Singular Masculine Comparative
-	"DESCRIBING comparatively‚ a male person or thing that is having something done to them "
-	"giving a _wiser_ man to them"
-$
 A-ASM-L	Function=Adjective; Case=Accusative; Number=Singular; Gender=Masculine; Name type=Location
 	Adjective Accusative Singular Masculine Location
 	DESCRIBING a named location: a male person or thing that is having something done to them 
