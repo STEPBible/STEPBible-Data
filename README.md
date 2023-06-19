@@ -26,7 +26,7 @@ The repository aims to provide reliable and freely usable data for studying the 
 The data is available as **[downloadable tab-separated text files](https://github.com/STEPBible/STEPBible-Data/)** (see notes on the data format below).
 The following datasets are already posted 
 
-* **[Bible modules for OSIS Sword software](http://ftp.stepbible.org/pub/sword/zip//)**
+* **[Bible modules for OSIS Sword software](https://public.modules.stepbible.org/packages)**
 Bibles in the same format as [Crosswire modules](https://www.crosswire.org/sword/modules/) which can be used in any Sword-compatible software.
 
 * **[TTESV - Translators Translation tags for ESV](https://github.com/STEPBible/STEPBible-Data)**  
