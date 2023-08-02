@@ -1,0 +1,94 @@
+﻿TAHOT Gen-Deu - Translators Amalgamated Hebrew OT - STEPBible.org CC BY																
+TAHOT Jos-Est - Translators' Amalgamated Hebrew OT - STEPBible.org CC BY																
+TAHOT Job-Sng - Translators' Amalgamated Hebrew OT - STEPBible.org CC BY																
+TAHOT Isa-Mal - Translators' Amalgamated Hebrew OT - STEPBible.org CC BY																
+(This is saved as 4  files because a single file too large for Github)																
+=================================================																
+																
+	==============================================================															
+	Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)															
+	==============================================================															
+	This licence allows you to:															
+	* Include any part of this data in software or publications without requesting permission 															
+	* Download the data and reformat it for your application, without changing the data															
+	* Send any proposed corrections to STEPBibleATGmail.com. to be verified 															
+	  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)															
+	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself. 															
+	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
+	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
+	==============================================================															
+																
+Translators Amalgamated Hebrew OT tagged with disambiguated Strongs extended for BDB including tags for prefixes & suffixes, with ETCBC morphology																
+
+The aim of this data is to supply the text actually used by Bible translators, which is often different to that found in the Leningrad codex.  																
+The body of the text has the Qere (ie the scribal marginal reading which was generally used even by the KJV translators) while recording the Ketiv (ie the text that  the Qere replaces) as a variant.  																
+Other readings used by translators are also recorded as variants, while additional text (mostly from the LXX) is added in Hebrew from the BHS & BHK apparatus.  																
+The Leningrad text and the source of any variant or addition is always indicated. 																
+																
+FIELD DESCRIPTIONS:																
+==============																
+Ref in Heb (Eng)	Hebrew Bible versification (with Eng refs in brackets when they are different). Word numbers of the Ketiv text, dividing words by spaces and metheg.  English refs occasionally start a verse on a different word - i.e. Num.26.1; 1Sa.21.1; 1Ki.18.33; 20.3; 22.22; 22.43; 1Ch.12.4; Isa.64.1; and all Psalm Titles.															
+Text type:	"M + T" marks most words, where T is the Text in BHS/Leningrad as pointed by the Masoretes and M is the text that the Masoretes recommend. When they are different, "M + (T)" indicates a difference in meaning, and "M + [T]" indicates a differnce in spelling alone. Twice "[M + T]" indicates the text has been reconstructed, at Jos.21.36-37 from 1Ch.6.63-64 and at Neh.7.67b from Ezr.2.66.															
+	"M + T +(B)" incidates a Meaning variant where BHS differs from Leningrad, and the square brackets of "M + T +[B]" indicates it is only a Spelling variant. Other letters are used for different sources of variants  (see A, C, D, E, I, P, Q, V, W below). 															
+Hebrew	Pointing, cantillation and punctuation follow the Qere with the Ketiv as a variant when the meaning differs. The Qere includes those found in Leningrad and others listed in the BHS apparatus (ie Gen.9.21#07; Gen.12.8#08; Gen.33.4#07; Gen.35.21#04; Exo.32.17#06; Exo.35.11#12; Lev.23.13#11; Num.3.51#05; Deu.27.10#07; Jdg.19.13#03; Jdg.19.21#03; 1Sa.18.14#04; 1Sa.18.22#04; 2Sa.13.33#15; 1Ki.17.15; 2Ki.19.23#21; 2Ki.20.13#08; 2Ch.35.4#01; 2Ch.36.14#07; Ezr.4.11#10; Est.4.4#01; Psa.21.2#07; Psa.123.4#08; Pro.6.13#02; Pro.6.13#04; Pro.23.3#02; Isa.58.14#07; Jer.2.3#05; Jer.15.8#03; Jer.22.18#24; Jer.27.20; Lam.3.25#03; Ezk.3.20#18; Ezk.31.18#25; Ezk.32.32#15; Ezk.39.11#24; Ezk.40.31#01; Ezk.43.11#12; Ezk.43.15#04; Ezk.44.3#07; Dan.2.29#01; Dan.2.31#01; Dan.2.37#01; Dan.2.38#14; Dan.4.22#21; Dan.4.22#27; Dan.4.29#22; Dan.6.1#02; Hab.3.4#09; Zec.2.8#02)															
+	Divisions ( / ) separate  prefixes, suffixes and punctuation. These are mirrored in the transliteration, translation, lexical tagging and grammar. 															
+	Hebrew is derived from Westminster Leningrad text WLC 4.20 via OpenScriptures, with occasional corrections towards the Leningrad Codex by BHS or by Tyndale scholars. It is, essentially, a corrected version of BHS. 															
+English translation:  	The divisions "/" mirror the divisions in Hebrew. Words in <angle brackets> are in the Hebrew but are best not  included in a translation. Words in [square brackets] aren't in the Hebrew but are implied and are best included in a translation. 															
+dStrongs = Lexical = Gloss	Lexical tags for each element of the Hebrew, including punctuation, separated by " /" with the Root tag in {curly brackets}. Each is made up of a  disambiguated Strong number (dStrong - as defined at TinyURL.com/STEP-Disambiguated), the lexical form in Heberew, and an English gloss with the sub-meaning after " » " where appropriate. 															
+	Names of people and places have unique IDs such as "Abram»Abraham@Gen.11.26-1Pe" which means: in this location the name given is Abram but the most common name is Abraham. This individual occurs first at Gen.11.26 and last in 1Peter. The ID and the accompanying dStrong number belongs to only one individual who is distinct from anyone else who shares any of their names. 															
+Grammar	Morphology is from ETCBC, with Ketiv forms parsed by Tyndale scholars - see e.g. Deu.33.2-15.   For the source of ETCBC and conversion method by Tyndale House, see https://goo.gl/yKaXQq#HebMorph2															
+	Morphology codes follow the form defined by OpenScriptures at http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html#vt															
+Meaning variant	Significant variants that are adopted by standard Bible translations which should result in a different translation. These include Kere (K - the Qere is placed in the main text), occasional significant variants from: 															
+	Aleppo (A), Cairensis (C), Ben Chaim (H),  Masorah Itture Sopherim (I), double pointing (P), other Hebrew manuscripts (V), Qumran and other Judean caves (Q) alternate word divisions (D) and other Emmendations (E). Many variants are not yet added. 															
+Spelling variants	Ketiv variants that would result in identical translation are recorded as spelling variants. Spelling variants from other sources are not listed. Spelling variants are not recorded in the Interlinear layout.  															
+	These variants may sometimes have different morphology, but they may not result in a different translation. For example, Ruth 3.14 has Ketiv "his foot" replaced by Qere "his feet" (because single 'foot' is a euphamism for penis). It also has "before" spelled as בִּ/טְרוֹם in Ketiv and בְּ/טֶ֛רֶם in Qere. Both are recorded in the Word-per-line display, but the spelling difference for "before" is not recorded in the Interlinear display.  															
+Conjoin word	Not yet implemented															
+sStrong+Instance	Simple Strongs (sStrongs) are the numbers found in simpler tagged BIbles - ie without the prefixes, suffixes or disambiguation.  Instances allow these to be upgraded to disambiguated tags with morphology - see www.TinyURL.com/UpgradingTags															
+	Instances mark more than one occurrence of the same sStrong in the same verse: "_A" is appended for the 1st instance  (eg G1234_A), "_B" for the 2nd instance etc.  A lower case (eg "_b") indicates the word may not be included in some tagged Bibles, because it is not found in all manuscripts or because there is also an alternate way to tag this word.   															
+Alt Strongs	Alternate ways to tag the same word using Strongs tags. Differences are usually due to different interpretations of the Hebrew root.  	The purpose of this and the sStrong+Instance is to help line up this data with other tagged Bibles.  														
+																
+																
+																
+																
+# Gen.1.1	be./re.Shit (בְּ/רֵאשִׁ֖ית)	ba.Ra' (בָּרָ֣א)	'E.lo.Him (אֱלֹהִ֑ים)	'et (אֵ֥ת)	ha./sha.Ma.yim (הַ/שָּׁמַ֖יִם)	ve./'Et (וְ/אֵ֥ת)	ha./'A.retz (הָ/אָֽרֶץ/׃)									
+#_Translation	in/ beginning	he created	God	<obj.>	the/ heavens	and/ <obj.>	the/ earth									
+#_Word=Grammar	H7225G=HR/Ncfsa	H1254A=HVqp3ms	H0430G=HNcmpa	H0853=HTo	H8064=HTd/Ncmpa	H0853=HC/To	H0776G=HTd/Ncfsa									
+#_Significant variant	-	-	-	-	-	-	-									
+																
+Heb (&Eng) Ref & Type	Hebrew	Transliteration	English translation	dStrongs = Lexical = Gloss	Grammar	Meaning Variants	Spelling Variants	Conjoin word	sStrong+Instance	Alt Strongs						
+Gen.1.1#01=M +T	בְּ/רֵאשִׁ֖ית	be./re.Shit	in/ beginning	H9003=ב=in / {H7225G=רֵאשִׁית=: beginning»first:1_beginning}	HR/Ncfsa			H7225								
+Gen.1.1#02=M +T	בָּרָ֣א	ba.Ra'	he created	{H1254A=בָּרָא=to create}	HVqp3ms			H1254								
+Gen.1.1#03=M +T	אֱלֹהִ֑ים	'E.lo.Him	God	{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}	HNcmpa			H0430								
+Gen.1.1#04=M +T	אֵ֥ת	'et	<obj.>	{H0853=אֵת=[Obj.]}	HTo			H0853_A								
+Gen.1.1#05=M +T	הַ/שָּׁמַ֖יִם	ha./sha.Ma.yim	the/ heavens	H9009=ה=the / {H8064=שָׁמַיִם=heaven}	HTd/Ncmpa			H8064								
+Gen.1.1#06=M +T	וְ/אֵ֥ת	ve./'Et	and/ <obj.>	H9002=ו=and / {H0853=אֵת=[Obj.]}	HC/To			H0853_B								
+Gen.1.1#07=M +T	הָ/אָֽרֶץ/׃	ha./'A.retz	the/ earth	H9009=ה=the / {H0776G=אֶ֫רֶץ=: country;planet»land:2_country;planet} / H9016=׃=verseEnd	HTd/Ncfsa			H0776								
+																
+# Rut.3.14	va./tish.Kav (וַ/תִּשְׁכַּ֤ב)	mar.ge.la.ta/v (מַרְגְּלוֹתָי/ו֙)	'ad- (עַד/־)	ha./Bo.ker (הַ/בֹּ֔קֶר)	va./Ta.kom (וַ/תָּ֕קָם)	bi/t.rom (בְּ/טֶ֛רֶם)	ya.Kir (יַכִּ֥יר)	'ish (אִ֖ישׁ)	'et- (אֶת/־)	re.'E./hu (רֵעֵ֑/הוּ)						
+#_Translation	and/ she lay down	Q: feet/ his	until	the/ morning	and/ she arose	Q: before/	he recognized	anyone	<obj.>	neighbor/ his						
+#_Word=Grammar	H7901G=Hc/Vqw3fs	H4772=HNcfpc/Sp3ms	H5704=HR	H1242=HTd/Ncmsa	H6965B=Hc/Vqw3fs	H2962=HR/Acbsa	H5234A=HVhi3ms	H0376I=HNcmsa	H0853=HTo	H7453=HNcmsc/Sp3ms						
+#_Significant variant	-	K: foot/ his = מַרְגְּלֹת/וֹ =H4772 = HNcfsc/Sp3ms ; 	-	-	-		-	-	-	-						
+#_Rut.3.14	va/i.Yo.mer (וַ/יֹּ֙אמֶר֙)	'al- (אַל/־)	yi.va.Da' (יִוָּדַ֔ע)	ki- (כִּי/־)	Va.'ah (בָ֥אָה)	ha./'i.Shah (הָ/אִשָּׁ֖ה)	ha./Go.ren (הַ/גֹּֽרֶן/׃)									
+#_Translation	and/ he said	not	let it be known	that	she came	the/ woman	the/ threshing floor									
+#_Word=Grammar	H0559=Hc/Vqw3ms	H0408=HTn	H3045=HVNj3ms	H3588A=HTc	H0935G=HVqp3fs	H0802G=HTd/Ncfsa	H1637=HTd/Ncfsa									
+#_Significant variant	-	-	-	-	-	-	-									
+																
+Heb (&Eng) Ref & Type	Hebrew	Transliteration	English translation	dStrongs = Lexical = Gloss	Grammar	Meaning Variants	Spelling Variants	Conjoin word	sStrong+Instance	Alt Strongs						
+Rut.3.14#01=M +T	וַ/תִּשְׁכַּ֤ב	va./tish.Kav	and/ she lay down	H9001=ו=& / {H7901G=שָׁכַב=: lay_down»to lie down:1_lay_down;lie_with}	Hc/Vqw3fs			H7901								
+Rut.3.14#02=M +(T)	מַרְגְּלוֹתָי/ו֙	mar.ge.la.ta/v	Q: feet/ his	{H4772=מַרְגְּלוֹת=feet} / H9023=Ps3m=his	HNcfpc/Sp3ms	Ketiv: foot/ his = מַרְגְּלֹת/וֹ =H4772 = HNcfsc/Sp3ms ; 	Westminster: מַרְגְּלֹתָ/ו ; Westminster: מַרְגְּלוֹתָי/וֹ֙ ; Leningrad: מַרְגְּלוֹתָ/ו֙ ; Ketiv: מַרְגְּלֹת/וֹ ; Qere: מַרְגְּלוֹתָי/ו֙	H4772								
+Rut.3.14#03=M +T	עַד/־	'ad-	until	{H5704=עַד=till} / H9014=־=link	HR			H5704								
+Rut.3.14#04=M +T	הַ/בֹּ֔קֶר	ha./Bo.ker	the/ morning	H9009=ה=the / {H1242=בֹּ֫קֶר=morning}	HTd/Ncmsa			H1242								
+Rut.3.14#05=M +T	וַ/תָּ֕קָם	va./Ta.kom	and/ she arose	H9001=ו=& / {H6965B=קוּם=: rise»to arise:1_rise;get_going}	Hc/Vqw3fs			H6965								
+Rut.3.14#06=M +(T)	בְּ/טֶ֛רֶם	bi/t.rom	Q: before/	H9003=ב=in / {H2962=טֶ֫רֶם=before}	HR/Acbsa	Ketiv: before/ = בִּ/טְרוֹם =H2958 = HR/Ncbsa ; 	Leningrad: בְּ/טֶ֛רֶום ; Ketiv: בִּ/טְרוֹם ; Qere: בְּ/טֶ֛רֶם	H2962								
+Rut.3.14#07=M +T	יַכִּ֥יר	ya.Kir	he recognized	{H5234A=נָכַר=to recognize}	HVhi3ms			H5234								
+Rut.3.14#08=M +T	אִ֖ישׁ	'ish	anyone	{H0376I=אִישׁ=: anyone»man:3_anyone;someone}	HNcmsa			H0376								
+Rut.3.14#09=M +T	אֶת/־	'et-	<obj.>	{H0853=אֵת=[Obj.]} / H9014=־=link	HTo			H0853								
+Rut.3.14#10=M +T	רֵעֵ֑/הוּ	re.'E./hu	neighbor/ his	{H7453=רֵעַ=neighbor} / H9023=Ps3m=his	HNcmsc/Sp3ms			H7453								
+Rut.3.14#11=M +T	וַ/יֹּ֙אמֶר֙	va/i.Yo.mer	and/ he said	H9001=ו=& / {H0559=אָמַר=to say}	Hc/Vqw3ms			H0559								
+Rut.3.14#12=M +T	אַל/־	'al-	not	{H0408=אַל=not} / H9014=־=link	HTn			H0408								
+Rut.3.14#13=M +T	יִוָּדַ֔ע	yi.va.Da'	let it be known	{H3045=יָדַע=to know}	HVNj3ms			H3045								
+Rut.3.14#14=M +T	כִּי/־	ki-	that	{H3588A=כִּי=for} / H9014=־=link	HTc			H3588								
+Rut.3.14#15=M +T	בָ֥אָה	Va.'ah	she came	{H0935G=בּוֹא=: come»to come (in):1_come;go_in}	HVqp3fs			H0935								
+Rut.3.14#16=M +T	הָ/אִשָּׁ֖ה	ha./'i.Shah	the/ woman	H9009=ה=the / {H0802G=אִשָּׁה=: woman»woman:1_woman}	HTd/Ncfsa			H0802								
+Rut.3.14#17=M +T	הַ/גֹּֽרֶן/׃	ha./Go.ren	the/ threshing floor	H9009=ה=the / {H1637=גֹּ֫רֶן=threshing floor} / H9016=׃=verseEnd	HTd/Ncfsa			H1637								
+																
