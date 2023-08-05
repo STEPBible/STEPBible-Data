@@ -46,8 +46,8 @@ Morph	These were created by Tyndale scholars as a simple grammatical value of th
 	Odd ones: Jew=N:N-G-P, Jewish=N:A, Jewess+Ammonitess=N:N-G-P-F, Canaanite-trader=N:N-G-P / N:N-G-T, Chaldean-magi=N:N-G-L / N:N-G-T, Nephusim=N:N-G-T, Rephaim=N:N-G-P / N:N-G-T, Shulamite+Shunammite+Carmelitess+Jezreelitess=N:N-F-L
 
 Meaning	These are based on the Abridged BDB by Online Bible, and edited to conform with the extended Strongs. They are for guidence only. Permission should be gained from Online Bible before these are applied in any project. 
-	These defs refer to J. Green's A Concise Lexicon of the Biblical Languages (CLBL) and Harris, Archer, & Waltke's Theological Wordbook of the Old Testament (TWOT),)
-	These definitions were edited to align with the eStrongs by Tyndale House Cambridge. Alignment with dStrongs is not yet completed. 
+	These definitions refer to J. Green's A Concise Lexicon of the Biblical Languages (CLBL) and Harris, Archer, & Waltke's Theological Wordbook of the Old Testament (TWOT),). 
+	The entries were edited to align with the eStrongs by Tyndale House Cambridge. Alignment with dStrongs is not yet completed. 
 
 
 eStrong#	dStrong	uStrong	Hebrew	Transliteration	Morph	Gloss	Meaning
@@ -9366,8 +9366,8 @@ H6899	H6899 =	H6899	קִבּוּץ	qib.buts	H:N-M	collection	1) assemblage, asse
 H6900	H6900 =	H6900	קְבֻרָה	qe.vu.rah	H:N-F	tomb	1) grave, burial, burial site<br>1a) grave<br>1b) burial
 H6901	H6901 =	H6901	קָבַל	qa.val	H:V	to receive	1) to take, receive, be before<br>1a) (Piel)<br>1a1) to take, choose, receive<br>1a2) to accept<br>1a3) to accept, assume<br>1b) (Hiphil)<br>1b1) to show oppositeness<br>1b2) to correspond, receive one to the other<BR>Aramaic equivalent: <i>qe.val</i> (קַבֵּל "to receive" H6902)
 H6902	H6902 = in Aramaic of	H6901	קַבֵּל	qe.val	A:V	to receive	(Pael) to receive<BR>Aramaic of <i>qa.val</i> (קָבַל "to receive" H6901)
-H6905	H6903G = in Hebrew of	H6905H	קֳבֵל	qe.vel	A:Prep	before	subst<br>1) front<br>prep<br>2) in front of, before, because of, in view of, by reason of, because of this, therefore<br>conj<br>3) because that, inasmuch as, although, according as, before<br>adv<br>4) accordingly, then
-H6905	H6903H = in Hebrew of	H6905H	קֳבֵל	qe.vel	A:Conj	before:_because	subst<br>1) front<br>prep<br>2) in front of, before, because of, in view of, by reason of, because of this, therefore<br>conj<br>3) because that, inasmuch as, although, according as, before<br>adv<br>4) accordingly, then
+H6903	H6903G = in Hebrew of	H6905H	קֳבֵל	qe.vel	A:Prep	before	subst<br>1) front<br>prep<br>2) in front of, before, because of, in view of, by reason of, because of this, therefore<br>conj<br>3) because that, inasmuch as, although, according as, before<br>adv<br>4) accordingly, then
+H6903	H6903H = in Hebrew of	H6905H	קֳבֵל	qe.vel	A:Conj	before:_because	subst<br>1) front<br>prep<br>2) in front of, before, because of, in view of, by reason of, because of this, therefore<br>conj<br>3) because that, inasmuch as, although, according as, before<br>adv<br>4) accordingly, then
 H6904	H6904 =	H6904	קְבֹל	qo.vel	H:N-M	battering-ram	something in front, attacking engine,  siege-engine, battering-ram
 H6905	H6905G = a Spelling of	H2991	קָבָל	qa.val	N:N--L	Ible	before<BR>Another spelling of <i>yiv.le.am</i> (יִבְלְעָם "Ibleam" H2991)
 H6905	H6905H =	H6905H	קָבָל	qa.val	H:Prep	before	before<br><BR>Aramaic equivalent: <i>qe.vel</i> (קֳבֵל "before" H6903)
