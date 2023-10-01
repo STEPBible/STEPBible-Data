@@ -723,6 +723,11 @@ AAomsa	Function=Adjective ; Form=Numerical position ; Gender=Masculine; Number=S
 	DESCRIBING the numerical position of a male person or thing 
 	Example: a first (male person or thing)
 $
+HAomsa	Function=Adjective ; Form=Numerical position ; Gender=Masculine; Number=Singular; State=Absolute
+	"Numerical position Adjective (Singular Masculine, Absolute)"
+	DESCRIBING the numerical position of a male person or thing 
+	Example: a first (male person or thing)
+$
 ANcbda	Function=Noun ; Form=Common ; Gender=Either gender; Number=Dual; State=Absolute
 	"Noun (Dual Either gender, Absolute)"
 	a reference to two male or female PEOPLE OR THINGS 
