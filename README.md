@@ -60,11 +60,11 @@ Hebrew morphology codes with expanded explanations in terms of parsing, meaning 
 Greek morphology codes with expanded explanations in terms of parsing, meaning and example. The codes are based on Robinson, developed for the Majority text and used in most open-source texts. They include extra codes which occur in STEPBible data which distinguishes persons in possessive and reflexive pronouns, 2nd forms of verbs, and distinctions between deponant forms and ambiguous passive/middle.
 
 # Datasets coming
-The followins datasets are still being finished and/or being checked. 
+The following datasets are still being finished and/or being checked. 
 If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process.  
 
 * **TOTGT - Translators OT Greek Tagged text**   
-LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
+LXX text with later Ecclesiastical variants. The base text is Rahlfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
 
 * **TFBDB - Translators Formatted full BDB lexicon**   
 Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)    
