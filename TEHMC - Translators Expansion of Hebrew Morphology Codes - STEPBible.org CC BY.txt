@@ -3508,6 +3508,11 @@ HVqi1cp	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Imper
 	performing an ACTION OR ACTIVITY that is done or should be done incompletely in the future or present by male or female people or things that are speaking or writing this
 	Example: we should or will be or are rising
 $
+HVqj1cp	Function=Verb ; Stem=Qal (hence Action=Simple; Voice=Active); Form=Imperfect (hence Tense=Future/present; Mood=Jussive); Person=First; Gender=Either gender; Number=Plural
+	"Verb : Qal (Simple, Active) Imperfect (Future/present Jussive) First Plural Either gender"
+	performing an ACTION OR ACTIVITY that may be done incompletely in the future or present by male or female people or things that are speaking or writing this
+	Example: we may be rising
+$
 AVqi1cs	Function=Verb ; Stem=Peal (hence Action=Simple; Voice=Active); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/cohortative); Person=First; Gender=Either gender; Number=Singular
 	"Verb : Peal (Simple, Active) Imperfect (Future/present Indicative/cohortative) First Singular Either gender"
 	performing an ACTION OR ACTIVITY that is done or should be done incompletely in the future or present by a male or female person or thing that is speaking or writing this
