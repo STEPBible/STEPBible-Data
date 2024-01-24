@@ -99,6 +99,7 @@ H:A	thoughtful	Hebrew Adjective
 H:INJ	Hey!	Hebrew Intjection	
 H:N	thought	Hebrew Noun	
 N:ADV--L	Britishly	Name Adverb of a Location	
+N:N	Hodiah	Proper Name of a Location or Person with no stated gender
 N:N-F-L	Victoria	Proper Name (Feminine) of a Location	
 N:N-F-LG	Victorian	Proper Name (Feminine) of a Location in Gentilic sense	
 N:N-F-P	Victoria	Proper Name (Feminine) of a Person	
