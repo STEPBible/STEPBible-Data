@@ -66,6 +66,7 @@ H:Prep / H:Conj	with	Hebrew Preposition OR Conjunction
 H:Prep+H:RelP	wence (from where)	Hebrew Preposition JOINED TO Relative Pronoun
 H:RelP	that	Hebrew Relative Pronoun
 H:V	to think	Hebrew Verb
+N:N	Hodiah	Proper Name of a Location or Person with no stated gender
 N:N-F-L	Charlotte	Proper Name (Feminine) of a Location
 N:N-F-P	Mary	Proper Name of a Female Person
 N:N-F-P / N:N--L	Victoria	Proper Name of a Female Person OR of a Location
