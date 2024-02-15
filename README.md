@@ -29,7 +29,7 @@ The following datasets are already posted
 * **[Bible modules for OSIS Sword software](https://public.modules.stepbible.org/packages)**
 Bibles in the same format as [Crosswire modules](https://www.crosswire.org/sword/modules/) which can be used in any Sword-compatible software.
 
-* **[TTESV - Translators Translation tags for ESV](https://github.com/STEPBible/STEPBible-Data)**  
+* **[TTESV - Translators Tags for ESV](https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles)**  
 Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV.   
 
 * **[TOTHT - Translators OT Hebrew Tagged text](https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT)**        
