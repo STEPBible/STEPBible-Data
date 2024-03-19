@@ -1,0 +1,1635 @@
+TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
+==================================================================================
+
+	==========================================================================
+	Data created using Translators Amalgamated Hebrew OT - STEPBible.org CC BY
+	==========================================================================
+	This licence allows you to:															
+	* Include any part of this data in software or publications without requesting permission 															
+	* Download the data and reformat it for your application, without changing the data															
+	* Send any proposed corrections to STEPBibleATGmail.com. to be verified 															
+	  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)															
+	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself. 															
+	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
+	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
+	===========================================================================
+Version 1.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-03-19 Sami Abdel Malik. 
+
+FIELD DESCRIPTIONS:																
+===================
+1. Ara W#: Two digits representing the word number in the SVD Arabic verse.
+2. Arabic: SVD Arabic text words. 
+3. Strongs: Lexical tags for each element of the Hebrew words, including prefixes and suffixes, with the Root in {curly brackets}. A "+" indicates the same tag also covers the next Hebrew word. These disambiguated Strong numbers (dStrong)  are defined at TinyURL.com/STEP-Disambiguated. 
+4. Grammar: Morphology is from ETCBC, with Ketiv forms parsed by Tyndale scholars - see e.g. Deu.33.2-15.   For the source of ETCBC and conversion method by Tyndale House, see https://goo.gl/yKaXQq#HebMorph2															
+			Morphology codes follow the form defined by OpenScriptures at http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html#vt with some adaptations - see TinyURL.com/HebMorph															
+5. Heb w#:	Two digits representing the word number of the corresponding Hebrew word in the Hebrew verse. 
+			Verse number of the Arabic text does not always match the verse number of the corresponding Hebrew Text.
+			In such cases, the Hebrew word number is prefixed with the actual Hebrew verse number.
+			See Psa.3:1 for an example. 
+			The Hebrew word numbers may have a suffix indicating the source of the word. Word numbers without a suffix, are from Leningrad manuscript, otherwise the suffix means the following sources:
+			R= restored text based on Leningrad parallels - ie Jos.21.36-37 from 1Ch.6.63-64 and Neh.7.67b from Ezr.2.66																
+			Q= "a Scribal corrections" ie the Qere ('spoken') corrections by scribes. This is made up of the letters in the margin and the pointing in the text.																
+				K= "the uncorrected text" - ie the Ketiv  ('written') is noted as a variant. This is made up of the letters in the text, pointed by Tyndale scholars. 																
+				L - the letters of K with pointing of Q, as found in Leningrad is recorded as a spelling variant. 																
+			 - eg Gen.27.3 L= צָיִדה, K= צֵידָה ('food'), Q= צָיִד ('wild game')		
+			X= "based on Greek sources" - ie extra words based on LXX, expressed in Hebrew as in the apparatus of BHS pr BHK - eg 1Sa.13.1 Saul was שְׁלֹשִׁים שָׁנָ֖ה ('a thirty year-old') not שָׁנָ֖ה ('a year-old') 																
+			If the word is not in the Leningrad text, its number is shown as four digits. This is to show restored text between two words.
+			See Neh.7.68 for an example.
+6. Hebrew	Full Hebrew including pointing with space separating prefixes and suffixes from the root word.
+7. Transliteration: Uses upper case to indicate the stress. It is based on Berean Study Bible. 
+8. Word-by-word: A word by word translation of the Hebrew.Forward slash ( / ) separates the translation to mirror the prefixes, root and suffixes in Hebrew. This means the order of English words follows the order within the Hebrew word.  															
+
+Note: Descriptions for fields 3, 4, 5(sources), 6 and 8 are taken from Translators Amalgamated Hebrew OT - STEPBible.org CC BY.
+==================================================================================
+
+Rut.1.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	حدث	H9001/{H1961}	Hc/Vqw3ms	#01	וַ יְהִ֗י	va/y.Hi	and/ it was
+#02 - #03	في أيام	H9003/{H3117G}	HR/Ncmpc	#02	בִּ ימֵי֙	bi./Mei	in/ [the] days of
+#04	حكم	{H8199}	HVqcc	#03	שְׁפֹ֣ט	she.Fot	[the] judging of
+#05	القضاة	H9009/{H8199}	HTd/Vqrmpa	#04	הַ שֹּׁפְטִ֔ים	ha./sho.fe.Tim	the/ judges
+#06 - #07	أنه صار	H9001/{H1961}	Hc/Vqw3ms	#05	וַ יְהִ֥י	va/y.Hi	and/ it was
+#08	جوع	{H7458}	HNcmsa	#06	רָעָ֖ב	ra.'Av	a famine
+#09 - #10	في الأرض،	H9003/{H0776G}	HRd/Ncfsa	#07	בָּ אָ֑רֶץ	ba./'A.retz	in the/ land
+#11	فذهب	H9001/{H1980G}	Hc/Vqw3ms	#08	וַ יֵּ֨לֶךְ	va/i.Ye.lekh	and/ he went
+#12	رجل	{H0376G}	HNcmsa	#09	אִ֜ישׁ	'ish	a man
+#13 - #14	من بيت	H9006/{H1035G}+	HR/Npl	#10	מִ בֵּ֧ית	mi./Beit	from/ Beth-
+#15	لحم	{H1035G}	HNpl	#11	לֶ֣חֶם	Le.chem	-lehem
+#16	يهوذا	{H3063G}	HNpl	#12	יְהוּדָ֗ה	ye.hu.Dah	Judah
+#17	ليتغرب	H9005/{H1481A}	HR/Vqcc	#13	לָ גוּר֙	la./Gur	to/ sojourn
+#18 - #19	في بلاد	H9003/{H7704G}	HR/Ncmpc	#14	בִּ שְׂדֵ֣י	bi/s.Dei	in/ [the] region<s> of
+#20	موآب	{H4124G}	HNpl	#15	מוֹאָ֔ב	mo.'Av	Moab
+#21	هو	{H1931}	HPp3ms	#16	ה֥וּא	hu'	he
+#22	وامرأته	H9002/{H0802H}/H9023	HC/Ncfsc/Sp3ms	#17	וְ אִשְׁתּ֖ וֹ	ve./'ish.T/o	and/ wife/ his
+#23	وابناه.	{H1121A}/H9023\H9016; H9002/{H8147}	HNcmpc/Sp3ms; HC/Ncbdc	#19; 18	בָנָֽי ו; וּ שְׁנֵ֥י	va.Na/v; u./she.Nei	sons/ his; and/ [the] two
+
+Rut.1.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	واسم	H9002/{H8034}	HC/Ncmsc	#01	וְ שֵׁ֣ם	ve./Shem	and/ [the] name of
+#02	الرجل	H9009/{H0376G}	HTd/Ncmsa	#02	הָ אִ֣ישׁ	ha./'Ish	the/ man
+#03	أليمالك،	{H0458}	HNpm	#03	אֱֽלִימֶ֡לֶךְ	'eli.Me.lekh	[was] Elimelech
+#04	واسم	H9002/{H8034}	HC/Ncmsc	#04	וְ שֵׁם֩	ve./Shem	and/ [the] name of
+#05	امرأته	{H0802H}/H9023	HNcfsc/Sp3ms	#05	אִשְׁתּ֨ וֹ	'ish.T/o	wife/ his
+#06	نعمي،	{H5281}	HNpf	#06	נָעֳמִ֜י	no.'o.Mi	[was] Naomi
+#07	واسما	H9002/{H8034}	HC/Ncmsc	#07	וְ שֵׁ֥ם	ve./Shem	and/ [the] name of
+#08	ابنيه	{H8147}\H9014; {H1121A}/H9023\H9015	HNcbdc; HNcmpc/Sp3ms	#08; 09	שְׁנֵֽי; בָנָ֣י ו	she.nei-; va.Na/v	[the] two; sons/ his
+#09	محلون	{H4248}	HNpm	#10	מַחְל֤וֹן	mach.Lon	[was] Mahlon
+#10	وكليون،	H9002/{H3630}	HC/Npm	#11	וְ כִלְיוֹן֙	ve./khil.yOn	and/ Kilion
+#11	أفراتيون	{H0673H}	HNgmpa	#12	אֶפְרָתִ֔ים	'ef.ra.Tim	Ephrathites
+#12 - #13	من بيت	H9006/{H1035G}+	HR/Npl	#13	מִ בֵּ֥ית	mi./Beit	from/ Beth-
+#14	لحم	{H1035G}	HNpl	#14	לֶ֖חֶם	Le.chem	-lehem
+#15	يهوذا.	{H3063G}	HNpl	#15	יְהוּדָ֑ה	ye.hu.Dah	Judah
+#16	فأتوا	H9001/{H0935G}	Hc/Vqw3mp	#16	וַ יָּבֹ֥אוּ	va/i.ya.Vo.'u	and/ they came
+#17 - #18	إلى بلاد	{H7704G}\H9014	HNcmpc	#17	שְׂדֵי	se.dei-	[the] region<s> of
+#19	موآب	{H4124G}	HNpl	#18	מוֹאָ֖ב	mo.'Av	Moab
+#20	وكانوا	H9001/{H1961}\H9014	Hc/Vqw3mp	#19	וַ יִּֽהְיוּ	va/i.yih.yu-	and/ they were
+#21	هناك.	{H8033G}\H9016	HD	#20	שָֽׁם	Sham	there
+
+Rut.1.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ومات	H9001/{H4191}	Hc/Vqw3ms	#01	וַ יָּ֥מָת	va/i.Ya.mot	and/ he died
+#02	أليمالك	{H0458}	HNpm	#02	אֱלִימֶ֖לֶךְ	'e.li.Me.lekh	Elimelech
+#03	رجل	{H0376H}	HNcmsc	#03	אִ֣ישׁ	'ish	[the] husband of
+#04	نعمي،	{H5281}	HNpf	#04	נָעֳמִ֑י	no.'o.Mi	Naomi
+#05	وبقيت	H9001/{H7604}	Hc/VNw3fs	#05	וַ תִּשָּׁאֵ֥ר	va./ti.sha.'Er	and/ she was left
+#06	هي	{H1931}	HPp3fs	#06	הִ֖יא	hi'	she
+#07	وابناها.	H9002/{H8147}; {H1121A}/H9024\H9016	HC/Ncbdc; HNcmpc/Sp3fs	#07; 08	וּ שְׁנֵ֥י; בָנֶֽי הָ	u./she.Nei; va.Nei./ha	and/ [the] two; sons/ her
+
+Rut.1.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فأخذا	H9001/{H5375U}	Hc/Vqw3mp	#01	וַ יִּשְׂא֣וּ	va/i.yis.'U	and/ they took
+#02	لهما	H9005/{H9038}	HRd/Sp3mp	#02	לָ הֶ֗ם	la./Hem	for <the>/ themselves
+#03	امرأتين	{H0802H}	HNcmpa	#03	נָשִׁים֙	na.Shim	wives
+#04	موآبيتين،	{H4125}	HNgfpa	#04	מֹֽאֲבִיּ֔וֹת	mo.'a.vi.Yot	Moabite
+#05	اسم	{H8034}	HNcmsc	#05	שֵׁ֤ם	shem	[the] name of
+#06	إحداهما	H9009/{H0259}	HTd/Ncfsa	#06	הָֽ אַחַת֙	ha./'a.Chat	the/ one
+#07	عرفة	{H6204}	HNpf	#07	עָרְפָּ֔ה	'a.re.Pah	[was] Orpah
+#08	واسم	H9002/{H8034}	HC/Ncmsc	#08	וְ שֵׁ֥ם	ve./Shem	and/ [the] name of
+#09	الأخرى	H9009/{H8145}	HTd/Aofsa	#09	הַ שֵּׁנִ֖ית	ha./she.Nit	the/ second
+#10	راعوث.	{H7327}	HNpf	#10	ר֑וּת	Rut	[was] Ruth
+#11	وأقاما	H9001/{H3427}	Hc/Vqw3mp	#11	וַ יֵּ֥שְׁבוּ	va/i.Ye.she.vu	and/ they dwelt
+#12	هناك	{H8033G}	HD	#12	שָׁ֖ם	sham	there
+#13 - #14	نحو عشر	H9004/{H6235}	HR/Ncmsc	#13	כְּ עֶ֥שֶׂר	ke./'E.ser	about/ ten
+#15	سنين.	{H8141}\H9016	HNcmpa	#14	שָׁנִֽים	sha.Nim	years
+
+Rut.1.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ثم	{H1571}\H9014	HD	#02	גַם	gam-	also
+#02	ماتا	H9001/{H4191}	Hc/Vqw3mp	#01	וַ יָּמ֥וּתוּ	va/i.ya.Mu.tu	and/ they died
+#03	كلاهما	{H8147}/H9028	HNcbdc/Sp3mp	#03	שְׁנֵי הֶ֖ם	she.nei./Hem	both of/ them
+#04	محلون	{H4248}	HNpm	#04	מַחְל֣וֹן	mach.Lon	Mahlon
+#05	وكليون،	H9002/{H3630}	HC/Npm	#05	וְ כִלְי֑וֹן	ve./khil.Yon	and/ Kilion
+#06	فتركت	H9001/{H7604}	Hc/VNw3fs	#06	וַ תִּשָּׁאֵר֙	va./ti.sha.'Er	and/ she was left
+#07	المرأة	H9009/{H0802G}	HTd/Ncfsa	#07	הָֽ אִשָּׁ֔ה	ha./'i.Shah	the/ woman
+#08 - #09	من ابنيها	H9006/{H8147}; {H3206}/H9024	HR/Ncbdc; HNcmpc/Sp3fs	#08; 09	מִ שְּׁנֵ֥י; יְלָדֶ֖י הָ	mi./she.Nei; ye.la.Dei./ha	from/ both; children/ her
+#10 - #11	ومن رجلها.	H9002/H9006/{H0376H}/H9024\H9016	HC/R/Ncmsc/Sp3fs	#10	וּ מֵ אִישָֽׁ הּ	u./me./'i.Sha/h	and/ from/ husband/ her
+
+Rut.1.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقامت	H9001/{H6965B}	Hc/Vqw3fs	#01	וַ תָּ֤קָם	va./Ta.kom	and/ she arose
+#02	هي	{H1931}	HPp3fs	#02	הִיא֙	hi'	she
+#03	وكنتاها	H9002/{H3618H}/H9024	HC/Ncfpc/Sp3fs	#03	וְ כַלֹּתֶ֔י הָ	ve./kha.lo.Tei./ha	and/ daughters-in-law/ her
+#04	ورجعت	H9001/{H7725G}	Hc/Vqw3fs	#04	וַ תָּ֖שָׁב	va./Ta.shov	and/ she returned
+#05 - #06	من بلاد	H9006/{H7704G}	HR/Ncmpc	#05	מִ שְּׂדֵ֣י	mi./se.Dei	from/ [the] region<s> of
+#07	موآب،	{H4124G}	HNpl	#06	מוֹאָ֑ב	mo.'Av	Moab
+#08	لأنها	{H3588A}	HTc	#07	כִּ֤י	ki	if
+#09	سمعت	{H8085G}	HVqp3fs	#08	שָֽׁמְעָה֙	sha.me.'Ah	she had heard
+#10 - #11	في بلاد	H9003/{H7704G}	HR/Ncmsc	#09	בִּ שְׂדֵ֣ה	bi/s.Deh	in/ [the] region of
+#12	موآب	{H4124G}	HNpl	#10	מוֹאָ֔ב	mo.'Av	Moab
+#13 - #14	أن الرب	{H3068G}	HNpt	#13	יְהוָה֙	Yah.weh	Yahweh
+		{H0853}\H9014	HTo	#14	אֶת	'et-	<obj.>
+#15	قد	{H3588A}\H9014	HTc	#11	כִּֽי	ki-	that
+#16	افتقد	{H6485I}	HVqp3ms	#12	פָקַ֤ד	fa.Kad	he had visited
+#17	شعبه	{H5971A}/H9023	HNcmsc/Sp3ms	#15	עַמּ֔ וֹ	a.M/o	people/ his
+		H9005/{H5414G}	HR/Vqcc	#16	לָ תֵ֥ת	la./Tet	by/ giving
+#18	ليعطيهم	H9005/{H9038}	HRd/Sp3mp	#17	לָ הֶ֖ם	la./Hem	to <the>/ them
+#19	خبزا.	{H3899G}\H9016	HNcmsa	#18	לָֽחֶם	La.chem	food
+
+Rut.1.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وخرجت	H9001/{H3318G}	Hc/Vqw3fs	#01	וַ תֵּצֵ֗א	va./te.Tze'	and/ she went out
+#02	من	{H4480A}\H9014	HR	#02	מִן	min-	from
+#03	المكان	H9009/{H4725}	HTd/Ncmsa	#03	הַ מָּקוֹם֙	ha./ma.kOm	the/ place
+#04	الذي	{H0834A}	HTr	#04	אֲשֶׁ֣ר	'a.Sher	where
+#05	كانت	{H1961}\H9014	HVqp3fs	#05	הָיְתָה	ha.ye.tah-	she had been
+#06	فيه	{H8033G}/H9011	HD/Sd	#06	שָׁ֔מָּ ה	Sha.ma/h	there/ <towards>
+#07	وكنتاها	H9002/{H8147}; {H3618H}/H9024	HC/Ncfdc; HNcfpc/Sp3fs	#07; 08	וּ שְׁתֵּ֥י; כַלֹּתֶ֖י הָ	u./she.Tei; kha.lo.Tei./ha	and/ [the] two; daughters-in-law/ her
+#08	معها،	{H5973A}/H9034	HRd/Sp3fs	#09	עִמָּ֑ הּ	'i.Ma/h	[were] with/ her
+#09	وسرن	H9001/{H1980G}	Hc/Vqw3fp	#10	וַ תֵּלַ֣כְנָה	va./te.Lakh.nah	and/ they went
+#10 - #11	في الطريق	H9003/{H1870L}	HRd/Ncbsa	#11	בַ דֶּ֔רֶךְ	va./De.rekh	on the/ way
+#12	للرجوع	H9005/{H7725G}	HR/Vqcc	#12	לָ שׁ֖וּב	la./Shuv	to/ return
+#13	إلى	{H0413}\H9014	HR	#13	אֶל	'el-	to
+#14	أرض	{H0776G}	HNcfsc	#14	אֶ֥רֶץ	'E.retz	[the] land of
+#15	يهوذا.	{H3063G}\H9016	HNpl	#15	יְהוּדָֽה	ye.hu.Dah	Judah
+
+Rut.1.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֤אמֶר	va./To.mer	and/ she said
+#02	نعمي	{H5281}	HNpf	#02	נָעֳמִי֙	no.'o.Mi	Naomi
+#03	لكنتيها:	H9005/{H8147}; {H3618H}/H9024	HR/Ncfdc; HNcfpc/Sp3fs	#03; 04	לִ שְׁתֵּ֣י; כַלֹּתֶ֔י הָ	li/sh.Tei; kha.lo.Tei./ha	to/ [the] two; daughters-in-law/ her
+#04	اذهبا	{H1980G}	HVqv2fp	#05	לֵ֣כְנָה	Le.khe.nah	go
+#05	ارجعا	{H7725G}	HVqv2fp	#06	שֹּׁ֔בְנָה	Shoe.nah	return
+#06 - #07	كل واحدة	{H0802I}	HNcfsa	#07	אִשָּׁ֖ה	'i.Shah	[each] woman
+#08 - #09	إلى بيت	H9005/{H1004M}	HR/Ncmsc	#08	לְ בֵ֣ית	le./Veit	to/ [the] house of
+#10	أمها.	{H0517}/H9024	HNcfsc/Sp3fs	#09	אִמָּ֑ הּ	'i.Ma/h	mother/ her
+#11	وليصنع	{H6213A}	HVqj3ms	#10Q(K)	יַ֣עַשׂ	ya.'a.seh	may he deal
+#12	الرب	{H3068G}	HNpt	#11	יְהוָ֤ה	Yah.weh	Yahweh
+#13	معكما	{H5973A}/H9036	HRd/Sp2mp	#12	עִמָּ כֶם֙	'i.ma./Khem	with/ you
+#14	إحسانا	{H2617A}	HNcmsa	#13	חֶ֔סֶד	Che.sed	covenant loyalty
+#15	كما	H9004/{H0834D}	HR/Tr	#14	כַּ אֲשֶׁ֧ר	ka./'a.Sher	just/ as
+#16	صنعتما	{H6213A}	HVqp2mp	#15	עֲשִׂיתֶ֛ם	'a.si.Tem	you have dealt
+#17	بالموتى	{H5973A}\H9014; H9009/{H4191}	HR; HTd/Vqrmpa	#16; 17	עִם; הַ מֵּתִ֖ים	'im-; ha./me.Tim	with; the/ dead
+#18	وبي.	H9002/{H5973A}/H9030\H9016	HC/R/Sp1bs	#18	וְ עִמָּדִֽ י	ve./'i.ma.D/i	and/ with/ me
+
+Rut.1.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وليعطكما	{H5414G}; H9005/{H9036}	HVqi3ms; HRd/Sp2mp	#01; 03	יִתֵּ֤ן; לָ כֶ֔ם	yi.Ten; la./Khem	may he give; to <the>/ you
+#02	الرب	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	Yahweh
+#03 - #04	أن تجدا	H9002/{H4672}	HC/Vqv2fp	#04	וּ מְצֶ֣אןָ	u./me.Tze.na	and/ find
+#05	راحة	{H4496H}	HNcfsa	#05	מְנוּחָ֔ה	me.nu.Chah	rest
+#06 - #07	كل واحدة	{H0802I}	HNcfsa	#06	אִשָּׁ֖ה	'i.Shah	[each] woman
+#08 - #09	في بيت	{H1004M}	HNcmsc	#07	בֵּ֣ית	beit	[the] house of
+#10	رجلها.	{H0376H}/H9024	HNcmsc/Sp3fs	#08	אִישָׁ֑ הּ	'i.Sha/h	husband/ her
+#11	فقبلتهما،	H9001/{H5401A}; H9005/{H9039}	Hc/Vqw3fs; HRd/Sp3fp	#09; 10	וַ תִּשַּׁ֣ק; לָ הֶ֔ן	va./ti.Shak; la./Hen	and/ she kissed; <to> <the>/ them
+#12	ورفعن	H9001/{H5375N}	Hc/Vqw3fp	#11	וַ תִּשֶּׂ֥אנָה	va./ti.Se.nah	and/ they raised
+#13	أصواتهن	{H6963A}/H9029	HNcmsc/Sp3fp	#12	קוֹלָ֖ ן	ko.La/n	voice/ their
+#14	وبكين.	H9001/{H1058}\H9016	Hc/Vqw3fp	#13	וַ תִּבְכֶּֽינָה	va./tiv.Kei.nah	and/ they wept
+
+Rut.1.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالتا	H9001/{H0559}\H9014	Hc/Vqw3fp	#01	וַ תֹּאמַ֖רְנָה	va./to.Mar.nah-	and/ they said
+#02	لها:	H9005/{H9034}; H9005/{H9034}	HRd/Sp3fs; HRd/Sp3fs	#02; 02	לָּ֑ הּ; לָּ֑ הּ	La/h; La/h	to <the>/ her; to <the>/ her
+#03	إننا	{H3588A}\H9014	HTc	#03	כִּי	ki-	that
+#04	نرجع	{H7725G}	HVqi1cp	#05	נָשׁ֖וּב	na.Shuv	we will return
+#05	معك	{H0854}/H9032	HRd/Sp2fs	#04	אִתָּ֥ ךְ	'i.Ta/kh	with/ you
+#06 - #07	إلى شعبك.	H9005/{H5971A}/H9022\H9016	HR/Ncmsc/Sp2fs	#06	לְ עַמֵּֽ ךְ	le./'a.Me/kh	to/ people/ your
+
+Rut.1.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֤אמֶר	va./To.mer	and/ she said
+#02	نعمي:	{H5281}	HNpf	#02	נָעֳמִי֙	no.'o.Mi	Naomi
+#03	ارجعا	{H7725G}	HVqv2fp	#03	שֹׁ֣בְנָה	Shoe.nah	go back
+#04 - #05	يا بنتي.	{H1323G}/H9020	HNcfpc/Sp1bs	#04	בְנֹתַ֔ י	ve.no.Ta/i	O daughters/ my
+#06	لماذا	H9005/{H4100}	HR/Pi	#05	לָ֥ מָּה	La./mah	<to>/ why?
+#07	تذهبان	{H1980G}	HVqi2fp	#06	תֵלַ֖כְנָה	te.Lakh.nah	will you go
+#08	معي.	{H5973A}/H9030	HRd/Sp1bs	#07	עִמִּ֑ י	'i.M/i	with/ me
+#09	هل	H9008/{H5750}\H9014	HTi/Acmsa	#08	הַֽ עֽוֹד	ha./'od-	¿/ still
+		H9005/{H9030}	HRd/Sp1bs	#09	לִ֤ י	l/i	[belong] to <the>/ me
+#10	في						
+#11	أحشائي	H9003/{H4578}/H9020	HR/Ncmpc/Sp1bs	#11	בְּֽ מֵעַ֔ י	be./me.'A/i	in/ inward parts/ my
+#12	بنون	{H1121A}	HNcmpa	#10	בָנִים֙	va.Nim	[do] sons
+#13	بعد						
+#14 - #15	حتى يكونوا	H9001/{H1961}	Hc/Vqq3cp	#12	וְ הָי֥וּ	ve./ha.Yu	and/ they will become
+#16	لكما	H9005/{H9036}	HRd/Sp2mp	#13	לָ כֶ֖ם	la./Khem	of/ you
+#17	رجالا.	H9005/{H0582}\H9016	HR/Ncmpa	#14	לַ אֲנָשִֽׁים	la./'a.na.Shim	<into>/ husbands
+
+Rut.1.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ارجعا	{H7725G}	HVqv2fp	#01	שֹׁ֤בְנָה	Shoe.nah	go back
+#02 - #03	يا بنتي	{H1323G}/H9020	HNcfpc/Sp1bs	#02	בְנֹתַ י֙	ve.no.Ta/i	O daughters/ my
+#04	واذهبا	{H1980G}	HVqv2fp	#03	לֵ֔כְןָ	Le.khe.na	go
+#05	لأني	{H3588A}	HTc	#04	כִּ֥י	ki	for
+#06 - #07	قد شخت	{H2204}	HVqp1cs	#05	זָקַ֖נְתִּי	za.Kan.ti	I am [too] old
+#08 - #10	عن أن أكون	H9006/{H1961}	HR/Vqcc	#06	מִ הְי֣וֹת	mi/h.Yot	for/ belonging
+#11	لرجل.	H9005/{H0376H}	HR/Ncmsa	#07	לְ אִ֑ישׁ	le./'Ish	to/ a husband
+#12	وإن	{H3588A}	HTc	#08	כִּ֤י	ki	if
+#13	قلت	{H0559}	HVqp1cs	#09	אָמַ֙רְתִּי֙	'a.Mar.ti	I said
+#14	لي	{H3426}\H9014; H9005/{H9030}	HAcbsa; HRd/Sp1bs	#10; 11	יֶשׁ; לִ֣ י	yesh-; l/i	there; for <the>/ me
+#15	رجاء	{H8615B}	HNcfsa	#12	תִקְוָ֔ה	tik.Vah	[is] hope
+#16	أيضا	{H1571}	HD	#13	גַּ֣ם	gam	also
+#17 - #19	بأني أصير هذه	{H1961}	HVqp1cs	#14	הָיִ֤יתִי	ha.Yi.ti	I belonged
+#20	الليلة	H9009/{H3915}	HTd/Ncmsa	#15	הַ לַּ֙יְלָה֙	ha./Lay.lah	this/ night
+#21	لرجل	H9005/{H0376H}	HR/Ncmsa	#16	לְ אִ֔ישׁ	le./'Ish	to/ a husband
+#22	وألد	{H3205}	HVqp1cs	#18	יָלַ֥דְתִּי	ya.Lad.ti	I bore
+#23	بنين	{H1121A}\H9016	HNcmpa	#19	בָנִֽים	va.Nim	sons
+#24	أيضا،	H9002/{H1571}	HC/D	#17	וְ גַ֖ם	ve./Gam	and/ also
+
+Rut.1.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	هل تصبران	{H7663B}	HVpi2fp	#02	תְּשַׂבֵּ֗רְנָה	te.sa.Be.re.nah	will you wait
+#03	لهم	H9008/{H3860}\H9015	HTi/C	#01	הֲ לָהֵ֣ן	ha./la.Hen	¿/ therefore
+#04	حتى	{H5704}	HR	#03	עַ֚ד	'ad	until
+		{H0834A}	HTr	#04	אֲשֶׁ֣ר	'a.Sher	that
+#05	يكبروا.	{H1431}	HVqi3mp	#05	יִגְדָּ֔לוּ	yig.Da.lu	they will grow up
+#06 - #07	هل تنحجزان	{H5702}	HVNi2fp	#07	תֵּֽעָגֵ֔נָה	te.'a.Ge.nah	will you shut yourselves off
+#08 - #09	من أجلهم	H9008/{H3860}	HTi/C	#06	הֲ לָהֵן֙	ha./la.Hen	¿/ therefore
+#10 - #11	عن أن	H9005/{H1115}	HR/Ncbsa	#08	לְ בִלְתִּ֖י	le./vil.Ti	to/ not
+#12	تكونا	{H1961}	HVqcc	#09	הֱי֣וֹת	he.Yot	to belong
+#13	لرجل.	H9005/{H0376H}	HR/Ncmsa	#10	לְ אִ֑ישׁ	le./'Ish	to/ a husband
+#14	لا	{H0408}	HTn	#11	אַ֣ל	'al	may not [it be]
+#15 - #16	يا بنتي.	{H1323G}/H9020	HNcfpc/Sp1bs	#12	בְּנֹתַ֗ י	be.no.Ta/i	O daughters/ my
+#17	فإني	{H3588A}\H9014	HTc	#13	כִּֽי	ki-	for
+#18	مغمومة	{H4843}\H9014; H9005/{H9030}	HVqp3ms; HRd/Sp1bs	#14; 15	מַר; לִ֤ י	mar-; l/i	it is bitter; to <the>/ me
+#19	جدا	{H3966}	HAcmsa	#16	מְאֹד֙	me.'Od	very
+		H9006/{H9036}	HRd/Sp2mp	#17	מִ כֶּ֔ם	mi./Kem	more than/ you
+#20 - #21	من أجلكما						
+#22	لأن	{H3588A}\H9014	HTc	#18	כִּֽי	ki-	that
+#23	يد	{H3027G}\H9014	HNcbsc	#21	יַד	yad-	[the] hand of
+#24	الرب	{H3068G}\H9016	HNpt	#22	יְהוָֽה	Yah.weh	Yahweh
+#25 - #26	قد خرجت	{H3318G}	HVqp3fs	#19	יָצְאָ֥ה	ya.tze.'Ah	it has gone forth
+#27	علي.	H9003/{H9030}	HRd/Sp1bs	#20	בִ֖ י	v/i	on <the>/ me
+
+Rut.1.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	ثم رفعن	H9001/{H5375N}	Hc/Vqw3fp	#01	וַ תִּשֶּׂ֣נָה	va./ti.Se.nah	and/ they raised
+#03	أصواتهن	{H6963A}/H9029	HNcmsc/Sp3fp	#02	קוֹלָ֔ ן	ko.La/n	voice/ their
+#04	وبكين	H9001/{H1058}	Hc/Vqw3fp	#03	וַ תִּבְכֶּ֖ינָה	va./tiv.Kei.nah	and/ they wept
+#05	أيضا.	{H5750}	HAcmsa	#04	ע֑וֹד	od	again
+#06	فقبلت	H9001/{H5401A}	Hc/Vqw3fs	#05	וַ תִּשַּׁ֤ק	va./ti.Shak	and/ she kissed
+#07	عرفة	{H6204}	HNpf	#06	עָרְפָּה֙	'a.re.Pah	Orpah
+#08	حماتها،	H9005/{H2545}/H9024	HR/Ncfsc/Sp3fs	#07	לַ חֲמוֹתָ֔ הּ	la./cha.mo.Ta/h	<to>/ mother-in-law/ her
+#09 - #10	وأما راعوث	H9002/{H7327}	HC/Npf	#08	וְ ר֖וּת	ve./Rut	and/ Ruth
+#11	فلصقت	{H1692}	HVqp3fs	#09	דָּ֥בְקָה	Da.ve.kah	she clung
+#12	بها.	H9003/{H9034}\H9016	HRd/Sp3fs	#10	בָּֽ הּ	Ba/h	to/ her
+
+Rut.1.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت:	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֗אמֶר	va./To.mer	and/ she said
+#02	هوذا	{H2009}	HTj	#02	הִנֵּה֙	hi.Neh	there.
+#03 - #04	قد رجعت	{H7725G}	HVqp3fs	#03	שָׁ֣בָה	Sha.vah	she has returned
+#05	سلفتك	{H2994}/H9022	HNcfsc/Sp2fs	#04	יְבִמְתֵּ֔ ךְ	ye.vim.Te/kh	sister-in-law/ your
+#06	إلى	{H0413}\H9014	HR	#05	אֶל	'el-	to
+#07	شعبها	{H5971A}/H9024	HNcmsc/Sp3fs	#06	עַמָּ֖ הּ	'a.Ma/h	people/ her
+		H9002/{H0413}\H9014	HC/R	#07	וְ אֶל	ve./'el-	and/ to
+#08	وآلهتها.	{H0430G}/H9024	HNcmpc/Sp3fs	#08	אֱלֹהֶ֑י הָ	'e.lo.Hei./ha	gods/ her
+#09 - #10	ارجعي أنت	{H7725G}	HVqv2fs	#09	שׁ֖וּבִי	Shu.vi	go back
+#11	وراء	{H0310A}	HAcmpc	#10	אַחֲרֵ֥י	'a.cha.Rei	after
+#12	سلفتك.	{H2994}/H9022\H9016	HNcfsc/Sp2fs	#11	יְבִמְתֵּֽ ךְ	ye.vim.Te/kh	sister-in-law/ your
+
+Rut.1.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֤אמֶר	va./To.mer	and/ she said
+#02	راعوث:	{H7327}	HNpf	#02	רוּת֙	rut	Ruth
+#03	لا	{H0408}\H9014	HTn	#03	אַל	'al-	may not
+#04	تلحي	{H6293}\H9014	HVqj2fs	#04	תִּפְגְּעִי	tif.ge.'i-	you entreat
+#05	علي	H9003/{H9030}	HRd/Sp1bs	#05	בִ֔ י	V/i	<on> <the>/ me
+#06 - #07	أن أتركك	H9005/{H5800A}/H9032	HR/Vqcc/Sp2fs	#06	לְ עָזְבֵ֖ ךְ	le./'a.ze.Ve/kh	to/ abandon/ you
+#08	وأرجع	H9005/{H7725I}	HR/Vqcc	#07	לָ שׁ֣וּב	la./Shuv	to/ turn back
+#09	عنك،	H9006/{H0310A}/H9032	HR/Acmpc/Sp2fs	#08	מֵ אַחֲרָ֑יִ ךְ	me./'a.cha.Ra.yi/kh	from/ after/ you
+#10	لأنه	{H3588A}	HTc	#09	כִּ֠י	ki	for
+		{H0413}\H9014	HR	#10	אֶל	'el-	to
+#11	حيثما	{H0834A}	HTr	#11	אֲשֶׁ֨ר	'a.Sher	where
+#12	ذهبت	{H1980G}	HVqi2fs	#12	תֵּלְכִ֜י	te.le.Khi	you will go
+#13	أذهب	{H1980G}	HVqi1cs	#13	אֵלֵ֗ךְ	'e.Lekh	I will go
+#14	وحيثما	H9002/H9003/{H0834B}	HC/R/Tr	#14	וּ בַ אֲשֶׁ֤ר	u./va./'a.Sher	and/ at/ where
+#15	بت	{H3885A}	HVqi2fs	#15	תָּלִ֙ינִי֙	ta.Li.ni	you will lodge
+#16	أبيت.	{H3885A}	HVqi1cs	#16	אָלִ֔ין	'a.Lin	I will lodge
+#17	شعبك	{H5971A}/H9022	HNcmsc/Sp2fs	#17	עַמֵּ֣ ךְ	'a.Me/kh	people/ your
+#18	شعبي	{H5971A}/H9020	HNcmsc/Sp1bs	#18	עַמִּ֔ י	'a.M/i	[will be] people/ my
+#19	وإلهك	H9002/{H0430G}/H9022	HC/Ncmpc/Sp2fs	#19	וֵ אלֹהַ֖יִ ךְ	ve./lo.Ha.yi/kh	and/ God/ your
+#20	إلهي.	{H0430G}/H9020\H9016	HNcmpc/Sp1bs	#20	אֱלֹהָֽ י	'e.lo.Ha/i	[will be] God/ my
+
+Rut.1.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	حيثما	H9003/{H0834B}	HR/Tr	#01	בַּ אֲשֶׁ֤ר	ba./'a.Sher	at/ where
+#02	مت	{H4191}	HVqi2fs	#02	תָּמ֙וּתִי֙	ta.Mu.ti	you will die
+#03	أموت	{H4191}	HVqi1cs	#03	אָמ֔וּת	'a.Mut	I will die
+#04	وهناك	H9002/{H8033G}	HC/D	#04	וְ שָׁ֖ם	ve./Sham	and/ there
+#05	أندفن.	{H6912}	HVNi1cs	#05	אֶקָּבֵ֑ר	'e.ka.Ver	I will be buried
+#06	هكذا	{H3541}	HD	#06	כֹּה֩	koh	thus
+#07	يفعل	{H6213A}	HVqi3ms	#07	יַעֲשֶׂ֨ה	ya.'a.Seh	may he do
+#08	الرب	{H3068G}	HNpt	#08	יְהוָ֥ה	Yah.weh	Yahweh
+#09	بي	H9005/{H9030}	HRd/Sp1bs	#09	לִ י֙	l/i	to <the>/ me
+#10	وهكذا	H9002/{H3541}	HC/D	#10	וְ כֹ֣ה	ve./Khoh	and/ thus
+#11	يزيد.	{H3254H}	HVhi3ms	#11	יֹסִ֔יף	yo.Sif	may he add
+#12	إنما	{H3588A}	HTc	#12	כִּ֣י	ki	if
+#13	الموت	H9009/{H4194}	HTd/Ncmsa	#13	הַ מָּ֔וֶת	ha./Ma.vet	<the>/ death
+#14	يفصل	{H6504}	HVhi3ms	#14	יַפְרִ֖יד	yaf.Rid	it will separate
+#15	بيني	{H0996G}/H9030	HAcmsc/Sp1bs	#15	בֵּינִ֥ י	bei./Ni	between/ me
+#16	وبينك.	H9002/{H0996G}/H9032\H9016	HC/Acmsc/Sp2fs	#16	וּ בֵינֵֽ ךְ	u./vei.Ne/kh	and/ between/ you
+
+Rut.1.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	فلما رأت	H9001/{H7200G}	Hc/Vqw3fs	#01	וַ תֵּ֕רֶא	va./Te.re'	and/ she saw
+#03	أنها	{H3588A}\H9014	HTc	#02	כִּֽי	ki-	that
+#04	مشددة	{H0553}	HVtrfsa	#03	מִתְאַמֶּ֥צֶת	mit.'a.Me.tzet	[was] determined
+		{H1931}	HPp3fs	#04	הִ֖יא	hi'	she
+#05 - #06	على الذهاب	H9005/{H1980G}	HR/Vqcc	#05	לָ לֶ֣כֶת	la./Le.khet	to/ go
+#07	معها،	{H0854}/H9034	HRd/Sp3fs	#06	אִתָּ֑ הּ	'i.Ta/h	with/ her
+#08	كفت	H9001/{H2308}	Hc/Vqw3fs	#07	וַ תֶּחְדַּ֖ל	va./tech.Dal	and/ she ceased
+#09 - #10	عن الكلام	H9005/{H1696G}	HR/Vpcc	#08	לְ דַבֵּ֥ר	le./da.Ber	to/ speak
+#11	إليها.	{H0413}/H9034\H9016	HRd/Sp3fs	#09	אֵלֶֽי הָ	'e.Lei./ha	to/ her
+
+Rut.1.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فذهبتا	H9001/{H1980G}	Hc/Vqw3fp	#01	וַ תֵּלַ֣כְנָה	va./te.Lakh.nah	and/ they went
+#02	كلتاهما	{H8147}/H9028	HNcfdc/Sp3mp	#02	שְׁתֵּי הֶ֔ם	she.tei./Hem	[the] two of/ them
+#03	حتى	{H5704}\H9014	HR	#03	עַד	'ad-	until
+#04	دخلتا	{H0935G}/H9049	HVqcc/Sp3fp	#04	בֹּאָ֖ נָה	bo.'A./nah	came/ they
+#05	بيت	{H1035G}+	HNpl	#05	בֵּ֣ית	beit	Beth-
+#06	لحم.	{H1035G}	HNpl	#06	לָ֑חֶם	La.chem	-lehem
+#07	وكان	H9001/{H1961}	Hc/Vqw3ms	#07	וַ יְהִ֗י	va/y.Hi	and/ it was
+#08 - #09	عند دخولهما	H9004/{H0935G}/H9049	HR/Vqcc/Sp3fp	#08	כְּ בֹאָ֙ נָה֙	ke./vo.'A./nah	when/ came/ they
+#10	بيت	{H1035G}+	HNpl	#09	בֵּ֣ית	beit	Beth-
+#11	لحم	{H1035G}	HNpl	#10	לֶ֔חֶם	Le.chem	-lehem
+#12 - #13	أن المدينة	H9009/{H5892B}	HTd/Ncfsa	#13	הָ עִיר֙	ha./'Ir	the/ city
+#14	كلها	{H3605}\H9014	HNcmsc	#12	כָּל	kol-	all
+#15	تحركت	H9001/{H1949}	Hc/VNw3fs	#11	וַ תֵּהֹ֤ם	va./te.Hom	and/ it was excited
+#16	بسببهما،	{H5921A}/H9039	HRd/Sp3fp	#14	עֲלֵי הֶ֔ן	'a.lei./Hen	on/ them
+#17	وقالوا:	H9001/{H0559}	Hc/Vqw3fp	#15	וַ תֹּאמַ֖רְנָה	va./to.Mar.nah	and/ they [fem] said
+#18	أهذه	H9008/{H2063}	HTi/Tm	#16	הֲ זֹ֥את	ha./Zot	¿/ [is] this
+#19	نعمي.	{H5281}\H9016	HNpf	#17	נָעֳמִֽי	no.'o.Mi	Naomi
+
+Rut.1.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֣אמֶר	va./To.mer	and/ she said
+#02	لهم:	{H0413}/H9039	HRd/Sp3fp	#02	אֲלֵי הֶ֔ן	'a.lei./Hen	to/ them
+#03	لا	{H0408}\H9014	HTn	#03	אַל	'al-	may not
+#04	تدعوني	{H7121H}; H9005/{H9030}	HVqj2fp; HRd/Sp1bs	#04; 05	תִּקְרֶ֥אנָה; לִ֖ י	tik.Re.nah; l/i	you call; <to> <the>/ me
+#05	نعمي	{H5281}	HNpf	#06	נָעֳמִ֑י	no.'o.Mi	Naomi
+#06 - #07	بل ادعوني	{H7121H}; H9005/{H9030}	HVqv2fp; HRd/Sp1bs	#07; 08	קְרֶ֤אןָ; לִ י֙	ke.Re.na; l/i	call; <to> <the>/ me
+#08	مرة،	{H4755}	HAafsa	#09	מָרָ֔א	ma.Ra'	Mara
+#09	لأن	{H3588A}\H9014	HTc	#10	כִּי	ki-	for
+#10	القدير	{H7706}	HNpt	#12	שַׁדַּ֛י	sha.Dai	[the] Almighty
+#11 - #12	قد أمرني	{H4843}; H9005/{H9030}	HVhp3ms; HRd/Sp1bs	#11; 13	הֵמַ֥ר; לִ֖ י	he.Mar; l/i	he has caused bitterness; to <the>/ me
+#13	جدا.	{H3966}\H9016	HAcmsa	#14	מְאֹֽד	me.'Od	exceedingly
+
+Rut.1.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	إني	{H0589}	HPp1bs	#01	אֲנִי֙	'a.Ni	I
+#02	ذهبت	{H1980G}	HVqp1cs	#03	הָלַ֔כְתִּי	ha.Lakh.ti	I went
+#03	ممتلئة	{H4392}	HAafsa	#02	מְלֵאָ֣ה	me.le.'Ah	full
+#04	وأرجعني	{H7725G}/H9030	HVhp3ms/Sp1bs	#05	הֱשִׁיבַ֣ נִי	he.shi.Va./ni	he has brought back/ me
+#05	الرب	{H3068G}	HNpt	#06	יְהוָ֑ה	Yah.weh	Yahweh
+#06	فارغة.	H9002/{H7387}	HC/D	#04	וְ רֵיקָ֖ם	ve./rei.Kam	and/ empty
+#07	لماذا	H9005/{H4100}	HR/Pi	#07	לָ֣ מָּה	La./mah	<to>/ why?
+#08	تدعونني	{H7121H}; H9005/{H9030}	HVqi2fp; HRd/Sp1bs	#08; 09	תִקְרֶ֤אנָה; לִ י֙	tik.Re.nah; l/i	do you call; <to> <the>/ me
+#09	نعمي،	{H5281}	HNpf	#10	נָעֳמִ֔י	no.'o.Mi	Naomi
+#10	والرب	H9002/{H3068G}	HC/Npt	#11	וַֽ יהוָה֙	va./Yah.weh	and/ Yahweh
+#11 - #12	قد أذلني	{H6030B}; H9003/{H9030}	HVqp3ms; HRd/Sp1bs	#12; 13	עָ֣נָה; בִ֔ י	'A.nah; V/i	he has testified; against <the>/ me
+#13	والقدير	H9002/{H7706}	HC/Npt	#14	וְ שַׁדַּ֖י	ve./sha.Dai	and/ [the] Almighty
+#14 - #15	قد كسرني.	{H7489A}; H9005/{H9030}\H9016	HVhp3ms; HRd/Sp1bs	#15; 16	הֵ֥רַֽע; לִֽ י	He.ra'; L/i	he has done harm; to <the>/ me
+
+Rut.1.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فرجعت	H9001/{H7725G}	Hc/Vqw3fs	#01	וַ תָּ֣שָׁב	va./Ta.shov	and/ she returned
+#02	نعمي	{H5281}	HNpf	#02	נָעֳמִ֗י	no.'o.Mi	Naomi
+#03	وراعوث	H9002/{H7327}	HC/Npf	#03	וְ ר֨וּת	ve./Rut	and/ Ruth
+#04	الموآبية	H9009/{H4125}	HTd/Ngfsa	#04	הַ מּוֹאֲבִיָּ֤ה	ha./mo.'a.vi.Yah	the/ Moabite [woman]
+#05	كنتها	{H3618H}/H9024	HNcfsc/Sp3fs	#05	כַלָּתָ הּ֙	kha.la.Ta/h	daughter-in-law/ her
+#06	معها،	{H5973A}/H9034	HRd/Sp3fs	#06	עִמָּ֔ הּ	'i.Ma/h	[was] with/ her
+#07 - #08	التي رجعت	H9009/{H7725G}	HTd/Vqp3fs	#07	הַ שָּׁ֖בָה	ha./Sha.vah	who/ returned
+#09 - #10	من بلاد	H9006/{H7704G}	HR/Ncmpc	#08	מִ שְּׂדֵ֣י	mi./se.Dei	from/ [the] region<s> of
+#11	موآب،	{H4124G}	HNpl	#09	מוֹאָ֑ב	mo.'Av	Moab
+		H9002/{H1992}	HC/Pp3mp	#10	וְ הֵ֗מָּה	ve./He.mah	and/ they
+#12	ودخلتا	{H0935G}	HVqp3cp	#11	בָּ֚אוּ	Ba.'u	they came
+#13	بيت	{H1035G}+	HNpl	#12	בֵּ֣ית	beit	Beth-
+#14	لحم	{H1035G}	HNpl	#13	לֶ֔חֶם	Le.chem	-lehem
+#15 - #16	في ابتداء	H9003/{H8462}	HR/Ncfsc	#14	בִּ תְחִלַּ֖ת	bi/t.chi.Lat	at/ [the] beginning of
+#17	حصاد	{H7105A}	HNcmsc	#15	קְצִ֥יר	ke.Tzir	[the] harvest of
+#18	الشعير.	{H8184}\H9016	HNcmpa	#16	שְׂעֹרִֽים	se.'o.Rim	barley<s>
+
+Rut.2.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	وكان لنعمي	H9002/H9005/{H5281}	HC/R/Npf	#01	וּֽ לְ נָעֳמִ֞י	u./le./no.'o.Mi	and/ [belonged] to/ Naomi
+#03 - #04	ذو قرابة	{H4129}	HNcmsa	#02Q(K)	מוֹדַ֣ע	me.yu.da'	a relative
+#05	لرجلها،	H9005/{H0376H}/H9024	HR/Ncmsc/Sp3fs	#03	לְ אִישָׁ֗ הּ	le./'i.Sha/h	of/ husband/ her
+#06	جبار	{H0376G}; {H1368}	HNcmsa; HNcmsc	#04; 05	אִ֚ישׁ; גִּבּ֣וֹר	'ish; gi.Bor	a man; mighty of
+#07	بأس	{H2428G}	HNcmsa	#06	חַ֔יִל	Cha.yil	wealth
+#08 - #09	من عشيرة	H9006/{H4940}	HR/Ncfsc	#07	מִ מִּשְׁפַּ֖חַת	mi./mish.Pa.chat	from/ [the] clan of
+#10	أليمالك،	{H0458}	HNpm	#08	אֱלִימֶ֑לֶךְ	'e.li.Me.lekh	Elimelech
+#11	اسمه	H9002/{H8034}/H9023	HC/Ncmsc/Sp3ms	#09	וּ שְׁמ֖ וֹ	u./she.M/o	and/ name/ his
+#12	بوعز.	{H1162G}\H9016	HNpm	#10	בֹּֽעַז	Bo.'az	[was] Boaz
+
+Rut.2.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּאמֶר֩	va./to.Mer	and/ she said
+#02	راعوث	{H7327}	HNpf	#02	ר֨וּת	rut	Ruth
+#03	الموآبية	H9009/{H4125}	HTd/Ngfsa	#03	הַ מּוֹאֲבִיָּ֜ה	ha./mo.'a.vi.Yah	the/ Moabite [woman]
+		{H0413}\H9014	HR	#04	אֶֽל	'el-	to
+#04	لنعمي:	{H5281}	HNpf	#05	נָעֳמִ֗י	no.'o.Mi	Naomi
+#05	دعيني	{H4994}	HTj	#07	נָּ֤א	na'	please
+#06	أذهب	{H1980G}\H9014	HVqc1cs	#06	אֵֽלְכָה	'e.le.khah-	let me go
+#07 - #08	إلى الحقل	H9009/{H7704G}	HTd/Ncmsa	#08	הַ שָּׂדֶה֙	ha./sa.Deh	the/ field
+#09	وألتقط	H9002/{H3950}	HC/Vpc1cs	#09	וַ אֲלַקֳטָּ֣ה	va./'a.la.ko.Tah	so/ I may glean
+#10	سنابل	H9003/{H7641B}	HRd/Ncmpa	#10	בַ שִׁבֳּלִ֔ים	va./shi.bo.Lim	among the/ ears of grain
+#11	وراء	{H0310A}	HAcmsc	#11	אַחַ֕ר	'a.Char	behind
+#12	من	{H0834A}	HTr	#12	אֲשֶׁ֥ר	'a.Sher	[the one] whom
+#13	أجد	{H4672}\H9014	HVqi1cs	#13	אֶמְצָא	'em.tza'-	I will find
+#14	نعمة	{H2580}	HNcmsa	#14	חֵ֖ן	chen	favor
+#15 - #16	في عينيه.	H9003/{H5869H}/H9023	HR/Ncfdc/Sp3ms	#15	בְּ עֵינָ֑י ו	be./'ei.Na/v	in/ eyes/ his
+#17	فقالت	H9001/{H0559}	Hc/Vqw3fs	#16	וַ תֹּ֥אמֶר	va./To.mer	and/ she said
+#18	لها:	H9005/{H9034}	HRd/Sp3fs	#17	לָ֖ הּ	la/h	to <the>/ her
+#19	اذهبي	{H1980G}	HVqv2fs	#18	לְכִ֥י	le.Khi	go
+#20	يابنتي.	{H1323G}/H9020\H9016	HNcfsc/Sp1bs	#19	בִתִּֽ י	vi.T/i	O daughter/ my
+
+Rut.2.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فذهبت	H9001/{H1980G}	Hc/Vqw3fs	#01	וַ תֵּ֤לֶךְ	va./Te.lekh	and/ she went
+#02	وجاءت	H9001/{H0935G}	Hc/Vqw3fs	#02	וַ תָּבוֹא֙	va./ta.Vo'	and/ she came
+#03	والتقطت	H9001/{H3950}	Hc/Vpw3fs	#03	וַ תְּלַקֵּ֣ט	va./te.la.Ket	and/ she gleaned
+#04 - #05	في الحقل	H9003/{H7704G}	HRd/Ncmsa	#04	בַּ שָּׂדֶ֔ה	ba./sa.Deh	in the/ field
+#06	وراء	{H0310A}	HAcmpc	#05	אַחֲרֵ֖י	'a.cha.Rei	behind
+#07	الحصادين.	H9009/{H7114B}	HTd/Vqrmpa	#06	הַ קֹּצְרִ֑ים	ha./ko.tze.Rim	the/ harvesters
+#08	فاتفق	{H4745}/H9024	HNcmsc/Sp3fs	#08	מִקְרֶ֔ הָ	mik.Re./ha	chance/ her
+#09	نصيبها	H9001/{H7136A}	Hc/Vqw3ms	#07	וַ יִּ֣קֶר	va/i.Yi.ker	and/ it chanced on
+#10 - #11	في قطعة	{H2513A}	HNcfsc	#09	חֶלְקַ֤ת	chel.Kat	[the] portion of
+#12	حقل	H9009/{H7704G}	HTd/Ncmsa	#10	הַ שָּׂדֶה֙	ha./sa.Deh	the/ field
+#13	لبوعز	H9005/{H1162G}	HR/Npm	#11	לְ בֹ֔עַז	le./Vo.'az	of/ Boaz
+#14	الذي	{H0834A}	HTr	#12	אֲשֶׁ֖ר	'a.Sher	who
+#15 - #16	من عشيرة	H9006/{H4940}	HR/Ncfsc	#13	מִ מִּשְׁפַּ֥חַת	mi./mish.Pa.chat	[was] from/ [the] clan of
+#17	أليمالك.	{H0458}\H9016	HNpm	#14	אֱלִימֶֽלֶךְ	'e.li.Me.lekh	Elimelech
+
+Rut.2.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وإذا	H9002/{H2009}\H9014	HC/Tj	#01	וְ הִנֵּה	ve./hi.neh-	and/ there.
+#02	ببوعز	{H1162G}	HNpm	#02	בֹ֗עַז	Vo.'az	Boaz
+#03 - #04	قد جاء	{H0935G}	HVqp3ms	#03	בָּ֚א	ba'	[was] coming
+#05 - #06	من بيت	H9006/{H1035G}+	HR/Npl	#04	מִ בֵּ֣ית	mi./Beit	from/ Beth-
+#07	لحم	{H1035G}	HNpl	#05	לֶ֔חֶם	Le.chem	-lehem
+#08	وقال	H9001/{H0559}	Hc/Vqw3ms	#06	וַ יֹּ֥אמֶר	va/i.Yo.mer	and/ he said
+#09	للحصادين:	H9005/{H7114B}	HRd/Vqrmpa	#07	לַ קּוֹצְרִ֖ים	la./kotz.Rim	to the/ harvesters
+#10	الرب	{H3068G}	HNpt	#08	יְהוָ֣ה	Yah.weh	Yahweh
+#11	معكم.	{H5973A}/H9036	HRd/Sp2mp	#09	עִמָּ כֶ֑ם	'i.ma./Khem	[be] with/ you
+#12	فقالوا	H9001/{H0559}	Hc/Vqw3mp	#10	וַ יֹּ֥אמְרוּ	va/i.Yo.me.ru	and/ they said
+#13	له:	H9005/{H9033}	HRd/Sp3ms	#11	ל֖ וֹ	l/o	to <the>/ him
+#14	يباركك	{H1288}/H9031	HVpi3ms/Sp2ms	#12	יְבָרֶכְ ךָ֥	ye.va.rekh./Kha	may he bless/ you
+#15	الرب.	{H3068G}\H9016	HNpt	#13	יְהוָֽה	Yah.weh	Yahweh
+
+Rut.2.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֤אמֶר	va/i.Yo.mer	and/ he said
+#02	بوعز	{H1162G}	HNpm	#02	בֹּ֙עַז֙	bo.'az	Boaz
+#03	لغلامه	H9005/{H5288}/H9023	HR/Ncmsc/Sp3ms	#03	לְ נַעֲר֔ וֹ	le./na.'a.R/o	to/ servant/ his
+#04	الموكل	H9009/{H5324}	HTd/VNrmsa	#04	הַ נִּצָּ֖ב	ha./ni.Tzav	who/ was appointed
+#05	على	{H5921A}\H9014	HR	#05	עַל	'al-	over
+#06	الحصادين:	H9009/{H7114B}	HTd/Vqrmpa	#06	הַ קּֽוֹצְרִ֑ים	ha./kotz.Rim	the/ harvesters
+#07	لمن	H9005/{H4310}	HR/Pi	#07	לְ מִ֖י	le./Mi	[belongs] to/ whom?
+#08	هذه	H9009/{H2063}\H9016	HTd/Tm	#09	הַ זֹּֽאת	ha./Zot	<the>/ this
+#09	الفتاة.	H9009/{H5291}	HTd/Ncfsa	#08	הַ נַּעֲרָ֥ה	ha./na.'a.Rah	the/ young woman
+
+Rut.2.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فأجاب	H9001/{H6030B}	Hc/Vqw3ms	#01	וַ יַּ֗עַן	va/i.Ya.'an	and/ he answered
+#02	ألغلام	H9009/{H5288}	HTd/Ncmsa	#02	הַ נַּ֛עַר	ha./Na.'ar	the/ servant
+#03	الموكل	H9009/{H5324}	HTd/VNrmsa	#03	הַ נִּצָּ֥ב	ha./ni.Tzav	who/ was appointed
+#04	على	{H5921A}\H9014	HR	#04	עַל	'al-	over
+#05	الحصادين	H9009/{H7114B}	HTd/Vqrmpa	#05	הַ קּוֹצְרִ֖ים	ha./kotz.Rim	the/ harvesters
+#06	وقال:	H9001/{H0559}	Hc/Vqw3ms	#06	וַ יֹּאמַ֑ר	va/i.yo.Mar	and/ he said
+#07	هي	{H1931}	HPp3fs	#09	הִ֔יא	Hi'	she
+#08	فتاة	{H5291}	HNcfsa	#07	נַעֲרָ֤ה	na.'a.Rah	[is] a young woman
+#09	موآبية	{H4125}	HNgfsa	#08	מֽוֹאֲבִיָּה֙	mo.'a.vi.Yah	Moabite
+#10 - #11	قد رجعت	H9009/{H7725G}	HTd/Vqp3fs	#10	הַ שָּׁ֥בָה	ha./Sha.vah	who/ <she> returned
+#12	مع	{H5973A}\H9014	HR	#11	עִֽם	'im-	with
+#13	نعمي	{H5281}	HNpf	#12	נָעֳמִ֖י	no.'o.Mi	Naomi
+#14 - #15	من بلاد	H9006/{H7704G}	HR/Ncmsc	#13	מִ שְּׂדֵ֥ה	mi./se.Deh	from/ [the] region of
+#16	موآب،	{H4124G}\H9016	HNpl	#14	מוֹאָֽב	mo.'Av	Moab
+
+Rut.2.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وقالت:	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֗אמֶר	va./To.mer	and/ she said
+#02	دعوني	{H4994}	HTj	#03	נָּא֙	na'	please
+#03	ألتقط	{H3950}\H9014	HVpc1cs	#02	אֲלַקֳטָה	'a.la.ko.tah-	let me glean
+#04	وأجمع	H9001/{H0622}	Hc/Vqq1cs	#04	וְ אָסַפְתִּ֣י	ve./'a.saf.Ti	and/ I will gather
+#05 - #06	بين الحزم	H9003/{H6016A}	HRd/Ncmpa	#05	בָֽ עֳמָרִ֔ים	vo./'o.ma.Rim	among the/ sheaves
+#07	وراء	{H0310A}	HAcmpc	#06	אַחֲרֵ֖י	'a.cha.Rei	behind
+#08	الحصادين.	H9009/{H7114B}	HTd/Vqrmpa	#07	הַ קּוֹצְרִ֑ים	ha./kotz.Rim	the/ harvesters
+#09	فجاءت	H9001/{H0935G}	Hc/Vqw3fs	#08	וַ תָּב֣וֹא	va./ta.Vo'	and/ she came
+#10	ومكثت	H9001/{H5975G}	Hc/Vqw3fs	#09	וַֽ תַּעֲמ֗וֹד	va./ta.'a.Mod	and/ she has stayed
+#11	من	H9006/{H0227B}	HR/D	#10	מֵ אָ֤ז	me./'Az	from/ then
+#12	الصباح	H9009/{H1242}	HTd/Ncmsa	#11	הַ בֹּ֙קֶר֙	ha./Bo.ker	this/ morning
+#13	إلى	H9002/{H5704}\H9014	HC/R	#12	וְ עַד	ve./'ad-	and/ until
+#14	الآن.	{H6258}	HD	#13	עַ֔תָּה	'A.tah	now
+#15	قليلا	{H4592}\H9016	HNcmsa	#17	מְעָֽט	me.'At	little
+#16 - #17	ما لبثت	{H2088}; {H3427}/H9044	HTm; HVqcc/Sp3fs	#14; 15	זֶ֛ה; שִׁבְתָּ֥ הּ	zeh; shiv.Ta/h	this; sitting/ she
+#18 - #19	في البيت.	H9009/{H1004B}	HTd/Ncmsa	#16	הַ בַּ֖יִת	ha./Ba.yit	the/ house
+
+Rut.2.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּאמֶר֩	va/i.yo.Mer	and/ he said
+#02	بوعز	{H1162G}	HNpm	#02	בֹּ֨עַז	Bo.'az	Boaz
+		{H0413}\H9014	HR	#03	אֶל	'el-	to
+#03	لراعوث:	{H7327}	HNpf	#04	ר֜וּת	rut	Ruth
+#04	ألا	H9008/{H3808}	HTi/Tn	#05	הֲ ל֧וֹא	ha./Lo'	¿/ not
+#05	تسمعين	{H8085G}	HVqp2fs	#06	שָׁמַ֣עַתְּ	sha.Ma.'at	have you heard
+#06	يابنتي.	{H1323G}/H9020	HNcfsc/Sp1bs	#07	בִּתִּ֗ י	bi.T/i	O daughter/ my
+#07	لا	{H0408}\H9014	HTn	#08	אַל	'al-	may not
+#08	تذهبي	{H1980G}	HVqj2fs	#09	תֵּלְכִי֙	te.le.Khi	you go
+#09	لتلتقطي	H9005/{H3950}	HR/Vqcc	#10	לִ לְקֹט֙	li/l.Kot	to/ glean
+#10 - #11	في حقل	H9003/{H7704G}	HR/Ncmsa	#11	בְּ שָׂדֶ֣ה	be./sa.Deh	in/ a field
+#12	آخر،	{H0312}	HAamsa	#12	אַחֵ֔ר	'a.Cher	another
+#13	وأيضا	H9002/{H1571}	HC/D	#13	וְ גַ֛ם	ve./Gam	and/ also
+#14	لا	{H3808}	HTn	#14	לֹ֥א	lo'	not
+#15	تبرحي	{H5674A}	HVqi2fs	#15	תַעֲבוּרִ֖י	ta.'a.vu.Ri	you must pass on
+#16 - #17	من ههنا،	H9006/{H2088}	HR/Tm	#16	מִ זֶּ֑ה	mi./Zeh	from/ this [field]
+#18	بل	{H5973A}\H9014	HR	#19	עִם	'im-	with
+#19	هنا	H9002/{H3541}	HC/D	#17	וְ כֹ֥ה	ve./Khoh	and/ thus
+#20	لازمي	{H1692}/H9013	HVqi2fs/Sn	#18	תִדְבָּקִ֖י ן	tid.ba.Ki/n	you will stay/ .
+#21	فتياتي.	{H5291}/H9020\H9016	HNcfpc/Sp1bs	#20	נַעֲרֹתָֽ י	na.'a.ro.Ta/i	female servants/ my
+
+Rut.2.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	عيناك	{H5869A}/H9022	HNcfdc/Sp2fs	#01	עֵינַ֜יִ ךְ	'ei.Na.yi/kh	eyes/ your
+#02 - #03	على الحقل	H9003/{H7704G}	HRd/Ncmsa	#02	בַּ שָּׂדֶ֤ה	ba./sa.Deh	[be] on the/ field
+#04	الذي	{H0834A}\H9014	HTr	#03	אֲשֶׁר	'a.Sher-	which
+#05	يحصدون	{H7114B}/H9013	HVqi3mp/Sn	#04	יִקְצֹרוּ ן֙	yik.tzo.Ru/n	they are harvesting/ .
+#06	واذهبي	H9001/{H1980N}	Hc/Vqq2fs	#05	וְ הָלַ֣כְתִּ	ve./ha.Lakht	and/ you will go
+#07	وراءهم.	{H0310A}/H9039	HAcmpc/Sp3fp	#06	אַחֲרֵי הֶ֔ן	'a.cha.rei./Hen	behind/ them
+#08	ألم	H9008/{H3808}	HTi/Tn	#07	הֲ ל֥וֹא	ha./Lo'	¿/ not
+#09	أوص	{H6680}	HVpp1cs	#08	צִוִּ֛יתִי	tzi.Vi.ti	have I commanded
+		{H0853}\H9014	HTo	#09	אֶת	'et-	<obj.>
+#10	الغلمان	H9009/{H5288}	HTd/Ncmpa	#10	הַ נְּעָרִ֖ים	ha./ne.'a.Rim	the/ young men
+#11	أن	H9005/{H1115}	HR/Ncbsc	#11	לְ בִלְתִּ֣י	le./vil.Ti	to/ not
+#12 - #13	لا يمسوك.	{H5060}/H9032	HVqcc/Sp2fs	#12	נָגְעֵ֑ ךְ	na.ge.'E/kh	to touch/ you
+#14 - #15	وإذا عطشت	H9001/{H6770}	Hc/Vqq2fs	#13	וְ צָמִ֗ת	ve./tza.Mit	and/ you will be thirsty
+#16	فاذهبي	H9001/{H1980G}	Hc/Vqq2fs	#14	וְ הָלַכְתְּ֙	ve./ha.lakhT	and/ you will go
+#17	إلى	{H0413}\H9014	HR	#15	אֶל	'el-	to
+#18	الآنية	H9009/{H3627}	HTd/Ncmpa	#16	הַ כֵּלִ֔ים	ha./ke.Lim	the/ vessels
+#19	واشربي	H9001/{H8354}	Hc/Vqq2fs	#17	וְ שָׁתִ֕ית	ve./sha.Tit	and/ you will drink
+#20	مما	H9006/{H0834C}	HR/Tr	#18	מֵ אֲשֶׁ֥ר	me./'a.Sher	some of/ [that] which
+#21	استقاه	{H7579}/H9013	HVqi3mp/Sn	#19	יִשְׁאֲב֖וּ ן	yish.'a.Vu/n	they will draw/ .
+#22	الغلمان.	H9009/{H5288}\H9016	HTd/Ncmpa	#20	הַ נְּעָרִֽים	ha./ne.'a.Rim	the/ young men
+
+Rut.2.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فسقطت	H9001/{H5307G}	Hc/Vqw3fs	#01	וַ תִּפֹּל֙	va./ti.Pol	and/ she fell
+#02	على	{H5921A}\H9014	HR	#02	עַל	'al-	on
+#03	وجهها	{H6440H}/H9024	HNcmpc/Sp3fs	#03	פָּנֶ֔י הָ	pa.Nei./ha	face/ her
+#04	وسجدت	H9001/{H7812}	Hc/Vvw3fs	#04	וַ תִּשְׁתַּ֖חוּ	va./tish.Ta.chu	and/ she bowed down
+#05 - #06	إلى الأرض	{H0776H}/H9011	HNcfsa/Sd	#05	אָ֑רְצָ ה	'A.re.tza/h	[the] ground/ towards
+#07	وقالت	H9001/{H0559}	Hc/Vqw3fs	#06	וַ תֹּ֣אמֶר	va./To.mer	and/ she said
+#08	له:	{H0413}/H9033	HRd/Sp3ms	#07	אֵלָ֗י ו	'e.La/v	to/ him
+#09	كيف	{H4069}	HTi	#08	מַדּוּעַ֩	ma.du.a'	why?
+#10	وجدت	{H4672}	HVqp1cs	#09	מָצָ֨אתִי	ma.Tza.ti	have I found
+#11	نعمة	{H2580}	HNcmsa	#10	חֵ֤ן	chen	favor
+#12 - #13	في عينيك	H9003/{H5869A}/H9021	HR/Ncfdc/Sp2ms	#11	בְּ עֵינֶ֙י ךָ֙	be./'ei.Nei./kha	in/ eyes/ your
+#14 - #16	حتى تنظر إلي	H9005/{H5234A}/H9030	HR/Vhcc/Sp1bs	#12	לְ הַכִּירֵ֔ נִי	le./ha.ki.Re./ni	to/ pay regard to/ me
+#17	وأنا	H9002/{H0595}	HC/Pp1bs	#13	וְ אָּנֹכִ֖י	ve./'a.no.Khi	and/ I
+#18	غريبة.	{H5237}\H9016	HAafsa	#14	נָכְרִיָּֽה	na.khe.ri.Yah	[am] a foreigner
+
+Rut.2.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فأجاب	H9001/{H6030B}	Hc/Vqw3ms	#01	וַ יַּ֤עַן	va/i.Ya.'an	and/ he answered
+#02	بوعز	{H1162G}	HNpm	#02	בֹּ֙עַז֙	bo.'az	Boaz
+#03	وقال	H9001/{H0559}	Hc/Vqw3ms	#03	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
+#04	لها:	H9005/{H9034}	HRd/Sp3fs	#04	לָ֔ הּ	La/h	to <the>/ her
+#05	إنني	H9005/{H9030}	HRd/Sp1bs	#07	לִ֗ י	L/i	to <the>/ me
+#06 - #07	قد أخبرت	{H5046}; {H5046}	HVHaa; HVHp3ms	#05; 06	הֻגֵּ֨ד; הֻגַּ֜ד	hu.Ged; hu.Gad	certainly <to be told>; it has been told
+#08	بكل	{H3605}	HNcmsa	#08	כֹּ֤ל	kol	all
+#09	ما	{H0834A}\H9014	HTr	#09	אֲשֶׁר	'a.Sher-	that
+#10	فعلت	{H6213A}	HVqp2fs	#10	עָשִׂית֙	'a.Sit	you have done
+		{H0854}\H9014	HR	#11	אֶת	'et-	with
+#11	بحماتك	{H2545}/H9022	HNcfsc/Sp2fs	#12	חֲמוֹתֵ֔ ךְ	cha.mo.Te/kh	mother-in-law/ your
+#12	بعد	{H0310A}	HAcmpc	#13	אַחֲרֵ֖י	'a.cha.Rei	after
+#13	موت	{H4194}	HNcmsc	#14	מ֣וֹת	Mot	[the] death of
+#14	رجلك،	{H0376H}/H9022	HNcmsc/Sp2fs	#15	אִישֵׁ֑ ךְ	'i.She/kh	husband/ your
+#15 - #16	حتى تركت	H9001/{H5800A}	Hc/Vqw2fs	#16	וַ תַּֽעַזְבִ֞י	va./ta.'az.Vi	and/ you left
+#17	أباك	{H0001G}/H9022	HNcmsc/Sp2fs	#17	אָּבִ֣י ךְ	'a.Vi/kh	father/ your
+#18	وأمك	H9002/{H0517}/H9022	HC/Ncfsc/Sp2fs	#18	וְ אִמֵּ֗ ךְ	ve./'i.Me/kh	and/ mother/ your
+#19	وأرض	H9002/{H0776G}	HC/Ncfsc	#19	וְ אֶ֙רֶץ֙	ve./'E.retz	and/ [the] land of
+#20	مولدك	{H4138}/H9022	HNcfsc/Sp2fs	#20	מֽוֹלַדְתֵּ֔ ךְ	mo.lad.Te/kh	kindred/ your
+#21	وسرت	H9001/{H1980H}	Hc/Vqw2fs	#21	וַ תֵּ֣לְכִ֔י	va./Te.le.Khi	and/ you came
+#22	إلى	{H0413}\H9014	HR	#22	אֶל	'el-	to
+#23	شعب	{H5971A}	HNcmsa	#23	עַ֕ם	'am	a people
+#24	لم	{H0834A}; {H3808}\H9014	HTr; HTn	#24; 25	אֲשֶׁ֥ר; לֹא	'a.Sher; lo'-	which; not
+#25	تعرفيه	{H3045}	HVqp2fs	#26	יָדַ֖עַתְּ	ya.Da.'at	you knew
+#26 - #27	من قبل.	{H8543}; {H8032}\H9016	HNcmsa; HNcmsa	#27; 28	תְּמ֥וֹל; שִׁלְשֽׁוֹם	te.Mol; shil.Shom	yesterday; three days ago
+
+Rut.2.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ليكافئ	{H7999A}	HVpi3ms	#01	יְשַׁלֵּ֥ם	ye.sha.Lem	may he reward
+#02	الرب	{H3068G}	HNpt	#02	יְהוָ֖ה	Yah.weh	Yahweh
+#03	عملك،	{H6467}/H9022	HNcmsc/Sp2fs	#03	פָּעֳלֵ֑ ךְ	po.'o.Le/kh	deed[s]/ your
+#04	وليكن	H9002/{H1961}	HC/Vqj3fs	#04	וּ תְהִ֨י	u./te.Hi	and/ may it be
+#05	أجرك	{H4909}/H9022	HNcfsc/Sp2fs	#05	מַשְׂכֻּרְתֵּ֜ ךְ	mas.kur.Te/kh	wage[s]/ your
+#06	كاملا	{H8003}	HAafsa	#06	שְׁלֵמָ֗ה	she.le.Mah	complete
+#07 - #08	من عند	H9006/{H5973B}	HR/R	#07	מֵ עִ֤ם	me./'Im	from/ with
+#09	الرب	{H3068G}	HNpt	#08	יְהוָה֙	Yah.weh	Yahweh
+#10	إله	{H0430G}	HNcmpc	#09	אֱלֹהֵ֣י	'e.lo.Hei	[the] God of
+#11	إسرائيل	{H3478}	HNpl	#10	יִשְׂרָאֵ֔ל	Yis.ra.'El	Israel
+#12	الذي	{H0834A}\H9014	HTr	#11	אֲשֶׁר	'a.Sher-	whom
+#13	جئت	{H0935G}	HVqp2fs	#12	בָּ֖את	bat	you have come
+#14 - #15	لكي تحتمي	H9005/{H2620}	HR/Vqcc	#13	לַ חֲס֥וֹת	la./cha.Sot	to/ take refuge
+#16	تحت	{H8478G}\H9014	HNcmsc	#14	תַּֽחַת	ta.chat-	under
+#17	جناحيه.	{H3671}/H9023\H9016	HNcfdc/Sp3ms	#15	כְּנָפָֽי ו	ke.na.Fa/v	wings/ his
+
+Rut.2.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت:	H9001/{H0559}	Hc/Vqw3fs	#01	וַ֠ תֹּאמֶר	Va./to.mer	and/ she said
+#02 - #03	ليتني أجد	{H4672}\H9014	HVqi1cs	#02	אֶמְצָא	'em.tza'-	I am finding
+#04	نعمة	{H2580}	HNcmsa	#03	חֵ֨ן	chen	favor
+#05 - #06	في عينيك	H9003/{H5869A}/H9021	HR/Ncfdc/Sp2ms	#04	בְּ עֵינֶ֤י ךָ	be./'ei.Nei./kha	in/ eyes/ your
+#07 - #08	يا سيدي	{H0113}/H9020	HNcmsc/Sp1bs	#05	אֲדֹנִ י֙	'a.do.N/i	O lord/ my
+#09	لأنك	{H3588A}	HTc	#06	כִּ֣י	ki	for
+#10 - #11	قد عزيتني	{H5162G}/H9030	HVpp2ms/Sp1bs	#07	נִֽחַמְתָּ֔ נִי	ni.cham.Ta./ni	you have comforted/ me
+		H9002/{H3588A}	HC/Tc	#08	וְ כִ֥י	ve./Khi	and/ for
+#12	وطيبت	{H1696G}	HVpp2ms	#09	דִבַּ֖רְתָּ	di.Bar.ta	you have spoken
+#13	قلب	{H5921A}\H9014; {H3820A}	HR; HNcmsc	#10; 11	עַל; לֵ֣ב	'al-; lev	to; [the] heart of
+#14	جاريتك،	{H8198}/H9021	HNcfsc/Sp2ms	#12	שִׁפְחָתֶ֑ ךָ	shif.cha.Te./kha	maidservant/ your
+#15	وأنا	H9002/{H0595}	HC/Pp1bs	#13	וְ אָנֹכִי֙	ve./'a.no.Khi	and/ I
+#16	لست	{H3808}	HTn	#14	לֹ֣א	lo'	not
+		{H1961}	HVqi1cs	#15	אֶֽהְיֶ֔ה	'eh.Yeh	I am
+#17	كواحدة	H9004/{H0259}	HR/Ncfsc	#16	כְּ אַחַ֖ת	ke./'a.Chat	like/ one of
+#18 - #19	من جواريك.	{H8198}/H9021\H9016	HNcfpc/Sp2ms	#17	שִׁפְחֹתֶֽי ךָ	shif.cho.Tei./kha	maidservants/ your
+
+Rut.2.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּאמֶר֩	va/i.yo.Mer	and/ he said
+#02	لها	H9005/{H9034}	HRd/Sp3fs	#02	לָ֨ ה	la/h	to <the>/ her
+#03	بوعز:	{H1162G}	HNpm	#03	בֹ֜עַז	Vo.'az	Boaz
+#04 - #05	عند وقت	H9005/{H6256}	HR/Ncbsc	#04	לְ עֵ֣ת	le./'Et	to/ [the] time of
+#06	الأكل	H9009/{H0400}	HTd/Ncmsa	#05	הָ אֹ֗כֶל	ha./'O.khel	the/ meal
+#07	تقدمي	{H5066G}	HVqv2fs	#06	גֹּ֤שִֽׁי	Go.shi	approach
+#08 - #09	إلى ههنا	{H1988}	HD	#07	הֲלֹם֙	ha.Lom	here
+#10	وكلي	H9001/{H0398}	Hc/Vqq2fs	#08	וְ אָכַ֣לְתְּ	ve./'a.Khalt	and/ you will eat
+#11	من	{H4480A}\H9014	HR	#09	מִן	min-	some of
+#12	الخبز،	H9009/{H3899H}	HTd/Ncmsa	#10	הַ לֶּ֔חֶם	ha./Le.chem	the/ food
+#13	واغمسي	H9001/{H2881}	Hc/Vqq2fs	#11	וְ טָבַ֥לְתְּ	ve./ta.Valt	and/ you will dip
+#14	لقمتك	{H6595A}/H9022	HNcfsc/Sp2fs	#12	פִּתֵּ֖ ךְ	pi.Te/kh	portion/ your
+#15 - #16	في الخل.	H9003/{H2558}	HRd/Ncmsa	#13	בַּ חֹ֑מֶץ	ba./Cho.metz	in the/ vinegar
+#17	فجلست	H9001/{H3427}	Hc/Vqw3fs	#14	וַ תֵּ֙שֶׁב֙	va./Te.shev	and/ she sat down
+#18	بجانب	H9006/{H6654}	HR/Ncmsc	#15	מִ צַּ֣ד	mi./Tzad	from/ [the] side of
+#19	الحصادين	H9009/{H7114B}	HTd/Vqrmpa	#16	הַ קּֽוֹצְרִ֔ים	ha./kotz.Rim	the/ harvesters
+#20	فناولها	H9001/{H6642}\H9014; H9005/{H9034}	Hc/Vqw3ms; HRd/Sp3fs	#17; 18	וַ יִּצְבָּט; לָ֣ הּ	va/i.yitz.bot-; la/h	and/ he held out; to <the>/ her
+#21	فريكا،	{H7039}	HNcmsa	#19	קָלִ֔י	ka.Li	roasted grain
+#22	فأكلت	H9001/{H0398}	Hc/Vqw3fs	#20	וַ תֹּ֥אכַל	va./To.khal	and/ she ate
+#23	وشبعت	H9001/{H7646}	Hc/Vqw3fs	#21	וַ תִּשְׂבַּ֖ע	va./tis.Ba'	and/ she was satisfied
+#24 - #25	وفضل عنها.	H9001/{H3498}\H9016	Hc/Vhw3fs	#22	וַ תֹּתַֽר	va./to.Tar	and/ she had excess
+
+Rut.2.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	ثم قامت	H9001/{H6965B}	Hc/Vqw3fs	#01	וַ תָּ֖קָם	va./Ta.kom	and/ she arose
+#03	لتلتقط.	H9005/{H3950}	HR/Vpcc	#02	לְ לַקֵּ֑ט	le./la.Ket	to/ glean
+#04	فأمر	H9001/{H6680}	Hc/Vpw3ms	#03	וַ יְצַו֩	va/y.Tzav	and/ he commanded
+#05	بوعز	{H1162G}	HNpm	#04	בֹּ֨עַז	Bo.'az	Boaz
+		{H0853}\H9014	HTo	#05	אֶת	'et-	<obj.>
+#06	غلمانه	{H5288}/H9023	HNcmpc/Sp3ms	#06	נְעָרָ֜י ו	ne.'a.Ra/v	servants/ his
+#07	قائلا:	H9005/{H0559}	HR/Vqcc	#07	לֵ אמֹ֗ר	le./Mor	<to>/ saying
+#08 - #09	دعوها تلتقط	{H3950}	HVpi3fs	#11	תְּלַקֵּ֖ט	te.la.Ket	she will glean
+#10	بين	{H0996G}	HAcmsc	#09	בֵּ֧ין	bein	between
+#11	الحزم	H9009/{H6016A}	HTd/Ncmpa	#10	הָֽ עֳמָרִ֛ים	ho./'o.ma.Rim	the/ sheaves
+#12	أيضا	{H1571}	HD	#08	גַּ֣ם	gam	also
+#13	ولا	H9002/{H3808}	HC/Tn	#12	וְ לֹ֥א	ve./Lo'	and/ not
+#14	تؤذوها.	{H3637}/H9034\H9016	HVhi2mp/Sp3fs	#13	תַכְלִימֽוּ הָ	takh.li.Mu./ha	you must humiliate/ her
+
+Rut.2.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وأنسلوا	{H7997A}\H9014; {H7997A}	HVqcc; HVqi2mp	#02; 03	שֹׁל; תָּשֹׁ֥לּוּ	shol-; ta.Sho.lu	indeed <pull out>; you will pull out
+#02	أيضا	H9002/{H1571}	HC/D	#01	וְ גַ֛ם	ve./Gam	and/ also
+#03	لها	H9005/{H9034}	HRd/Sp3fs	#04	לָ֖ הּ	la/h	for <the>/ her
+#04	من	{H4480A}\H9014	HR	#05	מִן	min-	some of
+#05	الشمائل	H9009/{H6653}	HTd/Ncmpa	#06	הַ צְּבָתִ֑ים	ha./tze.va.Tim	the/ bundles of grain
+#06	ودعوها	H9001/{H5800A}	Hc/Vqq2mp	#07	וַ עֲזַבְתֶּ֥ם	va./'a.zav.Tem	and/ you will leave [them]
+#07	تلتقط	H9001/{H3950}	Hc/Vpq3fs	#08	וְ לִקְּטָ֖ה	ve./li.ke.Tah	and/ she will glean
+#08	ولا	H9002/{H3808}	HC/Tn	#09	וְ לֹ֥א	ve./Lo'	and/ not
+#09	تنتهروها.	{H1605}\H9014; H9003/{H9034}\H9016	HVqi2mp; HRd/Sp3fs	#10; 11	תִגְעֲרוּ; בָֽ הּ	tig.'a.ru-; Va/h	you must rebuke; <in> <the>/ her
+
+Rut.2.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فالتقطت	H9001/{H3950}	Hc/Vpw3fs	#01	וַ תְּלַקֵּ֥ט	va./te.la.Ket	and/ she gleaned
+#02 - #03	في الحقل	H9003/{H7704G}	HRd/Ncmsa	#02	בַּ שָּׂדֶ֖ה	ba./sa.Deh	in the/ field
+#04	إلى	{H5704}\H9014	HR	#03	עַד	'ad-	until
+#05	المساء،	H9009/{H6153}	HTd/Ncmsa	#04	הָ עָ֑רֶב	ha./'A.rev	the/ evening
+#06	وخبطت	H9001/{H2251}	Hc/Vqw3fs	#05	וַ תַּחְבֹּט֙	va./tach.Bot	and/ she beat out
+		{H0853}	HTo	#06	אֵ֣ת	'et	<obj.>
+#07	ما	{H0834A}\H9014	HTr	#07	אֲשֶׁר	'a.Sher-	[that] which
+#08	التقطته	{H3950}	HVpp3fs	#08	לִקֵּ֔טָה	li.Ke.tah	she had gleaned
+#09	فكان	H9001/{H1961}	Hc/Vqw3ms	#09	וַ יְהִ֖י	va/y.Hi	and/ it was
+#10 - #11	نحو إيفة	H9004/{H0374}	HR/Ncfsa	#10	כְּ אֵיפָ֥ה	ke./'ei.Fah	about/ an ephah
+#12	شعير.	{H8184}\H9016	HNcmpa	#11	שְׂעֹרִֽים	se.'o.Rim	barley<s>
+
+Rut.2.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فحملته	H9001/{H5375H}	Hc/Vqw3fs	#01	וַ תִּשָּׂא֙	va./ti.Sa'	and/ she lifted [it] up
+#02	ودخلت	H9001/{H0935G}	Hc/Vqw3fs	#02	וַ תָּב֣וֹא	va./ta.Vo'	and/ she went
+#03	المدينة.	H9009/{H5892B}	HTd/Ncfsa	#03	הָ עִ֔יר	ha./'Ir	the/ city
+#04	فرأت	H9001/{H7200G}	Hc/Vqw3fs	#04	וַ תֵּ֥רֶא	va./Te.re'	and/ she saw
+#05	حماتها	{H2545}/H9024	HNcfsc/Sp3fs	#05	חֲמוֹתָ֖ הּ	cha.mo.Ta/h	mother-in-law/ her
+		{H0853}	HTo	#06	אֵ֣ת	'et	<obj.>
+#06	ما	{H0834A}\H9014	HTr	#07	אֲשֶׁר	'a.Sher-	[that] which
+#07	التقطته.	{H3950}	HVpp3fs	#08	לִקֵּ֑טָה	li.Ke.tah	she had gleaned
+#08	وأخرجت	H9001/{H3318H}	Hc/Vhw3fs	#09	וַ תּוֹצֵא֙	va./to.Tze'	and/ she took [it] out
+#09	وأعطتها	H9001/{H5414G}\H9014; H9005/{H9034}	Hc/Vqw3fs; HRd/Sp3fs	#10; 11	וַ תִּתֶּן; לָ֔ הּ	va./ti.ten-; La/h	and/ she gave; to <the>/ her
+		{H0853}	HTo	#12	אֵ֥ת	'et	<obj.>
+#10	ما	{H0834A}\H9014	HTr	#13	אֲשֶׁר	'a.Sher-	[that] which
+#11 - #12	فضل عنها	{H3498}	HVhp3fs	#14	הוֹתִ֖רָה	ho.Ti.rah	she had left over
+#13 - #14	بعد شبعها.	H9006/{H7648}/H9024\H9016	HR/Ncmsc/Sp3fs	#15	מִ שָּׂבְעָֽ הּ	mi./sa.ve.'A/h	from/ abundance/ her
+
+Rut.2.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּאמֶר֩	va./to.Mer	and/ she said
+#02	لها	H9005/{H9034}	HRd/Sp3fs	#02	לָ֨ הּ	la/h	to <the>/ her
+#03	حماتها:	{H2545}/H9024	HNcfsc/Sp3fs	#03	חֲמוֹתָ֜ הּ	cha.mo.Ta/h	mother-in-law/ her
+#04	أين	{H0375}	HTi	#04	אֵיפֹ֨ה	'ei.Foh	where?
+#05	التقطت	{H3950}	HVpp2fs	#05	לִקַּ֤טְתְּ	li.Katt	did you glean
+#06	اليوم.	H9009/{H3117G}	HTd/Ncmsa	#06	הַ יּוֹם֙	hai./yOm	this/ day
+#07	وأين	H9002/{H0575}	HC/Ti	#07	וְ אָ֣נָה	ve./'A.nah	and/ where?
+#08	اشتغلت.	{H6213A}	HVqp2fs	#08	עָשִׂ֔ית	'a.Sit	did you work
+#09	ليكن	{H1961}	HVqj3ms	#09	יְהִ֥י	ye.Hi	may he be
+#10 - #11	الناظر إليك	{H5234A}/H9032	HVhrmsc/Sp2fs	#10	מַכִּירֵ֖ ךְ	ma.ki.Re/kh	[the one who] paid regard to/ you
+#12	مباركا.	{H1288}	HVqsmsa	#11	בָּר֑וּךְ	ba.Rukh	blessed
+#13	فأخبرت	H9001/{H5046}	Hc/Vhw3fs	#12	וַ תַּגֵּ֣ד	va./ta.Ged	and/ she told
+#14	حماتها	H9005/{H2545}/H9024	HR/Ncfsc/Sp3fs	#13	לַ חֲמוֹתָ֗ הּ	la./cha.mo.Ta/h	to/ mother-in-law/ her
+		{H0853}	HTo	#14	אֵ֤ת	'et	<obj.>
+#15	بالذي	{H0834A}\H9014	HTr	#15	אֲשֶׁר	'a.Sher-	whom
+#16	اشتغلت	{H6213A}	HVqp3fs	#16	עָשְׂתָה֙	'a.se.Tah	she had worked
+#17	معه	{H5973A}/H9033	HRd/Sp3ms	#17	עִמּ֔ וֹ	i.M/o	with/ him
+#18	وقالت:	H9001/{H0559}	Hc/Vqw3fs	#18	וַ תֹּ֗אמֶר	va./To.mer	and/ she said
+#19	اسم	{H8034}	HNcmsc	#19	שֵׁ֤ם	shem	[the] name of
+#20	الرجل	H9009/{H0376G}	HTd/Ncmsa	#20	הָ אִישׁ֙	ha./'Ish	the/ man
+#21	الذي	{H0834A}	HTr	#21	אֲשֶׁ֨ר	'a.Sher	whom
+#22	اشتغلت	{H6213A}	HVqp1cs	#22	עָשִׂ֧יתִי	'a.Si.ti	I worked
+#23	معه	{H5973A}/H9033	HRd/Sp3ms	#23	עִמּ֛ וֹ	i.M/o	with/ him
+#24	اليوم	H9009/{H3117G}	HTd/Ncmsa	#24	הַ יּ֖וֹם	hai./Yom	this/ day
+#25	بوعز.	{H1162G}\H9016	HNpm	#25	בֹּֽעַז	Bo.'az	[is] Boaz
+
+Rut.2.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֨אמֶר	va./To.mer	and/ she said
+#02	نعمي	{H5281}	HNpf	#02	נָעֳמִ֜י	no.'o.Mi	Naomi
+#03	لكنتها:	H9005/{H3618H}/H9024	HR/Ncfsc/Sp3fs	#03	לְ כַלָּתָ֗ הּ	le./kha.la.Ta/h	to/ daughter-in-law/ her
+#04	مبارك	{H1288}	HVqsmsa	#04	בָּר֥וּךְ	ba.Rukh	[be] blessed
+#05	هو	{H1931}	HPp3ms	#05	הוּא֙	hu'	he
+#06 - #07	من الرب	H9005/{H3068G}	HR/Npt	#06	לַ יהוָ֔ה	la./Yah.weh	by/ Yahweh
+#08	لأنه	{H0834A}	HTr	#07	אֲשֶׁר֙	'a.Sher	who
+#09	لم	{H3808}\H9014	HTn	#08	לֹא	lo'-	not
+#10	يترك	{H5800A}	HVqp3ms	#09	עָזַ֣ב	'a.Zav	he has forsaken
+#11	المعروف	{H2617A}/H9023	HNcmsc/Sp3ms	#10	חַסְדּ֔ וֹ	chas.D/o	covenant loyalty/ his
+#12	مع	{H0854}\H9014	HR	#11	אֶת	'et-	with
+#13	الأحياء	H9009/{H2416A}	HTd/Aampa	#12	הַ חַיִּ֖ים	ha./chai.Yim	the/ living
+		H9002/{H0854}\H9014	HC/R	#13	וְ אֶת	ve./'Et	and/ with
+#14	والموتى.	H9009/{H4191}	HTd/Vqrmpa	#14	הַ מֵּתִ֑ים	ha./me.Tim	the/ dead
+#15 - #16	ثم قالت	H9001/{H0559}	Hc/Vqw3fs	#15	וַ תֹּ֧אמֶר	va./To.mer	and/ she said
+#17	لها	H9005/{H9034}	HRd/Sp3fs	#16	לָ֣ הּ	la/h	to <the>/ her
+#18	نعمي:	{H5281}	HNpf	#17	נָעֳמִ֗י	no.'o.Mi	Naomi
+#19	الرجل	H9009/{H0376G}	HTd/Ncmsa	#20	הָ אִ֔ישׁ	ha./'Ish	the/ man
+#20 - #21	ذو قرابة	{H7138}	HAamsa	#18	קָר֥וֹב	ka.Rov	[is] near
+#22	لنا.	H9005/{H9035}	HRd/Sp1bp	#19	לָ֙ נוּ֙	la./nu	to <the>/ us
+#23	هو	{H1931}\H9016	HPp3ms	#22	הֽוּא	Hu'	he
+#24 - #25	ثاني ولينا.	H9006/{H1350A}/H9025	HR/Vqrmpc/Sp1bp	#21	מִֽ גֹּאֲלֵ֖ נוּ	mi./go.'a.Le./nu	[is] one of/ kinsman-redeemer[s]/ our
+
+Rut.2.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֖אמֶר	va./To.mer	and/ she said
+#02	راعوث	{H7327}	HNpf	#02	ר֣וּת	rut	Ruth
+#03	الموآبية:	H9009/{H4125}	HTd/Ngfsa	#03	הַ מּוֹאֲבִיָּ֑ה	ha./mo.'a.vi.Yah	the/ Moabite [woman]
+#04	إنه	{H1571}\H9015; {H3588A}\H9014	HD; HTc	#04; 05	גַּ֣ם; כִּי	gam; ki-	also; that
+#05	قال	{H0559}	HVqp3ms	#06	אָמַ֣ר	'a.Mar	he said
+#06	لي	{H0413}/H9030	HRd/Sp1bs	#07	אֵלַ֗ י	'e.La/i	to/ me
+		{H5973A}\H9014	HR	#08	עִם	'im-	with
+#07	أيضا:	{H1571}\H9015	HD	#04	גַּ֣ם	gam	also
+#08	لازمي	{H1692}/H9013	HVqi2fs/Sn	#12	תִּדְבָּקִ֔י ן	tid.ba.Ki/n	you will stay/ .
+#09	فتياني	H9009/{H5288}; {H0834A}\H9014; H9005/{H9030}	HTd/Ncmpa; HTr; HRd/Sp1bs	#09; 10; 11	הַ נְּעָרִ֤ים; אֲשֶׁר; לִ י֙	ha./ne.'a.Rim; 'a.Sher-; l/i	the/ servants; who; [belong] to <the>/ me
+#10	حتى	{H5704}; {H0518J}\H9014	HR; HTc	#13; 14	עַ֣ד; אִם	'ad; 'im-	until; <if>
+#11	يكملوا	{H3615G}	HVpp3cp	#15	כִּלּ֔וּ	ki.Lu	they have completed
+		{H0853}	HTo	#16	אֵ֥ת	'et	<obj.>
+#12	جميع	{H3605}\H9014	HNcmsc	#17	כָּל	kol-	all
+#13	حصادي.	H9009/{H7105A}; {H0834A}\H9014; H9005/{H9030}\H9016	HTd/Ncmsa; HTr; HRd/Sp1bs	#18; 19; 20	הַ קָּצִ֖יר; אֲשֶׁר; לִֽ י	ha./ka.Tzir; 'a.Sher-; L/i	the/ harvest; which; [belongs] to <the>/ me
+
+Rut.2.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֥אמֶר	va./To.mer	and/ she said
+#02	نعمي	{H5281}	HNpf	#02	נָעֳמִ֖י	no.'o.Mi	Naomi
+		{H0413}\H9014	HR	#03	אֶל	'el-	to
+#03	لراعوث	{H7327}	HNpf	#04	ר֣וּת	rut	Ruth
+#04	كنتها:	{H3618H}/H9024	HNcfsc/Sp3fs	#05	כַּלָּתָ֑ הּ	ka.la.Ta/h	daughter-in-law/ her
+#05 - #06	إنه حسن	{H2896A}	HAamsa	#06	ט֣וֹב	Tov	[is] good
+#07	يابنتي	{H1323G}/H9020	HNcfsc/Sp1bs	#07	בִּתִּ֗ י	bi.T/i	O daughter/ my
+#08	أن	{H3588A}	HTc	#08	כִּ֤י	ki	that
+#09	تخرجي	{H3318G}	HVqi2fs	#09	תֵֽצְאִי֙	te.tze.'I	you will go out
+#10	مع	{H5973A}\H9014	HR	#10	עִם	'im-	with
+#11	فتياته	{H5291}/H9023	HNcfpc/Sp3ms	#11	נַ֣עֲרוֹתָ֔י ו	na.'a.ro.Ta/v	female servants/ his
+#12 - #13	حتى لا	H9002/{H3808}	HC/Tn	#12	וְ לֹ֥א	ve./Lo'	and/ not
+#14	يقعوا	{H6293}\H9014	HVqi3mp	#13	יִפְגְּעוּ	yif.ge.'u-	people will molest
+#15	بك	H9003/{H9032}	HRd/Sp2fs	#14	בָ֖ ךְ	va/kh	<in> <the>/ you
+#16 - #17	في حقل	H9003/{H7704G}	HR/Ncmsa	#15	בְּ שָׂדֶ֥ה	be./sa.Deh	in/ a field
+#18	آخر.	{H0312}\H9016	HAamsa	#16	אַחֵֽר	'a.Cher	another
+
+Rut.2.23
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فلازمت	H9001/{H1692}	Hc/Vqw3fs	#01	וַ תִּדְבַּ֞ק	va./tid.Bak	and/ she stayed
+#02	فتيات	H9003/{H5291}	HR/Ncfpc	#02	בְּ נַעֲר֥וֹת	be./na.'a.Rot	with/ [the] female servants of
+#03	بوعز	{H1162G}	HNpm	#03	בֹּ֙עַז֙	bo.'az	Boaz
+#04 - #05	في الالتقاط	H9005/{H3950}	HR/Vpcc	#04	לְ לַקֵּ֔ט	le./la.Ket	to/ glean
+#06	حتى	{H5704}\H9014	HR	#05	עַד	'ad-	until
+#07	انتهى	{H3615G}	HVqcc	#06	כְּל֥וֹת	ke.Lot	was complete
+#08	حصاد	{H7105A}\H9014	HNcmsc	#07	קְצִֽיר	ke.tzir-	[the] harvest of
+#09	الشعير	H9009/{H8184}	HTd/Ncmpa	#08	הַ שְּׂעֹרִ֖ים	ha./se.'o.Rim	the/ barley<s>
+#10	وحصاد	H9002/{H7105A}	HC/Ncmsc	#09	וּ קְצִ֣יר	u./ke.Tzir	and/ [the] harvest of
+#11	الحنطة.	H9009/{H2406}	HTd/Ncmpa	#10	הַֽ חִטִּ֑ים	ha./chi.Tim	the/ wheat<s>
+#12	وسكنت	H9001/{H3427}	Hc/Vqw3fs	#11	וַ תֵּ֖שֶׁב	va./Te.shev	and/ she dwelt
+#13	مع	{H0854}\H9014	HR	#12	אֶת	'et-	with
+#14	حماتها.	{H2545}/H9024\H9016	HNcfsc/Sp3fs	#13	חֲמוֹתָֽ הּ	cha.mo.Ta/h	mother-in-law/ her
+
+Rut.3.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֥אמֶר	va./To.mer	and/ she said
+#02	لها	H9005/{H9034}	HRd/Sp3fs	#02	לָ֖ הּ	la/h	to <the>/ her
+#03	نعمي	{H5281}	HNpf	#03	נָעֳמִ֣י	no.'o.Mi	Naomi
+#04	حماتها:	{H2545}/H9024	HNcfsc/Sp3fs	#04	חֲמוֹתָ֑ הּ	cha.mo.Ta/h	mother-in-law/ her
+#05	يابنتي	{H1323G}/H9020	HNcfsc/Sp1bs	#05	בִּתִּ֞ י	bi.T/i	O daughter/ my
+#06	ألا	H9008/{H3808}	HTi/Tn	#06	הֲ לֹ֧א	ha./Lo'	¿/ not
+#07	ألتمس	{H1245}\H9014	HVpi1cs	#07	אֲבַקֶּשׁ	'a.va.kesh-	will I seek
+#08	لك						
+#09	راحة	{H4494}	HNcmsa	#09	מָנ֖וֹחַ	ma.No.ach	a resting place
+#10	ليكون	{H0834A}	HTr	#10	אֲשֶׁ֥ר	'a.Sher	that
+#11	لك	H9005/{H9032}	HRd/Sp2fs	#08	לָ֛ ךְ	la/kh	for <the>/ you
+#12	خير.	{H3190}\H9014	HVqi3ms	#11	יִֽיטַב	yi.tav-	it will go well
+		H9005/{H9032}\H9016	HRd/Sp2fs	#12	לָֽ ךְ	La/kh	for <the>/ you
+
+Rut.3.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فالآن	H9002/{H6258}	HC/D	#01	וְ עַתָּ֗ה	ve./'a.Tah	and/ therefore
+#02	أليس	H9008/{H3808}	HTi/Tn	#02	הֲ לֹ֥א	ha./Lo'	¿/ not
+#03	بوعز	{H1162G}	HNpm	#03	בֹ֙עַז֙	vo.'az	[is] Boaz
+#04 - #06	ذا قرابة لنا،	{H4130}/H9025	HNcfsc/Sp1bp	#04	מֹֽדַעְתָּ֔ נוּ	mo.da'.Ta./nu	relative/ our
+#07	الذي	{H0834A}	HTr	#05	אֲשֶׁ֥ר	'a.Sher	whom
+#08	كنت	{H1961}	HVqp2fs	#06	הָיִ֖ית	ha.Yit	you were
+#09	مع	{H0854}\H9014	HR	#07	אֶת	'et-	with
+#10	فتياته.	{H5291}/H9023	HNcfpc/Sp3ms	#08	נַעֲרוֹתָ֑י ו	na.'a.ro.Ta/v	female servants/ his
+#11	ها	{H2009}\H9014	HTj	#09	הִנֵּה	hi.neh-	there.
+#12	هو	{H1931}	HPp3ms	#10	ה֗וּא	Hu'	he
+#13	يذري	{H2219}	HVqrmsa	#11	זֹרֶ֛ה	zo.Reh	[will be] winnowing
+		{H0853}\H9014	HTo	#12	אֶת	'et-	<obj.>
+#14	بيدر	{H1637}	HNcfsc	#13	גֹּ֥רֶן	Go.ren	[the] threshing floor of
+#15	الشعير	H9009/{H8184}	HTd/Ncmpa	#14	הַ שְּׂעֹרִ֖ים	ha./se.'o.Rim	the/ barley<s>
+#16	الليلة.	H9009/{H3915}\H9016	HTd/Ncmsa	#15	הַ לָּֽיְלָה	ha./La.ye.lah	this/ night
+
+Rut.3.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فاغتسلي	H9001/{H7364}\H9015	Hc/Vqq2fs	#01	וְ רָחַ֣צְתְּ	ve./ra.Chatzt	and/ you will wash
+#02	وتدهني	H9001/{H5480}	Hc/Vqq2fs	#02	וָ סַ֗כְתְּ	va./Sakht	and/ you will anoint yourself
+#03	والبسي	H9001/{H7760H}	Hc/Vqq2fs	#03	וְ שַׂ֧מְתְּ	ve./Samt	and/ you will put
+#04	ثيابك	{H8071}/H9022	HNcfpc/Sp2fs	#04Q(K)	שִׂמְלֹתַ֛יִ ךְ	sim.lo.te/kh	garments/ your
+#05	وانزلي	H9001/{H3381}	Hc/Vqq2fs	#06Q(K)	וְ יָרַ֣דְתְּ	ve./ya.rad.ti	and/ you will go down
+#06	إلى	{H5921A}/H9032	HRd/Sp2fs	#05	עָלַ֖יִ ךְ	'a.La.yi/kh	on/ yourself
+#07	البيدر،	H9009/{H1637}	HTd/Ncfsa	#07	הַ גֹּ֑רֶן	ha./Go.ren	the/ threshing floor
+#08 - #09	ولكن لا	{H0408}\H9014	HTn	#08	אַל	'al-	may not
+#10	تعرفي	{H3045}	HVNj2fs	#09	תִּוָּדְעִ֣י	ti.va.de.'I	you make yourself known
+#11 - #12	عند الرجل	H9005/{H0376G}	HRd/Ncmsa	#10	לָ אִ֔ישׁ	la./'Ish	to the/ man
+#13	حتى	{H5704}	HR	#11	עַ֥ד	'ad	until
+#14	يفرغ	{H3615G}/H9043	HVpcc/Sp3ms	#12	כַּלֹּת֖ וֹ	ka.lo.T/o	finishes/ he
+#15 - #16	من الأكل	H9005/{H0398}	HR/Vqcc	#13	לֶ אֱכֹ֥ל	le./'e.Khol	to/ eat
+#17	والشرب.	H9002/H9005/{H8354}\H9016	HC/R/Vqcc	#14	וְ לִ שְׁתּֽוֹת	ve./li/sh.Tot	and/ to/ drink
+
+Rut.3.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ومتى	H9002/{H1961}	HC/Vqj3ms	#01	וִ יהִ֣י	vi./Hi	and/ let it be
+#02	اضطجع	H9003/{H7901G}/H9043	HR/Vqcc/Sp3ms	#02	בְ שָׁכְב֗ וֹ	ve./sha.khe.V/o	when/ lies down/ he
+#03	فاعلمي	H9001/{H3045}	Hc/Vqq2fs	#03	וְ יָדַ֙עַתְּ֙	ve./ya.Da.'at	and/ you will take note of
+		{H0853}\H9014	HTo	#04	אֶת	'et-	<obj.>
+#04	المكان	H9009/{H4725}	HTd/Ncmsa	#05	הַ מָּקוֹם֙	ha./ma.kOm	the/ place
+#05	الذي	{H0834A}	HTr	#06	אֲשֶׁ֣ר	'a.Sher	where
+#06	يضطجع	{H7901G}\H9014	HVqi3ms	#07	יִשְׁכַּב	yish.kav-	he will lie down
+#07	فيه،	{H8033G}	HD	#08	שָׁ֔ם	Sham	there
+#08	وادخلي	H9001/{H0935G}	Hc/Vqq2fs	#09	וּ בָ֛את	u./Vat	and/ you will go
+#09	واكشفي	H9001/{H1540I}	Hc/Vpq2fs	#10	וְ גִלִּ֥ית	ve./gi.Lit	and/ you will uncover
+#10 - #11	ناحية رجليه	{H4772}/H9023	HNcfpc/Sp3ms	#11	מַרְגְּלֹתָ֖י ו	mar.ge.lo.Ta/v	feet/ his
+#12	واضطجعي،	H9001/{H7901G}	Hc/Vqq2fs	#12Q(k)	וְ שָׁכָ֑בְתְּ	ve./sha.kha.ve.ti	and/ you will lie down
+#13	وهو	H9002/{H1931}	HC/Pp3ms	#13	וְ הוּא֙	ve./Hu'	and/ he
+#14	يخبرك	{H5046}; H9005/{H9032}	HVhi3ms; HRd/Sp2fs	#14; 15	יַגִּ֣יד; לָ֔ ךְ	ya.Gid; La/kh	he will tell; to <the>/ you
+		{H0853}	HTo	#16	אֵ֖ת	'et	<obj.>
+#15	بما	{H0834A}	HTr	#17	אֲשֶׁ֥ר	'a.Sher	[that] which
+#16	تعملين.	{H6213A}/H9013\H9016	HVqi2fs/Sn	#18	תַּעַשִֽׂי ן	ta.'a.Si/n	you will do/ .
+
+Rut.3.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֖אמֶר	va./To.mer	and/ she said
+#02	لها:	{H0413}/H9034	HRd/Sp3fs	#02	אֵלֶ֑י הָ	'e.Lei./ha	to/ her
+#03	كل	{H3605}	HNcmsa	#03	כֹּ֛ל	kol	all
+#04	ما	{H0834A}\H9014	HTr	#04	אֲשֶׁר	'a.Sher-	that
+#05	قلت	{H0559}/ /{H0413}/H9030	HVqi2fs//Rd/Sp1bs	#05Q(K)	תֹּאמְרִ֥י   אֵלַ֖ י	tom.Ri/ /e.La/i	you are saying/ /to/ me
+#06	أصنع.	{H6213A}\H9016	HVqi1cs	#06	אֶֽעֱשֶֽׂה	'E.'e.Seh	I will do
+
+Rut.3.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فنزلت	H9001/{H3381}	Hc/Vqw3fs	#01	וַ תֵּ֖רֶד	va./Te.red	and/ she went down
+#02 - #03	إلى البيدر	H9009/{H1637}	HTd/Ncfsa	#02	הַ גֹּ֑רֶן	ha./Go.ren	the/ threshing floor
+#04	وعملت	H9001/{H6213A}	Hc/Vqw3fs	#03	וַ תַּ֕עַשׂ	va./Ta.'as	and/ she did
+#05 - #06	حسب كل	H9004/{H3605}	HR/Ncmsa	#04	כְּ כֹ֥ל	ke./Khol	according to/ all
+#07	ما	{H0834A}\H9014	HTr	#05	אֲשֶׁר	'a.Sher-	that
+#08 - #09	أمرتها به	{H6680}/H9034	HVpp3fs/Sp3fs	#06	צִוַּ֖תָּ ה	tzi.Va.ta/h	she had commanded/ her
+#10	حماتها.	{H2545}/H9024\H9016	HNcfsc/Sp3fs	#07	חֲמוֹתָֽ הּ	cha.mo.Ta/h	mother-in-law/ her
+
+Rut.3.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فأكل	H9001/{H0398}	Hc/Vqw3ms	#01	וַ יֹּ֨אכַל	va/i.Yo.khal	and/ he ate
+#02	بوعز	{H1162G}	HNpm	#02	בֹּ֤עַז	Bo.'az	Boaz
+#03	وشرب	H9001/{H8354}	Hc/Vqw3ms	#03	וַ יֵּשְׁתְּ֙	va/i.ye.sheT	and/ he drank
+#04	وطاب	H9001/{H3190}	Hc/Vqw3ms	#04	וַ יִּיטַ֣ב	va/i.yi.Tav	and/ it was good
+#05	قلبه	{H3820A}/H9023	HNcmsc/Sp3ms	#05	לִבּ֔ וֹ	li.B/o	heart/ his
+#06	ودخل	H9001/{H0935G}	Hc/Vqw3ms	#06	וַ יָּבֹ֕א	va/i.ya.Vo'	and/ he went
+#07	ليضطجع	H9005/{H7901G}	HR/Vqcc	#07	לִ שְׁכַּ֖ב	li/sh.Kav	to/ lie down
+#08 - #09	في طرف	H9003/{H7097A}	HR/Ncmsc	#08	בִּ קְצֵ֣ה	bi/k.Tzeh	at/ [the] end of
+#10	العرمة.	H9009/{H6194}	HTd/Ncfsa	#09	הָ עֲרֵמָ֑ה	ha./'a.re.Mah	the/ heap
+#11	فدخلت	H9001/{H0935G}	Hc/Vqw3fs	#10	וַ תָּבֹ֣א	va./ta.Vo'	and/ she came
+#12	سرا	H9003/{H3909}	HRd/Ncmsa	#11	בַ לָּ֔ט	va./Lat	in <the>/ secrecy
+#13	وكشفت	H9001/{H1540I}	Hc/Vpw3fs	#12	וַ תְּגַ֥ל	va./te.Gal	and/ she uncovered
+#14 - #15	ناحية رجليه	{H4772}/H9023	HNcfpc/Sp3ms	#13	מַרְגְּלֹתָ֖י ו	mar.ge.lo.Ta/v	feet/ his
+#16	واضطجعت.	H9001/{H7901G}\H9016	Hc/Vqw3fs	#14	וַ תִּשְׁכָּֽב	va./tish.Kav	and/ she lay down
+
+Rut.3.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وكان	H9001/{H1961}	Hc/Vqw3ms	#01	וַ יְהִי֙	va/y.Hi	and/ it was
+#02 - #03	عند انتصاف	H9003/{H2677}	HR/Ncmsc	#02	בַּ חֲצִ֣י	ba./cha.Tzi	in/ [the] middle of
+#04	الليل	H9009/{H3915}	HTd/Ncmsa	#03	הַ לַּ֔יְלָה	ha./Lay.lah	the/ night
+#05 - #06	أن الرجل	H9009/{H0376G}	HTd/Ncmsa	#05	הָ אִ֖ישׁ	ha./'Ish	the/ man
+#07	اضطرب،	H9001/{H2729}	Hc/Vqw3ms	#04	וַ יֶּחֱרַ֥ד	va/i.ye.che.Rad	and/ he trembled
+#08	والتفت	H9001/{H3943}	Hc/VNw3ms	#06	וַ יִּלָּפֵ֑ת	va/i.yi.la.Fet	and/ he twisted
+#09	وإذا	H9002/{H2009}	HC/Tj	#07	וְ הִנֵּ֣ה	ve./hi.Neh	and/ there.
+#10	بامرأة	{H0802G}	HNcfsa	#08	אִשָּׁ֔ה	'i.Shah	a woman
+#11	مضطجعة	{H7901G}	HVqrfsa	#09	שֹׁכֶ֖בֶת	sho.Khe.vet	[was] lying down
+#12 - #13	عند رجليه.	{H4772}/H9023\H9016	HNcfpc/Sp3ms	#10	מַרְגְּלֹתָֽי ו	mar.ge.lo.Ta/v	feet/ his
+
+Rut.3.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال:	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֖אמֶר	va/i.Yo.mer	and/ he said
+#02	من	{H4310}\H9014	HPi	#02	מִי	mi-	who?
+#03	أنت.	{H0859C}	HPp2fs	#03	אָ֑תּ	'At	[are] you
+#04	فقالت:	H9001/{H0559}	Hc/Vqw3fs	#04	וַ תֹּ֗אמֶר	va./To.mer	and/ she said
+#05	أنا	{H0595}	HPp1bs	#05	אָנֹכִי֙	'a.no.Khi	I
+#06	راعوث	{H7327}	HNpf	#06	ר֣וּת	rut	[am] Ruth
+#07	أمتك.	{H0519}/H9021	HNcfsc/Sp2ms	#07	אֲמָתֶ֔ ךָ	'a.ma.Te./kha	maidservant/ your
+#08	فابسط	H9001/{H6566}	Hc/Vqq2ms	#08	וּ פָרַשְׂתָּ֤	u./fa.ras.Ta	and/ you will spread out
+#09 - #10	ذيل ثوبك	{H3671}/H9021	HNcfsc/Sp2ms	#09	כְנָפֶ֙ ךָ֙	khe.na.Fe./kha	skirt/ your
+#11	على	{H5921A}\H9014	HR	#10	עַל	'al-	over
+#12	أمتك	{H0519}/H9021	HNcfsc/Sp2ms	#11	אֲמָ֣תְ ךָ֔	'a.Ma.te./kha	maidservant/ your
+#13	لأنك	{H3588A}; {H0859A}\H9016	HTc; HPp2ms	#12; 14	כִּ֥י; אָֽתָּה	ki; 'A.tah	for; you
+#14	ولي.	{H1350A}	HVqrmsa	#13	גֹאֵ֖ל	go.'El	[are] a kinsman-redeemer
+
+Rut.3.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال:	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֗אמֶר	va/i.Yo.mer	and/ he said
+#02	إنك	{H0859C}	HPp2fs	#03	אַ֤תְּ	'at	you
+#03	مباركة	{H1288}	HVqsfsa	#02	בְּרוּכָ֨ה	be.ru.Khah	[be] blessed
+#04 - #05	من الرب	H9005/{H3068G}	HR/Npt	#04	לַֽ יהוָה֙	la./Yah.weh	by/ Yahweh
+#06	يابنتي	{H1323G}/H9020	HNcfsc/Sp1bs	#05	בִּתִּ֔ י	bi.T/i	O daughter/ my
+#07 - #09	لأنك قد أحسنت	{H3190}	HVhp2fs	#06	הֵיטַ֛בְתְּ	hei.Tavt	you have made good
+#10	معروفك	{H2617A}/H9022	HNcmsc/Sp2fs	#07	חַסְדֵּ֥ ךְ	chas.De/kh	loyalty/ your
+#11 - #12	في الأخير	H9009/{H0314}	HTd/Aamsa	#08	הָ אַחֲר֖וֹן	ha./'a.cha.Ron	<the>/ latter
+#13 - #14	أكثر من	{H4480A}\H9014	HR	#09	מִן	min-	more than
+#15	الأول،	H9009/{H7223G}	HTd/Aomsa	#10	הָ רִאשׁ֑וֹן	ha./ri.Shon	<the>/ former
+#16 - #17	إذ لم	H9005/{H1115}\H9014	HR/Ncbsa	#11	לְ בִלְתִּי	le./vil.ti-	to/ not
+#18	تسعي	{H1980N}	HVqcc	#12	לֶ֗כֶת	Le.khet	to go
+#19	وراء	{H0310A}	HAcmpc	#13	אַחֲרֵי֙	'a.cha.Rei	after
+#20	الشبان،	H9009/{H0970}	HTd/Ncmpa	#14	הַ בַּ֣חוּרִ֔ים	ha./Ba.chu.Rim	the/ young men
+#21 - #22	فقراء كانوا	{H0518A}\H9014; {H1800}	HTc; HAamsa	#15; 16	אִם; דַּ֖ל	'im-; dal	whether; poor
+#23	أو	H9002/{H0518A}\H9014	HC/Tc	#17	וְ אִם	ve./'im-	and/ or
+#24	أغنياء.	{H6223}\H9016	HAamsa	#18	עָשִֽׁיר	'a.Shir	rich
+
+Rut.3.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	والآن	H9002/{H6258}	HC/D	#01	וְ עַתָּ֗ה	ve./'a.Tah	and/ therefore
+#02	يابنتي	{H1323G}/H9020	HNcfsc/Sp1bs	#02	בִּתִּ י֙	bi.T/i	O daughter/ my
+#03	لا	{H0408}\H9014	HTn	#03	אַל	'al-	may not
+#04	تخافي.	{H3372G}	HVqj2fs	#04	תִּ֣ירְאִ֔י	tir.'I	you fear
+#05	كل	{H3605}	HNcmsa	#05	כֹּ֥ל	kol	all
+#06	ما	{H0834A}\H9014	HTr	#06	אֲשֶׁר	'a.Sher-	that
+#07	تقولين	{H0559}	HVqi2fs	#07	תֹּאמְרִ֖י	tom.Ri	you are saying
+#08	أفعل	{H6213A}\H9014	HVqi1cs	#08	אֶֽעֱשֶׂה	'e.'e.seh-	I will do
+#09	لك،	H9005/{H9032}	HRd/Sp2fs	#09	לָּ֑ ךְ	La/kh	for <the>/ you
+#10	لأن	{H3588A}	HTc	#10	כִּ֤י	ki	for
+#11	جميع	{H3605}\H9014	HNcmsc	#12	כָּל	kol-	all
+#12	أبواب	{H8179H}	HNcmsc	#13	שַׁ֣עַר	Sha.'ar	[the] gate of
+#13	شعبي	{H5971A}/H9020	HNcmsc/Sp1bs	#14	עַמִּ֔ י	'a.M/i	people/ my
+#14	تعلم	{H3045}	HVqrmsa	#11	יוֹדֵ֙עַ֙	yo.De.a'	[is] knowing
+#15	أنك	{H3588A}	HTc	#15	כִּ֛י	ki	that
+#16	امرأة	{H0802G}	HNcfsc	#16	אֵ֥שֶׁת	'E.shet	[are] a woman of
+#17	فاضلة.	{H2428I}	HNcmsa	#17	חַ֖יִל	Cha.yil	ability
+		{H0859C}\H9016	HPp2fs	#18	אָֽתְּ	'At	you
+
+Rut.3.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	والآن	H9002/{H6258}	HC/D	#01	וְ עַתָּה֙	ve./'a.Tah	and/ therefore
+#02	صحيح	{H3588A}; {H0551}	HTc; HD	#02; 03	כִּ֣י; אָמְנָ֔ם	ki; 'a.me.Nam	for; truly
+#03	أني	{H3588A}; {H0595}	HTc; HPp1bs	#04; 07	כִּ֥י; אָנֹ֑כִי	ki; 'a.No.khi	that; I
+#04	ولي،	{H1350A}	HVqrmsa	#06	גֹאֵ֖ל	go.'El	[am] a kinsman-redeemer
+#05	ولكن	H9002/{H1571}	HC/D	#08	וְ גַ֛ם	ve./Gam	and/ also
+#06	يوجد	{H3426}	HAcbsa	#09	יֵ֥שׁ	yesh	there
+#07	ولي	{H1350A}	HVqrmsa	#10	גֹּאֵ֖ל	go.'El	[is] a kinsman-redeemer
+#08	أقرب	{H7138}	HAamsa	#11	קָר֥וֹב	ka.Rov	near
+#09	مني.	{H4480A}/H9030\H9016	HRd/Sp1bs	#12	מִמֶּֽ נִּי	mi.Me./ni	more than/ I
+
+Rut.3.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بيتي	{H3885A}\H9015	HVqv2fs	#01	לִ֣ינִי	Li.ni	stay
+#02	الليلة،	H9009/{H3915}	HTd/Ncmsa	#02	הַ לַּ֗יְלָה	ha./Lay.lah	this/ night
+#03	ويكون	H9001/{H1961}	Hc/Vqq3ms	#03	וְ הָיָ֤ה	ve./ha.Yah	and/ it will be
+#04 - #05	في الصباح	H9003/{H1242}	HRd/Ncmsa	#04	בַ בֹּ֙קֶר֙	va./Bo.ker	in the/ morning
+#06 - #07	أنه إن	{H0518A}\H9014	HTc	#05	אִם	'im-	if
+#08 - #11	قضى لك حق الولي	{H1350A}/H9032	HVqi3ms/Sp2fs	#06	יִגְאָלֵ֥ ךְ	yig.'a.Le/kh	he will redeem/ you
+#12	فحسنا.	{H2896A}	HAamsa	#07	טוֹב֙	tOv	good
+#13	ليقض.	{H1350A}	HVqi3ms	#08	יִגְאָ֔ל	yig.'Al	let him redeem
+#14	وإن	H9002/{H0518A}\H9014	HC/Tc	#09	וְ אִם	ve./'im-	and/ if
+#15	لم	{H3808}	HTn	#10	לֹ֨א	lo'	not
+#16	يشأ	{H2654A}	HVqi3ms	#11	יַחְפֹּ֧ץ	yach.Potz	he will be willing
+#17 - #21	أن يقضي لك حق الولي،	H9005/{H1350A}/H9032	HR/Vqcc/Sp2fs	#12	לְ גָֽאֳלֵ֛ ךְ	le./go.'o.Le/kh	to/ redeem/ you
+#22	فأنا	{H0595}	HPp1bs	#14	אָנֹ֖כִי	'a.No.khi	I
+#23 - #24	أقضي لك.	H9001/{H1350A}/H9032	Hc/Vqq1cs/Sp2fs	#13	וּ גְאַלְתִּ֥י ךְ	u./ge.'al.Ti/kh	and/ I will redeem/ you
+#25	حي	{H2416A}\H9014	HAamsa	#15	חַי	chai-	[by] [the] life
+#26 - #27	هو الرب.	{H3068G}	HNpt	#16	יְהוָ֑ה	Yah.weh	of Yahweh
+#28	اضطجعي	{H7901G}	HVqv2fs	#17	שִׁכְבִ֖י	shikh.Vi	lie down
+#29	إلى	{H5704}\H9014	HR	#18	עַד	'ad-	until
+#30	الصباح.	H9009/{H1242}\H9016	HTd/Ncmsa	#19	הַ בֹּֽקֶר	ha./Bo.ker	the/ morning
+
+Rut.3.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فاضطجعت	H9001/{H7901G}	Hc/Vqw3fs	#01	וַ תִּשְׁכַּ֤ב	va./tish.Kav	and/ she lay down
+#02 - #03	عند رجليه	{H4772}/H9023	HNcfpc/Sp3ms	#02Q(K)	מַרְגְּלוֹתָי ו֙	mar.ge.la.ta/v	feet/ his
+#04	إلى	{H5704}\H9014	HR	#03	עַד	'ad-	until
+#05	الصباح.	H9009/{H1242}	HTd/Ncmsa	#04	הַ בֹּ֔קֶר	ha./Bo.ker	the/ morning
+#06 - #07	ثم قامت	H9001/{H6965B}	Hc/Vqw3fs	#05	וַ תָּ֕קָם	va./Ta.kom	and/ she arose
+#08	قبل	H9003/{H2962}	HR/Acbsa	#06Q(K)	בְּ טֶ֛רֶם	bi/t.rom	<in>/ before
+#09 - #10	أن يقدر						
+#11	الواحد	{H0376I}	HNcmsa	#08	אִ֖ישׁ	'ish	anyone
+		{H0853}\H9014	HTo	#09	אֶת	'et-	<obj.>
+#12 - #13	على معرفة	{H5234A}	HVhi3ms	#07	יַכִּ֥יר	ya.Kir	he recognized
+#14	صاحبه.	{H7453}/H9023	HNcmsc/Sp3ms	#10	רֵעֵ֑ הוּ	re.'E./hu	neighbor/ his
+#15	وقال:	H9001/{H0559}	Hc/Vqw3ms	#11	וַ יֹּ֙אמֶר֙	va/i.Yo.mer	and/ he said
+#16	لا	{H0408}\H9014	HTn	#12	אַל	'al-	may not
+#17	يعلم	{H3045}	HVNj3ms	#13	יִוָּדַ֔ע	yi.va.Da'	it be known
+#18	أن	{H3588A}\H9014	HTc	#14	כִּי	ki-	that
+#19	المرأة	H9009/{H0802G}	HTd/Ncfsa	#16	הָ אִשָּׁ֖ה	ha./'i.Shah	the/ woman
+#20	جاءت	{H0935G}	HVqp3fs	#15	בָ֥אָה	Va.'ah	she came
+#21 - #22	إلى البيدر.	H9009/{H1637}\H9016	HTd/Ncfsa	#17	הַ גֹּֽרֶן	ha./Go.ren	the/ threshing floor
+
+Rut.3.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	ثم قال:	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֗אמֶר	va/i.Yo.mer	and/ he said
+#03	هاتي	{H3051}	HVqv2fs	#02	הָ֠בִי	Ha.vi	give
+#04	الرداء	H9009/{H4304}	HTd/Ncfsa	#03	הַ מִּטְפַּ֧חַת	ha./mit.Pa.chat	the/ shawl
+#05	الذي	{H0834A}\H9014	HTr	#04	אֲשֶׁר	'a.Sher-	which
+#06	عليك	{H5921A}/H9032	HRd/Sp2fs	#05	עָלַ֛יִ ךְ	'a.La.yi/kh	[is] on/ you
+#07	وأمسكيه.	H9002/{H0270}\H9014; H9003/{H9034}	HC/Vqv2fs; HRd/Sp3fs	#06; 07	וְ אֶֽחֳזִי; בָ֖ הּ	ve./'e.cho.zi-; va/h	and/ take hold; on <the>/ it
+#08	فأمسكته،	H9001/{H0270}; H9003/{H9034}	Hc/Vqw3fs; HRd/Sp3fs	#08; 09	וַ תֹּ֣אחֶז; בָּ֑ הּ	va./To.chez; Ba/h	and/ she took hold; on <the>/ it
+#09	فاكتال	H9001/{H4058}	Hc/Vqw3ms	#10	וַ יָּ֤מָד	va/i.Ya.mod	and/ he measured out
+#10	ستة	{H8337}\H9014	HNcbsc	#11	שֵׁשׁ	shesh-	six
+#11 - #12	من الشعير	{H8184}	HNcmpa	#12	שְׂעֹרִים֙	se.'o.Rim	barley<s>
+#13	ووضعها	H9001/{H7896H}	Hc/Vqw3ms	#13	וַ יָּ֣שֶׁת	va/i.Ya.shet	and/ he put [it]
+#14	عليها،	{H5921A}/H9034	HRd/Sp3fs	#14	עָלֶ֔י הָ	'a.Lei./ha	on/ her
+#15 - #16	ثم دخل	H9001/{H0935G}	Hc/Vqw3ms	#15	וַ יָּבֹ֖א	va/i.ya.Vo'	and/ he came
+#17	المدينة.	H9009/{H5892B}\H9016	HTd/Ncfsa	#16	הָ עִֽיר	ha./'Ir	the/ city
+
+Rut.3.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فجاءت	H9001/{H0935G}	Hc/Vqw3fs	#01	וַ תָּבוֹא֙	va./ta.Vo'	and/ she came
+#02	إلى	{H0413}\H9014	HR	#02	אֶל	'el-	to
+#03	حماتها	{H2545}/H9024	HNcfsc/Sp3fs	#03	חֲמוֹתָ֔ הּ	cha.mo.Ta/h	mother-in-law/ her
+#04	فقالت:	H9001/{H0559}	Hc/Vqw3fs	#04	וַ תֹּ֖אמֶר	va./To.mer	and/ she said
+#05	من	{H4310}\H9014	HPi	#05	מִי	mi-	who?
+#06	أنت	{H0859C}	HPp2fs	#06	אַ֣תְּ	'at	[are] you
+#07	يابنتي.	{H1323G}/H9020	HNcfsc/Sp1bs	#07	בִּתִּ֑ י	bi.T/i	O daughter/ my
+#08	فأخبرتها	H9001/{H5046}\H9014; H9005/{H9034}	Hc/Vhw3fs; HRd/Sp3fs	#08; 09	וַ תַּ֨גֶּד; לָ֔ הּ	va./Ta.ged-; La/h	and/ she told; to <the>/ her
+		{H0853}	HTo	#10	אֵ֛ת	'et	<obj.>
+#09	بكل	{H3605}\H9014	HNcmsa	#11	כָּל	kol-	all
+#10	ما	{H0834A}	HTr	#12	אֲשֶׁ֥ר	'a.Sher	that
+#11	فعل	{H6213A}\H9014	HVqp3ms	#13	עָֽשָׂה	'a.sah-	he had done
+#12	لها	H9005/{H9034}	HRd/Sp3fs	#14	לָ֖ הּ	la/h	for <the>/ her
+#13	الرجل.	H9009/{H0376G}\H9016	HTd/Ncmsa	#15	הָ אִֽישׁ	ha./'Ish	the/ man
+
+Rut.3.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وقالت:	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֕אמֶר	va./To.mer	and/ she said
+#02	هذه	H9009/{H0428}	HTd/Tm	#04	הָ אֵ֖לֶּה	ha./'E.leh	<the>/ these
+#03	الستة	{H8337}\H9014	HNcbsc	#02	שֵׁשׁ	shesh-	[the] six
+#04 - #05	من الشعير	H9009/{H8184}	HTd/Ncmpa	#03	הַ שְּׂעֹרִ֥ים	ha./se.'o.Rim	the/ barley<s>
+#06	أعطاني،	{H5414G}; H9005/{H9030}	HVqp3ms; HRd/Sp1bs	#05; 06	נָ֣תַן; לִ֑ י	Na.tan; L/i	he gave; to <the>/ me
+#07	لأنه	{H3588A}	HTc	#07	כִּ֚י	ki	for
+#08	قال:	{H0559}/ /{H0413}/H9030	HVqp3ms//Rd/Sp1bs	#08Q(K)	אָמַ֣ר   אֵלַ֔ י	'a.Mar/ /'al./i	he said/ /to/ me
+#09	لا	{H0408}\H9014	HTn	#09	אַל	'al-	may not
+#10	تجيئي	{H0935G}	HVqj2fs	#10	תָּב֥וֹאִי	ta.Vo.'i	you go
+#11	فارغة	{H7387}	HD	#11	רֵיקָ֖ם	rei.Kam	empty
+#12	إلى	{H0413}\H9014	HR	#12	אֶל	'el-	to
+#13	حماتك.	{H2545}/H9022\H9016	HNcfsc/Sp2fs	#13	חֲמוֹתֵֽ ךְ	cha.mo.Te/kh	mother-in-law/ your
+
+Rut.3.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت:	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֙אמֶר֙	va./To.mer	and/ she said
+#02	اجلسي	{H3427}	HVqv2fs	#02	שְׁבִ֣י	she.Vi	sit down
+#03	يابنتي	{H1323G}/H9020	HNcfsc/Sp1bs	#03	בִתִּ֔ י	vi.T/i	O daughter/ my
+#04	حتى	{H5704}	HR	#04	עַ֚ד	'ad	until
+		{H0834A}	HTr	#05	אֲשֶׁ֣ר	'a.Sher	that
+#05	تعلمي	{H3045}/H9013	HVqi2fs/Sn	#06	תֵּֽדְעִ֔י ן	te.de.'I/n	you will know/ .
+#06	كيف	{H0349A}	HTi	#07	אֵ֖יךְ	'eikh	how?
+#07	يقع	{H5307G}	HVqi3ms	#08	יִפֹּ֣ל	yi.Pol	will it fall out
+#08	الأمر،	{H1697I}	HNcmsa	#09	דָּבָ֑ר	da.Var	a matter
+#09	لأن	{H3588A}	HTc	#10	כִּ֣י	ki	for
+#10	الرجل	H9009/{H0376G}	HTd/Ncmsa	#13	הָ אִ֔ישׁ	ha./'Ish	the/ man
+#11	لا	{H3808}	HTn	#11	לֹ֤א	lo'	not
+#12	يهدأ	{H8252}	HVqi3ms	#12	יִשְׁקֹט֙	yish.Kot	he will be at peace
+#13	حتى	{H3588A}\H9014; {H0518B}\H9014	HTc; HTc	#14; 15	כִּֽי; אִם	ki-; 'im-	that; except
+#14	يتمم	{H3615G}	HVpp3ms	#16	כִּלָּ֥ה	ki.Lah	he has finished
+#15	الأمر	H9009/{H1697I}	HTd/Ncmsa	#17	הַ דָּבָ֖ר	ha./da.Var	the/ matter
+#16	اليوم.	H9009/{H3117G}\H9016	HTd/Ncmsa	#18	הַ יּֽוֹם	hai./Yom	this/ day
+
+Rut.4.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فصعد	{H5927G}	HVqp3ms	#02	עָלָ֣ה	'a.Lah	he went up
+#02	بوعز	H9002/{H1162G}	HC/Npm	#01	וּ בֹ֨עַז	u./Vo.'az	and/ Boaz
+#03 - #04	إلى الباب	H9009/{H8179G}	HTd/Ncmsa	#03	הַ שַּׁעַר֮	ha./sha.'Ar	the/ gate
+#05	وجلس	H9001/{H3427}	Hc/Vqw3ms	#04	וַ יֵּ֣שֶׁב	va/i.Ye.shev	and/ he sat down
+#06	هناك.	{H8033G}	HD	#05	שָׁם֒	sham	there
+#07	وإذا	H9002/{H2009}	HC/Tj	#06	וְ הִנֵּ֨ה	ve./hi.Neh	and/ there.
+#08	بالولي	H9009/{H1350A}	HTd/Vqrmsa	#07	הַ גֹּאֵ֤ל	ha./go.'El	the/ kinsman-redeemer
+#09	الذي	{H0834A}	HTr	#09	אֲשֶׁ֣ר	'a.Sher	whom
+#10 - #11	تكلم عنه	{H1696G}\H9014	HVpp3ms	#10	דִּבֶּר	di.ber-	he had spoken
+#12	بوعز	{H1162G}	HNpm	#11	בֹּ֔עַז	Bo.'az	Boaz
+#13	عابر.	{H5674A}	HVqrmsa	#08	עֹבֵר֙	'o.Ver	[was] passing by
+#14	فقال:	H9001/{H0559}	Hc/Vqw3ms	#12	וַ יֹּ֛אמֶר	va/i.Yo.mer	and/ he said
+#15	مل	{H5493I}/H9012	HVqv2ms/Sh	#13	ס֥וּרָ ה	Su.ra/h	turn aside/ .
+#16	واجلس	{H3427}/H9012\H9014	HVqv2ms/Sh	#14	שְׁבָ ה	she.va/h-	sit/ .
+#17	هنا	{H6311}	HD	#15	פֹּ֖ה	poh	here
+#18 - #20	أنت يا فلان	{H6423}	HNcmsc	#16	פְּלֹנִ֣י	pe.lo.Ni	a certain one
+#21	الفلاني.	{H0492}	HNcmsa	#17	אַלְמֹנִ֑י	'al.mo.Ni	a certain one
+#22	فمال	H9001/{H5493I}	Hc/Vqw3ms	#18	וַ יָּ֖סַר	va/i.Ya.sar	and/ he turned aside
+#23	وجلس.	H9001/{H3427}\H9016	Hc/Vqw3ms	#19	וַ יֵּשֵֽׁב	va/i.ye.Shev	and/ he sat down
+
+Rut.4.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	ثم أخذ	H9001/{H3947G}	Hc/Vqw3ms	#01	וַ יִּקַּ֞ח	va/i.yi.Kach	and/ he took
+#03	عشرة	{H6235}	HNcfsa	#02	עֲשָׂרָ֧ה	'a.sa.Rah	ten
+#04	رجال	{H0582}	HNcmpa	#03	אֲנָשִׁ֛ים	'a.na.Shim	men
+#05 - #06	من شيوخ	H9006/{H2205G}	HR/Aampc	#04	מִ זִּקְנֵ֥י	mi./zik.Nei	from/ [the] elders of
+#07	المدينة	H9009/{H5892B}	HTd/Ncfsa	#05	הָ עִ֖יר	ha./'Ir	the/ city
+#08 - #09	وقال لهم:	H9001/{H0559}	Hc/Vqw3ms	#06	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
+#10	اجلسوا	{H3427}\H9014	HVqv2mp	#07	שְׁבוּ	she.vu-	sit
+#11	هنا.	{H6311}	HD	#08	פֹ֑ה	Foh	here
+#12	فجلسوا.	H9001/{H3427}\H9016	Hc/Vqw3mp	#09	וַ יֵּשֵֽׁבוּ	va/i.ye.She.vu	and/ they sat down
+
+Rut.4.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	ثم قال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֙אמֶר֙	va/i.Yo.mer	and/ he said
+#03	للولي:	H9005/{H1350A}	HRd/Vqrmsa	#02	לַ גֹּאֵ֔ל	la./go.'El	to the/ kinsman redeemer
+#04 - #05	إن نعمي	{H5281}	HNpf	#09	נָעֳמִ֔י	no.'o.Mi	Naomi
+#06 - #07	التي رجعت	H9009/{H7725G}	HTd/Vqp3fs	#10	הַ שָּׁ֖בָה	ha./Sha.vah	who/ <she> returned
+#08 - #09	من بلاد	H9009/{H7704G}	HTd/Ncmsa	#04	הַ שָּׂדֶ֔ה	ha./sa.Deh	the/ field
+#10	موآب	{H4124G}\H9016	HNpl	#12	מוֹאָֽב	mo.'Av	Moab
+#11	تبيع	{H4376}	HVqp3fs	#08	מָכְרָ֣ה	ma.khe.Rah	she has sold
+#12	قطعة	{H2513A}	HNcfsc	#03	חֶלְקַת֙	chel.Kat	[the] portion of
+#13	الحقل	H9006/{H7704G}	HR/Ncmsc	#11	מִ שְּׂדֵ֥ה	mi./se.Deh	from/ [the] region of
+#14	التي	{H0834A}	HTr	#05	אֲשֶׁ֥ר	'a.Sher	which
+#15	لأخينا	H9005/{H0251H}/H9025	HR/Ncmsc/Sp1bp	#06	לְ אָחִ֖י נוּ	le./'a.Chi./nu	[belonged] to/ brother/ our
+#16	أليمالك.	H9005/{H0458}	HR/Npm	#07	לֶ אֱלִימֶ֑לֶךְ	le./'e.li.Me.lekh	to/ Elimelech
+
+Rut.4.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقلت	{H0559}	HVqp1cs	#02	אָמַ֜רְתִּי	'a.Mar.ti	I said
+#02	إني	H9002/{H0589}	HC/Pp1bs	#01	וַ אֲנִ֨י	va./'a.Ni	and/ I
+#03	أخبرك	{H1540H}; {H0241I}/H9021	HVqi1cs; HNcfsc/Sp2ms	#03; 04	אֶגְלֶ֧ה; אָזְנְ ךָ֣	'eg.Leh; 'a.ze.ne./Kha	I will uncover; ear/ your
+#04	قائلا:	H9005/{H0559}	HR/Vqcc	#05	לֵ אמֹ֗ר	le./Mor	<to>/ saying
+#05	اشتر	{H7069}	HVqv2ms	#06	קְ֠נֵה	Ke.neh	acquire [it]
+#06	قدام	{H5048}	HAcmsc	#07	נֶ֥גֶד	Ne.ged	before
+#07	الجالسين	H9009/{H3427}	HTd/Vqrmpa	#08	הַֽ יֹּשְׁבִים֮	hai./yo.she.Vim	the/ [ones] sitting
+#08	وقدام	H9002/{H5048}	HC/Acmsc	#09	וְ נֶ֣גֶד	ve./Ne.ged	and/ before
+#09	شيوخ	{H2205G}	HAampc	#10	זִקְנֵ֣י	zik.Nei	[the] elders of
+#10	شعبي.	{H5971A}/H9020	HNcmsc/Sp1bs	#11	עַמִּ י֒	'a.M/i	people/ my
+#11 - #12	فإن كنت	{H0518A}\H9014	HTc	#12	אִם	'im-	if
+#13	تفك	{H1350A}	HVqi2ms	#13	תִּגְאַל֙	tig.'Al	you will redeem
+#14	ففك.	{H1350A}	HVqv2ms	#14	גְּאָ֔ל	ge.'Al	redeem
+#15 - #16	وإن كنت	H9002/{H0518A}\H9014	HC/Tc	#15	וְ אִם	ve./'im-	and/ if
+#17	لا	{H3808}	HTn	#16	לֹ֨א	lo'	not
+#18	تفك	{H1350A}	HVqi3ms	#17	יִגְאַ֜ל	yig.'Al	he will redeem
+#19	فأخبرني	{H5046}/H9012; H9005/{H9030}	HVhv2ms/Sh; HRd/Sp1bs	#18; 19	הַגִּ֣ידָ ה; לִּ֗ י	ha.Gi.da/h; L/i	tell/ .; to <the>/ me
+#20	لأعلم.	H9002/{H3045}	HC/Vqc1cs	#20Q(K)	וְ אֵֽדְעָה֙	ve./'e.da'	so/ let me know
+#21	لأنه	{H3588A}	HTc	#21	כִּ֣י	ki	that
+#22	ليس	{H0369}	HNcmsc	#22	אֵ֤ין	'ein	there not
+#23	غيرك	{H2108}/H9031	HNcfsc/Sp2ms	#23	זוּלָֽתְ ךָ֙	zu.la.te./Kha	except/ you
+#24	يفك	H9005/{H1350A}	HR/Vqcc	#24	לִ גְא֔וֹל	li/g.'ol	[is] to/ redeem
+#25	وأنا	H9002/{H0595}	HC/Pp1bs	#25	וְ אָנֹכִ֖י	ve./'a.no.Khi	and/ I
+#26	بعدك.	{H0310A}/H9031	HAcmpc/Sp2ms	#26	אַחֲרֶ֑י ךָ	'a.cha.Rei./kha	[am] after/ you
+#27	فقال:	H9001/{H0559}	Hc/Vqw3ms	#27	וַ יֹּ֖אמֶר	va/i.Yo.mer	and/ he said
+#28	إني	{H0595}	HPp1bs	#28	אָנֹכִ֥י	'a.no.Khi	I
+#29	أفك.	{H1350A}\H9016	HVqi1cs	#29	אֶגְאָֽל	'eg.'Al	I will redeem
+
+Rut.4.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
+#02	بوعز:	{H1162G}	HNpm	#02	בֹּ֔עַז	Bo.'az	Boaz
+#03	يوم	H9003/{H3117G}\H9014	HR/Ncmsc	#03	בְּ יוֹם	be./yom-	on/ [the] day
+#04	تشتري	{H7069}/H9041	HVqcc/Sp2ms	#04	קְנוֹתְ ךָ֥	ke.not./Cha	acquiring/ you
+#05	الحقل	H9009/{H7704G}	HTd/Ncmsa	#05	הַ שָּׂדֶ֖ה	ha./sa.Deh	the/ field
+#06 - #07	من يد	H9006/{H3027G}	HR/Ncbsc	#06	מִ יַּ֣ד	mi./Yad	from/ [the] hand of
+#08	نعمي	{H5281}	HNpf	#07	נָעֳמִ֑י	no.'o.Mi	Naomi
+#09	تشتري	{H7069}	HVqp2ms	#13Q(K)	קָנִ֔יתָה	ka.ni.ti	you have acquired
+#10 - #11	أيضا من	H9002/H9006/{H0854}	HC/R/R	#08	וּ֠ מֵ אֵת	U./me./'et	and/ from/ with
+#12	يد						
+#13	راعوث	{H7327}	HNpf	#09	ר֣וּת	rut	Ruth
+#14	الموآبية	H9009/{H4125}	HTd/Ngfsa	#10	הַ מּוֹאֲבִיָּ֤ה	ha./mo.'a.vi.Yah	the/ Moabite [woman]
+#15	امرأة	{H0802H}\H9014	HNcfsc	#11	אֵֽשֶׁת	'e.shet-	[the] wife of
+#16	الميت	H9009/{H4191}	HTd/Vqrmsa	#12	הַ מֵּת֙	ha./Met	the/ dead [man]
+#17	لتقيم	H9005/{H6965I}	HR/Vhcc	#14	לְ הָקִ֥ים	le./ha.Kim	to/ raise up
+#18	اسم	{H8034}\H9014	HNcmsc	#15	שֵׁם	shem-	[the] name of
+#19	الميت	H9009/{H4191}	HTd/Vqrmsa	#16	הַ מֵּ֖ת	ha./Met	the/ dead [man]
+#20	على	{H5921A}\H9014	HR	#17	עַל	'al-	over
+#21	ميراثه.	{H5159}/H9023\H9016	HNcfsc/Sp3ms	#18	נַחֲלָתֽ וֹ	na.cha.la.T/o	inheritance/ his
+
+Rut.4.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
+#02	الولي:	H9009/{H1350A}	HTd/Vqrmsa	#02	הַ גֹּאֵ֗ל	ha./go.'El	the/ kinsman-redeemer
+#03	لا	{H3808}	HTn	#03	לֹ֤א	lo'	not
+#04	أقدر	{H3201}	HVqi1cs	#04	אוּכַל֙	'u.Khal	I am able
+#05 - #06	أن أفك	H9005/{H1350A}	HR/Vqcc	#05Q(k)	לִ גְאָל	li/g.'ol-	to/ redeem [it]
+#07	لنفسي	H9005/{H9030}	HRd/Sp1bs	#06	לִ֔ י	l/i	for <the>/ myself
+#08	لئلا	{H6435}\H9014	HTc	#07	פֶּן	pen-	lest
+#09	أفسد	{H7843}	HVhi1cs	#08	אַשְׁחִ֖ית	'ash.Chit	I should ruin
+		{H0853}\H9014	HTo	#09	אֶת	'et-	<obj.>
+#10	ميراثي.	{H5159}/H9020	HNcfsc/Sp1bs	#10	נַחֲלָתִ֑ י	na.cha.la.T/i	own inheritance/ my
+#11	ففك	{H1350A}\H9014	HVqv2ms	#11	גְּאַל	ge.'al-	redeem
+#12	أنت	{H0859A}	HPp2ms	#13	אַתָּה֙	'a.Tah	you
+		{H0853}\H9014	HTo	#14	אֶת	'et-	<obj.>
+#13	لنفسك	H9005/{H9031}	HRd/Sp2ms	#12	לְ ךָ֤	le./Kha	for <the>/ yourself
+#14	فكاكي	{H1353}/H9020	HNcfsc/Sp1bs	#15	גְּאֻלָּתִ֔ י	ge.'u.la.T/i	right of redemption/ my
+#15	لأني	{H3588A}	HTc	#16	כִּ֥י	ki	for
+#16	لا	{H3808}\H9014	HTn	#17	לֹא	lo'-	not
+#17	أقدر	{H3201}	HVqi1cs	#18	אוּכַ֖ל	'u.Khal	I am able
+#18 - #19	أن أفك.	H9005/{H1350A}\H9016	HR/Vqcc	#19	לִ גְאֹֽל	li/g.'Ol	to/ redeem [it]
+
+Rut.4.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	وهذه هي	H9002/{H2063}	HC/Tm	#01	וְ זֹאת֩	ve./zoT	and/ this
+#03 - #04	العادة سابقا	H9005/{H6440G}	HR/Ncmpa	#02	לְ פָנִ֨ים	le./fa.Nim	<to>/ before
+#05 - #06	في إسرائيل	H9003/{H3478}	HR/Npl	#03	בְּ יִשְׂרָאֵ֜ל	be./Yis.ra.'El	[was] in/ Israel
+#07	في	{H5921A}\H9014	HR	#04	עַל	'al-	on
+#08 - #09	أمر الفكاك	H9009/{H1353}	HTd/Ncfsa	#05	הַ גְּאוּלָּ֤ה	ha./ge.'u.Lah	the/ redemption
+#10	والمبادلة،	H9009/{H8545}	HTd/Ncfsa	#07	הַ תְּמוּרָה֙	ha./te.mu.Rah	the/ exchange
+#11	لأجل	H9002/{H5921A}\H9014	HC/R	#06	וְ עַל	ve./'al-	and/ on
+#12	إثبات	H9005/{H6965I}	HR/Vpcc	#08	לְ קַיֵּ֣ם	le./kai.Yem	to/ confirm
+#13	كل	{H3605}\H9014	HNcmsc	#09	כָּל	kol-	every
+#14	أمر.	{H1697L}	HNcmsa	#10	דָּבָ֔ר	da.Var	matter
+#15	يخلع	{H8025}	HVqp3ms	#11	שָׁלַ֥ף	sha.Laf	he took off
+#16	الرجل	{H0376I}	HNcmsa	#12	אִ֛ישׁ	'ish	anyone
+#17	نعله	{H5275}/H9023	HNcfsc/Sp3ms	#13	נַעֲל֖ וֹ	na.'a.L/o	sandal/ his
+#18	ويعطيه	H9001/{H5414G}	Hc/Vqq3ms	#14	וְ נָתַ֣ן	ve./na.Tan	and/ he gave [it]
+#19	لصاحبه.	H9005/{H7453}/H9023	HR/Ncmsc/Sp3ms	#15	לְ רֵעֵ֑ הוּ	le./re.'E./hu	to/ neighbor/ his
+#20 - #21	فهذه هي	H9002/{H2063}	HC/Tm	#16	וְ זֹ֥את	ve./Zot	and/ this
+#22	العادة	H9009/{H8584}	HTd/Ncfsa	#17	הַ תְּעוּדָ֖ה	ha./te.'u.Dah	[was] the/ attestation
+#23 - #24	في إسرائيل.	H9003/{H3478}\H9016	HR/Npl	#18	בְּ יִשְׂרָאֵֽל	be./Yis.ra.'El	in/ Israel
+
+Rut.4.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֧אמֶר	va/i.Yo.mer	and/ he said
+#02	الولي	H9009/{H1350A}	HTd/Vqrmsa	#02	הַ גֹּאֵ֛ל	ha./go.'El	the/ kinsman-redeemer
+#03	لبوعز:	H9005/{H1162G}	HR/Npm	#03	לְ בֹ֖עַז	le./Vo.'az	to/ Boaz
+#04 - #05	اشتر لنفسك.	{H7069}\H9014	HVqv2ms	#04	קְנֵה	ke.neh-	acquire [it]
+		H9005/{H9032}	HRd/Sp2ms	#05	לָ֑ ךְ	La/kh	for <the>/ yourself
+#06	وخلع	H9001/{H8025}	Hc/Vqw3ms	#06	וַ יִּשְׁלֹ֖ף	va/i.yish.Lof	and/ he took off
+#07	نعله.	{H5275}/H9023\H9016	HNcfsc/Sp3ms	#07	נַעֲלֽ וֹ	na.'a.L/o	sandal/ his
+
+Rut.4.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּאמֶר֩	va/i.yo.Mer	and/ he said
+#02	بوعز	{H1162G}	HNpm	#02	בֹּ֨עַז	Bo.'az	Boaz
+#03	للشيوخ	H9005/{H2205G}	HRd/Aampa	#03	לַ זְּקֵנִ֜ים	la./ze.ke.Nim	to the/ elders
+#04	ولجميع	H9002/{H3605}\H9014	HC/Ncmsc	#04	וְ כָל	ve./khol	and/ all
+#05	الشعب:	H9009/{H5971A}	HTd/Ncmsa	#05	הָ עָ֗ם	ha./'Am	the/ people
+#06	أنتم	{H0859D}	HPp2mp	#07	אַתֶּם֙	'a.Tem	you
+#07	شهود	{H5707}	HNcmpa	#06	עֵדִ֤ים	'e.Dim	[are] witnesses
+#08	اليوم	H9009/{H3117L}	HTd/Ncmsa	#08	הַ יּ֔וֹם	hai./Yom	this/ day
+#09 - #10	أني قد	{H3588A}	HTc	#09	כִּ֤י	ki	that
+#11	اشتريت	{H7069}	HVqp1cs	#10	קָנִ֙יתִי֙	ka.Ni.ti	I acquire
+		{H0853}\H9014	HTo	#11	אֶת	'et-	<obj.>
+#12	كل	{H3605}\H9014	HNcmsa	#12	כָּל	kol-	all
+#13	ما	{H0834A}	HTr	#13	אֲשֶׁ֣ר	'a.Sher	that
+#14	لأليمالك	H9005/{H0458}	HR/Npm	#14	לֶֽ אֱלִימֶ֔לֶךְ	le./'e.li.Me.lekh	[belonged] to/ Elimelech
+		H9002/{H0853}	HC/To	#15	וְ אֵ֛ת	ve./'Et	and/ <obj.>
+#15	وكل	{H3605}\H9014	HNcmsa	#16	כָּל	kol-	all
+#16	ما	{H0834A}	HTr	#17	אֲשֶׁ֥ר	'a.Sher	that
+#17	لكليون	H9005/{H3630}	HR/Npm	#18	לְ כִלְי֖וֹן	le./khil.Yon	[belonged] to/ Kilion
+#18	ومحلون	H9002/{H4248}	HC/Npm	#19	וּ מַחְל֑וֹן	u./mach.Lon	and/ Mahlon
+#19 - #20	من يد	H9006/{H3027G}	HR/Ncbsc	#20	מִ יַּ֖ד	mi./Yad	from/ [the] hand of
+#21	نعمي.	{H5281}\H9016	HNpf	#21	נָעֳמִֽי	no.'o.Mi	Naomi
+
+Rut.4.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وكذا	H9002/{H1571}	HC/D	#01	וְ גַ֣ם	ve./Gam	and/ also
+		{H0853}\H9014	HTo	#02	אֶת	'et-	<obj.>
+#02	راعوث	{H7327}	HNpf	#03	ר֣וּת	rut	Ruth
+#03	الموآبية	H9009/{H4125}	HTd/Ngfsa	#04	הַ מֹּאֲבִיָּה֩	ha./mo.'a.vi.Yah	the/ Moabite [woman]
+#04	امرأة	{H0802H}	HNcfsc	#05	אֵ֨שֶׁת	'E.shet	[the] wife of
+#05	محلون	{H4248}	HNpm	#06	מַחְל֜וֹן	mach.Lon	Mahlon
+#06 - #07	قد اشتريتها	{H7069}	HVqp1cs	#07	קָנִ֧יתִי	ka.Ni.ti	I acquire
+#08	لي	H9005/{H9030}	HRd/Sp1bs	#08	לִ֣ י	l/i	for <the>/ myself
+#09	امرأة،	H9005/{H0802H}	HR/Ncfsa	#09	לְ אִשָּׁ֗ה	le./'i.Shah	to/ a wife
+#10	لأقيم	H9005/{H6965I}	HR/Vhcc	#10	לְ הָקִ֤ים	le./ha.Kim	to/ raise up
+#11	اسم	{H8034}\H9014	HNcmsc	#11	שֵׁם	shem-	[the] name of
+#12	الميت	H9009/{H4191}	HTd/Vqrmsa	#12	הַ מֵּת֙	ha./Met	the/ dead [man]
+#13	على	{H5921A}\H9014	HR	#13	עַל	'al-	over
+#14	ميراثه	{H5159}/H9023	HNcfsc/Sp3ms	#14	נַ֣חֲלָת֔ וֹ	na.cha.la.T/o	inheritance/ his
+#15	ولا	H9002/{H3808}\H9014	HC/Tn	#15	וְ לֹא	ve./lo'-	and/ not
+#16	ينقرض	{H3772I}	HVNi3ms	#16	יִכָּרֵ֧ת	yi.ka.Ret	it will be cut off
+#17	اسم	{H8034}\H9014	HNcmsc	#17	שֵׁם	shem-	[the] name of
+#18	الميت	H9009/{H4191}	HTd/Vqrmsa	#18	הַ מֵּ֛ת	ha./Met	the/ dead [man]
+#19 - #20	من بين	H9006/{H5973B}	HR/R	#19	מֵ עִ֥ם	me./'Im	from/ with
+#21	إخوته	{H0251H}/H9023	HNcmpc/Sp3ms	#20	אֶחָ֖י ו	'e.Cha/v	brothers/ his
+#22 - #23	ومن باب	H9002/H9006/{H8179G}	HC/R/Ncmsc	#21	וּ מִ שַּׁ֣עַר	u./mi./Sha.'ar	and/ from/ [the] gate of
+#24	مكانه.	{H4725}/H9023	HNcmsc/Sp3ms	#22	מְקוֹמ֑ וֹ	me.ko.M/o	place/ his
+#25	أنتم	{H0859D}	HPp2mp	#24	אַתֶּ֖ם	'a.Tem	you
+#26	شهود	{H5707}	HNcmpa	#23	עֵדִ֥ים	'e.Dim	[are] witnesses
+#27	اليوم.	H9009/{H3117L}\H9016	HTd/Ncmsa	#25	הַ יּֽוֹם	hai./Yom	this/ day
+
+Rut.4.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقال	H9001/{H0559}	Hc/Vqw3mp	#01	וַ יֹּ֨אמְר֜וּ	va/i.Yo.me.Ru	and/ they said
+#02	جميع	{H3605}\H9014	HNcmsc	#02	כָּל	kol-	all
+#03	الشعب	H9009/{H5971A}	HTd/Ncmsa	#03	הָ עָ֧ם	ha./'Am	the/ people
+#04	الذين	{H0834A}\H9014	HTr	#04	אֲשֶׁר	'a.Sher-	which
+#05 - #06	في الباب	H9003/{H8179G}	HRd/Ncmsa	#05	בַּ שַּׁ֛עַר	ba./Sha.'ar	[was] at the/ gate
+#07	والشيوخ:	H9002/H9009/{H2205G}	HC/Td/Aampa	#06	וְ הַ זְּקֵנִ֖ים	ve./ha./ze.ke.Nim	and/ the/ elders
+#08 - #09	نحن شهود.	{H5707}	HNcmpa	#07	עֵדִ֑ים	'e.Dim	[we are] witnesses
+#10	فليجعل	{H5414I}	HVqi3ms	#08	יִתֵּן֩	yi.Ten	may he make
+#11	الرب	{H3068G}	HNpt	#09	יְהוָ֨ה	Yah.weh	Yahweh
+		{H0853}\H9014	HTo	#10	אֶֽת	'et-	<obj.>
+#12	المرأة	H9009/{H0802G}	HTd/Ncfsa	#11	הָ אִשָּׁ֜ה	ha./'i.Shah	the/ woman
+#13	الداخلة	H9009/{H0935G}	HTd/Vqrfsa	#12	הַ בָּאָ֣ה	ha./ba.'Ah	who/ is about to come
+#14	إلى	{H0413}\H9014	HR	#13	אֶל	'el-	into
+#15	بيتك	{H1004M}/H9021	HNcmsc/Sp2ms	#14	בֵּיתֶ֗ ךָ	bei.Te./kha	house/ your
+#16	كراحيل	H9004/{H7354}\H9015	HR/Npf	#15	כְּ רָחֵ֤ל	ke./ra.Chel	like/ Rachel
+#17	وكليئة	H9002/H9004/{H3812}	HC/R/Npf	#16	וּ כְ לֵאָה֙	u./khe./le.'Ah	and/ like/ Leah
+		{H0834A}	HTr	#17	אֲשֶׁ֨ר	'a.Sher	who
+#18	اللتين	{H8147}/H9028	HNcfdc/Sp3mp	#19	שְׁתֵּי הֶם֙	she.tei./Hem	[the] two of/ them
+		{H0853}\H9014	HTo	#20	אֶת	'et-	<obj.>
+#19	بنتا	{H1129}	HVqp3cp	#18	בָּנ֤וּ	ba.Nu	they built
+#20	بيت	{H1004M}	HNcmsc	#21	בֵּ֣ית	beit	[the] house of
+#21	إسرائيل.	{H3478}	HNpl	#22	יִשְׂרָאֵ֔ל	Yis.ra.'El	Israel
+#22	فاصنع	H9002/{H6213A}\H9014	HC/Vqv2ms	#23	וַ עֲשֵׂה	va./'a.seh-	and/ make
+#23	ببأس	{H2428I}	HNcmsa	#24	חַ֣יִל	Cha.yil	wealth
+#24 - #25	في أفراتة	H9003/{H0672H}	HR/Npf	#25	בְּ אֶפְרָ֔תָה	be./'ef.Ra.tah	in/ Ephrathah
+#26 - #28	وكن ذا اسم	H9002/{H7121H}\H9014; {H8034}	HC/Vqv2ms; HNcmsa	#26; 27	וּ קְרָא; שֵׁ֖ם	u./ke.ra'-; shem	and/ proclaim; a name
+#29 - #30	في بيت	H9003/{H1035G}+	HR/Npl	#28	בְּ בֵ֥ית	be./Veit	in/ Beth-
+#31	لحم.	{H1035G}\H9016	HNpl	#29	לָֽחֶם	La.chem	-lehem
+
+Rut.4.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وليكن	H9002/{H1961}	HC/Vqj3ms	#01	וִ יהִ֤י	vi./Hi	so/ may it be
+#02	بيتك	{H1004M}/H9021	HNcmsc/Sp2ms	#02	בֵֽיתְ ךָ֙	vei.te./Kha	household/ your
+#03	كبيت	H9004/{H1004M}	HR/Ncmsc	#03	כְּ בֵ֣ית	ke./Veit	like/ [the] household of
+#04	فارص	{H6557}	HNpm	#04	פֶּ֔רֶץ	Pe.retz	Perez
+#05	الذي	{H0834A}\H9014	HTr	#05	אֲשֶׁר	'a.Sher-	whom
+#06	ولدته	{H3205}	HVqp3fs	#06	יָלְדָ֥ה	Yal.dah	she bore
+#07	ثامار	{H8559G}	HNpf	#07	תָמָ֖ר	ta.Mar	Tamar
+#08	ليهوذا،	H9005/{H3063G}	HR/Npl	#08	לִֽ יהוּדָ֑ה	li./hu.Dah	to/ Judah
+#09	من	{H4480A}\H9014	HR	#09	מִן	min-	from
+#10	النسل	H9009/{H2233H}	HTd/Ncmsa	#10	הַ זֶּ֗רַע	ha./Ze.ra'	the/ offspring
+#11	الذي	{H0834A}	HTr	#11	אֲשֶׁ֨ר	'a.Sher	which
+#12	يعطيك	{H5414G}; H9005/{H9031}	HVqi3ms; HRd/Sp2ms	#12; 14	יִתֵּ֤ן; לְ ךָ֔	yi.Ten; le./Kha	he will give; to <the>/ you
+#13	الرب	{H3068G}	HNpt	#13	יְהוָה֙	Yah.weh	Yahweh
+#14	من	{H4480A}\H9014	HR	#15	מִן	min-	from
+#15	هذه	H9009/{H2063}\H9016	HTd/Tm	#17	הַ זֹּֽאת	ha./Zot	<the>/ this
+#16	الفتاة.	H9009/{H5291}	HTd/Ncfsa	#16	הַֽ נַּעֲרָ֖ה	ha./na.'a.Rah	the/ young woman
+
+Rut.4.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فأخذ	H9001/{H3947G}	Hc/Vqw3ms	#01	וַ יִּקַּ֨ח	va/i.yi.Kach	and/ he took
+#02	بوعز	{H1162G}	HNpm	#02	בֹּ֤עַז	Bo.'az	Boaz
+		{H0853}\H9014	HTo	#03	אֶת	'et-	<obj.>
+#03	راعوث	{H7327}	HNpf	#04	רוּת֙	rut	Ruth
+		H9001/{H1961}\H9014	Hc/Vqw3fs	#05	וַ תְּהִי	va./te.hi-	and/ she became
+		H9005/{H9033}	HRd/Sp3ms	#06	ל֣ וֹ	l/o	of/ him
+#04	امرأة	H9005/{H0802H}	HR/Ncfsa	#07	לְ אִשָּׁ֔ה	le./'i.Shah	<into>/ a wife
+#05	ودخل	H9001/{H0935G}	Hc/Vqw3ms	#08	וַ יָּבֹ֖א	va/i.ya.Vo'	and/ he went
+#06	عليها،	{H0413}/H9034	HRd/Sp3fs	#09	אֵלֶ֑י הָ	'e.Lei./ha	into/ her
+#07	فأعطاها	H9001/{H5414G}; H9005/{H9034}	Hc/Vqw3ms; HRd/Sp3fs	#10; 12	וַ יִּתֵּ֨ן; לָ֛ הּ	va/i.yi.Ten; la/h	and/ he gave; to <the>/ her
+#08	الرب	{H3068G}	HNpt	#11	יְהוָ֥ה	Yah.weh	Yahweh
+#09	حبلا	{H2032}	HNcmsa	#13	הֵרָי֖וֹן	he.ra.Yon	conception
+#10	فولدت	H9001/{H3205}	Hc/Vqw3fs	#14	וַ תֵּ֥לֶד	va./Te.led	and/ she bore
+#11	ابنا.	{H1121A}\H9016	HNcmsa	#15	בֵּֽן	Ben	a son
+
+Rut.4.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فقالت	H9001/{H0559}	Hc/Vqw3fp	#01	וַ תֹּאמַ֤רְנָה	va./to.Mar.nah	and/ they said
+#02	النساء	H9009/{H0802G}	HTd/Ncmpa	#02	הַ נָּשִׁים֙	ha./na.Shim	the/ women
+		{H0413}\H9014	HR	#03	אֶֽל	'el-	to
+#03	لنعمي:	{H5281}	HNpf	#04	נָעֳמִ֔י	no.'o.Mi	Naomi
+#04	مبارك	{H1288}	HVqsmsa	#05	בָּר֣וּךְ	ba.Rukh	[be] blessed
+#05	الرب	{H3068G}	HNpt	#06	יְהוָ֔ה	Yah.weh	Yahweh
+#06	الذي	{H0834A}	HTr	#07	אֲ֠שֶׁר	'a.Sher	who
+#07	لم	{H3808}	HTn	#08	לֹ֣א	lo'	not
+#08	يعدمك	{H7673A}; H9005/{H9032}	HVhp3ms; HRd/Sp2fs	#09; 10	הִשְׁבִּ֥ית; לָ֛ ךְ	hish.Bit; la/kh	he has caused to cease; to <the>/ you
+#09	وليا	{H1350A}	HVqrmsa	#11	גֹּאֵ֖ל	go.'El	a kinsman-redeemer
+#10	اليوم	H9009/{H3117L}	HTd/Ncmsa	#12	הַ יּ֑וֹם	hai./Yom	this/ day
+#11 - #12	لكي يدعى	H9002/{H7121H}	HC/VNu3ms	#13	וְ יִקָּרֵ֥א	ve./yi.ka.Re'	and/ may it be proclaimed
+#13	اسمه	{H8034}/H9023	HNcmsc/Sp3ms	#14	שְׁמ֖ וֹ	she.M/o	name/ his
+#14 - #15	في إسرائيل.	H9003/{H3478}\H9016	HR/Npl	#15	בְּ יִשְׂרָאֵֽל	be./Yis.ra.'El	in/ Israel
+
+Rut.4.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ويكون	H9001/{H1961}	Hc/Vqq3ms	#01	וְ הָ֤יָה	ve./Ha.yah	and/ he will become
+#02	لك	H9005/{H9032}	HRd/Sp2fs	#02	לָ ךְ֙	lo/Kh	for <the>/ you
+#03	لإرجاع	H9005/{H7725H}	HR/Vhrmsc	#03	לְ מֵשִׁ֣יב	le./me.Shiv	<into>/ [one who] restores
+#04	نفس	{H5315H}	HNcfsa	#04	נֶ֔פֶשׁ	Ne.fesh	life
+#05	وإعالة	H9002/H9005/{H3557}	HC/R/Vpcc	#05	וּ לְ כַלְכֵּ֖ל	u./le./khal.Kel	and/ to/ sustain
+		{H0853}\H9014	HTo	#06	אֶת	'et-	<obj.>
+#06	شيبتك.	{H7872}/H9022	HNcfsc/Sp2fs	#07	שֵׂיבָתֵ֑ ךְ	sei.va.Te/kh	old age/ your
+#07	لأن	{H3588A}	HTc	#08	כִּ֣י	ki	for
+#08	كنتك	{H3618H}/H9022	HNcfsc/Sp2fs	#09	כַלָּתֵ֤ ךְ	kha.la.Te/kh	daughter-in-law/ your
+#09	التي	{H0834A}\H9014	HTr	#10	אֲֽשֶׁר	'asher-	who
+#10	أحبتك	{H0157G}/H9032	HVqp3fs/Sp2fs	#11	אֲהֵבַ֙תֶ ךְ֙	'a.he.Va.te/kh	she loves/ you
+#11	قد	{H0834A}\H9014	HTr	#13	אֲשֶׁר	'a.Sher-	who
+#12	ولدته،	{H3205}/H9033	HVqp3fs/Sp3ms	#12	יְלָדַ֔תּ וּ	ye.la.Da.t/u	she has given birth to/ him
+#13	وهي	{H1931}	HPp3fs	#14	הִיא֙	hi'	she
+#14	خير	{H2896A}	HAafsa	#15	ט֣וֹבָה	Toah	[is] good
+#15	لك	H9005/{H9032}	HRd/Sp2fs	#16	לָ֔ ךְ	La/kh	to <the>/ you
+#16 - #17	من سبعة	H9006/{H7651}	HR/Ncbsa	#17	מִ שִּׁבְעָ֖ה	mi./shiv.'Ah	more than/ seven
+#18	بنين.	{H1121A}\H9016	HNcmpa	#18	בָּנִֽים	ba.Nim	sons
+
+Rut.4.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فأخذت	H9001/{H3947G}	Hc/Vqw3fs	#01	וַ תִּקַּ֨ח	va./ti.Kach	and/ she took
+#02	نعمي	{H5281}	HNpf	#02	נָעֳמִ֤י	no.'o.Mi	Naomi
+		{H0853}\H9014	HTo	#03	אֶת	'et-	<obj.>
+#03	الولد	H9009/{H3206}	HTd/Ncmsa	#04	הַ יֶּ֙לֶד֙	hai./Ye.led	the/ child
+#04	ووضعته	H9001/{H7896H}/H9033	Hc/Vqw3fs/Sp3ms	#05	וַ תְּשִׁתֵ֣ הוּ	va./te.shi.Te./hu	and/ she placed/ him
+#05 - #06	في حضنها	H9003/{H2436G}/H9024	HR/Ncmsc/Sp3fs	#06	בְ חֵיקָ֔ הּ	ve./chei.Ka/h	on/ bosom/ her
+#07	وصارت	H9001/{H1961}\H9014	Hc/Vqw3fs	#07	וַ תְּהִי	va./te.hi-	and/ she became
+#08	له	H9005/{H9033}	HRd/Sp3ms	#08	ל֖ וֹ	l/o	of/ him
+#09	مربية.	H9005/{H0539}\H9016	HR/Vqrfsa	#09	לְ אֹמֶֽנֶת	le./'o.Me.net	<into>/ a nurse
+
+Rut.4.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وسمته	H9001/{H7121H}; H9005/{H9033}	Hc/Vqw3fp; HRd/Sp3ms	#01; 02	וַ תִּקְרֶאנָה֩; ל֨ וֹ	va./tik.re.Nah; l/o	and/ they called; <to> <the>/ him
+#02	الجارات	H9009/{H7934}	HTd/Ncfpa	#03	הַ שְּׁכֵנ֥וֹת	ha./she.khe.Not	the/ [female] neighbors
+#03	اسما	{H8034}	HNcmsa	#04	שֵׁם֙	shem	a name
+#04	قائلات:	H9005/{H0559}	HR/Vqcc	#05	לֵ אמֹ֔ר	le./Mor	<to>/ saying
+#05 - #06	قد ولد	{H3205}\H9014	HVPp3ms	#06	יֻלַּד	yu.lad-	he has been born
+#07	ابن	{H1121A}	HNcmsa	#07	בֵּ֖ן	ben	a son
+#08	لنعمي	H9005/{H5281}	HR/Npf	#08	לְ נָעֳמִ֑י	le./no.'o.Mi	to/ Naomi
+#09	ودعون	H9001/{H7121H}	Hc/Vqw3fp	#09	וַ תִּקְרֶ֤אנָֽה	va./tik.Re.nah	and/ they called
+#10	اسمه	{H8034}/H9023	HNcmsc/Sp3ms	#10	שְׁמ וֹ֙	she.M/o	name/ his
+#11	عوبيد.	{H5744G}	HNpm	#11	עוֹבֵ֔ד	o.Ved	Obed
+#12	هو	{H1931}	HPp3ms	#12	ה֥וּא	hu'	he
+#13	أبو	{H0001G}\H9014	HNcmsc	#13	אֲבִי	'a.vi-	[was] [the] father of
+#14	يسى	{H3448}	HNpm	#14	יִשַׁ֖י	yi.Shai	Jesse
+#15	أبي	{H0001G}	HNcmsc	#15	אֲבִ֥י	'a.Vi	[the] father of
+#16	داود.	{H1732}\H9016\ \H9017	HNpm	#16	דָוִֽד	da.Vid	David
+
+Rut.4.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وهذه	H9002/{H0428}	HC/Tm	#01	וְ אֵ֙לֶּה֙	ve./'E.leh	and/ these
+#02	مواليد	{H8435}	HNcfpc	#02	תּוֹלְד֣וֹת	tol.Dot	[are] [the] descendants of
+#03	فارص:	{H6557}	HNpm	#03	פָּ֔רֶץ	Pa.retz	Perez
+#04	فارص	{H6557}	HNpm	#04	פֶּ֖רֶץ	Pe.retz	Perez
+#05	ولد	{H3205}	HVhp3ms	#05	הוֹלִ֥יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#06	אֶת	'et-	<obj.>
+#06	حصرون،	{H2696H}\H9016	HNpm	#07	חֶצְרֽוֹן	chetz.Ron	Hezron
+
+Rut.4.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وحصرون	H9002/{H2696H}	HC/Npm	#01	וְ חֶצְרוֹן֙	ve./chetz.rOn	and/ Hezron
+#02	ولد	{H3205}	HVhp3ms	#02	הוֹלִ֣יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#03	אֶת	'et-	<obj.>
+#03	رام،	{H7410G}	HNpm	#04	רָ֔ם	Ram	Ram
+#04	ورام	H9002/{H7410G}	HC/Npm	#05	וְ רָ֖ם	ve./Ram	and/ Ram
+#05	ولد	{H3205}	HVhp3ms	#06	הוֹלִ֥יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#07	אֶת	'et-	<obj.>
+#06	عميناداب،	{H5992G}\H9016	HNpm	#08	עַמִּֽינָדָֽב	'a.Mi.na.Dav	Amminadab
+
+Rut.4.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وعميناداب	H9002/{H5992G}	HC/Npm	#01	וְ עַמִּֽינָדָב֙	ve./'a.mi.na.Dav	and/ Amminadab
+#02	ولد	{H3205}	HVhp3ms	#02	הוֹלִ֣יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#03	אֶת	'et-	<obj.>
+#03	نحشون،	{H5177}	HNpm	#04	נַחְשׁ֔וֹן	nach.Shon	Nahshon
+#04	ونحشون	H9002/{H5177}	HC/Npm	#05	וְ נַחְשׁ֖וֹן	ve./nach.Shon	and/ Nahshon
+#05	ولد	{H3205}	HVhp3ms	#06	הוֹלִ֥יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#07	אֶת	'et-	<obj.>
+#06	سلمون،	{H8009}\H9016	HNpm	#08	שַׂלְמָֽה	sal.Mah	Salmah
+
+Rut.4.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وسلمون	H9002/{H8012}	HC/Npm	#01	וְ שַׂלְמוֹן֙	ve./sal.mOn	and/ Salmon
+#02	ولد	{H3205}	HVhp3ms	#02	הוֹלִ֣יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#03	אֶת	'et-	<obj.>
+#03	بوعز،	{H1162G}	HNpm	#04	בֹּ֔עַז	Bo.'az	Boaz
+#04	وبوعز	H9002/{H1162G}	HC/Npm	#05	וּ בֹ֖עַז	u./Vo.'az	and/ Boaz
+#05	ولد	{H3205}	HVhp3ms	#06	הוֹלִ֥יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#07	אֶת	'et-	<obj.>
+#06	عوبيد،	{H5744G}\H9016	HNpm	#08	עוֹבֵֽד	o.Ved	Obed
+
+Rut.4.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وعوبيد	H9002/{H5744G}	HC/Npm	#01	וְ עֹבֵד֙	ve./'o.Ved	and/ Obed
+#02	ولد	{H3205}	HVhp3ms	#02	הוֹלִ֣יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#03	אֶת	'et-	<obj.>
+#03	يسى،	{H3448}	HNpm	#04	יִשָׁ֔י	yi.Shai	Jesse
+#04	ويسى	H9002/{H3448}	HC/Npm	#05	וְ יִשַׁ֖י	ve./yi.Shai	and/ Jesse
+#05	ولد	{H3205}	HVhp3ms	#06	הוֹלִ֥יד	ho.Lid	he fathered
+		{H0853}\H9014	HTo	#07	אֶת	'et-	<obj.>
+#06	داود.	{H1732}\H9016	HNpm	#08	דָּוִֽד	da.Vid	David
+
