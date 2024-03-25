@@ -13,8 +13,8 @@ TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
 	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
 	===========================================================================
-Version 1.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
-Created 2024-03-19 Sami Abdel Malik. 
+Version 1.2.0: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-03-21 Sami Abdel Malik. 
 
 FIELD DESCRIPTIONS:																
 ===================
@@ -17306,8 +17306,8 @@ Gen.35.3
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	ولنقم	H9002/{H6965B}	HC/Vqc1cp	#01	וְ נָק֥וּמָה	ve./na.Ku.mah	so/ let us arise
 #02 - #03	ونصعد إلى	H9002/{H5927G}	HC/Vqu1cp	#02	וְ נַעֲלֶ֖ה	ve./na.'a.Leh	and/ we may go up
-#04 - #05	بيت إيل،	{H1008G}+\H9014	HNpl	#03	בֵּֽית	beit-	Beth-
-		{H1008G}	HNpl	#04	אֵ֑ל	'El	-el
+#04	بيت	{H1008G}+\H9014	HNpl	#03	בֵּֽית	beit-	Beth-
+#05	إيل،	{H1008G}	HNpl	#04	אֵ֑ל	'El	-el
 #06	فأصنع	H9002/{H6213H}\H9014	HC/Vqu1cs	#05	וְ אֶֽעֱשֶׂה	ve./'e.'e.seh-	so/ I may make
 #07	هناك	{H8033G}	HD	#06	שָּׁ֣ם	sham	there
 #08	مذبحا	{H4196}	HNcmsa	#07	מִזְבֵּ֗חַ	miz.Be.ach	an altar
@@ -17372,8 +17372,8 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #06 - #07	في أرض	H9003/{H0776G}	HR/Ncfsc	#05	בְּ אֶ֣רֶץ	be./'E.retz	[is] in/ [the] land of
 #08	كنعان،	{H3667A}	HNpl	#06	כְּנַ֔עַן	ke.Na.'an	Canaan
 #09	وهي	{H1931}	HPp3fs	#07	הִ֖וא	hi'	that
-#10 - #11	بيت إيل.	{H1008G}+\H9014	HNpl	#08	בֵּֽית	beit-	[is] Beth-
-		{H1008G}	HNpl	#09	אֵ֑ל	'El	-el
+#10	بيت	{H1008G}+\H9014	HNpl	#08	בֵּֽית	beit-	[is] Beth-
+#11	إيل.	{H1008G}	HNpl	#09	אֵ֑ל	'El	-el
 #12	هو	{H1931}	HPp3ms	#10	ה֖וּא	hu'	he
 #13	وجميع	H9002/{H3605}\H9014	HC/Ncmsc	#11	וְ כָל	ve./khol	and/ all
 #14	القوم	H9009/{H5971A}	HTd/Ncmsa	#12	הָ עָ֥ם	ha./'Am	the/ people
@@ -17408,8 +17408,8 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #03	مرضعة	{H3243}	HNcfsc	#03	מֵינֶ֣קֶת	mei.Ne.ket	[the] nurse of
 #04	رفقة	{H7259}	HNpf	#04	רִבְקָ֔ה	riv.Kah	Rebekah
 #05	ودفنت	H9001/{H6912}	Hc/VNw3fs	#05	וַ תִּקָּבֵ֛ר	va./ti.ka.Ver	and/ she was buried
-#06	تحت	H9006/{H8478G}	HR/Ncmsc	#06	מִ תַּ֥חַת	mi./Ta.chat	from/ under
-#07 - #08	بيت إيل	H9005/{H1008G}+\H9014	HR/Npl	#07	לְ בֵֽית	le./veit-	to/ Beth-
+#07	بيت	H9006/{H8478G}	HR/Ncmsc	#06	מִ תַּ֥חַת	mi./Ta.chat	from/ under
+#08	إيل	H9005/{H1008G}+\H9014	HR/Npl	#07	לְ בֵֽית	le./veit-	to/ Beth-
 		{H1008G}	HNpl	#08	אֵ֖ל	'el	-el
 #09	تحت	{H8478G}	HNcmsc	#09	תַּ֣חַת	Ta.chat	under
 #10	البلوطة،	H9009/{H0437}	HTd/Ncmsa	#10	הָֽ אַלּ֑וֹן	ha./'a.Lon	the/ oak
