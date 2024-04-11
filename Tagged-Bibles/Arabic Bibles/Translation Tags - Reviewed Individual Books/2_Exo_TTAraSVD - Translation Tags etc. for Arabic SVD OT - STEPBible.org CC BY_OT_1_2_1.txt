@@ -13,8 +13,10 @@ TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
 	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
 	===========================================================================
-Version 1.2.0: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
-Created 2024-03-25 Sami Abdel Malik. 
+Version 1.2.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-04-10 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
 
 FIELD DESCRIPTIONS:																
 ===================
@@ -845,8 +847,8 @@ Exo.3.3
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
 #02	موسى:	{H4872}	HNpm	#02	מֹשֶׁ֔ה	mo.Sheh	Moses
-#03	أميل	{H5493I}\H9014	HVqc1cs	#03	אָסֻֽרָה	'a.su.rah-	I will turn aside
-#04	الآن	{H4994}	HTj	#04	נָּ֣א	na'	please
+#03	أميل	{H5493I}\H9014; {H4994}	HVqc1cs; HTj	#03; 04	אָסֻֽרָה; נָּ֣א	'a.su.rah-; na'	I will turn aside; please
+#04	الآن						
 #05	لأنظر	H9002/{H7200G}	HC/Vqu1cs	#05	וְ אֶרְאֶ֔ה	ve./'er.'Eh	so/ I may see
 		{H0853}\H9014	HTo	#06	אֶת	'et-	<obj.>
 #06	هذا	H9009/{H2088}	HTd/Tm	#09	הַ זֶּ֑ה	ha./Zeh	<the>/ this
@@ -1182,8 +1184,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #16	العبرانيين	H9009/{H5680}	HTd/Ngmpa	#14	הָֽ עִבְרִיִּים֙	ha./'iv.ri.Yim	the/ Hebrews
 #17	التقانا،	{H7136A}; {H5921A}/H9035	HVNp3ms; HRd/Sp1bp	#15; 16	נִקְרָ֣ה; עָלֵ֔י נוּ	nik.Rah; 'a.Lei./nu	he has met; with/ us
 #18	فالآن	H9002/{H6258}	HC/D	#17	וְ עַתָּ֗ה	ve./'a.Tah	and/ therefore
-#19	نمضي	{H1980G}\H9014	HVqc1cp	#18	נֵֽלֲכָה	ne.la.khah-	let us go
-		{H4994}	HTj	#19	נָּ֞א	na'	please
+#19	نمضي	{H1980G}\H9014; {H4994}	HVqc1cp; HTj	#18; 19	נֵֽלֲכָה; נָּ֞א	ne.la.khah-; na'	let us go; please
 #20	سفر	{H1870L}	HNcbsc	#20	דֶּ֣רֶךְ	De.rekh	a journey of
 #21	ثلاثة	{H7969}	HAcbsc	#21	שְׁלֹ֤שֶׁת	she.Lo.shet	three
 #22	أيام	{H3117G}	HNcmpa	#22	יָמִים֙	ya.Mim	days
@@ -1352,8 +1353,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #03	له	H9005/{H9033}	HRd/Sp3ms	#03	ל֜ וֹ	l/o	to <the>/ him
 #04	الرب	{H3068G}	HNpt	#02	יְהוָ֨ה	Yah.weh	Yahweh
 #05	أيضا:	{H5750}	HAcmsa	#04	ע֗וֹד	od	again
-#06	أدخل	{H0935P}\H9014	HVhv2ms	#05	הָֽבֵא	ha.ve'-	put
-		{H4994}	HTj	#06	נָ֤א	na'	please
+#06	أدخل	{H0935P}\H9014; {H4994}	HVhv2ms; HTj	#05; 06	הָֽבֵא; נָ֤א	ha.ve'-; na'	put; please
 #07	يدك	{H3027G}/H9021	HNcbsc/Sp2ms	#07	יָֽדְ ךָ֙	ya.de./Kha	hand/ your
 #08 - #09	في عبك.	H9003/{H2436H}/H9021	HR/Ncmsc/Sp2ms	#08	בְּ חֵיקֶ֔ ךָ	be./chei.Ke./cha	in/ bosom/ your
 #10	فأدخل	H9001/{H0935P}	Hc/Vhw3ms	#09	וַ יָּבֵ֥א	va/i.ya.Ve'	and/ he put
@@ -1499,8 +1499,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقال:	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֖אמֶר	va/i.Yo.mer	and/ he said
 #02	استمع	{H0994}	HTj	#02	בִּ֣י	bi	pardon me
 #03 - #04	أيها السيد،	{H0136}	HNpt	#03	אֲדֹנָ֑י	'a.do.Nai	O Lord
-#05	أرسل	{H7971G}\H9014	HVqv2ms	#04	שְֽׁלַֽח	she.lach-	send
-		{H4994}	HTj	#05	נָ֖א	na'	please
+#05	أرسل	{H7971G}\H9014; {H4994}	HVqv2ms; HTj	#04; 05	שְֽׁלַֽח; נָ֖א	she.lach-; na'	send; please
 #06	بيد	H9003/{H3027G}\H9014	HR/Ncbsc	#06	בְּ יַד	be./yad-	by/ [the] hand of
 #07 - #08	من ترسل.	{H7971G}\H9016	HVqi2ms	#07	תִּשְׁלָֽח	tish.Lach	[whoever] you will send
 
@@ -1590,8 +1589,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #06	حميه	{H2859A}/H9023	HVqrmsc/Sp3ms	#06	חֹֽתְנ֗ וֹ	cho.te.N/o	father-in-law/ his
 #07	وقال	H9001/{H0559}	Hc/Vqw3ms	#07	וַ יֹּ֤אמֶר	va/i.Yo.mer	and/ he said
 #08	له:	H9005/{H9033}	HRd/Sp3ms	#08	ל וֹ֙	l/o	to <the>/ him
-#09 - #10	أنا أذهب	{H1980G}	HVqc1cs	#09	אֵ֣לֲכָה	'E.le.khah	let me go
-		{H4994}	HTj	#10	נָּ֗א	Na'	please
+#09 - #10	أنا أذهب	{H4994}; {H1980G}	HTj; HVqc1cs	#10; 09	נָּ֗א; אֵ֣לֲכָה	Na'; 'E.le.khah	please; let me go
 #11	وأرجع	H9002/{H7725G}	HC/Vqc1cs	#11	וְ אָשׁ֙וּבָה֙	ve./'a.Shu.vah	so/ I may return
 #12	إلى	{H0413}\H9014	HR	#12	אֶל	'el-	to
 #13	إخوتي	{H0251G}/H9020	HNcmpc/Sp1bs	#13	אַחַ֣ י	'a.Cha/i	relatives/ my
@@ -1883,8 +1881,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #02	إله	{H0430G}	HNcmpc	#02	אֱלֹהֵ֥י	'e.lo.Hei	[the] God of
 #03	العبرانيين	H9009/{H5680}	HTd/Ngmpa	#03	הָ עִבְרִ֖ים	ha./'iv.Rim	the/ Hebrews
 #04 - #05	قد التقانا،	{H7122G}; {H5921A}/H9035	HVNp3ms; HRd/Sp1bp	#04; 05	נִקְרָ֣א; עָלֵ֑י נוּ	nik.Ra'; 'a.Lei./nu	he has met; with/ us
-#06	فنذهب	{H1980G}	HVqc1cp	#06	נֵ֣לֲכָה	Ne.la.khah	let us go
-		{H4994}	HTj	#07	נָּ֡א	na'	please
+#06	فنذهب	{H1980G}; {H4994}	HVqc1cp; HTj	#06; 07	נֵ֣לֲכָה; נָּ֡א	Ne.la.khah; na'	let us go; please
 #07	سفر	{H1870L}	HNcbsc	#08	דֶּרֶךְ֩	de.reKh	a journey of
 #08	ثلاثة	{H7969}	HAcbsc	#09	שְׁלֹ֨שֶׁת	she.Lo.shet	three
 #09	أيام	{H3117G}	HNcmpa	#10	יָמִ֜ים	ya.Mim	days
@@ -4682,8 +4679,7 @@ Exo.10.11
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	ليس	{H3808}	HTn	#01	לֹ֣א	lo'	not
 #02	هكذا.	{H3651C}	HD	#02	כֵ֗ן	Khen	so
-#03	اذهبوا	{H1980G}\H9014	HVqv2mp	#03	לְכֽוּ	le.khu-	go
-		{H4994}	HTj	#04	נָ֤א	na'	please
+#03	اذهبوا	{H4994}; {H1980G}\H9014	HTj; HVqv2mp	#04; 03	נָ֤א; לְכֽוּ	na'; le.khu-	please; go
 #04 - #05	أنتم الرجال	H9009/{H1397}	HTd/Ncmpa	#05	הַ גְּבָרִים֙	ha./ge.va.Rim	the/ men
 #06	واعبدوا	H9002/{H5647H}	HC/Vqv2mp	#06	וְ עִבְד֣וּ	ve./'iv.Du	and/ serve
 		{H0853}\H9014	HTo	#07	אֶת	'et-	<obj.>
@@ -16460,8 +16456,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #03	غفرت	{H5375I}	HVqi2ms	#03	תִּשָּׂ֣א	ti.Sa'	you will forgive
 #04	خطيتهم،	{H2403B}/H9028	HNcfsc/Sp3mp	#04	חַטָּאתָ֑ ם	cha.ta.Ta/m	sin/ their
 #05	وإلا	H9002/{H0518A}\H9014; {H0369}	HC/Tc; HNcmsa	#05; 06	וְ אִם; אַ֕יִן	ve./'im-; 'A.yin	and/ if; not
-#06	فامحني	{H4229A}/H9030	HVqv2ms/Sp1bs	#07	מְחֵ֣ נִי	me.Che./ni	wipe out/ me
-		{H4994}	HTj	#08	נָ֔א	Na'	please
+#06	فامحني	{H4229A}/H9030; {H4994}	HVqv2ms/Sp1bs; HTj	#07; 08	מְחֵ֣ נִי; נָ֔א	me.Che./ni; Na'	wipe out/ me; please
 #07 - #08	من كتابك	H9006/{H5612H}/H9021	HR/Ncmsc/Sp2ms	#09	מִֽ סִּפְרְ ךָ֖	mi./sif.re./Kha	from/ book/ your
 #09	الذي	{H0834A}	HTr	#10	אֲשֶׁ֥ר	'a.Sher	which
 #10	كتبت.	{H3789}\H9016	HVqp2ms	#11	כָּתָֽבְתָּ	ka.Ta.ve.ta	you have written
@@ -16786,8 +16781,7 @@ Exo.33.13
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فالآن	H9002/{H6258}	HC/D	#01	וְ עַתָּ֡ה	ve./'a.Tah	and/ therefore
-#02 - #03	إن كنت	{H0518A}\H9014	HTc	#02	אִם	'im-	if
-		{H4994}	HTj	#03	נָא֩	na'	please
+#02 - #03	إن كنت	{H4994}; {H0518A}\H9014	HTj; HTc	#03; 02	נָא֩; אִם	na'; 'im-	please; if
 #04 - #05	قد وجدت	{H4672}	HVqp1cs	#04	מָצָ֨אתִי	ma.Tza.ti	I have found
 #06	نعمة	{H2580}	HNcmsa	#05	חֵ֜ן	chen	favor
 #07 - #08	في عينيك	H9003/{H5869H}/H9021	HR/Ncfdc/Sp2ms	#06	בְּ עֵינֶ֗י ךָ	be./'ei.Nei./kha	in/ eyes/ your
@@ -16877,8 +16871,7 @@ Exo.33.18
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقال:	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּאמַ֑ר	va/i.yo.Mar	and/ he said
-#02	أرني	{H7200G}/H9030	HVhv2ms/Sp1bs	#02	הַרְאֵ֥ נִי	har.'E./ni	show/ me
-		{H4994}	HTj	#03	נָ֖א	na'	please
+#02	أرني	{H7200G}/H9030; {H4994}	HVhv2ms/Sp1bs; HTj	#02; 03	הַרְאֵ֥ נִי; נָ֖א	har.'E./ni; na'	show/ me; please
 		{H0853}\H9014	HTo	#04	אֶת	'et-	<obj.>
 #03	مجدك.	{H3519}/H9021\H9016	HNcmsc/Sp2ms	#05	כְּבֹדֶֽ ךָ	ke.vo.De./kha	glory/ your
 
@@ -17115,8 +17108,7 @@ Exo.34.9
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	وقال:	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֡אמֶר	va/i.Yo.mer	and/ he said
-#02	إن	{H0518A}\H9014	HTc	#02	אִם	'im-	if
-		{H4994}	HTj	#03	נָא֩	na'	please
+#02	إن	{H4994}; {H0518A}\H9014	HTj; HTc	#03; 02	נָא֩; אִם	na'; 'im-	please; if
 #03	وجدت	{H4672}	HVqp1cs	#04	מָצָ֨אתִי	ma.Tza.ti	I have found
 #04	نعمة	{H2580}	HNcmsa	#05	חֵ֤ן	chen	favor
 #05 - #06	في عينيك	H9003/{H5869H}/H9021	HR/Ncfdc/Sp2ms	#06	בְּ עֵינֶ֙י ךָ֙	be./'ei.Nei./kha	in/ eyes/ your

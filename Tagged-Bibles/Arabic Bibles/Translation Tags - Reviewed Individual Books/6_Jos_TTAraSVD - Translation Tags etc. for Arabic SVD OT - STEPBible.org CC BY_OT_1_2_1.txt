@@ -13,8 +13,10 @@ TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
 	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
 	===========================================================================
-Version 1.2.0: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
-Created 2024-03-25 Sami Abdel Malik. 
+Version 1.2.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-04-10 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
 
 FIELD DESCRIPTIONS:																
 ===================
@@ -647,8 +649,7 @@ Jos.2.12
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فالآن	H9002/{H6258}	HC/D	#01	וְ עַתָּ֗ה	ve./'a.Tah	and/ therefore
-#02	احلفا	{H7650}\H9014	HVNv2mp	#02	הִשָּֽׁבְעוּ	hi.sha.ve.'u-	swear
-		{H4994}	HTj	#03	נָ֥א	na'	please
+#02	احلفا	{H4994}; {H7650}\H9014	HTj; HVNv2mp	#03; 02	נָ֥א; הִשָּֽׁבְעוּ	na'; hi.sha.ve.'u-	please; swear
 #03	لي	H9005/{H9030}	HRd/Sp1bs	#04	לִ י֙	l/i	to <the>/ me
 #04	بالرب	H9003/{H3068G}	HR/Npt	#05	בַּֽ יהוָ֔ה	ba./Yah.weh	by/ Yahweh
 #05	وأعطياني	H9001/{H5414G}; H9005/{H9030}	Hc/Vqq2mp; HRd/Sp1bs	#17; 18	וּ נְתַתֶּ֥ם; לִ֖ י	u./ne.ta.Tem; l/i	and/ you will give; to <the>/ me
@@ -3035,16 +3036,16 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #02	يشوع	{H3091G}	HNpm	#02	יְהוֹשֻׁ֜עַ	ye.ho.Shu.a'	Joshua
 #03	لعخان:	{H0413}\H9014; {H5912}	HR; HNpm	#03; 04	אֶל; עָכָ֗ן	'el-; 'a.Khan	to; Achan
 #04 - #05	يا ابني،	{H1121A}/H9020	HNcmsc/Sp1bs	#05	בְּנִ י֙	be.N/i	O son/ my
-#06	أعط	{H7760H}\H9014	HVqv2ms	#06	שִֽׂים	sim-	put
-#07	الآن	{H4994}	HTj	#07	נָ֣א	na'	please
+#06	أعط	{H7760H}\H9014; {H4994}	HVqv2ms; HTj	#06; 07	שִֽׂים; נָ֣א	sim-; na'	put; please
+#07	الآن						
 #08	مجدا	{H3519}	HNcmsa	#08	כָב֗וֹד	kha.Vod	glory
 #09	للرب	H9005/{H3068G}	HR/Npt	#09	לַֽ יהוָ֛ה	la./Yah.weh	to/ Yahweh
 #10	إله	{H0430G}	HNcmpc	#10	אֱלֹהֵ֥י	'e.lo.Hei	[the] God of
 #11	إسرائيل،	{H3478}	HNpl	#11	יִשְׂרָאֵ֖ל	Yis.ra.'El	Israel
 #12	واعترف	H9002/{H5414G}\H9014; {H8426}	HC/Vqv2ms; HNcfsa	#12; 14	וְ תֶן; תוֹדָ֑ה	ve./ten-; to.Dah	and/ give; confession
 #13	له	H9005/{H9033}	HRd/Sp3ms	#13	ל֣ וֹ	l/o	to <the>/ him
-#14	وأخبرني	H9002/{H5046}\H9014; H9005/{H9030}	HC/Vhv2ms; HRd/Sp1bs	#15; 17	וְ הַגֶּד; לִ י֙	ve./ha.ged-; l/i	and/ tell; to <the>/ me
-#15	الآن	{H4994}	HTj	#16	נָ֥א	na'	please
+#14	وأخبرني	H9002/{H5046}\H9014; {H4994}; H9005/{H9030}	HC/Vhv2ms; HTj; HRd/Sp1bs	#15; 16; 17	וְ הַגֶּד; נָ֥א; לִ י֙	ve./ha.ged-; na'; l/i	and/ tell; please; to <the>/ me
+#15	الآن						
 #16	ماذا	{H4100}	HPi	#18	מֶ֣ה	meh	what?
 #17	عملت.	{H6213A}	HVqp2ms	#19	עָשִׂ֔יתָ	'a.Si.ta	have you done
 #18	لا	{H0408}\H9014	HTn	#20	אַל	'al-	may not
@@ -11169,8 +11170,7 @@ Jos.22.26
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقلنا	H9001/{H0559}	Hc/Vqw1cp	#01	וַ נֹּ֕אמֶר	va./No.mer	and/ we said
-#02 - #03	نصنع نحن	{H6213H}\H9014	HVqi1cp	#02	נַעֲשֶׂה	na.'a.seh-	let us act
-		{H4994}	HTj	#03	נָּ֣א	na'	please
+#02 - #03	نصنع نحن	{H6213H}\H9014; {H4994}	HVqi1cp; HTj	#02; 03	נַעֲשֶׂה; נָּ֣א	na.'a.seh-; na'	let us act; please
 #04	لأنفسنا.	H9005/{H9035}	HRd/Sp1bp	#04	לָ֔ נוּ	La./nu	for <the>/ ourselves
 #05	نبني	H9005/{H1129}	HR/Vqcc	#05	לִ בְנ֖וֹת	li/v.Not	by/ building
 		{H0853}\H9014	HTo	#06	אֶת	'et-	<obj.>

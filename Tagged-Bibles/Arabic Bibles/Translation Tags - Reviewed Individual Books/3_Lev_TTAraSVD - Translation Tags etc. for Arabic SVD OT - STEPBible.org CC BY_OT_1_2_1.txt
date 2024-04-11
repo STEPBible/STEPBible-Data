@@ -13,8 +13,10 @@ TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
 	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
 	===========================================================================
-Version 1.2.0: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
-Created 2024-03-25 Sami Abdel Malik. 
+Version 1.2.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-04-10 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
 
 FIELD DESCRIPTIONS:																
 ===================

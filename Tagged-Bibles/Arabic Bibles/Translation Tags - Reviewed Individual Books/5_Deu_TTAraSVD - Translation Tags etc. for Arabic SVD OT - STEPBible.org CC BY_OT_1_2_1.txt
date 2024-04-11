@@ -13,8 +13,10 @@ TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
 	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
 	===========================================================================
-Version 1.2.0: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
-Created 2024-03-25 Sami Abdel Malik. 
+Version 1.2.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-04-10 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
 
 FIELD DESCRIPTIONS:																
 ===================
@@ -1985,8 +1987,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 Deu.3.25
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
-#01	دعني	{H4994}	HTj	#02	נָּ֗א	Na'	please
-#02	أعبر	{H5674A}\H9014	HVqc1cs	#01	אֶעְבְּרָה	'e'.be.rah-	let me pass over
+#01 - #02	دعني أعبر	{H5674A}\H9014; {H4994}	HVqc1cs; HTj	#01; 02	אֶעְבְּרָה; נָּ֗א	'e'.be.rah-; Na'	let me pass over; please
 #03	وأرى	H9002/{H7200G}	HC/Vqu1cs	#03	וְ אֶרְאֶה֙	ve./'er.'Eh	so/ I may see
 		{H0853}\H9014	HTo	#04	אֶת	'et-	<obj.>
 #04	الأرض	H9009/{H0776G}	HTd/Ncfsa	#05	הָ אָ֣רֶץ	ha./'A.retz	the/ land
@@ -2710,8 +2711,8 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 Deu.4.32
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
-#01	فاسأل	{H3588A}; {H7592}\H9014	HTc; HVqv2ms	#01; 02	כִּ֣י; שְׁאַל	ki; she.'al-	that; ask
-#02 - #03	عن الأيام	{H4994}; H9005/{H3117G}	HTj; HR/Ncmpa	#03; 04	נָא֩; לְ יָמִ֨ים	na'; le./ya.Mim	please; to/ days
+#01	فاسأل	{H3588A}; {H7592}\H9014; {H4994}	HTc; HVqv2ms; HTj	#01; 02; 03	כִּ֣י; שְׁאַל; נָא֩	ki; she.'al-; na'	that; ask; please
+#02 - #03	عن الأيام	H9005/{H3117G}; H9009/{H3117G}	HR/Ncmpa; HTd/Ncmsa	#04; 10	לְ יָמִ֨ים; הַ יּוֹם֙	le./ya.Mim; hai./yoM	to/ days; the/ day
 #04	الأولى	{H7223H}	HAompa	#05	רִֽאשֹׁנִ֜ים	ri.sho.Nim	former
 #05	التي	{H0834A}\H9014	HTr	#06	אֲשֶׁר	'a.Sher-	which
 #06	كانت	{H1961}	HVqp3cp	#07	הָי֣וּ	ha.Yu	they were

@@ -13,8 +13,10 @@ TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
 	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
 	===========================================================================
-Version 1.2.0: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
-Created 2024-03-25 Sami Abdel Malik. 
+Version 1.2.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-04-10 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
 
 FIELD DESCRIPTIONS:																
 ===================
@@ -470,8 +472,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #06	المدينة،	H9009/{H5892B}	HTd/Ncfsa	#06	הָ עִ֑יר	ha./'Ir	the/ city
 #07	فقالوا	H9001/{H0559}	Hc/Vqw3mp	#07	וַ יֹּ֣אמְרוּ	va/i.Yo.me.ru	and/ they said
 #08	له:	H9005/{H9033}	HRd/Sp3ms	#08	ל֗ וֹ	l/o	to <the>/ him
-#09	أرنا	{H7200G}/H9035	HVhv2ms/Sp1bp	#09	הַרְאֵ֤ נוּ	har.'E./nu	show/ us
-		{H4994}	HTj	#10	נָא֙	na'	please
+#09	أرنا	{H7200G}/H9035; {H4994}	HVhv2ms/Sp1bp; HTj	#09; 10	הַרְאֵ֤ נוּ; נָא֙	har.'E./nu; na'	show/ us; please
 		{H0853}\H9014	HTo	#11	אֶת	'et-	<obj.>
 #10	مدخل	{H3996}	HNcmsc	#12	מְב֣וֹא	me.Vo'	[the] entrance of
 #11	المدينة	H9009/{H5892B}	HTd/Ncfsa	#13	הָ עִ֔יר	ha./'Ir	the/ city
@@ -2133,8 +2134,7 @@ Jdg.4.19
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֧אמֶר	va/i.Yo.mer	and/ he said
 #02	لها:	{H0413}/H9034	HRd/Sp3fs	#02	אֵלֶ֛י הָ	'e.Lei./ha	to/ her
-#03	اسقيني	{H8248H}/H9030\H9014	HVhv2fs/Sp1bs	#03	הַשְׁקִי נִי	hash.ki./ni-	give to drink/ me
-		{H4994}	HTj	#04	נָ֥א	na'	please
+#03	اسقيني	{H8248H}/H9030\H9014; {H4994}	HVhv2fs/Sp1bs; HTj	#03; 04	הַשְׁקִי נִי; נָ֥א	hash.ki./ni-; na'	give to drink/ me; please
 #04	قليل	{H4592}\H9014	HNcmsc	#05	מְעַט	me.'at-	a little of
 #05	ماء	{H4325G}	HNcmpa	#06	מַ֖יִם	Ma.yim	water
 #06	لأني	{H3588A}	HTc	#07	כִּ֣י	ki	for
@@ -3051,9 +3051,8 @@ Jdg.6.17
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
 #02	له:	{H0413}/H9033	HRd/Sp3ms	#02	אֵלָ֔י ו	'e.La/v	to/ him
-#03 - #04	إن كنت	{H0518A}\H9014	HTc	#03	אִם	'im-	if
-#05	قد	{H4994}	HTj	#04	נָ֛א	na'	please
-#06	وجدت	{H4672}	HVqp1cs	#05	מָצָ֥אתִי	ma.Tza.ti	I have found
+#03 - #04	إن كنت	{H0518A}\H9014; {H4994}	HTc; HTj	#03; 04	אִם; נָ֛א	'im-; na'	if; please
+#05 - #06	قد وجدت	{H4672}; {H4672}	HVqp1cs; HVqp1cs	#05; 05	מָצָ֥אתִי; מָצָ֥אתִי	ma.Tza.ti; ma.Tza.ti	I have found; I have found
 #07	نعمة	{H2580}	HNcmsa	#06	חֵ֖ן	chen	favor
 #08 - #09	في عينيك	H9003/{H5869A}/H9021	HR/Ncfdc/Sp2ms	#07	בְּ עֵינֶ֑י ךָ	be./'ei.Nei./kha	in/ eyes/ your
 #10	فاصنع	H9001/{H6213A}	Hc/Vqq2ms	#08	וְ עָשִׂ֤יתָ	ve./'a.Si.ta	and/ you will do
@@ -3065,8 +3064,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 Jdg.6.18
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
-#01	لا	{H0408}\H9014	HTn	#01	אַל	'al-	may not
-		{H4994}	HTj	#02	נָ֨א	na'	please
+#01	لا	{H0408}\H9014; {H4994}	HTn; HTj	#01; 02	אַל; נָ֨א	'al-; na'	may not; please
 #02	تبرح	{H4185}	HVqj2ms	#03	תָמֻ֤שׁ	ta.Mush	you depart
 #03 - #04	من ههنا	H9006/{H2088}	HR/Tm	#04	מִ זֶּה֙	mi./Zeh	from/ here
 #05	حتى	{H5704}\H9014	HR	#05	עַד	'ad-	until
@@ -3522,13 +3520,11 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #08	فأتكلم	H9002/{H1696G}	HC/Vpc1cs	#09	וַ אֲדַבְּרָ֖ה	va./'a.da.be.Rah	and/ let me speak
 #09 - #10	هذه المرة	H9009/{H6471}	HTd/Ncfsa	#11	הַ פָּ֑עַם	ha./Pa.'am	this/ time
 #11	فقط.	{H0389}	HD	#10	אַ֣ךְ	'akh	only
-#12	أمتحن	{H5254G}	HVpi1cs	#12	אֲנַסֶּ֤ה	'a.na.Seh	let me put to [the] test
-		{H4994}\H9014	HTj	#13	נָּא	na'-	please
+#12	أمتحن	{H5254G}; {H4994}\H9014	HVpi1cs; HTj	#12; 13	אֲנַסֶּ֤ה; נָּא	'a.na.Seh; na'-	let me put to [the] test; please
 #13 - #14	هذه المرة	H9009/{H6471}	HTd/Ncfsa	#15	הַ פַּ֙עַם֙	ha./Pa.'am	this/ time
 #15	فقط	{H7535}\H9014	HD	#14	רַק	rak-	only
 #16	بالجزة.	H9003/{H1492}	HRd/Ncfsa	#16	בַּ גִּזָּ֔ה	ba./gi.Zah	by the/ fleece
-#17	فليكن	{H1961}\H9014	HVqj3ms	#17	יְהִי	ye.hi-	let it be
-		{H4994}	HTj	#18	נָ֨א	na'	please
+#17	فليكن	{H1961}\H9014; {H4994}	HVqj3ms; HTj	#17; 18	יְהִי; נָ֨א	ye.hi-; na'	let it be; please
 #18	جفاف	{H2721A}	HNcmsa	#19	חֹ֤רֶב	Cho.rev	dryness
 #19	في	{H0413}\H9014	HR	#20	אֶל	'el-	to
 #20	الجزة	H9009/{H1492}	HTd/Ncfsa	#21	הַ גִּזָּה֙	ha./gi.Zah	the/ fleece
@@ -3609,8 +3605,7 @@ Jdg.7.3
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	والآن	H9002/{H6258}	HC/D	#01	וְ עַתָּ֗ה	ve./'a.Tah	and/ therefore
-#02	ناد	{H7121I}	HVqv2ms	#02	קְרָ֨א	ke.Ra'	proclaim
-		{H4994}	HTj	#03	נָ֜א	na'	please
+#02	ناد	{H7121I}; {H4994}	HVqv2ms; HTj	#02; 03	קְרָ֨א; נָ֜א	ke.Ra'; na'	proclaim; please
 #03 - #04	في آذان	H9003/{H0241I}	HR/Ncfdc	#04	בְּ אָזְנֵ֤י	be./'a.ze.Nei	in/ [the] ears of
 #05	الشعب	H9009/{H5971K}	HTd/Ncmsa	#05	הָ עָם֙	ha./'Am	the/ people
 #06	قائلا:	H9005/{H0559}	HR/Vqcc	#06	לֵ אמֹ֔ר	le./Mor	<to>/ saying
@@ -4233,8 +4228,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֙אמֶר֙	va/i.Yo.mer	and/ he said
 #02	لأهل	H9005/{H0582}	HR/Ncmpc	#02	לְ אַנְשֵׁ֣י	le./'an.Shei	to/ [the] people of
 #03	سكوت:	{H5523G}	HNpl	#03	סֻכּ֔וֹת	su.Kot	Succoth
-#04	أعطوا	{H5414G}\H9014	HVqv2mp	#04	תְּנוּ	te.nu-	give
-		{H4994}	HTj	#05	נָא֙	na'	please
+#04	أعطوا	{H4994}; {H5414G}\H9014	HTj; HVqv2mp	#05; 04	נָא֙; תְּנוּ	na'; te.nu-	please; give
 #05	أرغفة	{H3603H}	HNcfpc	#06	כִּכְּר֣וֹת	ki.ke.Rot	round loaves of
 #06	خبز	{H3899H}	HNcmsa	#07	לֶ֔חֶם	Le.chem	bread
 #07	للقوم	H9005/{H5971K}	HRd/Ncmsa	#08	לָ עָ֖ם	la./'Am	to the/ people
@@ -4818,8 +4812,8 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 Jdg.9.2
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
-#01	تكلموا	{H1696G}\H9014	HVpv2mp	#01	דַּבְּרוּ	da.be.ru-	speak
-#02	الآن	{H4994}	HTj	#02	נָ֞א	na'	please
+#01	تكلموا	{H1696G}\H9014; {H4994}	HVpv2mp; HTj	#01; 02	דַּבְּרוּ; נָ֞א	da.be.ru-; na'	speak; please
+#02	الآن						
 #03 - #04	في آذان	H9003/{H0241I}	HR/Ncfdc	#03	בְּ אָזְנֵ֨י	be./'a.ze.Nei	in/ [the] ears of
 #05	جميع	{H3605}\H9014	HNcmsc	#04	כָל	khol-	all
 #06	أهل	{H1167G}	HNcmpc	#05	בַּעֲלֵ֣י	ba.'a.Lei	[the] citizens of
@@ -5529,8 +5523,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #18	الشعب	H9009/{H5971K}	HTd/Ncmsa	#15	הָ עָם֙	ha./'Am	the/ people
 #19	الذي	{H0834A}	HTr	#16	אֲשֶׁ֣ר	'a.Sher	which
 #20	رذلته.	{H3988A}; H9003/{H9033}	HVqp2ms; HRd/Sp3ms	#17; 18	מָאַ֣סְתָּה; בּ֔ וֹ	ma.'As.tah; b/o	you rejected; <in> <the>/ it
-#21	فاخرج	{H3318G}\H9014	HVqv2ms	#19	צֵא	tze'-	go out
-		{H4994}	HTj	#20	נָ֥א	na'	please
+#21	فاخرج	{H3318G}\H9014; {H4994}	HVqv2ms; HTj	#19; 20	צֵא; נָ֥א	tze'-; na'	go out; please
 #22	الآن	{H6258}	HD	#21	עַתָּ֖ה	'a.Tah	now
 #23	وحاربه.	H9002/{H3898A}; H9003/{H9033}\H9016\ \H9018	HC/VNv2ms; HRd/Sp3ms	#22; 23	וְ הִלָּ֥חֶם; בּֽ וֹ	ve./hi.La.chem; b/o	and/ fight; against <the>/ him
 
@@ -6139,8 +6132,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #10	يحسن	H9009/{H2896A}	HTd/Aamsa	#11	הַ טּ֖וֹב	ha./Tov	the/ good
 #11 - #12	في عينيك.	H9003/{H5869I}/H9021	HR/Ncfdc/Sp2ms	#12	בְּ עֵינֶ֑י ךָ	be./'ei.Nei./kha	in/ eyes/ your
 #13	إنما	{H0389}	HD	#13	אַ֛ךְ	'akh	only
-#14	أنقذنا	{H5337}/H9035	HVhv2ms/Sp1bp	#14	הַצִּילֵ֥ נוּ	ha.tzi.Le./nu	deliver/ us
-		{H4994}	HTj	#15	נָ֖א	na'	please
+#14	أنقذنا	{H5337}/H9035; {H4994}	HVhv2ms/Sp1bp; HTj	#14; 15	הַצִּילֵ֥ נוּ; נָ֖א	ha.tzi.Le./nu; na'	deliver/ us; please
 #15	هذا	H9009/{H2088}\H9016	HTd/Tm	#17	הַ זֶּֽה	ha./Zeh	<the>/ this
 #16	اليوم.	H9009/{H3117L}	HTd/Ncmsa	#16	הַ יּ֥וֹם	hai./Yom	the/ day
 
@@ -6504,8 +6496,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #05	ملك	{H4428G}	HNcmsc	#05	מֶלֶךְ֩	me.leKh	[the] king of
 #06	أدوم	{H0123G}\H9015	HNpm	#06	אֱד֨וֹם	'e.Dom	Edom
 #07	قائلا:	H9005/{H0559}	HR/Vqcc	#07	לֵ אמֹ֜ר	le./Mor	<to>/ saying
-#08	دعني	{H4994}	HTj	#09	נָּ֣א	na'	please
-#09	أعبر	{H5674A}\H9014	HVqc1cs	#08	אֶעְבְּרָה	'e'.be.rah-	let me pass
+#08 - #09	دعني أعبر	{H5674A}\H9014; {H4994}	HVqc1cs; HTj	#08; 09	אֶעְבְּרָה; נָּ֣א	'e'.be.rah-; na'	let me pass; please
 #10 - #11	في أرضك.	H9003/{H0776G}/H9021	HR/Ncfsc/Sp2ms	#10	בְ אַרְצֶ֗ ךָ	ve./'ar.Tze./kha	in/ land/ your
 #12	فلم	H9002/{H3808}	HC/Tn	#11	וְ לֹ֤א	ve./Lo'	and/ not
 #13	يسمع	{H8085G}	HVqp3ms	#12	שָׁמַע֙	sha.Ma'	he listened
@@ -6566,8 +6557,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #11	وقال	H9001/{H0559}	Hc/Vqw3ms	#10	וַ יֹּ֤אמֶר	va/i.Yo.mer	and/ it said
 #12	له	H9005/{H9033}	HRd/Sp3ms	#11	ל וֹ֙	l/o	to <the>/ him
 #13	إسرائيل:	{H3478}	HNpl	#12	יִשְׂרָאֵ֔ל	Yis.ra.'El	Israel
-#14	دعني	{H4994}	HTj	#14	נָּ֥א	na'	please
-#15	أعبر	{H5674A}\H9014	HVqc1cp	#13	נַעְבְּרָה	na'.be.rah-	let us pass
+#14 - #15	دعني أعبر	{H5674A}\H9014; {H4994}	HVqc1cp; HTj	#13; 14	נַעְבְּרָה; נָּ֥א	na'.be.rah-; na'	let us pass; please
 #16 - #17	في أرضك	H9003/{H0776G}/H9021	HR/Ncfsc/Sp2ms	#15	בְ אַרְצְ ךָ֖	ve./'ar.tze./Kha	in/ land/ your
 #18	إلى	{H5704}\H9014	HR	#16	עַד	'ad-	to
 #19	مكاني.	{H4725}/H9020\H9016	HNcmsc/Sp1bs	#17	מְקוֹמִֽ י	me.ko.M/i	own place/ my
@@ -7114,8 +7104,8 @@ Jdg.12.6
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01 - #02	كانوا يقولون	H9001/{H0559}	Hc/Vqw3mp	#01	וַ יֹּ֣אמְרוּ	va/i.Yo.me.ru	and/ they said
 #03	له:	H9005/{H9033}	HRd/Sp3ms	#02	ל וֹ֩	l/o	to <the>/ him
-#04	قل	{H0559}\H9014	HVqv2ms	#03	אֱמָר	'e.mor-	say
-#05	إذا:	{H4994}	HTj	#04	נָ֨א	na'	please
+#04	قل	{H0559}\H9014; {H4994}	HVqv2ms; HTj	#03; 04	אֱמָר; נָ֨א	'e.mor-; na'	say; please
+#05	إذا:						
 #06	شبولت	{H7641H}	HNtfsa	#05	שִׁבֹּ֜לֶת	shi.Bo.let	Shibboleth
 #07	فيقول:	H9001/{H0559}	Hc/Vqw3ms	#06	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
 #08	سبولت	{H5451}	HNcfsa	#07	סִבֹּ֗לֶת	si.Bo.let	Sibboleth
@@ -7308,8 +7298,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #04	للمرأة	{H0413}\H9014; H9009/{H0802G}	HR; HTd/Ncfsa	#04; 05	אֶל; הָ אִשָּׁ֑ה	'el-; ha./'i.Shah	to; the/ woman
 #05	وقال	H9001/{H0559}	Hc/Vqw3ms	#06	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
 #06	لها:	{H0413}/H9034	HRd/Sp3fs	#07	אֵלֶ֗י הָ	'e.Lei./ha	to/ her
-#07	ها	{H2009}\H9014	HTj	#08	הִנֵּה	hi.neh-	here.
-		{H4994}	HTj	#09	נָ֤א	na'	please
+#07	ها	{H2009}\H9014; {H4994}	HTj; HTj	#08; 09	הִנֵּה; נָ֤א	hi.neh-; na'	here.; please
 #08	أنت	{H0859C}\H9014	HPp2fs	#10	אַתְּ	'at-	you
 #09	عاقر	{H6135}	HAafsa	#11	עֲקָרָה֙	'a.ka.Rah	[are] barren
 #10	لم	H9002/{H3808}	HC/Tn	#12	וְ לֹ֣א	ve./Lo'	and/ not
@@ -7322,8 +7311,7 @@ Jdg.13.4
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	والآن	H9002/{H6258}	HC/D	#01	וְ עַתָּה֙	ve./'a.Tah	and/ therefore
-#02	فاحذري	{H8104J}	HVNv2fs	#02	הִשָּׁ֣מְרִי	hi.Sha.me.ri	take care
-		{H4994}	HTj	#03	נָ֔א	Na'	please
+#02	فاحذري	{H8104J}; {H4994}	HVNv2fs; HTj	#02; 03	הִשָּׁ֣מְרִי; נָ֔א	hi.Sha.me.ri; Na'	take care; please
 #03	ولا	H9002/{H0408}\H9014	HC/Tn	#04	וְ אַל	ve./'al-	and/ may not
 #04	تشربي	{H8354}	HVqj2fs	#05	תִּשְׁתִּ֖י	tish.Ti	you drink
 #05	خمرا	{H3196}	HNcmsa	#06	יַ֣יִן	Ya.yin	wine
@@ -7427,8 +7415,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #05	وقال:	H9001/{H0559}	Hc/Vqw3ms	#05	וַ יֹּאמַ֑ר	va/i.yo.Mar	and/ he said
 #06	أسألك	{H0994}	HTj	#06	בִּ֣י	bi	pardon me
 #07 - #08	يا سيدي	{H0136}	HNpt	#07	אֲדוֹנָ֔י	'a.do.Nai	O Lord
-#09 - #10	أن يأتي	{H0935G}\H9014	HVqi3ms	#12	יָבוֹא	ya.Vo'-	let him come
-		{H4994}	HTj	#13	נָ֥א	na'	please
+#09 - #10	أن يأتي	{H0935G}\H9014; {H4994}	HVqi3ms; HTj	#12; 13	יָבוֹא; נָ֥א	ya.Vo'-; na'	let him come; please
 #11	أيضا	{H5750}	HAcmsa	#14	עוֹד֙	'Od	again
 #12	إلينا	{H0413}/H9035	HRd/Sp1bp	#15	אֵלֵ֔י נוּ	'e.Lei./nu	to/ us
 #13	رجل	{H0376G}	HNcmsc	#08	אִ֣ישׁ	'ish	[the] man of
@@ -7562,8 +7549,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #02	منوح	{H4495}	HNpm	#02	מָנ֖וֹחַ	ma.No.ach	Manoah
 #03	لملاك	{H0413}\H9014; {H4397H}	HR; HNcmsc	#03; 04	אֶל; מַלְאַ֣ךְ	'el-; mal.'Akh	to; [the] angel of
 #04	الرب:	{H3068G}	HNpt	#05	יְהוָ֑ה	Yah.weh	Yahweh
-#05	دعنا	{H4994}	HTj	#07	נָּ֣א	na'	please
-#06	نعوقك	{H6113}\H9014; {H0853}/H9031	HVqc1cp; HTo/Sp2ms	#06; 08	נַעְצְרָה; אוֹתָ֔ ךְ	na'.tze.rah-; 'o.Ta/kh	let us detain; <obj.>/ you
+#05 - #06	دعنا نعوقك	{H6113}\H9014; {H4994}; {H0853}/H9031	HVqc1cp; HTj; HTo/Sp2ms	#06; 07; 08	נַעְצְרָה; נָּ֣א; אוֹתָ֔ ךְ	na'.tze.rah-; na'; 'o.Ta/kh	let us detain; please; <obj.>/ you
 #07	ونعمل	H9002/{H6213I}	HC/Vqu1cp	#09	וְ נַעֲשֶׂ֥ה	ve./na.'a.Seh	so/ we may prepare
 #08	لك	H9005/{H6440L}/H9021	HR/Ncmpc/Sp2ms	#10	לְ פָנֶ֖י ךָ	le./fa.Nei./kha	<to>/ before/ you
 #09	جدي	{H1423}	HNcmsc	#11	גְּדִ֥י	ge.Di	a kid of
@@ -7950,8 +7936,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقال	H9001/{H0559}	Hc/Vqw3ms	#01	וַ יֹּ֤אמֶר	va/i.Yo.mer	and/ he said
 #02	لهم	H9005/{H9038}	HRd/Sp3mp	#02	לָ הֶם֙	la./Hem	to <the>/ them
 #03	شمشون:	{H8123}	HNpm	#03	שִׁמְשׁ֔וֹן	shim.Shon	Samson
-#04	لأحاجينكم	{H2330}\H9014; H9005/{H9036}	HVqc1cs; HR/Sp2mp	#04; 06	אָחֽוּדָה; לָ כֶ֖ם	'a.chu.dah-; la./Khem	let me ask a riddle; to/ you
-		{H4994}	HTj	#05	נָּ֥א	na'	please
+#04	لأحاجينكم	{H2330}\H9014; {H4994}; H9005/{H9036}	HVqc1cs; HTj; HR/Sp2mp	#04; 05; 06	אָחֽוּדָה; נָּ֥א; לָ כֶ֖ם	'a.chu.dah-; na'; la./Khem	let me ask a riddle; please; to/ you
 #05	أحجية،	{H2420}	HNcfsa	#07	חִידָ֑ה	chi.Dah	a riddle
 #06	فإذا	{H0518A}\H9014	HTc	#08	אִם	'im-	<if>
 #07	حللتموها	{H5046}; {H5046}; {H0853}/H9034	HVhaa; HVhi2mp; HTo/Sp3fs	#09; 10; 11	הַגֵּ֣ד; תַּגִּידוּ֩; אוֹתָ֨ הּ	ha.Ged; ta.gi.Du; 'o.Ta/h	certainly [if] <to tell>; you will tell; <obj.>/ it
@@ -8183,8 +8168,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #24	الصغيرة	H9009/{H6996A}	HTd/Aafsa	#12	הַ קְּטַנָּה֙	ha./ke.ta.Nah	<the>/ young
 #25	أحسن	{H2896A}	HAafsa	#13	טוֹבָ֣ה	to.Vah	good
 #26	منها.	{H4480A}/H9034	HRd/Sp3fs	#14	מִמֶּ֔ נָּה	mi.Me./nah	more than/ her
-#27	فلتكن	{H1961}\H9014	HVqj3fs	#15	תְּהִי	te.hi-	let her belong
-		{H4994}	HTj	#16	נָ֥א	na'	please
+#27	فلتكن	{H1961}\H9014; {H4994}	HVqj3fs; HTj	#15; 16	תְּהִי; נָ֥א	te.hi-; na'	let her belong; please
 #28	لك	H9005/{H9031}	HRd/Sp2ms	#17	לְ ךָ֖	le./Kha	to <the>/ you
 #29 - #30	عوضا عنها.	{H8478H}/H9034\H9016	HNcmpc/Sp3fs	#18	תַּחְתֶּֽי הָ	tach.Tei./ha	in place of/ her
 
@@ -8641,8 +8625,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقالت	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֤אמֶר	va./To.mer	and/ she said
 #02	دليلة	{H1807}	HNpf	#02	דְּלִילָה֙	de.li.Lah	Delilah
 #03	لشمشون:	{H0413}\H9014; {H8123}	HR; HNpm	#03; 04	אֶל; שִׁמְשׁ֔וֹן	'el-; shim.Shon	to; Samson
-#04	أخبرني	{H5046}/H9012\H9014; H9005/{H9030}	HVhv2ms/Sh; HRd/Sp1bs	#05; 07	הַגִּֽידָ ה; לִ֔ י	ha.gi.da/h-; L/i	tell/ .; to <the>/ me
-		{H4994}	HTj	#06	נָּ֣א	na'	please
+#04	أخبرني	{H5046}/H9012\H9014; {H4994}; H9005/{H9030}	HVhv2ms/Sh; HTj; HRd/Sp1bs	#05; 06; 07	הַגִּֽידָ ה; נָּ֣א; לִ֔ י	ha.gi.da/h-; na'; L/i	tell/ .; please; to <the>/ me
 #05	بماذا	H9003/{H4100}	HR/Pi	#08	בַּ מֶּ֖ה	ba./Meh	<in>/ how?
 #06	قوتك	{H3581B}/H9021	HNcmsc/Sp2ms	#09	כֹּחֲ ךָ֣	ko.cha./Kha	[is] strength/ your
 #07	العظيمة.	{H1419A}	HAamsa	#10	גָד֑וֹל	ga.Dol	great
@@ -8720,8 +8703,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #05 - #06	قد ختلتني	{H2048B}; H9003/{H9030}	HVhp2ms; HRd/Sp1bs	#06; 07	הֵתַ֣לְתָּ; בִּ֔ י	he.Tal.ta; B/i	you have deceived; <in> <the>/ me
 #07	وكلمتني	H9001/{H1696G}; {H0413}/H9030	Hc/Vpw2ms; HRd/Sp1bs	#08; 09	וַ תְּדַבֵּ֥ר; אֵלַ֖ י	va./te.da.Ber; 'e.La/i	and/ you have spoken; to/ me
 #08	بالكذب،	{H3577}	HNcmpa	#10	כְּזָבִ֑ים	ke.za.Vim	lies
-#09	فأخبرني	{H5046}/H9012\H9014; H9005/{H9030}	HVhv2ms/Sh; HRd/Sp1bs	#12; 14	הַגִּֽידָ ה; לִ֔ י	ha.gi.da/h-; L/i	tell/ .; to <the>/ me
-		{H4994}	HTj	#13	נָּ֣א	na'	please
+#09	فأخبرني	{H5046}/H9012\H9014; {H4994}; H9005/{H9030}	HVhv2ms/Sh; HTj; HRd/Sp1bs	#12; 13; 14	הַגִּֽידָ ה; נָּ֣א; לִ֔ י	ha.gi.da/h-; na'; L/i	tell/ .; please; to <the>/ me
 #10	الآن	{H6258}	HD	#11	עַתָּה֙	'a.Tah	now
 #11	بماذا	H9003/{H4100}	HR/Pi	#15	בַּ מֶּ֖ה	ba./Meh	<in>/ how?
 #12	توثق..	{H0631}\H9016	HVNi2ms	#16	תֵּאָסֵֽר	te.'a.Ser	will you be bound
@@ -9099,8 +9081,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #04	وقال:	H9001/{H0559}	Hc/Vqw3ms	#05	וַ יֹּאמַ֑ר	va/i.yo.Mar	and/ he said
 #05 - #06	يا سيدي	{H0136}	HNpt	#06	אֲדֹנָ֣י	'a.do.Nai	O Lord
 #07	الرب،	{H3069}	HNpt	#07	יֱהֹוִ֡ה	Yah.weh	Yahweh
-#08	اذكرني	{H2142}/H9030	HVqv2ms/Sp1bs	#08	זָכְרֵ֣ נִי	za.khe.Re./ni	remember/ me
-		{H4994}	HTj	#09	נָא֩	na'	please
+#08	اذكرني	{H2142}/H9030; {H4994}	HVqv2ms/Sp1bs; HTj	#08; 09	זָכְרֵ֣ נִי; נָא֩	za.khe.Re./ni; na'	remember/ me; please
 #09	وشددني	H9002/{H2388G}/H9030	HC/Vpv2ms/Sp1bs	#10	וְ חַזְּקֵ֨ נִי	ve./cha.ze.Ke./ni	and/ strengthen/ me
 		{H4994}	HTj	#11	נָ֜א	na'	please
 #10 - #11	يا الله	H9009/{H0430G}	HTd/Ncmpa	#15	הָ אֱלֹהִ֔ים	ha./'E.lo.Him	O/ God
@@ -9538,8 +9519,8 @@ Jdg.18.5
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	فقالوا	H9001/{H0559}	Hc/Vqw3mp	#01	וַ יֹּ֥אמְרוּ	va/i.Yo.me.ru	and/ they said
 #02	له:	H9005/{H9033}	HRd/Sp3ms	#02	ל֖ וֹ	l/o	to <the>/ him
-#03	اسأل	{H7592}\H9014	HVqv2ms	#03	שְׁאַל	she.'al-	enquire
-#04	إذن	{H4994}	HTj	#04	נָ֣א	na'	please
+#03	اسأل	{H7592}\H9014; {H4994}	HVqv2ms; HTj	#03; 04	שְׁאַל; נָ֣א	she.'al-; na'	enquire; please
+#04	إذن						
 #05 - #06	من الله	H9003/{H0430G}	HR/Ncmpa	#05	בֵ אלֹהִ֑ים	ve./lo.Him	by/ God
 #07	لنعلم:	H9002/{H3045}	HC/Vqc1cp	#06	וְ נֵ֣דְעָ֔ה	ve./Ne.de.'Ah	so/ let us know
 #08 - #09	هل ينجح	H9008/{H6743B}	HTi/Vhi3fs	#07	הֲ תַצְלִ֣יחַ	ha./tatz.Li.ach	¿/ will it succeed
@@ -10205,8 +10186,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #07	أبو	{H0001G}	HNcmsc	#07	אֲבִ֤י	'a.Vi	[the] father of
 #08	الفتاة	H9009/{H5291}	HTd/Ncfsa	#08	הַֽ נַּעֲרָה֙	ha./na.'a.Rah	the/ young woman
 #09	للرجل:	{H0413}\H9014; H9009/{H0376G}	HR; HTd/Ncmsa	#09; 10	אֶל; הָ אִ֔ישׁ	'el-; ha./'Ish	to; the/ man
-#10	ارتض	{H2974}\H9014	HVhv2ms	#11	הֽוֹאֶל	ho.'el-	be willing
-		{H4994}	HTj	#12	נָ֥א	na'	please
+#10	ارتض	{H2974}\H9014; {H4994}	HVhv2ms; HTj	#11; 12	הֽוֹאֶל; נָ֥א	ho.'el-; na'	be willing; please
 #11	وبت،	H9002/{H3885A}	HC/Vqv2ms	#13	וְ לִ֖ין	ve./Lin	and/ spend [the] night
 #12	وليطب	H9002/{H3190}	HC/Vqu3ms	#14	וְ יִטַ֥ב	ve./yi.Tav	so/ it may be good
 #13	قلبك.	{H3820A}/H9021\H9016	HNcmsc/Sp2ms	#15	לִבֶּֽ ךָ	li.Be./kha	heart/ your
@@ -10235,8 +10215,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #09	فقال	H9001/{H0559}\H9015	Hc/Vqw3ms	#06	וַ יֹּ֣אמֶר	va/i.Yo.mer	and/ he said
 #10	أبو	{H0001G}	HNcmsc	#07	אֲבִ֣י	'a.Vi	[the] father of
 #11	الفتاة:	H9009/{H5291}	HTd/Ncfsa	#08	הַֽ נַּעֲרָ֗ה	ha./na.'a.Rah	the/ young woman
-#12	أسند	{H5582}\H9014	HVqv2ms	#09	סְעָד	se.'od-	sustain
-		{H4994}	HTj	#10	נָא֙	na'	please
+#12	أسند	{H5582}\H9014; {H4994}	HVqv2ms; HTj	#09; 10	סְעָד; נָא֙	se.'od-; na'	sustain; please
 #13	قلبك،	{H3824}/H9021	HNcmsc/Sp2ms	#11	לְבָ֣בְ ךָ֔	le.Va.ve./kha	heart/ your
 #14	وتوانوا	H9001/{H4102}	Hc/Vtq3cp	#12	וְ הִֽתְמַהְמְה֖וּ	ve./hit.mah.me.Hu	and/ delay
 #15	حتى	{H5704}\H9014	HR	#13	עַד	'ad-	until
@@ -10260,12 +10239,12 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #11	أبو	{H0001G}	HNcmsc	#10	אֲבִ֣י	'a.Vi	[the] father of
 #12	الفتاة:	H9009/{H5291}	HTd/Ncfsa	#11	הַֽ נַּעֲרָ֡ה	ha./na.'a.Rah	the/ young woman
 #13	إن	{H2009}	HTj	#12	הִנֵּ֣ה	hi.Neh	here.
+		{H4994}	HTj	#13	נָא֩	na'	please
 #14	النهار	H9009/{H3117G}	HTd/Ncmsa	#15	הַ יּ֜וֹם	hai./Yom	the/ day
 #15 - #16	قد مال	{H7503}	HVqp3ms	#14	רָפָ֨ה	ra.Fah	it is sinking
 #17 - #18	إلى الغروب.	H9005/{H6150}	HR/Vqcc	#16	לַ עֲרֹ֗ב	la./'a.Ro	to/ become evening
-#19	بيتوا	{H3885A}\H9014	HVqv2mp	#17	לִֽינוּ	li.nu-	spend [the] night
-		{H4994}	HTj	#18	נָ֞א	na'	please
-#20	الآن.	{H4994}	HTj	#13	נָא֩	na'	please
+#19	بيتوا	{H3885A}\H9014; {H4994}	HVqv2mp; HTj	#17; 18	לִֽינוּ; נָ֞א	li.nu-; na'	spend [the] night; please
+#20	الآن.						
 #21	هوذا	{H2009}	HTj	#19	הִנֵּ֨ה	hi.Neh	here.
 #22	آخر	{H2583}	HVqcc	#20	חֲנ֤וֹת	cha.Not	to decline
 #23	النهار.	H9009/{H3117G}	HTd/Ncmsa	#21	הַ יּוֹם֙	hai./yOm	the/ day
@@ -10312,8 +10291,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #09	قال	H9001/{H0559}	Hc/Vqw3ms	#07	וַ יֹּ֨אמֶר	va/i.Yo.mer	and/ he said
 #10	الغلام	H9009/{H5288}	HTd/Ncmsa	#08	הַ נַּ֜עַר	ha./Na.'ar	the/ servant
 #11	لسيده:	{H0413}\H9014; {H0113}/H9023	HR; HNcmpc/Sp3ms	#09; 10	אֶל; אֲדֹנָ֗י ו	'el-; 'a.do.Na/v	to; master<s>/ his
-#12	تعال	{H1980K}/H9012\H9014	HVqv2ms/Sh	#11	לְכָ ה	le.kha/h-	come/ .
-		{H4994}	HTj	#12	נָּ֛א	na'	please
+#12	تعال	{H1980K}/H9012\H9014; {H4994}	HVqv2ms/Sh; HTj	#11; 12	לְכָ ה; נָּ֛א	le.kha/h-; na'	come/ .; please
 #13	نميل	H9002/{H5493I}	HC/Vqc1cp	#13	וְ נָס֛וּרָה	ve./na.Su.rah	so/ let us turn aside
 #14	إلى	{H0413}\H9014	HR	#14	אֶל	'el-	to
 #15	مدينة	{H5892B}\H9014	HNcfsc	#15	עִֽיר	'ir-	[the] city of
@@ -10558,8 +10536,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #08	لا	{H0408}\H9014	HTn	#08	אַל	'al-	may [you] not
 #09 - #10	يا إخوتي.	{H0251I}/H9020	HNcmpc/Sp1bs	#09	אַחַ֖ י	'a.Cha/i	O brothers/ my
 #11	لا	{H0408}\H9014	HTn	#10	אַל	'al-	may not
-#12 - #13	تفعلوا شرا.	{H7489A}	HVhi2mp	#11	תָּרֵ֣עוּ	ta.Re.'u	you do evil
-		{H4994}	HTj	#12	נָ֑א	Na'	please
+#12 - #13	تفعلوا شرا.	{H7489A}; {H4994}	HVhi2mp; HTj	#11; 12	תָּרֵ֣עוּ; נָ֑א	ta.Re.'u; Na'	you do evil; please
 #14	بعدما	{H0310A}	HAcmpc	#13	אַ֠חֲרֵי	'A.cha.rei	after
 		{H0834A}\H9014	HTr	#14	אֲשֶׁר	'a.Sher-	that
 #15	دخل	{H0935G}	HVqp3ms	#15	בָּ֞א	ba'	he has come
@@ -10580,8 +10557,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #02	ابنتي	{H1323G}/H9020	HNcfsc/Sp1bs	#02	בִתִּ֨ י	vi.T/i	daughter/ my
 #03	العذراء	H9009/{H1330}	HTd/Ncfsa	#03	הַ בְּתוּלָ֜ה	ha./be.tu.Lah	the/ virgin
 #04	وسريته.	H9002/{H6370}/H9023	HC/Ncfsc/Sp3ms	#04	וּ פִֽילַגְשֵׁ֗ הוּ	u./fi.lag.She./hu	and/ concubine/ his
-#05	دعوني	{H4994}	HTj	#06	נָּ֤א	na'	please
-#06	أخرجهما،	{H3318H}\H9014; {H0853}/H9038	HVhc1cs; HTo/Sp3mp	#05; 07	אוֹצִֽיאָה; אוֹתָ ם֙	'o.tzi.'ah-; 'o.Ta/m	let me bring out; <obj.>/ them
+#05 - #06	دعوني أخرجهما،	{H3318H}\H9014; {H4994}; {H0853}/H9038	HVhc1cs; HTj; HTo/Sp3mp	#05; 06; 07	אוֹצִֽיאָה; נָּ֤א; אוֹתָ ם֙	'o.tzi.'ah-; na'; 'o.Ta/m	let me bring out; please; <obj.>/ them
 #07	فأذلوهما	H9002/{H6031B}; {H0853}/H9038	HC/Vpv2mp; HTo/Sp3mp	#08; 09	וְ עַנּ֣וּ; אוֹתָ֔ ם	ve./'a.Nu; 'o.Ta/m	and/ afflict; <obj.>/ them
 #08	وافعلوا	H9002/{H6213A}	HC/Vqv2mp	#10	וַ עֲשׂ֣וּ	va./'a.Su	and/ do
 #09	بهما	H9005/{H9038}	HRd/Sp3mp	#11	לָ הֶ֔ם	la./Hem	to <the>/ them

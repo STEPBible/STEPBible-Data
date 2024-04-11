@@ -13,8 +13,10 @@ TTArabicSVD - Translation Tags etc. for Arabic SVD OT - STEPBible.org CC BY
 	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
 	===========================================================================
-Version 1.2.0: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
-Created 2024-03-25 Sami Abdel Malik. 
+Version 1.2.1: The Arabic text is that of Smith & Van Dyck (SVD), Translation 1865, "Public Domain" lacking diacritics and formating markers.
+Created 2024-04-10 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
 
 FIELD DESCRIPTIONS:																
 ===================
@@ -463,8 +465,7 @@ Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #03	الموآبية	H9009/{H4125}	HTd/Ngfsa	#03	הַ מּוֹאֲבִיָּ֜ה	ha./mo.'a.vi.Yah	the/ Moabite [woman]
 		{H0413}\H9014	HR	#04	אֶֽל	'el-	to
 #04	لنعمي:	{H5281}	HNpf	#05	נָעֳמִ֗י	no.'o.Mi	Naomi
-#05	دعيني	{H4994}	HTj	#07	נָּ֤א	na'	please
-#06	أذهب	{H1980G}\H9014	HVqc1cs	#06	אֵֽלְכָה	'e.le.khah-	let me go
+#05 - #06	دعيني أذهب	{H1980G}\H9014; {H4994}	HVqc1cs; HTj	#06; 07	אֵֽלְכָה; נָּ֤א	'e.le.khah-; na'	let me go; please
 #07 - #08	إلى الحقل	H9009/{H7704G}	HTd/Ncmsa	#08	הַ שָּׂדֶה֙	ha./sa.Deh	the/ field
 #09	وألتقط	H9002/{H3950}	HC/Vpc1cs	#09	וַ אֲלַקֳטָּ֣ה	va./'a.la.ko.Tah	so/ I may glean
 #10	سنابل	H9003/{H7641B}	HRd/Ncmpa	#10	בַ שִׁבֳּלִ֔ים	va./shi.bo.Lim	among the/ ears of grain
@@ -548,8 +549,7 @@ Rut.2.7
 ========
 Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
 #01	وقالت:	H9001/{H0559}	Hc/Vqw3fs	#01	וַ תֹּ֗אמֶר	va./To.mer	and/ she said
-#02	دعوني	{H4994}	HTj	#03	נָּא֙	na'	please
-#03	ألتقط	{H3950}\H9014	HVpc1cs	#02	אֲלַקֳטָה	'a.la.ko.tah-	let me glean
+#02 - #03	دعوني ألتقط	{H3950}\H9014; {H4994}	HVpc1cs; HTj	#02; 03	אֲלַקֳטָה; נָּא֙	'a.la.ko.tah-; na'	let me glean; please
 #04	وأجمع	H9001/{H0622}	Hc/Vqq1cs	#04	וְ אָסַפְתִּ֣י	ve./'a.saf.Ti	and/ I will gather
 #05 - #06	بين الحزم	H9003/{H6016A}	HRd/Ncmpa	#05	בָֽ עֳמָרִ֔ים	vo./'o.ma.Rim	among the/ sheaves
 #07	وراء	{H0310A}	HAcmpc	#06	אַחֲרֵ֖י	'a.cha.Rei	behind
