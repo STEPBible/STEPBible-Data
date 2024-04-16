@@ -45,9 +45,9 @@ Morph	These were created by Tyndale scholars as a simple grammatical value of th
 	When Gentilics related to a person the STEP_LexicalTag points to the Person eg Danites => Dan.  When Gentilics point to a place, the STEP_LexicalTag points to that place, eg Gileadites => Gilead. When there is no numbered tag for the person or place, we probably aren't sure what it is, so the STEP_LexicalTag doesn't have anywhere different to point, eg. Girgashites. Some very common Gentilics (eg Levite) have gained a meaning of their own which may be related to a person but much less so - so the STEP_LexicalTag does not redirect to the entry for that person. 
 	Odd ones: Jew=N:N-G-P, Jewish=N:A, Jewess+Ammonitess=N:N-G-P-F, Canaanite-trader=N:N-G-P / N:N-G-T, Chaldean-magi=N:N-G-L / N:N-G-T, Nephusim=N:N-G-T, Rephaim=N:N-G-P / N:N-G-T, Shulamite+Shunammite+Carmelitess+Jezreelitess=N:N-F-L
 
-Meaning	These are based on the Abridged BDB by Online Bible, and edited to conform with the extended Strongs. They are for guidence only. Permission should be gained from Online Bible before these are applied in any project. 
+Meaning	These are based on the Abridged BDB by Online Bible,  © Larry Pierce of OnlineBible.net <olbsupport@onlinebible.net>. They are for guidance only. Permission should be gained from Online Bible before these are applied in any project. 
 	These definitions refer to J. Green's A Concise Lexicon of the Biblical Languages (CLBL) and Harris, Archer, & Waltke's Theological Wordbook of the Old Testament (TWOT),). 
-	The entries were edited to align with the eStrongs by Tyndale House Cambridge. Alignment with dStrongs is not yet completed. 
+	These have been edited to conform with OpenScripture's extended Strongs by Tyndale House Cambridge. Alignment with dStrongs is not yet completed. 
 
 
 eStrong#	dStrong	uStrong	Hebrew	Transliteration	Morph	Gloss	Meaning
