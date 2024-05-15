@@ -32,25 +32,25 @@ Bibles in the same format as [Crosswire modules](https://www.crosswire.org/sword
 * **[TTESV - Translators Tags for ESV](https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles)**  
 Tags for Greek & Hebrew Extended Strongs (compatible with original Strongs) for the translated text of the ESV.   
 
-* **[TOTHT - Translators OT Hebrew Tagged text](https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT)**        
-The Leningrad codex based on Westminster via OpenScriptures, with full morphological and semantic tags for all words, prefixes and suffixes. Semantic tags use the extended Strongs linked to BDB by OS, is backwardly compatible with simple Strongs tags and includes all affixes (as defined in TBESH). Morphological tags are from ETCBC converted to the format of OS (similar to Westminster) with different morphology for Ketiv/Qere when needed.
+* **[TAHOT - Translators Amalgamated Hebrew OT](https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT)**        
+The Leningrad codex based on Westminster via OpenScriptures, corrected from colour scans, with full morphological and semantic tags for all words, prefixes and suffixes. Semantic tags using the disambiguated Strongs is backwardly compatible with simple Strongs tags and includes all affixes (as defined in TBESH). Morphology is based on ETCBC converted to the format of OS (similar to Westminster) with different morphology for Ketiv/Qere when needed. LXX additions included as Hebrew from BHS/BHK apparatus. 
 
-* **[TAGNT - Translators Amalgamated Greek NT in Sheets](https://docs.google.com/spreadsheets/d/1Uri4ehqXnzUa97uvH-1-C022708HhLQ1a541Hsnlt70/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT)**  
+* **[TAGNT - Translators Amalgamated Greek NT in Sheets](https://docs.google.com/spreadsheets/d/1Uri4ehqXnzUa97uvH-1-C022708HhLQ1a541Hsnlt70/preview)** or **[data](https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT)**  
 Greek text that includes all the words in NA27/28, TR and other major editions (SBLGNT, Treg, Byz, WH, THGNT). Each word is marked with the editions that contain it, positional variants, and meaning variants. All words and meaning variants are tagged lexically (disambiguated Strong linked to LSJ) and morphologically (Robinson based on Tauber with missing details) plus context-sensitive translations Punctuation is based on THGNT with spellings from NA28 or other editions for words not in NA27/28.       
 
-* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**  
+* **[TBESH - Translators Brief lexicon of Extended Strongs for Hebrew in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** or **[data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**  
 Abridged BDB linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)   
 
-* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**  
+* **[TBESG - Translators Brief lexicon of Extended Strongs for Greek in Sheets](https://docs.google.com/spreadsheets/d/1o8kq_RFR1yg-RJsaije3rp0XiFOJygyfyXf4EOlEtWU/preview)** or **[data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**  
 Brief definitions for all Greek Bible words (NT, LXX, Apoc, & variants) using corrected Abbott-Smith when available, completed with other similar definitions. Backwardly compatible with original Strongs.  
 
-* **[TFLSJ - Translators Formatted full LSJ Bible lexicon up to G5624 in Sheets](https://docs.google.com/spreadsheets/d/1wbWm5FhUgcS8aBZ1s2u0cmnWKO7t-CuzE0ZaKsBtRpw/preview) and [Extra entries](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/preview)**  **[or data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**      
+* **[TFLSJ - Translators Formatted full LSJ Bible lexicon up to G5624 in Sheets](https://docs.google.com/spreadsheets/d/1wbWm5FhUgcS8aBZ1s2u0cmnWKO7t-CuzE0ZaKsBtRpw/preview) and [Extra entries](https://docs.google.com/spreadsheets/d/1T4nUbF65wXMN1fP6yeZ_ZPiDub63qFJHIOaNRlBSle8/preview)** or **[data](https://github.com/STEPBible/STEPBible-Data/tree/master/Lexicons)**      
 Full LSJ entries for all Bible words (NT, LXX, Apoc & variants), formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (backwardly compatible with original Strongs).     
 
-* **[TIPNR - Translators Individualised Proper Names with all References in Sheets](https://docs.google.com/spreadsheets/d/1ye5ujH_YutNfz1yYy7aiM_TBz3vMVACPpqKgNz0iH0Y/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data)**  
-Every name in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places. Each form of the names for each individual includes exhaustive refs for where that individual is named with data of their spouses, siblings and offspring or the places' geolocation (based on OpenBible).    
+* **[TIPNR - Translators Individualised Proper Names with all References in sheets](https://docs.google.com/spreadsheets/d/1ye5ujH_YutNfz1yYy7aiM_TBz3vMVACPpqKgNz0iH0Y/preview)** or **[data](https://github.com/STEPBible/STEPBible-Data)**  
+Every proper noun in the Bible, linked to all Hebrew & Greek forms of that name and separated into individual people & places & things. Each form of the names includes exhaustive refs where that individual is named. Each person has data of their parents, partners, siblings and offspring and places places have geolocation (based on OpenBible). Every individual has a description in brief, short and article length (created by Claude 3 AI)   
 
-* **[TVTMS - Translators Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others in Sheets](https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/preview)** **[or data](https://github.com/STEPBible/STEPBible-Data)** 
+* **[TVTMS - Translators Versification Traditions with Methodology for Standardisation: Eng+Heb+Lat+Grk+Others in Sheets](https://docs.google.com/spreadsheets/d/1mxUu7HJ5DScA7wOQLd-qFUMuG_MHnWjM6KxJ79qQs9Q/preview)** or **[data](https://github.com/STEPBible/STEPBible-Data)** 
 All the versification differences in the OT traditional texts in Hebrew, Latin and Greek, and NT early versification, compared with English standard (defined by NRSV which is virtually identical to KJV). Bible translations have an almost infinite variety of versifications because they may follow (for example) Latin in several sections, Hebrew in a few and English most of the time. The Methodology provides simple rules for every section, such as "if this chapter has 29 verses, it is using Greek versification". Using this, a whole Bible can be reversified according to English or traditional Hebrew or Greek or Latin versification, or compared with Bibles using that versification.   
 
 * **[TEHMC - Translators Expansion of Hebrew Morphology Codes](https://github.com/STEPBible/STEPBible-Data)**  
@@ -63,17 +63,20 @@ Greek morphology codes with expanded explanations in terms of parsing, meaning a
 The followins datasets are still being finished and/or being checked. 
 If you see data that you have need of which isn't yet available, please contact us and perhaps you can become part of the checking process.  
 
-* **TOTGT - Translators OT Greek Tagged text**   
-LXX text with later Ecclesiastical variants. The base text is Rhalfs with variants from the Apostolic Bible (based on Sixtine, Aldine and Complutensian texts). Both have been tagged to LSJ (compatible with extended Strongs) and most of morphology has been tagged (based on CCAT) but variant tagging need completing.    
+* **TAGOT - Translators Amalgamated Greek OT**   
+LXXo (oldest texts from Rahlfs), LLXn (newer texts from Sweet), LXXe (ecclesiastic texts based on Apostolic Bible which used Sixtine, Aldine and Complutensian texts). All tagged to LSJ using disambiguated Hebrew numbers for names only in the OT, both backwardly compatible Strongs. Morpology based on CCAT which is extended to text that isn't in Rahlfs.    
 
 * **TFBDB - Translators Formatted full BDB lexicon**   
 Full BDB formatted for easy reading (all bibliographic data hidden as hover-text) linked to extended Strongs (compatible with OpenScriptures and backwardly compatible with original Strongs)    
 
 * **TOTMM - Translators OT Manuscripts and Meanings**  
-Translation, Hebrew form and witnesses for each variant that affects the meaning of the text, as determined by Barthélemy's UBS committee. Also, alternate meanings found in standard translations. Shown as alternate renderings of a base text (ESV 2011).    
+Translation, Hebrew form and witnesses for each variant that affects the meaning of the text, as determined by Barthélemy's UBS committee. Also, alternate meanings found in standard translations. Shown as alternate renderings of a base text (ESV).    
 
 * **TNTMM - Translators NT Manuscripts and Meanings**  
-Translation, Greek form and witnesses up to 400 AD for each variant that affects the meaning of the text, as determined by the UBS apparatus. Also, alternate meanings found in standard translations. Shown as alternate renderings of a base text (ESV 2011).   
+Translation, Greek form and witnesses up to 400 AD for each variant that affects the meaning of the text, as determined by the UBS apparatus. Also, alternate meanings found in standard translations. Shown as alternate renderings of a base text (ESV).   
+
+* **TBCWG - Translators Biblical Concept Word Groups **  
+Concepts (expanded from Unfolding Word) describing Biblical background and usage (created by Claude 3 AI) for non-overlapping groups of disambiguated Hebrew & Greek words in synonym groups with distinctions (described by Claude 3 AI). 
 
 # Data format 
 Data is in plain unicode text (UTF-8) with fields separated by tabs, so that they can be loaded into any text editor or spreadsheet.   
