@@ -1,0 +1,2209 @@
+TTArabicSVD - Translation Tags etc. for the OT of the Arabic SVD Bible - STEPBible.org CC BY-SA 4.0
+كلمات اللغات الاصلية لترجمة فانديك للعهد القديم
+==================================================================================
+Arabic SVD Bible was translated from original languages by Drs. Eli Smith & Cornelius Van Dyck, 1865.
+Digitisation, formatting and diacritics by "Arabic Bible Outreach Ministry" https://www.arabicbible.com/
+Data created using Translators Amalgamated Hebrew OT - STEPBible.org CC BY 4.0 https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT
+=================================================================================
+This work is made available under the Creative Commons Attribution-Share Alike 4.0 International License (CC BY-SA).
+To view a copy of this license, visit CC BY-SA 4.0 Deed
+This licence allows you to copy and redistribute this “unmodified” work as long as
+you keep the names “Arabic Bible Outreach Ministry” and “STEPBible.org” intact.
+
+If you modify a copy of this work,
+you must indicate on the modified work what changes you have made and attribute the work as follows:
+The original work by STEPBible.org, and Arabic Bible Outreach Ministry,
+is available for free at "STEPBible Arabic Bibles" https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles/Arabic%20Bibles
+
+Error reporting: Please report all errors at Feedback@STEPBible.org
+===========================================================================
+الكتاب المقدس
+ترجم من اللغات الاصلية بواسطة الدكتور عالي سميث، والدكتور كرنيليوس فان الآن فانديك، تم عام م١٨٦٥م
+https://www.arabicbible.com/  "الرقمنة والتنسيق وعلامات التشكيل قامت بها "الخدمة العربية للكرازة بالانجيل 
+STEEPBible.org ربط الكلمات بارقم سترونج قامت بها 
+===========================================================================
+(CC BY-SA) أتيح هذا العمل بموجب الترخيص الدولي 
+
+بموجب الشروط الواردة في هذا الترخيص الدولي، يجوز نسخ وإعادة توزيع هذا العمل دون أي تعديل
+طالما يبقي ذكر اسماء:
+"الخدمة العربية للكرازة بالانجيل"
+"STEPBible.org"
+واضحا
+
+إذا أجري أي تعديل لنسخة من هذا العمل
+فلابد من الإشارة في النسخة المعدلة إلى التغييرات التي أجريت على الأصل ووصف العمل المعدل بما يلي
+العمل الأصلي بواسطة "الخدمة العربية للكرازة بالانجيل"
+و "STEPBible.org"
+متوفر للتحميل المجاني من الرابط الالكتروني
+https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles/Arabic%20Bibles
+الإبلاغ عن الأخطاء: يرجى الإبلاغ عن أي أخطاء هنا
+Feedback@STEPBible.org
+===========================================================================
+
+Version 1.2.1:
+Created 2024-07-27 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
+
+FIELD DESCRIPTIONS:																
+===================
+1. Ara W#: Two digits representing the word number in the SVD Arabic verse.
+2. Arabic: SVD Arabic text words. 
+3. Strongs: Lexical tags for each element of the Hebrew words, including prefixes and suffixes, with the Root in {curly brackets}. A "+" indicates the same tag also covers the next Hebrew word. These disambiguated Strong numbers (dStrong)  are defined at TinyURL.com/STEP-Disambiguated. 
+4. Grammar: Morphology is from ETCBC, with Ketiv forms parsed by Tyndale scholars - see e.g. Deu.33.2-15.   For the source of ETCBC and conversion method by Tyndale House, see https://goo.gl/yKaXQq#HebMorph2															
+			Morphology codes follow the form defined by OpenScriptures at http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html#vt with some adaptations - see TinyURL.com/HebMorph															
+5. Heb w#:	Two digits representing the word number of the corresponding Hebrew word in the Hebrew verse. 
+			Verse number of the Arabic text does not always match the verse number of the corresponding Hebrew Text.
+			In such cases, the Hebrew word number is prefixed with the actual Hebrew verse number.
+			See Psa.3:1 for an example. 
+			The Hebrew word numbers may have a suffix indicating the source of the word. Word numbers without a suffix, are from Leningrad manuscript, otherwise the suffix means the following sources:
+			R= restored text based on Leningrad parallels - ie Jos.21.36-37 from 1Ch.6.63-64 and Neh.7.67b from Ezr.2.66																
+			Q= "a Scribal corrections" ie the Qere ('spoken') corrections by scribes. This is made up of the letters in the margin and the pointing in the text.																
+				K= "the uncorrected text" - ie the Ketiv  ('written') is noted as a variant. This is made up of the letters in the text, pointed by Tyndale scholars. 																
+				L - the letters of K with pointing of Q, as found in Leningrad is recorded as a spelling variant. 																
+			 - eg Gen.27.3 L= צָיִדה, K= צֵידָה ('food'), Q= צָיִד ('wild game')		
+			X= "based on Greek sources" - ie extra words based on LXX, expressed in Hebrew as in the apparatus of BHS pr BHK - eg 1Sa.13.1 Saul was שְׁלֹשִׁים שָׁנָ֖ה ('a thirty year-old') not שָׁנָ֖ה ('a year-old') 																
+			If the word is not in the Leningrad text, its number is shown as four digits. This is to show restored text between two words.
+			See Neh.7.68 for an example.
+6. Hebrew	Full Hebrew including pointing with space separating prefixes and suffixes from the root word.
+7. Transliteration: Uses upper case to indicate the stress. It is based on Berean Study Bible. 
+8. Word-by-word: A word by word translation of the Hebrew.Forward slash ( / ) separates the translation to mirror the prefixes, root and suffixes in Hebrew. This means the order of English words follows the order within the Hebrew word.  															
+
+Note: Descriptions for fields 3, 4, 5(sources), 6 and 8 are taken from Translators Amalgamated Hebrew OT - STEPBible.org CC BY.
+==================================================================================
+
+Lam.1.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَيْفَ	{H0349B}\H9015	HTi	#01	אֵיכָ֣ה	'ei.Khah	how.
+#02	جَلَسَتْ	{H3427}	HVqp3fs	#02	יָשְׁבָ֣ה	ya.she.Vah	she sits
+#03	وَحْدَهَا	{H0910}	HNcmsa	#03	בָדָ֗ד	va.Dad	alone
+#04	الْمَدِينَةُ	H9009/{H5892B}	HTd/Ncfsa	#04	הָ עִיר֙	ha./'Ir	the/ city
+#05	الْكَثِيرَةُ	{H7227A}	HAafsc	#05	רַבָּ֣תִי	ra.Ba.ti	great of
+#06	الشَّعْبِ.	{H5971A}	HNcmsa	#06	עָ֔ם	'Am	people
+#07 - #08	كَيْفَ صَارَتْ	{H1961}	HVqp3fs	#07	הָיְתָ֖ה	ha.ye.Tah	she has become
+#09	كَأَرْمَلَةٍ	H9004/{H0490}	HR/Ncfsa	#08	כְּ אַלְמָנָ֑ה	ke./'al.ma.Nah	like/ a widow
+#10	الْعَظِيمَةُ	{H7227A}	HAafsc	#09	רַּבָּ֣תִי	ra.Ba.ti	[one] great
+#11 - #12	فِي الأُمَمِ.	H9003/{H1471A}	HRd/Ncmpa	#10	בַ גּוֹיִ֗ם	va./go.Yim	among the/ nations
+#13	السَّيِّدَةُ	{H8282}	HNcfsc	#11	שָׂרָ֙תִי֙	sa.Ra.ti	a princess
+#14 - #15	في الْبُلْدَانِ	H9003/{H4082}	HRd/Ncfpa	#12	בַּ מְּדִינ֔וֹת	ba./me.di.Not	among the/ provinces
+#16	صَارَتْ	{H1961}	HVqp3fs	#13	הָיְתָ֖ה	ha.ye.Tah	she has become
+#17 - #18	تَحْتَ الْجِزْيَةِ.	H9005/{H4522}\H9016\ \H9018	HR/Ncmsa	#14	לָ מַֽס	la./Mas	<into>/ forced labor
+
+Lam.1.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	تَبْكِي	{H1058}	HVqaa	#01	בָּכ֨וֹ	ba.Kho	bitterly <weep>
+#02 - #03	في اللَّيْلِ	H9003/{H3915}	HRd/Ncmsa	#03	בַּ לַּ֗יְלָה	ba./Lay.lah	in the/ night
+#04	بُكَاءً،	{H1058}	HVqi3fs	#02	תִבְכֶּ֜ה	tiv.Keh	she weeps
+#05	وَدُمُوعُهَا	H9002/{H1832}/H9024	HC/Ncfsc/Sp3fs	#04	וְ דִמְעָתָ הּ֙	ve./dim.'a.Ta/h	and/ tear[s]/ her
+#06	علَى	{H5921A}	HR	#05	עַ֣ל	'al	[are] on
+#07	خَدَّيْهَا.	{H3895H}/H9024	HNcmsc/Sp3fs	#06	לֶֽחֱיָ֔ הּ	le.che.Ya/h	cheek/ her
+#08	لَيْسَ	{H0369}\H9014	HNcmsc	#07	אֵֽין	'ein-	not
+#09	لَهَا	H9005/{H9034}	HR/Sp3fs	#08	לָ֥ הּ	la/h	[belongs] to/ her
+#10	مُعَزّ	{H5162G}	HVprmsa	#09	מְנַחֵ֖ם	me.na.Chem	a comforter
+#11 - #12	مِنْ كُلِّ	H9006/{H3605}\H9014	HR/Ncmsc	#10	מִ כָּל	mi./kol	from/ all
+#13	مُحِبِّيهَا.	{H0157G}/H9034	HVqrmpc/Sp3fs	#11	אֹהֲבֶ֑י הָ	'o.ha.Vei./ha	lovers/ her
+#14	كُلُّ	{H3605}\H9014	HNcmsc	#12	כָּל	kol-	all
+#15	أَصْحَابِهَا	{H7453}/H9024	HNcmpc/Sp3fs	#13	רֵעֶ֙י הָ֙	re.'Ei./ha	friends/ her
+#16	غَدَرُوا	{H0898}	HVqp3cp	#14	בָּ֣גְדוּ	Ba.ge.du	they have dealt treacherously
+#17	بِهَا،	H9003/{H9034}	HR/Sp3fs	#15	בָ֔ הּ	Va/h	with/ her
+#18	صَارُوا	{H1961}	HVqp3cp	#16	הָ֥יוּ	Ha.yu	they have become
+#19	لهَا	H9005/{H9034}	HR/Sp3fs	#17	לָ֖ הּ	la/h	of/ her
+#20	أَعْدَاءً.	H9005/{H0341}\H9016\ \H9018	HR/Vqrmpa	#18	לְ אֹיְבִֽים	le./'o.ye.Vim	<into>/ enemies
+
+Lam.1.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	قَد سُبِيَتْ	{H1540K}	HVqp3fs	#01	גָּֽלְתָ֨ה	gal.Tah	she has gone into exile
+#03	يَهُوذَا	{H3063G}	HNpl	#02	יְהוּדָ֤ה	ye.hu.Dah	Judah
+#04 - #05	مِنَ الْمَذَلَّةِ	H9006/{H6040}	HR/Ncmsa	#03	מֵ עֹ֙נִי֙	me./'O.ni	from/ affliction
+#06 - #07	وَمِنْ كَثْرَةِ	H9002/H9006/{H7230}	HC/R/Ncmsc	#04	וּ מֵ רֹ֣ב	u./me./Ro	and/ from/ an abundance of
+#08	الْعُبُودِيَّةِ.	{H5656G}	HNcfsa	#05	עֲבֹדָ֔ה	'a.vo.Dah	servitude
+#09	هِيَ	{H1931}	HPp3fs	#06	הִ֚יא	hi'	her
+#10	تَسْكُنُ	{H3427}	HVqp3fs	#07	יָשְׁבָ֣ה	ya.she.Vah	she dwells
+#11 - #12	بَيْنَ الأُمَمِ.	H9003/{H1471A}	HRd/Ncmpa	#08	בַ גּוֹיִ֔ם	va./go.Yim	among the/ nations
+#13	لاَ	{H3808}	HTn	#09	לֹ֥א	lo'	not
+#14	تَجِدُ	{H4672}	HVqp3fs	#10	מָצְאָ֖ה	ma.tze.'Ah	she has found
+#15	رَاحَةً.	{H4494}	HNcmsa	#11	מָנ֑וֹחַ	ma.No.ach	a resting place
+#16 - #17	قَدْ أَدْرَكَهَا	{H5381}/H9034	HVhp3cp/Sp3fs	#14	הִשִּׂיג֖וּ הָ	hi.si.Gu./ha	they have overtaken/ her
+#18	كُلُّ	{H3605}\H9014	HNcmsc	#12	כָּל	kol-	all
+#19	طَارِدِيهَا	{H7291}/H9034	HVqrmpc/Sp3fs	#13	רֹדְפֶ֥י הָ	ro.de.Fei./ha	pursuers/ her
+#20	بَيْنَ	{H0996H}	HAcmsc	#15	בֵּ֥ין	bein	between
+#21	الضِّيقَاتِ.	H9009/{H4712}\H9016\ \H9018	HTd/Ncmpa	#16	הַ מְּצָרִֽים	ha./me.tza.Rim	the/ narrow places
+
+Lam.1.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	طُرُقُ	{H1870K}	HNcbpc	#01	דַּרְכֵ֨י	dar.Khei	[the] roads of
+#02	صِهْيَوْنَ	{H6726}	HNpl	#02	צִיּ֜וֹן	tzi.Yon	Zion
+#03	نَائِحَةٌ	{H0057}	HAafpa	#03	אֲבֵל֗וֹת	'a.ve.Lot	[are] mourning
+#04	لِعَدَمِ	H9006/{H1097}	HR/Ncmsc	#04	מִ בְּלִי֙	mi./be.Li	because/ not
+#05 - #06	الآتِينَ إِلَى	{H0935G}	HVqrmpc	#05	בָּאֵ֣י	ba.'Ei	[those who] come
+#07	الْعِيدِ.	{H4150H}	HNcmsa	#06	מוֹעֵ֔ד	mo.'Ed	<of> an appointed feast
+#08	كُلُّ	{H3605}\H9014	HNcmsc	#07	כָּל	kol-	all
+#09	أَبْوَابِهَا	{H8179G}/H9024	HNcmpc/Sp3fs	#08	שְׁעָרֶ֙י הָ֙	she.'a.Rei./ha	gates/ her
+#10	خَرِبَةٌ.	{H8074G}	HVqrmpa	#09	שֽׁוֹמֵמִ֔ין	sho.me.Min	[are] desolate
+#11	كَهَنَتُهَا	{H3548}/H9024	HNcmpc/Sp3fs	#10	כֹּהֲנֶ֖י הָ	ko.ha.Nei./ha	priests/ her
+#12	يَتَنَهَّدُونَ.	{H0584}	HVNrmpa	#11	נֶאֱנָחִ֑ים	ne.'e.na.Chim	[are] groaning
+#13	عَذَارَاهَا	{H1330}/H9024	HNcfpc/Sp3fs	#12	בְּתוּלֹתֶ֥י הָ	be.tu.lo.Tei./ha	virgins/ her
+#14	مُذَلَّلَةٌ	{H3013}	HVNrfpa	#13	נּוּג֖וֹת	nu.Got	[are] grieving
+#15	وَهِيَ	H9002/{H1931}	HC/Pp3fs	#14	וְ הִ֥יא	ve./Hi'	and/ she
+#16 - #17	فِي مَرَارَةٍ.	{H4751}\H9014; H9005/{H9034}\H9016\ \H9018	HVqp3ms; HR/Sp3fs	#15; #16	מַר; לָֽ הּ	mar-; La/h	it is bitter; to/ her
+
+Lam.1.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	صَارَ	{H1961}	HVqp3cp	#01	הָי֨וּ	ha.Yu	they have become
+#02	مُضَايِقُوهَا	{H6862C}/H9024	HNcmpc/Sp3fs	#02	צָרֶ֤י הָ	tza.Rei./ha	opponents/ her
+#03	رَأْسًا.	H9005/{H7218H}	HR/Ncmsa	#03	לְ רֹאשׁ֙	le./roSh	<into>/ a head
+#04	نَجَحَ	{H7951}	HVqp3cp	#05	שָׁל֔וּ	sha.Lu	they are at ease
+#05	أَعْدَاؤُهَا	{H0341}/H9024	HVqrmpc/Sp3fs	#04	אֹיְבֶ֣י הָ	'o.ye.Vei./ha	enemies/ her
+#06	لأَنَّ	{H3588A}\H9014	HTc	#06	כִּֽי	ki-	for
+#07	الرَّبَّ	{H3068G}	HNpt	#07	יְהוָ֥ה	Yah.weh	Yahweh
+#08 - #09	قَدْ أَذَلَّهَا	{H3013}/H9034	HVhp3ms/Sp3fs	#08	הוֹגָ֖ הּ	ho.Ga/h	he has caused grief/ to her
+#10	لأَجْلِ	{H5921A}	HR	#09	עַ֣ל	'al	on
+#11	كَثْرَةِ	{H7230}\H9014	HNcmsc	#10	רֹב	rov-	[the] multitude of
+#12	ذُنُوبِهَا.	{H6588}/H9024	HNcmpc/Sp3fs	#11	פְּשָׁעֶ֑י הָ	pe.sha.'Ei./ha	transgressions/ her
+#13	ذَهَبَ	{H1980G}	HVqp3cp	#13	הָלְכ֥וּ	ha.le.Khu	they have gone
+#14	أَوْلاَدُهَا	{H5768}/H9024	HNcmpc/Sp3fs	#12	עוֹלָלֶ֛י הָ	o.la.Lei./ha	children/ her
+#15 - #16	إِلَى السَّبْيِ	{H7628A}	HNcmsa	#14	שְׁבִ֖י	she.Vi	captivity
+#17	قُدَّامَ	H9005/{H6440G}\H9014	HR/Ncmpc	#15	לִ פְנֵי	li/f.nei-	<to>/ before
+#18	الْعَدُوِّ.	{H6862C}\H9016\ \H9018	HNcmsa	#16	צָֽר	Tzar	an opponent
+
+Lam.1.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	وَقَدْ خَرَجَ	H9001/{H3318G}	Hc/Vqw3ms	#01	וַ יֵּצֵ֥א	va/i.ye.Tze'	and/ it has gone out
+#03 - #04	مِنْ بِنْتِ	H9006/{H1323G}	HR/Ncfsc	#03Q(K)	מִ בַּת	mi./vat-	from/ [the] daughter of
+#05	صِهْيَوْنَ	{H6726}	HNpl	#04	צִיּ֖וֹן	tzi.Yon	Zion
+#06	كُلُّ	{H3605}\H9014	HNcmsc	#05	כָּל	kol-	all
+#07	بَهَائِهَا.	{H1926}/H9024	HNcmsc/Sp3fs	#06	הֲדָרָ֑ הּ	ha.da.Ra/h	splendor/ her
+#08	صَارَتْ	{H1961}	HVqp3cp	#07	הָי֣וּ	ha.Yu	they have become
+#09	رُؤَسَاؤُهَا	{H8269}/H9024	HNcmpc/Sp3fs	#08	שָׂרֶ֗י הָ	sa.Rei./ha	princes/ her
+#10	كَأَيَائِلَ	H9004/{H0354}	HR/Ncmpa	#09	כְּ אַיָּלִים֙	ke./'ai.ya.Lim	like/ deer
+#11	لاَ	{H3808}\H9014	HTn	#10	לֹא	lo'-	[which] not
+#12	تَجِدُ	{H4672}	HVqp3cp	#11	מָצְא֣וּ	ma.tze.'U	they have found
+#13	مَرْعًى،	{H4829}	HNcmsa	#12	מִרְעֶ֔ה	mir.'Eh	pasture
+#14	فَيَسِيرُونَ	H9001/{H1980G}	Hc/Vqw3mp	#13	וַ יֵּלְכ֥וּ	va/i.ye.le.Khu	and/ they have gone
+#15	بِلاَ	H9003/{H3808}\H9014	HR/Tn	#14	בְ לֹא	ve./lo'-	with/ not
+#16	قُوَّةٍ	{H3581B}	HNcmsa	#15	כֹ֖חַ	Kho.ach	strength
+#17	أَمَامَ	H9005/{H6440G}	HR/Ncmpc	#16	לִ פְנֵ֥י	li/f.Nei	<to>/ before
+#18	الطَّارِدِ.	{H7291}\H9016\ \H9018	HVqrmsa	#17	רוֹדֵֽף	ro.Def	a pursuer
+
+Lam.1.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	قَدْ ذَكَرَتْ	{H2142}	HVqp3fs	#01	זָֽכְרָ֣ה	za.khe.Rah	she has remembered
+#03	أُورُشَلِيمُ	{H3389}	HNpl	#02	יְרוּשָׁלִַ֗ם	ye.ru.sha.Lim	Jerusalem
+#04 - #05	فِي أَيَّامِ	{H3117G}	HNcmpc	#03	יְמֵ֤י	ye.Mei	[the] days of
+#06	مَذَلَّتِهَا	{H6040}/H9024	HNcmsc/Sp3fs	#04	עָנְיָ הּ֙	'a.ne.Ya/h	affliction/ her
+#07	وَتَطَوُّحِهَا	H9002/{H4788}/H9024	HC/Ncmpc/Sp3fs	#05	וּ מְרוּדֶ֔י הָ	u./me.ru.Dei./ha	and/ homelessness<es>/ her
+#08	كُلَّ	{H3605}	HNcmsc	#06	כֹּ֚ל	kol	all
+#09	مُشْتَهَيَاتِهَا	{H4262}/H9024	HNcmpc/Sp3fs	#07	מַחֲמֻדֶ֔י הָ	ma.cha.mu.Dei./ha	precious things/ her
+#10	الَّتِي	{H0834A}	HTr	#08	אֲשֶׁ֥ר	'a.Sher	which
+#11	كَانَتْ	{H1961}	HVqp3cp	#09	הָי֖וּ	ha.Yu	they were
+#12 - #13	فِي أَيَّامِ	H9006/{H3117G}	HR/Ncmpc	#10	מִ֣ ימֵי	Mi./mei	from/ days of
+#14	الْقِدَمِ.	{H6924H}	HNcmsa	#11	קֶ֑דֶם	Ke.dem	antiquity
+#15 - #16	عِنْدَ سُقُوطِ	H9003/{H5307G}	HR/Vqcc	#12	בִּ נְפֹ֧ל	bi/n.Fol	when/ fell
+#17	شَعْبِهَا	{H5971A}/H9024	HNcmsc/Sp3fs	#13	עַמָּ֣ הּ	'a.Ma/h	people/ her
+#18	بِيَدِ	H9003/{H3027H}\H9014	HR/Ncbsc	#14	בְּ יַד	be./yad-	in/ [the] hand of
+#19	الْعَدُوِّ	{H6862C}	HNcmsa	#15	צָ֗ר	Tzar	an opponent
+#20	وَلَيْسَ	H9002/{H0369}	HC/Ncmsc	#16	וְ אֵ֤ין	ve./'Ein	and/ not
+#21 - #22	مَنْ يُسَاعِدُهَا.	{H5826}; H9005/{H9034}	HVqrmsa; HR/Sp3fs	#17; #18	עוֹזֵר֙; לָ֔ הּ	o.Zer; La/h	a helper; [belonged] to/ her
+#23	رَأَتْهَا	{H7200G}/H9034	HVqp3cp/Sp3fs	#19	רָא֣וּ הָ	ra.'U./ha	they saw/ her
+#24	الأَعْدَاءُ.	{H6862C}	HNcmpa	#20	צָרִ֔ים	tza.Rim	opponents
+#25	ضَحِكُوا	{H7832}	HVqp3cp	#21	שָׂחֲק֖וּ	sa.cha.Ku	they laughed
+#26	عَلَى	{H5921A}	HR	#22	עַ֥ל	'al	at
+#27	هَلاَكِهَا.	{H4868}/H9024\H9016\ \H9018	HNcmsc/Sp3fs	#23	מִשְׁבַּתֶּֽ הָ	mish.ba.Te./ha	annihilation<s>/ her
+
+Lam.1.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	قَدْ أَخْطَأَتْ	{H2398}	HVqp3fs	#02	חָֽטְאָה֙	cha.te.'Ah	she has sinned
+#03	أُورُشَلِيمُ	{H3389}	HNpl	#03	יְר֣וּשָׁלִַ֔ם	ye.Ru.sha.Lim	Jerusalem
+#04	خَطِيَّةً،	{H2399}	HNcmsa	#01	חֵ֤טְא	chet'	sin
+#05 - #06	مِنْ أَجْلِ	{H5921A}\H9014	HR	#04	עַל	'al-	there-
+#07	ذلِكَ	{H3651C}	HD	#05	כֵּ֖ן	ken	-fore
+#08	صَارَتْ	{H1961}	HVqp3fs	#07	הָיָ֑תָה	ha.Ya.tah	she has become
+#09	رَجِسَةً.	H9005/{H5206}	HR/Ncfsa	#06	לְ נִידָ֣ה	le./ni.Dah	<into>/ impurity
+#10	كُلُّ	{H3605}\H9014	HNcmsc	#08	כָּֽל	kal-	all
+#11	مُكَرِّمِيهَا	{H3513G}/H9034	HVprmpc/Sp3fs	#09	מְכַבְּדֶ֤י הָ	me.kha.be.Dei./ha	[those who] honored/ her
+#12	يَحْتَقِرُونَهَا	{H2107}/H9034	HVhp3cp/Sp3fs	#10	הִזִּיל֙וּ הָ֙	hi.zi.Lu./ha	they despise/ her
+#13	لأَنَّهُمْ	{H3588A}\H9014	HTc	#11	כִּי	ki-	for
+#14	رَأَوْا	{H7200G}	HVqp3cp	#12	רָא֣וּ	ra.'U	they have seen
+#15	عَوْرَتَهَا،	{H6172}/H9024	HNcfsc/Sp3fs	#13	עֶרְוָתָ֔ הּ	'er.va.Ta/h	nakedness/ her
+#16	وَهِيَ	{H1931}	HPp3fs	#15	הִ֥יא	hi'	she
+#17	أَيْضًا	{H1571}\H9014	HD	#14	גַּם	gam-	also
+#18	تَتَنَهَّدُ	{H0584}	HVNp3fs	#16	נֶאֶנְחָ֖ה	ne.'en.Chah	<she> has groaned
+#19	وَتَرْجعُ	H9001/{H7725O}	Hc/Vqw3fs	#17	וַ תָּ֥שָׁב	va./Ta.shov	and/ she has turned away
+#20 - #21	إِلَى الْوَرَاءِ.	{H0268}\H9016\ \H9018	HNcmsa	#18	אָחֽוֹר	'a.Chor	backward
+
+Lam.1.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	نَجَاسَتُهَا	{H2932}/H9024	HNcfsc/Sp3fs	#01	טֻמְאָתָ֣ הּ	tum.'a.Ta/h	uncleanness/ her
+#02 - #03	فِي أَذْيَالِهَا.	H9003/{H7757}/H9024	HR/Ncmpc/Sp3fs	#02	בְּ שׁוּלֶ֗י הָ	be./shu.Lei./ha	[was] on/ skirts/ her
+#04	لَمْ	{H3808}	HTn	#03	לֹ֤א	lo'	not
+#05	تَذْكُرْ	{H2142}	HVqp3fs	#04	זָֽכְרָה֙	za.khe.Rah	she remembered
+#06	آخِرَتَهَا	{H0319}/H9024	HNcfsc/Sp3fs	#05	אַחֲרִיתָ֔ הּ	'a.cha.ri.Ta/h	outcome/ her
+#07 - #09	وَقَدِ انْحَطَّتِ انْحِطَاطًا	H9001/{H3381}	Hc/Vqw3fs	#06	וַ תֵּ֣רֶד	va./Te.red	and/ she has come down
+#10	عَجِيبًا.	{H6382}	HNcmpa	#07	פְּלָאִ֔ים	pe.la.'Im	wonders
+#11	لَيْسَ	{H0369}	HNcmsc	#08	אֵ֥ין	'ein	not
+#12	لَهَا	H9005/{H9034}	HR/Sp3fs	#10	לָ֑ הּ	La/h	[belonged] to/ her
+#13	مُعَزّ.	{H5162G}	HVprmsa	#09	מְנַחֵ֖ם	me.na.Chem	a comforter
+#14	انْظُرْ	{H7200G}	HVqv2ms	#11	רְאֵ֤ה	re.'Eh	see
+#15 - #16	يَا رَبُّ	{H3068G}	HNpt	#12	יְהוָה֙	Yah.weh	O Yahweh
+		{H0853}\H9014	HTo	#13	אֶת	'et-	<obj.>
+#17 - #18	إِلَى مَذَلَّتِي	{H6040}/H9020	HNcmsc/Sp1bs	#14	עָנְיִ֔ י	'a.ne.Y/i	affliction/ my
+#19	لأَنَّ	{H3588A}	HTc	#15	כִּ֥י	ki	for
+#20	الْعَدُوَّ	{H0341}\H9016\ \H9018	HVqrmsa	#17	אוֹיֵֽב	'o.Yev	[the] enemy
+#21 - #22	قَدْ تَعَظَّمَ.	{H1431}	HVhp3ms	#16	הִגְדִּ֖יל	hig.Dil	it has magnified itself
+
+Lam.1.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بَسَطَ	{H6566}	HVqp3ms	#02	פָּ֣רַשׂ	Pa.ras	he has spread out
+#02	الْعَدُوُّ	{H6862C}	HNcmsa	#03	צָ֔ר	Tzar	[the] opponent
+#03	يَدَهُ	{H3027G}/H9023	HNcbsc/Sp3ms	#01	יָד וֹ֙	ya.D/o	hand/ his
+#04	عَلَى	{H5921A}	HR	#04	עַ֖ל	'al	over
+#05	كُلِّ	{H3605}\H9014	HNcmsc	#05	כָּל	kol-	all
+#06	مُشْتَهَيَاتِهَا،	{H4261}/H9024	HNcmpc/Sp3fs	#06	מַחֲמַדֶּ֑י הָ	ma.cha.ma.Dei./ha	precious things/ her
+#07	فَإِنَّهَا	{H3588A}\H9014	HTc	#07	כִּֽי	ki-	for
+#08	رَأَتِ	{H7200G}	HVqp3fs	#08	רָאֲתָ֤ה	ra.'a.Tah	it saw
+#09	الأُمَمَ	{H1471A}	HNcmpa	#09	גוֹיִם֙	go.Yim	nations
+#10	دَخَلُوا	{H0935G}	HVqp3cp	#10	בָּ֣אוּ	Ba.'u	[which] they went
+#11	مَقْدِسَهَا،	{H4720}/H9024	HNcmsc/Sp3fs	#11	מִקְדָּשָׁ֔ הּ	mik.da.Sha/h	sanctuary/ its
+#12	الَّذِينَ	{H0834A}	HTr	#12	אֲשֶׁ֣ר	'a.Sher	which
+#13	أَمَرْتَ	{H6680}	HVpp2ms	#13	צִוִּ֔יתָה	tzi.Vi.tah	you had commanded
+#14 - #15	أَنْ لاَ	{H3808}\H9014	HTn	#14	לֹא	lo'-	not
+#16	يَدْخُلُوا	{H0935G}	HVqi3mp	#15	יָבֹ֥אוּ	ya.Vo.'u	they will come
+#17 - #18	فِي جَمَاعَتِكَ.	H9003/{H6951}; H9005/{H9032}\H9016\ \H9018	HRd/Ncmsa; HR/Sp2fs	#16; #17	בַ קָּהָ֖ל; לָֽ ךְ	va./ka.Hal; La/kh	in the/ assembly; of/ you
+
+Lam.1.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كُلُّ	{H3605}\H9014	HNcmsc	#01	כָּל	kol-	all
+#02	شَعْبِهَا	{H5971A}/H9024	HNcmsc/Sp3fs	#02	עַמָּ֤ הּ	'a.Ma/h	people/ its
+#03	يَتَنَهَّدُونَ،	{H0584}	HVNrmpa	#03	נֶאֱנָחִים֙	ne.'e.na.Chim	[are] groaning
+#04	يَطْلُبُونَ	{H1245}	HVprmpa	#04	מְבַקְּשִׁ֣ים	me.va.ke.Shim	[are] seeking
+#05	خُبْزًا.	{H3899H}	HNcmsa	#05	לֶ֔חֶם	Le.chem	bread
+#06	دَفَعُوا	{H5414G}	HVqp3cp	#06	נָתְנ֧וּ	na.te.Nu	they have given
+#07	مُشْتَهَيَاتِهِمْ	{H4261}/H9028	HNcmpc/Sp3mp	#07Q(K)	מַחֲמַדֵּי הֶ֛ם	ma.cha.mo.dei./hem	precious things/ their
+#08	لِلأَكْلِ	H9003/{H0400}	HR/Ncmsa	#08	בְּ אֹ֖כֶל	be./'O.khel	for/ food
+#09 - #10	لأَجْلِ رَدِّ	H9005/{H7725H}	HR/Vhcc	#09	לְ הָשִׁ֣יב	le./ha.Shiv	to/ restore
+#11	النَّفْسِ.	{H5315H}	HNcfsa	#10	נָ֑פֶשׁ	Na.fesh	life
+#12	انْظُرْ	{H7200G}	HVqv2ms	#11	רְאֵ֤ה	re.'Eh	see
+#13	يَارَبُّ	{H3068G}	HNpt	#12	יְהוָה֙	Yah.weh	O Yahweh
+#14	وَتَطَلَّعْ	H9002/{H5027}/H9012	HC/Vhv2ms/Sh	#13	וְֽ הַבִּ֔יטָ ה	ve./ha.Bi.ta/h	and/ look/ .
+#15	لأَنِّي	{H3588A}	HTc	#14	כִּ֥י	ki	for
+#16 - #17	قَدْ صِرْتُ	{H1961}	HVqp1cs	#15	הָיִ֖יתִי	ha.Yi.ti	I am
+#18	مُحْتَقَرَةً.	{H2151B}\H9016\ \H9018	HVqrfsa	#16	זוֹלֵלָֽה	zo.le.Lah	despised
+
+Lam.1.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَمَا	{H3808}	HTn	#01	ל֣וֹא	Lo'	not
+#02	إِلَيْكُمْ	{H0413}/H9036	HR/Sp2mp	#02	אֲלֵי כֶם֮	'a.lei./Khem	to/ you
+#03 - #04	يَا جَمِيعَ	{H3605}\H9014	HNcmsc	#03	כָּל	kol-	O all
+#05	عَابِرِي	{H5674A}	HVqrmpc	#04	עֹ֣בְרֵי	oe.rei	[those who] pass by of
+#06	الطَّرِيقِ.	{H1870L}	HNcbsa	#05	דֶרֶךְ֒	de.reKh	[the] road
+#07	تَطَلَّعُوا	{H5027}	HVhv2mp	#06	הַבִּ֣יטוּ	ha.Bi.tu	look
+#08	وَانْظُرُوا	H9002/{H7200G}	HC/Vqv2mp	#07	וּ רְא֗וּ	u./re.'U	and/ see
+#09	إِنْ	{H0518A}\H9014	HTc	#08	אִם	'im-	if
+#10	كَانَ	{H3426}	HAcbsa	#09	יֵ֤שׁ	yesh	there
+#11	حُزْنٌ	{H4341}	HNcmsa	#10	מַכְאוֹב֙	makh.'Ov	[is] pain
+#12 - #13	مِثْلُ حُزْنِي	H9004/{H4341}/H9020	HR/Ncmsc/Sp1bs	#11	כְּ מַכְאֹבִ֔ י	ke./makh.'o.V/i	like/ pain/ my
+#14	الَّذِي	{H0834A}	HTr	#12	אֲשֶׁ֥ר	'a.Sher	which
+#15	صُنِعَ	{H5953A}	HVPp3ms	#13	עוֹלַ֖ל	o.Lal	it has been done
+#16	بِي،	H9005/{H9030}	HR/Sp1bs	#14	לִ֑ י	L/i	to/ me
+#17	الَّذِي	{H0834A}	HTr	#15	אֲשֶׁר֙	'a.Sher	which
+#18	أَذَلَّنِي	{H3013}	HVhp3ms	#16	הוֹגָ֣ה	ho.Gah	he has caused grief
+#19	بِهِ						
+#20	الرَّبُّ	{H3068G}	HNpt	#17	יְהוָ֔ה	Yah.weh	Yahweh
+#21	يَوْمَ	H9003/{H3117G}	HR/Ncmsc	#18	בְּ י֖וֹם	be./Yom	on/ [the] day of
+#22	حُمُوِّ	{H2740}	HNcmsc	#19	חֲר֥וֹן	cha.Ron	[the] burning of
+#23	غَضَبِهِ.	{H0639G}/H9023\H9016\ \H9018	HNcmsc/Sp3ms	#20	אַפּֽ וֹ	'a.P/o	anger/ his
+
+Lam.1.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	مِنَ الْعَلاَءِ	H9006/{H4791}	HR/Ncmsa	#01	מִ מָּר֛וֹם	mi./ma.Rom	from/ a high place
+#03	أَرْسَلَ	{H7971G}\H9014	HVqp3ms	#02	שָֽׁלַח	sha.lach-	he sent
+#04	نَارًا	{H0784}	HNcbsa	#03	אֵ֥שׁ	'esh	fire
+#05 - #06	إِلَى عِظَامِي	H9003/{H6106G}/H9020	HR/Ncfpc/Sp1bs	#04	בְּ עַצְמֹתַ֖ י	be./'atz.mo.Ta/i	in/ bones/ my
+#07 - #08	فَسَرَتْ فِيهَا.	H9001/{H7287A}/H9034	Hc/Vqw3ms/Sp3fs	#05	וַ יִּרְדֶּ֑ נָּה	va/i.yir.De./nah	and/ he mastered/ it
+#09	بَسَطَ	{H6566}	HVqp3ms	#06	פָּרַ֨שׂ	pa.Ras	he spread out
+#10	شَبَكَةً	{H7568}	HNcfsa	#07	רֶ֤שֶׁת	Re.shet	a net
+#11	لِرِجْلَيَّ.	H9005/{H7272}/H9020	HR/Ncfdc/Sp1bs	#08	לְ רַגְלַ י֙	le./rag.La/i	for/ feet/ my
+#12	رَدَّنِي	{H7725G}/H9030	HVhp3ms/Sp1bs	#09	הֱשִׁיבַ֣ נִי	he.shi.Va./ni	he made turn back/ me
+#13 - #14	إِلَى الْوَرَاءِ.	{H0268}	HNcmsa	#10	אָח֔וֹר	'a.Chor	backward
+#15	جَعَلَنِي	{H5414I}/H9030	HVqp3ms/Sp1bs	#11	נְתָנַ֙ נִי֙	ne.ta.Na./ni	he made/ me
+#16	خَرِبَةً.	{H8076}	HVqrfsa	#12	שֹֽׁמֵמָ֔ה	sho.me.Mah	desolate
+#17	الْيَوْمَ	H9009/{H3117G}	HTd/Ncmsa	#14	הַ יּ֖וֹם	hai./Yom	the/ day
+#18	كُلَّهُ	{H3605}\H9014	HNcmsc	#13	כָּל	kol-	all
+#19	مَغْمُومَةً.	{H1739}\H9016\ \H9018	HAafsa	#15	דָּוָֽה	da.Vah	faint
+
+Lam.1.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	شَدَّ	{H8244}	HVNp3ms	#01	נִשְׂקַד֩	nis.Kad	it has been bound on
+#02	نِيرَ	{H5923}	HNcmsc	#02	עֹ֨ל	'ol	[the] yoke of
+#03	ذُنُوبِي	{H6588}/H9020	HNcmpc/Sp1bs	#03	פְּשָׁעַ֜ י	pe.sha.'A/i	transgressions/ my
+#04	بِيَدِهِ،	H9003/{H3027G}/H9023	HR/Ncbsc/Sp3ms	#04	בְּ יָד֗ וֹ	be./ya.D/o	by/ hand/ his
+#05	ضُفِرَتْ،	{H8276}	HVti3mp	#05	יִשְׂתָּֽרְג֛וּ	yis.Ta.re.Gu	they are woven together
+#06	صَعِدَتْ	{H5927H}	HVqp3cp	#06	עָל֥וּ	'a.Lu	they have come up
+#07	عَلَى	{H5921A}\H9014	HR	#07	עַל	'al-	on
+#08	عُنُقِي.	{H6677A}/H9020	HNcmsc/Sp1bs	#08	צַוָּארִ֖ י	tza.va.R/i	neck/ my
+#09	نَزَعَ	{H3782}	HVhp3ms	#09	הִכְשִׁ֣יל	hikh.Shil	he has made feeble
+#10	قُوَّتِي.	{H3581B}/H9020	HNcmsc/Sp1bs	#10	כֹּחִ֑ י	ko.Ch/i	strength/ my
+#11	دَفَعَنِي	{H5414G}/H9030	HVqp3ms/Sp1bs	#11	נְתָנַ֣ נִי	ne.ta.Na./ni	he has given/ me
+#12	السَّيِّدُ	{H0136}	HNpt	#12	אֲדֹנָ֔י	'a.do.Nai	[the] Lord
+#13 - #14	إِلَى أَيْدٍ	H9003/{H3027H}	HR/Ncbdc	#13	בִּ ידֵ֖י	bi./Dei	in/ [the] hands of
+#15	لاَ	{H3808}\H9014	HTn	#14	לֹא	lo'-	[those whom] not
+#16	أَسْتَطِيعُ	{H3201}	HVqi1cs	#15	אוּכַ֥ל	'u.Khal	I am able
+#17 - #18	الْقِيَامَ مِنْهَا.	{H6965I}\H9016\ \H9018	HVqcc	#16	קֽוּם	Kum	to stand
+
+Lam.1.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	رَذَلَ	{H5541A}	HVpp3ms	#01	סִלָּ֨ה	si.Lah	he has thrown away
+#02	السَّيِّدُ	{H0136}	HNpt	#04	אֲדֹנָי֙	'a.do.Nai	[the] Lord
+#03	كُلَّ	{H3605}\H9014	HNcmsc	#02	כָל	khol-	all
+#04	مُقْتَدِرِيَّ	{H0047I}/H9020\H9015	HAampc/Sp1bs	#03	אַבִּירַ֤ י	'a.bi.Ra/i	mighty [ones]/ my
+#05 - #06	فِي وَسَطِي.	H9003/{H7130G}/H9020	HR/Ncmsc/Sp1bs	#05	בְּ קִרְבִּ֔ י	be./kir.B/i	in/ midst/ my
+#07	دَعَا	{H7121G}	HVqp3ms	#06	קָרָ֥א	ka.Ra'	he has proclaimed
+#08	عَلَيَّ	{H5921A}/H9030	HR/Sp1bs	#07	עָלַ֛ י	'a.La/i	on/ me
+#09	جَمَاعَةً	{H4150I}	HNcmsa	#08	מוֹעֵ֖ד	mo.'Ed	an appointed meeting
+#10	لِحَطْمِ	H9005/{H7665}	HR/Vqcc	#09	לִ שְׁבֹּ֣ר	li/sh.Bor	to/ break
+#11	شُبَّانِي.	{H0970}/H9020	HNcmpc/Sp1bs	#10	בַּחוּרָ֑ י	ba.chu.Ra/i	young men/ my
+#12	دَاسَ	{H1869}	HVqp3ms	#12	דָּרַ֣ךְ	da.Rakh	he has trodden
+#13	السَّيِّدُ	{H0136}	HNpt	#13	אֲדֹנָ֔י	'a.do.Nai	[the] Lord
+#14	الْعَذْرَاءَ	H9005/{H1330}	HR/Ncfsc	#14	לִ בְתוּלַ֖ת	li/v.tu.Lat	for/ [the] virgin of
+#15	بِنْتَ	{H1323G}\H9014	HNcfsc	#15	בַּת	bat-	[the] daughter of
+#16	يَهُوذَا	{H3063G}\H9016\ \H9018	HNpl	#16	יְהוּדָֽה	ye.hu.Dah	Judah
+#17	مِعْصَرَةً.	{H1660}	HNcfsa	#11	גַּ֚ת	gat	a winepress
+
+Lam.1.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	عَلَى	{H5921A}\H9014	HR	#01	עַל	'al-	on
+#02	هذِهِ	{H0428}\H9015	HTm	#02	אֵ֣לֶּה	'E.leh	these [things]
+#03	أَنَا	{H0589}	HPp1bs	#03	אֲנִ֣י	'a.Ni	I
+#04	بَاكِيَةٌ.	{H1058}	HVqrfsa	#04	בוֹכִיָּ֗ה	vo.khi.Yah	[am] weeping
+#05	عَيْنِي،	{H5869A}/H9020\H9015	HNcfsc/Sp1bs	#05	עֵינִ֤ י	'ei.N/i	eye/ my
+#06	عَيْنِي	{H5869A}/H9020	HNcfsc/Sp1bs	#06	עֵינִ י֙	'ei.N/i	eye/ my
+#07	تَسْكُبُ	{H3381}	HVqrfsa	#07	יֹ֣רְדָה	Yo.re.dah	[is] going down
+#08	مِيَاهًا	{H4325G}	HNcmpa	#08	מַּ֔יִם	Ma.yim	water
+#09	لأَنَّهُ	{H3588A}\H9014	HTc	#09	כִּֽי	ki-	for
+#10 - #11	قَدِ ابْتَعَدَ	{H7368}	HVqp3ms	#10	רָחַ֥ק	ra.Chak	he is far
+#12	عَنِّي	{H4480A}/H9030	HR/Sp1bs	#11	מִמֶּ֛ נִּי	mi.Me./ni	from/ me
+#13	الْمُعَزِّي،	{H5162G}	HVprmsa	#12	מְנַחֵ֖ם	me.na.Chem	a comforter
+#14	رَادُّ	{H7725H}	HVhrmsa	#13	מֵשִׁ֣יב	me.Shiv	[one who] restores
+#15	نَفْسِي.	{H5315G}/H9020	HNcfsc/Sp1bs	#14	נַפְשִׁ֑ י	naf.Sh/i	life/ my
+#16	صَارَ	{H1961}	HVqp3cp	#15	הָי֤וּ	ha.Yu	they are
+#17	بَنِيَّ	{H1121A}/H9020	HNcmpc/Sp1bs	#16	בָנַ י֙	va.Na/i	children/ my
+#18	هَالِكِينَ	{H8074G}	HVqrmpa	#17	שֽׁוֹמֵמִ֔ים	sho.me.Mim	desolate
+#19 - #20	لأَنَّهُ قَدْ	{H3588A}	HTc	#18	כִּ֥י	ki	for
+#21	تَجَبَّرَ	{H1396}	HVqp3ms	#19	גָבַ֖ר	ga.Var	he has prevailed
+#22	الْعَدُوُّ.	{H0341}\H9016\ \H9018	HVqrmsa	#20	אוֹיֵֽב	'o.Yev	[the] enemy
+
+Lam.1.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بَسَطَتْ	{H6566}	HVpp3fs	#01	פֵּֽרְשָׂ֨ה	pe.re.Sah	it has spread out
+#02	صِهْيَوْنُ	{H6726}	HNpl	#02	צִיּ֜וֹן	tzi.Yon	Zion
+#03	يَدَيْهَا.	H9003/{H3027G}/H9024	HR/Ncbdc/Sp3fs	#03	בְּ יָדֶ֗י הָ	be./ya.Dei./ha	<in>/ hands/ its
+#04	لاَ	{H0369}	HNcmsc	#04	אֵ֤ין	'ein	not
+#05	مُعَزِّيَ	{H5162G}	HVprmsa	#05	מְנַחֵם֙	me.na.Chem	a comforter
+#06	لَهَا.	H9005/{H9034}	HR/Sp3fs	#06	לָ֔ הּ	La/h	[belongs] to/ it
+#07	أَمَرَ	{H6680}	HVpp3ms	#07	צִוָּ֧ה	tzi.Vah	he has commanded
+#08	الرَّبُّ	{H3068G}	HNpt	#08	יְהוָ֛ה	Yah.weh	Yahweh
+#09 - #10	عَلَى يَعْقُوبَ	H9005/{H3290}	HR/Npm	#09	לְ יַעֲקֹ֖ב	le./ya.'a.Ko	of/ Jacob
+#11 - #13	أَنْ يَكُونَ مُضَايِقُوهُ	{H6862C}/H9023	HNcmpc/Sp3ms	#11	צָרָ֑י ו	tza.Ra/v	[will be] opponents/ his
+#14	حَوَالَيْهِ.	{H5439J}/H9033	HNcmpc/Sp3bs	#10	סְבִיבָ֣י ו	se.vi.Va/v	[those] around/ him
+#15	صَارَتْ	{H1961}	HVqp3fs	#12	הָיְתָ֧ה	ha.ye.Tah	it has become
+#16	أُورُشَلِيمُ	{H3389}	HNpl	#13	יְרוּשָׁלִַ֛ם	ye.ru.sha.Lim	Jerusalem
+#17	نَجِسَةً	H9005/{H5079}	HR/Ncfsa	#14	לְ נִדָּ֖ה	le./ni.Dah	<into>/ an impure thing
+#18	بَيْنَهُمْ.	{H0996G}/H9038\H9016\ \H9018	HAcmpc/Sp3mp	#15	בֵּינֵי הֶֽם	bei.nei./Hem	between/ them
+
+Lam.1.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بَارٌّ	{H6662}	HAamsa	#01	צַדִּ֥יק	tza.Dik	[is] righteous
+#02	هُوَ	{H1931}	HPp3ms	#02	ה֛וּא	hu'	he
+#03	الرَّبُّ	{H3068G}	HNpt	#03	יְהוָ֖ה	Yah.weh	Yahweh
+#04 - #05	لأَنِّي قَدْ	{H3588A}	HTc	#04	כִּ֣י	ki	for
+#06	عَصَيْتُ	{H4784}	HVqp1cs	#06	מָרִ֑יתִי	ma.Ri.ti	I have been rebellious
+#07	أَمْرَهُ.	{H6310I}/H9023	HNcmsc/Sp3ms	#05	פִ֣י הוּ	Fi./hu	mouth/ his
+#08	اسْمَعُوا	{H8085G}\H9014; {H4994}	HVqv2mp; HTj	#07; #08	שִׁמְעוּ; נָ֣א	shim.'u-; na'	listen; please
+#09 - #10	يَا جَمِيعَ	{H3605}\H9014	HNcmsc	#09	כָל	khol-	O all
+#11	الشُّعُوبِ	H9009/{H5971A}	HTd/Ncmpa	#10Q(K)	הָֽ עַמִּ֗ים	ha./'a.mim	the/ peoples
+#12	وَانْظُرُوا	H9002/{H7200G}	HC/Vqv2mp	#11	וּ רְאוּ֙	u./re.'U	and/ see
+#13 - #14	إِلَى حُزْنِي.	{H4341}/H9020	HNcmsc/Sp1bs	#12	מַכְאֹבִ֔ י	makh.'o.V/i	pain/ my
+#15	عَذَارَايَ	{H1330}/H9020	HNcfpc/Sp1bs	#13	בְּתוּלֹתַ֥ י	be.tu.lo.Ta/i	young women/ my
+#16	وَشُبَّانِي	H9002/{H0970}/H9020	HC/Ncmpc/Sp1bs	#14	וּ בַחוּרַ֖ י	u./va.chu.Ra/i	and/ young men/ my
+#17	ذَهَبُوا	{H1980G}	HVqp3cp	#15	הָלְכ֥וּ	ha.le.Khu	they have gone
+#18 - #19	إِلَى السَّبْيِ.	H9003/{H7628A}\H9016\ \H9018	HRd/Ncmsa	#16	בַ שֶּֽׁבִי	va./She.vi	in <the>/ captivity
+
+Lam.1.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	نَادَيْتُ	{H7121G}	HVqp1cs	#01	קָרָ֤אתִי	ka.Ra.ti	I called
+#02	مُحِبِّيَّ.	H9005/{H0157G}/H9030	HRd/Vprmpc/Sp1bs	#02	לַֽ מְאַהֲבַ י֙	la/m.'a.ha.Va/i	to <the>/ lovers/ my
+#03	هُمْ	{H1992}	HPp3mp	#03	הֵ֣מָּה	He.mah	they
+#04	خَدَعُونِي.	{H7411B}/H9030	HVpp3cp/Sp1bs	#04	רִמּ֔וּ נִי	ri.Mu./ni	they deceived/ me
+#05	كَهَنَتِي	{H3548}/H9020	HNcmpc/Sp1bs	#05	כֹּהֲנַ֥ י	ko.ha.Na/i	priests/ my
+#06	وَشُيُوخِي	H9002/{H2205G}/H9020	HC/Aampc/Sp1bs	#06	וּ זְקֵנַ֖ י	u./ze.ke.Na/i	and/ elders/ my
+#07 - #08	فِي الْمَدِينَةِ	H9003/{H5892B}	HRd/Ncfsa	#07	בָּ עִ֣יר	ba./'Ir	in the/ city
+#09	مَاتُوا،	{H1478}	HVqp3cp	#08	גָּוָ֑עוּ	ga.Va.'u	they perished
+#10	إِذْ	{H3588A}\H9014	HTc	#09	כִּֽי	ki-	for
+#11	طَلَبُوا	{H1245}	HVpp3cp	#10	בִקְשׁ֥וּ	vik.Shu	they sought
+#12	لِذَوَاتِهِمْ	H9005/{H9038}	HR/Sp3mp	#12	לָ֔ מוֹ	la./mo	for/ themselves
+#13	طَعَامًا	{H0400}	HNcmsa	#11	אֹ֙כֶל֙	'o.khel	food
+#14	لِيَرُدُّوا	H9002/{H7725H}	HC/Vhu3mp	#13	וְ יָשִׁ֖יבוּ	ve./ya.Shi.vu	so/ they may be restored
+		{H0853}\H9014	HTo	#14	אֶת	'et-	<obj.>
+#15	أَنْفُسَهُمْ.	{H5315H}/H9028\H9016\ \H9018	HNcfsc/Sp3mp	#15	נַפְשָֽׁ ם	naf.Sha/m	life/ their
+
+Lam.1.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	انْظُرْ	{H7200G}	HVqv2ms	#01	רְאֵ֨ה	re.'Eh	see
+#02 - #03	يَا رَبُّ،	{H3068G}	HNpt	#02	יְהוָ֤ה	Yah.weh	O Yahweh
+#04	فَإِنِّي	{H3588A}\H9014	HTc	#03	כִּֽי	ki-	for
+#05 - #06	فِي ضِيق.	{H6862B}\H9014; H9005/{H9030}	HNcbsa; HR/Sp1bs	#04; #05	צַר; לִ י֙	tzar-; l/i	distress; [belongs] to/ me
+#07	أَحْشَائِي	{H4578}/H9020	HNcmpc/Sp1bs	#06	מֵעַ֣ י	me.'A/i	inward parts/ my
+#08	غَلَتْ.	{H2560A}	HVpp3cp	#07	חֳמַרְמָ֔רוּ	cho.mar.Ma.ru	they are in turmoil
+#09	ارْتَدَّ	{H2015}	HVNp3ms	#08	נֶהְפַּ֤ךְ	neh.Pakh	it has been overturned
+#10	قَلْبِي	{H3820A}/H9020	HNcmsc/Sp1bs	#09	לִבִּ י֙	li.B/i	heart/ my
+#11 - #12	فِي بَاطِنِي	H9003/{H7130G}/H9020	HR/Ncmsc/Sp1bs	#10	בְּ קִרְבִּ֔ י	be./kir.B/i	in/ inner being/ my
+#13 - #14	لأَنِّي قَدْ	{H3588A}	HTc	#11	כִּ֥י	ki	for
+#15	عَصَيْتُ	{H4784}	HVqaa	#12	מָר֖וֹ	ma.Ro	extremely <be rebellious>
+#16	مُتَمَرِّدَةً.	{H4784}	HVqp1cs	#13	מָרִ֑יתִי	ma.Ri.ti	I have been rebellious
+#17 - #18	فِي الْخَارِجِ	H9006/{H2351}	HR/Ncmsa	#14	מִ ח֥וּץ	mi./Chutz	from/ outside
+#19	يَثْكُلُ	{H7921A}\H9014	HVpp3fs	#15	שִׁכְּלָה	shi.ke.lah-	it has bereaved
+#20	السَّيْفُ،	{H2719}	HNcfsa	#16	חֶ֖רֶב	Che.rev	a sword
+#21 - #22	وَفِي الْبَيْتِ	H9003/{H1004B}	HRd/Ncmsa	#17	בַּ בַּ֥יִת	ba./Ba.yit	[is] in the/ house
+#23 - #24	مِثْلُ الْمَوْتِ.	H9004/{H4194}\H9016\ \H9018	HRd/Ncmsa	#18	כַּ מָּֽוֶת	ka./Ma.vet	like <the>/ death
+
+Lam.1.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	سَمِعُوا	{H8085G}	HVqp3cp	#01	שָׁמְע֞וּ	sha.me.'U	they heard
+#02	أَنِّي	{H3588A}; {H0589}	HTc; HPp1bs	#02; #04	כִּ֧י; אָ֗נִי	ki; 'A.ni	that; I
+#03	تَنَهَّدْتُ.	{H0584}	HVNrfsa	#03	נֶאֱנָחָ֣ה	ne.'e.na.Chah	[was] groaning
+#04	لاَ	{H0369}	HNcmsc	#05	אֵ֤ין	'ein	not
+#05	مُعَزِّيَ	{H5162G}	HVprmsa	#06	מְנַחֵם֙	me.na.Chem	a comforter
+#06	لِي.	H9005/{H9030}	HR/Sp1bs	#07	לִ֔ י	L/i	[belonged] to/ me
+#07	كُلُّ	{H3605}\H9014	HNcmsc	#08	כָּל	kol-	all
+#08	أَعْدَائِي	{H0341}/H9020	HVqrmpc/Sp1bs	#09	אֹ֨יְבַ֜ י	'o.ye.Va/i	enemies/ my
+#09	سَمِعُوا	{H8085G}	HVqp3cp	#10	שָׁמְע֤וּ	sha.me.'U	they heard
+#10	بِبَلِيَّتِي.	{H7451C}/H9020	HNcfsc/Sp1bs	#11	רָֽעָתִ י֙	ra.'a.T/i	distress/ my
+#11	فَرِحُوا	{H7797}	HVqp3cp	#12	שָׂ֔שׂוּ	Sa.su	they rejoiced
+#12	لأَنَّكَ	{H3588A}; {H0859A}	HTc; HPp2ms	#13; #14	כִּ֥י; אַתָּ֖ה	ki; 'a.Tah	for; you
+#13	فَعَلْتَ.	{H6213A}	HVqp2ms	#15	עָשִׂ֑יתָ	'a.Si.ta	you have acted
+#14	تَأْتِي	{H0935P}	HVhp2ms	#16	הֵבֵ֥אתָ	he.Ve.ta	you have brought
+#15	بِالْيَوْمِ	{H3117G}\H9014	HNcmsa	#17	יוֹם	yom-	[the] day
+#16 - #18	الَّذِي نَادَيْتَ بِهِ	{H7121I}	HVqp2ms	#18	קָרָ֖אתָ	ka.Ra.ta	[which] you proclaimed
+#19	فَيَصِيرُونَ	H9002/{H1961}	HC/Vqu3mp	#19	וְ יִֽהְי֥וּ	ve./yih.Yu	and/ they may be
+#20	مِثْلِي.	{H3644G}/H9030\H9016\ \H9018	HR/Sp1bs	#20	כָמֽוֹ נִי	kha.Mo./ni	like/ me
+
+Lam.1.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لِيَأْتِ	{H0935G}	HVqi3fs	#01	תָּבֹ֨א	ta.Vo'	may it come
+#02	كُلُّ	{H3605}\H9014	HNcmsc	#02	כָל	khol-	all
+#03	شَرِّهِمْ	{H7451I}/H9028	HNcfsc/Sp3mp	#03	רָעָתָ֤ ם	ra.'a.Ta/m	wickedness/ their
+#04	أَمَامَكَ.	H9005/{H6440G}/H9021	HR/Ncmpc/Sp2ms	#04	לְ פָנֶ֙י ךָ֙	le./fa.Nei./kha	<to>/ before/ you
+#05	وَافْعَلْ	H9002/{H5953A}	HC/Vpv2ms	#05	וְ עוֹלֵ֣ל	ve./'o.Lel	and/ deal severely
+#06	بِهِمْ	H9005/{H9038}	HR/Sp3mp	#06	לָ֔ מוֹ	la./mo	to/ them
+#07	كَمَا	H9004/{H0834D}	HR/Tr	#07	כַּ אֲשֶׁ֥ר	ka./'a.Sher	just/ as
+#08	فَعَلْتَ	{H5953A}	HVpp2ms	#08	עוֹלַ֛לְתָּ	o.Lal.ta	you have dealt severely
+#09	بِي	H9005/{H9030}	HR/Sp1bs	#09	לִ֖ י	l/i	to/ me
+#10 - #11	مِنْ أَجْلِ	{H5921A}	HR	#10	עַ֣ל	'al	on
+#12	كُلِّ	{H3605}\H9014	HNcmsc	#11	כָּל	kol-	all
+#13	ذُنُوبِي،	{H6588}/H9020	HNcmpc/Sp1bs	#12	פְּשָׁעָ֑ י	pe.sha.'A/i	transgressions/ my
+#14	لأَنَّ	{H3588A}\H9014	HTc	#13	כִּֽי	ki-	for
+#15	تَنَهُّدَاتِي	{H0585}/H9020	HNcfpc/Sp1bs	#15	אַנְחֹתַ֖ י	'an.cho.Ta/i	groaning<s>/ my
+#16	كَثِيرَةٌ	{H7227A}	HAafpa	#14	רַבּ֥וֹת	ra.Bot	[are] many
+#17	وَقَلْبِي	H9002/{H3820A}/H9020	HC/Ncmsc/Sp1bs	#16	וְ לִבִּ֥ י	ve./li.B/i	and/ heart/ my
+#18 - #19	مَغْشِيٌّ عَلَيْهِ.	{H1742}\H9016\ \H9017	HAamsa	#17	דַוָּֽי	da.Vai	[is] faint
+
+Lam.2.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَيْفَ	{H0349B}	HTi	#01	אֵיכָה֩	'ei.Khah	how.
+#02	غَطَّى	{H5743}	HVhi3ms	#02	יָעִ֨יב	ya.'Iv	he covers with a cloud
+#03	السَّيِّدُ	{H0136}	HNpt	#04	אֲדֹנָי֙	'a.do.Nai	[the] Lord
+		{H0853}\H9014	HTo	#05	אֶת	'et-	<obj.>
+#04	بِغَضَبِهِ	H9003/{H0639G}/H9023\H9015	HR/Ncmsc/Sp3ms	#03	בְּ אַפּ֤ וֹ	be./'a.P/o	in/ anger/ his
+#05	ابْنَةَ	{H1323G}\H9014	HNcfsc	#06	בַּת	bat-	[the] daughter of
+#06	صِهْيَوْنَ	{H6726}	HNpl	#07	צִיּ֔וֹן	tzi.Yon	Zion
+#07	بِالظَّلاَمِ.						
+#08	أَلْقَى	{H7993}	HVhp3ms	#08	הִשְׁלִ֤יךְ	hish.Likh	he has thrown
+#09 - #10	مِنَ السَّمَاءِ	H9006/{H8064}	HR/Ncmpa	#09	מִ שָּׁמַ֙יִם֙	mi./sha.Ma.yim	from/ heaven
+#11 - #12	إِلَى الأَرْضِ	{H0776G}	HNcfsa	#10	אֶ֔רֶץ	'E.retz	earth
+#13	فَخْرَ	{H8597}	HNcfsc	#11	תִּפְאֶ֖רֶת	tif.'E.ret	[the] splendor of
+#14	إِسْرَائِيلَ،	{H3478}	HNpl	#12	יִשְׂרָאֵ֑ל	Yis.ra.'El	Israel
+#15	وَلَمْ	H9002/{H3808}\H9014	HC/Tn	#13	וְ לֹא	ve./lo'-	and/ not
+#16	يَذْكُرْ	{H2142}	HVqp3ms	#14	זָכַ֥ר	za.Khar	he has remembered
+#17	مَوْطِئَ	{H1916}\H9014	HNcmsc	#15	הֲדֹם	ha.dom-	[the] footstool of
+#18	قَدَمَيْهِ	{H7272}/H9023	HNcfdc/Sp3ms	#16	רַגְלָ֖י ו	rag.La/v	feet/ his
+#19 - #20	فِي يَوْمِ	H9003/{H3117G}	HR/Ncmsc	#17	בְּ י֥וֹם	be./Yom	in/ [the] day of
+#21	غَضَبِهِ.	{H0639G}/H9023\H9016\ \H9018	HNcmsc/Sp3ms	#18	אַפּֽ וֹ	'a.P/o	anger/ his
+
+Lam.2.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ابْتَلَعَ	{H1104}	HVpp3ms	#01	בִּלַּ֨ע	bi.La'	he has swallowed up
+#02	السَّيِّدُ	{H0136}	HNpt	#02	אֲדֹנָ֜י	'a.do.Nai	[the] Lord
+#03	وَلَمْ	H9002/{H3808}	HC/Tn	#03Q(K)	וְ לֹ֣א	l/o'	and/ not
+#04	يَشْفِقْ	{H2550}	HVqp3ms	#04	חָמַ֗ל	cha.Mal	he has spared
+		{H0853}	HTo	#05	אֵ֚ת	'et	<obj.>
+#05	كُلَّ	{H3605}\H9014	HNcmsc	#06	כָּל	kol-	all
+#06	مَسَاكِنِ	{H4999}	HNcfpc	#07	נְא֣וֹת	ne.'ot	[the] settlements of
+#07	يَعْقُوبَ.	{H3290}	HNpm	#08	יַעֲקֹ֔ב	ya.'a.Ko	Jacob
+#08	نَقَضَ	{H2040}	HVqp3ms	#09	הָרַ֧ס	ha.Ras	he has torn down
+#09	بِسَخَطِهِ	H9003/{H5678}/H9023	HR/Ncfsc/Sp3ms	#10	בְּ עֶבְרָת֛ וֹ	be./'ev.ra.T/o	in/ wrath/ his
+#10	حُصُونَ	{H4013}	HNcmpc	#11	מִבְצְרֵ֥י	miv.tze.Rei	[the] fortifications of
+#11	بِنْتِ	{H1323G}\H9014	HNcfsc	#12	בַת	vat-	[the] daughter of
+#12	يَهُوذَا.	{H3063G}	HNpl	#13	יְהוּדָ֖ה	ye.hu.Dah	Judah
+#13	أَوْصَلَهَا	{H5060}	HVhp3ms	#14	הִגִּ֣יעַ	hi.Gi.a'	he has made [them] touch
+#14 - #15	إِلَى الأَرْضِ.	H9005/{H0776H}	HRd/Ncfsa	#15	לָ אָ֑רֶץ	la./'A.retz	<to> the/ ground
+#16	نَجَّسَ	{H2490H}	HVpp3ms	#16	חִלֵּ֥ל	chi.Lel	he has profaned
+#17	الْمَمْلَكَةَ	{H4467}	HNcfsa	#17	מַמְלָכָ֖ה	mam.la.Khah	[the] kingdom
+#18	وَرُؤَسَاءَهَا.	H9002/{H8269}/H9024\H9016\ \H9018	HC/Ncmpc/Sp3fs	#18	וְ שָׂרֶֽי הָ	ve./sa.Rei./ha	and/ princes/ its
+
+Lam.2.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	عَضَبَ	{H1438}	HVqp3ms	#01	גָּדַ֣ע	ga.Da'	he has cut off
+#02	بِحُمُوِّ	H9003/{H2750}	HR/Ncmsc	#02	בָּֽ חֳרִי	bo./cho.ri-	in/ [the] heat of
+#03	غَضَبِهِ	{H0639G}	HNcmsa	#03	אַ֗ף	'Af	anger
+#04	كُلَّ	{H3605}	HNcmsc	#04	כֹּ֚ל	kol	every
+#05	قَرْنٍ	{H7161A}	HNcfsc	#05	קֶ֣רֶן	Ke.ren	<the> horn of
+#06	لإِسْرَائِيلَ.	{H3478}	HNpl	#06	יִשְׂרָאֵ֔ל	Yis.ra.'El	Israel
+#07	رَدَّ	{H7725G}	HVhp3ms	#07	הֵשִׁ֥יב	he.Shiv	he has turned back
+#08 - #09	إِلَى الْوَرَاءِ	{H0268}	HNcmsa	#08	אָח֛וֹר	'a.Chor	backward
+#10	يَمِينَهُ	{H3225G}/H9023	HNcfsc/Sp3ms	#09	יְמִינ֖ וֹ	ye.mi.N/o	right [hand]/ his
+#11	أَمَامَ	H9006/{H6440G}	HR/Ncmpc	#10	מִ פְּנֵ֣י	mi./pe.Nei	from/ before
+#12	الْعَدُوِّ،	{H0341}	HVqrmsa	#11	אוֹיֵ֑ב	'o.Yev	[the] enemy
+#13	وَاشْتَعَلَ	H9001/{H1197A}	Hc/Vqw3ms	#12	וַ יִּבְעַ֤ר	va/i.yiv.'Ar	and/ he has burned
+#14 - #15	فِي يَعْقُوبَ	H9003/{H3290}	HR/Npm	#13	בְּ יַעֲקֹב֙	be./ya.'a.Ko	<in>/ Jacob
+#16 - #17	مِثْلَ نَارٍ	H9004/{H0784}	HR/Ncbsc	#14	כְּ אֵ֣שׁ	ke./'Esh	like/ a fire of
+#18	مُلْتَهِبَةٍ	{H3852}	HNcfsa	#15	לֶֽהָבָ֔ה	le.ha.Vah	flame
+#19	تَأْكُلُ	{H0398}	HVqp3fs	#16	אָכְלָ֖ה	'a.khe.Lah	[which] it has consumed
+#20 - #21	مَا حَوَالَيْهَا.	{H5439G}\H9016\ \H9018	HNcbsa	#17	סָבִֽיב	sa.Viv	all around
+
+Lam.2.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	مَدَّ	{H1869}	HVqp3ms	#01	דָּרַ֨ךְ	da.Rakh	he has bent
+#02	قَوْسَهُ	{H7198}/H9023	HNcfsc/Sp3ms	#02	קַשְׁתּ֜ וֹ	kash.T/o	bow/ his
+#03	كَعَدُوٍّ.	H9004/{H0341}	HR/Vqrmsa	#03	כְּ אוֹיֵ֗ב	ke./'o.Yev	like/ an enemy
+#04	نَصَبَ	{H5324}	HVNrmsa	#04	נִצָּ֤ב	ni.Tzav	[he has] taken a stand
+#05	يَمِينَهُ	{H3225G}/H9023	HNcfsc/Sp3ms	#05	יְמִינ וֹ֙	ye.mi.N/o	right [hand]/ his
+#06	كَمُبْغِضٍ	H9004/{H6862C}	HR/Ncmsa	#06	כְּ צָ֔ר	ke./Tzar	like/ an opponent
+#07	وَقَتَلَ	H9001/{H2026}	Hc/Vqw3ms	#07	וַֽ יַּהֲרֹ֔ג	va/i.ya.ha.Rog	and/ he has killed
+#08	كُلَّ	{H3605}	HNcmsc	#08	כֹּ֖ל	kol	all
+#09	مُشْتَهَيَاتِ	{H4261}\H9014	HNcmpc	#09	מַחֲמַדֵּי	ma.cha.ma.dei-	[the] delights of
+#10	الْعَيْنِ	{H5869A}	HNcfsa	#10	עָ֑יִן	'A.yin	eye
+#11 - #12	فِي خِبَاءِ	H9003/{H0168G}	HR/Ncmsc	#11	בְּ אֹ֙הֶל֙	be./'O.hel	in/ [the] tent of
+#13	بِنْتِ	{H1323G}\H9014	HNcfsc	#12	בַּת	bat-	[the] daughter of
+#14	صِهْيَوْنَ.	{H6726}	HNpl	#13	צִיּ֔וֹן	tzi.Yon	Zion
+#15	سَكَبَ	{H8210G}	HVqp3ms	#14	שָׁפַ֥ךְ	sha.Fakh	he has poured out
+#16	كَنَارٍ	H9004/{H0784}	HRd/Ncbsa	#15	כָּ אֵ֖שׁ	ka./'Esh	like <the>/ fire
+#17	غَيْظَهُ.	{H2534}/H9023\H9016\ \H9018	HNcfsc/Sp3ms	#16	חֲמָתֽ וֹ	cha.ma.T/o	rage/ his
+
+Lam.2.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	صَارَ	{H1961}	HVqp3ms	#01	הָיָ֨ה	ha.Yah	he has become
+#02	السَّيِّدُ	{H0136}\H9015	HNpt	#02	אֲדֹנָ֤י	'a.do.Nai	[the] Lord
+#03	كَعَدُوٍّ.	H9004/{H0341}	HR/Vqrmsa	#03	כְּ אוֹיֵב֙	ke./'o.Yev	like/ an enemy
+#04	ابْتَلَعَ	{H1104}	HVpp3ms	#04	בִּלַּ֣ע	bi.La'	he has swallowed up
+#05	إِسْرَائِيلَ.	{H3478}	HNpl	#05	יִשְׂרָאֵ֔ל	Yis.ra.'El	Israel
+#06	ابْتَلَعَ	{H1104}	HVpp3ms	#06	בִּלַּע֙	bi.La'	he has swallowed up
+#07	كُلَّ	{H3605}\H9014	HNcmsc	#07	כָּל	kol-	all
+#08	قُصُورِهِ.	{H0759G}/H9024	HNcfpc/Sp3fs	#08	אַרְמְנוֹתֶ֔י הָ	'ar.me.no.Tei./ha	palaces/ its
+#09	أَهْلَكَ	{H7843}	HVpp3ms	#09	שִׁחֵ֖ת	shi.Chet	he has ruined
+#10	حُصُونَهُ،	{H4013}/H9023	HNcmpc/Sp3ms	#10	מִבְצָרָ֑י ו	miv.tza.Ra/v	fortifications/ its
+#11	وَأَكْثَرَ	H9001/{H7235A}	Hc/Vhw3ms	#11	וַ יֶּ֙רֶב֙	va/i.Ye.rev	and/ he has multiplied
+#12 - #13	فِي بِنْتِ	H9003/{H1323G}\H9014	HR/Ncfsc	#12	בְּ בַת	be./vat-	in/ [the] daughter of
+#14	يَهُوذَا	{H3063G}	HNpl	#13	יְהוּדָ֔ה	ye.hu.Dah	Judah
+#15	النَّوْحَ	{H8386}	HNcfsa	#14	תַּאֲנִיָּ֖ה	ta.'a.ni.Yah	mourning
+#16	وَالْحُزْنَ.	H9002/{H0592}\H9016\ \H9018	HC/Ncfsa	#15	וַ אֲנִיָּֽה	va./'a.ni.Yah	and/ lamentation
+
+Lam.2.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وَنَزَعَ	H9001/{H2554}	Hc/Vqw3ms	#01	וַ יַּחְמֹ֤ס	va/i.yach.Mos	and/ he has treated violently
+#02 - #04	كَمَا مِنْ جَنَّةٍ	H9004/{H1588M}	HRd/Ncbsa	#02	כַּ גַּן֙	ka./Gan	like <the>/ garden
+#05	مَظَلَّتَهُ.	{H7900}/H9023	HNcmsc/Sp3ms	#03	שֻׂכּ֔ וֹ	su.K/o	booth/ his
+#06	أَهْلَكَ	{H7843}	HVpp3ms	#04	שִׁחֵ֖ת	shi.Chet	he has ruined
+#07	مُجْتَمَعَهُ.	{H4150I}/H9023	HNcmsc/Sp3ms	#05	מוֹעֲד֑ וֹ	mo.'a.D/o	appointed place/ his
+#08	أَنْسَى	{H7911}	HVpp3ms	#06	שִׁכַּ֨ח	shi.Kach	he has caused to be forgotten
+#09	الرَّبُّ	{H3068G}\H9015	HNpt	#07	יְהוָ֤ה	Yah.weh	Yahweh
+#10 - #11	فِي صِهْيَوْنَ	H9003/{H6726}	HR/Npl	#08	בְּ צִיּוֹן֙	be./tzi.yOn	in/ Zion
+#12	الْمَوْسِمَ	{H4150H}	HNcmsa	#09	מוֹעֵ֣ד	mo.'Ed	appointed feast
+#13	وَالسَّبْتَ،	H9002/{H7676}	HC/Ncfsa	#10	וְ שַׁבָּ֔ת	ve./sha.Bat	and/ sabbath
+#14	وَرَذَلَ	H9001/{H5006}	Hc/Vqw3ms	#11	וַ יִּנְאַ֥ץ	va/i.yin.'Atz	and/ he has spurned
+#15	بِسَخَطِ	H9003/{H2195}\H9014	HR/Ncmsc	#12	בְּ זַֽעַם	be./za.'am-	in/ [the] indignation of
+#16	غَضَبِهِ	{H0639G}/H9023	HNcmsc/Sp3ms	#13	אַפּ֖ וֹ	'a.P/o	anger/ his
+#17	الْمَلِكَ	{H4428G}	HNcmsa	#14	מֶ֥לֶךְ	Me.lekh	king
+#18	وَالْكَاهِنَ.	H9002/{H3548}\H9016\ \H9018	HC/Ncmsa	#15	וְ כֹהֵֽן	ve./kho.Hen	and/ priest
+
+Lam.2.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَرِهَ	{H2186A}	HVqp3ms	#01	זָנַ֨ח	za.Nach	he has rejected
+#02	السَّيِّدُ	{H0136}\H9015	HNpt	#02	אֲדֹנָ֤י	'a.do.Nai	[the] Lord
+#03	مَذْبَحَهُ.	{H4196}/H9023	HNcmsc/Sp3ms	#03	מִזְבְּח וֹ֙	miz.be.Ch/o	altar/ his
+#04	رَذَلَ	{H5010}	HVpp3ms	#04	נִאֵ֣ר	ni.'Er	he has repudiated
+#05	مَقْدِسَهُ.	{H4720}/H9023	HNcmsc/Sp3ms	#05	מִקְדָּשׁ֔ וֹ	mik.da.Sh/o	sanctuary/ his
+#06	حَصَرَ	{H5462}	HVhp3ms	#06	הִסְגִּיר֙	his.Gir	he has delivered up
+#07 - #08	فِي يَدِ	H9003/{H3027H}\H9014	HR/Ncbsc	#07	בְּ יַד	be./yad-	in/ [the] hand of
+#09	الْعَدُوِّ	{H0341}	HVqrmsa	#08	אוֹיֵ֔ב	'o.Yev	an enemy
+#10	أَسْوَارَ	{H2346G}	HNcfpc	#09	חוֹמֹ֖ת	cho.Mot	[the] walls of
+#11	قُصُورِهَا.	{H0759G}/H9024	HNcfpc/Sp3fs	#10	אַרְמְנוֹתֶ֑י הָ	'ar.me.no.Tei./ha	palaces/ its
+#12	أَطْلَقُوا	{H5414M}	HVqp3cp	#12	נָתְנ֥וּ	na.te.Nu	people have given forth
+#13	الصَّوْتَ	{H6963H}	HNcmsa	#11	ק֛וֹל	Kol	voice
+#14 - #15	فِي بَيْتِ	H9003/{H1004Q}\H9014	HR/Ncmsc	#13	בְּ בֵית	be./veit-	in/ [the] house of
+#16	الرَّبِّ	{H3068G}	HNpt	#14	יְהוָ֖ה	Yah.weh	Yahweh
+#17 - #19	كَمَا فِي يَوْمِ	H9004/{H3117G}	HR/Ncmsc	#15	כְּ י֥וֹם	ke./Yom	like/ [the] day of
+#20	الْمَوْسِمِ.	{H4150H}\H9016\ \H9018	HNcmsa	#16	מוֹעֵֽד	mo.'Ed	an appointed feast
+
+Lam.2.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	قَصَدَ	{H2803I}	HVqp3ms	#01	חָשַׁ֨ב	cha.Shav	he has planned
+#02	الرَّبُّ	{H3068G}\H9015	HNpt	#02	יְהוָ֤ה	Yah.weh	Yahweh
+#03 - #04	أَنْ يُهْلِكَ	H9005/{H7843}	HR/Vhcc	#03	לְ הַשְׁחִית֙	le./hash.Chit	to/ destroy
+#05	سُورَ	{H2346G}	HNcfsc	#04	חוֹמַ֣ת	cho.Mat	[the] wall of
+#06	بِنْتِ	{H1323G}\H9014	HNcfsc	#05	בַּת	bat-	[the] daughter of
+#07	صِهْيَوْنَ.	{H6726}	HNpl	#06	צִיּ֔וֹן	tzi.Yon	Zion
+#08	مَدَّ	{H5186}	HVqp3ms	#07	נָ֣טָה	Na.tah	he has stretched out
+#09	الْمِطْمَارَ.	{H6957B}	HNcmsa	#08	קָ֔ו	Kav	a measuring-line
+#10	لَمْ	{H3808}\H9014	HTn	#09	לֹא	lo'-	not
+#11	يَرْدُدْ	{H7725I}	HVhp3ms	#10	הֵשִׁ֥יב	he.Shiv	he has turned back
+#12	يَدَهُ	{H3027G}/H9023	HNcbsc/Sp3ms	#11	יָד֖ וֹ	ya.D/o	hand/ his
+#13 - #14	عَنِ الإِهْلاَكِ،	H9006/{H1104}	HR/Vpcc	#12	מִ בַּלֵּ֑עַ	mi./ba.Le.a'	from/ swallowing up
+#15 - #16	وَجَعَلَ الْمِتْرَسَةَ	{H2426}	HNcmsa	#14	חֵ֥ל	chel	rampart
+#17	وَالسُّورَ	H9002/{H2346G}	HC/Ncfsa	#15	וְ חוֹמָ֖ה	ve./cho.Mah	and/ wall
+#18	يَنُوحَانِ.	H9001/{H0056}\H9014	Hc/Vhw3ms	#13	וַ יַּֽאֲבֶל	va/i.ya.'a.vel-	and/ he has caused to mourn
+#19 - #20	قَدْ حَزِنَا	{H0535}\H9016\ \H9018	HVPp3cp	#17	אֻמְלָֽלוּ	'um.La.lu	they have languished
+#21	مَعًا.	{H3162B}	HD	#16	יַחְדָּ֥ו	yach.Dav	together
+
+Lam.2.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	تَاخَتْ	{H2883}	HVqp3cp	#01	טָבְע֤וּ	ta.ve.'U	they have sunk
+#02 - #03	فِي الأَرْضِ	H9003/{H0776H}	HRd/Ncfsa	#02	בָ אָ֙רֶץ֙	va./'A.retz	in the/ ground
+#04	أَبْوَابُهَا.	{H8179G}/H9024	HNcmpc/Sp3fs	#03	שְׁעָרֶ֔י הָ	she.'a.Rei./ha	gates/ its
+#05	أَهْلَكَ	{H0006}	HVpp3ms	#04	אִבַּ֥ד	'i.Bad	he has destroyed
+#06	وَحَطَّمَ	H9002/{H7665}	HC/Vpp3ms	#05	וְ שִׁבַּ֖ר	ve./shi.Bar	and/ he has broken
+#07	عَوَارِضَهَا.	{H1280}/H9024	HNcmpc/Sp3fs	#06	בְּרִיחֶ֑י הָ	be.ri.Chei./ha	bars/ its
+#08	مَلِكُهَا	{H4428G}/H9024	HNcmsc/Sp3fs	#07	מַלְכָּ֨ הּ	mal.Ka/h	king/ its
+#09	وَرُؤَسَاؤُهَا	H9002/{H8269}/H9024	HC/Ncmpc/Sp3fs	#08	וְ שָׂרֶ֤י הָ	ve./sa.Rei./ha	and/ princes/ its
+#10 - #11	بَيْنَ الأُمَمِ.	H9003/{H1471A}	HRd/Ncmpa	#09	בַ גּוֹיִם֙	va./go.Yim	[are] among the/ nations
+#12	لاَ	{H0369}	HNcmsc	#10	אֵ֣ין	'ein	there not
+#13	شَرِيعَةَ.	{H8451}	HNcfsa	#11	תּוֹרָ֔ה	to.Rah	[is] instruction
+#14	أَنْبِيَاؤُهَا	{H5030}/H9024	HNcmpc/Sp3fs	#13	נְבִיאֶ֕י הָ	ne.vi.'Ei./ha	prophets/ its
+#15	أَيْضًا	{H1571}\H9014	HD	#12	גַּם	gam-	also
+#16	لاَ	{H3808}\H9014	HTn	#14	לֹא	lo'-	not
+#17	يَجِدُونَ	{H4672}	HVqp3cp	#15	מָצְא֥וּ	ma.tze.'U	they have found
+#18	رُؤْيَا	{H2377}	HNcmsa	#16	חָז֖וֹן	cha.Zon	a vision
+#19 - #21	مِنْ قِبَلِ الرَّبِّ.	H9006/{H3068G}\H9016\ \H9018	HR/Npt	#17	מֵ יְהוָֽה	me./Yah.weh	from/ Yahweh
+
+Lam.2.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	شُيُوخُ	{H2205G}	HAampc	#04	זִקְנֵ֣י	zik.Nei	[the] elders of
+#02	بِنْتِ	{H1323G}\H9014	HNcfsc	#05	בַת	vat-	[the] daughter of
+#03	صِهْيَوْنَ	{H6726}	HNpl	#06	צִיּ֔וֹן	tzi.Yon	Zion
+#04	يَجْلِسُونَ	{H3427}	HVqi3mp	#01	יֵשְׁב֨וּ	ye.she.Vu	they sit
+#05 - #06	عَلَى الأَرْضِ	H9005/{H0776H}	HRd/Ncfsa	#02	לָ אָ֤רֶץ	la./'A.retz	to the/ ground
+#07	سَاكِتِينَ.	{H1826H}	HVqi3mp	#03	יִדְּמוּ֙	yi.de.Mu	they are silent
+#08	يَرْفَعُونَ	{H5927H}	HVhp3cp	#07	הֶֽעֱל֤וּ	he.'e.Lu	they have caused to rise
+#09	التُّرَابَ	{H6083}	HNcmsa	#08	עָפָר֙	'a.Far	dust
+#10	عَلَى	{H5921A}\H9014	HR	#09	עַל	'al-	on
+#11	رُؤُوسِهِمْ.	{H7218A}/H9028	HNcmsc/Sp3mp	#10	רֹאשָׁ֔ ם	ro.Sha/m	head/ their
+#12	يَتَنَطَّقُونَ	{H2296}	HVqp3cp	#11	חָגְר֖וּ	cha.ge.Ru	they have girded on
+#13	بِالْمُسُوحِ.	{H8242}	HNcmpa	#12	שַׂקִּ֑ים	sa.Kim	sackcloth<s>
+#14	تَحْنِي	{H3381}	HVhp3cp	#13	הוֹרִ֤ידוּ	ho.Ri.du	they have brought down
+#15	عَذَارَى	{H1330}	HNcfpc	#16	בְּתוּלֹ֖ת	be.tu.Lot	[the] virgins of
+#16	أُورُشَلِيمَ	{H3389}\H9016\ \H9018	HNpl	#17	יְרוּשָׁלִָֽם	ye.ru.sha.Lim	Jerusalem
+#17	رُؤُوسَهُنَّ	{H7218A}/H9029	HNcmsc/Sp3fp	#15	רֹאשָׁ֔ ן	ro.Sha/n	head/ their
+#18 - #19	إِلَى الأَرْضِ.	H9005/{H0776H}	HRd/Ncfsa	#14	לָ אָ֙רֶץ֙	la./'A.retz	to the/ ground
+
+Lam.2.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَلَّتْ	{H3615J}	HVqp3cp	#01	כָּל֨וּ	ka.Lu	they have failed
+#02 - #03	مِنَ الدُّمُوعِ	H9003/{H1832}	HRd/Ncfpa	#02	בַ דְּמָע֤וֹת	va./de.ma.'ot	by <the>/ tears
+#04	عَيْنَايَ.	{H5869A}/H9020	HNcfdc/Sp1bs	#03	עֵינַ י֙	'ei.Na/i	eyes/ my
+#05	غَلَتْ	{H2560A}	HVpp3cp	#04	חֳמַרְמְר֣וּ	cho.mar.me.Ru	they are in turmoil
+#06	أَحْشَائِي.	{H4578}/H9020	HNcmpc/Sp1bs	#05	מֵעַ֔ י	me.'A/i	inward parts/ my
+#07	انْسَكَبَتْ	{H8210G}	HVNp3ms	#06	נִשְׁפַּ֤ךְ	nish.Pakh	it has been poured out
+#08 - #09	عَلَى الأَرْضِ	H9005/{H0776H}	HRd/Ncfsa	#07	לָ אָ֙רֶץ֙	la./'A.retz	to the/ ground
+#10	كَبِدِي	{H3516}/H9020	HNcfsc/Sp1bs	#08	כְּבֵדִ֔ י	ke.ve.D/i	liver/ my
+#11	عَلَى	{H5921A}\H9014	HR	#09	עַל	'al-	on
+#12	سَحْقِ	{H7667}	HNcmsc	#10	שֶׁ֖בֶר	She.ver	[the] brokenness of
+#13	بِنْتِ	{H1323G}\H9014	HNcfsc	#11	בַּת	bat-	[the] daughter of
+#14	شَعْبِي،	{H5971A}/H9020	HNcmsc/Sp1bs	#12	עַמִּ֑ י	'a.M/i	people/ my
+#15 - #16	لأَجْلِ غَشَيَانِ	H9003/{H5848C}	HR/VNcc	#13	בֵּֽ עָטֵ֤ף	be./'a.Tef	because/ faint
+#17	الأَطْفَالِ	{H5768}	HNcmsa	#14	עוֹלֵל֙	o.Lel	child
+#18	وَالرُّضَّعِ	H9002/{H3243}	HC/Ncmsa	#15	וְ יוֹנֵ֔ק	ve./yo.Nek	and/ sucking child
+#19 - #20	فِي سَاحَاتِ	H9003/{H7339}	HR/Ncfpc	#16	בִּ רְחֹב֖וֹת	bi/r.cho.Vot	in/ [the] open places of
+#21	الْقَرْيَةِ.	{H7151}\H9016\ \H9018	HNcfsa	#17	קִרְיָֽה	kir.Yah	a town
+
+Lam.2.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	يَقُولُونَ	{H0559}	HVqi3mp	#02	יֹֽאמְר֔וּ	yo.me.Ru	they say
+#02	لأُمَّهَاتِهِمْ:	H9005/{H0517}/H9028	HR/Ncfpc/Sp3mp	#01	לְ אִמֹּתָ ם֙	le./'i.mo.Ta/m	to/ mothers/ their
+#03	أَيْنَ	{H0346}	HTi	#03	אַיֵּ֖ה	'ai.Yeh	where?
+#04	الْحِنْطَةُ	{H1715}	HNcmsa	#04	דָּגָ֣ן	da.Gan	[are] grain
+#05	وَالْخَمْرُ.	H9002/{H3196}	HC/Ncmsa	#05	וָ יָ֑יִן	va./Ya.yin	and/ wine
+#06 - #08	إِذْ يُغْشَى عَلَيْهِمْ	H9003/{H5848C}/H9048	HR/Vtcc/Sp3mp	#06	בְּ הִֽתְעַטְּפָ֤ ם	be./hit.'a.te.Fa/m	when/ faint away/ they
+#09	كَجَرِيحٍ	H9004/{H2491H}	HRd/Aamsa	#07	כֶּֽ חָלָל֙	ke./cha.Lal	like <the>/ [one] fatally wounded
+#10 - #11	فِي سَاحَاتِ	H9003/{H7339}	HR/Ncfpa	#08	בִּ רְחֹב֣וֹת	bi/r.cho.Vot	in/ [the] open places of
+#12	الْمَدِينَةِ،	{H5892B}	HNcfsa	#09	עִ֔יר	'Ir	a city
+#13 - #14	إِذْ تُسْكَبُ	H9003/{H8210G}	HR/Vtcc	#10	בְּ הִשְׁתַּפֵּ֣ךְ	be./hish.ta.Pekh	when/ pours itself out
+#15	نَفْسُهُمْ	{H5315H}/H9028	HNcfsc/Sp3mp	#11	נַפְשָׁ֔ ם	naf.Sha/m	life/ their
+#16	فِي	{H0413}\H9014	HR	#12	אֶל	'el-	to
+#17	أَحْضَانِ	{H2436G}	HNcmsc	#13	חֵ֖יק	cheik	[the] bosom of
+#18	أُمَّهَاتِهِمْ.	{H0517}/H9028\H9016\ \H9018	HNcfpc/Sp3mp	#14	אִמֹּתָֽ ם	'i.mo.Ta/m	mothers/ their
+
+Lam.2.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بِمَاذَا	{H4100}\H9014	HPi	#01	מָֽה	mah-	what?
+#02	أُنْذِرُكِ.	{H5749B}/H9032	HVhi1cs/Sp2fs	#02	אֲעִידֵ֞ ךְ	'a.'i.De/kh	will I testify for/ you
+#03	بِمَاذَا						
+#04	أُحَذِّرُكِ.						
+#05	بِمَاذَا	{H4100}	HPi	#03	מָ֣ה	mah	what?
+#06	أُشَبِّهُكِ	{H1819}\H9014; H9005/{H9032}	HVpi1cs; HR/Sp2fs	#04; #05	אֲדַמֶּה; לָּ֗ ךְ	'a.da.meh-; La/kh	will I liken; to/ you
+#07 - #08	يَا ابْنَةَ	H9009/{H1323G}	HTd/Ncfsc	#06	הַ בַּת֙	ha./Bat	O/ daughter of
+#09	أُورُشَلِيمَ.	{H3389}	HNpl	#07	יְר֣וּשָׁלִַ֔ם	ye.Ru.sha.Lim	Jerusalem
+#10	بِمَاذَا	{H4100}	HPi	#08	מָ֤ה	mah	what?
+#11	أُقَايِسُكِ	{H7737A}\H9014; H9005/{H9032}	HVhi1cs; HR/Sp2fs	#09; #10	אַשְׁוֶה; לָּ ךְ֙	'ash.veh-; lo/Kh	will I make equal; to/ you
+#12	فَأُعَزِّيكِ	H9002/{H5162G}/H9032	HC/Vpu1cs/Sp2fs	#11	וַ אֲנַֽחֲמֵ֔ ךְ	va./'a.na.cha.Me/kh	so/ I may comfort/ you
+#13 - #14	أَيَّتُهَا الْعَذْرَاءُ	{H1330}	HNcfsc	#12	בְּתוּלַ֖ת	be.tu.Lat	O virgin of
+#15	بِنْتَ	{H1323G}\H9014	HNcfsc	#13	בַּת	bat-	[the] daughter of
+#16	صِهْيَوْنَ.	{H6726}	HNpl	#14	צִיּ֑וֹן	tzi.Yon	Zion
+#17	لأَنَّ	{H3588A}\H9014	HTc	#15	כִּֽי	ki-	for
+#18	سَحْقَكِ	{H7667}/H9022	HNcmsc/Sp2fs	#18	שִׁבְרֵ֖ ךְ	shiv.Re/kh	brokenness/ your
+#19	عَظِيمٌ	{H1419A}	HAamsa	#16	גָד֥וֹל	ga.Dol	[is] great
+#20	كَالْبَحْرِ.	H9004/{H3220G}	HRd/Ncmsa	#17	כַּ יָּ֛ם	ka/i.Yam	like the/ sea
+#21	مَنْ	{H4310}	HPi	#19	מִ֥י	mi	who?
+#22	يَشْفِيكِ.	{H7495}\H9014; H9005/{H9032}\H9016\ \H9018	HVqi3ms; HR/Sp2fs	#20; #21	יִרְפָּא; לָֽ ךְ	yir.pa'-; La/kh	will he heal; <to>/ you
+
+Lam.2.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَنْبِيَاؤُكِ	{H5030}/H9022	HNcmpc/Sp2fs	#01	נְבִיאַ֗יִ ךְ	ne.vi.'A.yi/kh	prophets/ your
+#02	رَأَوْا	{H2372}	HVqp3cp	#02	חָ֤זוּ	Cha.zu	they have seen
+#03	لَكِ	H9005/{H9032}	HR/Sp2fs	#03	לָ ךְ֙	lo/Kh	for/ you
+#04	كَذِبًا	{H7723G}	HNcmsa	#04	שָׁ֣וְא	shav'	worthlessness
+#05	وَبَاطِلاً،	H9002/{H8602A}	HC/Acmsa	#05	וְ תָפֵ֔ל	ve./ta.Fel	and/ sham
+#06	وَلَمْ	H9002/{H3808}\H9014	HC/Tn	#06	וְ לֹֽא	ve./lo'-	and/ not
+#07	يُعْلِنُوا	{H1540I}	HVpp3cp	#07	גִלּ֥וּ	gi.Lu	they have made known
+		{H5921A}\H9014	HR	#08	עַל	'al-	on
+#08	إِثْمَكِ	{H5771G}/H9022	HNcmsc/Sp2fs	#09	עֲוֹנֵ֖ ךְ	'a.vo.Ne/kh	iniquity/ your
+#09	لِيَرُدُّوا	H9005/{H7725H}	HR/Vhcc	#10	לְ הָשִׁ֣יב	le./ha.Shiv	to/ turn back
+#10	سَبْيَكِ،	{H7622}/H9022	HNcfsc/Sp2fs	#11Q(k)	שְׁבוּתֵ֑ ךְ	she.vi.te/kh	captivity/ your
+#11 - #12	بَلْ رَأَوْا	H9001/{H2372}	Hc/Vqw3mp	#12	וַ יֶּ֣חֱזוּ	va/i.Ye.che.zu	and/ they have seen
+#13	لَكِ	H9005/{H9032}	HR/Sp2fs	#13	לָ֔ ךְ	La/kh	for/ you
+#14	وَحْيًا	{H4853B}	HNcfpc	#14	מַשְׂא֥וֹת	mas.'ot	oracles of
+#15	كَاذِبًا	{H7723G}	HNcmsa	#15	שָׁ֖וְא	shav'	worthlessness
+#16	وَطَوَائِحَ.	H9002/{H4065}\H9016\ \H9018	HC/Ncmpa	#16	וּ מַדּוּחִֽים	u./ma.du.Chim	and/ enticement<s>
+
+Lam.2.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	يُصَفِّقُ	{H5606A}	HVqp3cp	#01	סָֽפְק֨וּ	sa.fe.Ku	they have clapped
+#02	عَلَيْكِ	{H5921A}/H9032	HR/Sp2fs	#02	עָלַ֤יִ ךְ	'a.La.yi/kh	on/ you
+#03	بِالأَيَادِي	{H3709G}	HNcfda	#03	כַּפַּ֙יִם֙	ka.Pa.yim	hands
+#04	كُلُّ	{H3605}\H9014	HNcmsc	#04	כָּל	kol-	all
+#05	عَابِرِي	{H5674A}	HVqrmpc	#05	עֹ֣בְרֵי	oe.rei	[those who] pass by of
+#06	الطَّرِيقِ.	{H1870K}	HNcbsa	#06	דֶ֔רֶךְ	De.rekh	[the] road
+#07	يَصْفِرُونَ	{H8319}	HVqp3cp	#07	שָֽׁרְקוּ֙	sha.re.Ku	they have hissed
+#08	وَيَنْغُضُونَ	H9001/{H5128}	Hc/Vhw3mp	#08	וַ יָּנִ֣עוּ	va/i.ya.Ni.'u	and/ they have shaken
+#09	رُؤُوسَهُمْ	{H7218A}/H9028	HNcmsc/Sp3mp	#09	רֹאשָׁ֔ ם	ro.Sha/m	head/ their
+#10	عَلَى	{H5921A}\H9014	HR	#10	עַל	'al-	on
+#11	بِنْتِ	{H1323G}	HNcfsc	#11	בַּ֖ת	bat	[the] daughter of
+#12	أُورُشَلِيمَ	{H3389}	HNpl	#12	יְרוּשָׁלִָ֑ם	ye.ru.sha.Lim	Jerusalem
+#13	قَائِلِينَ:						
+#14 - #15	أَهذِهِ هِيَ	H9008/{H2063}	HTi/Tm	#13	הֲ זֹ֣את	ha./Zot	¿/ [is] this
+#16	الْمَدِينَةُ	H9009/{H5892B}	HTd/Ncfsa	#14	הָ עִ֗יר	ha./'Ir	the/ city
+#17 - #18	الَّتِي يَقُولُونَ	H9007/{H0559}	HTr/Vqi3mp	#15	שֶׁ יֹּֽאמְרוּ֙	shei./yo.me.Ru	that/ people said
+#19 - #20	إِنَّهَا كَمَالُ	{H3632}	HAafsc	#16	כְּלִ֣ילַת	ke.Li.lat	perfect of
+#21	الْجَمَالِ،	{H3308}	HNcmsa	#17	יֹ֔פִי	Yo.fi	beauty
+#22	بَهْجَةُ	{H4885}	HNcmsa	#18	מָשׂ֖וֹשׂ	ma.Sos	a joy
+#23	كُلِّ	H9005/{H3605}\H9014	HR/Ncmsc	#19	לְ כָל	le./khol	to/ all
+#24	الأَرْضِ.	H9009/{H0776G}\H9016\ \H9018	HTd/Ncfsa	#20	הָ אָֽרֶץ	ha./'A.retz	the/ earth
+
+Lam.2.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	يَفْتَحُ	{H6475}	HVqp3cp	#01	פָּצ֨וּ	pa.Tzu	they have opened
+#02	عَلَيْكِ	{H5921A}/H9032	HR/Sp2fs	#02	עָלַ֤יִ ךְ	'a.La.yi/kh	on/ you
+#03	أَفْوَاهَهُمْ	{H6310G}/H9028	HNcmsc/Sp3mp	#03	פִּי הֶם֙	pi./Hem	mouth/ their
+#04	كُلُّ	{H3605}\H9014	HNcmsc	#04	כָּל	kol-	all
+#05	أَعْدَائِكِ.	{H0341}/H9022	HVqrmpc/Sp2fs	#05	א֣וֹיְבַ֔יִ ךְ	'oy.Va.yi/kh	enemies/ your
+#06	يَصْفِرُونَ	{H8319}	HVqp3cp	#06	שָֽׁרְקוּ֙	sha.re.Ku	they have hissed
+#07	وَيَحْرِقُونَ	H9001/{H2786}\H9014	Hc/Vqw3mp	#07	וַ יַּֽחַרְקוּ	va/i.ya.char.ku-	and/ they have gnashed
+#08	الأَسْنَانَ.	{H8127G}	HNcfsa	#08	שֵׁ֔ן	Shen	a tooth
+#09	يَقُولُونَ:	{H0559}	HVqp3cp	#09	אָמְר֖וּ	'a.me.Ru	they said
+#10 - #11	قَدْ أَهْلَكْنَاهَا.	{H1104}	HVpp1cp	#10	בִּלָּ֑עְנוּ	bi.La.'e.nu	we have swallowed up
+#12	حَقًّا	{H0389}	HD	#11	אַ֣ךְ	'akh	surely
+#13 - #14	إِنَّ هذَا	{H2088}	HTm	#12	זֶ֥ה	zeh	this
+#15	الْيَوْمَ	H9009/{H3117G}	HTd/Ncmsa	#13	הַ יּ֛וֹם	hai./Yom	[is] the/ day
+#16 - #17	الَّذِي رَجَوْنَاهُ.	H9007/{H6960A}/H9033	HTr/Vpp1cp/Sp3ms	#14	שֶׁ קִּוִּינֻ֖ הוּ	she./ki.vi.Nu./hu	that/ we have waited for/ it
+#18 - #19	قَدْ وَجَدْنَاهُ.	{H4672}	HVqp1cp	#15	מָצָ֥אנוּ	ma.Tza.nu	we have found
+#20 - #21	قَدْ رَأَيْنَاهُ.	{H7200G}\H9016\ \H9018	HVqp1cp	#16	רָאִֽינוּ	ra.'I.nu	we have seen
+
+Lam.2.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فَعَلَ	{H6213A}	HVqp3ms	#01	עָשָׂ֨ה	'a.Sah	he has done
+#02	الرَّبُّ	{H3068G}	HNpt	#02	יְהוָ֜ה	Yah.weh	Yahweh
+#03	مَا	{H0834A}	HTr	#03	אֲשֶׁ֣ר	'a.Sher	what
+#04	قَصَدَ.	{H2161}	HVqp3ms	#04	זָמָ֗ם	za.Mam	he purposed
+#05	تَمَّمَ	{H1214I}	HVpp3ms	#05	בִּצַּ֤ע	bi.Tza'	he has fulfilled
+#06	قَوْلَهُ	{H0565B}/H9023	HNcfsc/Sp3ms	#06	אֶמְרָת וֹ֙	'em.ra.T/o	word/ his
+#07	الَّذِي	{H0834A}	HTr	#07	אֲשֶׁ֣ר	'a.Sher	which
+#08 - #09	أَوْعَدَ بِهِ	{H6680}	HVpp3ms	#08	צִוָּ֣ה	tzi.Vah	he commanded
+#10 - #11	مُنْذُ أَيَّامِ	H9006/{H3117G}\H9014	HR/Ncmpc	#09	מִֽ ימֵי	mi./mei-	from/ days of
+#12	الْقِدَمِ.	{H6924H}	HNcmsa	#10	קֶ֔דֶם	Ke.dem	antiquity
+#13 - #14	قَدْ هَدَمَ	{H2040}	HVqp3ms	#11	הָרַ֖ס	ha.Ras	he has torn down
+#15	وَلَمْ	H9002/{H3808}	HC/Tn	#12	וְ לֹ֣א	ve./Lo'	and/ not
+#16	يَشْفِقْ	{H2550}	HVqp3ms	#13	חָמָ֑ל	cha.Mal	he has spared
+#17	وَأَشْمَتَ	H9001/{H8055}	Hc/Vpw3ms	#14	וַ יְשַׂמַּ֤ח	va/y.sa.Mach	and/ he has caused to rejoice
+#18	بِكِ	{H5921A}/H9032	HR/Sp2fs	#15	עָלַ֙יִ ךְ֙	'a.La.yi/kh	on/ you
+#19	الْعَدُوَّ.	{H0341}	HVqrmsa	#16	אוֹיֵ֔ב	'o.Yev	an enemy
+#20	نَصَبَ	{H7311A}	HVhp3ms	#17	הֵרִ֖ים	he.Rim	he has lifted up
+#21	قَرْنَ	{H7161A}	HNcfsc	#18	קֶ֥רֶן	Ke.ren	[the] horn of
+#22	أَعْدَائِكِ.	{H6862C}/H9022\H9016\ \H9018	HNcmpc/Sp2fs	#19	צָרָֽיִ ךְ	tza.Ra.yi/kh	opponents/ your
+
+Lam.2.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	صَرَخَ	{H6817}	HVqp3ms	#01	צָעַ֥ק	tza.'Ak	it has cried out
+#02	قَلْبُهُمْ	{H3820A}/H9028	HNcmsc/Sp3mp	#02	לִבָּ֖ ם	li.Ba/m	heart/ their
+#03	إِلَى	{H0413}\H9014	HR	#03	אֶל	'el-	to
+#04	السَّيِّدِ.	{H0136}	HNpt	#04	אֲדֹנָ֑י	'a.do.Nai	[the] Lord
+#05 - #06	يَا سُورَ	{H2346G}	HNcfsc	#05	חוֹמַ֣ת	cho.Mat	O wall of
+#07	بِنْتِ	{H1323G}\H9014	HNcfsc	#06	בַּת	bat-	[the] daughter of
+#08	صِهْيَوْنَ	{H6726}	HNpl	#07	צִ֠יּוֹן	Tzi.yon	Zion
+#09	اسْكُبِي	{H3381}	HVhv2fs	#08	הוֹרִ֨ידִי	ho.Ri.di	send down
+#10	الدَّمْعَ	{H1832}	HNcfsa	#10	דִּמְעָה֙	dim.'Ah	tear[s]
+#11	كَنَهْرٍ	H9004/{H5158A}	HRd/Ncmsa	#09	כַ נַּ֤חַל	kha./Na.chal	like <the>/ river
+#12	نَهَارًا	{H3119}	HD	#11	יוֹמָ֣ם	yo.Mam	by day
+#13	وَلَيْلاً.	H9002/{H3915}	HC/Ncmsa	#12	וָ לַ֔יְלָה	va./Lay.lah	and/ night
+#14	لاَ	{H0408}\H9014	HTn	#13	אַֽל	'al-	may not
+#15	تُعْطِي	{H5414G}	HVqj2fs	#14	תִּתְּנִ֤י	ti.te.Ni	you give
+#16	ذَاتَكِ	H9005/{H9032}	HR/Sp2fs	#16	לָ֔ ךְ	La/kh	to/ yourself
+#17	رَاحَةً.	{H6314}	HNcfsc	#15	פוּגַת֙	fu.Gat	rest
+#18	لاَ	{H0408}\H9014	HTn	#17	אַל	'al-	may not
+#19	تَكُفَّ	{H1826A}	HVqj3fs	#18	תִּדֹּ֖ם	ti.Dom	it be still
+#20	حَدَقَةُ	{H1323G}\H9014	HNcfsc	#19	בַּת	bat-	[the] daughter of
+#21	عَيْنِكِ.	{H5869A}/H9022\H9016\ \H9018	HNcfsc/Sp2fs	#20	עֵינֵֽ ךְ	'ei.Ne/kh	eye/ your
+
+Lam.2.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	قُومِي	{H6965B}\H9015	HVqv2fs	#01	ק֣וּמִי	Ku.mi	arise
+#02	اهْتِفِي	{H7442B}	HVqv2fs	#02	רֹ֣נִּי	Ro.ni	cry out
+#03 - #04	فِي اللَّيْلِ	H9003/{H3915}	HRd/Ncmsa	#03Q(k)	בַ לַּ֗יְלָה	va./la.yil	in the/ night
+#05 - #06	فِي أَوَّلِ	H9005/{H7218I}	HR/Ncmsc	#04	לְ רֹאשׁ֙	le./roSh	to/ [the] head of
+#07	الْهُزُعِ.	{H0821}	HNcfpa	#05	אַשְׁמֻר֔וֹת	'ash.mu.Rot	[the] night-watches
+#08	اسْكُبِي	{H8210G}	HVqv2fs	#06	שִׁפְכִ֤י	shif.Khi	pour out
+#09	كَمِيَاهٍ	H9004/{H4325G}	HRd/Ncmpa	#07	כַ מַּ֙יִם֙	kha./Ma.yim	like <the>/ water
+#10	قَلْبَكِ	{H3820A}/H9022	HNcmsc/Sp2fs	#08	לִבֵּ֔ ךְ	li.Be/kh	heart/ your
+#11	قُبَالَةَ	{H5227}	HAcmsc	#09	נֹ֖כַח	No.khach	before
+#12	وَجْهِ	{H6440H}	HNcmpc	#10	פְּנֵ֣י	pe.Nei	[the] presence of
+#13	السَّيِّدِ.	{H0136}	HNpt	#11	אֲדֹנָ֑י	'a.do.Nai	[the] Lord
+#14	ارْفَعِي	{H5375P}	HVqv2fs	#12	שְׂאִ֧י	se.'I	lift up
+#15	إِلَيْهِ	{H0413}/H9033	HR/Sp3ms	#13	אֵלָ֣י ו	'e.La/v	to/ him
+#16	يَدَيْكِ	{H3709G}/H9022	HNcfdc/Sp2fs	#14	כַּפַּ֗יִ ךְ	ka.Pa.yi/kh	hands/ your
+#17	لأَجْلِ	{H5921A}\H9014	HR	#15	עַל	'al-	on
+#18	نَفْسِ	{H5315H}	HNcfsc	#16	נֶ֙פֶשׁ֙	ne.fesh	[the] life
+#19	أَطْفَالِكِ	{H5768}/H9022	HNcmpc/Sp2fs	#17	עֽוֹלָלַ֔יִ ךְ	o.la.La.yi/kh	children/ your
+#20 - #21	الْمَغْشِيِّ عَلَيْهِمْ	H9009/{H5848C}	HTd/Vqsmpa	#18	הָ עֲטוּפִ֥ים	ha./'a.tu.Fim	the/ ones enfeebled
+#22 - #23	مِنَ الْجُوعِ	H9003/{H7458}	HR/Ncmsa	#19	בְּ רָעָ֖ב	be./ra.'Av	by/ hunger
+#24 - #25	فِي رَأْسِ	H9003/{H7218I}	HR/Ncmsc	#20	בְּ רֹ֥אשׁ	be./Rosh	at/ [the] head of
+#26	كُلِّ	{H3605}\H9014	HNcmsc	#21	כָּל	kol-	all
+#27	شَارِعٍ.	{H2351}\H9016\ \H9018	HNcfpa	#22	חוּצֽוֹת	chu.Tzot	[the] streets
+
+Lam.2.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	اُنْظُرْ	{H7200G}	HVqv2ms	#01	רְאֵ֤ה	re.'Eh	see
+#02 - #03	يَا رَبُّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	O Yahweh
+#04	وَتَطَلَّعْ	H9002/{H5027}/H9012	HC/Vhv2ms/Sh	#03	וְֽ הַבִּ֔יטָ ה	ve./ha.Bi.ta/h	and/ look/ .
+#05	بِمَنْ	H9005/{H4310}	HR/Pi	#04	לְ מִ֖י	le./Mi	to/ whom?
+#06	فَعَلْتَ	{H5953A}	HVpp2ms	#05	עוֹלַ֣לְתָּ	o.Lal.ta	have you dealt severely
+#07	هكَذَا.	{H3541}	HD	#06	כֹּ֑ה	Koh	thus
+#08	أَتَأْكُلُ	{H0518H}\H9014; {H0398}	HTc; HVqi3fp	#07; #08	אִם; תֹּאכַ֨לְנָה	'im-; to.Khal.nah	<if>?; will they eat
+#09	النِّسَاءُ	{H0802G}	HNcmpa	#09	נָשִׁ֤ים	na.Shim	women
+#10	ثَمَرَهُنَّ،	{H6529}/H9028	HNcmsc/Sp3mp	#10	פִּרְיָ ם֙	pir.Ya/m	descendant[s]/ their
+#11	أَطْفَالَ	{H5768}	HNcmpc	#11	עֹלֲלֵ֣י	'o.la.Lei	children of
+#12	الْحَضَانَةِ.	{H2949}	HNcmpa	#12	טִפֻּחִ֔ים	ti.pu.Chim	health<s>
+#13	أَيُقْتَلُ	{H0518H}\H9014; {H2026}	HTc; HVNi3ms	#13; #14	אִם; יֵהָרֵ֛ג	'im-; ye.ha.Reg	or?; will he be killed
+#14 - #15	فِي مَقْدِسِ	H9003/{H4720}	HR/Ncmsc	#15	בְּ מִקְדַּ֥שׁ	be./mik.Dash	in/ [the] sanctuary of
+#16	السَّيِّدِ	{H0136}	HNpt	#16	אֲדֹנָ֖י	'a.do.Nai	[the] Lord
+#17	الْكَاهِنُ	{H3548}	HNcmsa	#17	כֹּהֵ֥ן	ko.Hen	priest
+#18	وَالنَّبِيُّ.	H9002/{H5030}\H9016\ \H9018	HC/Ncmsa	#18	וְ נָבִֽיא	ve./na.Vi'	and/ prophet
+
+Lam.2.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	اضْطَجَعَتْ	{H7901G}	HVqp3cp	#01	שָׁכְב֨וּ	sha.khe.Vu	they have lain down
+#02 - #03	عَلَى الأَرْضِ	H9005/{H0776H}	HRd/Ncfsa	#02	לָ אָ֤רֶץ	la./'A.retz	to the/ ground
+#04 - #05	فِي الشَّوَارِعِ	{H2351}	HNcfpa	#03	חוּצוֹת֙	chu.tzOt	streets
+#06	الصِّبْيَانُ	{H5288}	HNcmsa	#04	נַ֣עַר	Na.'ar	youth
+#07	وَالشُّيُوخُ.	H9002/{H2205H}	HC/Aamsa	#05	וְ זָקֵ֔ן	ve./za.Ken	and/ old [person]
+#08	عَذَارَايَ	{H1330}/H9020	HNcfpc/Sp1bs	#06	בְּתוּלֹתַ֥ י	be.tu.lo.Ta/i	young women/ my
+#09	وَشُبَّانِي	H9002/{H0970}/H9020	HC/Ncmpc/Sp1bs	#07	וּ בַחוּרַ֖ י	u./va.chu.Ra/i	and/ young men/ my
+#10	سَقَطُوا	{H5307G}	HVqp3cp	#08	נָפְל֣וּ	na.fe.Lu	they have fallen
+#11	بِالسَّيْفِ.	H9003/{H2719}	HRd/Ncfsa	#09	בֶ חָ֑רֶב	ve./Cha.rev	by the/ sword
+#12 - #13	قَدْ قَتَلْتَ	{H2026}	HVqp2ms	#10	הָרַ֙גְתָּ֙	ha.Rag.ta	you have killed
+#14 - #15	فِي يَوْمِ	H9003/{H3117G}	HR/Ncmsc	#11	בְּ י֣וֹם	be./Yom	in/ [the] day of
+#16	غَضَبِكَ.	{H0639G}/H9021	HNcmsc/Sp2ms	#12	אַפֶּ֔ ךָ	'a.Pe./kha	anger/ your
+#17	ذَبَحْتَ	{H2873}	HVqp2ms	#13	טָבַ֖חְתָּ	ta.Vach.ta	you have slaughtered
+#18	وَلَمْ	{H3808}	HTn	#14	לֹ֥א	lo'	not
+#19	تَشْفِقْ.	{H2550}\H9016\ \H9018	HVqp2ms	#15	חָמָֽלְתָּ	cha.Mal.ta	you have spared
+
+Lam.2.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	قَدْ دَعَوْتَ	{H7121G}	HVqi2ms	#01	תִּקְרָא֩	tik.Ra'	you have summoned
+#03 - #05	كَمَا فِي يَوْمِ	H9004/{H3117G}	HR/Ncmsc	#02	כְ י֨וֹם	khe./Yom	like/ [the] day of
+#06	مَوْسِمٍ	{H4150H}	HNcmsa	#03	מוֹעֵ֤ד	mo.'Ed	an appointed feast
+#07	مَخَاوِفِي	{H4032}/H9020	HNcmpc/Sp1bs	#04	מְגוּרַ י֙	me.gu.Ra/i	terrors/ my
+#08	حَوَالَيَّ،	H9006/{H5439H}	HR/Ncbsa	#05	מִ סָּבִ֔יב	mi./sa.Viv	from/ round about
+#09	فَلَمْ	H9002/{H3808}	HC/Tn	#06	וְ לֹ֥א	ve./Lo'	and/ not
+#10	يَكُنْ	{H1961}	HVqp3ms	#07	הָיָ֛ה	ha.Yah	he was
+#11 - #12	فِي يَوْمِ	H9003/{H3117G}	HR/Ncmsc	#08	בְּ י֥וֹם	be./Yom	in/ [the] day of
+#13	غَضَبِ	{H0639G}\H9014	HNcmsc	#09	אַף	'af-	[the] anger of
+#14	الرَّبِّ	{H3068G}	HNpt	#10	יְהוָ֖ה	Yah.weh	Yahweh
+#15	نَاجٍ	{H6412A}	HNcmsa	#11	פָּלִ֣יט	pa.Lit	an escapee
+#16 - #17	وَلاَ بَاق.	H9002/{H8300}	HC/Ncmsa	#12	וְ שָׂרִ֑יד	ve./sa.Rid	and/ a survivor
+#18	اَلَّذِينَ	{H0834A}\H9014	HTr	#13	אֲשֶׁר	'a.Sher-	[those] whom
+#19	حَضَنْتُهُمْ	{H2946}	HVpp1cs	#14	טִפַּ֥חְתִּי	ti.Pach.ti	I had given birth
+#20	وَرَبَّيْتُهُمْ	H9002/{H7235A}	HC/Vpp1cs	#15	וְ רִבִּ֖יתִי	ve./ri.Bi.ti	and/ I had reared
+#21	أَفْنَاهُمْ	{H3615H}/H9038\H9016\ \H9017	HVpp3ms/Sp3mp	#17	כִלָּֽ ם	khi.La/m	he has made an end of/ them
+#22	عَدُوِّي.	{H0341}/H9020	HVqrmsc/Sp1bs	#16	אֹיְבִ֥ י	'o.ye.V/i	enemy/ my
+
+Lam.3.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	أَنَا هُوَ	{H0589}	HPp1bs	#01	אֲנִ֤י	'a.Ni	I
+#03	الرَّجُلُ	H9009/{H1397}	HTd/Ncmsa	#02	הַ גֶּ֙בֶר֙	ha./Ge.ver	[am] the/ man
+#04 - #05	الَّذِي رأَى	{H7200G}	HVqp3ms	#03	רָאָ֣ה	ra.'Ah	[who] he has seen
+#06	مَذَلَّةً	{H6040}	HNcmsa	#04	עֳנִ֔י	'o.Ni	affliction
+#07	بِقَضِيبِ	H9003/{H7626G}	HR/Ncmsc	#05	בְּ שֵׁ֖בֶט	be./She.vet	by/ [the] rod of
+#08	سَخَطِهِ.	{H5678}/H9023\H9016	HNcfsc/Sp3ms	#06	עֶבְרָתֽ וֹ	ev.ra.T/o	fury/ his
+
+Lam.3.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	قَادَنِي	{H0853}/H9030; {H5090A}	HTo/Sp1bs; HVqp3ms	#01; #02	אוֹתִ֥ י; נָהַ֛ג	'o.T/i; na.Hag	<obj.>/ me; he has driven
+#02	وَسَيَّرَنِي	H9001/{H1980J}	Hc/Vhw3ms	#03	וַ יֹּלַ֖ךְ	va/i.yo.Lakh	and/ he has made walk
+#03 - #04	فِي الظَّلاَمِ	{H2822}	HNcmsa	#04	חֹ֥שֶׁךְ	Cho.shekh	darkness
+#05	وَلاَ	H9002/{H3808}\H9014	HC/Tn	#05	וְ לֹא	ve./lo'-	and/ not
+#06	نُورَ.	{H0216}\H9016	HNcfsa	#06	אֽוֹר	'or	light
+
+Lam.3.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	حَقًّا	{H0389}	HD	#01	אַ֣ךְ	'akh	surely
+#02 - #03	إِنَّهُ يَعُودُ	{H7725G}	HVqi3ms	#03	יָשֻׁ֛ב	ya.Shuv	he returned
+#04	وَيَرُدُّ	{H2015}	HVqi3ms	#04	יַהֲפֹ֥ךְ	ya.ha.Fokh	he turned
+#05	عَلَيَّ	H9003/{H9030}	HR/Sp1bs	#02	בִּ֥ י	b/i	on/ me
+#06	يَدَهُ	{H3027G}/H9023	HNcbsc/Sp3ms	#05	יָד֖ וֹ	ya.D/o	hand/ his
+#07	الْيَوْمَ	H9009/{H3117G}\H9016\ \H9018	HTd/Ncmsa	#07	הַ יּֽוֹם	hai./Yom	the/ day
+#08	كُلَّهُ.	{H3605}\H9014	HNcmsc	#06	כָּל	kol-	all
+
+Lam.3.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَبْلَى	{H1086}	HVpp3ms	#01	בִּלָּ֤ה	bi.Lah	he has made to waste away
+#02	لَحْمِي	{H1320}/H9020	HNcmsc/Sp1bs	#02	בְשָׂרִ י֙	ve.sa.R/i	flesh/ my
+#03	وَجِلْدِي.	H9002/{H5785}/H9020	HC/Ncmsc/Sp1bs	#03	וְ עוֹרִ֔ י	ve./'o.R/i	and/ skin/ my
+#04	كَسَّرَ	{H7665}	HVpp3ms	#04	שִׁבַּ֖ר	shi.Bar	he has broken
+#05	عِظَامِي.	{H6106G}/H9020\H9016	HNcfpc/Sp1bs	#05	עַצְמוֹתָֽ י	atz.mo.Ta/i	bones/ my
+
+Lam.3.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بَنَى	{H1129}	HVqp3ms	#01	בָּנָ֥ה	ba.Nah	he has built
+#02	عَلَيَّ	{H5921A}/H9030	HR/Sp1bs	#02	עָלַ֛ י	'a.La/i	on/ me
+#03	وَأَحَاطَنِي	H9001/{H5362B}	Hc/Vhw3ms	#03	וַ יַּקַּ֖ף	va/i.ya.Kaf	and/ he has surrounded [me]
+#04	بِعَلْقَمٍ	{H7219}	HNcmsa	#04	רֹ֥אשׁ	rosh	poison
+#05	وَمَشَقَّةٍ.	H9002/{H8513}\H9016	HC/Ncfsa	#05	וּ תְלָאָֽה	u./te.la.'Ah	and/ hardship
+
+Lam.3.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَسْكَنَنِي	{H3427}/H9030	HVhp3ms/Sp1bs	#02	הוֹשִׁיבַ֖ נִי	ho.shi.Va./ni	he has caused to dwell/ me
+#02 - #03	فِي ظُلُمَاتٍ	H9003/{H4285}	HR/Ncmpa	#01	בְּ מַחֲשַׁכִּ֥ים	be./ma.cha.sha.Kim	in/ dark places
+#04	كَمَوْتَى	H9004/{H4191}	HR/Vqrmpc	#03	כְּ מֵתֵ֥י	ke./me.Tei	like/ dead people of
+#05	الْقِدَمِ.	{H5769J}\H9016\ \H9018	HNcmsa	#04	עוֹלָֽם	o.Lam	antiquity
+
+Lam.3.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	سَيَّجَ	{H1443}	HVqp3ms	#01	גָּדַ֧ר	ga.Dar	he has walled up
+#02	عَلَيَّ	{H1157}/H9030	HAcbsc/Sp1bs	#02	בַּעֲדִ֛ י	ba.'a.D/i	behind/ me
+#03	فَلاَ	H9002/{H3808}	HC/Tn	#03	וְ לֹ֥א	ve./Lo'	and/ not
+#04 - #05	أَسْتَطِيعُ الْخُرُوجَ.	{H3318G}	HVqi1cs	#04	אֵצֵ֖א	'e.Tze'	I will go out
+#06	ثَقَّلَ	{H3513H}	HVhp3ms	#05	הִכְבִּ֥יד	hikh.Bid	he has made heavy
+#07	سِلْسِلَتِي.	{H5178A}/H9020\H9016	HNcfsc/Sp1bs	#06	נְחָשְׁתִּֽ י	ne.cha.she.T/i	bronze fetter[s]/ my
+
+Lam.3.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَيْضًا	{H1571}	HD	#01	גַּ֣ם	gam	also
+#02	حِينَ	{H3588A}	HTc	#02	כִּ֤י	ki	if
+#03	أَصْرُخُ	{H2199}	HVqi1cs	#03	אֶזְעַק֙	'ez.'Ak	I will cry out
+#04	وَأَسْتَغِيثُ	H9002/{H7768}	HC/Vpu1cs	#04	וַ אֲשַׁוֵּ֔עַ	va./'a.sha.Ve.a'	and/ I may cry for help
+#05	يَصُدُّ	{H5640B}	HVqp3ms	#05	שָׂתַ֖ם	sa.Tam	he has shut out
+#06	صَلاَتِي.	{H8605}/H9020\H9016	HNcfsc/Sp1bs	#06	תְּפִלָּתִֽ י	te.fi.la.T/i	prayer/ my
+
+Lam.3.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	سَيَّجَ	{H1443}	HVqp3ms	#01	גָּדַ֤ר	ga.Dar	he has walled up
+#02	طُرُقِي	{H1870K}/H9020	HNcbpc/Sp1bs	#02	דְּרָכַ י֙	de.ra.Kha/i	ways/ my
+#03 - #04	بِحِجَارَةٍ مَنْحُوتَةٍ.	H9003/{H1496}	HR/Ncfsa	#03	בְּ גָזִ֔ית	be./ga.Zit	with/ hewn [stone]
+#05	قَلَبَ	{H5753A}\H9016\ \H9018	HVpp3ms	#05	עִוָּֽה	'i.Vah	he has made crooked
+#06	سُبُلِي.	{H5410B}/H9020	HNcfpc/Sp1bs	#04	נְתִיבֹתַ֖ י	ne.ti.vo.Ta/i	paths/ my
+
+Lam.3.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	هُوَ	{H1931}	HPp3ms	#03	הוּא֙	hu'	he
+#02	لِي	H9005/{H9030}	HR/Sp1bs	#04	לִ֔ י	L/i	to/ me
+#03	دُبٌّ	{H1677}	HNcbsa	#01	דֹּ֣ב	do	[is] a bear
+#04	كَامِنٌ،	{H0693}	HVqrmsa	#02	אֹרֵ֥ב	'o.Rev	lying in wait
+#05	أَسَدٌ	{H0738A}	HNcmsa	#05Q(K)	אֲרִ֖י	'ar.yeh	a lion
+#06 - #07	فِي مَخَابِىءَ.	H9003/{H4565}\H9016	HR/Ncmpa	#06	בְּ מִסְתָּרִֽים	be./mis.ta.Rim	in/ hiding places
+
+Lam.3.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	مَيَّلَ	{H5493I}	HVpp3ms	#02	סוֹרֵ֛ר	so.Rer	he has caused to deviate
+#02	طُرُقِي	{H1870L}/H9020	HNcbpc/Sp1bs	#01	דְּרָכַ֥ י	de.ra.Kha/i	ways/ my
+#03	وَمَزَّقَنِي.	H9001/{H6582}/H9030	Hc/Vpw3ms/Sp1bs	#03	וַֽ יְפַשְּׁחֵ֖ נִי	va/y.fa.she.Che./ni	and/ he has torn in pieces/ me
+#04	جَعَلَنِي	{H7760A}/H9030	HVqp3ms/Sp1bs	#04	שָׂמַ֥ נִי	sa.Ma./ni	he has made/ me
+#05	خَرَابًا.	{H8076}\H9016	HVqrmsa	#05	שֹׁמֵֽם	sho.Mem	desolate
+
+Lam.3.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	مَدَّ	{H1869}	HVqp3ms	#01	דָּרַ֤ךְ	da.Rakh	he has bent
+#02	قَوْسَهُ	{H7198}/H9023	HNcfsc/Sp3ms	#02	קַשְׁת וֹ֙	kash.T/o	bow/ his
+#03	وَنَصَبَنِي	H9001/{H5324}/H9030	Hc/Vhw3ms/Sp1bs	#03	וַ יַּצִּיבֵ֔ נִי	va/i.ya.tzi.Ve./ni	and/ he has set up/ me
+#04	كَغَرَضٍ	H9004/{H4307H}	HRd/Ncfsa	#04	כַּ מַּטָּרָ֖א	ka./ma.ta.Ra'	like <the>/ target
+#05	لِلسَّهْمِ.	H9005/{H2671}\H9016\ \H9018	HRd/Ncmsa	#05	לַ חֵֽץ	la./Chetz	for <the>/ arrow
+
+Lam.3.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَدْخَلَ	{H0935P}	HVhp3ms	#01	הֵבִיא֙	he.Vi'	he has brought
+#02 - #03	فِي كُلْيَتَيَّ	H9003/{H3629}/H9020	HR/Ncfpc/Sp1bs	#02	בְּ כִלְיוֹתָ֔ י	be./khil.yo.Ta/i	in/ kidneys/ my
+#04	نِبَالَ	{H1121I}	HNcmpc	#03	בְּנֵ֖י	be.Nei	[the] sons of
+#05	جُعْبَتِهِ.	{H0827}/H9023\H9016	HNcfsc/Sp3ms	#04	אַשְׁפָּתֽ וֹ	'ash.pa.T/o	quiver/ his
+
+Lam.3.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	صِرْتُ	{H1961}	HVqp1cs	#01	הָיִ֤יתִי	ha.Yi.ti	I have become
+#02	ضُحْكَةً	{H7814}	HNcmsa	#02	שְּׂחֹק֙	se.Chok	a laughingstock
+#03	لِكُلِّ	H9005/{H3605}\H9014	HR/Ncmsc	#03	לְ כָל	le./khol	to/ all
+#04	شَعْبِي،	{H5971A}/H9020	HNcmsc/Sp1bs	#04	עַמִּ֔ י	'a.M/i	people/ my
+#05 - #06	وَأُغْنِيَةً لَهُمُ	{H5058}/H9028	HNcfsc/Sp3mp	#05	נְגִינָתָ֖ ם	ne.gi.na.Ta/m	taunt song/ their
+#07	الْيَوْمَ	H9009/{H3117G}\H9016	HTd/Ncmsa	#07	הַ יּֽוֹם	hai./Yom	the/ day
+#08	كُلَّهُ.	{H3605}\H9014	HNcmsc	#06	כָּל	kol-	all
+
+Lam.3.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَشْبَعَنِي	{H7646}/H9030	HVhp3ms/Sp1bs	#01	הִשְׂבִּיעַ֥ נִי	his.bi.'A./ni	he has surfeited/ me
+#02	مَرَائِرَ	H9003/{H4844}	HRd/Aampa	#02	בַ מְּרוֹרִ֖ים	va./me.ro.Rim	with <the>/ bitter things
+#03	وَأَرْوَانِي	{H7301}/H9030	HVhp3ms/Sp1bs	#03	הִרְוַ֥ נִי	hir.Va./ni	he has made drink/ me
+#04	أَفْسَنْتِينًا،	{H3939}\H9016\ \H9018	HNcfsa	#04	לַעֲנָֽה	la.'a.Nah	wormwood
+
+Lam.3.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وَجَرَشَ	H9001/{H1638}	Hc/Vhw3ms	#01	וַ יַּגְרֵ֤ס	va/i.yag.Res	and/ he has broken
+#02	بِالْحَصَى	H9003/{H2687}	HRd/Ncmsa	#02	בֶּֽ חָצָץ֙	be./cha.Tzatz	with <the>/ gravel
+#03	أَسْنَانِي.	{H8127G}/H9020	HNcfdc/Sp1bs	#03	שִׁנָּ֔ י	shi.Na/i	teeth/ my
+#04	كَبَسَنِي	{H3728}/H9030	HVhp3ms/Sp1bs	#04	הִכְפִּישַׁ֖ נִי	hikh.pi.Sha./ni	he has made cower/ me
+#05	بِالرَّمَادِ.	H9003/{H0665}\H9016	HRd/Ncmsa	#05	בָּ אֵֽפֶר	ba./'E.fer	in <the>/ ash[es]
+
+Lam.3.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	وَقَدْ أَبْعَدْتَ	H9001/{H2186A}	Hc/Vqw2ms	#01	וַ תִּזְנַ֧ח	va./tiz.Nach	and/ it has excluded
+#03 - #04	عَنِ السَّلاَمِ	H9006/{H7965G}	HR/Ncmsa	#02	מִ שָּׁל֛וֹם	mi./sha.Lom	from/ peace
+#05	نَفْسِي.	{H5315G}/H9020	HNcfsc/Sp1bs	#03	נַפְשִׁ֖ י	naf.Sh/i	self/ my
+#06	نَسِيتُ	{H5382}	HVqp1cs	#04	נָשִׁ֥יתִי	na.Shi.ti	I have forgotten
+#07	الْخَيْرَ.	{H2896C}\H9016	HNcfsa	#05	טוֹבָֽה	to.Vah	good
+
+Lam.3.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وَقُلْتُ:	H9001/{H0559}	Hc/Vqw1cs	#01	וָ אֹמַר֙	va./'o.Mar	and/ I said
+#02	بَادَتْ	{H0006}	HVqp3ms	#02	אָבַ֣ד	'a.Vad	it has perished
+#03	ثِقَتِي	{H5331}/H9020	HNcmsc/Sp1bs	#03	נִצְחִ֔ י	nitz.Ch/i	endurance/ my
+#04	وَرَجَائِي	H9002/{H8431}/H9020	HC/Ncfsc/Sp1bs	#04	וְ תוֹחַלְתִּ֖ י	ve./to.chal.T/i	and/ hope/ my
+#05 - #06	مِنَ الرَّبِّ.	H9006/{H3068G}\H9016\ \H9018	HR/Npt	#05	מֵ יְהוָֽה	me./Yah.weh	from/ Yahweh
+
+Lam.3.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ذِكْرُ	{H2142}\H9014	HVqv2ms	#01	זְכָר	ze.khor-	remember
+#02	مَذَلَّتِي	{H6040}/H9020	HNcmsc/Sp1bs	#02	עָנְיִ֥ י	'a.ne.Y/i	affliction/ my
+#03	وَتَيَهَانِي	H9002/{H4788}/H9020	HC/Ncmsc/Sp1bs	#03	וּ מְרוּדִ֖ י	u./me.ru.D/i	and/ homelessness/ my
+#04	أَفْسَنْتِينٌ	{H3939}	HNcfsa	#04	לַעֲנָ֥ה	la.'a.Nah	wormwood
+#05	وَعَلْقَمٌ.	H9002/{H7219}\H9016	HC/Ncmsa	#05	וָ רֹֽאשׁ	va./Rosh	and/ poison
+
+Lam.3.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	ذِكْرًا	{H2142}	HVqaa	#01	זָכ֣וֹר	za.Khor	continually <remember>
+#02	تَذْكُرُ	{H2142}	HVqi3fs	#02	תִּזְכּ֔וֹר	tiz.Kor	it remembers
+#03	نَفْسِي	{H5315G}/H9020\H9016	HNcfsc/Sp1bs	#05	נַפְשִֽׁ י	naf.Sh/i	self/ my
+#04	وَتَنْحَنِي	H9002/{H7743}	HC/Vqu3fs	#03Q(K)	וְ תָשׁ֥וֹחַ	ve./ta.shi.ach	so/ it may bow down
+#05	فِيَّ.	{H5921A}/H9030	HR/Sp1bs	#04	עָלַ֖ י	'a.La/i	on/ me
+
+Lam.3.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أُرَدِّدُ	{H7725N}	HVhi1cs	#02	אָשִׁ֥יב	'a.Shiv	I bring back
+#02	هذَا	{H2063}	HTm	#01	זֹ֛את	zot	this
+#03	فِي	{H0413}\H9014	HR	#03	אֶל	'el-	to
+#04	قَلْبِي،	{H3820A}/H9020	HNcmsc/Sp1bs	#04	לִבִּ֖ י	li.B/i	heart/ my
+#05 - #06	مِنْ أَجْلِ	{H5921A}\H9014	HR	#05	עַל	'al-	there-
+#07	ذلِكَ	{H3651C}	HD	#06	כֵּ֥ן	ken	-fore
+#08	أَرْجُو:	{H3176H}\H9016\ \H9018	HVhi1cs	#07	אוֹחִֽיל	'o.Chil	I will wait
+
+Lam.3.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #03	إِنَّهُ مِنْ إِحْسَانَاتِ	{H2617A}	HNcmpc	#01	חַֽסְדֵ֤י	chas.Dei	[the] covenant loyalti<es> of
+#04	الرَّبِّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	Yahweh
+#05	أَنَّنَا	{H3588A}	HTc	#03	כִּ֣י	ki	for
+#06	لَمْ	{H3808}\H9014	HTn	#04	לֹא	lo'-	not
+#07	نَفْنَ،	{H8552}	HVqp1cp	#05	תָ֔מְנוּ	Ta.me.nu	we have met our end
+#08	لأَنَّ	{H3588A}	HTc	#06	כִּ֥י	ki	for
+#09	مَرَاحِمَهُ	{H7356B}/H9023\H9016	HNcmpc/Sp3ms	#09	רַחֲמָֽי ו	ra.cha.Ma/v	compassion<s>/ his
+#10	لاَ	{H3808}\H9014	HTn	#07	לֹא	lo'-	not
+#11	تَزُولُ.	{H3615G}	HVqp3cp	#08	כָל֖וּ	kha.Lu	they come to an end
+
+Lam.3.23
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	هِيَ جَدِيدَةٌ	{H2319H}	HAampa	#01	חֲדָשִׁים֙	cha.da.Shim	[they are] new
+#03 - #05	فِي كُلِّ صَبَاحٍ.	H9005/{H1242}	HRd/Ncmpa	#02	לַ בְּקָרִ֔ים	la./be.ka.Rim	to the/ mornings
+#06	كَثِيرَةٌ	{H7227A}	HAafsa	#03	רַבָּ֖ה	ra.Bah	[is] great
+#07	أَمَانَتُكَ.	{H0530}/H9021\H9016	HNcfsc/Sp2ms	#04	אֱמוּנָתֶֽ ךָ	'e.mu.na.Te./kha	faithfulness/ your
+
+Lam.3.24
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	نَصِيبِي هُوَ	{H2506A}/H9020	HNcmsc/Sp1bs	#01	חֶלְקִ֤ י	chel.K/i	[is] portion/ my
+#03	الرَّبُّ،	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	Yahweh
+#04	قَالَتْ	{H0559}	HVqp3fs	#03	אָמְרָ֣ה	'a.me.Rah	it has said
+#05	نَفْسِي،	{H5315G}/H9020	HNcfsc/Sp1bs	#04	נַפְשִׁ֔ י	naf.Sh/i	self/ my
+#06 - #07	مِنْ أَجْلِ	{H5921A}\H9014	HR	#05	עַל	'al-	there-
+#08	ذلِكَ	{H3651C}	HD	#06	כֵּ֖ן	ken	-fore
+#09	أَرْجُوهُ.	{H3176H}; H9005/{H9033}\H9016\ \H9018	HVhi1cs; HR/Sp3ms	#07; #08	אוֹחִ֥יל; לֽ וֹ	'o.Chil; l/o	I will wait; for/ him
+
+Lam.3.25
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	طَيِّبٌ هُوَ	{H2896A}	HAamsa	#01	ט֤וֹב	Tov	[is] good
+#03	الرَّبُّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	Yahweh
+#04 - #05	لِلَّذِينَ يَتَرَجَّوْنَهُ،	H9005/{H6960A}/H9033	HR/Vqrmpc/Sp3ms	#03Q(K)	לְ קוָֹ֔י ו	le./ko.Va/v	to/ [those who] wait for/ him
+#06	لِلنَّفْسِ	H9005/{H5315G}	HR/Ncfsa	#04	לְ נֶ֖פֶשׁ	le./Ne.fesh	to/ anyone
+#07 - #08	الَّتِي تَطْلُبُهُ.	{H1875}/H9033\H9016	HVqi3fs/Sp3ms	#05	תִּדְרְשֶֽׁ נּוּ	tid.re.She./nu	[who] it will seek/ him
+
+Lam.3.26
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	جَيِّدٌ	{H2896A}	HAamsa	#01	ט֤וֹב	Tov	[is] good
+#02 - #04	أَنْ يَنْتَظِرَ الإِنْسَانُ	H9002/{H3175}	HC/Ncbsa	#02	וְ יָחִיל֙	ve./ya.Chil	and/ waiting
+#05 - #06	وَيَتَوَقَّعَ بِسُكُوتٍ	H9002/{H1748}	HC/D	#03	וְ דוּמָ֔ם	ve./du.Mam	and/ silently
+#07	خَلاَصَ	H9005/{H8668G}	HR/Ncfsc	#04	לִ תְשׁוּעַ֖ת	li/t.shu.'At	for/ [the] salvation of
+#08	الرَّبِّ.	{H3068G}\H9016	HNpt	#05	יְהוָֽה	Yah.weh	Yahweh
+
+Lam.3.27
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	جَيِّدٌ	{H2896A}	HAamsa	#01	ט֣וֹב	Tov	[is] good
+#02	لِلرَّجُلِ	H9005/{H1397}	HRd/Ncmsa	#02	לַ גֶּ֔בֶר	la./Ge.ver	for <the>/ man
+#03	أَنْ	{H3588A}\H9014	HTc	#03	כִּֽי	ki-	that
+#04	يَحْمِلَ	{H5375H}	HVqi3ms	#04	יִשָּׂ֥א	yi.Sa'	he will bear
+#05	النِّيرَ	{H5923}	HNcmsa	#05	עֹ֖ל	'ol	a yoke
+#06 - #07	فِي صِبَاهُ.	H9003/{H5271A}/H9023\H9016\ \H9018	HR/Ncmpc/Sp3ms	#06	בִּ נְעוּרָֽי ו	bi/n.'u.Ra/v	in/ youth<s>/ his
+
+Lam.3.28
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	يَجْلِسُ	{H3427}	HVqi3ms	#01	יֵשֵׁ֤ב	ye.Shev	let him sit
+#02	وَحْدَهُ	{H0910}	HNcmsa	#02	בָּדָד֙	ba.Dad	alone
+#03	وَيَسْكُتُ،	H9002/{H1826H}	HC/Vqu3ms	#03	וְ יִדֹּ֔ם	ve./yi.Dom	and/ let him be silent
+#04 - #05	لأَنَّهُ قَدْ	{H3588A}	HTc	#04	כִּ֥י	ki	for
+#06	وَضَعَهُ	{H5190}	HVqp3ms	#05	נָטַ֖ל	na.Tal	he has laid [it]
+#07	عَلَيْهِ.	{H5921A}/H9033\H9016	HR/Sp3ms	#06	עָלָֽי ו	'a.La/v	on/ him
+
+Lam.3.29
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	يَجْعَلُ	{H5414H}	HVqi3ms	#01	יִתֵּ֤ן	yi.Ten	let him put
+#02 - #03	فِي التُّرَابِ	H9003/{H6083}	HRd/Ncmsa	#02	בֶּֽ עָפָר֙	be./'a.Far	in the/ dust
+#04	فَمَهُ	{H6310G}/H9023	HNcmsc/Sp3ms	#03	פִּ֔י הוּ	Pi./hu	mouth/ his
+#05	لَعَلَّهُ	{H0194}	HD	#04	אוּלַ֖י	'u.Lai	perhaps
+#06	يُوجَدُ	{H3426}	HAcbsa	#05	יֵ֥שׁ	yesh	there
+#07	رَجَاءٌ.	{H8615B}\H9016	HNcfsa	#06	תִּקְוָֽה	tik.Vah	[is] hope
+
+Lam.3.30
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	يُعْطِي	{H5414G}	HVqi3ms	#01	יִתֵּ֧ן	yi.Ten	let him give
+#02	خَدَّهُ	{H3895H}	HNcmsa	#03	לֶ֖חִי	Le.chi	a cheek
+#03	لِضَارِبِهِ.	H9005/{H5221}/H9033	HR/Vhrmsc/Sp3ms	#02	לְ מַכֵּ֛ הוּ	le./ma.Ke./hu	to/ [the] [one who] strikes/ him
+#04	يَشْبَعُ	{H7646}	HVqi3ms	#04	יִשְׂבַּ֥ע	yis.Ba'	let him be sated
+#05	عَارًا.	H9003/{H2781}\H9016\ \H9018	HR/Ncfsa	#05	בְּ חֶרְפָּֽה	be./cher.Pah	with/ reproach
+
+Lam.3.31
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لأَنَّ	{H3588A}	HTc	#01	כִּ֣י	ki	for
+#02	السَّيِّدَ	{H0136}\H9016	HNpt	#05	אֲדֹנָֽי	'a.do.Nai	[the] Lord
+#03	لاَ	{H3808}	HTn	#02	לֹ֥א	lo'	not
+#04	يَرْفُضُ	{H2186A}	HVqi3ms	#03	יִזְנַ֛ח	yiz.Nach	he will reject
+#05 - #06	إِلَى الأَبَدِ.	H9005/{H5769G}	HR/Ncmsa	#04	לְ עוֹלָ֖ם	le./'o.Lam	for/ ever
+
+Lam.3.32
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فَإِنَّهُ	{H3588B}; {H0518B}\H9014	HTc; HTc	#01; #02	כִּ֣י; אִם	ki; 'im-	that; except
+#02 - #03	وَلَوْ أَحْزَنَ	{H3013}	HVhp3ms	#03	הוֹגָ֔ה	ho.Gah	he has caused grief
+#04	يَرْحَمُ	H9001/{H7355}	Hc/Vpq3ms	#04	וְ רִחַ֖ם	ve./ri.Cham	and/ he will have compassion
+#05 - #06	حَسَبَ كَثْرَةِ	H9004/{H7230}	HR/Ncmsc	#05	כְּ רֹ֥ב	ke./Ro	according to/ [the] greatness of
+#07	مَرَاحِمِهِ.	{H2617A}/H9023\H9016	HNcmpc/Sp3ms	#06Q(K)	חֲסָדָֽי ו	chas.do/v	covenant loyalti<es>/ his
+
+Lam.3.33
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لأَنَّهُ	{H3588A}	HTc	#01	כִּ֣י	ki	for
+#02	لاَ	{H3808}	HTn	#02	לֹ֤א	lo'	not
+#03	يُذِلُّ	{H6031B}	HVpp3ms	#03	עִנָּה֙	'i.Nah	he has afflicted
+#04 - #05	مِنْ قَلْبِهِ،	H9006/{H3820A}/H9023	HR/Ncmsc/Sp3ms	#04	מִ לִּבּ֔ וֹ	mi./li.B/o	from/ heart/ his
+#06 - #07	وَلاَ يُحْزِنُ	H9001/{H3013}	Hc/Vpw3ms	#05	וַ יַּגֶּ֖ה	va/i.ya.Geh	and/ he has grieved
+#08	بَنِي	{H1121A}\H9014	HNcmpc	#06	בְנֵי	be.nei-	[the] children of
+#09	الإِنْسَانِ.	{H0376G}\H9016\ \H9018	HNcmsa	#07	אִֽישׁ	'Ish	a man
+
+Lam.3.34
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #03	أَنْ يَدُوسَ أَحَدٌ	H9005/{H1792}	HR/Vpcc	#01	לְ דַכֵּא֙	le./da.Ke'	to/ crush
+#04	تَحْتَ	{H8478G}	HNcmsc	#02	תַּ֣חַת	Ta.chat	under
+#05	رِجْلَيْهِ	{H7272}/H9023	HNcfdc/Sp3ms	#03	רַגְלָ֔י ו	rag.La/v	feet/ his
+#06	كُلَّ	{H3605}	HNcmsc	#04	כֹּ֖ל	kol	all
+#07	أَسْرَى	{H0615}	HNcmpc	#05	אֲסִ֥ירֵי	'a.Si.rei	[the] prisoners of
+#08	الأَرْضِ،	{H0776G}\H9016	HNcfsa	#06	אָֽרֶץ	'A.retz	[the] land
+
+Lam.3.35
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	أَنْ يُحَرِّفَ	H9005/{H5186}	HR/Vhcc	#01	לְ הַטּוֹת֙	le./ha.tOt	to/ turn aside
+#03	حَقَّ	{H4941H}\H9014	HNcmsc	#02	מִשְׁפַּט	mish.pat-	[the] justice of
+#04	الرَّجُلِ	{H1397}	HNcmsa	#03	גָּ֔בֶר	Ga.ver	a man
+#05	أَمَامَ	{H5048}	HAcmsc	#04	נֶ֖גֶד	Ne.ged	before
+#06	وَجْهِ	{H6440H}	HNcmpc	#05	פְּנֵ֥י	pe.Nei	[the] presence of
+#07	الْعَلِيِّ،	{H5945B}\H9016	HAamsa	#06	עֶלְיֽוֹן	el.Yon	[the] Most High
+
+Lam.3.36
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	أَنْ يَقْلِبَ	H9005/{H5791}	HR/Vpcc	#01	לְ עַוֵּ֤ת	le./'a.Vet	to/ subvert
+#03	الإِنْسَانَ	{H0120G}	HNcmsa	#02	אָדָם֙	'a.Dam	anyone
+#04 - #05	فِي دَعْوَاهُ.	H9003/{H7379}/H9023	HR/Ncmsc/Sp3ms	#03	בְּ רִיב֔ וֹ	be./ri.V/o	in/ case at law/ his
+#06	السَّيِّدُ	{H0136}	HNpt	#04	אֲדֹנָ֖י	'a.do.Nai	[the] Lord
+#07	لاَ	{H3808}	HTn	#05	לֹ֥א	lo'	not
+#08	يَرَى.	{H7200J}\H9016\ \H9018	HVqp3ms	#06	רָאָֽה	ra.'Ah	he has seen
+
+Lam.3.37
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	مَنْ	{H4310}	HPi	#01	מִ֣י	mi	who?
+#02	ذَا	{H2088}	HTm	#02	זֶ֤ה	zeh	this
+#03 - #04	الَّذِي يَقُولُ	{H0559}	HVqp3ms	#03	אָמַר֙	'a.Mar	has he spoken
+#05	فَيَكُونَ	H9001/{H1961}	Hc/Vqw3fs	#04	וַ תֶּ֔הִי	va./Te.hi	and/ it was
+#06	وَالرَّبُّ	{H0136}	HNpt	#05	אֲדֹנָ֖י	'a.do.Nai	[the] Lord
+#07	لَمْ	{H3808}	HTn	#06	לֹ֥א	lo'	not
+#08	يَأْمُرْ.	{H6680}\H9016	HVpp3ms	#07	צִוָּֽה	tzi.Vah	he commanded [it]
+
+Lam.3.38
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	مِنْ فَمِ	H9006/{H6310G}	HR/Ncmsc	#01	מִ פִּ֤י	mi./Pi	from/ [the] mouth of
+#03	الْعَلِيِّ	{H5945B}	HAamsa	#02	עֶלְיוֹן֙	'el.yOn	[the] Most High
+#04	أَلاَ	{H3808}	HTn	#03	לֹ֣א	lo'	not
+#05	تَخْرُجُ	{H3318G}	HVqi3fs	#04	תֵצֵ֔א	te.Tze'	does it goes forth?
+#06	الشُّرُورُ	H9009/{H7451C}	HTd/Ncfpa	#05	הָ רָע֖וֹת	ha./ra.'ot	the/ troubles
+#07	وَالْخَيْرُ.	H9002/H9009/{H2896A}\H9016	HC/Td/Aamsa	#06	וְ הַ טּֽוֹב	ve./ha./Tov	and/ the/ good
+
+Lam.3.39
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لِمَاذَا	{H4100}\H9014	HPi	#01	מַה	mah-	why?
+#02	يَشْتَكِي	{H0596}	HVti3ms	#02	יִּתְאוֹנֵן֙	yit.'o.Nen	will he complain
+#03	الإِنْسَانُ	{H0120G}	HNcmsa	#03	אָדָ֣ם	'a.Dam	a person
+#04	الْحَيُّ،	{H2416A}	HAamsa	#04	חָ֔י	Chai	living
+#05	الرَّجُلُ	{H1397}	HNcmsa	#05	גֶּ֖בֶר	Ge.ver	a man
+#06	مِنْ	{H5921A}\H9014	HR	#06	עַל	'al-	on
+#07 - #08	قِصَاصِ خَطَايَاهُ.	{H2399}/H9023\H9016\ \H9018	HNcmpc/Sp3ms	#07Q(K)	חֲטָאָֽי ו	chet.'o/v	sins/ his
+
+Lam.3.40
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لِنَفْحَصْ	{H2664}	HVqc1cp	#01	נַחְפְּשָׂ֤ה	nach.pe.Sah	let us examine
+#02	طُرُقَنَا	{H1870G}/H9025	HNcbpc/Sp1bp	#02	דְרָכֵ֙י נוּ֙	de.ra.Khei./nu	ways/ our
+#03	وَنَمْتَحِنْهَا	H9002/{H2713}	HC/Vqc1cp	#03	וְֽ נַחְקֹ֔רָה	ve./nach.Ko.rah	and/ let us examine
+#04	وَنَرْجعْ	H9002/{H7725G}	HC/Vqc1cp	#04	וְ נָשׁ֖וּבָה	ve./na.Shu.vah	and/ let us return
+#05	إِلَى	{H5704}\H9014	HR	#05	עַד	'ad-	to
+#06	الرَّبِّ.	{H3068G}\H9016	HNpt	#06	יְהוָֽה	Yah.weh	Yahweh
+
+Lam.3.41
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لِنَرْفَعْ	{H5375O}	HVqi1cp	#01	נִשָּׂ֤א	ni.Sa'	let us lift up
+#02	قُلُوبَنَا	{H3824}/H9025	HNcmsc/Sp1bp	#02	לְבָבֵ֙ נוּ֙	le.va.Ve./nu	heart/ our
+#03	وَأَيْدِيَنَا	{H0413}\H9014; {H3709G}	HR; HNcfda	#03; #04	אֶל; כַּפָּ֔יִם	'el-; ka.Pa.yim	to; palms
+#04	إِلَى	{H0413}\H9014	HR	#05	אֶל	'el-	to
+#05	اللهِ	{H0410G}	HNcmsa	#06	אֵ֖ל	'el	God
+#06 - #07	فِي السَّمَاوَاتِ:	H9003/{H8064}\H9016	HRd/Ncmpa	#07	בַּ שָּׁמָֽיִם	ba./sha.Ma.yim	in the/ heavens
+
+Lam.3.42
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	نَحْنُ	{H5168}	HPp1bp	#01	נַ֤חְנוּ	Nach.nu	we
+#02	أَذْنَبْنَا	{H6586}	HVqp1cp	#02	פָשַׁ֙עְנוּ֙	fa.Sha'.nu	we have transgressed
+#03	وَعَصَيْنَا.	H9002/{H4784}	HC/Vqp1cp	#03	וּ מָרִ֔ינוּ	u./ma.Ri.nu	and/ we have rebelled
+#04	أَنْتَ	{H0859A}	HPp2ms	#04	אַתָּ֖ה	'a.Tah	you
+#05	لَمْ	{H3808}	HTn	#05	לֹ֥א	lo'	not
+#06	تَغْفِرْ.	{H5545}\H9016\ \H9018	HVqp2ms	#06	סָלָֽחְתָּ	sa.La.che.ta	you have forgiven
+
+Lam.3.43
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	الْتَحَفْتَ	{H5526B}	HVqp2ms	#01	סַכֹּ֤תָה	sa.Ko.tah	you have covered yourself
+#02	بِالْغَضَبِ	H9003/{H0639G}	HRd/Ncmsa	#02	בָ אַף֙	va./'Af	with <the>/ anger
+#03	وَطَرَدْتَنَا.	H9001/{H7291}/H9035	Hc/Vqw2ms/Sp1bp	#03	וַֽ תִּרְדְּפֵ֔ נוּ	va./tir.de.Fe./nu	and/ you have pursued/ us
+#04	قَتَلْتَ	{H2026}	HVqp2ms	#04	הָרַ֖גְתָּ	ha.Rag.ta	you have killed
+#05	وَلَمْ	{H3808}	HTn	#05	לֹ֥א	lo'	not
+#06	تَشْفِقْ.	{H2550}\H9016	HVqp2ms	#06	חָמָֽלְתָּ	cha.Mal.ta	you have spared
+
+Lam.3.44
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	الْتَحَفْتَ	{H5526B}; H9005/{H9032}	HVqp2ms; HR/Sp2ms	#01; #03	סַכּ֤וֹתָה; לָ֔ ךְ	sa.Ko.tah; La/kh	you have covered; <to>/ yourself
+#02	بِالسَّحَابِ	H9003/{H6051}	HRd/Ncmsa	#02	בֶֽ עָנָן֙	ve./'a.Nan	with <the>/ cloud
+#03 - #05	حَتَّى لاَ تَنْفُذَ	H9006/{H5674A}	HR/Vqcc	#04	מֵ עֲב֖וֹר	me./'a.Vor	from/ passing through
+#06	الصَّلاَةُ.	{H8605}\H9016	HNcfsa	#05	תְּפִלָּֽה	te.fi.Lah	prayer of
+
+Lam.3.45
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	جَعَلْتَنَا	{H7760A}/H9035	HVqi2ms/Sp1bp	#03	תְּשִׂימֵ֖ נוּ	te.si.Me./nu	you have made/ us
+#02	وَسَخًا	{H5501}	HNcmsa	#01	סְחִ֧י	se.Chi	scouring
+#03	وَكَرْهًا	H9002/{H3973}	HC/Vqaa	#02	וּ מָא֛וֹס	u./ma.'os	and/ refuse
+#04 - #05	فِي وَسَطِ	H9003/{H7130G}	HR/Ncmsc	#04	בְּ קֶ֥רֶב	be./Ke.rev	in/ [the] midst of
+#06	الشُّعُوبِ.	H9009/{H5971A}\H9016\ \H9018	HTd/Ncmpa	#05	הָ עַמִּֽים	ha./'a.Mim	the/ peoples
+
+Lam.3.46
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	فَتَحَ	{H6475}	HVqp3cp	#01	פָּצ֥וּ	pa.Tzu	they have opened
+#02	كُلُّ	{H3605}\H9014	HNcmsc	#04	כָּל	kol-	all
+#03	أَعْدَائِنَا	{H0341}/H9025\H9016	HVqrmpc/Sp1bp	#05	אֹיְבֵֽי נוּ	'o.ye.Vei./nu	enemies/ our
+#04	أَفْوَاهَهُمْ	{H6310G}/H9028	HNcmsc/Sp3mp	#03	פִּי הֶ֖ם	pi./Hem	mouth/ their
+#05	عَلَيْنَا.	{H5921A}/H9035	HR/Sp1bp	#02	עָלֵ֛י נוּ	'a.Lei./nu	on/ us
+
+Lam.3.47
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	صَارَ	{H1961}	HVqp3ms	#03	הָ֥יָה	Ha.yah	it has happened
+#02	عَلَيْنَا	H9005/{H9035}	HR/Sp1bp	#04	לָ֖ נוּ	La./nu	to/ us
+#03	خَوْفٌ	{H6343}	HNcmsa	#01	פַּ֧חַד	Pa.chad	terror
+#04	وَرُعْبٌ،	H9002/{H6354}	HC/Ncmsa	#02	וָ פַ֛חַת	va./Fa.chat	and/ a pit
+#05	هَلاَكٌ	H9009/{H7612}	HTd/Ncfsa	#05	הַ שֵּׁ֥את	ha./Shet	<the>/ devastation
+#06	وَسَحْقٌ.	H9002/H9009/{H7667}\H9016	HC/Td/Ncmsa	#06	וְ הַ שָּֽׁבֶר	ve./ha./Sha.ver	and/ <the>/ brokenness
+
+Lam.3.48
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	سَكَبَتْ	{H3381}	HVqi3fs	#03	תֵּרַ֣ד	te.Rad	it goes down
+#02	عَيْنَايَ	{H5869A}/H9020	HNcfsc/Sp1bs	#04	עֵינִ֔ י	'ei.N/i	eye/ my
+#03	يَنَابِيعَ	{H6388}\H9014	HNcmpc	#01	פַּלְגֵי	pal.gei-	streams of
+#04	مَاءٍ	{H4325G}	HNcmpa	#02	מַ֙יִם֙	ma.yim	water
+#05	عَلَى	{H5921A}\H9014	HR	#05	עַל	'al-	on
+#06	سَحْقِ	{H7667}	HNcmsc	#06	שֶׁ֖בֶר	She.ver	[the] brokenness of
+#07	بِنْتِ	{H1323G}\H9014	HNcfsc	#07	בַּת	bat-	[the] daughter of
+#08	شَعْبِي.	{H5971A}/H9020\H9016\ \H9018	HNcmsc/Sp1bs	#08	עַמִּֽ י	'a.M/i	people/ my
+
+Lam.3.49
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	عَيْنِي	{H5869A}/H9020	HNcfsc/Sp1bs	#01	עֵינִ֧ י	'ei.N/i	eye/ my
+#02	تَسْكُبُ	{H5064}	HVNp3fs	#02	נִגְּרָ֛ה	ni.ge.Rah	it has poured itself
+#03	وَلاَ	H9002/{H3808}	HC/Tn	#03	וְ לֹ֥א	ve./Lo'	and/ not
+#04	تَكُفُّ	{H1820}	HVqi3fs	#04	תִדְמֶ֖ה	tid.Meh	it will cease
+#05	بِلاَ	H9006/{H0369}	HR/Ncmsc	#05	מֵ אֵ֥ין	me./'Ein	from/ not
+#06	انْقِطَاعٍ	{H2014}\H9016	HNcfpa	#06	הֲפֻגֽוֹת	ha.fu.Got	stop<s>
+
+Lam.3.50
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	حَتَّى	{H5704}\H9014	HR	#01	עַד	'ad-	until
+#02	يُشْرِفَ	{H8259}	HVhi3ms	#02	יַשְׁקִ֣יף	yash.Kif	he will look down
+#03	وَيَنْظُرَ	H9002/{H7200G}	HC/Vqj3ms	#03	וְ יֵ֔רֶא	ve./Ye.re'	and/ he will see
+#04	الرَّبُّ	{H3068G}	HNpt	#04	יְהוָ֖ה	Yah.weh	Yahweh
+#05 - #06	مِنَ السَّمَاءِ.	H9006/{H8064}\H9016	HR/Ncmpa	#05	מִ שָּׁמָֽיִם	mi./sha.Ma.yim	from/ heaven
+
+Lam.3.51
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	عَيْنِي	{H5869A}/H9020	HNcfsc/Sp1bs	#01	עֵינִ י֙	'ei.N/i	eye/ my
+#02	تُؤَثِّرُ	{H5953A}	HVpp3fs	#02	עֽוֹלְלָ֣ה	'o.Lah	it has dealt severely
+#03 - #04	فِي نَفْسِي	H9005/{H5315I}/H9020	HR/Ncfsc/Sp1bs	#03	לְ נַפְשִׁ֔ י	le./naf.Sh/i	to/ self/ my
+#05 - #06	لأَجْلِ كُلِّ	H9006/{H3605}	HR/Ncmsc	#04	מִ כֹּ֖ל	mi./Kol	from/ all
+#07	بَنَاتِ	{H1323G}	HNcfpc	#05	בְּנ֥וֹת	be.Not	[the] daughters of
+#08	مَدِينَتِي.	{H5892B}/H9020\H9016\ \H9018	HNcfsc/Sp1bs	#06	עִירִֽ י	'i.R/i	city/ my
+
+Lam.3.52
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	قَدِ اصْطَادَتْنِي	{H6679A}; {H6679A}/H9030	HVqaa; HVqp3cp/Sp1bs	#01; #02	צ֥וֹד; צָד֛וּ נִי	Tzod; tza.Du./ni	certainly <to hunt>; they hunted/ me
+#03	أَعْدَائِي	{H0341}/H9020	HVqrmpc/Sp1bs	#04	אֹיְבַ֥ י	'o.ye.Va/i	enemies/ my
+#04	كَعُصْفُورٍ	H9004/{H6833}	HRd/Ncbsa	#03	כַּ צִּפּ֖וֹר	ka./tzi.Por	like <the>/ bird
+#05 - #06	بِلاَ سَبَبٍ.	{H2600}\H9016	HD	#05	חִנָּֽם	chi.Nam	without cause
+
+Lam.3.53
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	قَرَضُوا	{H6789}	HVqp3cp	#01	צָֽמְת֤וּ	tza.me.Tu	they destroyed
+#02 - #03	فِي الْجُبِّ	H9003/{H0953A}	HRd/Ncmsa	#02	בַ בּוֹר֙	va./bOr	in the/ pit
+#04	حَيَاتِي	{H2416E}/H9020	HNcmpc/Sp1bs	#03	חַיָּ֔ י	chai.Ya/i	life/ my
+#05	وَأَلْقَوْا	H9001/{H3034}\H9014	Hc/Vpw3mp	#04	וַ יַּדּוּ	va/i.ya.du-	and/ they threw down
+#06	عَلَيَّ	H9003/{H9030}\H9016	HR/Sp1bs	#06	בִּֽ י	B/i	on/ me
+#07	حِجَارَةً.	{H0068G}	HNcfsa	#05	אֶ֖בֶן	'E.ven	a stone
+
+Lam.3.54
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	طَفَتِ	{H6687}\H9014	HVqp3cp	#01	צָֽפוּ	tza.fu-	they overflowed
+#02	الْمِيَاهُ	{H4325G}	HNcmpa	#02	מַ֥יִם	Ma.yim	waters
+#03	فَوْقَ	{H5921A}\H9014	HR	#03	עַל	'al-	over
+#04	رَأْسِي.	{H7218A}/H9020	HNcmsc/Sp1bs	#04	רֹאשִׁ֖ י	ro.Sh/i	head/ my
+#05	قُلْتُ:	{H0559}	HVqp1cs	#05	אָמַ֥רְתִּי	'a.Mar.ti	I said
+#06 - #07	قَدْ قُرِضْتُ..	{H1504}\H9016\ \H9018	HVNp1cs	#06	נִגְזָֽרְתִּי	nig.Za.re.ti	I have been cut off
+
+Lam.3.55
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	دَعَوْتُ	{H7121G}	HVqp1cs	#01	קָרָ֤אתִי	ka.Ra.ti	I called
+#02	بِاسْمِكَ	{H8034}/H9021	HNcmsc/Sp2ms	#02	שִׁמְ ךָ֙	shim./Kha	name/ your
+#03 - #04	يَا رَبُّ	{H3068G}	HNpt	#03	יְהוָ֔ה	Yah.weh	O Yahweh
+#05 - #06	مِنَ الْجُبِّ	H9006/{H0953A}	HR/Ncmsa	#04	מִ בּ֖וֹר	mi./Bor	from/ a pit of
+#07	الأَسْفَلِ.	{H8482}\H9016	HAafpa	#05	תַּחְתִּיּֽוֹת	tach.ti.Yot	lowest parts
+
+Lam.3.56
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لِصَوْتِي	{H6963A}/H9020	HNcmsc/Sp1bs	#01	קוֹלִ֖ י	ko.L/i	voice/ my
+#02	سَمِعْتَ:	{H8085G}	HVqp2ms	#02	שָׁמָ֑עְתָּ	sha.Ma.'e.ta	you heard
+#03	لاَ	{H0408}\H9014	HTn	#03	אַל	'al-	may not
+#04	تَسْتُرْ	{H5956}	HVhi2ms	#04	תַּעְלֵ֧ם	ta'.Lem	you hide
+#05	أُذُنَكَ	{H0241G}/H9021	HNcfsc/Sp2ms	#05	אָזְנְ ךָ֛	'a.ze.ne./Kha	ear/ your
+#06 - #07	عَنْ زَفْرَتِي،	H9005/{H7309}/H9020	HR/Ncfsc/Sp1bs	#06	לְ רַוְחָתִ֖ י	le./rav.cha.T/i	to/ relief/ my
+#08 - #09	عَنْ صِيَاحِي.	H9005/{H7775}/H9020\H9016	HR/Ncfsc/Sp1bs	#07	לְ שַׁוְעָתִֽ י	le./shav.'a.T/i	to/ cry for help/ my
+
+Lam.3.57
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	دَنَوْتَ	{H7126G}	HVqp2ms	#01	קָרַ֙בְתָּ֙	ka.Rav.ta	you drew near
+#02	يَوْمَ	H9003/{H3117G}	HR/Ncmsa	#02	בְּ י֣וֹם	be./Yom	on/ [the] day
+#03	دَعَوْتُكَ.	{H7121G}/H9031	HVqi1cs/Sp2ms	#03	אֶקְרָאֶ֔ ךָּ	'ek.ra.'E./ka	[when] I called on/ you
+#04	قُلْتَ:	{H0559}	HVqp2ms	#04	אָמַ֖רְתָּ	'a.Mar.ta	you said
+#05	لاَ	{H0408}\H9014	HTn	#05	אַל	'al-	may not
+#06	تَخَفْ..	{H3372G}\H9016\ \H9018	HVqj2ms	#06	תִּירָֽא	ti.Ra'	you fear
+
+Lam.3.58
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	خَاصَمْتَ	{H7378}	HVqp2ms	#01	רַ֧בְתָּ	Rav.ta	you have conducted
+#02 - #03	يَا سَيِّدُ	{H0136}	HNpt	#02	אֲדֹנָ֛י	'a.do.Nai	O Lord
+#04	خُصُومَاتِ	{H7379}	HNcmpc	#03	רִיבֵ֥י	ri.Vei	[the] cases of
+#05	نَفْسِي.	{H5315I}/H9020	HNcfsc/Sp1bs	#04	נַפְשִׁ֖ י	naf.Sh/i	self/ my
+#06	فَكَكْتَ	{H1350A}	HVqp2ms	#05	גָּאַ֥לְתָּ	ga.'Al.ta	you have redeemed
+#07	حَيَاتِي.	{H2416E}/H9020\H9016	HNcmpc/Sp1bs	#06	חַיָּֽ י	chai.Ya/i	life/ my
+
+Lam.3.59
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	رَأَيْتَ	{H7200G}	HVqp2ms	#01	רָאִ֤יתָה	ra.'I.tah	you have seen
+#02 - #03	يَا رَبُّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	O Yahweh
+#04	ظُلْمِي.	{H5792}/H9020	HNcfsc/Sp1bs	#03	עַוָּ֣תָתִ֔ י	'a.Va.ta.T/i	oppression/ my
+#05	أَقِمْ	{H8199}/H9012	HVqv2ms/Sh	#04	שָׁפְטָ֖ ה	sha.fe.Ta/h	judge/ .
+#06	دَعْوَايَ.	{H4941H}/H9020\H9016	HNcmsc/Sp1bs	#05	מִשְׁפָּטִֽ י	mish.pa.T/i	judgment/ my
+
+Lam.3.60
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	رَأَيْتَ	{H7200G}	HVqp2ms	#01	רָאִ֙יתָה֙	ra.'I.tah	you have seen
+#02	كُلَّ	{H3605}\H9014	HNcmsc	#02	כָּל	kol-	all
+#03	نَقْمَتِهِمْ،	{H5360}/H9028	HNcfsc/Sp3mp	#03	נִקְמָתָ֔ ם	nik.ma.Ta/m	vengeance/ their
+#04	كُلَّ	{H3605}\H9014	HNcmsc	#04	כָּל	kol-	all
+#05	أَفْكَارِهِمْ	{H4284}/H9028	HNcfpc/Sp3mp	#05	מַחְשְׁבֹתָ֖ ם	mach.she.vo.Ta/m	plans/ their
+#06	عَلَيَّ.	H9005/{H9030}\H9016\ \H9018	HR/Sp1bs	#06	לִֽ י	L/i	to/ me
+
+Lam.3.61
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	سَمِعْتَ	{H8085G}	HVqp2ms	#01	שָׁמַ֤עְתָּ	sha.Ma'.ta	you have heard
+#02	تَعْيِيرَهُمْ	{H2781}/H9028	HNcfsc/Sp3mp	#02	חֶרְפָּתָ ם֙	cher.pa.Ta/m	reproach/ their
+#03 - #04	يَا رَبُّ،	{H3068G}	HNpt	#03	יְהוָ֔ה	Yah.weh	O Yahweh
+#05	كُلَّ	{H3605}\H9014	HNcmsc	#04	כָּל	kol-	all
+#06	أَفْكَارِهِمْ	{H4284}/H9028	HNcfpc/Sp3mp	#05	מַחְשְׁבֹתָ֖ ם	mach.she.vo.Ta/m	plans/ their
+#07	عَلَيَّ.	{H5921A}/H9030\H9016	HR/Sp1bs	#06	עָלָֽ י	'a.La/i	on/ me
+
+Lam.3.62
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَلاَمُ	{H8193G}	HNcfdc	#01	שִׂפְתֵ֤י	sif.Tei	[the] lips of
+#02	مُقَاوِمِيَّ	{H6965J}/H9030	HVqrmpc/Sp1bs	#02	קָמַ י֙	ka.Ma/i	[those who] rise against/ me
+#03	وَمُؤَامَرَتُهُمْ	H9002/{H1902H}/H9028	HC/Ncmsc/Sp3mp	#03	וְ הֶגְיוֹנָ֔ ם	ve./heg.yo.Na/m	and/ muttering/ their
+#04	عَلَيَّ	{H5921A}/H9030	HR/Sp1bs	#04	עָלַ֖ י	'a.La/i	on/ me
+#05	الْيَوْمَ	H9009/{H3117G}\H9016	HTd/Ncmsa	#06	הַ יּֽוֹם	hai./Yom	the/ day
+#06	كُلَّهُ.	{H3605}\H9014	HNcmsc	#05	כָּל	kol-	all
+
+Lam.3.63
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	اُنْظُرْ إِلَى	{H5027}/H9012	HVhv2ms/Sh	#03	הַבִּ֔יטָ ה	ha.Bi.ta/h	look at/ .
+#03	جُلُوسِهِمْ	{H7675}/H9028	HVqcc/Sp3mp	#01	שִׁבְתָּ֤ ם	shiv.Ta/m	sitting/ their
+#04	وَوُقُوفِهِمْ،	H9002/{H7012}/H9028	HC/Ncfsc/Sp3mp	#02	וְ קִֽימָתָ ם֙	ve./ki.ma.Ta/m	and/ rising/ their
+#05	أَنَا	{H0589}	HPp1bs	#04	אֲנִ֖י	'a.Ni	I
+#06	أُغْنِيَتُهُمْ.	{H4485}/H9028\H9016\ \H9018	HNcfsc/Sp3mp	#05	מַנְגִּינָתָֽ ם	man.gi.na.Ta/m	[am] mocking song/ their
+
+Lam.3.64
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	رُدَّ	{H7725K}	HVhi2ms	#01	תָּשִׁ֨יב	ta.Shiv	you will repay
+#02	لَهُمْ	H9005/{H9038}	HR/Sp3mp	#02	לָ הֶ֥ם	la./Hem	to/ them
+#03	جَزَاءً	{H1576}	HNcmsa	#03	גְּמ֛וּל	ge.Mul	recompense
+#04 - #05	يَا رَبُّ	{H3068G}	HNpt	#04	יְהוָ֖ה	Yah.weh	O Yahweh
+#06 - #07	حَسَبَ عَمَلِ	H9004/{H4639G}	HR/Ncmsc	#05	כְּ מַעֲשֵׂ֥ה	ke./ma.'a.Seh	according to/ [the] work of
+#08	أَيَادِيهِمْ.	{H3027G}/H9028\H9016	HNcbdc/Sp3mp	#06	יְדֵי הֶֽם	ye.dei./Hem	hands/ their
+
+Lam.3.65
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَعْطِهِمْ	{H5414G}; H9005/{H9038}	HVqi2ms; HR/Sp3mp	#01; #02	תִּתֵּ֤ן; לָ הֶם֙	ti.Ten; la./Hem	you will give; to/ them
+#02	غِشَاوَةَ	{H4044}\H9014	HNcfsc	#03	מְגִנַּת	me.gi.nat-	shamelessness of
+#03	قَلْبٍ،	{H3820A}	HNcmsa	#04	לֵ֔ב	Lev	heart
+#04	لَعْنَتَكَ	{H8381}/H9021	HNcfsc/Sp2ms	#05	תַּאֲלָֽתְ ךָ֖	ta.'a.la.te./Kha	curse/ your
+#05	لَهُمْ.	H9005/{H9038}\H9016	HR/Sp3mp	#06	לָ הֶֽם	la./Hem	[may it belong] to/ them
+
+Lam.3.66
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	اِتْبَعْ	{H7291}	HVqi2ms	#01	תִּרְדֹּ֤ף	tir.Dof	you will pursue [them]
+#02	بِالْغَضَبِ	H9003/{H0639G}	HR/Ncmsa	#02	בְּ אַף֙	be./'Af	in/ anger
+#03	وَأَهْلِكْهُمْ	H9002/{H8045}/H9038	HC/Vhu2ms/Sp3mp	#03	וְ תַשְׁמִידֵ֔ ם	ve./tash.mi.De/m	and/ you will destroy/ them
+#04 - #05	مِنْ تَحْتِ	H9006/{H8478G}	HR/Ncmsc	#04	מִ תַּ֖חַת	mi./Ta.chat	from/ under
+#06	سَمَاوَاتِ	{H8064}	HNcmpc	#05	שְׁמֵ֥י	she.Mei	[the] heavens of
+#07	الرَّبِّ.	{H3068G}\H9016\ \H9017	HNpt	#06	יְהוָֽה	Yah.weh	Yahweh
+
+Lam.4.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَيْفَ	{H0349B}	HTi	#01	אֵיכָה֙	'ei.Khah	how.
+#02	اكْدَرَّ	{H6004}	HVHi3ms	#02	יוּעַ֣ם	yu.'Am	it is dimmed
+#03	الذَّهَبُ،	{H2091}	HNcmsa	#03	זָהָ֔ב	za.Hav	gold
+#04	تَغَيَّرَ	{H8132}	HVqi3ms	#04	יִשְׁנֶ֖א	yish.Ne'	it is changed
+#05	الإِبْرِيزُ	H9009/{H3800}	HTd/Ncmsa	#05	הַ כֶּ֣תֶם	ha./Ke.tem	the/ gold
+#06	الْجَيِّدُ.	H9009/{H2896A}	HTd/Aamsa	#06	הַ טּ֑וֹב	ha./Tov	<the>/ fine
+#07	انْهَالَتْ	{H8210J}	HVti3fp	#07	תִּשְׁתַּפֵּ֙כְנָה֙	tish.ta.Pe.khe.nah	they lie scattered
+#08	حِجَارَةُ	{H0068G}\H9014	HNcmpc	#08	אַבְנֵי	'av.nei-	stones of
+#09	الْقُدْسِ	{H6944G}	HNcmsa	#09	קֹ֔דֶשׁ	Ko.desh	holiness
+#10 - #11	فِي رَأْسِ	H9003/{H7218I}	HR/Ncmsc	#10	בְּ רֹ֖אשׁ	be./Rosh	at/ [the] head of
+#12	كُلِّ	{H3605}\H9014	HNcmsc	#11	כָּל	kol-	all
+#13	شَارِعٍ.	{H2351}\H9016\ \H9018	HNcfpa	#12	חוּצֽוֹת	chu.Tzot	[the] streets
+
+Lam.4.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بَنُو	{H1121G}	HNcmpc	#01	בְּנֵ֤י	be.Nei	[the] children of
+#02	صِهْيَوْنَ	{H6726}	HNpl	#02	צִיּוֹן֙	tzi.yOn	Zion
+#03	الْكُرَمَاءُ	H9009/{H3368}	HTd/Aampa	#03	הַ יְקָרִ֔ים	ha/y.ka.Rim	<the>/ precious
+#04	الْمَوْزُونُونَ	H9009/{H5537}	HTd/VPsmpa	#04	הַ מְסֻלָּאִ֖ים	ha/m.su.la.'Im	who/ were weighed
+#05 - #06	بِالذَّهَبِ النَّقِيِّ،	H9003/{H6337}	HRd/Ncmsa	#05	בַּ פָּ֑ז	ba./Paz	with <the>/ pure gold
+#07	كَيْفَ	{H0349B}	HTi	#06	אֵיכָ֤ה	'ei.Khah	how.
+#08	حُسِبُوا	{H2803H}	HVNp3cp	#07	נֶחְשְׁבוּ֙	nech.she.Vu	they are considered
+#09	أَبَارِيقَ	H9005/{H5035A}\H9014	HR/Ncmpc	#08	לְ נִבְלֵי	le./niv.lei-	to/ jars of
+#10	خَزَفٍ	{H2789}	HNcmsa	#09	חֶ֔רֶשׂ	Che.res	earthenware
+#11	عَمَلَ	{H4639G}	HNcmsc	#10	מַעֲשֵׂ֖ה	ma.'a.Seh	[the] work of
+#12	يَدَيْ	{H3027G}	HNcbdc	#11	יְדֵ֥י	ye.Dei	[the] hands of
+#13	فَخَّارِيٍّ.	{H3335H}\H9016\ \H9018	HNcmsa	#12	יוֹצֵֽר	yo.Tzer	a potter
+
+Lam.4.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	بَنَاتُ آوَى	{H8577A}	HNcmpa	#02Q(K)	תַּנִּים֙	ta.nin	jackals
+#03	أَيْضًا	{H1571}\H9014	HD	#01	גַּם	gam-	also
+#04	أَخْرَجَتْ	{H2502A}	HVqp3cp	#03	חָ֣לְצוּ	Chal.tzu	they draw out
+#05	أَطْبَاءَهَا،	{H7699A}	HNcmsa	#04	שַׁ֔ד	Shad	a breast
+#06	أَرْضَعَتْ	{H3243}	HVhp3cp	#05	הֵינִ֖יקוּ	hei.Ni.ku	they suckle
+#07	أَجْرَاءَهَا.	{H1482}/H9029	HNcmpc/Sp3fp	#06	גּוּרֵי הֶ֑ן	gu.rei./Hen	young/ their
+#08 - #09	أَمَّا بِنْتُ	{H1323G}\H9014	HNcfsc	#07	בַּת	bat-	[the] daughter of
+#10	شَعْبِي	{H5971A}/H9020	HNcmsc/Sp1bs	#08	עַמִּ֣ י	'a.M/i	people/ my
+#11	فَجَافِيَةٌ	H9005/{H0393}	HR/Aamsa	#09	לְ אַכְזָ֔ר	le./'akh.Zar	[has become] <into>/ cruel
+#12	كَالنَّعَامِ	H9004/{H3283}	HTd/Ncmpa	#11Q(K)	כַּ יְעֵנִ֖ים	ka./e.nim	like <the>/ ostriches
+#13 - #14	فِي الْبَرِّيَّةِ.	H9003/{H4057B}\H9016\ \H9018	HRd/Ncmsa	#12	בַּ מִּדְבָּֽר	ba./mid.Bar	in the/ wilderness
+
+Lam.4.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لَصِقَ	{H1692}	HVqp3ms	#01	דָּבַ֨ק	da.Vak	it has cleaved
+#02	لِسَانُ	{H3956G}	HNcbsc	#02	לְשׁ֥וֹן	le.Shon	[the] tongue of
+#03	الرَّاضِعِ	{H3243}	HNcmsa	#03	יוֹנֵ֛ק	yo.Nek	a sucking child
+#04	بِحَنَكِهِ	{H0413}\H9014; {H2441}/H9023	HR; HNcmsc/Sp3ms	#04; #05	אֶל; חכּ֖ וֹ	'el-; chi.K/o	to; palate/ its
+#05 - #06	مِنَ الْعَطَشِ.	H9003/{H6772}	HRd/Ncmsa	#06	בַּ צָּמָ֑א	ba./tza.Ma'	by <the>/ thirst
+#07	اَلأَطْفَالُ	{H5768}	HNcmpa	#07	עֽוֹלָלִים֙	o.la.Lim	children
+#08	يَسْأَلُونَ	{H7592}	HVqp3cp	#08	שָׁ֣אֲלוּ	Sha.'a.lu	they have asked for
+#09	خُبْزًا	{H3899G}	HNcmsa	#09	לֶ֔חֶם	Le.chem	bread
+#10	وَلَيْسَ	{H0369}	HNcmsc	#11	אֵ֥ין	'ein	not
+#11 - #12	مَنْ يَكْسِرُهُ	{H6566}	HVqrmsa	#10	פֹּרֵ֖שׂ	po.Res	[one who] breaks [it]
+#13	لَهُمْ.	H9005/{H9038}\H9016\ \H9018	HR/Sp3mp	#12	לָ הֶֽם	la./Hem	[belonged] to/ them
+
+Lam.4.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #03	اَلَّذِينَ كَانُوا يَأْكُلُونَ	H9009/{H0398}	HTd/Vqrmpa	#01	הָ אֹֽכְלִים֙	ha./'o.khe.Lim	the/ [ones] eating
+#04 - #05	الْمَآكِلَ الْفَاخِرَةَ	H9005/{H4574}	HR/Ncmpa	#02	לְ מַ֣עֲדַנִּ֔ים	le./Ma.'a.da.Nim	<to>/ delicacies
+#06 - #07	قَدْ هَلِكُوا	{H8074G}	HVNp3cp	#03	נָשַׁ֖מּוּ	na.Sha.mu	they are desolate
+#08 - #09	فِي الشَّوَارِعِ.	H9003/{H2351}	HRd/Ncfpa	#04	בַּ חוּצ֑וֹת	ba./chu.Tzot	in the/ streets
+#10 - #12	الَّذِينَ كَانُوا يَتَرَبَّوْنَ	H9009/{H0539}	HTd/Vqsmpa	#05	הָ אֱמֻנִים֙	ha./'e.mu.Nim	the/ [ones] brought up
+#13	عَلَى	{H5921A}	HR	#06	עֲלֵ֣י	'a.Lei	on
+#14	الْقِرْمِزِ	{H8438A}	HNcmsa	#07	תוֹלָ֔ע	to.La'	crimson
+#15	احْتَضَنُوا	{H2263}	HVpp3cp	#08	חִבְּק֖וּ	chi.be.Ku	they have embraced
+#16	الْمَزَابِلَ.	{H0830H}\H9016\ \H9018	HNcfpa	#09	אַשְׁפַּתּֽוֹת	'ash.pa.Tot	ash heaps
+
+Lam.4.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #03	وَقَدْ صَارَ عِقَابُ	{H5771I}	HNcmsc	#02	עֲוֹ֣ן	'a.Von	[the] iniquity of
+#04	بِنْتِ	{H1323G}\H9014	HNcfsc	#03	בַּת	bat-	[the] daughter of
+#05	شَعْبِي	{H5971A}/H9020	HNcmsc/Sp1bs	#04	עַמִּ֔ י	'a.M/i	people/ my
+#06	أَعْظَمَ	H9001/{H1431}	Hc/Vqw3ms	#01	וַ יִּגְדַּל֙	va/i.yig.Dal	and/ it has become great
+#07 - #09	مِنْ قِصَاصِ خَطِيَّةِ	H9006/{H2403I}	HR/Ncfsc	#05	מֵֽ חַטַּ֖את	me./cha.Tat	more than/ [the] sin of
+#10	سَدُومَ	{H5467}	HNpl	#06	סְדֹ֑ם	se.Dom	Sodom
+#11 - #12	الَّتِي انْقَلَبَتْ	H9009/{H2015}	HTd/Vqsfsa	#07	הַֽ הֲפוּכָ֣ה	ha./ha.fu.Khah	which/ was overthrown
+#13	كَأَنَّهُ	{H3644G}\H9014	HR	#08	כְמוֹ	khe.mov-	like
+#14 - #15	فِي لَحْظَةٍ،	{H7281}	HNcmsa	#09	רָ֔גַע	Ra.ga'	a moment
+#16	وَلَمْ	H9002/{H3808}\H9014	HC/Tn	#10	וְ לֹא	ve./lo'-	and/ not
+#17	تُلْقَ	{H2342A}	HVqp3cp	#11	חָ֥לוּ	Cha.lu	they twisted
+#18	عَلَيْهَا	H9003/{H9034}	HR/Sp3fs	#12	בָ֖ הּ	va/h	on/ it
+#19	أَيَادٍ.	{H3027G}\H9016\ \H9018	HNcbda	#13	יָדָֽיִם	ya.Da.yim	hands
+
+Lam.4.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	كَانَ نُذُرُهَا	{H5139}/H9024	HNcmpc/Sp3fs	#02	נְזִירֶ֙י הָ֙	ne.zi.Rei./ha	ones of high rank/ its
+#03	أَنْقَى	{H2141}	HVqp3cp	#01	זַכּ֤וּ	za.Ku	they were bright
+#04 - #05	مِنَ الثَّلْجِ	H9006/{H7950}	HR/Ncmsa	#03	מִ שֶּׁ֔לֶג	mi./She.leg	more than/ snow
+#06 - #07	وَأَكْثَرَ بَيَاضًا	{H6705}	HVqp3cp	#04	צַח֖וּ	tza.Chu	they were dazzling
+#08 - #09	مِنَ اللَّبَنِ،	H9006/{H2461}	HR/Ncmsa	#05	מֵ חָלָ֑ב	me./cha.Lav	more than/ milk
+#10	وَأَجْسَامُهُمْ	{H6106I}	HNcfsa	#07	עֶ֙צֶם֙	'e.tzem	bone
+#11 - #12	أَشَدَّ حُمْرَةً	{H0119}	HVqp3cp	#06	אָ֤דְמוּ	'A.de.mu	they were red
+#13 - #14	مِنَ الْمَرْجَانِ.	H9006/{H6443}	HR/Ncmpa	#08	מִ פְּנִינִ֔ים	mi./pe.ni.Nim	more than/ corals
+#15	جَرَزُهُمْ	{H1508}/H9028\H9016\ \H9018	HNcfsc/Sp3mp	#10	גִּזְרָתָֽ ם	giz.ra.Ta/m	polishing/ their
+#16 - #17	كَالْيَاقُوتِ الأَزْرَقِ.	{H5601}	HNcmsa	#09	סַפִּ֖יר	sa.Pir	[was] sapphire
+
+Lam.4.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	صَارَتْ صُورَتُهُمْ	{H8389}/H9028	HNcmsc/Sp3mp	#03	תָּֽאֳרָ֔ ם	to.'o.Ra/m	appearance/ their
+#03 - #04	أَشَدَّ ظَلاَمًا	{H2821}	HVqp3ms	#01	חָשַׁ֤ךְ	cha.Shakh	it is dark
+#05 - #06	مِنَ السَّوَادِ.	H9006/{H7815}	HR/Ncmsa	#02	מִ שְּׁחוֹר֙	mi./she.chOr	more than/ soot
+#07	لَمْ	{H3808}	HTn	#04	לֹ֥א	lo'	not
+#08	يُعْرَفُوا	{H5234A}	HVNp3cp	#05	נִכְּר֖וּ	ni.ke.Ru	they are recognized
+#09 - #10	فِي الشَّوَارِعِ.	H9003/{H2351}	HRd/Ncfpa	#06	בַּ חוּצ֑וֹת	ba./chu.Tzot	in the/ streets
+#11	لَصِقَ	{H6821}	HVqp3ms	#07	צָפַ֤ד	tza.Fad	it has shriveled
+#12	جِلْدُهُمْ	{H5785}/H9028	HNcmsc/Sp3mp	#08	עוֹרָ ם֙	o.Ra/m	skin/ their
+#13	بِعَظْمِهِمْ.	{H5921A}\H9014; {H6106G}/H9028	HR; HNcfsc/Sp3mp	#09; #10	עַל; עַצְמָ֔ ם	'al-; 'atz.Ma/m	on; bone/ their
+#14	صَارَ	{H1961}	HVqp3ms	#12	הָיָ֥ה	ha.Yah	it has become
+#15	يَابِسًا	{H3002}	HAamsa	#11	יָבֵ֖שׁ	ya.Vesh	dry
+#16	كَالْخَشَبِ.	H9004/{H6086G}\H9016\ \H9018	HRd/Ncmsa	#13	כָ עֵֽץ	kha./'Etz	like <the>/ wood
+
+Lam.4.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَانَتْ	{H1961}	HVqp3cp	#02	הָיוּ֙	ha.Yu	they are
+#02	قَتْلَى	{H2491A}\H9014	HAampc	#03	חַלְלֵי	cha.lei-	[those] slain of
+#03	السَّيْفِ	{H2719}	HNcfsa	#04	חֶ֔רֶב	Che.rev	a sword
+#04	خَيْرًا	{H2896A}	HAampa	#01	טוֹבִ֤ים	to.Vim	good
+#05 - #06	مِنْ قَتْلَى	H9006/{H2491A}	HR/Aampc	#05	מֵֽ חַלְלֵ֖י	me./cha.Lei	more than/ [those] slain of
+#07	الْجُوعِ.	{H7458}	HNcmsa	#06	רָעָ֑ב	ra.'Av	hunger
+#08 - #09	لأَنَّ هؤُلاَءِ	H9007/{H1992}	HTr/Pp3mp	#07	שֶׁ֣ הֵ֤ם	she./Hem	who/ they
+#10	يَذُوبُونَ	{H2100I}	HVqi3mp	#08	יָז֙וּבוּ֙	ya.Zu.vu	they flow away
+#11	مَطْعُونِينَ	{H1856}	HVPsmpa	#09	מְדֻקָּרִ֔ים	me.du.ka.Rim	pierced through
+#12 - #13	لِعَدَمِ أَثْمَارِ	H9006/{H8570}	HR/Ncfpa	#10	מִ תְּנוּבֹ֖ת	mi./te.nu.Vot	from/ [the] produce<s> of
+#14	الْحَقْلِ.	{H7704M}\H9016\ \H9018	HNcmsa	#11	שָׂדָֽי	sa.Dai	[the] field
+
+Lam.4.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَيَادِي	{H3027G}	HNcbdc	#01	יְדֵ֗י	ye.Dei	[the] hands of
+#02	النِّسَاءِ	{H0802G}	HNcmpa	#02	נָשִׁים֙	na.Shim	women
+#03	الْحَنَائِنِ	{H7362}	HAafpa	#03	רַחֲמָ֣נִיּ֔וֹת	ra.cha.Ma.ni.Yot	compassionate
+#04	طَبَخَتْ	{H1310}	HVpp3cp	#04	בִּשְּׁל֖וּ	bi.she.Lu	they have boiled
+#05	أَوْلاَدَهُنَّ.	{H3206}/H9029	HNcmpc/Sp3fp	#05	יַלְדֵי הֶ֑ן	yal.dei./Hen	own children/ their
+#06	صَارُوا	{H1961}	HVqp3cp	#06	הָי֤וּ	ha.Yu	they have been
+#07	طَعَامًا	H9005/{H1262}	HR/Ncfsa	#07	לְ בָרוֹת֙	le./va.rOt	for/ eating
+#08	لَهُنَّ	H9005/{H9038}	HR/Sp3mp	#08	לָ֔ מוֹ	la./mo	for/ them
+#09 - #10	فِي سَحْقِ	H9003/{H7667}	HR/Ncmsc	#09	בְּ שֶׁ֖בֶר	be./She.ver	in/ [the] brokenness of
+#11	بِنْتِ	{H1323G}\H9014	HNcfsc	#10	בַּת	bat-	[the] daughter of
+#12	شَعْبِي.	{H5971A}/H9020\H9016\ \H9018	HNcmsc/Sp1bs	#11	עַמִּֽ י	'a.M/i	people/ my
+
+Lam.4.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَتَمَّ	{H3615J}	HVpp3ms	#01	כִּלָּ֤ה	ki.Lah	he has completed
+#02	الرَّبُّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	Yahweh
+		{H0853}\H9014	HTo	#03	אֶת	'et-	<obj.>
+#03	غَيْظَهُ.	{H2534}/H9023	HNcfsc/Sp3ms	#04	חֲמָת֔ וֹ	cha.ma.T/o	rage/ his
+#04	سَكَبَ	{H8210G}	HVqp3ms	#05	שָׁפַ֖ךְ	sha.Fakh	he has poured out
+#05	حُمُوَّ	{H2740}	HNcmsc	#06	חֲר֣וֹן	cha.Ron	[the] burning of
+#06	غَضَبِهِ	{H0639G}/H9023	HNcmsc/Sp3ms	#07	אַפּ֑ וֹ	'a.P/o	anger/ his
+#07	وَأَشْعَلَ	H9001/{H3341}\H9014	Hc/Vhw3ms	#08	וַ יַּצֶּת	va/i.ya.tzet-	and/ he has kindled
+#08	نَارًا	{H0784}	HNcbsa	#09	אֵ֣שׁ	'esh	a fire
+#09 - #10	فِي صِهْيَوْنَ	H9003/{H6726}	HR/Npl	#10	בְּ צִיּ֔וֹן	be./tzi.Yon	in/ Zion
+#11	فَأَكَلَتْ	H9001/{H0398}	Hc/Vqw3fs	#11	וַ תֹּ֖אכַל	va./To.khal	and/ it has consumed
+#12	أُسُسَهَا.	{H3247H}/H9024\H9016\ \H9018	HNcfpc/Sp3fs	#12	יְסוֹדֹתֶֽי הָ	ye.so.do.Tei./ha	foundations/ its
+
+Lam.4.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لَمْ	{H3808}	HTn	#01	לֹ֤א	lo'	not
+#02	تُصَدِّقْ	{H0539}	HVhp3cp	#02	הֶאֱמִ֙ינוּ֙	he.'e.Mi.nu	they believed
+#03	مُلُوكُ	{H4428G}\H9014	HNcmpc	#03	מַלְכֵי	mal.khei-	[the] kings of
+#04	الأَرْضِ	{H0776G}	HNcfsa	#04	אֶ֔רֶץ	'E.retz	[the] earth
+#05	وَكُلُّ	{H3605}	HNcmsc	#05Q(K)	כֹּ֖ל	khol	all
+#06	سُكَّانِ	{H3427}	HVqrmpc	#06	יֹשְׁבֵ֣י	yo.she.Vei	[the] inhabitants of
+#07	الْمَسْكُونَةِ	{H8398}	HNcfsa	#07	תֵבֵ֑ל	te.Vel	[the] world
+#08	أَنَّ	{H3588A}	HTc	#08	כִּ֤י	ki	that
+#09	الْعَدُوَّ	{H6862C}	HNcmsa	#10	צַ֣ר	tzar	opponent
+#10	وَالْمُبْغِضَ	H9002/{H0341}	HC/Vqrmsa	#11	וְ אוֹיֵ֔ב	ve./'o.Yev	and/ enemy
+#11	يَدْخُلاَنِ	{H0935G}	HVqi3ms	#09	יָבֹא֙	ya.Vo'	he will go
+#12	أَبْوَابَ	H9003/{H8179G}	HR/Ncmpc	#12	בְּ שַׁעֲרֵ֖י	be./sha.'a.Rei	in/ [the] gates of
+#13	أُورُشَلِيمَ.	{H3389}\H9016\ \H9018	HNpl	#13	יְרוּשָׁלִָֽם	ye.ru.sha.Lim	Jerusalem
+
+Lam.4.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #03	مِنْ أَجْلِ خَطَايَا	H9006/{H2403B}	HR/Ncfpc	#01	מֵֽ חַטֹּ֣את	me./cha.Tot	from/ [the] sins of
+#04	أَنْبِيَائِهَا،	{H5030}/H9024	HNcmpc/Sp3fs	#02	נְבִיאֶ֔י הָ	ne.vi.'Ei./ha	prophets/ its
+#05	وَآثَامِ	{H5771G}	HNcfpc	#03	עֲוֹנ֖וֹת	a.vo.Not	[the] iniquities of
+#06	كَهَنَتِهَا	{H3548}/H9024	HNcmpc/Sp3fs	#04	כֹּהֲנֶ֑י הָ	ko.ha.Nei./ha	priests/ its
+#07	السَّافِكِينَ	H9009/{H8210H}	HTd/Vqrmpa	#05	הַ שֹּׁפְכִ֥ים	ha./sho.fe.Khim	who/ shed
+#08 - #09	فِي وَسَطِهَا	H9003/{H7130G}/H9024	HR/Ncmsc/Sp3fs	#06	בְּ קִרְבָּ֖ הּ	be./kir.Ba/h	in/ midst/ its
+#10	دَمَ	{H1818}	HNcmsc	#07	דַּ֥ם	dam	[the] blood of
+#11	الصِّدِّيقِينَ،	{H6662}\H9016\ \H9018	HAampa	#08	צַדִּיקִֽים	tza.di.Kim	righteous [people]
+
+Lam.4.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	تَاهُوا	{H5128}	HVqp3cp	#01	נָע֤וּ	na.'U	they wandered
+#02	كَعُمْيٍ	{H5787}	HAampa	#02	עִוְרִים֙	'iv.Rim	blind [people]
+#03 - #04	فِي الشَّوَارِعِ،	H9003/{H2351}	HRd/Ncfpa	#03	בַּֽ חוּצ֔וֹת	ba./chu.Tzot	in the/ streets
+#05	وَتَلَطَّخُوا	{H1351}	HVNp3cp	#04	נְגֹֽאֲל֖וּ	ne.go.'a.Lu	they were defiled
+#06	بِالدَّمِ	H9003/{H1818}	HRd/Ncmsa	#05	בַּ דָּ֑ם	ba./Dam	by the/ blood
+#07 - #08	حَتَّى لَمْ	H9003/{H3808}	HR/Tn	#06	בְּ לֹ֣א	be./Lo'	in/ not
+#09 - #10	يَسْتَطِعْ أَحَدٌ	{H3201}	HVqi3mp	#07	יֽוּכְל֔וּ	yu.khe.Lu	people were able
+#11 - #12	أَنْ يَمَسَّ	{H5060}	HVqi3mp	#08	יִגְּע֖וּ	yi.ge.'U	people touched
+#13	مَلاَبِسَهُمْ.	H9003/{H3830}/H9028\H9016\ \H9018	HR/Ncmpc/Sp3mp	#09	בִּ לְבֻשֵׁי הֶֽם	bi/l.vu.shei./Hem	<in>/ clothes/ their
+
+Lam.4.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	حِيدُوا.	{H5493G}	HVqv2mp	#01	ס֣וּרוּ	Su.ru	depart
+#02	نَجِسٌ.	{H2931}	HAamsa	#02	טָמֵ֞א	ta.Me'	unclean
+#03	يُنَادُونَ	{H7121I}	HVqp3cp	#03	קָ֣רְאוּ	Ka.re.'u	people called out
+#04	إِلَيْهِمْ.	H9005/{H9038}	HR/Sp3mp	#04	לָ֗ מוֹ	la./mo	to/ them
+#05	حِيدُوا.	{H5493G}	HVqv2mp	#05	ס֤וּרוּ	Su.ru	depart
+#06	حِيدُوا	{H5493G}	HVqv2mp	#06	ס֙וּרוּ֙	su.ru	depart
+#07	لاَ	{H0408}\H9014	HTn	#07	אַל	'al-	may not
+#08	تَمَسُّوا..	{H5060}	HVqj2mp	#08	תִּגָּ֔עוּ	ti.Ga.'u	you touch
+#09	إِذْ	{H3588A}	HTc	#09	כִּ֥י	ki	for
+#10	هَرَبُوا	{H5132A}	HVqp3cp	#10	נָצ֖וּ	na.Tzu	they fled
+#11	تَاهُوا	{H5128}	HVqp3cp	#12	נָ֑עוּ	Na.'u	they wandered
+#12	أَيْضًا.	{H1571}\H9014	HD	#11	גַּם	gam-	also
+#13	قَالُوا	{H0559}	HVqp3cp	#13	אָֽמְרוּ֙	'a.me.Ru	people said
+#14 - #15	بَيْنَ الأُمَمِ:	H9003/{H1471A}	HRd/Ncmpa	#14	בַּ גּוֹיִ֔ם	ba./go.Yim	among the/ nations
+#16 - #17	إِنَّهُمْ لاَ	{H3808}	HTn	#15	לֹ֥א	lo'	not
+#18	يَعُودُونَ	{H3254G}	HVhi3mp	#16	יוֹסִ֖יפוּ	yo.Si.fu	they will increase
+#19	يَسْكُنُونَ.	H9005/{H1481A}\H9016\ \H9018	HR/Vqcc	#17	לָ גֽוּר	la./Gur	to/ sojourn
+
+Lam.4.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	وَجْهُ	{H6440L}	HNcmpc	#01	פְּנֵ֤י	pe.Nei	[the] presence of
+#02	الرَّبِّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	Yahweh
+#03	قَسَمَهُمْ.	{H2505A}/H9038	HVpp3ms/Sp3mp	#03	חִלְּקָ֔ ם	chi.le.Ka/m	it scattered/ them
+#04	لاَ	{H3808}	HTn	#04	לֹ֥א	lo'	not
+#05	يَعُودُ	{H3254G}	HVhi3ms	#05	יוֹסִ֖יף	yo.Sif	he will repeat
+#06 - #07	يَنْظُرُ إِلَيْهِمْ.	H9005/{H5027}/H9038	HR/Vhcc/Sp3mp	#06	לְ הַבִּיטָ֑ ם	le./ha.bi.Ta/m	to/ pay attention to/ them
+#08	لَمْ	{H3808}	HTn	#09	לֹ֣א	lo'	not
+#09	يَرْفَعُوا	{H5375Q}	HVqp3cp	#10	נָשָׂ֔אוּ	na.Sa.'u	they lifted up
+#10	وُجُوهَ	{H6440N}	HNcmpc	#07	פְּנֵ֤י	pe.Nei	[the] face of
+#11	الْكَهَنَةِ،	{H3548}	HNcmpa	#08	כֹהֲנִים֙	kho.ha.Nim	priests
+#12	وَلَمْ	{H3808}	HTn	#12	לֹ֥א	lo'	not
+#13	يَتَرَأَّفُوا	{H2603A}\H9016\ \H9018	HVqp3cp	#13	חָנָֽנוּ	cha.Na.nu	they showed favor to
+#14 - #15	عَلَى الشُّيُوخِ.	H9002/{H2205G}	HC/Aampa	#11Q(K)	וּ זְקֵנִ֖ים	vu./ze.ke.nim	and/ elders
+
+Lam.4.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	أَمَّا نَحْنُ	{H5750}/H9045	HAcmpc/Sp1bp	#01Q(K)	עוֹדֵ֙י נוּ֙	o.dei./nu	yet/ we
+#03 - #04	فَقَدْ كَلَّتْ	{H3615J}	HVqi3fp	#02	תִּכְלֶ֣ינָה	tikh.Lei.nah	they failed
+#05	أَعْيُنُنَا	{H5869A}/H9025	HNcfdc/Sp1bp	#03	עֵינֵ֔י נוּ	'ei.Nei./nu	eyes/ our
+#06 - #07	مِنَ النَّظَرِ						
+#08	إِلَى	{H0413}\H9014	HR	#04	אֶל	'el-	to
+#09	عَوْنِنَا	{H5833}/H9025	HNcfsc/Sp1bp	#05	עֶזְרָתֵ֖ נוּ	'ez.ra.Te./nu	help/ our
+#10	الْبَاطِلِ.	{H1892}	HNcmsa	#06	הָ֑בֶל	Ha.vel	futility
+#11 - #12	فِي بُرْجِنَا	H9003/{H6836}/H9025	HR/Ncfsc/Sp1bp	#07	בְּ צִפִּיָּתֵ֣ נוּ	be./tzi.pi.ya.Te./nu	in/ watchtower/ our
+#13	انْتَظَرْنَا	{H6822}	HVpp1cp	#08	צִפִּ֔ינוּ	tzi.Pi.nu	we watched
+		{H0413}\H9014	HR	#09	אֶל	'el-	to
+#14	أُمَّةً	{H1471A}	HNcmsa	#10	גּ֖וֹי	Goy	a nation
+#15	لاَ	{H3808}	HTn	#11	לֹ֥א	lo'	[which] not
+#16	تُخَلِّصُ.	{H3467}\H9016\ \H9018	HVhi3ms	#12	יוֹשִֽׁעַ	yo.Shi.a'	it will save
+
+Lam.4.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	نَصَبُوا فِخَاخًا	{H6679A}	HVqp3cp	#01	צָד֣וּ	tza.Du	they hunted
+#03	لِخَطَوَاتِنَا	{H6806}/H9025	HNcmpc/Sp1bp	#02	צְעָדֵ֔י נוּ	tze.'a.Dei./nu	steps/ our
+#04 - #06	حَتَّى لاَ نَمْشِيَ	H9006/{H1980I}	HR/Vqcc	#03	מִ לֶּ֖כֶת	mi./Le.khet	from/ walking
+#07 - #08	فِي سَاحَاتِنَا.	H9003/{H7339}/H9025	HR/Ncfpc/Sp1bp	#04	בִּ רְחֹבֹתֵ֑י נוּ	bi/r.cho.Tei./nu	in/ open places/ our
+#09	قَرُبَتْ	{H7126G}	HVqp3ms	#05	קָרַ֥ב	ka.Rav	it drew near
+#10	نِهَايَتُنَا.	{H7093}/H9025	HNcmsc/Sp1bp	#06	קִצֵּ֛י נוּ	ki.Tzei./nu	end/ our
+#11	كَمُلَتْ	{H4390}	HVqp3cp	#07	מָלְא֥וּ	mal.'U	they were completed
+#12	أَيَّامُنَا	{H3117G}/H9025	HNcmpc/Sp1bp	#08	יָמֵ֖י נוּ	ya.Mei./nu	days/ our
+#13	لأَنَّ	{H3588A}\H9014	HTc	#09	כִּי	ki-	for
+#14	نِهَايَتَنَا	{H7093}/H9025\H9016\ \H9018	HNcmsc/Sp1bp	#11	קִצֵּֽי נוּ	ki.Tzei./nu	end/ our
+#15 - #16	قَدْ أَتَتْ.	{H0935G}	HVqp3ms	#10	בָ֥א	va'	it had come
+
+Lam.4.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	صَارَ	{H1961}	HVqp3cp	#02	הָיוּ֙	ha.Yu	they were
+#02	طَارِدُونَا	{H7291}/H9035	HVqrmpc/Sp1bp	#03	רֹדְפֵ֔י נוּ	ro.de.Fei./nu	pursuers/ our
+#03	أَخَفَّ	{H7031}	HAampa	#01	קַלִּ֤ים	ka.Lim	swift
+#04 - #05	مِنْ نُسُورِ	H9006/{H5404}	HR/Ncmpc	#04	מִ נִּשְׁרֵ֖י	mi./nish.Rei	more than/ [the] eagles of
+#06	السَّمَاءِ.	{H8064}	HNcmpa	#05	שָׁמָ֑יִם	sha.Ma.yim	heaven
+#07	عَلَى	{H5921A}\H9014	HR	#06	עַל	'al-	on
+#08	الْجِبَالِ	H9009/{H2022G}	HTd/Ncmpa	#07	הֶ הָרִ֣ים	he./ha.Rim	the/ mountains
+#09 - #11	جَدُّوا فِي أَثَرِنَا.	{H1814}/H9035	HVqp3cp/Sp1bp	#08	דְּלָקֻ֔ נוּ	de.la.Ku./nu	they hotly pursued/ us
+#12 - #13	فِي الْبَرِّيَّةِ	H9003/{H4057B}	HRd/Ncmsa	#09	בַּ מִּדְבָּ֖ר	ba./mid.Bar	in the/ wilderness
+#14	كَمَنُوا	{H0693}	HVqp3cp	#10	אָ֥רְבוּ	'A.re.vu	they lay in wait
+#15	لَنَا.	H9005/{H9035}\H9016\ \H9018	HR/Sp1bp	#11	לָֽ נוּ	La./nu	for/ us
+
+Lam.4.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	نَفَسُ	{H7307H}	HNcfsc	#01	ר֤וּחַ	Ru.ach	[the] breath of
+#02	أُنُوفِنَا،	{H0639H}/H9025	HNcmdc/Sp1bp	#02	אַפֵּ֙י נוּ֙	'a.Pei./nu	nostrils/ our
+#03	مَسِيحُ	{H4899}	HNcmsc	#03	מְשִׁ֣יחַ	me.Shi.ach	[the] [one] anointed of
+#04	الرَّبِّ،	{H3068G}	HNpt	#04	יְהוָ֔ה	Yah.weh	Yahweh
+#05	أُخِذَ	{H3920}	HVNp3ms	#05	נִלְכַּ֖ד	nil.Kad	he was captured
+#06 - #07	فِي حُفَرِهِمِ.	H9003/{H7825}/H9028	HR/Ncfpc/Sp3mp	#06	בִּ שְׁחִיתוֹתָ֑ ם	bi/sh.chi.to.Ta/m	in/ pits/ their
+#08	الَّذِي	{H0834A}	HTr	#07	אֲשֶׁ֣ר	'a.Sher	whom
+#09 - #10	قُلْنَا عَنْهُ:	{H0559}	HVqp1cp	#08	אָמַ֔רְנוּ	'a.Mar.nu	we had said
+#11 - #12	فِي ظِلِّهِ	H9003/{H6738}/H9023	HR/Ncmsc/Sp3ms	#09	בְּ צִלּ֖ וֹ	be./tzi.L/o	in/ shadow/ his
+#13	نَعِيشُ	{H2421}	HVqi1cp	#10	נִֽחְיֶ֥ה	nich.Yeh	we will live
+#14 - #15	بَيْنَ الأُمَمِ.	H9003/{H1471A}\H9016\ \H9018	HRd/Ncmpa	#11	בַ גּוֹיִֽם	va./go.Yim	among the/ nations
+
+Lam.4.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	اِطْرَبِي	{H7797}	HVqv2fs	#01	שִׂ֤ישִׂי	Si.si	exult
+#02	وَافْرَحِي	H9002/{H8055}	HC/Vqv2fs	#02	וְ שִׂמְחִי֙	ve./sim.Chi	and/ rejoice
+#03 - #04	يَا بِنْتَ	{H1323G}\H9014	HNcfsc	#03	בַּת	bat-	O daughter of
+#05	أَدُومَ،	{H0123G}	HNpm	#04	אֱד֔וֹם	'e.Dom	Edom
+#06 - #07	يَا سَاكِنَةَ	H9003/{H0776G}; {H3427}	HR/Ncfsc; HVqrfsa	#06; #05Q(k)	בְּ אֶ֣רֶץ; יוֹשֶׁ֖בֶת	be./'E.retz; yo.shav.ti	in/ [the] land of; [who] dwells
+#08	عَوْصٍ.	{H5780J}	HNpl	#07	ע֑וּץ	'Utz	Uz
+#09	عَلَيْكِ	{H5921A}/H9032	HR/Sp2fs	#09	עָלַ֙יִ ךְ֙	'a.La.yi/kh	to/ you
+#10	أَيْضًا	{H1571}\H9014	HD	#08	גַּם	gam-	also
+#11	تَمُرُّ	{H5674A}\H9014	HVqi3fs	#10	תַּעֲבָר	ta.'a.vor-	it will pass on
+#12	الْكَأْسُ.	{H3563A}	HNcfsa	#11	כּ֔וֹס	Kos	a cup
+#13	تَسْكَرِينَ	{H7937}	HVqi2fs	#12	תִּשְׁכְּרִ֖י	tish.ke.Ri	you will become drunk
+#14	وَتَتَعَرَّينَ.	H9002/{H6168}\H9016\ \H9018	HC/Vtu2fs	#13	וְ תִתְעָרִֽי	ve./tit.'a.Ri	and/ you may strip yourself naked
+
+Lam.4.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	قَدْ تَمَّ	{H8552}\H9014	HVqp3ms	#01	תַּם	tam-	it will finish
+#03	إِثْمُكِ	{H5771G}/H9022	HNcmsc/Sp2fs	#02	עֲוֹנֵ ךְ֙	'a.vo.ne/Kh	iniquity/ your
+#04 - #05	يَا بِنْتَ	{H1323G}\H9014	HNcfsc	#03	בַּת	bat-	O daughter of
+#06	صِهْيَوْنَ.	{H6726}	HNpl	#04	צִיּ֔וֹן	tzi.Yon	Zion
+#07	لاَ	{H3808}	HTn	#05	לֹ֥א	lo'	not
+#08	يَعُودُ	{H3254G}	HVhi3ms	#06	יוֹסִ֖יף	yo.Sif	he will increase
+#09	يَسْبِيكِ.	H9005/{H1540K}/H9032	HR/Vhcc/Sp2fs	#07	לְ הַגְלוֹתֵ֑ ךְ	le./hag.lo.Te/kh	to/ take into exile/ you
+#10	سَيُعَاقِبُ	{H6485H}	HVqp3ms	#08	פָּקַ֤ד	pa.Kad	he will punish
+#11	إِثْمَكِ	{H5771G}/H9022	HNcmsc/Sp2fs	#09	עֲוֹנֵ ךְ֙	'a.vo.ne/Kh	iniquity/ your
+#12 - #13	يَا بِنْتَ	{H5921A}\H9014; {H1323G}\H9014	HR; HNcfsc	#13; #10	עַל; בַּת	'al-; bat-	on; O daughter of
+#14	أَدُومَ	{H0123G}	HNpm	#11	אֱד֔וֹם	'e.Dom	Edom
+#15	وَيُعْلِنُ	{H1540H}	HVpp3ms	#12	גִּלָּ֖ה	gi.Lah	he will make known
+#16	خَطَايَاكِ.	{H2403B}/H9022\H9016\ \H9017	HNcfpc/Sp2fs	#14	חַטֹּאתָֽיִ ךְ	cha.to.Ta.yi/kh	sins/ your
+
+Lam.5.1
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	اُذْكُرْ	{H2142}	HVqv2ms	#01	זְכֹ֤ר	ze.Khor	remember
+#02 - #03	يَا رَبُّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	O Yahweh
+#04	مَاذَا	{H4100}\H9014	HPi	#03	מֶֽה	meh-	what?
+#05	صَارَ	{H1961}	HVqp3ms	#04	הָ֣יָה	Ha.yah	has it happened
+#06	لَنَا.	H9005/{H9035}	HR/Sp1bp	#05	לָ֔ נוּ	La./nu	to/ us
+#07	أَشْرِفْ	{H5027}/H9012	HVhv2ms/Sh	#06Q(K)	הַבִּ֖יטָ ה	ha.beit/h	look/ .
+#08	وَانْظُرْ	H9002/{H7200G}	HC/Vqv2ms	#07	וּ רְאֵ֥ה	u./re.'Eh	and/ see
+		{H0853}\H9014	HTo	#08	אֶת	'et-	<obj.>
+#09 - #10	إِلَى عَارِنَا.	{H2781}/H9025\H9016	HNcfsc/Sp1bp	#09	חֶרְפָּתֵֽ נוּ	cher.pa.Te./nu	reproach/ our
+
+Lam.5.2
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	قَدْ صَارَ	{H2015}	HVNp3fs	#02	נֶֽהֶפְכָ֣ה	ne.hef.Khah	it has been turned over
+#03	مِيرَاثُنَا	{H5159}/H9025	HNcfsc/Sp1bp	#01	נַחֲלָתֵ֙ נוּ֙	na.cha.la.Te./nu	inheritance/ our
+#04	لِلْغُرَبَاءِ.	H9005/{H2114A}	HR/Aampa	#03	לְ זָרִ֔ים	le./za.Rim	to/ strangers
+#05	بُيُوتُنَا	{H1004B}/H9025	HNcmpc/Sp1bp	#04	בָּתֵּ֖י נוּ	ba.Tei./nu	houses/ our
+#06	لِلأَجَانِبِ.	H9005/{H5237}\H9016	HR/Aampa	#05	לְ נָכְרִֽים	le./na.khe.Rim	to/ foreigners
+
+Lam.5.3
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	صِرْنَا	{H1961}	HVqp1cp	#02	הָיִ֙ינוּ֙	ha.Yi.nu	we have become
+#02	أَيْتَامًا	{H3490}	HNcmpa	#01	יְתוֹמִ֤ים	ye.to.Mim	fatherless ones
+#03	بِلاَ	H9002/{H0369}	HC/Ncmsc	#03Q(K)	וְ אֵ֣ין	ve./ein	and/ there not
+#04	أَبٍ.	{H0001G}	HNcmsa	#04	אָ֔ב	'Av	[is] a father
+#05	أُمَّهَاتُنَا	{H0517}/H9025	HNcfpc/Sp1bp	#05	אִמֹּתֵ֖י נוּ	'i.mo.Tei./nu	mothers/ our
+#06	كَأَرَامِلَ.	H9004/{H0490}\H9016	HR/Ncfpa	#06	כְּ אַלְמָנֽוֹת	ke./'al.ma.Not	[are] like/ widows
+
+Lam.5.4
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	شَرِبْنَا	{H8354}	HVqp1cp	#03	שָׁתִ֔ינוּ	sha.Ti.nu	we have drunk
+#02	مَاءَنَا	{H4325G}/H9025	HNcmpc/Sp1bp	#01	מֵימֵ֙י נוּ֙	mei.Mei./nu	water/ our
+#03	بِالْفِضَّةِ.	H9003/{H3701H}	HR/Ncmsa	#02	בְּ כֶ֣סֶף	be./Khe.sef	for/ money
+#04	حَطَبُنَا	{H6086G}/H9025	HNcmpc/Sp1bp	#04	עֵצֵ֖י נוּ	'e.Tzei./nu	wood<s>/ our
+#05	بِالثَّمَنِ	H9003/{H4242}	HR/Ncmsa	#05	בִּ מְחִ֥יר	bi/m.Chir	for/ a price
+#06	يَأْتِي.	{H0935P}\H9016	HVqi3mp	#06	יָבֹֽאוּ	ya.Vo.'u	they come
+
+Lam.5.5
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	عَلَى	{H5921A}	HR	#01	עַ֤ל	'al	at
+#02	أَعْنَاقِنَا	{H6677A}/H9025	HNcmsc/Sp1bp	#02	צַוָּארֵ֙ נוּ֙	tza.va.Re./nu	neck/ our
+#03	نُضْطَهَدُ.	{H7291}	HVNp1cp	#03	נִרְדָּ֔פְנוּ	nir.Da.fe.nu	we have been pursued
+#04	نَتْعَبُ	{H3021}	HVqp1cp	#04	יָגַ֖עְנוּ	ya.Ga'.nu	we have become weary
+#05	وَلاَ	H9002/{H3808}	HC/Tn	#05Q(K)	וְ לֹ֥א	ve./lo'	and/ not
+#06	رَاحَةَ	{H5117}	HVHp3ms	#06	הֽוּנַ֖ח	hu.nach-	it has been given rest
+#07	لَنَا.	H9005/{H9035}\H9016	HR/Sp1bp	#07	לָֽ נוּ	La./nu	to/ us
+
+Lam.5.6
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَعْطَيْنَا	{H5414G}	HVqp1cp	#02	נָתַ֣נּוּ	na.Ta.nu	we have given
+#02	الْيَدَ	{H3027H}	HNcbsa	#03	יָ֔ד	Yad	a hand
+#03	لِلْمِصْرِيِّينَ	{H4714G}	HNpl	#01	מִצְרַ֙יִם֙	mitz.Ra.yim	Egypt
+#04	وَالأَشُّورِيِّينَ	{H0804G}	HNpl	#04	אַשּׁ֖וּר	'a.Shur	Assyria
+#05	لِنَشْبَعَ	H9005/{H7646}	HR/Vqcc	#05	לִ שְׂבֹּ֥עַֽ	li/s.Bo.a'	to/ be satisfied
+#06	خُبْزًا.	{H3899H}\H9016	HNcmsa	#06	לָֽחֶם	La.chem	bread
+
+Lam.5.7
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	آبَاؤُنَا	{H0001G}/H9025	HNcfpc/Sp1bp	#01	אֲבֹתֵ֤י נוּ	'a.vo.Tei./nu	ancestors/ our
+#02	أَخْطَأُوا	{H2398}	HVqp3cp	#02	חָֽטְאוּ֙	cha.te.'U	they sinned
+#03 - #04	وَلَيْسُوا بِمَوْجُودِينَ،	H9002/{H0369}/H9048	HC/Ncmsc/Sp3mp	#03Q(K)	וְ אֵינָ֔ ם	ve./ei.na/m	and/ not [are]/ they
+#05	وَنَحْنُ	H9002/{H0587}	HC/Pp1bp	#04Q(K)	וַ אֲנַ֖חְנוּ	va./'a.nach.nu	and/ we
+#06	نَحْمِلُ	{H5445}\H9016	HVqp1cp	#06	סָבָֽלְנוּ	sa.Val.nu	we have borne
+#07	آثَامَهُمْ.	{H5771G}/H9028	HNcfpc/Sp3mp	#05	עֲוֹנֹתֵי הֶ֥ם	'a.vo.no.tei./Hem	iniquities/ their
+
+Lam.5.8
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	عَبِيدٌ	{H5650}	HNcmpa	#01	עֲבָדִים֙	'a.va.Dim	slaves
+#02	حَكَمُوا	{H4910}	HVqp3cp	#02	מָ֣שְׁלוּ	Ma.she.lu	they have ruled
+#03	عَلَيْنَا.	H9003/{H9035}	HR/Sp1bp	#03	בָ֔ נוּ	Va./nu	over/ us
+#04	لَيْسَ	{H0369}	HNcmsc	#05	אֵ֥ין	'ein	there not
+#05 - #06	مَنْ يُخَلِّصُ	{H6561}	HVqrmsa	#04	פֹּרֵ֖ק	po.Rek	[is one who] rescues
+#07 - #08	مِنْ أَيْدِيهِمْ.	H9006/{H3027H}/H9028\H9016	HR/Ncbsc/Sp3mp	#06	מִ יָּדָֽ ם	mi./ya.Da/m	from/ hand/ their
+
+Lam.5.9
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	بِأَنْفُسِنَا	H9003/{H5315H}/H9025	HR/Ncfsc/Sp1bp	#01	בְּ נַפְשֵׁ֙ נוּ֙	be./naf.She./nu	with/ life/ our
+#02	نَأْتِي	{H0935P}	HVhi1cp	#02	נָבִ֣יא	na.Vi'	we bring
+#03	بِخُبْزِنَا	{H3899H}/H9025	HNcbsc/Sp1mp	#03	לַחְמֵ֔ נוּ	lach.Me./nu	bread/ our
+#04 - #05	مِنْ جَرَى	H9006/{H6440I}	HR/Ncmpc	#04	מִ פְּנֵ֖י	mi./pe.Nei	<from>/ because of
+#06	سَيْفِ	{H2719}	HNcfsc	#05	חֶ֥רֶב	Che.rev	[the] sword of
+#07	الْبَرِّيَّةِ.	H9009/{H4057B}\H9016	HTd/Ncmsa	#06	הַ מִּדְבָּֽר	ha./mid.Bar	the/ wilderness
+
+Lam.5.10
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	جُلُودُنَا	{H5785}/H9025	HNcmsc/Sp1bp	#01	עוֹרֵ֙ נוּ֙	o.Re./nu	skin/ our
+#02	اسْوَدَّتْ	{H3648}	HVNp3cp	#03	נִכְמָ֔רוּ	nikh.Ma.ru	they have grown hot
+#03	كَتَنُّورٍ	H9004/{H8574H}	HR/Ncmsa	#02	כְּ תַנּ֣וּר	ke./ta.Nur	like/ an oven
+#04 - #05	مِنْ جَرَى	H9006/{H6440I}	HR/Ncmpc	#04	מִ פְּנֵ֖י	mi./pe.Nei	<from>/ because of
+#06	نِيرَانِ	{H2152}	HNcfpc	#05	זַלְעֲפ֥וֹת	zal.'a.Fot	[the] burning heat of
+#07	الْجُوعِ.	{H7458}\H9016	HNcmsa	#06	רָעָֽב	ra.'Av	hunger
+
+Lam.5.11
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَذَلُّوا	{H6031B}	HVpp3cp	#03	עִנּ֔וּ	'i.Nu	men have humiliated
+#02	النِّسَاءَ	{H0802G}	HNcmpa	#01	נָשִׁים֙	na.Shim	women
+#03 - #04	فِي صِهْيَوْنَ،	H9003/{H6726}	HR/Npl	#02	בְּ צִיּ֣וֹן	be./tzi.Yon	in/ Zion
+#05	الْعَذَارَى	{H1330}	HNcfpa	#04	בְּתֻלֹ֖ת	be.tu.Lot	virgins
+#06 - #07	فِي مُدُنِ	H9003/{H5892B}	HR/Ncmpc	#05	בְּ עָרֵ֥י	be./'a.Rei	in/ [the] cities of
+#08	يَهُوذَا.	{H3063G}\H9016	HNpl	#06	יְהוּדָֽה	ye.hu.Dah	Judah
+
+Lam.5.12
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	الرُّؤَسَاءُ	{H8269}	HNcmpa	#01	שָׂרִים֙	sa.Rim	princes
+#02	بِأَيْدِيهِمْ	H9003/{H3027G}/H9028	HR/Ncbsc/Sp3mp	#02	בְּ יָדָ֣ ם	be./ya.Da/m	by/ hand/ their
+#03	يُعَلَّقُونَ،	{H8518}	HVNp3cp	#03	נִתְל֔וּ	nit.Lu	they have been hanged
+#04	وَلَمْ	{H3808}	HTn	#06	לֹ֥א	lo'	not
+#05	تُعْتَبَرْ	{H1921}\H9016	HVNp3cp	#07	נֶהְדָּֽרוּ	neh.Da.ru	they have been honored
+#06	وُجُوهُ	{H6440N}	HNcmpc	#04	פְּנֵ֥י	pe.Nei	[the] face of
+#07	الشُّيُوخِ.	{H2205G}	HAampa	#05	זְקֵנִ֖ים	ze.ke.Nim	elders
+
+Lam.5.13
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَخَذُوا	{H5375G}	HVqp3cp	#03	נָשָׂ֔אוּ	na.Sa.'u	they have lifted
+#02	الشُّبَّانَ	{H0970}	HNcmpa	#01	בַּחוּרִים֙	ba.chu.Rim	young men
+#03	لِلطَّحْنِ،	{H2911}	HNcmsa	#02	טְח֣וֹן	te.Chon	a mill
+#04	وَالصِّبْيَانَ	H9002/{H5288}	HC/Ncmpa	#04	וּ נְעָרִ֖ים	u./ne.'a.Rim	and/ young men
+#05	عَثَرُوا	{H3782}\H9016	HVqp3cp	#06	כָּשָֽׁלוּ	ka.Sha.lu	they have staggered
+#06 - #07	تَحْتَ الْحَطَبِ.	H9003/{H6086G}	HRd/Ncmsa	#05	בָּ עֵ֥ץ	ba./'Etz	with <the>/ wood
+
+Lam.5.14
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	كَفَّتِ	{H7673A}	HVqp3cp	#03	שָׁבָ֔תוּ	sha.Va.tu	they have ceased
+#02	الشُّيُوخُ	{H2205H}	HAampa	#01	זְקֵנִים֙	ze.ke.Nim	old [men]
+#03 - #04	عَنِ الْبَابِ،	H9006/{H8179G}	HR/Ncmsa	#02	מִ שַּׁ֣עַר	mi./Sha.'ar	from/ [the] gate
+#05	وَالشُّبَّانُ	{H0970}	HNcmpa	#04	בַּחוּרִ֖ים	ba.chu.Rim	young men
+#06 - #07	عَنْ غِنَائِهِمْ.	H9006/{H5058}/H9028\H9016	HR/Ncfsc/Sp3mp	#05	מִ נְּגִינָתָֽ ם	mi./ne.gi.na.Ta/m	from/ music/ their
+
+Lam.5.15
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	مَضَى	{H7673A}	HVqp3ms	#01	שָׁבַת֙	sha.Vat	it has ceased
+#02	فَرَحُ	{H4885}	HNcmsc	#02	מְשׂ֣וֹשׂ	me.Sos	[the] joy of
+#03	قَلْبِنَا.	{H3820A}/H9025	HNcmsc/Sp1bp	#03	לִבֵּ֔ נוּ	li.Be./nu	heart/ our
+#04	صَارَ	{H2015}	HVNp3ms	#04	נֶהְפַּ֥ךְ	neh.Pakh	it has been changed
+#05	رَقْصُنَا	{H4234}/H9025\H9016	HNcmsc/Sp1bp	#06	מְחֹלֵֽ נוּ	me.cho.Le./nu	dancing/ our
+#06	نَوْحًا.	H9005/{H0060}	HR/Ncmsa	#05	לְ אֵ֖בֶל	le./'E.vel	into/ mourning
+
+Lam.5.16
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	سَقَطَ	{H5307G}	HVqp3fs	#01	נָֽפְלָה֙	na.fe.Lah	it has fallen
+#02	إِكْلِيلُ	{H5850}	HNcfsc	#02	עֲטֶ֣רֶת	'a.Te.ret	[the] crown of
+#03	رَأْسِنَا.	{H7218A}/H9025	HNcmsc/Sp1bp	#03	רֹאשֵׁ֔ נוּ	ro.She./nu	head/ our
+#04	وَيْلٌ	{H0188}\H9014; {H4994}	HTj; HTj	#04; #05	אֽוֹי; נָ֥א	'o-; na'	woe.; please
+#05	لَنَا	H9005/{H9035}	HR/Sp1bp	#06	לָ֖ נוּ	La./nu	to/ us
+#06	لأَنَّنَا	{H3588A}	HTc	#07	כִּ֥י	ki	for
+#07 - #08	قَدْ أَخْطَأْنَا.	{H2398}\H9016	HVqp1cp	#08	חָטָֽאנוּ	cha.Ta.nu	we have sinned
+
+Lam.5.17
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	مِنْ أَجْلِ	{H5921A}\H9014	HR	#01	עַל	'al-	on
+#03	هذَا	{H2088}	HTm	#02	זֶ֗ה	Zeh	this
+#04	حَزِنَ	{H1961}; {H1739}	HVqp3ms; HAamsa	#03; #04	הָיָ֤ה; דָוֶה֙	ha.Yah; da.Veh	it has become; faint
+#05	قَلْبُنَا.	{H3820A}/H9025	HNcmsc/Sp1bp	#05	לִבֵּ֔ נוּ	li.Be./nu	heart/ our
+#06 - #07	مِنْ أَجْلِ	{H5921A}\H9014	HR	#06	עַל	'al-	on
+#08	هذِهِ	{H0428}	HTm	#07	אֵ֖לֶּה	'E.leh	these [things]
+#09	أَظْلَمَتْ	{H2821}	HVqp3cp	#08	חָשְׁכ֥וּ	cha.she.Khu	they have grown dim
+#10	عُيُونُنَا.	{H5869A}/H9025\H9016	HNcfdc/Sp1bp	#09	עֵינֵֽי נוּ	'ei.Nei./nu	eyes/ our
+
+Lam.5.18
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	مِنْ أَجْلِ	{H5921A}	HR	#01	עַ֤ל	'al	on
+#03	جَبَلِ	{H2022G}\H9014	HNcmsc	#02	הַר	har-	[the] mountain of
+#04	صِهْيَوْنَ	{H6726}	HNpl	#03	צִיּוֹן֙	tzi.yOn	Zion
+#05	الْخَرِبِ.	H9007/{H8074G}	HTr/Aamsa	#04	שֶׁ שָּׁמֵ֔ם	she./sha.Mem	that/ [is] desolate
+#06	الثَّعَالِبُ	{H7776}	HNcmpa	#05	שׁוּעָלִ֖ים	shu.'a.Lim	foxes
+#07	مَاشِيَةٌ	{H1980I}\H9014	HVpp3cp	#06	הִלְּכוּ	hi.le.khu-	they have prowled
+#08	فِيهِ.	H9003/{H9033}\H9016\ \H9017	HR/Sp3ms	#07	בֽ וֹ	v/o	on/ it
+
+Lam.5.19
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	أَنْتَ	{H0859A}	HPp2ms	#01	אַתָּ֤ה	'a.Tah	you
+#02 - #03	يَا رَبُّ	{H3068G}	HNpt	#02	יְהוָה֙	Yah.weh	O Yahweh
+#04 - #05	إِلَى الأَبَدِ	H9005/{H5769G}	HR/Ncmsa	#03	לְ עוֹלָ֣ם	le./'o.Lam	for/ ever
+#06	تَجْلِسُ.	{H3427}	HVqi2ms	#04	תֵּשֵׁ֔ב	te.Shev	you will sit
+#07	كُرْسِيُّكَ	{H3678G}/H9021	HNcmsc/Sp2ms	#05	כִּסְאֲ ךָ֖	kis.'a./Kha	throne/ your
+#08 - #09	إِلَى دَوْرٍ	H9005/{H1755}	HR/Ncmsa	#06	לְ דֹ֥ר	le./Dor	[is] to/ a generation
+#10	فَدَوْرٍ.	H9002/{H1755}\H9016	HC/Ncmsa	#07	וָ דֽוֹר	va./Dor	and/ a generation
+
+Lam.5.20
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	لِمَاذَا	H9005/{H4100}	HR/Pi	#01	לָ֤ מָּה	La./mah	<to>/ why?
+#02	تَنْسَانَا	{H7911}/H9035	HVqi2ms/Sp1bp	#03	תִּשְׁכָּחֵ֔ נוּ	tish.ka.Che./nu	do you forget/ us
+#03 - #04	إِلَى الأَبَدِ	H9005/{H5331}	HR/Ncmsa	#02	לָ נֶ֙צַח֙	la./Ne.tzach	to/ perpetuity
+#05	وَتَتْرُكُنَا	{H5800A}/H9035	HVqi2ms/Sp1bp	#04	תַּֽעַזְבֵ֖ נוּ	ta.'az.Ve./nu	do you abandon?/ us
+#06	طُولَ	H9005/{H0753}	HR/Ncmsc	#05	לְ אֹ֥רֶךְ	le./'O.rekh	for/ length of
+#07	الأَيَّامِ.	{H3117G}\H9016	HNcmpa	#06	יָמִֽים	ya.Mim	days
+
+Lam.5.21
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01	اُرْدُدْنَا	{H7725H}/H9035	HVhv2ms/Sp1bp	#01	הֲשִׁיבֵ֨ נוּ	ha.shi.Ve./nu	cause to return/ us
+#02 - #03	يَا رَبُّ	{H3068G}\H9015	HNpt	#02	יְהוָ֤ה	Yah.weh	O Yahweh
+#04	إِلَيْكَ	{H0413}/H9031	HR/Sp2ms	#03	אֵלֶ֙י ךָ֙	'e.Lei./kha	to/ yourself
+#05	فَنَرْتَدَّ.	H9002/{H7725H}	HC/Vqc1cp	#04Q(K)	וְֽ נָשׁ֔וּבָה	ve./na.shuv	so/ let us return
+#06	جَدِّدْ	{H2318}	HVpv2ms	#05	חַדֵּ֥שׁ	cha.Desh	renew
+#07	أَيَّامَنَا	{H3117G}/H9025	HNcmpc/Sp1bp	#06	יָמֵ֖י נוּ	ya.Mei./nu	days/ our
+#08	كَالْقَدِيمِ.	H9004/{H6924H}\H9016	HR/Ncmsa	#07	כְּ קֶֽדֶם	ke./Ke.dem	like/ ancient time
+
+Lam.5.22
+========
+Ara W#	Arabic	Strongs	Grammar	Heb w#	Hebrew	Transliteration	Word-by-word
+#01 - #02	هَلْ كُلَّ	{H3588B}; {H0518B}\H9014	HTc; HTc	#01; #02	כִּ֚י; אִם	ki; 'im-	that; except
+#03	الرَّفْضِ	{H3988A}	HVqaa	#03	מָאֹ֣ס	ma.'Os	certainly <to reject>
+#04	رَفَضْتَنَا.	{H3988A}/H9035	HVqp2ms/Sp1bp	#04	מְאַסְתָּ֔ נוּ	me.'as.Ta./nu	you have rejected/ us
+#05 - #06	هَلْ غَضِبْتَ	{H7107}	HVqp2ms	#05	קָצַ֥פְתָּ	ka.Tzaf.ta	you are angry
+#07	عَلَيْنَا	{H5921A}/H9035	HR/Sp1bp	#06	עָלֵ֖י נוּ	'a.Lei./nu	towards/ us
+#08	جِدًّا.	{H5704}\H9014; {H3966}\H9016	HR; HAcmsa	#07; #08	עַד; מְאֹֽד	'ad-; me.'Od	up to; muchness
+
