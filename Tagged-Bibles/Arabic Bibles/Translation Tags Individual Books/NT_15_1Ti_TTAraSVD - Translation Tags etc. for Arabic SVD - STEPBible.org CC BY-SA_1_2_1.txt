@@ -41,7 +41,7 @@ Feedback@STEPBible.org
 ===========================================================================
 
 Version 1.2.1:
-Created 2024-07-27 Sami Abdel Malik. 
+Created 2024-08-03 Sami Abdel Malik. 
 
 This work tries to answer the question; which original text words correspond to the translated Arabic words?
 
@@ -1874,13 +1874,15 @@ Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
 #02 - #04	إِذْ تَظَاهَرَ بِهِ	G1861	ἐπαγγελλόμενοι	ἐπαγγέλλω	to profess	epangellomenoi	V-PNP-NPM	#03NKO
 #05	قَوْمٌ	G5100	τινες	τις	one	tines	X-NPM	#02NKO
 #06	زَاغُوا	G0795	ἠστόχησαν.¶	ἀστοχέω	to deviate	ēstochēsan	V-AAI-3P	#07NKO
-		G3588	Ἡ			Hē	T-NSF	[6:21]#08NKO
 #07 - #08	مِنْ جِهَةِ	G4012	περὶ	περί	about	peri	PREP	#04NKO
 #09	الإِيمَانِ.	G3588; G4102G	τὴν ; πίστιν	ὁ; πίστις	the/this/who; faith	tēn; pistin	T-ASF; N-ASF	#05NKO; #06NKO
-#10	٢٢							
-#11	اَلنِّعْمَةُ	G5485	χάρις	χάρις	grace	charis	N-NSF	[6:21]#09NKO
-#12	مَعَكَ.	G3326; G4675	μεθ᾽ ; σοῦ	μετά; σοῦ	with/after; you [one]	meth᾽; sou	PREP; P-2GS	[6:21]#10NKO; [6:21]#11N(k)O
-#13	آمِينَ.	G0281	ἀμήν.	ἀμήν	amen	amēn	INJ-HEB	[6:21]#12KO
+
+1Ti.6.22
+========
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	اَلنِّعْمَةُ	G3588; G5485	Ἡ ; χάρις	ὁ; χάρις	the/this/who; grace	Hē; charis	T-NSF; N-NSF	[6:21]#08NKO; [6:21]#09NKO
+#02	مَعَكَ.	G3326; G4675	μεθ᾽ ; σοῦ	μετά; σοῦ	with/after; you [one]	meth᾽; sou	PREP; P-2GS	[6:21]#10NKO; [6:21]#11N(k)O
+#03	آمِينَ.	G0281	ἀμήν.	ἀμήν	amen	amēn	INJ-HEB	[6:21]#12KO
 		G4314	πρός			pros	PREP	[6:21]#13K
 		G5095	Τιμόθεον			Timotheon	N-ASM-P	[6:21]#14K
 		G4413G	πρώτη			prōtē	A-NSF-S	[6:21]#15K
@@ -1888,9 +1890,4 @@ Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
 		G0575	ἀπό			apo	PREP	[6:21]#17K
 		G2993	Λαοδικείας			Laodikeias	N-GSF-L	[6:21]#18K
 		G3748	ἥτις			hētis	R-NSF	[6:21]#19K
-		G1510	ἐστίν			estin	V-PAI-3S	[6:21]#20K
-		G3390	μητρόπολις			mētropolis	N-NSF	[6:21]#21K
-		G5435	φρυγίας			phrugias	N-GSF-L	[6:21]#22K
-		G3588	τῆς			tēs	T-GSF	[6:21]#23K
-		G3818	Πακατιανῆς.¶			Pakatianēs	N-GSF-LG	[6:21]#24K
 
