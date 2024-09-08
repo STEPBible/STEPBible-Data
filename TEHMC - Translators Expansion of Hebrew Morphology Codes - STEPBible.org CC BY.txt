@@ -135,7 +135,7 @@ line 1: Codes + expansion	- based on OpenScripture codes which are similar to We
 line 2:              morphology 	- the morphology in a phrase that makes sense in English
 line 3:              explanation 	- the meaning of this morphology in a phrase that makes sense in English 
 line 4:              example	- an example of how a Hebrew or Aramaic word in this form might be translated, using: "Jew" for gentilics, "person/man/woman" for nouns, "late" for adjectives etc
-	- verbs are based on רוּם (H7311A) which means, roughly: Qal= "to rise" (eg "I rise", "I am risen"); Piel= "to raise" (eg "I raise someone", "I am raised [by someone]"; Hiphil="to exalt" (ie "I cause to be raised")
+	- verbs are based on רוּם (H7311A) which means, roughly: Qal+= "to rise" (eg "I rise", "I am risen"); Piel+= "to raise" (eg "I raise someone", "I am raised [by someone]"; Hiphil+="to exalt" (ie "I cause to be raised")
 
 
 THE ELEMENTS OF MORPHOLOGY:
@@ -1462,7 +1462,7 @@ $
 HVcrmsa	Function=Verb ; Stem=Tiphil (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Tiphil (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
 	causing or confirming an ACTION OR ACTIVITY being done by a male person or thing 
-	Example: a exalting (man)
+	Example: an exalting (man)
 $
 HVDp3ms	Function=Verb ; Stem=Nithpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
 	"Verb : Nithpael (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Singular Masculine"
@@ -1512,7 +1512,7 @@ $
 AVermsa	Function=Verb ; Stem=Shaphel (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Shaphel (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
 	causing or confirming an ACTION OR ACTIVITY being done by a male person or thing 
-	Example: a exalting (man)
+	Example: an exalting (man)
 $
 HVhaa	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Infinitive ; State=Absolute
 	"Verb : Hiphil (Causative/declarative, Active) Infinitive Absolute"
@@ -2047,22 +2047,22 @@ $
 AVhrfsa	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
 	"Verb : Haphel (Causative/declarative, Active) Participle (Singular Feminine, Absolute)"
 	causing or confirming an ACTION OR ACTIVITY being done by a female person or thing 
-	Example: a exalting female
+	Example: an exalting female
 $
 HVhrfsa	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
 	"Verb : Hiphil (Causative/declarative, Active) Participle (Singular Feminine, Absolute)"
 	causing or confirming an ACTION OR ACTIVITY being done by a female person or thing 
-	Example: a exalting female
+	Example: an exalting female
 $
 AVhrfsc	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Feminine; Number=Singular; State=Construct
 	"Verb : Haphel (Causative/declarative, Active) Participle (Singular Feminine, Construct)"
 	"causing or confirming an ACTION OR ACTIVITY being done by a female person or thing, combined with another term"
-	Example: a exalting female
+	Example: an exalting female
 $
 HVhrfsc	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Feminine; Number=Singular; State=Construct
 	"Verb : Hiphil (Causative/declarative, Active) Participle (Singular Feminine, Construct)"
 	"causing or confirming an ACTION OR ACTIVITY being done by a female person or thing, combined with another term"
-	Example: a exalting female
+	Example: an exalting female
 $
 AVhrmpa	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
 	"Verb : Haphel (Causative/declarative, Active) Participle (Plural Masculine, Absolute)"
@@ -2082,7 +2082,7 @@ $
 AVhrmsa	Function=Verb ; Stem=Haphel (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Haphel (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
 	causing or confirming an ACTION OR ACTIVITY being done by a male person or thing 
-	Example: a exalting (man)
+	Example: an exalting (man)
 $
 AVHrmsa	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Hophal (Causative/declarative, Passive) Participle (Singular Masculine, Absolute)"
@@ -2092,17 +2092,17 @@ $
 HVhrmsa	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Hiphil (Causative/declarative, Active) Participle (Singular Masculine, Absolute)"
 	causing or confirming an ACTION OR ACTIVITY being done by a male person or thing 
-	Example: a exalting (man)
+	Example: an exalting (man)
 $
 HVHrmsa	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
 	"Verb : Hophal (Causative/declarative, Passive) Participle (Singular Masculine, Absolute)"
 	causing or confirming an ACTION OR ACTIVITY being done to a male person or thing 
-	Example: a exalted (man)
+	Example: an exalted (man)
 $
 HVhrmsc	Function=Verb ; Stem=Hiphil (hence Action=Causative/declarative; Voice=Active); Form=Participle ; Gender=Masculine; Number=Singular; State=Construct
 	"Verb : Hiphil (Causative/declarative, Active) Participle (Singular Masculine, Construct)"
 	"causing or confirming an ACTION OR ACTIVITY being done by a male person or thing, combined with another term"
-	Example: a exalting (man)
+	Example: an exalting (man)
 $
 HVHsfpa	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=Passive); Form=Participle passive ; Gender=Feminine; Number=Plural; State=Absolute
 	"Verb : Hophal (Causative/declarative, Passive) Participle passive (Plural Feminine, Absolute)"
