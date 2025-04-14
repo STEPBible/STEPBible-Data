@@ -2023,11 +2023,6 @@ N-DPM	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine
 	"male PEOPLE OR THINGS that something is done for‚ or in relation to "
 	"giving them to _men_"
 $
-N-ASF-C	Function=Noun; Case=Accusative; Number=Singular; Gender=Feminine; Extra=Contracted form
-	Noun Accusative Singular Feminine Contracted form
-	a female PERSON OR THING that is having something done to them 
-	"giving a _woman_ to them"
-$
 N-DPM-C	Function=Noun; Case=Dative; Number=Plural; Gender=Masculine; Name type=Gentilic; Extra=Contracted form
 	Noun Dative Plural Masculine Gentilic Contracted form
 	"a member of a named group: male PEOPLE OR THINGS that something is done for‚ or in relation to "
@@ -3048,21 +3043,6 @@ R-NSN	Function=Relative pronoun; Case=Nominative; Number=Singular; Gender=Neuter
 	a REFERENCE BACK to a neuter person or thing that is doing something 
 	"a nation _which_ is wise gave you teaching"
 $
-S-1PAPF	Function=Possessive pronoun; Person=1st Person; Case=Accusative; Number=Plural; Gender=Feminine
-	Possessive pronoun 1st Person Accusative Plural Feminine 
-	a reference to POSSESSORS of something that are female people or things that are speaking or writing that are having something done to them
-	"women say: We give _our_ teachings to you"
-$
-S-1PAPM	Function=Possessive pronoun; Person=1st Person; Case=Accusative; Number=Plural; Gender=Masculine
-	Possessive pronoun 1st Person Accusative Plural Masculine 
-	a reference to POSSESSORS of something that are male people or things that are speaking or writing that are having something done to them
-	"men say: We give _our_ teachings to you"
-$
-S-1PAPN	Function=Possessive pronoun; Person=1st Person; Case=Accusative; Number=Plural; Gender=Neuter
-	Possessive pronoun 1st Person Accusative Plural Neuter 
-	a reference to POSSESSORS of something that are neuter people or things that are speaking or writing that are having something done to them
-	"nations say: We give _our_ teachings to you"
-$
 S-1PASF	Function=Possessive pronoun; Person=1st Person; Case=Accusative; Number=Singular; Gender=Feminine
 	Possessive pronoun 1st Person Accusative Singular Feminine 
 	a reference to a POSSESSOR of something who is a female person or thing that is speaking or writing that is having something done to them
@@ -3252,16 +3232,6 @@ S-1SGPF	Function=Possessive pronoun; Person=1st Person; Case=Genitive; Number=Pl
 	Possessive pronoun 1st Person Genitive Plural Feminine 
 	a reference to POSSESSORS of something who are female persons or things that are speaking or writing that something belongs to
 	"women say: Give _our_ teachings to others"
-$
-S-1SGPN	Function=Possessive pronoun; Person=1st Person; Case=Genitive; Number=Plural; Gender=Neuter
-	Possessive pronoun 1st Person Genitive Plural Neuter 
-	a reference to POSSESSORS of something who are neuter things that are speaking or writing that something belongs to
-	"nations say: Give _our_ teachings to others"
-$
-S-1SGSN	Function=Possessive pronoun; Person=1st Person; Case=Genitive; Number=Singular; Gender=Neuter
-	Possessive pronoun 1st Person Genitive Singular Neuter 
-	a reference to a POSSESSOR of something that is a neuter person or thing that is speaking or writing that something belongs to
-	"a nation says: Give _my_ teachings to others"
 $
 S-1SGSF	Function=Possessive pronoun; Person=1st Person; Case=Genitive; Number=Singular; Gender=Feminine
 	Possessive pronoun 1st Person Genitive Singular Feminine 
