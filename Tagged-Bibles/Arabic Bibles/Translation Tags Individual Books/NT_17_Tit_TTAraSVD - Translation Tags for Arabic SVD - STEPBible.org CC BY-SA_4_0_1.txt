@@ -1,0 +1,878 @@
+TTArabicSVD - Translation Tags etc. for the NT of Arabic SVD Bible - STEPBible.org CC BY-SA 4.0
+كلمات اللغات الاصلية لترجمة فانديك للعهد الجديد
+==================================================================================
+Arabic SVD Bible was translated from original languages by Drs. Eli Smith & Cornelius Van Dyck, 1865.
+Digitisation, formatting and diacritics by "Arabic Bible Outreach Ministry" https://www.arabicbible.com/
+Data created using Translators Amalgamated Greek NT - STEPBible.org CC BY 4.0 https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT
+=================================================================================
+This work is made available under the Creative Commons Attribution-Share Alike 4.0 International License (CC BY-SA).
+To view a copy of this license, visit CC BY-SA 4.0 Deed
+This licence allows you to copy and redistribute this “unmodified” work as long as
+you keep the names “Arabic Bible Outreach Ministry” and “STEPBible.org” intact.
+
+If you modify a copy of this work,
+you must indicate on the modified work what changes you have made and attribute the work as follows:
+The original work by STEPBible.org, and Arabic Bible Outreach Ministry,
+is available for free at "STEPBible Arabic Bibles" https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles/Arabic%20Bibles
+
+Error reporting: Please report all errors at Feedback@STEPBible.org
+===========================================================================
+الكتاب المقدس
+ترجم من اللغات الاصلية بواسطة الدكتور عالي سميث، والدكتور كرنيليوس فان الآن فانديك، تم عام م١٨٦٥م
+https://www.arabicbible.com/  "الرقمنة والتنسيق وعلامات التشكيل قامت بها "الخدمة العربية للكرازة بالانجيل 
+STEEPBible.org ربط الكلمات بارقم سترونج قامت بها 
+===========================================================================
+(CC BY-SA) أتيح هذا العمل بموجب الترخيص الدولي 
+
+بموجب الشروط الواردة في هذا الترخيص الدولي، يجوز نسخ وإعادة توزيع هذا العمل دون أي تعديل
+طالما يبقي ذكر اسماء:
+"الخدمة العربية للكرازة بالانجيل"
+"STEPBible.org"
+واضحا
+
+إذا أجري أي تعديل لنسخة من هذا العمل
+فلابد من الإشارة في النسخة المعدلة إلى التغييرات التي أجريت على الأصل ووصف العمل المعدل بما يلي
+العمل الأصلي بواسطة "الخدمة العربية للكرازة بالانجيل"
+و "STEPBible.org"
+متوفر للتحميل المجاني من الرابط الالكتروني
+https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles/Arabic%20Bibles
+الإبلاغ عن الأخطاء: يرجى الإبلاغ عن أي أخطاء هنا
+Feedback@STEPBible.org
+===========================================================================
+
+Version 4.0.1:
+Created 2025-04-16 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
+
+FIELD DESCRIPTIONS:																
+===================
+1. Ara W#: Two digits representing the word number in the SVD Arabic verse.
+2. Arabic: SVD Arabic text words. 
+3. Strongs: Backwardly compatible with standard Strongs and NASB tagging, as defined in the Brief Lexicon at https://STEPBible.github.io/STEPBible-Data/. Disambiguated as described at TinyURL.com/STEP-Disambiguated															
+4. Grammar: Based on James Tuaber, with addtional details by Tyndale scholars: persons added to Personal, Reflexive and Possessive pronouns; distinguish 2nd verbal forms (e.g. 2nd Aorist); distinguished betweeen "Passive", "Either middle or Passive", "Deponent"															
+		- some changes have been made, including: 																
+			ἐμοῦ  A-GSMN => P-1GS @ Jhn.016.015															
+			ευθυς =G2117 A-MNSM "straight" => G2112 ADV "immediately" @ Mat.003.016; Mat.013.20; Mat.013.21; Mrk.001.012; Mrk.001.028; Jhn.013.032; Jhn.019.034; Jhn.021.003															
+			V-PAI-3P changed to V-PAP-DPM except for  εισι[ν] (G1510) which is V-PAI-3P while οὖσι[ν] (G1510) is V-PAP-DPM															
+			τίς etc changed from I-NSM etc to X-MNSM etc at Act.025.014; 1Co.010.019; Heb.010.025, 27, 28; 11.040; 12.15x2, 16; 13.002; Jas.001.005, 7, 18, 23, 26; 2.014, 16, 18; 3.002; 5.013x2, 14x2; 5.019x2; 1Pe.002.019															
+			G4302 changed to G4277 when προειπον  is used, ie 45_Act.001.016-A, 49_Gal.005.021-A, 53_1Th.004.006-A															
+			G4302 changed to G4280 when προερέω is used, ie 41_Mat.024.025-A, 42_Mrk.013.023-INSTW, 42_Mrk.013.023-B, 46_Rom.009.029-A, 48_2Co.007.003-A, 48_2Co.013.002-A, 49_Gal.001.009-A, 59_Heb.004.007-IMNSTW, 59_Heb.010.015-B, 62_2Pe.003.002-A, 66_Jud.001.017-A, 															
+			ποῦ =G4225 => G4226 at 42_Mrk.015.047-A, 44_Jhn.001.039-A, 63_1Jn.002.011-A																
+5.Grk w#:	Two digits representing the word number of the corresponding Greek word in the Greek verse. 
+			Verse number of the Arabic text does not always match the verse number of the corresponding Greek Text.
+			In such cases, the Greek word number is prefixed with the actual Greek verse number.
+			The Greek word numbers have a suffix indicating the source of the word: 
+				NKO indicates that all editions include the same vocabulary and grammar, though the spelling may sometimes vary
+				N=words found in NA27 expressed in the spelling of NA28, which is used by most modern translators																
+				K=KJV translators' text based on the 'Textus Receptus' (TR) of Scrivener’s 1894 with some corrections when the KJV translation sometimes follows a different Greek text. 																
+				O=Other extra words and variants that are used by neither the KJV nor most modern translations. 																
+				Brackets indicate a variant. Lower case is used when a difference in vocabulary or grammar is too minor to necessarily affect the translation - 
+				eg N(k)O indicates NA27/28 has the same Greek as other editions, though the text behind the KJV is different in a minor way that may not be evident as a different translation
+6. Greek	Spelling comes from NA28 when available, then from TR or the Other edition that has the word. Cases and final accents are based on the punctuation which follows THGHT															
+7. Transliteration:  
+8. Word-by-word: A word by word translation of the Greek. Based on Berean Study Bible, with permission, as at 1-July02019 and adapted for this work.		
+
+Note: Descriptions for fields 3, 4, 5(sources), 6 and 8 are taken from Translators Amalgamated Greek NT - STEPBible.org CC BY.
+==================================================================================
+
+Tit.1.1
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	بُولُسُ،	G3972G	Παῦλος	Παῦλος	Paul	Paulos	N-NSM-P	#01NKO
+#02	عَبْدُ	G1401	δοῦλος	δοῦλος	slave	doulos	N-NSM	#02NKO
+#03	اللهِ،	G2316	θεοῦ	θεός	God	theou	N-GSM-T	#03NKO
+#04	وَرَسُولُ	G0652	ἀπόστολος	ἀπόστολος	apostle	apostolos	N-NSM	#04NKO
+		G1161	δὲ			de	CONJ	#05NKO
+#05	يَسُوعَ	G2424G	Ἰησοῦ	Ἰησοῦς	Jesus/Joshua	Iēsou	N-GSM-P	#06NKO
+#06	الْمَسِيحِ،	G5547	Χριστοῦ	Χριστός	Christ	Christou	N-GSM-T	#07NKO
+#07	لأَجْلِ	G2596	κατὰ	κατά	according to	kata	PREP	#08NKO
+#08	إِيمَانِ	G4102G	πίστιν	πίστις	faith	pistin	N-ASF	#09NKO
+#09	مُخْتَارِي	G1588	ἐκλεκτῶν	ἐκλεκτός	select	eklektōn	A-GPM	#10NKO
+#10	اللهِ	G2316	θεοῦ	θεός	God	theou	N-GSM-T	#11NKO
+		G2532	καὶ			kai	CONJ	#12NKO
+#11	وَمَعْرِفَةِ	G1922	ἐπίγνωσιν	ἐπίγνωσις	knowledge	epignōsin	N-ASF	#13NKO
+#12	الْحَقِّ،	G0225	ἀληθείας	ἀλήθεια	truth	alētheias	N-GSF	#14NKO
+#13 - #14	الَّذِي هُوَ	G3588	τῆς	ὁ	the/this/who	tēs	T-GSF	#15NKO
+#15	حَسَبُ	G2596	κατ᾽	κατά	according to	kat᾽	PREP	#16NKO
+#16	التَّقْوَى،	G2150	εὐσέβειαν	εὐσέβεια	piety	eusebeian	N-ASF	#17NKO
+<<<========
+
+Tit.1.2
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	عَلَى	G1909	ἐπ᾽	ἐπί	upon/to/against	ep᾽	PREP	#01NKO
+#02	رَجَاءِ	G1680	ἐλπίδι	ἐλπίς	hope	elpidi	N-DSF	#02NKO
+#03	الْحَيَاةِ	G2222	ζωῆς	ζωή	life	zōēs	N-GSF	#03NKO
+#04	الأَبَدِيَّةِ،	G0166	αἰωνίου,	αἰώνιος	eternal	aiōniou	A-GSF	#04NKO
+#05	الَّتِي	G3739	ἣν	ὅς, ἥ	which	hēn	R-ASF	#05NKO
+#06 - #07	وَعَدَ بِهَا	G1861	ἐπηγγείλατο	ἐπαγγέλλω	to profess	epēngeilato	V-ADI-3S	#06NKO
+		G3588	ὁ			ho	T-NSM	#07NKO
+#08	اللهُ	G2316	θεὸς	θεός	God	theos	N-NSM-T	#09NKO
+#09 - #11	الْمُنَزَّهُ عَنِ الْكَذِبِ،	G0893	ἀψευδὴς	ἀψευδής	not a liar	apseudēs	A-NSM	#08NKO
+#12	قَبْلَ	G4253	πρὸ	πρό	before	pro	PREP	#10NKO
+#13	الأَزْمِنَةِ	G5550	χρόνων	χρόνος	time	chronōn	N-GPM	#11NKO
+#14	الأَزَلِيَّةِ،	G0166	αἰωνίων.	αἰώνιος	eternal	aiōniōn	A-GPM	#12NKO
+<<<========
+
+Tit.1.3
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	وَإِنَّمَا	G1161	δὲ	δέ	but/and	de	CONJ	#02NKO
+#02	أَظْهَرَ	G5319	ἐφανέρωσεν	φανερόω	to manifest	ephanerōsen	V-AAI-3S	#01NKO
+#03	كَلِمَتَهُ	G3056; G0846	λόγον ; αὐτοῦ	λόγος; αὐτός	word; he/she/it/self	logon; autou	N-ASM; P-GSM	#06NKO; #07NKO
+#05	أَوْقَاتِهَا	G2540	καιροῖς	καιρός	time/right time	kairois	N-DPM	#03NKO
+#06	الْخَاصَّةِ،	G2398	ἰδίοις	ἴδιος	one's own/private	idiois	A-DPM	#04NKO
+		G3588	τὸν			ton	T-ASM	#05NKO
+#07	بِالْكِرَازَةِ	G1722; G2782	ἐν ; κηρύγματι,	ἐν; κήρυγμα	in/on/among; preaching	en; kērugmati	PREP; N-DSN	#08NKO; #09NKO
+#08	الَّتِي	G3739	ὃ	ὅς, ἥ	which	ho	R-ASN	#10NKO
+#09	اؤْتُمِنْتُ	G4100	ἐπιστεύθην	πιστεύω	to trust (in)	episteuthēn	V-API-1S	#11NKO
+#10	أَنَا	G1473	ἐγὼ	ἐγώ	I/we	egō	P-1NS	#12NKO
+#11	عَلَيْهَا،							
+#12	بِحَسَبِ	G2596	κατ᾽	κατά	according to	kat᾽	PREP	#13NKO
+#13	أَمْرِ	G2003	ἐπιταγὴν	ἐπιταγή	command	epitagēn	N-ASF	#14NKO
+#14	مُخَلِّصِنَا	G3588; G4990; G3165	τοῦ ; σωτῆρος ; ἡμῶν	ὁ; σωτήρ; ἐγώ	the/this/who; savior; I/we	tou; sōtēros; hēmōn	T-GSM; N-GSM; P-1GP	#15NKO; #16NKO; #17NKO
+#15	اللهِ،	G2316	θεοῦ·	θεός	God	theou	N-GSM-T	#18NKO
+<<<========
+
+Tit.1.4
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01 - #02	إِلَى تِيطُسَ،	G5103	Τίτῳ	Τίτος	Titus	Titō	N-DSM-P	#01NKO
+#03	الابْنِ	G5043	τέκνῳ	τέκνον	child	teknō	N-DSN	#03NKO
+#04	الصَّرِيحِ	G1103	γνησίῳ	γνήσιος	genuine	gnēsiō	A-DSN	#02NKO
+#05	حَسَبَ	G2596	κατὰ	κατά	according to	kata	PREP	#04NKO
+#06	الإِيمَانِ	G4102G	πίστιν·	πίστις	faith	pistin	N-ASF	#06NKO
+#07	الْمُشْتَرَكِ:	G2839H	κοινὴν	κοινός	common	koinēn	A-ASF	#05NKO
+#08	نِعْمَةٌ	G5485	χάρις	χάρις	grace	charis	N-NSF	#07NKO
+		G1656	ἔλεος			eleos	N-NSN	#08N(K)O
+#09	وَرَحْمَةٌ							
+#10	وَسَلاَمٌ	G2532; G1515	καὶ ; εἰρήνη	καί; εἰρήνη	and; peace	kai; eirēnē	CONJ; N-NSF	#13NKO; #09NKO
+#11	مِنَ	G0575	ἀπὸ	ἀπό	away from	apo	PREP	#10NKO
+#12	اللهِ	G2316	θεοῦ	θεός	God	theou	N-GSM-T	#11NKO
+#13	الآبِ	G3962	πατρὸς	πατήρ	father	patros	N-GSM-T	#12NKO
+#14	وَالرَّبِّ	G2532; G2962G	καὶ ; κυρίου	καί; κύριος	and; lord	kai; kuriou	CONJ; N-GSM-T	#13NKO; #14K
+#15	يَسُوعَ	G2424G	Ἰησοῦ	Ἰησοῦς	Jesus/Joshua	Iēsou	N-GSM-P	#16NKO
+#16	الْمَسِيحِ	G5547	Χριστοῦ	Χριστός	Christ	Christou	N-GSM-T	#15NKO
+#17	مُخَلِّصِنَا.	G3588; G4990; G3165	τοῦ ; σωτῆρος ; ἡμῶν.¶	ὁ; σωτήρ; ἐγώ	the/this/who; savior; I/we	tou; sōtēros; hēmōn	T-GSM; N-GSM; P-1GP	#17NKO; #18NKO; #19NKO
+<<<========
+
+Tit.1.5
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01 - #02	مِنْ أَجْلِ	G5484	χάριν	χάριν	because of	charin	PREP	#02NKO
+#03	هذَا	G3778	Τούτου	οὗτος	this/he/she/it	Toutou	D-GSN	#01NKO
+#04	تَرَكْتُكَ	G2641; G4771	κατέλιπόν; σε	κατέλιπόν; σύ	I left behind; you	katelipon; se	V-2AAI-1S; P-2AS	#03N(k)(o); #04NKO
+#05	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#05NKO
+#06	كِرِيتَ	G2914	Κρήτῃ,	Κρήτη	Crete	Krētē	N-DSF-L	#06NKO
+#07	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#07NKO
+#08 - #09	تُكَمِّلَ تَرْتِيبَ	G1930	ἐπιδιορθώσῃ	ἐπιδιορθόω	to straighten out	epidiorthōsē	V-AMS-2S	#10NKO
+#10	الأُمُورِ	G3588	τὰ	ὁ	the/this/who	ta	T-APN	#08NKO
+#11	النَّاقِصَةِ،	G3007	λείποντα	λείπω	to lack	leiponta	V-PAP-APN	#09NKO
+#12	وَتُقِيمَ	G2532; G2525	καὶ ; καταστήσῃς	καί; καθίστημι	and; to appoint/conduct	kai; katastēsēs	CONJ; V-AAS-2S	#11NKO; #12NKO
+#13 - #14	فِي كُلِّ	G2596	κατὰ	κατά	according to	kata	PREP	#13NKO
+#15	مَدِينَةٍ	G4172	πόλιν	πόλις	city	polin	N-ASF	#14NKO
+#16	شُيُوخًا	G4245G	πρεσβυτέρους	πρεσβύτερος	elder	presbuterous	N-APM	#15NKO
+#17	كَمَا	G5613	ὡς	ὡς	which/how	hōs	PRT	#16NKO
+#18	أَوْصَيْتُكَ.	G1473; G4771; G1299	ἐγώ ; σοι ; διεταξάμην·	ἐγώ; σύ; διατάσσω	I/we; you; to direct	egō; soi; dietaxamēn	P-1NS; P-2DS; V-AMI-1S	#17NKO; #18NKO; #19NKO
+<<<========
+
+Tit.1.6
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	إِنْ	G1487G	εἴ	εἰ	if	ei	COND	#01NKO
+#02	كَانَ	G1510	ἐστιν	εἰμί	to be	estin	V-PAI-3S	#03NKO
+#03	أَحَدٌ	G5101	τίς	τίς	which?	tis	I-NSM	#02NKO
+#04 - #05	بِلاَ لَوْمٍ،	G0410	ἀνέγκλητος,	ἀνέγκλητος	irreproachable	anegklētos	A-NSM	#04NKO
+#06	بَعْلَ	G0435H	ἀνήρ,	ἀνήρ	man	anēr	N-NSM	#07NKO
+#07	امْرَأَةٍ	G1135H	γυναικὸς	γυνή	woman	gunaikos	N-GSF	#06NKO
+#08	وَاحِدَةٍ،	G1520	μιᾶς	εἷς	one	mias	A-GSF	#05NKO
+#09	لَهُ	G2192	ἔχων	ἔχω	to have/be	echōn	V-PAP-NSM	#09NKO
+#10	أَوْلاَدٌ	G5043	τέκνα	τέκνον	child	tekna	N-APN	#08NKO
+#11	مُؤْمِنُونَ،	G4103	πιστά,	πιστός	faithful	pista	A-APN	#10NKO
+#12	لَيْسُوا	G3361	μὴ	μή	not	mē	PRT-N	#11NKO
+#13	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#12NKO
+#14	شِكَايَةِ	G2724	κατηγορίᾳ	κατηγορία	accusation	katēgoria	N-DSF	#13NKO
+#15	الْخَلاَعَةِ	G0810	ἀσωτίας	ἀσωτία	debauchery	asōtias	N-GSF	#14NKO
+#16 - #17	وَلاَ مُتَمَرِّدِينَ.	G2228; G0506	ἢ ; ἀνυπότακτα.	ἤ; ἀνυπότακτος	or/than; insubordinate	ē; anupotakta	CONJ; A-APN	#15NKO; #16NKO
+<<<========
+
+Tit.1.7
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	لأَنَّهُ	G1063	γὰρ	γάρ	for	gar	CONJ	#02NKO
+#02	يَجِبُ	G1163	δεῖ	δεῖ	be necessary	dei	V-PAI-3S	#01NKO
+#03 - #04	أَنْ يَكُونَ	G1511	εἶναι	εἰμί	to be	einai	V-PAN	#06NKO
+#05	الأُسْقُفُ	G3588; G1985	τὸν ; ἐπίσκοπον	ὁ; ἐπίσκοπος	the/this/who; overseer	ton; episkopon	T-ASM; N-ASM	#03NKO; #04NKO
+#06 - #07	بِلاَ لَوْمٍ	G0410	ἀνέγκλητον	ἀνέγκλητος	irreproachable	anegklēton	A-ASM	#05NKO
+#08	كَوَكِيلِ	G5613; G3623	ὡς ; οἰκονόμον,	ὡς; οἰκονόμος	which/how; manager	hōs; oikonomon	PRT; N-ASM	#07NKO; #09NKO
+#09	اللهِ،	G2316	θεοῦ	θεός	God	theou	N-GSM-T	#08NKO
+#10	غَيْرَ	G3361	μὴ	μή	not	mē	PRT-N	#10NKO
+#11 - #12	مُعْجِبٍ بِنَفْسِهِ،	G0829	αὐθάδη,	αὐθάδης	self-willed	authadē	A-ASM	#11NKO
+#13	وَلاَ	G3361	μὴ	μή	not	mē	PRT-N	#12NKO
+#14	غَضُوبٍ،	G3711	ὀργίλον,	ὀργίλος	quick-tempered	orgilon	A-ASM	#13NKO
+#15	وَلاَ	G3361	μὴ	μή	not	mē	PRT-N	#14NKO
+#16 - #17	مُدْمِنِ الْخَمْرِ،	G3943	πάροινον,	πάροινος	drunken	paroinon	A-ASM	#15NKO
+#18	وَلاَ	G3361	μὴ	μή	not	mē	PRT-N	#16NKO
+#19	ضَرَّابٍ،	G4131	πλήκτην,	πλήκτης	bully	plēktēn	N-ASM	#17NKO
+#20	وَلاَ	G3361	μὴ	μή	not	mē	PRT-N	#18NKO
+#21 - #24	طَامِعٍ فِي الرِّبْحِ الْقَبِيحِ،	G0146	αἰσχροκερδῆ,	αἰσχροκερδής	greedy	aischrokerdē	A-ASM	#19NKO
+<<<========
+
+Tit.1.8
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	بَلْ	G0235	ἀλλὰ	ἀλλά	but	alla	CONJ	#01NKO
+#02 - #03	مُضِيفًا لِلْغُرَبَاءِ،	G5382	φιλόξενον,	φιλόξενος	hospitable	philoxenon	A-ASM	#02NKO
+#04 - #05	مُحِبًّا لِلْخَيْرِ،	G5358	φιλάγαθον,	φιλάγαθος	lover of good	philagathon	A-ASM	#03NKO
+#06	مُتَعَقِّلاً،	G4998	σώφρονα,	σώφρων	self-controlled	sōphrona	A-ASM	#04NKO
+#07	بَارًّا،	G1342	δίκαιον,	δίκαιος	just	dikaion	A-ASM	#05NKO
+#08	وَرِعًا،	G3741	ὅσιον,	ὅσιος	sacred	hosion	A-ASM	#06NKO
+#09 - #10	ضَابِطًا لِنَفْسِهِ،	G1468	ἐγκρατῆ,	ἐγκρατής	self-controlled	egkratē	A-ASM	#07NKO
+<<<========
+
+Tit.1.9
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	مُلاَزِمًا	G0472	ἀντεχόμενον	ἀντέχω	to cling to	antechomenon	V-PNP-ASM	#01NKO
+		G3588	τοῦ			tou	T-GSM	#02NKO
+#02	لِلْكَلِمَةِ	G3056	λόγου,	λόγος	word	logou	N-GSM	#07NKO
+#03	الصَّادِقَةِ	G4103	πιστοῦ	πιστός	faithful	pistou	A-GSM	#06NKO
+#04 - #05	الَّتِي بِحَسَبِ	G2596	κατὰ	κατά	according to	kata	PREP	#03NKO
+		G3588	τὴν			tēn	T-ASF	#04NKO
+#06	التَّعْلِيمِ،	G1322	διδαχὴν	διδαχή	teaching	didachēn	N-ASF	#05NKO
+#07	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#08NKO
+#08	يَكُونَ	G1510	ᾖ	εἰμί	to be	ē	V-PAS-3S	#10NKO
+#09	قَادِرًا	G1415	δυνατὸς	δυνατός	able	dunatos	A-NSM	#09NKO
+#10	أَنْ	G2532	καὶ	καί	and	kai	CONJ	#11NKO
+#11	يَعِظَ	G3870	παρακαλεῖν	παρακαλέω	to plead/comfort	parakalein	V-PAN	#12NKO
+#12	بِالتَّعْلِيمِ	G1722; G3588; G1319	ἐν ; τῇ ; διδασκαλίᾳ	ἐν; ὁ; διδασκαλία	in/on/among; the/this/who; teaching	en; tēa; didaskalia	PREP; T-DSF; N-DSF	#13NKO; #14NKO; #15NKO
+#13	الصَّحِيحِ	G3588; G5198	τῇ ; ὑγιαινούσῃ	ὁ; ὑγιαίνω	the/this/who; be healthy	tēa; hugiainousē	T-DSF; V-PAP-DSF	#16NKO; #17NKO
+#14	وَيُوَبِّخَ	G2532; G1651	καὶ ; ἐλέγχειν.¶	καί; ἐλέγχω	and; to rebuke	kai; elegchein	CONJ; V-PAN	#18NKO; #21NKO
+#15	الْمُنَاقِضِينَ.	G3588; G0483	τοὺς ; ἀντιλέγοντας	ὁ; ἀντιλέγω	the/this/who; to dispute	tous; antilegontas	T-APM; V-PAP-APM	#19NKO; #20NKO
+<<<========
+
+Tit.1.10
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	فَإِنَّهُ	G1063	γὰρ	γάρ	for	gar	CONJ	#02NKO
+#02	يُوجَدُ	G1510	Εἰσὶν	εἰμί	to be	Eisin	V-PAI-3P	#01NKO
+#03	كَثِيرُونَ	G4183	πολλοὶ	πολύς	much	polloi	A-NPM	#03NKO
+		G2532	καὶ			kai	CONJ	#04NKO
+#04	مُتَمَرِّدِينَ	G0506	ἀνυπότακτοι,	ἀνυπότακτος	insubordinate	anupotaktoi	A-NPM	#05NKO
+#05 - #06	يَتَكَلَّمُونَ بِالْبَاطِلِ،	G3151	ματαιολόγοι	ματαιολόγος	babbler	mataiologoi	A-NPM	#06NKO
+#07 - #08	وَيَخْدَعُونَ الْعُقُولَ،	G2532; G5423	καὶ ; φρεναπάται	καί; φρεναπάτης	and; deceiver	kai; phrenapatai	CONJ; N-NPM	#07NKO; #08NKO
+#09	وَلاَسِيَّمَا	G3122	μάλιστα	μάλιστα	especially	malista	ADV	#09NKO
+#10	الَّذِينَ	G3588	οἱ	ὁ	the/this/who	hoi	T-NPM	#10NKO
+#11	مِنَ	G1537	ἐκ	ἐκ	out from	ek	PREP	#11NKO
+#12	الْخِتَانِ،	G3588; G4061	τῆς ; περιτομῆς	ὁ; περιτομή	the/this/who; circumcision	tēs; peritomēs	T-GSF; N-GSF	#12no; #13NKO
+<<<========
+
+Tit.1.11
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	الَّذِينَ	G3739	οὓς	ὅς, ἥ	which	hous	R-APM	#01NKO
+#02	يَجِبُ	G1163	δεῖ	δεῖ	be necessary	dei	V-PAI-3S	#02NKO
+#03 - #04	سَدُّ أَفْوَاهِهِمْ،	G1993	ἐπιστομίζειν·	ἐπιστομίζω	to silence	epistomizein	V-PAN	#03NKO
+		G3748	οἵτινες			oitines	R-NPM	#04NKO
+#05 - #06	فَإِنَّهُمْ يَقْلِبُونَ	G0396	ἀνατρέπουσιν	ἀνατρέπω	to overturn	anatrepousin	V-PAI-3P	#07NKO
+#07	بُيُوتًا	G3624H	οἴκους	οἶκος	house	oikous	N-APM	#06NKO
+#08	بِجُمْلَتِهَا،	G3650	ὅλους	ὅλος	all	holous	A-APM	#05NKO
+#09	مُعَلِّمِينَ	G1321	διδάσκοντες	διδάσκω	to teach	didaskontes	V-PAP-NPM	#08NKO
+#10	مَا	G3739	ἃ	ὅς, ἥ	which	ha	R-APN	#09NKO
+#11	لاَ	G3361	μὴ	μή	not	mē	PRT-N	#10NKO
+#12	يَجِبُ،	G1163	δεῖ	δεῖ	be necessary	dei	V-PAI-3S	#11NKO
+#13 - #14	مِنْ أَجْلِ	G5484	χάριν.	χάριν	because of	charin	PREP	#14NKO
+#15	الرِّبْحِ	G2771	κέρδους	κέρδος	gain	kerdous	N-GSN	#13NKO
+#16	الْقَبِيحِ.	G0150	αἰσχροῦ	αἰσχρός	shameful	aischrou	A-GSN	#12NKO
+<<<========
+
+Tit.1.12
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	قَالَ	G2036	εἶπέν	ἔπω, ἐρῶ, εἶπον	to say	eipen	V-2AAI-3S	#01NKO
+#02	وَاحِدٌ	G5100	τις	τις	one	tis	X-NSM	#02NKO
+#03	مِنْهُمْ،	G1537; G0846	ἐξ ; αὐτῶν	ἐκ; αὐτός	out from; he/she/it/self	ex; autōn	PREP; P-GPM	#03NKO; #04NKO
+#04 - #05	وَهُوَ نَبِيٌّ	G4396	προφήτης·	προφήτης	prophet	prophētēs	N-NSM	#07NKO
+#06	لَهُمْ	G0846	αὐτῶν	αὐτός	he/she/it/self	autōn	P-GPM	#06NKO
+#07	خَاصٌّ:	G2398	ἴδιος	ἴδιος	one's own/private	idios	A-NSM	#05NKO
+#08	الْكِرِيتِيُّونَ	G2912	Κρῆτες	Κρής	Cretan	Krētes	N-NPM-LG	#08NKO
+#09	دَائِمًا	G0104	ἀεὶ	ἀεί	always	aei	ADV	#09NKO
+#10	كَذَّابُونَ.	G5583	ψεῦσται,	ψεύστης	liar	pseustai	N-NPM	#10NKO
+#11	وُحُوشٌ	G2342	θηρία,	θηρίον	wild animal	thēria	N-NPN	#12NKO
+#12	رَدِيَّةٌ.	G2556G	κακὰ	κακός	evil/harm	kaka	A-NPN	#11NKO
+#13	بُطُونٌ	G1064	γαστέρες	γαστήρ	belly	gasteres	N-NPF	#13NKO
+#14	بَطَّالَةٌ.	G0692	ἀργαί.	ἀργός	idle	argai	A-NPF	#14NKO
+<<<========
+
+Tit.1.13
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	هذِهِ	G3778	αὕτη	οὗτος	this/he/she/it	hautē	D-NSF	#03NKO
+#02	الشَّهَادَةُ	G3588; G3141	ἡ ; μαρτυρία	ὁ; μαρτυρία	the/this/who; testimony	hē; marturia	T-NSF; N-NSF	#01NKO; #02NKO
+#03	صَادِقَةٌ.	G1510; G0227	ἐστὶν ; ἀληθής·	εἰμί; ἀληθής	to be; true	estin; alēthēs	V-PAI-3S; A-NSF	#04NKO; #05NKO
+#04	فَلِهذَا	G1223; G3739	δι᾽ ; ἣν	διά; ὅς, ἥ	through/because of; which	di᾽; hēn	PREP; R-ASF	#06NKO; #07NKO
+#05	السَّبَبِ	G0156	αἰτίαν	αἰτία	cause/charge	aitian	N-ASF	#08NKO
+#06	وَبِّخْهُمْ	G1651; G0846	ἔλεγχε ; αὐτοὺς	ἐλέγχω; αὐτός	to rebuke; he/she/it/self	elegche; autous	V-PAM-2S; P-APM	#09NKO; #10NKO
+#07	بِصَرَامَةٍ	G0664	ἀποτόμως,	ἀποτόμως	severely	apotomōs	ADV	#11NKO
+#08 - #09	لِكَيْ يَكُونُوا	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#12NKO
+#10	أَصِحَّاءَ	G5198	ὑγιαίνωσιν	ὑγιαίνω	be healthy	hugiainōsin	V-PAS-3P	#13NKO
+#11	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#14NKO
+#12	الإِيمَانِ،	G3588; G4102G	τῇ ; πίστει,	ὁ; πίστις	the/this/who; faith	tēa; pistei	T-DSF; N-DSF	#15NKO; #16NKO
+<<<========
+
+Tit.1.14
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	لاَ	G3361	μὴ	μή	not	mē	PRT-N	#01NKO
+#02	يُصْغُونَ	G4337	προσέχοντες	προσέχω	to watch out	prosechontes	V-PAP-NPM	#02NKO
+#03 - #04	إِلَى خُرَافَاتٍ	G3454	μύθοις	μῦθος	myth	muthois	N-DPM	#04NKO
+#05	يَهُودِيَّةٍ،	G2451	Ἰουδαϊκοῖς	Ἰουδαϊκός	Jewish	Ioudaikois	A-DPM-PG	#03NKO
+#06	وَوَصَايَا	G2532; G1785	καὶ ; ἐντολαῖς	καί; ἐντολή	and; commandment	kai; entolais	CONJ; N-DPF	#05NKO; #06NKO
+#07	أُنَاسٍ	G0444	ἀνθρώπων	ἄνθρωπος	a human	anthrōpōn	N-GPM	#07NKO
+#08	مُرْتَدِّينَ	G0654	ἀποστρεφομένων	ἀποστρέφω	to turn away	apostrephomenōn	V-PPP-GPM	#08NKO
+#09 - #10	عَنِ الْحَقِّ.	G3588; G0225	τὴν ; ἀλήθειαν.¶	ὁ; ἀλήθεια	the/this/who; truth	tēn; alētheian	T-ASF; N-ASF	#09NKO; #10NKO
+<<<========
+
+Tit.1.15
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01 - #02	كُلُّ شَيْءٍ	G3956; G3303	Πάντα ; μὲν	πᾶς; μέν	all; on one hand	Panta; men	A-NPN; PRT	#01NKO; #02k
+#03	طَاهِرٌ	G2513	καθαρὰ	καθαρός	clean	kathara	A-NPN	#03NKO
+#04	لِلطَّاهِرِينَ،	G3588; G2513	τοῖς ; καθαροῖς·	ὁ; καθαρός	the/this/who; clean	tois; katharois	T-DPM; A-DPM	#04NKO; #05NKO
+#05	وَأَمَّا	G1161	δὲ	δέ	but/and	de	CONJ	#07NKO
+#06	لِلنَّجِسِينَ	G3588; G3392	τοῖς ; μεμιαμμένοις	ὁ; μιαίνω	the/this/who; to stain	tois; memiammenois	T-DPM; V-RPP-DPM	#06NKO; #08NKO
+#07 - #08	وَغَيْرِ الْمُؤْمِنِينَ	G2532; G0571	καὶ ; ἀπίστοις	καί; ἄπιστος	and; unbelieving	kai; apistois	CONJ; A-DPM	#09NKO; #10NKO
+#09 - #10	فَلَيْسَ شَيْءٌ	G3762	οὐδὲν	οὐδείς	none	ouden	A-NSN	#11NKO
+#11	طَاهِرًا،	G2513	καθαρόν,	καθαρός	clean	katharon	A-NSN	#12NKO
+#12	بَلْ	G0235	ἀλλὰ	ἀλλά	but	alla	CONJ	#13NKO
+#13 - #14	قَدْ تَنَجَّسَ	G3392	μεμίανται	μιαίνω	to stain	memiantai	V-RPI-3S	#14NKO
+#15	ذِهْنُهُمْ	G0846; G3588; G3563	αὐτῶν ; ὁ ; νοῦς	αὐτός; ὁ; νοῦς	he/she/it/self; the/this/who; mind	autōn; ho; nous	P-GPM; T-NSM; N-NSM	#15NKO; #17NKO; #18NKO
+		G2532	καὶ			kai	CONJ	#16NKO
+#16	أَيْضًا	G2532	καὶ	καί	and	kai	CONJ	#19NKO
+#17	وَضَمِيرُهُمْ.	G3588; G4893	ἡ ; συνείδησις.	ὁ; συνείδησις	the/this/who; conscience	hē; suneidēsis	T-NSF; N-NSF	#20NKO; #21NKO
+<<<========
+
+Tit.1.16
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	يَعْتَرِفُونَ	G3670	ὁμολογοῦσιν	ὁμολογέω	to confess/profess	homologousin	V-PAI-3P	#02NKO
+#02 - #03	بِأَنَّهُمْ يَعْرِفُونَ	G6063	εἰδέναι,	εἴδω	to perceive	eidenai	V-RAN	#03NKO
+		G3588	τοῖς			tois	T-DPN	#04NKO
+#04	اللهَ،	G2316	θεὸν	θεός	God	theon	N-ASM-T	#01NKO
+#05	وَلكِنَّهُمْ	G1161	δὲ	δέ	but/and	de	CONJ	#05NKO
+#06	بِالأَعْمَالِ	G2041	ἔργοις	ἔργον	work	ergois	N-DPN	#06NKO
+#07	يُنْكِرُونَهُ،	G0720	ἀρνοῦνται	ἀρνέομαι	to deny	arnountai	V-PNI-3P	#07NKO
+#08 - #09	إِذْ هُمْ	G1510	ὄντες	εἰμί	to be	ontes	V-PAP-NPM	#09NKO
+#10	رَجِسُونَ	G0947	βδελυκτοὶ	βδελυκτός	abominable	bdeluktoi	A-NPM	#08NKO
+#11 - #12	غَيْرُ طَائِعِينَ،	G2532; G0545	καὶ ; ἀπειθεῖς	καί; ἀπειθής	and; disobedient	kai; apeitheis	CONJ; A-NPM	#10NKO; #11NKO
+#13	وَمِنْ	G2532	καὶ	καί	and	kai	CONJ	#12NKO
+#14	جِهَةِ	G4314	πρὸς	πρός	to/with	pros	PREP	#13NKO
+#15	كُلِّ	G3956	πᾶν	πᾶς	all	pan	A-ASN	#14NKO
+#16	عَمَل	G2041	ἔργον	ἔργον	work	ergon	N-ASN	#15NKO
+#17	صَالِحٍ	G0018	ἀγαθὸν	ἀγαθός	good-doer	agathon	A-ASN	#16NKO
+#18	مَرْفُوضُونَ.	G0096	ἀδόκιμοι.¶	ἀδόκιμος	failing	adokimoi	A-NPM	#17NKO
+<<<========
+
+Tit.2.1
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	وَأَمَّا	G1161	δὲ	δέ	but/and	de	CONJ	#02NKO
+#02	أَنْتَ	G4771	Σὺ	σύ	you	Su	P-2NS	#01NKO
+#03	فَتَكَلَّمْ	G2980	λάλει	λαλέω	to speak	lalei	V-PAM-2S	#03NKO
+#04	بِمَا	G3739	ἃ	ὅς, ἥ	which	ha	R-NPN	#04NKO
+#05	يَلِيقُ	G4241	πρέπει	πρέπω	be proper	prepei	V-PAI-3S	#05NKO
+#06	بِالتَّعْلِيمِ	G1319	διδασκαλίᾳ.¶	διδασκαλία	teaching	didaskalia	N-DSF	#08NKO
+#07	الصَّحِيحِ:	G3588; G5198	τῇ ; ὑγιαινούσῃ	ὁ; ὑγιαίνω	the/this/who; be healthy	tēa; hugiainousē	T-DSF; V-PAP-DSF	#06NKO; #07NKO
+<<<========
+
+Tit.2.2
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01 - #02	أَنْ يَكُونَ	G1511	εἶναι,	εἰμί	to be	einai	V-PAN	#03NKO
+#03	الأَشْيَاخُ	G4246	Πρεσβύτας	πρεσβύτης	old man	Presbutas	N-APM	#01NKO
+#04	صَاحِينَ،	G3524	νηφαλίους	νηφαλέος	sober	nēphalious	A-APM	#02NKO
+#05 - #06	ذَوِي وَقَارٍ،	G4586	σεμνούς,	σεμνός	noble	semnous	A-APM	#04NKO
+#07	مُتَعَقِّلِينَ،	G4998	σώφρονας,	σώφρων	self-controlled	sōphronas	A-APM	#05NKO
+#08	أَصِحَّاءَ	G5198	ὑγιαίνοντας	ὑγιαίνω	be healthy	hugiainontas	V-PAP-APM	#06NKO
+#09 - #10	فِي الإِيمَانِ	G3588; G4102G	τῇ ; πίστει,	ὁ; πίστις	the/this/who; faith	tēa; pistei	T-DSF; N-DSF	#07NKO; #08NKO
+#11	وَالْمَحَبَّةِ	G3588; G0026	τῇ ; ἀγάπῃ,	ὁ; ἀγάπη	the/this/who; love	tēa; agapē	T-DSF; N-DSF	#09NKO; #10NKO
+#12	وَالصَّبْرِ.	G3588; G5281	τῇ ; ὑπομονῇ.¶	ὁ; ὑπομονή	the/this/who; perseverance	tēa; hupomonēa	T-DSF; N-DSF	#11NKO; #12NKO
+<<<========
+
+Tit.2.3
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	كَذلِكَ	G5615	ὡσαύτως	ὡσαύτως	likewise	hōsautōs	ADV	#02NKO
+#02	الْعَجَائِزُ	G4247	Πρεσβύτιδας	πρεσβῦτις	old woman	Presbutidas	N-APF	#01NKO
+#03	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#03NKO
+#04	سِيرَةٍ	G2688	καταστήματι	κατάστημα	behavior	katastēmati	N-DSN	#04NKO
+#05 - #06	تَلِيقُ بِالْقَدَاسَةِ،	G2412	ἱεροπρεπεῖς,	ἱεροπρεπής	reverent	hi'eroprepeis	A-APF	#05NKO
+#07	غَيْرَ	G3361	μὴ	μή	not	mē	PRT-N	#06NKO
+#08	ثَالِبَاتٍ،	G1228	διαβόλους,	διάβολος	devilish/the Devil	diabolous	A-APF	#07NKO
+#09	غَيْرَ	G3361	μὴ	μή	not	mē	PRT-N	#08NK(o)
+#10	مُسْتَعْبَدَاتٍ	G1402	δεδουλωμένας,	δουλόω	to enslave	dedoulōmenas	V-RPP-APF	#11NKO
+#11	لِلْخَمْرِ	G3631	οἴνῳ	οἶνος	wine	oinō	N-DSM	#09NKO
+#12	الْكَثِيرِ،	G4183	πολλῷ	πολύς	much	pollō	A-DSM	#10NKO
+#13 - #14	مُعَلِّمَاتٍ الصَّلاَحَ،	G2567	καλοδιδασκάλους,	καλοδιδάσκαλος	teaching good	kalodidaskalous	A-APF	#12NKO
+<<<========
+
+Tit.2.4
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#01NKO
+#02	يَنْصَحْنَ	G4994	σωφρονίζωσιν	σωφρονίζω	to train	sōphronizōsin	V-PAS-3P	#02NK(o)
+#03	الْحَدَثَاتِ	G3588; G3501	τὰς ; νέας	ὁ; νέος	the/this/who; new	tas; neas	T-APF; A-APF	#03NKO; #04NKO
+#04 - #05	أَنْ يَكُنَّ	G1511	εἶναι,	εἰμί	to be	einai	V-PAN	#06NKO
+#06 - #07	مُحِبَّاتٍ لِرِجَالِهِنَّ	G5362	φιλάνδρους	φίλανδρος	husband-loving	philandrous	A-APF	#05NKO
+#08 - #09	وَيُحْبِبْنَ أَوْلاَدَهُنَّ،	G5388	φιλοτέκνους,	φιλότεκνος	parental love	philoteknous	A-APF	#07NKO
+<<<========
+
+Tit.2.5
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	مُتَعَقِّلاَتٍ،	G4998	σώφρονας,	σώφρων	self-controlled	sōphronas	A-APF	#01NKO
+#02	عَفِيفَاتٍ،	G0053	ἁγνάς,	ἁγνός	pure	hagnas	A-APF	#02NKO
+#03 - #04	مُلاَزِمَاتٍ بُيُوتَهُنَّ،	G3626	οἰκουρούς	οἰκουρούς	keepers at home	oikourous	A-APF	#03N(k)O
+#05	صَالِحَاتٍ،	G0018	ἀγαθάς,	ἀγαθός	good-doer	agathas	A-APF	#04NKO
+#06	خَاضِعَاتٍ	G5293	ὑποτασσομένας	ὑποτάσσω	to subject	hupotassomenas	V-PPP-APF	#05NKO
+#07	لِرِجَالِهِنَّ،	G3588; G2398; G0435H	τοῖς ; ἰδίοις ; ἀνδράσιν,	ὁ; ἴδιος; ἀνήρ	the/this/who; one's own/private; man	tois; idiois; andrasin	T-DPM; A-DPM; N-DPM	#06NKO; #07NKO; #08NKO
+#08	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#09NKO
+#09	لاَ	G3361	μὴ	μή	not	mē	PRT-N	#10NKO
+#10	يُجَدَّفَ	G0987	βλασφημῆται.¶	βλασφημέω	to blaspheme	blasphēmētai	V-PPS-3S	#15NKO
+#11 - #12	عَلَى كَلِمَةِ	G3588; G3056	ὁ ; λόγος	ὁ; λόγος	the/this/who; word	ho; logos	T-NSM; N-NSM	#11NKO; #12NKO
+#13	اللهِ.	G3588; G2316	τοῦ ; θεοῦ	ὁ; θεός	the/this/who; God	tou; theou	T-GSM; N-GSM-T	#13NKO; #14NKO
+<<<========
+
+Tit.2.6
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	كَذلِكَ	G5615	ὡσαύτως	ὡσαύτως	likewise	hōsautōs	ADV	#03NKO
+#02	عِظِ	G3870	παρακάλει	παρακαλέω	to plead/comfort	parakalei	V-PAM-2S	#04NKO
+#03	الأَحْدَاثَ	G3588; G3501	Τοὺς ; νεωτέρους	ὁ; νέος	the/this/who; new	Tous; neōterous	T-APM; A-APM-C	#01NKO; #02NKO
+#04 - #06	أَنْ يَكُونُوا مُتَعَقِّلِينَ،	G4993	σωφρονεῖν,	σωφρονέω	be of sound mind	sōphronein	V-PAN	#05NKO
+<<<========
+
+Tit.2.7
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	مُقَدِّمًا	G3930	παρεχόμενος	παρέχω	to furnish occasion	parechomenos	V-PMP-NSM	#04NKO
+#02	نَفْسَكَ	G4771	σεαυτὸν	σεαυτοῦ	yourself	seauton	F-2ASM	#03NKO
+#03 - #05	فِي كُلِّ شَيْءٍ	G4012; G3956	περὶ ; πάντα	περί; πᾶς	about; all	peri; panta	PREP; A-APN	#01NKO; #02NKO
+#06	قُدْوَةً	G5179	τύπον	τύπος	mark/example	tupon	N-ASM	#05NKO
+#07	لِلأَعْمَالِ	G2041	ἔργων,	ἔργον	work	ergōn	N-GPN	#07NKO
+#08	الْحَسَنَةِ،	G2570G	καλῶν	καλός	good	kalōn	A-GPN	#06NKO
+#09	وَمُقَدِّمًا							
+#10	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#08NKO
+#11	التَّعْلِيمِ	G3588; G1319	τῇ ; διδασκαλίᾳ	ὁ; διδασκαλία	the/this/who; teaching	tēa; didaskalia	T-DSF; N-DSF	#09NKO; #10NKO
+#12	نَقَاوَةً،	G0090	ἀδιαφθορίαν	ἀδιαφθορία	unspoilable	adiaphthorian	N-ASF	#11K
+#13	وَوَقَارًا،	G4587	σεμνότητα,	σεμνότης	dignity	semnotēta	N-ASF	#13NKO
+#14	وَإِخْلاَصًا،	G0861	ἀφθορίαν,	ἀφθαρσία	incorruptibility	aphthorian	N-ASF	#12NKO
+<<<========
+
+Tit.2.8
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	وَكَلاَمًا	G3056	λόγον	λόγος	word	logon	N-ASM	#01NKO
+#02	صَحِيحًا	G5199	ὑγιῆ,	ὑγιής	healthy	hugiē	A-ASM	#02NKO
+#03 - #04	غَيْرَ مَلُومٍ،	G0176	ἀκατάγνωστον,	ἀκατάγνωστος	beyond reproach	akatagnōston	A-ASM	#03NKO
+#05	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#04NKO
+#06	يُخْزَى	G1788	ἐντραπῇ	ἐντρέπω	to cause shame	entrapēa	V-2APS-3S	#08NKO
+#07	الْمُضَادُّ،	G3588; G1537; G1727	ὁ ; ἐξ ; ἐναντίας	ὁ; ἐκ; ἐναντίος	the/this/who; out from; against	ho; ex; enantias	T-NSM; PREP; A-GSF	#05NKO; #06NKO; #07NKO
+#08 - #11	إِذْ لَيْسَ لَهُ شَيْءٌ	G3367; G2192	μηδὲν ; ἔχων	μηδείς; ἔχω	nothing; to have/be	mēden; echōn	A-ASN-N; V-PAP-NSM	#09NKO; #10NKO
+#12	رَدِيءٌ	G5337	φαῦλον.¶	φαῦλος	evil	phaulon	A-ASN	#14NKO
+#13	يَقُولُهُ	G3004G	λέγειν	λέγω	to speak	legein	V-PAN	#11NKO
+#14	عَنْكُمْ.	G4012; G5216	περὶ ; ὑμῶν	περί; ὑμῶν	about; you	peri; humōn	PREP; P-2GP	#12NKO; #13N(K)O
+<<<========
+
+Tit.2.9
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	وَالْعَبِيدَ	G1401	Δούλους	δοῦλος	slave	Doulous	N-APM	#01NKO
+#02 - #03	أَنْ يَخْضَعُوا	G5293	ὑποτάσσεσθαι,	ὑποτάσσω	to subject	hupotassesthai	V-PPN	#04NKO
+#04	لِسَادَتِهِمْ،	G2398; G1203	ἰδίοις ; δεσπόταις	ἴδιος; δεσπότης	one's own/private; master	idiois; despotais	A-DPM; N-DPM	#02NKO; #03NKO
+#05	وَيُرْضُوهُمْ	G2101	εὐαρέστους	εὐάρεστος	well-pleasing	euarestous	A-APM	#07NKO
+		G1511	εἶναι,			einai	V-PAN	#08NKO
+#06	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#05NKO
+#07 - #08	كُلِّ شَيْءٍ،	G3956	πᾶσιν	πᾶς	all	pasin	A-DPN	#06NKO
+#09	غَيْرَ	G3361	μὴ	μή	not	mē	PRT-N	#09NKO
+#10	مُنَاقِضِينَ،	G0483	ἀντιλέγοντας,	ἀντιλέγω	to dispute	antilegontas	V-PAP-APM	#10NKO
+<<<========
+
+Tit.2.10
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	غَيْرَ	G3361	μὴ	μή	not	mē	PRT-N	#01NKO
+#02	مُخْتَلِسِينَ،	G3557	νοσφιζομένους	νοσφίζω	to embezzle	nosphizomenous	V-PMP-APM	#02NKO
+#03	بَلْ	G0235	ἀλλὰ	ἀλλά	but	alla	CONJ	#03NKO
+#04	مُقَدِّمِينَ	G1731	ἐνδεικνυμένους	ἐνδείκνυμι	to show	endeiknumenous	V-PMP-APM	#06NKO
+#05	كُلَّ	G3956	πᾶσαν	πᾶς	all	pasan	A-ASF	#04NKO
+#06	أَمَانَةٍ	G4102G	πίστιν	πίστις	faith	pistin	N-ASF	#05NKO
+#07	صَالِحَةٍ،	G0018	ἀγαθήν,	ἀγαθός	good-doer	agathēn	A-ASF	#07NKO
+#08	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#08NKO
+#09	يُزَيِّنُوا	G2885	κοσμῶσιν	κοσμέω	to arrange	kosmōsin	V-PAS-3P	#16NKO
+#10	تَعْلِيمَ	G3588; G1319	τὴν ; διδασκαλίαν	ὁ; διδασκαλία	the/this/who; teaching	tēn; didaskalian	T-ASF; N-ASF	#09NKO; #10NKO
+		G3588	τὴν			tēn	T-ASF	#11no
+#11	مُخَلِّصِنَا	G3588; G4990; G5216	τοῦ ; σωτῆρος ; ὑμῶν	ὁ; σωτήρ; ὑμῶν	the/this/who; savior; of you	tou; sōtēros; humōn	T-GSM; N-GSM; P-2GP	#12NKO; #13NKO; #14NK(O)
+#12	اللهِ	G2316	θεοῦ	θεός	God	theou	N-GSM-T	#15NKO
+#13	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#17NKO
+#14 - #15	كُلِّ شَيْءٍ.	G3956	πᾶσιν.¶	πᾶς	all	pasin	A-DPN	#18NKO
+<<<========
+
+Tit.2.11
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	لأَنَّهُ	G1063	γὰρ	γάρ	for	gar	CONJ	#02NKO
+		G3588	ἡ			hē	T-NSF	#03NKO
+#02 - #03	قَدْ ظَهَرَتْ	G2014	Ἐπεφάνη	ἐπιφαίνω	to appear	Epephanē	V-2API-3S	#01NKO
+#04	نِعْمَةُ	G5485	χάρις	χάρις	grace	charis	N-NSF	#04NKO
+#05	اللهِ	G3588; G2316	τοῦ ; θεοῦ	ὁ; θεός	the/this/who; God	tou; theou	T-GSM; N-GSM-T	#05NKO; #06NKO
+#06	الْمُخَلِّصَةُ،	G3588; G4991	ἡ ; σωτήριος	ὁ; σωτήριον	the/this/who; saving	hē; sōtērios	T-NSF; N-NSF	#07k; #08NKO
+#07	لِجَمِيعِ	G3956	πᾶσιν	πᾶς	all	pasin	A-DPM	#09NKO
+#08	النَّاسِ،	G0444	ἀνθρώποις	ἄνθρωπος	a human	anthrōpois	N-DPM	#10NKO
+<<<========
+
+Tit.2.12
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	مُعَلِّمَةً	G3811	παιδεύουσα	παιδεύω	to instruct	paideuousa	V-PAP-NSF	#01NKO
+#02	إِيَّانَا	G3165	ἡμᾶς	ἐγώ	I/we	hēmas	P-1AP	#02NKO
+		G2443	ἵνα			ina	CONJ	#03NKO
+#03 - #04	أَنْ نُنْكِرَ	G0720	ἀρνησάμενοι	ἀρνέομαι	to deny	arnēsamenoi	V-ADP-NPM	#04NKO
+#05	الْفُجُورَ	G3588; G0763	τὴν ; ἀσέβειαν	ὁ; ἀσέβεια	the/this/who; ungodlinessness	tēn; asebeian	T-ASF; N-ASF	#05NKO; #06NKO
+#06	وَالشَّهَوَاتِ	G2532; G3588; G1939	καὶ ; τὰς ; ἐπιθυμίας	καί; ὁ; ἐπιθυμία	and; the/this/who; desire	kai; tas; epithumias	CONJ; T-APF; N-APF	#07NKO; #08NKO; #10NKO
+#07	الْعَالَمِيَّةَ،	G2886	κοσμικὰς	κοσμικός	earthly	kosmikas	A-APF	#09NKO
+#08	وَنَعِيشَ	G2198	ζήσωμεν	ζάω	to live	zēsōmen	V-AAS-1P	#16NKO
+#09	بِالتَّعَقُّلِ	G4996	σωφρόνως	σωφρόνως	in self-control	sōphronōs	ADV	#11NKO
+#10	وَالْبِرِّ	G2532; G1346	καὶ ; δικαίως	καί; δικαίως	and; rightly	kai; dikaiōs	CONJ; ADV	#12NKO; #13NKO
+#11	وَالتَّقْوَى	G2532; G2153	καὶ ; εὐσεβῶς	καί; εὐσεβῶς	and; piously	kai; eusebōs	CONJ; ADV	#14NKO; #15NKO
+#12	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#17NKO
+#13	الْعَالَمِ	G0165G	αἰῶνι	αἰών	an age	aiōni	N-DSM	#20NKO
+#14	الْحَاضِرِ،	G3588; G3568	τῷ ; νῦν	ὁ; νῦν	the/this/who; now	tō; nun	T-DSM; ADV	#18NKO; #19NKO
+<<<========
+
+Tit.2.13
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	مُنْتَظِرِينَ	G4327	προσδεχόμενοι	προσδέχομαι	to wait for/welcome	prosdechomenoi	V-PNP-NPM	#01NKO
+		G3588	τὴν			tēn	T-ASF	#02NKO
+#02	الرَّجَاءَ	G1680	ἐλπίδα	ἐλπίς	hope	elpida	N-ASF	#04NKO
+#03	الْمُبَارَكَ	G3107	μακαρίαν	μακάριος	blessed	makarian	A-ASF	#03NKO
+#04	وَظُهُورَ	G2532; G2015	καὶ ; ἐπιφάνειαν	καί; ἐπιφάνεια	and; appearing	kai; epiphaneian	CONJ; N-ASF	#05NKO; #06NKO
+		G3588	τῆς			tēs	T-GSF	#07NKO
+#05	مَجْدِ	G1391	δόξης	δόξα	glory	doxēs	N-GSF	#08NKO
+		G3588	τοῦ			tou	T-GSM	#09NKO
+#06	اللهِ	G2316	θεοῦ	θεός	God	theou	N-GSM-T	#11NKO
+#07	الْعَظِيمِ	G3173	μεγάλου	μέγας	great	megalou	A-GSM	#10NKO
+#08	وَمُخَلِّصِنَا	G2532; G4990; G3165	καὶ ; σωτῆρος ; ἡμῶν	καί; σωτήρ; ἐγώ	and; savior; I/we	kai; sōtēros; hēmōn	CONJ; N-GSM; P-1GP	#12NKO; #13NKO; #14NKO
+#09	يَسُوعَ	G2424G	Ἰησοῦ	Ἰησοῦς	Jesus/Joshua	Iēsou	N-GSM-P	#15NKO
+#10	الْمَسِيحِ،	G5547	Χριστοῦ,	Χριστός	Christ	Christou	N-GSM-T	#16NKO
+<<<========
+
+Tit.2.14
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	الَّذِي	G3739	ὃς	ὅς, ἥ	which	hos	R-NSM	#01NKO
+#02	بَذَلَ	G1325	ἔδωκεν	δίδωμι	to give	edōken	V-AAI-3S	#02NKO
+#03	نَفْسَهُ	G1438	ἑαυτὸν	ἑαυτοῦ	my/your/him-self	he'auton	F-3ASM	#03NKO
+#04	لأَجْلِنَا،	G5228	ὑπὲρ	ὑπέρ	above/for	huper	PREP	#04NKO
+		G3165	ἡμῶν			hēmōn	P-1GP	#05NKO
+#05	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#06NKO
+#06	يَفْدِيَنَا	G3165; G3084	ἡμᾶς ; λυτρώσηται	ἐγώ; λυτρόω	I/we; to ransom	hēmas; lutrōsētai	P-1AP; V-AMS-3S	#08NKO; #07NKO
+#07	مِنْ	G0575	ἀπὸ	ἀπό	away from	apo	PREP	#09NKO
+#08	كُلِّ	G3956	πάσης	πᾶς	all	pasēs	A-GSF	#10NKO
+#09	إِثْمٍ،	G0458	ἀνομίας	ἀνομία	lawlessness	anomias	N-GSF	#11NKO
+#10	وَيُطَهِّرَ	G2532; G2511	καὶ ; καθαρίσῃ	καί; καθαρίζω	and; to clean	kai; katharisē	CONJ; V-AAS-3S	#12NKO; #13NKO
+#11	لِنَفْسِهِ	G1438	ἑαυτῷ	ἑαυτοῦ	my/your/him-self	he'autō	F-3DSM	#14NKO
+#12	شَعْبًا	G2992	λαὸν	λαός	a people	laon	N-ASM	#15NKO
+#13	خَاصًّا	G4041	περιούσιον,	περιούσιος	special	periousion	A-ASM	#16NKO
+#14	غَيُورًا	G2207	ζηλωτὴν	ζηλωτής	zealot	zēlōtēn	N-ASM-T	#17NKO
+#15 - #16	فِي أَعْمَال	G2041	ἔργων.¶	ἔργον	work	ergōn	N-GPN	#19NKO
+#17	حَسَنَةٍ.	G2570G	καλῶν	καλός	good	kalōn	A-GPN	#18NKO
+<<<========
+
+Tit.2.15
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	تَكَلَّمْ	G2980	λάλει	λαλέω	to speak	lalei	V-PAM-2S	#02NKO
+		G2532	καὶ			kai	CONJ	#03NKO
+#02	بِهذِهِ،	G3778	Ταῦτα	οὗτος	this/he/she/it	Tauta	D-APN	#01NKO
+#03	وَعِظْ،	G3870	παρακάλει	παρακαλέω	to plead/comfort	parakalei	V-PAM-2S	#04NKO
+		G2532	καὶ			kai	CONJ	#05NKO
+#04	وَوَبِّخْ	G1651; G3326	ἔλεγχε ; μετὰ	ἐλέγχω; μετά	to rebuke; with/after	elegche; meta	V-PAM-2S; PREP	#06NKO; #07NKO
+#05	بِكُلِّ	G3326; G3956	μετὰ ; πάσης	μετά; πᾶς	with/after; all	meta; pasēs	PREP; A-GSF	#07NKO; #08NKO
+#06	سُلْطَانٍ.	G2003	ἐπιταγῆς.	ἐπιταγή	command	epitagēs	N-GSF	#09NKO
+#07 - #10	لاَ يَسْتَهِنْ بِكَ أَحَدٌ.	G3367; G4065; G4771	μηδείς ; περιφρονείτω.¶ ; σου	μηδείς; περιφρονέω; σύ	nothing; to despise; you	mēdeis; periphroneitō; sou	A-NSM; V-PAM-3S; P-2GS	#10NKO; #12NKO; #11NKO
+<<<========
+
+Tit.3.1
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	ذَكِّرْهُمْ	G5279; G0846	Ὑπομίμνῃσκε ; αὐτοὺς	ὑπομιμνήσκω; αὐτός	to remind; he/she/it/self	Hupomimnēske; autous	V-PAM-2S; P-APM	#01NKO; #02NKO
+#02 - #03	أَنْ يَخْضَعُوا	G5293	ὑποτάσσεσθαι,	ὑποτάσσω	to subject	hupotassesthai	V-PPN	#06NKO
+#04	لِلرِّيَاسَاتِ	G0746	ἀρχαῖς	ἀρχή	beginning	archais	N-DPF	#03NKO
+#05	وَالسَّلاَطِينِ،	G2532; G1849	καὶ ; ἐξουσίαις	καί; ἐξουσία	and; authority	kai; exousiais	CONJ; N-DPF	#04k; #05NKO
+#06	وَيُطِيعُوا،	G3980	πειθαρχεῖν,	πειθαρχέω	to obey	peitharchein	V-PAN	#07NKO
+#07	وَيَكُونُوا	G1511	εἶναι,	εἰμί	to be	einai	V-PAN	#13NKO
+#08	مُسْتَعِدِّينَ	G2092	ἑτοίμους	ἕτοιμος	ready	hetoimous	A-APM	#12NKO
+#09	لِكُلِّ	G4314; G3956	πρὸς ; πᾶν	πρός; πᾶς	to/with; all	pros; pan	PREP; A-ASN	#08NKO; #09NKO
+#10	عَمَل	G2041	ἔργον	ἔργον	work	ergon	N-ASN	#10NKO
+#11	صَالِحٍ،	G0018	ἀγαθὸν	ἀγαθός	good-doer	agathon	A-ASN	#11NKO
+<<<========
+
+Tit.3.2
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01 - #03	وَلاَ يَطْعَنُوا فِي	G0987	βλασφημεῖν,	βλασφημέω	to blaspheme	blasphēmein	V-PAN	#02NKO
+#04	أَحَدٍ،	G3367	μηδένα	μηδείς	nothing	mēdena	A-ASM	#01NKO
+#05	وَيَكُونُوا	G1511	εἶναι,	εἰμί	to be	einai	V-PAN	#04NKO
+#06 - #07	غَيْرَ مُخَاصِمِينَ،	G0269	ἀμάχους	ἄμαχος	peacable	amachous	A-APM	#03NKO
+#08	حُلَمَاءَ،	G1933	ἐπιεικεῖς,	ἐπιεικής	gentle	epieikeis	A-APM	#05NKO
+#09	مُظْهِرِينَ	G1731	ἐνδεικνυμένους	ἐνδείκνυμι	to show	endeiknumenous	V-PMP-APM	#07NKO
+#10	كُلَّ	G3956	πᾶσαν	πᾶς	all	pasan	A-ASF	#06NKO
+#11	وَدَاعَةٍ	G4236	πραΰτητα	πραΰτης	gentleness	prautēta	N-ASF	#08NKO
+#12	لِجَمِيعِ	G4314; G3956	πρὸς ; πάντας	πρός; πᾶς	to/with; all	pros; pantas	PREP; A-APM	#09NKO; #10NKO
+#13	النَّاسِ.	G0444	ἀνθρώπους.	ἄνθρωπος	a human	anthrōpous	N-APM	#11NKO
+<<<========
+
+Tit.3.3
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	لأَنَّنَا	G1063	γάρ	γάρ	for	gar	CONJ	#02NKO
+#02	كُنَّا	G1510	ἦμεν	εἰμί	to be	ēmen	V-IAI-1P	#01NKO
+#03	نَحْنُ	G3165	ἡμεῖς	ἐγώ	I/we	hēmeis	P-1NP	#05NKO
+#04	أَيْضًا	G2532	καὶ	καί	and	kai	CONJ	#04NKO
+#05	قَبْلاً	G4218	ποτε	ποτέ	once/when	pote	PRT	#03NKO
+#06	أَغْبِيَاءَ،	G0453	ἀνόητοι,	ἀνόητος	foolish	anoētoi	A-NPM	#06NKO
+#07 - #08	غَيْرَ طَائِعِينَ،	G0545	ἀπειθεῖς,	ἀπειθής	disobedient	apeitheis	A-NPM	#07NKO
+#09	ضَالِّينَ،	G4105	πλανώμενοι,	πλανάω	to lead astray	planōmenoi	V-PPP-NPM	#08NKO
+#10	مُسْتَعْبَدِينَ	G1398	δουλεύοντες	δουλεύω	be a slave	douleuontes	V-PAP-NPM	#09NKO
+#11	لِشَهَوَاتٍ	G1939	ἐπιθυμίαις	ἐπιθυμία	desire	epithumiais	N-DPF	#10NKO
+#12	وَلَذَّاتٍ	G2532; G2237	καὶ ; ἡδοναῖς	καί; ἡδονή	and; pleasure	kai; hēdonais	CONJ; N-DPF	#11NKO; #12NKO
+#13	مُخْتَلِفَةٍ،	G4164	ποικίλαις,	ποικίλος	various	poikilais	A-DPF	#13NKO
+#14	عَائِشِينَ	G1236	διάγοντες,	διάγω	to live	diagontes	V-PAP-NPM	#18NKO
+#15	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#14NKO
+#16	الْخُبْثِ	G2549	κακίᾳ	κακία	evil	kakia	N-DSF	#15NKO
+#17	وَالْحَسَدِ،	G2532; G5355	καὶ ; φθόνῳ	καί; φθόνος	and; envy	kai; phthonō	CONJ; N-DSM	#16NKO; #17NKO
+#18	مَمْقُوتِينَ،	G4767	στυγητοί,	στυγητός	hated	stugētoi	A-NPM	#19NKO
+#19	مُبْغِضِينَ	G3404	μισοῦντες	μισέω	to hate	misountes	V-PAP-NPM	#20NKO
+#20 - #21	بَعْضُنَا بَعْضًا.	G0240	ἀλλήλους.¶	ἀλλήλων	one another	allēlous	C-APM	#21NKO
+<<<========
+
+Tit.3.4
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	وَلكِنْ	G1161	δὲ	δέ	but/and	de	CONJ	#02NKO
+#02	حِينَ	G3753	Ὅτε	ὅτε	when	Hote	CONJ	#01NKO
+#03	ظَهَرَ	G2014	ἐπεφάνη	ἐπιφαίνω	to appear	epephanē	V-2API-3S	#08NKO
+#04	لُطْفُ	G3588; G5544	ἡ ; χρηστότης	ὁ; χρηστότης	the/this/who; kindness	hē; chrēstotēs	T-NSF; N-NSF	#03NKO; #04NKO
+#05	مُخَلِّصِنَا	G3588; G4990; G3165	τοῦ ; σωτῆρος ; ἡμῶν	ὁ; σωτήρ; ἐγώ	the/this/who; savior; I/we	tou; sōtēros; hēmōn	T-GSM; N-GSM; P-1GP	#09NKO; #10NKO; #11NKO
+#06	اللهِ	G2316	θεοῦ,	θεός	God	theou	N-GSM-T	#12NKO
+#07	وَإِحْسَانُهُ	G2532; G3588; G5363	καὶ ; ἡ ; φιλανθρωπία	καί; ὁ; φιλανθρωπία	and; the/this/who; benevolence	kai; hē; philanthrōpia	CONJ; T-NSF; N-NSF	#05NKO; #06NKO; #07NKO
+	-							
+<<<========
+
+Tit.3.5
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	لاَ	G3756	οὐκ	οὐ	no	ouk	PRT-N	#01NKO
+#02	بِأَعْمَال	G1537; G2041	ἐξ ; ἔργων	ἐκ; ἔργον	out from; work	ex; ergōn	PREP; N-GPN	#02NKO; #03NKO
+#03	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#05NKO
+#04	بِرّ	G1343	δικαιοσύνῃ	δικαιοσύνη	righteousness	dikaiosunē	N-DSF	#06NKO
+		G3739	ὧν			hōn	R-GPN	#07N(k)O
+#05	عَمِلْنَاهَا	G4160G	ἐποιήσαμεν	ποιέω	to do/make	epoiēsamen	V-AAI-1P	#08NKO
+#06	نَحْنُ،	G3165	ἡμεῖς,	ἐγώ	I/we	hēmeis	P-1NP	#09NKO
+#07	بَلْ	G0235	ἀλλὰ	ἀλλά	but	alla	CONJ	#10NKO
+#08	بِمُقْتَضَى	G2596	κατὰ	κατά	according to	kata	PREP	#11NKO
+		G3588	τὸν			ton	T-ASM	#12N(k)O
+#09	رَحْمَتِهِ	G3588; G0846; G1656	τῶν ; αὐτοῦ ; ἔλεον	ὁ; αὐτός; ἔλεον	the/this/who; he/she/it/self; mercy	tōn; autou; eleon	T-GPN; P-GSM; N-ASM	#04NKO; #13NKO; #14N(k)O
+	-							
+#10	خَلَّصَنَا	G4982; G3165	ἔσωσεν ; ἡμᾶς	σῴζω; ἐγώ	to save; I/we	esōsen; hēmas	V-AAI-3S; P-1AP	#15NKO; #16NKO
+#11	بِغُسْلِ	G1223; G3067	διὰ ; λουτροῦ	διά; λουτρόν	through/because of; washing	dia; loutrou	PREP; N-GSN	#17NKO; #18NKO
+#12 - #13	الْمِيلاَدِ الثَّانِي	G3824	παλιγγενεσίας	παλιγγενεσία	regeneration	palingenesias	N-GSF	#19NKO
+#14	وَتَجْدِيدِ	G2532; G0342	καὶ ; ἀνακαινώσεως	καί; ἀνακαίνωσις	and; renewal	kai; anakainōseōs	CONJ; N-GSF	#20NKO; #21NKO
+#15	الرُّوحِ	G4151G	πνεύματος	πνεῦμα	spirit/breath	pneumatos	N-GSN	#22NKO
+#16	الْقُدُسِ،	G0040G	ἁγίου	ἅγιος	holy	hagiou	A-GSN	#23NKO
+<<<========
+
+Tit.3.6
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	الَّذِي	G3739	οὗ	ὅς, ἥ	which	hou	R-GSN	#01NKO
+#02	سَكَبَهُ	G1632	ἐξέχεεν	ἐκχέω	to pour out	execheen	V-AAI-3S	#02NKO
+#03	بِغِنًى	G4146	πλουσίως	πλουσίως	richly	plousiōs	ADV	#05NKO
+#04	عَلَيْنَا	G1909; G3165	ἐφ᾽ ; ἡμᾶς	ἐπί; ἐγώ	upon/to/against; I/we	eph᾽; hēmas	PREP; P-1AP	#03NKO; #04NKO
+#05	بِيَسُوعَ	G1223; G2424G	διὰ ; Ἰησοῦ	διά; Ἰησοῦς	through/because of; Jesus/Joshua	dia; Iēsou	PREP; N-GSM-P	#06NKO; #07NKO
+#06	الْمَسِيحِ	G5547	Χριστοῦ	Χριστός	Christ	Christou	N-GSM-T	#08NKO
+#07	مُخَلِّصِنَا.	G3165; G3588; G4990	ἡμῶν, ; τοῦ ; σωτῆρος	ἐγώ; ὁ; σωτήρ	I/we; the/this/who; savior	hēmōn; tou; sōtēros	P-1GP; T-GSM; N-GSM	#11NKO; #09NKO; #10NKO
+<<<========
+
+Tit.3.7
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	حَتَّى	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#01NKO
+#02 - #03	إِذَا تَبَرَّرْنَا	G1344	δικαιωθέντες	δικαιόω	to justify	dikaiōthentes	V-APP-NPM	#02NKO
+		G3588	τῇ			tēa	T-DSF	#03NKO
+#04	بِنِعْمَتِهِ،	G1565; G5485	ἐκείνου ; χάριτι	ἐκεῖνος; χάρις	that; grace	ekeinou; chariti	D-GSM; N-DSF	#04NKO; #05NKO
+#05	نَصِيرُ	G1096	γενώμεθα	γενώμεθα	may become	genōmetha	V-2ADS-1P	#07N(k)O
+#06	وَرَثَةً	G2818	κληρονόμοι	κληρονόμος	heir	klēronomoi	N-NPM	#06NKO
+#07	حَسَبَ	G2596	κατ᾽	κατά	according to	kat᾽	PREP	#08NKO
+#08	رَجَاءِ	G1680	ἐλπίδα	ἐλπίς	hope	elpida	N-ASF	#09NKO
+#09	الْحَيَاةِ	G2222	ζωῆς	ζωή	life	zōēs	N-GSF	#10NKO
+#10	الأَبَدِيَّةِ.	G0166	αἰωνίου.¶	αἰώνιος	eternal	aiōniou	A-GSF	#11NKO
+<<<========
+
+Tit.3.8
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	صَادِقَةٌ	G4103	Πιστὸς	πιστός	faithful	Pistos	A-NSM	#01NKO
+#02 - #03	هِيَ الْكَلِمَةُ.	G3588; G3056	ὁ ; λόγος,	ὁ; λόγος	the/this/who; word	ho; logos	T-NSM; N-NSM	#02NKO; #03NKO
+		G2532	καὶ			kai	CONJ	#04NKO
+		G4012	περὶ			peri	PREP	#05NKO
+#04	وَأُرِيدُ	G1014	βούλομαί	βούλομαι	to plan	boulomai	V-PNI-1S	#07NKO
+		G4771	σε			se	P-2AS	#08NKO
+#05 - #06	أَنْ تُقَرِّرَ	G1226	διαβεβαιοῦσθαι	διαβεβαιόω	to insist	diabebaiousthai	V-PNN	#09NKO
+#07 - #08	هذِهِ الأُمُورَ،	G3778	τούτων	οὗτος	this/he/she/it	toutōn	D-GPN	#06NKO
+#09	لِكَيْ	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#10NKO
+#10	يَهْتَمَّ	G5431	φροντίζωσιν	φροντίζω	be careful	phrontizōsin	V-PAS-3P	#11NKO
+#11	الَّذِينَ	G3588	οἱ	ὁ	the/this/who	hoi	T-NPM	#15NKO
+#12	آمَنُوا	G4100	πεπιστευκότες	πιστεύω	to trust (in)	pepisteukotes	V-RAP-NPM	#16NKO
+#13	بِاللهِ	G3588; G2316	τῷ ; θεῷ·	ὁ; θεός	the/this/who; God	tō; theō	T-DSM; N-DSM-T	#17k; #18NKO
+#14 - #15	أَنْ يُمَارِسُوا	G4291	προΐστασθαι	προΐστημι	to set before	proistasthai	V-PMN	#14NKO
+#16	أَعْمَالاً	G2041	ἔργων	ἔργον	work	ergōn	N-GPN	#13NKO
+#17	حَسَنَةً.	G2570G	καλῶν	καλός	good	kalōn	A-GPN	#12NKO
+#18 - #20	فَإِنَّ هذِهِ الأُمُورَ	G3778	ταῦτά	οὗτος	this/he/she/it	tauta	D-NPN	#19NKO
+#21	هِيَ	G1510	ἐστιν	εἰμί	to be	estin	V-PAI-3S	#20NKO
+#22	الْحَسَنَةُ	G3588; G2570G	τὰ ; καλὰ	ὁ; καλός	the/this/who; good	ta; kala	T-NPN; A-NPN	#21k; #22NKO
+#23	وَالنَّافِعَةُ	G2532; G5624	καὶ ; ὠφέλιμα	καί; ὠφέλιμος	and; valuable	kai; ōphelima	CONJ; A-NPN	#23NKO; #24NKO
+#24	لِلنَّاسِ.	G3588; G0444	τοῖς ; ἀνθρώποις.	ὁ; ἄνθρωπος	the/this/who; a human	tois; anthrōpois	T-DPM; N-DPM	#25NKO; #26NKO
+<<<========
+
+Tit.3.9
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	وَأَمَّا	G1161	δὲ	δέ	but/and	de	CONJ	#02NKO
+#02	الْمُبَاحَثَاتُ	G2214	ζητήσεις	ζήτησις	controversy	zētēseis	N-APF	#03NKO
+#03	الْغَبِيَّةُ،	G3474	μωρὰς	μωρός	foolish	mōras	A-APF	#01NKO
+#04	وَالأَنْسَابُ،	G2532; G1076	καὶ ; γενεαλογίας	καί; γενεαλογία	and; genealogy	kai; genealogias	CONJ; N-APF	#04NKO; #05NKO
+#05	وَالْخُصُومَاتُ،	G2532; G2054	καὶ ; ἔρεις	καί; ἔρις	and; quarrel	kai; ereis	CONJ; N-APF	#06NKO; #07NK(O)
+#06	وَالْمُنَازَعَاتُ	G2532; G3163	καὶ ; μάχας	καί; μάχη	and; quarrel	kai; machas	CONJ; N-APF	#08NKO; #09NKO
+#07	النَّامُوسِيةُ	G3544	νομικὰς	νομικός	lawyer	nomikas	A-APF	#10NKO
+#08	فَاجْتَنِبْهَا،	G4026	περιΐστασο·	περιΐστημι	to stand around	periistaso	V-PMM-2S	#11NKO
+		G1510	εἰσὶν			eisin	V-PAI-3P	#12NKO
+#09	لأَنَّهَا	G1063	γὰρ	γάρ	for	gar	CONJ	#13NKO
+#10 - #11	غَيْرُ نَافِعَةٍ،	G0512	ἀνωφελεῖς	ἀνωφελής	useless	anōpheleis	A-NPF	#14NKO
+#12	وَبَاطِلَةٌ.	G2532; G3152	καὶ ; μάταιοι.	καί; μάταιος	and; futile	kai; mataioi	CONJ; A-NPF	#15NKO; #16NKO
+<<<========
+
+Tit.3.10
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	اَلرَّجُلُ	G0444	ἄνθρωπον	ἄνθρωπος	a human	anthrōpon	N-ASM	#02NKO
+#02	الْمُبْتَدِعُ	G0141	αἱρετικὸν	αἱρετικός	schismatic	hairetikon	A-ASM	#01NKO
+#03	بَعْدَ	G3326	μετὰ	μετά	with/after	meta	PREP	#03NKO
+#04	الإِنْذَارِ	G3559	νουθεσίαν	νουθεσία	admonition	nouthesian	N-ASF	#07NKO
+#05	مَرَّةً	G1520	μίαν	εἷς	one	mian	A-ASF	#04NKO
+#06	وَمَرَّتَيْنِ،	G2532; G1208	καὶ ; δευτέραν	καί; δεύτερος	and; secondly	kai; deuteran	CONJ; A-ASF	#05NKO; #06NKO
+#07 - #08	أَعْرِضْ عَنْهُ.	G3868	παραιτοῦ	παραιτέομαι	to refuse/excuse	paraitou	V-PNM-2S	#08NKO
+<<<========
+
+Tit.3.11
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	عَالِمًا	G6063	εἰδὼς	εἴδω	to perceive	eidōs	V-RAP-NSM	#01NKO
+#02	أَنَّ	G3754G	ὅτι	ὅτι	that/since	hoti	CONJ	#02NKO
+#03 - #04	مِثْلَ هذَا	G5108	τοιοῦτος	τοιοῦτος	such as this	toioutos	D-NSM	#05NKO
+#05 - #06	قَدِ انْحَرَفَ،	G1612	ἐξέστραπται	ἐκστρέφω	be warped	exestraptai	V-RPI-3S	#03NKO
+		G3588	ὁ			ho	T-NSM	#04NKO
+#07	وَهُوَ	G2532	καὶ	καί	and	kai	CONJ	#06NKO
+#08	يُخْطِئُ	G0264	ἁμαρτάνει	ἁμαρτάνω	to sin	hamartanei	V-PAI-3S	#07NKO
+#09 - #12	مَحْكُومًا عَلَيْهِ مِنْ نَفْسِهِ.	G1510; G0843	ὢν ; αὐτοκατάκριτος.¶	εἰμί; αὐτοκατάκριτος	to be; self-condemned	ōn; autokatakritos	V-PAP-NSM; A-NSM	#08NKO; #09NKO
+<<<========
+
+Tit.3.12
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	حِينَمَا	G3752	Ὅταν	ὅταν	when(-ever)	Hotan	CONJ	#01NKO
+#02	أُرْسِلُ	G3992	πέμψω	πέμπω	to send	pempsō	V-AAS-1S	#02NKO
+#03	إِلَيْكَ	G4314; G4771	πρὸς ; σὲ	πρός; σύ	to/with; you	pros; se	PREP; P-2AS	#04NKO; #05NKO
+#04	أَرْتِيمَاسَ	G0734	Ἀρτεμᾶν	Ἀρτεμάς	Artemas	Arteman	N-ASM-P	#03NKO
+#05	أَوْ	G2228	ἢ	ἤ	or/than	ē	CONJ	#06NKO
+#06	تِيخِيكُسَ،	G5190	Τύχικον,	Τυχικός	Tychicus	Tuchikon	N-ASM-P	#07NKO
+#07	بَادِرْ	G4704	σπούδασον	σπουδάζω	be eager	spoudason	V-AAM-2S	#08NKO
+#08 - #09	أَنْ تَأْتِيَ	G2064	ἐλθεῖν	ἔρχομαι	to come/go	elthein	V-2AAN	#09NKO
+#10	إِلَيَّ	G4314; G3165	πρός ; με	πρός; ἐγώ	to/with; I/we	pros; me	PREP; P-1AS	#10NKO; #11NKO
+#11	إِلَى	G1519	εἰς	εἰς	toward	eis	PREP	#12NKO
+#12	نِيكُوبُولِيسَ،	G3533	Νικόπολιν·	Νικόπολις	Nicopolis	Nikopolin	N-ASF-L	#13NKO
+#13	لأَنِّي	G1063	γὰρ	γάρ	for	gar	CONJ	#15NKO
+#14	عَزَمْتُ	G2919	κέκρικα	κρίνω	to judge	kekrika	V-RAI-1S	#16NKO
+#15 - #16	أَنْ أُشَتِّيَ	G3914	παραχειμάσαι.	παραχειμάζω	to winter	paracheimasai	V-AAN	#17NKO
+#17	هُنَاكَ.	G1563	ἐκεῖ	ἐκεῖ	there	ekei	ADV	#14NKO
+<<<========
+
+Tit.3.13
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	جَهِّزْ	G4311	πρόπεμψον,	προπέμπω	to help on the way	propempson	V-AAM-2S	#07NKO
+#02	زِينَاسَ	G2211	Ζηνᾶν	Ζηνᾶς	Zenas	Zēnan	N-ASM-P	#01NKO
+#03	النَّامُوسِيَّ	G3588; G3544	τὸν ; νομικὸν	ὁ; νομικός	the/this/who; lawyer	ton; nomikon	T-ASM; A-ASM	#02NKO; #03NKO
+#04	وَأَبُلُّوسَ	G2532; G0625	καὶ ; Ἀπολλῶν	καί; Ἀπολλῶς	and; Apollos	kai; Apollōn	CONJ; N-ASM-P	#04NKO; #05NKO
+#05	بِاجْتِهَادٍ	G4709	σπουδαίως	σπουδαίως	diligently	spoudaiōs	ADV	#06NKO
+#06	لِلسَّفَرِ							
+#07	حَتَّى	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#08NKO
+#08 - #10	لاَ يُعْوِزَهُمَا شَيْءٌ.	G3367; G0846; G3007	μηδὲν ; αὐτοῖς ; λείπῃ.	μηδείς; αὐτός; λείπω	nothing; he/she/it/self; to lack	mēden; autois; leipē	A-NSN; P-DPM; V-PAS-3S	#09NKO; #10NKO; #11NKO
+<<<========
+
+Tit.3.14
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	وَلْيَتَعَلَّمْ	G3129	μανθανέτωσαν	μανθάνω	to learn	manthanetōsan	V-PAM-3P	#01NKO
+		G1161	δὲ			de	CONJ	#02NKO
+#02 - #03	مَنْ لَنَا	G1473	ἡμέτεροι	ἡμέτερος	our	hēmeteroi	S-1PNPM	#05NKO
+#04	أَيْضًا	G2532	καὶ	καί	and	kai	CONJ	#03NKO
+		G3588	οἱ			hoi	T-NPM	#04NKO
+#05 - #06	أَنْ يُمَارِسُوا	G4291	προΐστασθαι	προΐστημι	to set before	proistasthai	V-PMN	#08NKO
+		G1519	εἰς			eis	PREP	#09NKO
+		G3588	τὰς			tas	T-APF	#10NKO
+#07	أَعْمَالاً	G2041	ἔργων	ἔργον	work	ergōn	N-GPN	#07NKO
+#08	حَسَنَةً	G2570G	καλῶν	καλός	good	kalōn	A-GPN	#06NKO
+#09	لِلْحَاجَاتِ	G5532	χρείας,	χρεία	need	chreias	N-APF	#12NKO
+#10	الضَّرُورِيَّةِ،	G0316	ἀναγκαίας	ἀναγκαῖος	necessary	anagkaias	A-APF	#11NKO
+#11	حَتَّى	G2443	ἵνα	ἵνα	in order that/to	ina	CONJ	#13NKO
+#12	لاَ	G3361	μὴ	μή	not	mē	PRT-N	#14NKO
+#13	يَكُونُوا	G1510	ὦσιν	εἰμί	to be	ōsin	V-PAS-3P	#15NKO
+#14 - #15	بِلاَ ثَمَرٍ.	G0175	ἄκαρποι.¶	ἄκαρπος	unfruitful	akarpoi	A-NPM	#16NKO
+<<<========
+
+Tit.3.15
+========>>>
+Ara W#	Arabic	Strongs	Greek	Lexicon	Gloss	Transliteration	Grammar	Grk w#
+#01	يُسَلِّمُ	G0782	Ἀσπάζονταί	ἀσπάζομαι	to pay respects to	Aspazontai	V-PNI-3P	#01NKO
+#02	عَلَيْكَ	G4771	σε	σύ	you	se	P-2AS	#02NKO
+#03	الَّذِينَ	G3588	οἱ	ὁ	the/this/who	hoi	T-NPM	#03NKO
+#04	مَعِي	G3326; G1473	μετ᾽ ; ἐμοῦ	μετά; ἐγώ	with/after; I/we	met᾽; emou	PREP; S-1SGSN	#04NKO; #05NKO
+#05	جَمِيعًا.	G3956	πάντες.	πᾶς	all	pantes	A-NPM	#06NKO
+#06 - #07	سَلِّمْ عَلَى	G0782	ἄσπασαι	ἀσπάζομαι	to pay respects to	aspasai	V-ADM-2S	#07NKO
+#08	الَّذِينَ	G3588	τοὺς	ὁ	the/this/who	tous	T-APM	#08NKO
+#09	يُحِبُّونَنَا	G5368; G3165	φιλοῦντας ; ἡμᾶς	φιλέω; ἐγώ	to love; I/we	philountas; hēmas	V-PAP-APM; P-1AP	#09NKO; #10NKO
+#10	فِي	G1722	ἐν	ἐν	in/on/among	en	PREP	#11NKO
+#11	الإِيمَانِ.	G4102G	πίστει.¶	πίστις	faith	pistei	N-DSF	#12NKO
+#12	اَلنِّعْمَةُ	G3588; G5485	Ἡ ; χάρις	ὁ; χάρις	the/this/who; grace	Hē; charis	T-NSF; N-NSF	#13NKO; #14NKO
+#13	مَعَ	G3326	μετὰ	μετά	with/after	meta	PREP	#15NKO
+#14	جَمِيعِكُمْ.	G3956; G4771	πάντων ; ὑμῶν	πᾶς; σύ	all; you	pantōn; humōn	A-GPM; P-2GP	#16NKO; #17NKO
+#15	آمِينَ.	G0281	ἀμήν.	ἀμήν	amen	amēn	INJ-HEB	#18KO
+		G4314	πρός			pros	PREP	#19K
+		G5103	Τίτον			Titon	N-ASM-P	#20K
+		G3588	τῆς			tēs	T-GSF	#21K
+		G2912	Κρητῶν			Krētōn	N-GPM-LG	#22K
+		G1577	ἐκκλησίας			ekklēsias	N-GSF	#23K
+		G4413G	πρῶτον			prōton	A-ASM-S	#24K
+		G1985	ἐπίσκοπον			episkopon	N-ASM	#25K
+		G5500	χειροτονηθέντα			cheirotonēthenta	V-APP-ASM	#26K
+		G1125	ἐγράφη			egraphē	V-2API-3S	#27K
+		G0575	ἀπό			apo	PREP	#28K
+		G3533	Νικοπόλεως			Nikopoleōs	N-GSF-L	#29K
+		G3588	τῆς			tēs	T-GSF	#30K
+		G3109	Κρητῶν.¶			Krētōn	N-GSF-L	#31K
+<<<========
+
