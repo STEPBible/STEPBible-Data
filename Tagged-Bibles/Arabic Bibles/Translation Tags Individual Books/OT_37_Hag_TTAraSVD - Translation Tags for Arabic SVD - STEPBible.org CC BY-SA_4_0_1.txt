@@ -1,0 +1,846 @@
+TTArabicSVD - Translation Tags etc. for the OT of the Arabic SVD Bible - STEPBible.org CC BY-SA 4.0
+كلمات اللغات الاصلية لترجمة فانديك للعهد القديم
+==================================================================================
+Arabic SVD Bible was translated from original languages by Drs. Eli Smith & Cornelius Van Dyck, 1865.
+Digitisation, formatting and diacritics by "Arabic Bible Outreach Ministry" https://www.arabicbible.com/
+Data created using Translators Amalgamated Hebrew OT - STEPBible.org CC BY 4.0 https://github.com/STEPBible/STEPBible-Data/tree/master/Translators%20Amalgamated%20OT%2BNT
+=================================================================================
+This work is made available under the Creative Commons Attribution-Share Alike 4.0 International License (CC BY-SA).
+To view a copy of this license, visit CC BY-SA 4.0 Deed
+This licence allows you to copy and redistribute this “unmodified” work as long as
+you keep the names “Arabic Bible Outreach Ministry” and “STEPBible.org” intact.
+
+If you modify a copy of this work,
+you must indicate on the modified work what changes you have made and attribute the work as follows:
+The original work by STEPBible.org, and Arabic Bible Outreach Ministry,
+is available for free at "STEPBible Arabic Bibles" https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles/Arabic%20Bibles
+
+Error reporting: Please report all errors at Feedback@STEPBible.org
+===========================================================================
+الكتاب المقدس
+ترجم من اللغات الاصلية بواسطة الدكتور عالي سميث، والدكتور كرنيليوس فان الآن فانديك، تم عام م١٨٦٥م
+https://www.arabicbible.com/  "الرقمنة والتنسيق وعلامات التشكيل قامت بها "الخدمة العربية للكرازة بالانجيل 
+STEEPBible.org ربط الكلمات بارقم سترونج قامت بها 
+===========================================================================
+(CC BY-SA) أتيح هذا العمل بموجب الترخيص الدولي 
+
+بموجب الشروط الواردة في هذا الترخيص الدولي، يجوز نسخ وإعادة توزيع هذا العمل دون أي تعديل
+طالما يبقي ذكر اسماء:
+"الخدمة العربية للكرازة بالانجيل"
+"STEPBible.org"
+واضحا
+
+إذا أجري أي تعديل لنسخة من هذا العمل
+فلابد من الإشارة في النسخة المعدلة إلى التغييرات التي أجريت على الأصل ووصف العمل المعدل بما يلي
+العمل الأصلي بواسطة "الخدمة العربية للكرازة بالانجيل"
+و "STEPBible.org"
+متوفر للتحميل المجاني من الرابط الالكتروني
+https://github.com/STEPBible/STEPBible-Data/tree/master/Tagged-Bibles/Arabic%20Bibles
+الإبلاغ عن الأخطاء: يرجى الإبلاغ عن أي أخطاء هنا
+Feedback@STEPBible.org
+===========================================================================
+
+Version 4.0.1:
+Created 2025-04-16 Sami Abdel Malik. 
+
+This work tries to answer the question; which original text words correspond to the translated Arabic words?
+
+FIELD DESCRIPTIONS:																
+===================
+1. Ara W#: Two digits representing the word number in the SVD Arabic verse.
+2. Arabic: SVD Arabic text words. 
+3. Strongs: Lexical tags for each element of the Hebrew words, including prefixes and suffixes, with the Root in {curly brackets}. A "+" indicates the same tag also covers the next Hebrew word. These disambiguated Strong numbers (dStrong)  are defined at TinyURL.com/STEP-Disambiguated. 
+4. Grammar: Morphology is from ETCBC, with Ketiv forms parsed by Tyndale scholars - see e.g. Deu.33.2-15.   For the source of ETCBC and conversion method by Tyndale House, see https://goo.gl/yKaXQq#HebMorph2															
+			Morphology codes follow the form defined by OpenScriptures at http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html#vt with some adaptations - see TinyURL.com/HebMorph															
+5. Heb w#:	Two digits representing the word number of the corresponding Hebrew word in the Hebrew verse. 
+			Verse number of the Arabic text does not always match the verse number of the corresponding Hebrew Text.
+			In such cases, the Hebrew word number is prefixed with the actual Hebrew verse number.
+			See Psa.3:1 for an example. 
+			The Hebrew word numbers may have a suffix indicating the source of the word. Word numbers without a suffix, are from Leningrad manuscript, otherwise the suffix means the following sources:
+			R= restored text based on Leningrad parallels - ie Jos.21.36-37 from 1Ch.6.63-64 and Neh.7.67b from Ezr.2.66																
+			Q= "a Scribal corrections" ie the Qere ('spoken') corrections by scribes. This is made up of the letters in the margin and the pointing in the text.																
+				K= "the uncorrected text" - ie the Ketiv  ('written') is noted as a variant. This is made up of the letters in the text, pointed by Tyndale scholars. 																
+				L - the letters of K with pointing of Q, as found in Leningrad is recorded as a spelling variant. 																
+			 - eg Gen.27.3 L= צָיִדה, K= צֵידָה ('food'), Q= צָיִד ('wild game')		
+			X= "based on Greek sources" - ie extra words based on LXX, expressed in Hebrew as in the apparatus of BHS pr BHK - eg 1Sa.13.1 Saul was שְׁלֹשִׁים שָׁנָ֖ה ('a thirty year-old') not שָׁנָ֖ה ('a year-old') 																
+			If the word is not in the Leningrad text, its number is shown as four digits. This is to show restored text between two words.
+			See Neh.7.68 for an example.
+6. Hebrew	Full Hebrew including pointing with space separating prefixes and suffixes from the root word.
+7. Transliteration: Uses upper case to indicate the stress. It is based on Berean Study Bible. 
+8. Word-by-word: A word by word translation of the Hebrew.Forward slash ( / ) separates the translation to mirror the prefixes, root and suffixes in Hebrew. This means the order of English words follows the order within the Hebrew word.  															
+
+Note: Descriptions for fields 3, 4, 5(sources), 6 and 8 are taken from Translators Amalgamated Hebrew OT - STEPBible.org CC BY.
+==================================================================================
+
+Hag.1.1
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #02	فِي السَّنَةِ	H9003;{H8141}	בִּ שְׁנַ֤ת	ב;{שָׁנָה}	in;{year}	bi;sh.Nat	HR/Ncfsc	#01
+#03	الثَّانِيَةِ	{H8147}	שְׁתַּ֙יִם֙	{שְׁנַ֫יִם}	{two}	she.Ta.yim	HAcfda	#02
+#04	لِدَارِيُوسَ	H9005;{H1867H}	לְ דָרְיָ֣וֶשׁ	ל;{דָּֽרְיָ֫וֶשׁ}	to;{Darius}	le.;da.re.Ya.vesh	HR/Npm	#03
+#05	الْمَلِكِ،	H9009;{H4428G}	הַ מֶּ֔לֶךְ	ה;{מֶ֫לֶךְ}	the;{king}	ha.;Me.lekh	HTd/Ncmsa	#04
+#06 - #07	فِي الشَّهْرِ	H9003;{H2320G}	בַּ חֹ֙דֶשׁ֙	ב;{חֹ֫דֶשׁ}	in;{month}	ba.;Cho.desh	HRd/Ncmsa	#05
+#08	السَّادِسِ	H9009;{H8345}	הַ שִּׁשִּׁ֔י	ה;{שִׁשִּׁי}	the;{sixth}	ha.;shi.Shi	HTd/Aomsa	#06
+#09 - #11	فِي أَوَّلِ يَوْمٍ	H9003;{H3117G}; {H0259}	בְּ י֥וֹם; אֶחָ֖ד	ב;{יוֹם}; {אֶחָד}	in;{day}; {one}	be.;Yom; 'e.Chad	HR/Ncmsa; HAcfsa	#07; #08
+#12 - #13	مِنَ الشَّهْرِ،	H9005;{H2320G}	לַ חֹ֑דֶשׁ	ל;{חֹ֫דֶשׁ}	to;{month}	la.;Cho.desh	HRd/Ncmsa	#09
+#14	كَانَتْ	{H1961}	הָיָ֨ה	{הָיָה}	{to be}	ha.Yah	HVqp3ms	#10
+#15	كَلِمَةُ	{H1697G}	דְבַר	{דָּבָר}	{word}	de.var-	HNcmsc	#11
+#16	الرَّبِّ	{H3068G}	יְהוָ֜ה	{יהוה}	{LORD}	Yah.weh	HNpt	#12
+#17 - #18	عَنْ يَدِ	H9003;{H3027K}	בְּ יַד	ב;{יָד}	in;{to}	be.;yad-	HR/Ncbsc	#13
+#19	حَجَّي	{H2292A}	חַגַּ֣י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#14
+#20	النَّبِيِّ	H9009;{H5030}	הַ נָּבִ֗יא	ה;{נָבִיא}	the;{prophet}	ha.;na.Vi'	HTd/Ncmsa	#15
+#21	إِلَى	{H0413}	אֶל	{אֶל}	{to(wards)}	'el-	HR	#16
+#22	زَرُبَّابِلَ	{H2216}	זְרֻבָּבֶ֤ל	{זְרֻבָּבֶ֫ל}	{Zerubbabel}	ze.ru.ba.Vel	HNpm	#17
+#23	بْنِ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#18
+#24	شَأَلْتِيئِيلَ	{H7597A}	שְׁאַלְתִּיאֵל֙	{שְׁאַלְתִּיאֵל}	{Shealtiel}	she.'al.ti.'El	HNpm	#19
+#25	وَالِي	{H6346}	פַּחַ֣ת	{פֶּחָה}	{governor}	pa.Chat	HNcfsc	#20
+#26	يَهُوذَا،	{H3063G}	יְהוּדָ֔ה	{יְהוּדָה}	{Judah}	ye.hu.Dah	HNpl	#21
+#27	وَإِلَى	H9002;{H0413}	וְ אֶל	ו;{אֶל}	and;{to(wards)}	ve.;'el-	HC/R	#22
+#28	يَهُوشَعَ	{H3091J}	יְהוֹשֻׁ֧עַ	{יְהוֹשׁוּעַ}	{Joshua}	ye.ho.Shu.a'	HNpm	#23
+#29	بْنِ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#24
+#30	يَهُوصَادِقَ	{H3087}	יְהוֹצָדָ֛ק	{יְהוֹצָדָק}	{Jehozadak}	ye.ho.tza.Dak	HNpm	#25
+#31	الْكَاهِنِ	H9009;{H3548}	הַ כֹּהֵ֥ן	ה;{כֹּהֵן}	the;{priest}	ha.;ko.Hen	HTd/Ncmsa	#26
+#32	الْعَظِيمِ	H9009;{H1419A}	הַ גָּד֖וֹל	ה;{גַּל}	the;{large}	ha.;ga.Dol	HTd/Aamsa	#27
+#33	قَائِلاً:	H9005;{H0559}	לֵ אמֹֽר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#28
+<<<========
+
+Hag.1.2
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	هكَذَا	{H3541}	כֹּ֥ה	{כֹּה}	{thus}	koh	HD	#01
+#02	قَالَ	{H0559}	אָמַ֛ר	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#02
+#03	رَبُّ	{H3068G}	יְהוָ֥ה	{יהוה}	{LORD}	Yah.weh	HNpt	#03
+#04	الْجُنُودِ	{H6635B}	צְבָא֖וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#04
+#05	قَائِلاً:	H9005;{H0559}	לֵ אמֹ֑ר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#05
+#06	هذَا	H9009;{H2088}	הַ זֶּה֙	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#07
+#07	الشَّعْبُ	H9009;{H5971A}	הָ עָ֤ם	ה;{עַם}	the;{people}	ha.;'Am	HTd/Ncmsa	#06
+#08	قَالَ	{H0559}	אָֽמְר֔וּ	{אָמַר}	{to say}	'a.me.Ru	HVqp3cp	#08
+#09 - #10	إِنَّ الْوَقْتَ	{H6256}	עֶת	{עֵת}	{time}	'et-	HNcbsc	#10
+#11	لَمْ	{H3808}	לֹ֥א	{לֹא}	{not}	lo'	HTn	#09
+#12	يَبْلُغْ	{H0935G}	בֹּ֛א	{בּוֹא}	{come}	bo'	HVqcc	#11
+#13	وَقْتَ	{H6256}	עֶת	{עֵת}	{time}	'et-	HNcbsc	#12
+#14	بِنَاءِ	H9005;{H1129}	לְ הִבָּנֽוֹת	ל;{בָּנָה}	to;{to build}	le.;hi.ba.Not	HR/VNcc	#15
+#15	بَيْتِ	{H1004Q}	בֵּ֥ית	{בַּ֫יִת}	{home}	beit	HNcmsc	#13
+#16	الرَّبِّ.	{H3068G}	יְהוָ֖ה	{יהוה}	{LORD}	Yah.weh	HNpt	#14
+<<<========
+
+Hag.1.3
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	فَكَانَتْ	H9001;{H1961}	וַֽ יְהִי֙	ו;{הָיָה}	&;{to be}	va;y.Hi	Hc/Vqw3ms	#01
+#02	كَلِمَةُ	{H1697G}	דְּבַר	{דָּבָר}	{word}	de.var-	HNcmsc	#02
+#03	الرَّبِّ	{H3068G}	יְהוָ֔ה	{יהוה}	{LORD}	Yah.weh	HNpt	#03
+#04 - #05	عَنْ يَدِ	H9003;{H3027H}	בְּ יַד	ב;{יָד}	in;{power}	be.;yad-	HR/Ncbsc	#04
+#06	حَجَّي	{H2292A}	חַגַּ֥י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#05
+#07	النَّبِيِّ	H9009;{H5030}	הַ נָּבִ֖יא	ה;{נָבִיא}	the;{prophet}	ha.;na.Vi'	HTd/Ncmsa	#06
+#08	قَائِلاً:	H9005;{H0559}	לֵ אמֹֽר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#07
+<<<========
+
+Hag.1.4
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #02	هَلِ الْوَقْتُ	H9008;{H6256}	הַ עֵ֤ת	ה;{עֵת}	¿;{time}	ha.;'Et	HTi/Ncbsa	#01
+#03	لَكُمْ	H9005;{H9036}	לָ כֶם֙	ל;{Op2m}	to;{you}	la.;Khem	HR/Sp2mp	#02
+#04	أَنْتُمْ	{H0859D}	אַתֶּ֔ם	{אַתֶּם}	{you(m.p.)}	'a.Tem	HPp2mp	#03
+#05 - #06	أَنْ تَسْكُنُوا	H9005;{H3427}	לָ שֶׁ֖בֶת	ל;{יָשַׁב}	to;{to dwell}	la.;She.vet	HR/Vqcc	#04
+#07 - #08	فِي بُيُوتِكُمُ	H9003;{H1004B};H9026	בְּ בָתֵּי כֶ֣ם	ב;{בַּ֫יִת};Pp2m	in;{home};your	be.;va.tei.;Khem	HR/Ncmpc/Sp2mp	#05
+#09	الْمُغَشَّاةِ،	{H5603}	סְפוּנִ֑ים	{סָפַן}	{to cover}	se.fu.Nim	HVqsmpa	#06
+#10	وَهذَا	H9009;{H2088}	הַ זֶּ֖ה	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#08
+#11	الْبَيْتُ	H9002;H9009;{H1004B}	וְ הַ בַּ֥יִת	ו;ה;{בַּ֫יִת}	and;the;{home}	ve.;ha.;Ba.yit	HC/Td/Ncmsa	#07
+#12	خَرَابٌ.	{H2720B}	חָרֵֽב	{חָרֵב}	{desolate}	cha.Rev	HAamsa	#09
+<<<========
+
+Hag.1.5
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	وَالآنَ	H9002;{H6258}	וְ עַתָּ֕ה	ו;{עַתָּ֫ה}	and;{now}	ve.;'a.Tah	HC/D	#01
+#02	فَهكَذَا	{H3541}	כֹּ֥ה	{כֹּה}	{thus}	koh	HD	#02
+#03	قَالَ	{H0559}	אָמַ֖ר	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#03
+#04	رَبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#04
+#05	الْجُنُودِ:	{H6635B}	צְבָא֑וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#05
+#06	اجْعَلُوا	{H7760K}	שִׂ֥ימוּ	{שׂוּם}	{consider}	Si.mu	HVqv2mp	#06
+#07	قَلْبَكُمْ	{H3824};H9026	לְבַבְ כֶ֖ם	{לֵבָב};Pp2m	{heart};your	le.vav.;Khem	HNcmsc/Sp2mp	#07
+#08	عَلَى	{H5921A}	עַל	{עַל}	{upon}	'al-	HR	#08
+#09	طُرُقِكُمْ.	{H1870G};H9026	דַּרְכֵי כֶֽם	{דֶּ֫רֶךְ};Pp2m	{conduct};your	dar.khei.;Khem	HNcmpc/Sp2bp	#09
+<<<========
+
+Hag.1.6
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	زَرَعْتُمْ	{H2232}	זְרַעְתֶּ֨ם	{זָרַע}	{to sow}	ze.ra'.Tem	HVqp2mp	#01
+#02	كَثِيرًا	{H7235A}	הַרְבֵּ֜ה	{רָבָה}	{to multiply}	har.Beh	HVhaa	#02
+#03	وَدَخَّلْتُمْ	H9002;{H0935P}	וְ הָבֵ֣א	ו;{בּוֹא}	and;{bring}	ve.;ha.Ve'	HC/Vhaa	#03
+#04	قَلِيلاً.	{H4592}	מְעָ֗ט	{מְעַט}	{little}	me.'At	HNcmsa	#04
+#05	تَأْكُلُونَ	{H0398}	אָכ֤וֹל	{אָכַל}	{to eat}	'a.Khol	HVqaa	#05
+#06	وَلَيْسَ	H9002;{H0369}	וְ אֵין	ו;{אַ֫יִן}	and;{nothing}	ve.;'ein-	HC/Ncmsc	#06
+#07 - #08	إِلَى الشَّبَعِ.	H9005;{H7654}	לְ שָׂבְעָה֙	ל;{שׇׂבְעָה}	to;{satiety}	le.;sa.ve.'Ah	HR/Ncfsa	#07
+#09	تَشْرَبُونَ	{H8354}	שָׁת֣וֹ	{שָׁתָה}	{to drink}	sha.To	HVqaa	#08
+#10	وَلاَ	H9002;{H0369}	וְ אֵין	ו;{אַ֫יִן}	and;{nothing}	ve.;'ein-	HC/Ncmsc	#09
+#11	تَرْوُونَ.	H9005;{H7937}	לְ שָׁכְרָ֔ה	ל;{שָׁכַר}	to;{be drunk}	le.;sha.khe.Rah	HR/Vqcc	#10
+#12	تَكْتَسُونَ	{H3847}	לָב֖וֹשׁ	{לָבֵשׁ}	{to clothe}	la.Vo.osh	HVqaa	#11
+#13	وَلاَ	H9002;{H0369}	וְ אֵין	ו;{אַ֫יִן}	and;{nothing}	ve.;'ein-	HC/Ncmsc	#12
+#14	تَدْفَأُونَ.	H9005;{H2552}; H9005;{H9033}	לְ חֹ֣ם; ל֑ וֹ	ל;{חָמַם}; ל;{Os3m}	to;{to warm}; to;{him}	le.;Chom; l;o	HR/Vqcc; HR/Sp3ms	#13; #14
+#15 - #16	وَالآخِذُ أُجْرَةً	H9002;H9009;{H7936B}	וְ הַ֨ מִּשְׂתַּכֵּ֔ר	ו;ה;{שָׂכַר}	and;the;{to hire}	ve.;Ha;m.mis.ta.Ker	HC/Td/Vtrmsa	#15
+#17 - #18	يَأْخُذُ أُجْرَةً	{H7936B}	מִשְׂתַּכֵּ֖ר	{שָׂכַר}	{to hire}	mis.ta.Ker	HVtrmsa	#16
+#19	لِكِيسٍ	{H0413}; {H6872A}	אֶל; צְר֥וֹר	{אֶל}; {צְרוֹר}	{to(wards)}; {bundle}	'el-; tze.Ror	HR; HNcmsa	#17; #18
+#20	مَنْقُوبٍ.	{H5344A}	נָקֽוּב	{נָקַב}	{to pierce}	na.Kuv	HVqsmsa	#19
+<<<========
+
+Hag.1.7
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	هكَذَا	{H3541}	כֹּ֥ה	{כֹּה}	{thus}	koh	HD	#01
+#02	قَالَ	{H0559}	אָמַ֖ר	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#02
+#03	رَبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#03
+#04	الْجُنُودِ:	{H6635B}	צְבָא֑וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#04
+#05	اجْعَلُوا	{H7760K}	שִׂ֥ימוּ	{שׂוּם}	{consider}	Si.mu	HVqv2mp	#05
+#06	قَلْبَكُمْ	{H3824};H9026	לְבַבְ כֶ֖ם	{לֵבָב};Pp2m	{heart};your	le.vav.;Khem	HNcmsc/Sp2mp	#06
+#07	عَلَى	{H5921A}	עַל	{עַל}	{upon}	'al-	HR	#07
+#08	طُرُقِكُمْ.	{H1870G};H9026	דַּרְכֵי כֶֽם	{דֶּ֫רֶךְ};Pp2m	{conduct};your	dar.khei.;Khem	HNcmpc/Sp2bp	#08
+<<<========
+
+Hag.1.8
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	اِصْعَدُوا	{H5927G}	עֲל֥וּ	{עָלָה}	{rise}	'a.Lu	HVqv2mp	#01
+#02 - #03	إِلَى الْجَبَلِ	H9009;{H2022G}	הָ הָ֛ר	ה;{הַר}	the;{mount}	ha.;Har	HTd/Ncmsa	#02
+#04	وَأْتُوا	H9001;{H0935P}	וַ הֲבֵאתֶ֥ם	ו;{בּוֹא}	&;{bring}	va.;ha.ve.Tem	Hc/Vhq2mp	#03
+#05	بِخَشَبٍ	{H6086G}	עֵ֖ץ	{עֵץ}	{wood}	'etz	HNcmsa	#04
+#06	وَابْنُوا	H9002;{H1129}	וּ בְנ֣וּ	ו;{בָּנָה}	and;{to build}	u.;ve.Nu	HC/Vqv2mp	#05
+#07	الْبَيْتَ،	H9009;{H1004B}	הַ בָּ֑יִת	ה;{בַּ֫יִת}	the;{home}	ha.;Ba.yit	HTd/Ncmsa	#06
+#08	فَأَرْضَى	H9002;{H7521}	וְ אֶרְצֶה	ו;{רָצָה}	and;{to accept}	ve.;'er.tzeh-	HC/Vqu1cs	#07
+#09	عَلَيْهِ	H9003;{H9033}	בּ֥ וֹ	ב;{Os3m}	in;{him}	b;o	HR/Sp3ms	#08
+#10	وَأَتَمَجَّدَ،	H9002;{H3513G}	וְ אֶכָּבְדָ֖ה	ו;{כָּבֵד}	and;{honour}	ve.;'e.ka.ved	HC/VNc1cs	#09Q(K)
+#11	قَالَ	{H0559}	אָמַ֥ר	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#10
+#12	الرَّبُّ.	{H3068G}	יְהוָֽה	{יהוה}	{LORD}	Yah.weh	HNpt	#11
+<<<========
+
+Hag.1.9
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	انْتَظَرْتُمْ	{H6437G}	פָּנֹ֤ה	{פָּנָה}	{to turn}	pa.Noh	HVqaa	#01
+#02	كَثِيرًا	{H0413}; {H7235A}	אֶל; הַרְבֵּה֙	{אֶל}; {רָבָה}	{to(wards)}; {to multiply}	'el-; har.Beh	HR; HVhaa	#02; #03
+#03 - #04	وَإِذَا هُوَ	H9002;{H2009}	וְ הִנֵּ֣ה	ו;{הִנֵּה}	and;{behold}	ve.;hi.Neh	HC/Tj	#04
+#05	قَلِيلٌ.	H9005;{H4592}	לִ מְעָ֔ט	ל;{מְעַט}	to;{little}	li;m.'At	HR/Ncmsa	#05
+#06 - #07	وَلَمَّا أَدْخَلْتُمُوهُ	H9001;{H0935P}	וַ הֲבֵאתֶ֥ם	ו;{בּוֹא}	&;{bring}	va.;ha.ve.Tem	Hc/Vhq2mp	#06
+#08	الْبَيْتَ	H9009;{H1004B}	הַ בַּ֖יִת	ה;{בַּ֫יִת}	the;{home}	ha.;Ba.yit	HTd/Ncmsa	#07
+#09	نَفَخْتُ	H9001;{H5301}	וְ נָפַ֣חְתִּי	ו;{נָפַח}	&;{to breathe}	ve.;na.Fach.ti	Hc/Vqq1cs	#08
+#10	عَلَيْهِ.	H9003;{H9033}	ב֑ וֹ	ב;{Os3m}	in;{him}	v;o	HR/Sp3ms	#09
+#11	لِمَاذَا.	{H3282}; {H4100}	יַ֣עַן; מֶ֗ה	{יַעַן}; {מָה}	{because}; {what?}	Ya.'an; Meh	HC; HPi	#10; #11
+#12	يَقُولُ	{H5002}	נְאֻם֙	{נְאֻם}	{utterance}	ne.'Um	HNcmsc	#12
+#13	رَبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#13
+#14	الْجُنُودِ.	{H6635B}	צְבָא֔וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#14
+#15	لأَجْلِ	{H3282}	יַ֗עַן	{יַעַן}	{because}	Ya.'an	HC	#15
+#16	بَيْتِي	{H1004B};H9020	בֵּיתִ י֙	{בַּ֫יִת};Ps1c	{home};my	bei.T;i	HNcmsc/Sp1bs	#16
+#17	الَّذِي	{H0834A}	אֲשֶׁר	{אֲשֶׁר}	{which}	'a.Sher-	HTr	#17
+#18	هُوَ	{H1931}	ה֣וּא	{הוּא}	{he,_she,_it}	hu'	HPp3ms	#18
+#19	خَرَابٌ،	{H2720B}	חָרֵ֔ב	{חָרֵב}	{desolate}	cha.Rev	HAamsa	#19
+#20	وَأَنْتُمْ	H9002;{H0859D}	וְ אַתֶּ֥ם	ו;{אַתֶּם}	and;{you(m.p.)}	ve.;'a.Tem	HC/Pp2mp	#20
+#21	رَاكِضُونَ	{H7323G}	רָצִ֖ים	{רוּץ}	{run}	ra.Tzim	HVqrmpa	#21
+#22 - #23	كُلُّ إِنْسَانٍ	{H0376I}	אִ֥ישׁ	{אִישׁ}	{anyone}	'ish	HNcmsa	#22
+#24 - #25	إِلَى بَيْتِهِ.	H9005;{H1004B};H9023	לְ בֵיתֽ וֹ	ל;{בַּ֫יִת};Ps3m	to;{home};his	le.;vei.T;o	HR/Ncmsc/Sp3ms	#23
+<<<========
+
+Hag.1.10
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	لِذلِكَ	{H5921A}; {H3651C}	עַל; כֵּ֣ן	{עַל}; {כֵּן}	{upon}; {so}	'al-; ken	HR; HD	#01; #02
+#02	مَنَعَتِ	{H3607}	כָּלְא֥וּ	{כָּלָא}	{to restrain}	kal.'U	HVqp3cp	#04
+#03	السَّمَاوَاتُ	{H8064}	שָמַ֖יִם	{שָׁמַיִם}	{heaven}	sha.Ma.yim	HNcmpa	#05
+#04 - #05	مِنْ فَوْقِكُمُ	{H5921A};H9036	עֲלֵי כֶ֔ם	{עַל};Op2m	{upon};you	'a.lei.;Khem	HR/Sp2mp	#03
+#06	النَّدَى،	H9006;{H2919}	מִ טָּ֑ל	מ;{טַל}	from;{dew}	mi.;Tal	HR/Ncmsa	#06
+#07	وَمَنَعَتِ	{H3607}	כָּלְאָ֥ה	{כָּלָא}	{to restrain}	kal.'Ah	HVqp3fs	#08
+#08	الأَرْضُ	H9002;H9009;{H0776G}	וְ הָ אָ֖רֶץ	ו;ה;{אֶ֫רֶץ}	and;the;{country,_planet}	ve.;ha.;'A.retz	HC/Td/Ncfsa	#07
+#09	غَلَّتَهَا.	{H2981};H9024	יְבוּלָֽ הּ	{יְבוּל};Ps3f	{crops};her	ye.vu.La;h	HNcmsc/Sp3fs	#09
+<<<========
+
+Hag.1.11
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	وَدَعَوْتُ	H9001;{H7121G}	וָ אֶקְרָ֨א	ו;{קָרָא}	&;{call_to}	va.;'ek.Ra'	Hc/Vqw1cs	#01
+#02	بِالْحَرِّ	{H2721A}	חֹ֜רֶב	{חֹ֫רֶב}	{drought}	Cho.rev	HNcmsa	#02
+#03	عَلَى	{H5921A}	עַל	{עַל}	{upon}	'al-	HR	#03
+#04	الأَرْضِ	H9009;{H0776G}	הָ אָ֣רֶץ	ה;{אֶ֫רֶץ}	the;{country,_planet}	ha.;'A.retz	HTd/Ncfsa	#04
+#05	وَعَلَى	H9002;{H5921A}	וְ עַל	ו;{עַל}	and;{upon}	ve.;'al-	HC/R	#05
+#06	الْجِبَالِ	H9009;{H2022G}	הֶ הָרִ֗ים	ה;{הַר}	the;{mount}	he.;ha.Rim	HTd/Ncmpa	#06
+#07	وَعَلَى	H9002;{H5921A}	וְ עַל	ו;{עַל}	and;{upon}	ve.;'al-	HC/R	#07
+#08	الْحِنْطَةِ	H9009;{H1715}	הַ דָּגָן֙	ה;{דָּגָן}	the;{grain}	ha.;da.Gan	HTd/Ncmsa	#08
+#09	وَعَلَى	H9002;{H5921A}	וְ עַל	ו;{עַל}	and;{upon}	ve.;'al-	HC/R	#09
+#10	الْمِسْطَارِ	H9009;{H8492}	הַ תִּיר֣וֹשׁ	ה;{תִּירוֹשׁ}	the;{new wine}	ha.;ti.Ro.osh	HTd/Ncmsa	#10
+#11	وَعَلَى	H9002;{H5921A}	וְ עַל	ו;{עַל}	and;{upon}	ve.;'al-	HC/R	#11
+#12	الزَّيْتِ	H9009;{H3323}	הַ יִּצְהָ֔ר	ה;{יִצְהָר}	the;{oil}	hai.;yitz.Har	HTd/Ncmsa	#12
+#13	وَعَلَى	H9002;{H5921A}	וְ עַ֛ל	ו;{עַל}	and;{upon}	ve.;'Al	HC/R	#13
+#14	مَا	{H0834A}	אֲשֶׁ֥ר	{אֲשֶׁר}	{which}	'a.Sher	HTr	#14
+#15	تُنْبِتُهُ	{H3318M}	תּוֹצִ֖יא	{יָצָא}	{produce}	to.Tzi'	HVhi3fs	#15
+#16	الأَرْضُ،	H9009;{H0127G}	הָ אֲדָמָ֑ה	ה;{אֲדָמָה}	the;{soil}	ha.;'a.da.Mah	HTd/Ncfsa	#16
+#17	وَعَلَى	H9002;{H5921A}	וְ עַל	ו;{עַל}	and;{upon}	ve.;'al-	HC/R	#17
+#18	النَّاسِ	H9009;{H0120G}	הָֽ אָדָם֙	ה;{אָדָם}	the;{man}	ha.;'a.Dam	HTd/Ncmsa	#18
+#19	وَعَلَى	H9002;{H5921A}	וְ עַל	ו;{עַל}	and;{upon}	ve.;'al-	HC/R	#19
+#20	الْبَهَائِمِ،	H9009;{H0929}	הַ בְּהֵמָ֔ה	ה;{בְּהֵמָה}	the;{animal}	ha.;be.he.Mah	HTd/Ncfsa	#20
+#21	وَعَلَى	H9002;{H5921A}	וְ עַ֖ל	ו;{עַל}	and;{upon}	ve.;'Al	HC/R	#21
+#22	كُلِّ	{H3605}	כָּל	{כֹּל}	{all}	kol-	HNcmsc	#22
+#23	أَتْعَابِ	{H3018}	יְגִ֥יעַ	{יְגִיעַ}	{toil}	ye.Gi.a'	HNcmsc	#23
+#24	الْيَدَيْنِ.	{H3709G}	כַּפָּֽיִם	{כַּף}	{palm}	ka.Pa.yim	HNcfda	#24
+<<<========
+
+Hag.1.12
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #02	حِينَئِذٍ سَمِعَ	H9001;{H8085H}	וַ יִּשְׁמַ֣ע	ו;{שָׁמַע}	&;{obey}	va;i.yish.Ma'	Hc/Vqw3ms	#01
+#03	زَرُبَّابِلُ	{H2216}	זְרֻבָּבֶ֣ל	{זְרֻבָּבֶ֫ל}	{Zerubbabel}	ze.ru.ba.Vel	HNpm	#02
+#04	بْنُ	{H1121A}	בֶּֽן	{בֵּן}	{child}	ben-	HNcmsc	#03
+#05	شَأَلْتِيئِيلَ	{H7597B}	שַׁלְתִּיאֵ֡ל	{שַׁלְתִּיאֵל}	{Shealtiel}	shal.ti.'El	HNpm	#04
+#06	وَيَهُوشَعُ	H9002;{H3091J}	וִ יהוֹשֻׁ֣עַ	ו;{יְהוֹשׁוּעַ}	and;{Joshua}	vi.;ho.Shu.a'	HC/Npm	#05
+#07	بْنُ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#06
+#08	يَهُوصَادِقَ	{H3087}	יְהוֹצָדָק֩	{יְהוֹצָדָק}	{Jehozadak}	ye.ho.tza.Dak	HNpm	#07
+#09	الْكَاهِنِ	H9009;{H3548}	הַ כֹּהֵ֨ן	ה;{כֹּהֵן}	the;{priest}	ha.;ko.Hen	HTd/Ncmsa	#08
+#10	الْعَظِيمِ،	H9009;{H1419A}	הַ גָּד֜וֹל	ה;{גַּל}	the;{large}	ha.;ga.Dol	HTd/Aamsa	#09
+#11	وَكُلُّ	H9002;{H3605}	וְ כֹ֣ל	ו;{כֹּל}	and;{all}	ve.;Khol	HC/Ncmsc	#10
+#12	بَقِيَّةِ	{H7611}	שְׁאֵרִ֣ית	{שְׁאֵרִית}	{remnant}	she.'e.Rit	HNcfsc	#11
+#13	الشَّعْبِ	H9009;{H5971A}	הָ עָ֗ם	ה;{עַם}	the;{people}	ha.;'Am	HTd/Ncmsa	#12
+#14	صَوْتَ	H9003;{H6963A}	בְּ קוֹל֙	ב;{קוֹל}	in;{voice}	be.;kOl	HR/Ncmsc	#13
+#15	الرَّبِّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#14
+#16	إِلهِهِمْ	{H0430G};H9028	אֱלֹֽהֵי הֶ֔ם	{אֱלֹהִים};Pp3m	{God};their	'e.lo.hei.;Hem	HNcmpc/Sp3mp	#15
+		H9002;{H5921A}	וְ עַל			ve.;'al-	HC/R	#16
+#17	وَكَلاَمَ	{H1697G}	דִּבְרֵי֙	{דָּבָר}	{word}	div.Rei	HNcmpc	#17
+#18	حَجَّي	{H2292A}	חַגַּ֣י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#18
+#19	النَّبِيِّ	H9009;{H5030}	הַ נָּבִ֔יא	ה;{נָבִיא}	the;{prophet}	ha.;na.Vi'	HTd/Ncmsa	#19
+#20	كَمَا	H9004;{H0834D}	כַּ אֲשֶׁ֥ר	כ;{כַּאֲשֶׁר}	like;{as which}	ka.;'a.Sher	HR/Tr	#20
+#21	أَرْسَلَهُ	{H7971G};H9033	שְׁלָח֖ וֹ	{שָׁלַח};Os3m	{depart};him	she.la.Ch;o	HVqp3ms/Sp3ms	#21
+#22	الرَّبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#22
+#23	إِلهُهُمْ.	{H0430G};H9028	אֱלֹהֵי הֶ֑ם	{אֱלֹהִים};Pp3m	{God};their	'e.lo.hei.;Hem	HNcmpc/Sp3mp	#23
+#24	وَخَافَ	H9001;{H3372H}	וַ יִּֽירְא֥וּ	ו;{יָרֵא}	&;{awesome(god)}	va;i.yi.re.'U	Hc/Vqw3mp	#24
+#25	الشَّعْبُ	H9009;{H5971A}	הָ עָ֖ם	ה;{עַם}	the;{people}	ha.;'Am	HTd/Ncmsa	#25
+#26 - #27	أَمَامَ وَجْهِ	H9006;{H6440L}	מִ פְּנֵ֥י	מ;{פָּנֶה}	from;{PERSON}	mi.;pe.Nei	HR/Ncmpc	#26
+#28	الرَّبِّ.	{H3068G}	יְהוָֽה	{יהוה}	{LORD}	Yah.weh	HNpt	#27
+<<<========
+
+Hag.1.13
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	فَقَالَ	H9001;{H0559}	וַ֠ יֹּאמֶר	ו;{אָמַר}	&;{to say}	Va;i.yo.mer	Hc/Vqw3ms	#01
+#02	حَجَّي	{H2292A}	חַגַּ֞י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#02
+#03	رَسُولُ	{H4397G}	מַלְאַ֧ךְ	{מַלְאָךְ}	{messenger}	mal.'Akh	HNcmsc	#03
+#04	الرَّبِّ	{H3068G}	יְהוָ֛ה	{יהוה}	{LORD}	Yah.weh	HNpt	#04
+#05	بِرِسَالَةِ	H9003;{H4400}	בְּ מַלְאֲכ֥וּת	ב;{מַלְאָכוּת}	in;{message}	be.;mal.'a.Khut	HR/Ncfsc	#05
+#06	الرَّبِّ	{H3068G}	יְהוָ֖ה	{יהוה}	{LORD}	Yah.weh	HNpt	#06
+#07 - #08	لِجَمِيعِ الشَّعْبِ	H9005;{H5971A}	לָ עָ֣ם	ל;{עַם}	to;{people}	la.;'Am	HRd/Ncmsa	#07
+#09	قَائِلاً:	H9005;{H0559}	לֵ אמֹ֑ר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#08
+#10	أَنَا	{H0589}	אֲנִ֥י	{אֲנִי, אָֽנֹכִ֫י}	{I}	'a.Ni	HPp1bs	#09
+#11	مَعَكُمْ،	{H0854};H9036	אִתְּ כֶ֖ם	{אֵת};Op2m	{with};you	'i.te.;Khem	HR/Sp2mp	#10
+#12	يَقُولُ	{H5002}	נְאֻם	{נְאֻם}	{utterance}	ne.'um-	HNcmsc	#11
+#13	الرَّبُّ.	{H3068G}	יְהוָֽה	{יהוה}	{LORD}	Yah.weh	HNpt	#12
+<<<========
+
+Hag.1.14
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	وَنَبَّهَ	H9001;{H5782}	וַ יָּ֣עַר	ו;{עוּר}	&;{to rouse}	va;i.Ya.'ar	Hc/Vhw3ms	#01
+#02	الرَّبُّ	{H3068G}	יְהוָ֡ה	{יהוה}	{LORD}	Yah.weh	HNpt	#02
+		{H0853}	אֶת			'et-	HTo	#03
+#03	رُوحَ	{H7307G}	רוּחַ֩	{רוּחַ}	{spirit}	ru.aCh	HNcfsc	#04
+#04	زَرُبَّابِلَ	{H2216}	זְרֻבָּבֶ֨ל	{זְרֻבָּבֶ֫ל}	{Zerubbabel}	ze.ru.ba.Vel	HNpm	#05
+#05	بْنِ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#06
+#06	شَأَلْتِيئِيلَ	{H7597B}	שַׁלְתִּיאֵ֜ל	{שַׁלְתִּיאֵל}	{Shealtiel}	shal.ti.'El	HNpm	#07
+#07	وَالِي	{H6346}	פַּחַ֣ת	{פֶּחָה}	{governor}	pa.Chat	HNcfsc	#08
+#08	يَهُوذَا،	{H3063G}	יְהוּדָ֗ה	{יְהוּדָה}	{Judah}	ye.hu.Dah	HNpl	#09
+		H9002;{H0853}	וְ אֶת			ve.;'Et	HC/To	#10
+#09	وَرُوحَ	{H7307G}	ר֙וּחַ֙	{רוּחַ}	{spirit}	Ru.ach	HNcfsc	#11
+#10	يَهُوشَعَ	{H3091J}	יְהוֹשֻׁ֤עַ	{יְהוֹשׁוּעַ}	{Joshua}	ye.ho.Shu.a'	HNpm	#12
+#11	بْنِ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#13
+#12	يَهُوصَادِقَ	{H3087}	יְהוֹצָדָק֙	{יְהוֹצָדָק}	{Jehozadak}	ye.ho.tza.Dak	HNpm	#14
+#13	الْكَاهِنِ	H9009;{H3548}	הַ כֹּהֵ֣ן	ה;{כֹּהֵן}	the;{priest}	ha.;ko.Hen	HTd/Ncmsa	#15
+#14	الْعَظِيمِ،	H9009;{H1419A}	הַ גָּד֔וֹל	ה;{גַּל}	the;{large}	ha.;ga.Dol	HTd/Aamsa	#16
+		H9002;{H0853}	וְֽ אֶת			ve.;'Et	HC/To	#17
+#15	وَرُوحَ	{H7307G}	ר֔וּחַ	{רוּחַ}	{spirit}	Ru.ach	HNcfsc	#18
+#16	كُلِّ	{H3605}	כֹּ֖ל	{כֹּל}	{all}	kol	HNcmsc	#19
+#17	بَقِيَّةِ	{H7611}	שְׁאֵרִ֣ית	{שְׁאֵרִית}	{remnant}	she.'e.Rit	HNcfsc	#20
+#18	الشَّعْبِ.	H9009;{H5971A}	הָ עָ֑ם	ה;{עַם}	the;{people}	ha.;'Am	HTd/Ncmsa	#21
+#19	فَجَاءُوا	H9001;{H0935G}	וַ יָּבֹ֙אוּ֙	ו;{בּוֹא}	&;{come}	va;i.ya.Vo.'u	Hc/Vqw3mp	#22
+#20	وَعَمِلُوا	H9001;{H6213J}	וַ יַּעֲשׂ֣וּ	ו;{עָשָׂה}	&;{[do](ACTION)}	va;i.ya.'a.Su	Hc/Vqw3mp	#23
+#21	الشُّغْلَ	{H4399}	מְלָאכָ֔ה	{מְלָאכָה}	{work}	me.la.Khah	HNcfsa	#24
+#22 - #23	فِي بَيْتِ	H9003;{H1004Q}	בְּ בֵית	ב;{בַּ֫יִת}	in;{home}	be.;veit-	HR/Ncmsc	#25
+#24	رَبِّ	{H3068G}	יְהוָ֥ה	{יהוה}	{LORD}	Yah.weh	HNpt	#26
+#25	الْجُنُودِ	{H6635B}	צְבָא֖וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#27
+#26	إِلهِهِمْ،	{H0430G};H9028	אֱלֹהֵי הֶֽם	{אֱלֹהִים};Pp3m	{God};their	'e.lo.hei.;Hem	HNcmpc/Sp3mp	#28
+<<<========
+
+Hag.1.15
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #02	فِي الْيَوْمِ	H9003;{H3117G}	בְּ י֨וֹם	ב;{יוֹם}	in;{day}	be.;Yom	HR/Ncmsc	#01
+#03	الرَّابعِ	H9002;{H0702}	וְ אַרְבָּעָ֛ה	ו;{אַרְבַּע}	and;{four}	ve.;'ar.ba.'Ah	HC/Acbsa	#03
+#04	وَالْعِشْرِينَ	{H6242}	עֶשְׂרִ֧ים	{עֶשְׂרִים}	{twenty}	'es.Rim	HAcmpa	#02
+#05 - #06	مِنَ الشَّهْرِ	H9005;{H2320G}	לַ חֹ֖דֶשׁ	ל;{חֹ֫דֶשׁ}	to;{month}	la.;Cho.desh	HRd/Ncmsa	#04
+#07	السَّادِسِ،	H9003;{H8345}	בַּ שִּׁשִּׁ֑י	ב;{שִׁשִּׁי}	in;{sixth}	ba.;shi.Shi	HRd/Aomsa	#05
+#08 - #09	فِي السَّنَةِ	H9003;{H8141}	בִּ שְׁנַ֥ת	ב;{שָׁנָה}	in;{year}	bi;sh.Nat	HR/Ncfsc	#06
+#10	الثَّانِيَةِ	{H8147}	שְׁתַּ֖יִם	{שְׁנַ֫יִם}	{two}	she.Ta.yim	HAcfda	#07
+#11	لِدَارِيُوسَ	H9005;{H1867H}	לְ דָרְיָ֥וֶשׁ	ל;{דָּֽרְיָ֫וֶשׁ}	to;{Darius}	le.;da.re.Ya.vesh	HR/Npm	#08
+#12	الْمَلِكِ.	H9009;{H4428G}	הַ מֶּֽלֶךְ	ה;{מֶ֫לֶךְ}	the;{king}	ha.;Me.lekh	HTd/Ncmsa	#09
+<<<========
+
+Hag.2.1
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #03	فِي الشَّهْرِ السَّابعِ	H9003;{H7637}	בַּ שְּׁבִיעִ֕י	ב;{שְׁבִיעִי}	in;{seventh}	ba.;she.vi.'I	HRd/Aomsa	#01
+#04 - #05	فِي الْحَادِي	H9002;{H0259}	וְ אֶחָ֖ד	ו;{אֶחָד}	and;{one}	ve.;'e.Chad	HC/Acfsa	#03
+#06	وَالْعِشْرِينَ	H9003;{H6242}	בְּ עֶשְׂרִ֥ים	ב;{עֶשְׂרִים}	in;{twenty}	be.;'es.Rim	HR/Acmpa	#02
+#07 - #08	مِنَ الشَّهْرِ،	H9005;{H2320G}	לַ חֹ֑דֶשׁ	ל;{חֹ֫דֶשׁ}	to;{month}	la.;Cho.desh	HRd/Ncmsa	#04
+#09	كَانَتْ	{H1961}	הָיָה֙	{הָיָה}	{to be}	ha.Yah	HVqp3ms	#05
+#10	كَلِمَةُ	{H1697G}	דְּבַר	{דָּבָר}	{word}	de.var-	HNcmsc	#06
+#11	الرَّبِّ	{H3068G}	יְהוָ֔ה	{יהוה}	{LORD}	Yah.weh	HNpt	#07
+#12 - #13	عَنْ يَدِ	H9003;{H3027K}	בְּ יַד	ב;{יָד}	in;{to}	be.;yad-	HR/Ncbsc	#08
+#14	حَجَّي	{H2292A}	חַגַּ֥י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#09
+#15	النَّبِيِّ	H9009;{H5030}	הַ נָּבִ֖יא	ה;{נָבִיא}	the;{prophet}	ha.;na.Vi'	HTd/Ncmsa	#10
+#16	قَائِلاً:	H9005;{H0559}	לֵ אמֹֽר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#11
+<<<========
+
+Hag.2.2
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	كَلِّمْ	{H0559}; {H4994}	אֱמָר; נָ֗א	{אָמַר}; {נָא}	{to say}; {please}	'e.mor-; Na'	HVqv2ms; HTj	#01; #02
+		{H0413}	אֶל			'el-	HR	#03
+#02	زَرُبَّابِلَ	{H2216}	זְרֻבָּבֶ֤ל	{זְרֻבָּבֶ֫ל}	{Zerubbabel}	ze.ru.ba.Vel	HNpm	#04
+#03	بْنَ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#05
+#04	شَأَلْتِيئِيلَ	{H7597B}	שַׁלְתִּיאֵל֙	{שַׁלְתִּיאֵל}	{Shealtiel}	shal.ti.'El	HNpm	#06
+#05	وَالِي	{H6346}	פַּחַ֣ת	{פֶּחָה}	{governor}	pa.Chat	HNcfsc	#07
+#06	يَهُوذَا،	{H3063G}	יְהוּדָ֔ה	{יְהוּדָה}	{Judah}	ye.hu.Dah	HNpl	#08
+		H9002;{H0413}	וְ אֶל			ve.;'el-	HC/R	#09
+#07	وَيَهُوشَعَ	{H3091J}	יְהוֹשֻׁ֥עַ	{יְהוֹשׁוּעַ}	{Joshua}	ye.ho.Shu.a'	HNpm	#10
+#08	بْنِ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#11
+#09	يَهُوصَادِقَ	{H3087}	יְהוֹצָדָ֖ק	{יְהוֹצָדָק}	{Jehozadak}	ye.ho.tza.Dak	HNpm	#12
+#10	الْكَاهِنِ	H9009;{H3548}	הַ כֹּהֵ֣ן	ה;{כֹּהֵן}	the;{priest}	ha.;ko.Hen	HTd/Ncmsa	#13
+#11	الْعَظِيمِ	H9009;{H1419A}	הַ גָּד֑וֹל	ה;{גַּל}	the;{large}	ha.;ga.Dol	HTd/Aamsa	#14
+		H9002;{H0413}	וְ אֶל			ve.;'el-	HC/R	#15
+#12	وَبَقِيَّةِ	{H7611}	שְׁאֵרִ֥ית	{שְׁאֵרִית}	{remnant}	she.'e.Rit	HNcfsc	#16
+#13	الشَّعْبِ	H9009;{H5971A}	הָ עָ֖ם	ה;{עַם}	the;{people}	ha.;'Am	HTd/Ncmsa	#17
+#14	قَائِلاً:	H9005;{H0559}	לֵ אמֹֽר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#18
+<<<========
+
+Hag.2.3
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	مَنِ	{H4310}	מִ֤י	{מִי}	{who?}	mi	HPi	#01
+#02	الْبَاقِي	H9009;{H7604}	הַ נִּשְׁאָ֔ר	ה;{שָׁאַר}	the;{to remain}	ha.;nish.'Ar	HTd/VNrmsa	#03
+#03	فِيكُمُ	H9003;{H9036}	בָ כֶם֙	ב;{Op2m}	in;{you}	va.;Khem	HR/Sp2mp	#02
+#04	الَّذِي	{H0834A}	אֲשֶׁ֤ר	{אֲשֶׁר}	{which}	'a.Sher	HTr	#04
+#05	رَأَى	{H7200G}	רָאָה֙	{רָאָה}	{see}	ra.'Ah	HVqp3ms	#05
+		{H0853}	אֶת			'et-	HTo	#06
+#06	هذَا	H9009;{H2088}	הַ זֶּ֔ה	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#08
+#07	الْبَيْتَ	H9009;{H1004B}	הַ בַּ֣יִת	ה;{בַּ֫יִת}	the;{home}	ha.;Ba.yit	HTd/Ncmsa	#07
+#08 - #09	فِي مَجْدِهِ	H9003;{H3519};H9023	בִּ כְבוֹד֖ וֹ	ב;{כָּבוֹד};Ps3m	in;{glory};his	bi;kh.vo.D;o	HR/Ncmsc/Sp3ms	#09
+#10	الأَوَّلِ.	H9009;{H7223H}	הָ רִאשׁ֑וֹן	ה;{רִאשׁוֹן}	the;{previous}	ha.;ri.Shon	HTd/Aomsa	#10
+#11	وَكَيْفَ	H9002;{H4100}	וּ מָ֨ה	ו;{מָה}	and;{what?}	u.;Mah	HC/Pi	#11
+#12	تَنْظُرُونَهُ	{H0859D}; {H7200G}; {H0853};H9033	אַתֶּ֜ם; רֹאִ֤ים; אֹת וֹ֙	{אַתֶּם}; {רָאָה}; {אֵת};Os3m	{you(m.p.)}; {see}; {[Obj.]};him	'a.Tem; ro.'Im; 'o.T;o	HPp2mp; HVqrmpa; HTo/Sp3ms	#12; #13; #14
+#13	الآنَ.	{H6258}	עַ֔תָּה	{עַתָּ֫ה}	{now}	'A.tah	HD	#15
+#14 - #15	أَمَا هُوَ	H9008;{H3808}	הֲ ל֥וֹא	ה;{לֹא}	¿;{not}	ha.;Lo'	HTi/Tn	#16
+#16 - #17	فِي أَعْيُنِكُمْ	H9003;{H5869A};H9026	בְּ עֵינֵי כֶֽם	ב;{עַ֫יִן};Pp2m	in;{eye};your	be.;'ei.nei.;Khem	HR/Ncfdc/Sp2mp	#19
+#18	كَلاَ	{H3644G};H9033	כָמֹ֛ הוּ	{כְּמוֹ};Os3m	{like};him	kha.Mo.;hu	HR/Sp3ms	#17
+#19	شَيْءٍ.	H9004;{H0369}	כְּ אַ֖יִן	כ;{אַ֫יִן}	like;{nothing}	ke.;'A.yin	HR/Ncmsa	#18
+<<<========
+
+Hag.2.4
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	فَالآنَ	H9002;{H6258}	וְ עַתָּ֣ה	ו;{עַתָּ֫ה}	and;{now}	ve.;'a.Tah	HC/D	#01
+#02	تَشَدَّدْ	{H2388G}	חֲזַ֣ק	{חָזַק}	{strengthen}	cha.Zak	HVqv2ms	#02
+#03 - #04	يَا زَرُبَّابِلُ،	{H2216}	זְרֻבָּבֶ֣ל	{זְרֻבָּבֶ֫ל}	{Zerubbabel}	ze.ru.ba.Vel	HNpm	#03
+#05	يَقُولُ	{H5002}	נְאֻם	{נְאֻם}	{utterance}	ne.'um-	HNcmsc	#04
+#06	الرَّبُّ.	{H3068G}	יְהוָ֡ה	{יהוה}	{LORD}	Yah.weh	HNpt	#05
+#07	وَتَشَدَّدْ	H9002;{H2388G}	וַ חֲזַ֣ק	ו;{חָזַק}	and;{strengthen}	va.;cha.Zak	HC/Vqv2ms	#06
+#08 - #09	يَا يَهُوشَعُ	{H3091J}	יְהוֹשֻׁ֣עַ	{יְהוֹשׁוּעַ}	{Joshua}	ye.ho.Shu.a'	HNpm	#07
+#10	بْنُ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#08
+#11	يَهُوصَادِقَ	{H3087}	יְהוֹצָדָק֩	{יְהוֹצָדָק}	{Jehozadak}	ye.ho.tza.Dak	HNpm	#09
+#12	الْكَاهِنُ	H9009;{H3548}	הַ כֹּהֵ֨ן	ה;{כֹּהֵן}	the;{priest}	ha.;ko.Hen	HTd/Ncmsa	#10
+#13	الْعَظِيمُ،	H9009;{H1419A}	הַ גָּד֜וֹל	ה;{גַּל}	the;{large}	ha.;ga.Dol	HTd/Aamsa	#11
+#14	وَتَشَدَّدُوا	H9002;{H2388G}	וַ חֲזַ֨ק	ו;{חָזַק}	and;{strengthen}	va.;cha.Zak	HC/Vqv2ms	#12
+#15 - #16	يَا جَمِيعَ	{H3605}	כָּל	{כֹּל}	{all}	kol-	HNcmsc	#13
+#17	شَعْبِ	{H5971A}	עַ֥ם	{עַם}	{people}	'am	HNcmsc	#14
+#18	الأَرْضِ،	H9009;{H0776G}	הָ אָ֛רֶץ	ה;{אֶ֫רֶץ}	the;{country,_planet}	ha.;'A.retz	HTd/Ncfsa	#15
+#19	يَقُولُ	{H5002}	נְאֻם	{נְאֻם}	{utterance}	ne.'um-	HNcmsc	#16
+#20	الرَّبُّ.	{H3068G}	יְהוָ֖ה	{יהוה}	{LORD}	Yah.weh	HNpt	#17
+#21	وَاعْمَلُوا	H9002;{H6213A}	וַֽ עֲשׂ֑וּ	ו;{עָשָׂה}	and;{do}	va.;'a.Su	HC/Vqv2mp	#18
+#22	فَإِنِّي	{H3588A}; {H0589}	כִּֽי; אֲנִ֣י	{כִּי}; {אֲנִי, אָֽנֹכִ֫י}	{for}; {I}	ki-; 'a.Ni	HTc; HPp1bs	#19; #20
+#23	مَعَكُمْ،	{H0854};H9036	אִתְּ כֶ֔ם	{אֵת};Op2m	{with};you	'i.te.;Khem	HR/Sp2mp	#21
+#24	يَقُولُ	{H5002}	נְאֻ֖ם	{נְאֻם}	{utterance}	ne.'Um	HNcmsc	#22
+#25	رَبُّ	{H3068G}	יְהוָ֥ה	{יהוה}	{LORD}	Yah.weh	HNpt	#23
+#26	الْجُنُودِ.	{H6635B}	צְבָאֽוֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#24
+<<<========
+
+Hag.2.5
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+		{H0853}	אֶֽת			'et-	HTo	#01
+#01 - #02	حَسَبَ الْكَلاَمِ	H9009;{H1697G}	הַ דָּבָ֞ר	ה;{דָּבָר}	the;{word}	ha.;da.Var	HTd/Ncmsa	#02
+#03	الَّذِي	{H0834A}	אֲשֶׁר	{אֲשֶׁר}	{which}	'a.Sher-	HTr	#03
+#04	عَاهَدْتُكُمْ	{H3772H}	כָּרַ֤תִּי	{כָּרַת}	{make(covenant)}	ka.Ra.ti	HVqp1cs	#04
+#05	بِهِ	{H0854};H9036	אִתְּ כֶם֙	{אֵת};Op2m	{with};you	'i.te.;Khem	HR/Sp2mp	#05
+#06 - #07	عِنْدَ خُرُوجِكُمْ	H9003;{H3318G};H9046	בְּ צֵאתְ כֶ֣ם	ב;{יָצָא};Sp2m	in;{come};you	be.;tze.te.;Khem	HR/Vqcc/Sp2mp	#06
+#08 - #09	مِنْ مِصْرَ،	H9006;{H4714G}	מִ מִּצְרַ֔יִם	מ;{מִצְרַ֫יִם}	from;{Egypt}	mi.;mitz.Ra.yim	HR/Npl	#07
+#10	وَرُوحِي	H9002;{H7307G};H9020	וְ רוּחִ֖ י	ו;{רוּחַ};Ps1c	and;{spirit};my	ve.;ru.Ch;i	HC/Ncbsc/Sp1fs	#08
+#11	قَائِمٌ	{H5975G}	עֹמֶ֣דֶת	{עָמַד}	{stand}	'o.Me.det	HVqrfsa	#09
+#12 - #13	فِي وَسَطِكُمْ.	H9003;{H8432};H9026	בְּ תוֹכְ כֶ֑ם	ב;{תָּ֫וֶךְ};Pp2m	in;{midst};your	be.;tokh.;Khem	HR/Ncmsc/Sp2mp	#10
+#14	لاَ	{H0408}	אַל	{אַל}	{not}	'al-	HTn	#11
+#15	تَخَافُوا.	{H3372G}	תִּירָֽאוּ	{יָרֵא}	{frightening(DANGER)}	ti.Ra.'u	HVqj2mp	#12
+<<<========
+
+Hag.2.6
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	لأَنَّهُ	{H3588A}	כִּ֣י	{כִּי}	{for}	ki	HTc	#01
+#02	هكَذَا	{H3541}	כֹ֤ה	{כֹּה}	{thus}	khoh	HD	#02
+#03	قَالَ	{H0559}	אָמַר֙	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#03
+#04	رَبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#04
+#05	الْجُنُودِ:	{H6635B}	צְבָא֔וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#05
+#06	هِيَ	{H1931}	הִ֑יא	{הוּא}	{he,_she,_it}	Hi'	HPp3fs	#09
+#07	مَرَّةٌ،	{H0259}	אַחַ֖ת	{אֶחָד}	{one}	'a.Chat	HAcfsc	#07
+#08	بَعْدَ	{H5750}	ע֥וֹד	{עוֹד}	{still}	od	HAcmsa	#06
+#09	قَلِيلٍ،	{H4592}	מְעַ֣ט	{מְעַט}	{little}	me.'At	HNcmsa	#08
+#10	فَأُزَلْزِلُ	H9002;{H0589}; {H7493}	וַ אֲנִ֗י; מַרְעִישׁ֙	ו;{אֲנִי, אָֽנֹכִ֫י}; {רָעַשׁ}	and;{I}; {to shake}	va.;'a.Ni; mar.'Ish	HC/Pp1bs; HVhrmsa	#10; #11
+		{H0853}	אֶת			'et-	HTo	#12
+#11	السَّمَاوَاتِ	H9009;{H8064}	הַ שָּׁמַ֣יִם	ה;{שָׁמַיִם}	the;{heaven}	ha.;sha.Ma.yim	HTd/Ncmpa	#13
+		H9002;{H0853}	וְ אֶת			ve.;'Et	HC/To	#14
+#12	وَالأَرْضَ	H9009;{H0776G}	הָ אָ֔רֶץ	ה;{אֶ֫רֶץ}	the;{country,_planet}	ha.;'A.retz	HTd/Ncfsa	#15
+		H9002;{H0853}	וְ אֶת			ve.;'Et	HC/To	#16
+#13	وَالْبَحْرَ	H9009;{H3220G}	הַ יָּ֖ם	ה;{יָם}	the;{sea}	hai.;Yam	HTd/Ncmsa	#17
+		H9002;{H0853}	וְ אֶת			ve.;'Et	HC/To	#18
+#14	وَالْيَابِسَةَ،	H9009;{H2724}	הֶ חָרָבָֽה	ה;{חָֽרָבָה}	the;{dry ground}	he.;cha.ra.Vah	HTd/Ncfsa	#19
+<<<========
+
+Hag.2.7
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	وَأُزَلْزِلُ	H9001;{H7493}	וְ הִרְעַשְׁתִּי֙	ו;{רָעַשׁ}	&;{to shake}	ve.;hir.'ash.Ti	Hc/Vhq1cs	#01
+		{H0853}	אֶת			'et-	HTo	#02
+#02	كُلَّ	{H3605}	כָּל	{כֹּל}	{all}	kol-	HNcmsc	#03
+#03	الأُمَمِ.	H9009;{H1471A}	הַ גּוֹיִ֔ם	ה;{גּוֹי}	the;{nation}	ha.;go.Yim	HTd/Ncmpa	#04
+#04	وَيَأْتِي	H9001;{H0935G}	וּ בָ֖אוּ	ו;{בּוֹא}	&;{come}	u.;Va.'u	Hc/Vqq3cp	#05
+#05	مُشْتَهَى	{H2532A}	חֶמְדַּ֣ת	{חֶמְדָּה}	{desire}	chem.Dat	HNcfsc	#06
+#06	كُلِّ	{H3605}	כָּל	{כֹּל}	{all}	kol-	HNcmsc	#07
+#07	الأُمَمِ،	H9009;{H1471A}	הַ גּוֹיִ֑ם	ה;{גּוֹי}	the;{nation}	ha.;go.Yim	HTd/Ncmpa	#08
+#08	فَأَمْلأُ	H9001;{H4390}	וּ מִלֵּאתִ֞י	ו;{מָלֵא}	&;{to fill}	u.;mi.le.Ti	Hc/Vpq1cs	#09
+		{H0853}	אֶת			'et-	HTo	#10
+#09	هذَا	H9009;{H2088}	הַ זֶּה֙	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#12
+#10	الْبَيْتَ	H9009;{H1004B}	הַ בַּ֤יִת	ה;{בַּ֫יִת}	the;{home}	ha.;Ba.yit	HTd/Ncmsa	#11
+#11	مَجْدًا،	{H3519}	כָּב֔וֹד	{כָּבוֹד}	{glory}	ka.Vod	HNcmsa	#13
+#12	قَالَ	{H0559}	אָמַ֖ר	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#14
+#13	رَبُّ	{H3068G}	יְהוָ֥ה	{יהוה}	{LORD}	Yah.weh	HNpt	#15
+#14	الْجُنُودِ.	{H6635B}	צְבָאֽוֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#16
+<<<========
+
+Hag.2.8
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	لِي	H9005;{H9030}	לִ֥ י	ל;{Os1c}	to;{me}	l;i	HR/Sp1bs	#01
+#02	الْفِضَّةُ	H9009;{H3701G}	הַ כֶּ֖סֶף	ה;{כֶּ֫סֶף}	the;{money}	ha.;Ke.sef	HTd/Ncmsa	#02
+#03	وَلِي	H9002;H9005;{H9030}	וְ לִ֣ י	ו;ל;{Os1c}	and;to;{me}	ve.;L;i	HC/R/Sp1bs	#03
+#04	الذَّهَبُ،	H9009;{H2091}	הַ זָּהָ֑ב	ה;{זָהָב}	the;{gold}	ha.;za.Hav	HTd/Ncmsa	#04
+#05	يَقُولُ	{H5002}	נְאֻ֖ם	{נְאֻם}	{utterance}	ne.'Um	HNcmsc	#05
+#06	رَبُّ	{H3068G}	יְהוָ֥ה	{יהוה}	{LORD}	Yah.weh	HNpt	#06
+#07	الْجُنُودِ.	{H6635B}	צְבָאֽוֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#07
+<<<========
+
+Hag.2.9
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	مَجْدُ	{H3519}	כְּבוֹד֩	{כָּבוֹד}	{glory}	ke.Vod	HNcmsc	#03
+#02	هذَا	H9009;{H2088}	הַ זֶּ֤ה	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#05
+#03	الْبَيْتِ	H9009;{H1004B}	הַ בַּ֨יִת	ה;{בַּ֫יִת}	the;{home}	ha.;Ba.yit	HTd/Ncmsa	#04
+#04	الأَخِيرِ	H9009;{H0314}	הָ אַֽחֲרוֹן֙	ה;{אַחֲרוֹן}	the;{last}	ha.;'a.cha.rOn	HTd/Aamsa	#06
+#05	يَكُونُ	{H1961}	יִֽהְיֶ֡ה	{הָיָה}	{to be}	yih.Yeh	HVqi3ms	#02
+#06	أَعْظَمَ	{H1419A}	גָּד֣וֹל	{גַּל}	{large}	ga.Dol	HAamsa	#01
+#07	مِنْ	{H4480A}	מִן	{מִן־}	{from}	min-	HR	#07
+#08	مَجْدِ						
+#09	الأَوَّلِ،	H9009;{H7223H}	הָ֣ רִאשׁ֔וֹן	ה;{רִאשׁוֹן}	the;{previous}	ha.;ri.Shon	HTd/Aomsa	#08
+#10	قَالَ	{H0559}	אָמַ֖ר	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#09
+#11	رَبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#10
+#12	الْجُنُودِ.	{H6635B}	צְבָא֑וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#11
+#13 - #14	وَفِي هذَا	H9009;{H2088}	הַ זֶּה֙	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#13
+#15	الْمَكَانِ	H9002;H9003;{H4725}	וּ בַ מָּק֤וֹם	ו;ב;{מָקוֹם}	and;in;{standing place}	u.;va.;ma.Kom	HC/Rd/Ncmsa	#12
+#16	أُعْطِي	{H5414G}	אֶתֵּ֣ן	{נָתַן}	{give}	'e.Ten	HVqi1cs	#14
+#17	السَّلاَمَ،	{H7965G}	שָׁל֔וֹם	{שָׁלוֹם}	{peace}	sha.Lom	HNcmsa	#15
+#18	يَقُولُ	{H5002}	נְאֻ֖ם	{נְאֻם}	{utterance}	ne.'Um	HNcmsc	#16
+#19	رَبُّ	{H3068G}	יְהוָ֥ה	{יהוה}	{LORD}	Yah.weh	HNpt	#17
+#20	الْجُنُودِ.	{H6635B}	צְבָאֽוֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#18
+<<<========
+
+Hag.2.10
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #02	فِي الرَّابعِ	H9002;{H0702}	וְ אַרְבָּעָה֙	ו;{אַרְבַּע}	and;{four}	ve.;'ar.ba.'Ah	HC/Acbsa	#02
+#03	وَالْعِشْرِينَ	H9003;{H6242}	בְּ עֶשְׂרִ֤ים	ב;{עֶשְׂרִים}	in;{twenty}	be.;'es.Rim	HR/Acmpa	#01
+#04 - #06	مِنَ الشَّهْرِ التَّاسِعِ،	H9005;{H8671}	לַ תְּשִׁיעִ֔י	ל;{תְּשִׁיעִי}	to;{ninth}	la.;te.shi.'I	HRd/Aomsa	#03
+#07 - #08	فِي السَّنَةِ	H9003;{H8141}	בִּ שְׁנַ֥ת	ב;{שָׁנָה}	in;{year}	bi;sh.Nat	HR/Ncfsc	#04
+#09	الثَّانِيَةِ	{H8147}	שְׁתַּ֖יִם	{שְׁנַ֫יִם}	{two}	she.Ta.yim	HAcfda	#05
+#10	لِدَارِيُوسَ،	H9005;{H1867H}	לְ דָרְיָ֑וֶשׁ	ל;{דָּֽרְיָ֫וֶשׁ}	to;{Darius}	le.;da.re.Ya.vesh	HR/Npm	#06
+#11	كَانَتْ	{H1961}	הָיָה֙	{הָיָה}	{to be}	ha.Yah	HVqp3ms	#07
+#12	كَلِمَةُ	{H1697G}	דְּבַר	{דָּבָר}	{word}	de.var-	HNcmsc	#08
+#13	الرَّبِّ	{H3068G}	יְהוָ֔ה	{יהוה}	{LORD}	Yah.weh	HNpt	#09
+#14 - #15	عَنْ يَدِ	{H0413}	אֶל	{אֶל}	{to(wards)}	'el-	HR	#10
+#16	حَجَّي	{H2292A}	חַגַּ֥י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#11
+#17	النَّبِيِّ	H9009;{H5030}	הַ נָּבִ֖יא	ה;{נָבִיא}	the;{prophet}	ha.;na.Vi'	HTd/Ncmsa	#12
+#18	قَائِلاً:	H9005;{H0559}	לֵ אמֹֽר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#13
+<<<========
+
+Hag.2.11
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	هكَذَا	{H3541}	כֹּ֥ה	{כֹּה}	{thus}	koh	HD	#01
+#02	قَالَ	{H0559}	אָמַ֖ר	{אָמַר}	{to say}	'a.Mar	HVqp3ms	#02
+#03	رَبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#03
+#04	الْجُنُودِ:	{H6635B}	צְבָא֑וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#04
+#05	اِسْأَلِ	{H7592}; {H4994}	שְׁאַל; נָ֧א	{שָׁאַל}; {נָא}	{to ask}; {please}	she.'al-; na'	HVqv2ms; HTj	#05; #06
+		{H0853}	אֶת			'et-	HTo	#07
+#06	الْكَهَنَةَ	H9009;{H3548}	הַ כֹּהֲנִ֛ים	ה;{כֹּהֵן}	the;{priest}	ha.;ko.ha.Nim	HTd/Ncmpa	#08
+#07 - #08	عَنِ الشَّرِيعَةِ	{H8451}	תּוֹרָ֖ה	{תּוֹרָה}	{instruction}	to.Rah	HNcfsa	#09
+#09	قَائِلاً:	H9005;{H0559}	לֵ אמֹֽר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#10
+<<<========
+
+Hag.2.12
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	إِنْ	{H2005}	הֵ֣ן	{הֵן}	{look.}	hen	HTj	#01
+#02	حَمَلَ	{H5375H}	יִשָּׂא	{נָשָׂא}	{bear}	yi.sa'-	HVqi3ms	#02
+#03	إِنْسَانٌ	{H0376I}	אִ֨ישׁ	{אִישׁ}	{anyone}	'ish	HNcmsa	#03
+#04	لَحْمًا	{H1320}	בְּשַׂר	{בָּשָׂר}	{flesh}	be.sar-	HNcmsc	#04
+#05	مُقَدَّسًا	{H6944G}	קֹ֜דֶשׁ	{קֹ֫דֶשׁ}	{holiness}	Ko.desh	HNcmsa	#05
+#06 - #07	فِي طَرَفِ	H9003;{H3671}	בִּ כְנַ֣ף	ב;{כָּנָף}	in;{wing}	bi;kh.Naf	HR/Ncfsc	#06
+#08	ثَوْبِهِ	{H0899B};H9023	בִּגְד֗ וֹ	{בֶּ֫גֶד};Ps3m	{garment};his	big.D;o	HNcmsc/Sp3ms	#07
+#09	وَمَسَّ	H9001;{H5060}	וְ נָגַ֣ע	ו;{נָגַע}	&;{to touch}	ve.;na.Ga'	Hc/Vqq3ms	#08
+#10	بِطَرَفِهِ	H9003;{H3671};H9023	בִּ֠ כְנָפ וֹ	ב;{כָּנָף};Ps3m	in;{wing};his	bi;kh.na.f;o	HR/Ncfsc/Sp3ms	#09
+#11	خُبْزًا	{H0413}; H9009;{H3899H}	אֶל; הַ לֶּ֨חֶם	{אֶל}; ה;{לֶ֫חֶם}	{to(wards)}; the;{bread}	'el-; ha.;Le.chem	HR; HTd/Ncmsa	#10; #11
+#12	أَوْ	H9002;{H0413}	וְ אֶל	ו;{אֶל}	and;{to(wards)}	ve.;'el-	HC/R	#12
+#13	طَبِيخًا	H9009;{H5138}	הַ נָּזִ֜יד	ה;{נָזִיד}	the;{stew}	ha.;na.Zid	HTd/Ncmsa	#13
+#14	أَوْ	H9002;{H0413}	וְ אֶל	ו;{אֶל}	and;{to(wards)}	ve.;'el-	HC/R	#14
+#15	خَمْرًا	H9009;{H3196}	הַ יַּ֧יִן	ה;{יַ֫יִן}	the;{wine}	hai.;Ya.yin	HTd/Ncmsa	#15
+#16	أَوْ	H9002;{H0413}	וְ אֶל	ו;{אֶל}	and;{to(wards)}	ve.;'el-	HC/R	#16
+#17	زَيْتًا	{H8081}	שֶׁ֛מֶן	{שֶׁ֫מֶן}	{oil}	She.men	HNcmsa	#17
+#18	أَوْ	H9002;{H0413}	וְ אֶל	ו;{אֶל}	and;{to(wards)}	ve.;'el-	HC/R	#18
+#19 - #20	طَعَامًا مَّا،	{H3605}; {H3978}	כָּל; מַאֲכָ֖ל	{כֹּל}; {מַאֲכָל}	{all}; {food}	kol-; ma.'a.Khal	HNcmsc; HNcmsa	#19; #20
+#21 - #22	فَهَلْ يَتَقَدَّسُ.	H9008;{H6942G}	הֲ יִקְדָּ֑שׁ	ה;{קָדַשׁ}	¿;{consecate}	ha.;yik.Dash	HTi/Vqi3ms	#21
+#23	فَأَجَابَ	H9001;{H6030B}	וַ יַּעֲנ֧וּ	ו;{עָנָה}	&;{to answer}	va;i.ya.'a.Nu	Hc/Vqw3mp	#22
+#24	الْكَهَنَةُ	H9009;{H3548}	הַ כֹּהֲנִ֛ים	ה;{כֹּהֵן}	the;{priest}	ha.;ko.ha.Nim	HTd/Ncmpa	#23
+#25	وَقَالُوا:	H9001;{H0559}	וַ יֹּאמְר֖וּ	ו;{אָמַר}	&;{to say}	va;i.yo.me.Ru	Hc/Vqw3mp	#24
+#26	لاَ.	{H3808}	לֹֽא	{לֹא}	{not}	Lo'	HTn	#25
+<<<========
+
+Hag.2.13
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	فَقَالَ	H9001;{H0559}	וַ יֹּ֣אמֶר	ו;{אָמַר}	&;{to say}	va;i.Yo.mer	Hc/Vqw3ms	#01
+#02	حَجَّي:	{H2292A}	חַגַּ֔י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#02
+#03 - #04	إِنْ كَانَ	{H0518A}	אִם	{אִם}	{if}	'im-	HTc	#03
+#05	الْمُنَجَّسُ	{H2931}	טְמֵא	{טָמֵא}	{unclean}	te.me'-	HAamsc	#05
+#06	بِمَيْتٍ	{H5315M}	נֶ֛פֶשׁ	{נֶ֫פֶשׁ}	{dead}	Ne.fesh	HNcfsa	#06
+#07	يَمَسُّ	{H5060}	יִגַּ֧ע	{נָגַע}	{to touch}	yi.Ga'	HVqi3ms	#04
+#08 - #09	شَيْئًا مِنْ	H9003;{H3605}	בְּ כָל	ב;{כֹּל}	in;{all}	be.;khol	HR/Ncmsc	#07
+#10	هذِهِ،	{H0428}	אֵ֖לֶּה	{אֵ֫לֶּה}	{these}	'E.leh	HTm	#08
+#11 - #12	فَهَلْ يَتَنَجَّسُ.	H9008;{H2930A}	הֲ יִטְמָ֑א	ה;{טָמֵא}	¿;{to defile}	ha.;yit.Ma'	HTi/Vqi3ms	#09
+#13	فَأَجَابَ	H9001;{H6030B}	וַ יַּעֲנ֧וּ	ו;{עָנָה}	&;{to answer}	va;i.ya.'a.Nu	Hc/Vqw3mp	#10
+#14	الْكَهَنَةُ	H9009;{H3548}	הַ כֹּהֲנִ֛ים	ה;{כֹּהֵן}	the;{priest}	ha.;ko.ha.Nim	HTd/Ncmpa	#11
+#15	وَقَالُوا:	H9001;{H0559}	וַ יֹּאמְר֖וּ	ו;{אָמַר}	&;{to say}	va;i.yo.me.Ru	Hc/Vqw3mp	#12
+#16	يَتَنَجَّسُ.	{H2930A}	יִטְמָֽא	{טָמֵא}	{to defile}	yit.Ma'	HVqi3ms	#13
+<<<========
+
+Hag.2.14
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	فَأَجَابَ	H9001;{H6030B}	וַ יַּ֨עַן	ו;{עָנָה}	&;{to answer}	va;i.Ya.'an	Hc/Vqw3ms	#01
+#02	حَجَّي	{H2292A}	חַגַּ֜י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#02
+#03	وَقَالَ:	H9001;{H0559}	וַ יֹּ֗אמֶר	ו;{אָמַר}	&;{to say}	va;i.Yo.mer	Hc/Vqw3ms	#03
+#04	هكَذَا	{H3651C}	כֵּ֣ן	{כֵּן}	{so}	ken	HD	#04
+#05	هذَا	H9009;{H2088}	הַ֠ זֶּה	ה;{זֶה}	the;{this}	Ha.;zeh	HTd/Tm	#06
+#06	الشَّعْبُ،	H9009;{H5971A}	הָֽ עָם	ה;{עַם}	the;{people}	ha.;'om-	HTd/Ncmsa	#05
+#07	وَهكَذَا	H9002;{H3651C}	וְ כֵן	ו;{כֵּן}	and;{so}	ve.;khen-	HC/D	#07
+#08	هذِهِ	H9009;{H2088}	הַ זֶּ֤ה	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#09
+#09	الأُمَّةُ	H9009;{H1471A}	הַ גּ֨וֹי	ה;{גּוֹי}	the;{nation}	ha.;Goy	HTd/Ncmsa	#08
+#10	قُدَّامِي،	H9005;{H6440G};H9020	לְ פָנַ י֙	ל;{פָּנֶה};Ps1c	to;{before};my	le.;fa.Na;i	HR/Ncmpc/Sp1bs	#10
+#11	يَقُولُ	{H5002}	נְאֻם	{נְאֻם}	{utterance}	ne.'um-	HNcmsc	#11
+#12	الرَّبُّ،	{H3068G}	יְהוָ֔ה	{יהוה}	{LORD}	Yah.weh	HNpt	#12
+#13	وَهكَذَا	H9002;{H3651C}	וְ כֵ֖ן	ו;{כֵּן}	and;{so}	ve.;Khen	HC/D	#13
+#14	كُلُّ	{H3605}	כָּל	{כֹּל}	{all}	kol-	HNcmsc	#14
+#15	عَمَلِ	{H4639G}	מַעֲשֵׂ֣ה	{מַעֲשֶׂה}	{work}	ma.'a.Seh	HNcmsc	#15
+#16	أَيْدِيهِمْ	{H3027G};H9028	יְדֵי הֶ֑ם	{יָד};Pp3m	{hand};their	ye.dei.;Hem	HNcbdc/Sp3mp	#16
+#17	وَمَا	H9002;{H0834A}	וַ אֲשֶׁ֥ר	ו;{אֲשֶׁר}	and;{which}	va.;'a.Sher	HC/Tr	#17
+#18	يُقَرِّبُونَهُ	{H7126H}	יַקְרִ֛יבוּ	{קָרַב}	{bring}	yak.Ri.vu	HVhi3mp	#18
+#19	هُنَاكَ.	{H8033G}	שָׁ֖ם	{שָׁם}	{there}	sham	HD	#19
+#20 - #21	هُوَ نَجِسٌ.	{H1931}; {H2931}	הֽוּא; טָמֵ֥א	{הוּא}; {טָמֵא}	{he,_she,_it}; {unclean}	Hu'; ta.Me'	HPp3ms; HAamsa	#21; #20
+<<<========
+
+Hag.2.15
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	وَالآنَ	H9002;{H6258}	וְ עַתָּה֙	ו;{עַתָּ֫ה}	and;{now}	ve.;'a.Tah	HC/D	#01
+#02	فَاجْعَلُوا	{H7760K}; {H4994}	שִֽׂימוּ; נָ֣א	{שׂוּם}; {נָא}	{consider}; {please}	si.mu-; na'	HVqv2mp; HTj	#02; #03
+#03	قَلْبَكُمْ	{H3824};H9026	לְבַבְ כֶ֔ם	{לֵבָב};Pp2m	{heart};your	le.vav.;Khem	HNcmsc/Sp2mp	#04
+#04	مِنْ	{H4480A}	מִן	{מִן־}	{from}	min-	HR	#05
+#05	هذَا	H9009;{H2088}	הַ זֶּ֖ה	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#07
+#06	الْيَوْمِ	H9009;{H3117G}	הַ יּ֥וֹם	ה;{יוֹם}	the;{day}	hai.;Yom	HTd/Ncmsa	#06
+#07	فَرَاجِعًا،	H9002;{H4605};H9011	וָ מָ֑עְלָ ה	ו;{מַ֫עַל};ה	and;{above};to	va.;Ma.'e.la;h	HC/Acbsa/Sd	#08
+#08	قَبْلَ	H9006;{H2962}	מִ טֶּ֧רֶם	מ;{טֶ֫רֶם}	from;{before}	mi.;Te.rem	HR/Acbsa	#09
+#09	وَضْعِ	{H7760H}	שֽׂוּם	{שׂוּם}	{put}	sum-	HVqcc	#10
+#10	حَجَرٍ	{H0068G}	אֶ֛בֶן	{אֶ֫בֶן}	{stone}	'E.ven	HNcfsa	#11
+#11	عَلَى	{H0413}	אֶל	{אֶל}	{to(wards)}	'el-	HR	#12
+#12	حَجَرٍ	{H0068G}	אֶ֖בֶן	{אֶ֫בֶן}	{stone}	'E.ven	HNcfsa	#13
+#13 - #14	فِي هَيْكَلِ	H9003;{H1964G}	בְּ הֵיכַ֥ל	ב;{הֵיכָל}	in;{temple}	be.;hei.Khal	HR/Ncmsc	#14
+#15	الرَّبِّ.	{H3068G}	יְהוָֽה	{יהוה}	{LORD}	Yah.weh	HNpt	#15
+<<<========
+
+Hag.2.16
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #02	مُذْ تِلْكَ						
+#03	الأَيَّامِ						
+#04 - #05	كَانَ أَحَدُكُمْ	H9006;{H1961};H9048	מִֽ הְיוֹתָ֥ ם	מ;{הָיָה};Sp3m	from;{to be};they	mi;h.yo.Ta;m	HR/Vqcc/Sp3mp	#01
+#06	يَأْتِي	{H0935G}	בָּא֙	{בּוֹא}	{come}	ba'	HVqp3ms	#02
+#07	إِلَى	{H0413}	אֶל	{אֶל}	{to(wards)}	'el-	HR	#03
+#08	عَرَمَةِ	{H6194}	עֲרֵמַ֣ת	{עֲרֵמָה}	{heap}	'a.re.Mat	HNcfsc	#04
+#09	عِشْرِينَ	{H6242}	עֶשְׂרִ֔ים	{עֶשְׂרִים}	{twenty}	'es.Rim	HAcmpa	#05
+#10	فَكَانَتْ	H9001;{H1961}	וְ הָיְתָ֖ה	ו;{הָיָה}	&;{to be}	ve.;ha.ye.Tah	Hc/Vqq3fs	#06
+#11	عَشَرَةً.	{H6235}	עֲשָׂרָ֑ה	{עֶשֶׂר}	{ten}	'a.sa.Rah	HNcfsa	#07
+#12	أَتَى	{H0935G}	בָּ֣א	{בּוֹא}	{come}	ba'	HVqp3ms	#08
+#13	إِلَى	{H0413}	אֶל	{אֶל}	{to(wards)}	'el-	HR	#09
+#14 - #15	حَوْضِ الْمِعْصَرَةِ	H9009;{H3342}	הַ יֶּ֗קֶב	ה;{יֶ֫קֶב}	the;{wine}	hai.;Ye.kev	HTd/Ncmsa	#10
+#16	لِيَغْرُفَ	H9005;{H2834}	לַ חְשֹׂף֙	ל;{חָשַׂף}	to;{to strip}	la;ch.Sof	HR/Vqcc	#11
+#17	خَمْسِينَ	{H2572}	חֲמִשִּׁ֣ים	{חֲמִשִּׁים}	{fifty}	cha.mi.Shim	HAcmpa	#12
+#18	فُورَةً	{H6333}	פּוּרָ֔ה	{פּוּרָה}	{winepress}	pu.Rah	HNcfsa	#13
+#19	فَكَانَتْ	H9001;{H1961}	וְ הָיְתָ֖ה	ו;{הָיָה}	&;{to be}	ve.;ha.ye.Tah	Hc/Vqq3fs	#14
+#20	عِشْرِينَ.	{H6242}	עֶשְׂרִֽים	{עֶשְׂרִים}	{twenty}	'es.Rim	HAcmpa	#15
+<<<========
+
+Hag.2.17
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+		{H5221}	הִכֵּ֨יתִי			hi.Kei.ti	HVhp1cs	#01
+#01 - #02	قَدْ ضَرَبْتُكُمْ	{H0853};H9036	אֶתְ כֶ֜ם	{אֵת};Op2m	{[Obj.]};you	'et.;Khem	HTo/Sp2mp	#02
+#03	بِاللَّفْحِ	H9003;{H7711B}	בַּ שִּׁדָּפ֤וֹן	ב;{שִׁדָּפוֹן}	in;{blight}	ba.;shi.da.Fon	HRd/Ncmsa	#03
+#04	وَبِالْيَرَقَانِ	H9002;H9003;{H3420}	וּ בַ יֵּֽרָקוֹן֙	ו;ב;{יֵרָקוֹן}	and;in;{mildew}	u.;vai.;ye.ra.kOn	HC/Rd/Ncmsa	#04
+#05	وَبِالْبَرَدِ	H9002;H9003;{H1259}	וּ בַ בָּרָ֔ד	ו;ב;{בָּרָד}	and;in;{hail}	u.;va.;ba.Rad	HC/Rd/Ncmsa	#05
+		{H0853}	אֵ֖ת			'et	HTo	#06
+#06 - #07	فِي كُلِّ	{H3605}	כָּל	{כֹּל}	{all}	kol-	HNcmsc	#07
+#08	عَمَلِ	{H4639G}	מַעֲשֵׂ֣ה	{מַעֲשֶׂה}	{work}	ma.'a.Seh	HNcmsc	#08
+#09	أَيْدِيكُمْ،	{H3027I};H9026	יְדֵי כֶ֑ם	{יָד};Pp2m	{themselves};your	ye.dei.;Khem	HNcbdc/Sp2mp	#09
+#10	وَمَا	H9002;{H0369}	וְ אֵין	ו;{אַ֫יִן}	and;{nothing}	ve.;'ein-	HC/Ncmsc	#10
+#11 - #12	رَجَعْتُمْ إِلَيَّ،	{H0853};H9036; {H0413};H9030	אֶתְ כֶ֥ם; אֵלַ֖ י	{אֵת};Op2m; {אֶל};Os1c	{[Obj.]};you; {to(wards)};me	'et.;Khem; 'e.La;i	HTo/Sp2mp; HR/Sp1bs	#11; #12
+#13	يَقُولُ	{H5002}	נְאֻם	{נְאֻם}	{utterance}	ne.'um-	HNcmsc	#13
+#14	الرَّبُّ.	{H3068G}	יְהוָֽה	{יהוה}	{LORD}	Yah.weh	HNpt	#14
+<<<========
+
+Hag.2.18
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	فَاجْعَلُوا	{H7760K}; {H4994}	שִׂימוּ; נָ֣א	{שׂוּם}; {נָא}	{consider}; {please}	si.mu-; na'	HVqv2mp; HTj	#01; #02
+#02	قَلْبَكُمْ	{H3824};H9026	לְבַבְ כֶ֔ם	{לֵבָב};Pp2m	{heart};your	le.vav.;Khem	HNcmsc/Sp2mp	#03
+#03	مِنْ	{H4480A}	מִן	{מִן־}	{from}	min-	HR	#04
+#04	هذَا	H9009;{H2088}	הַ זֶּ֖ה	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#06
+#05	الْيَوْمِ	H9009;{H3117G}	הַ יּ֥וֹם	ה;{יוֹם}	the;{day}	hai.;Yom	HTd/Ncmsa	#05
+#06	فَصَاعِدًا،	H9002;{H4605};H9011	וָ מָ֑עְלָ ה	ו;{מַ֫עַל};ה	and;{above};to	va.;Ma.'e.la;h	HC/Acbsa/Sd	#07
+#07 - #08	مِنَ الْيَوْمِ	H9006;{H3117G}	מִ יּוֹם֩	מ;{יוֹם}	from;{day}	mi.;yOm	HR/Ncmsc	#08
+#09	الرَّابعِ	H9002;{H0702}	וְ אַרְבָּעָ֜ה	ו;{אַרְבַּע}	and;{four}	ve.;'ar.ba.'Ah	HC/Acbsa	#10
+#10	وَالْعِشْرِينَ	{H6242}	עֶשְׂרִ֨ים	{עֶשְׂרִים}	{twenty}	'es.Rim	HAcmpa	#09
+#11 - #13	مِنَ الشَّهْرِ التَّاسِعِ،	H9005;{H8671}	לַ תְּשִׁיעִ֗י	ל;{תְּשִׁיעִי}	to;{ninth}	la.;te.shi.'I	HRd/Aomsa	#11
+#14	مِنَ	H9005;{H4480A}	לְ מִן	ל;{מִן־}	to;{from}	le.;min-	HR/R	#12
+#15	الْيَوْمِ	H9009;{H3117G}	הַ יּ֛וֹם	ה;{יוֹם}	the;{day}	hai.;Yom	HTd/Ncmsa	#13
+#16 - #17	الَّذِي فِيهِ	{H0834A}	אֲשֶׁר	{אֲשֶׁר}	{which}	'a.Sher-	HTr	#14
+#18	تَأَسَّسَ	{H3245}	יֻסַּ֥ד	{יָסַד}	{to found}	yu.Sad	HVPp3ms	#15
+#19	هَيْكَلُ	{H1964G}	הֵֽיכַל	{הֵיכָל}	{temple}	hei.khal-	HNcmsc	#16
+#20	الرَّبِّ،	{H3068G}	יְהוָ֖ה	{יהוה}	{LORD}	Yah.weh	HNpt	#17
+#21	اجْعَلُوا	{H7760K}	שִׂ֥ימוּ	{שׂוּם}	{consider}	Si.mu	HVqv2mp	#18
+#22	قَلْبَكُمْ.	{H3824};H9026	לְבַבְ כֶֽם	{לֵבָב};Pp2m	{heart};your	le.vav.;Khem	HNcmsc/Sp2mp	#19
+<<<========
+
+Hag.2.19
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	هَلِ	H9008;{H5750}	הַ ע֤וֹד	ה;{עוֹד}	¿;{still}	ha.;'od	HTi/Acmsa	#01
+#02	الْبَذْرُ	H9009;{H2233G}	הַ זֶּ֙רַע֙	ה;{זֶ֫רַע}	the;{seed}	ha.;Ze.ra'	HTd/Ncmsa	#02
+#03 - #04	فِي الأَهْرَاءِ	H9003;{H4035}	בַּ מְּגוּרָ֔ה	ב;{מְגוּרָה}	in;{fear}	ba.;me.gu.Rah	HRd/Ncfsa	#03
+#05	بَعْدُ.	H9002;{H5704}	וְ עַד	ו;{עַד}	and;{till}	ve.;'ad-	HC/R	#04
+#06	وَالْكَرْمُ	H9009;{H1612}	הַ גֶּ֨פֶן	ה;{גֶּ֫פֶן}	the;{vine}	ha.;Ge.fen	HTd/Ncbsa	#05
+#07	وَالتِّينُ	H9002;H9009;{H8384}	וְ הַ תְּאֵנָ֧ה	ו;ה;{תְּאֵנָה}	and;the;{fig}	ve.;ha.;te.'e.Nah	HC/Td/Ncfsa	#06
+#08	وَالرُّمَّانُ	H9002;H9009;{H7416}	וְ הָ רִמּ֛וֹן	ו;ה;{רִמּוֹן}	and;the;{pomegranate}	ve.;ha.;ri.Mon	HC/Td/Ncmsa	#07
+#09	وَالزَّيْتُونُ	H9002;{H6086H}; H9009;{H2132H}	וְ עֵ֥ץ; הַ זַּ֖יִת	ו;{עֵץ}; ה;{זַ֫יִת}	and;{tree}; the;{olive}	ve.;'Etz; ha.;Za.yit	HC/Ncmsc; HTd/Ncmsa	#08; #09
+#10	لَمْ	{H3808}	לֹ֣א	{לֹא}	{not}	lo'	HTn	#10
+#11	يَحْمِلْ	{H5375H}	נָשָׂ֑א	{נָשָׂא}	{bear}	na.Sa'	HVqp3ms	#11
+#12	بَعْدُ.						
+#13	فَمِنْ	{H4480A}	מִן	{מִן־}	{from}	min-	HR	#12
+#14	هذَا	H9009;{H2088}	הַ זֶּ֖ה	ה;{זֶה}	the;{this}	ha.;Zeh	HTd/Tm	#14
+#15	الْيَوْمِ	H9009;{H3117G}	הַ יּ֥וֹם	ה;{יוֹם}	the;{day}	hai.;Yom	HTd/Ncmsa	#13
+#16	أُبَارِكُ.	{H1288}	אֲבָרֵֽךְ	{בָּרַךְ}	{to bless}	'a.va.Rekh	HVpi1cs	#15
+<<<========
+
+Hag.2.20
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	وَصَارَتْ	H9001;{H1961}	וַ יְהִ֨י	ו;{הָיָה}	&;{to be}	va;y.Hi	Hc/Vqw3ms	#01
+#02	كَلِمَةُ	{H1697G}	דְבַר	{דָּבָר}	{word}	de.var-	HNcmsc	#02
+#03	الرَّبِّ	{H3068G}	יְהוָ֤ה	{יהוה}	{LORD}	Yah.weh	HNpt	#03
+#04	ثَانِيَةً	{H8145}	שֵׁנִית֙	{שֵׁנִי}	{second}	she.Nit	HAofsa	#04
+#05	إِلَى	{H0413}	אֶל	{אֶל}	{to(wards)}	'el-	HR	#05
+#06	حَجَّي،	{H2292A}	חַגַּ֔י	{חַגַּי}	{Haggai}	cha.Gai	HNpm	#06
+#07 - #08	فِي الرَّابعِ	H9002;{H0702}	וְ אַרְבָּעָ֛ה	ו;{אַרְבַּע}	and;{four}	ve.;'ar.ba.'Ah	HC/Acbsa	#08
+#09	وَالْعِشْرِينَ	H9003;{H6242}	בְּ עֶשְׂרִ֧ים	ב;{עֶשְׂרִים}	in;{twenty}	be.;'es.Rim	HR/Acmpa	#07
+#10 - #11	مِنَ الشَّهْرِ	H9005;{H2320G}	לַ חֹ֖דֶשׁ	ל;{חֹ֫דֶשׁ}	to;{month}	la.;Cho.desh	HRd/Ncmsa	#09
+#12	قَائِلاً:	H9005;{H0559}	לֵ אמֹֽר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#10
+<<<========
+
+Hag.2.21
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	كَلِّمْ	{H0559}	אֱמֹ֕ר	{אָמַר}	{to say}	'e.Mor	HVqv2ms	#01
+#02	زَرُبَّابِلَ	{H0413}; {H2216}	אֶל; זְרֻבָּבֶ֥ל	{אֶל}; {זְרֻבָּבֶ֫ל}	{to(wards)}; {Zerubbabel}	'el-; ze.ru.ba.Vel	HR; HNpm	#02; #03
+#03	وَالِي	{H6346}	פַּֽחַת	{פֶּחָה}	{governor}	pa.chat-	HNcfsc	#04
+#04	يَهُوذَا	{H3063G}	יְהוּדָ֖ה	{יְהוּדָה}	{Judah}	ye.hu.Dah	HNpl	#05
+#05	قَائِلاً:	H9005;{H0559}	לֵ אמֹ֑ר	ל;{אָמַר}	to;{to say}	le.;Mor	HR/Vqcc	#06
+#06	إِنِّي	{H0589}	אֲנִ֣י	{אֲנִי, אָֽנֹכִ֫י}	{I}	'a.Ni	HPp1bs	#07
+#07	أُزَلْزِلُ	{H7493}	מַרְעִ֔ישׁ	{רָעַשׁ}	{to shake}	mar.'Ish	HVhrmsa	#08
+		{H0853}	אֶת			'et-	HTo	#09
+#08	السَّمَاوَاتِ	H9009;{H8064}	הַ שָּׁמַ֖יִם	ה;{שָׁמַיִם}	the;{heaven}	ha.;sha.Ma.yim	HTd/Ncmpa	#10
+		H9002;{H0853}	וְ אֶת			ve.;'Et	HC/To	#11
+#09	وَالأَرْضَ،	H9009;{H0776G}	הָ אָֽרֶץ	ה;{אֶ֫רֶץ}	the;{country,_planet}	ha.;'A.retz	HTd/Ncfsa	#12
+<<<========
+
+Hag.2.22
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01	وَأَقْلِبُ	H9001;{H2015}	וְ הָֽפַכְתִּי֙	ו;{הָפַךְ}	&;{to overturn}	ve.;ha.fakh.Ti	Hc/Vqq1cs	#01
+#02	كُرْسِيَّ	{H3678G}	כִּסֵּ֣א	{כִּסֵּא}	{throne}	ki.Se'	HNcmsc	#02
+#03	الْمَمَالِكِ،	{H4467}	מַמְלָכ֔וֹת	{מַמְלָכָה}	{kingdom}	mam.la.Khot	HNcfpa	#03
+#04	وَأُبِيدُ	H9001;{H8045}	וְ הִ֨שְׁמַדְתִּ֔י	ו;{שָׁמַד}	&;{to destroy}	ve.;Hish.mad.Ti	Hc/Vhq1cs	#04
+#05	قُوَّةَ	{H2392}	חֹ֖זֶק	{חֹ֫זֶק}	{strngth}	Cho.zek	HNcmsc	#05
+#06	مَمَالِكِ	{H4467}	מַמְלְכ֣וֹת	{מַמְלָכָה}	{kingdom}	mam.le.Khot	HNcfpc	#06
+#07	الأُمَمِ،	H9009;{H1471A}	הַ גּוֹיִ֑ם	ה;{גּוֹי}	the;{nation}	ha.;go.Yim	HTd/Ncmpa	#07
+#08	وَأَقْلِبُ	H9001;{H2015}	וְ הָפַכְתִּ֤י	ו;{הָפַךְ}	&;{to overturn}	ve.;ha.fakh.Ti	Hc/Vqq1cs	#08
+#09	الْمَرْكَبَاتِ	{H4818}	מֶרְכָּבָה֙	{מֶרְכָּבָה}	{chariot}	mer.ka.Vah	HNcfsa	#09
+#10 - #11	وَالرَّاكِبِينَ فِيهَا،	H9002;{H7392};H9024	וְ רֹ֣כְבֶ֔י הָ	ו;{רָכַב};Ps3f	and;{to ride};her	ve.;Ro.khe.Vei.;ha	HC/Vqrmpc/Sp3fs	#10
+#12	وَيَنْحَطُّ	H9001;{H3381}	וְ יָרְד֤וּ	ו;{יָרַד}	&;{to go down}	ve.;ya.re.Du	Hc/Vqq3cp	#11
+#13	الْخَيْلُ	{H5483M}	סוּסִים֙	{סוּס}	{horse}	su.Sim	HNcmpa	#12
+#14	وَرَاكِبُوهَا،	H9002;{H7392};H9028	וְ רֹ֣כְבֵי הֶ֔ם	ו;{רָכַב};Pp3m	and;{to ride};their	ve.;Ro.khe.vei.;Hem	HC/Vqrmpc/Sp3mp	#13
+#15 - #16	كُلٌّ مِنْهَا	{H0376I}	אִ֖ישׁ	{אִישׁ}	{anyone}	'ish	HNcmsa	#14
+#17	بِسَيْفِ	H9003;{H2719}	בְּ חֶ֥רֶב	ב;{חֶ֫רֶב}	in;{sword}	be.;Che.rev	HR/Ncfsc	#15
+#18	أَخِيهِ.	{H0251I};H9023	אָחִֽי ו	{אָח};Ps3m	{compatriot};his	'a.Chi;v	HNcmsc/Sp3ms	#16
+<<<========
+
+Hag.2.23
+========>>>
+Ara W#	Arabic	Strongs	Hebrew	Lexicon	Gloss	Transliteration	Grammar	Heb w#
+#01 - #03	فِي ذلِكَ الْيَوْمِ،	H9003;{H3117G}; H9009;{H1931}	בַּ יּ֣וֹם; הַ ה֣וּא	ב;{יוֹם}; ה;{הוּא}	in;{day}; the;{he,_she,_it}	ba;i.Yom; ha.;Hu'	HRd/Ncmsa; HTd/Pp3ms	#01; #02
+#04	يَقُولُ	{H5002}	נְאֻם	{נְאֻם}	{utterance}	ne.'um-	HNcmsc	#03
+#05	رَبُّ	{H3068G}	יְהוָ֣ה	{יהוה}	{LORD}	Yah.weh	HNpt	#04
+#06	الْجُنُودِ،	{H6635B}	צְבָא֡וֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#05
+#07	آخُذُكَ	{H3947G};H9031	אֶ֠קָּחֲ ךָ	{לָקַח};Os2m	{take};you	'E.ka.cha.;kha	HVqi1cs/Sp2ms	#06
+#08 - #09	يَا زَرُبَّابِلُ	{H2216}	זְרֻבָּבֶ֨ל	{זְרֻבָּבֶ֫ל}	{Zerubbabel}	ze.ru.ba.Vel	HNpm	#07
+#10	عَبْدِي	{H5650};H9020	עַבְדִּ י֙	{עֶ֫בֶד};Ps1c	{servant,_slave};my	'av.D;i	HNcmsc/Sp1bs	#10
+#11	ابْنُ	{H1121A}	בֶּן	{בֵּן}	{child}	ben-	HNcmsc	#08
+#12	شَأَلْتِيئِيلَ،	{H7597A}	שְׁאַלְתִּיאֵ֤ל	{שְׁאַלְתִּיאֵל}	{Shealtiel}	she.'al.ti.'El	HNpm	#09
+#13	يَقُولُ	{H5002}	נְאֻם	{נְאֻם}	{utterance}	ne.'um-	HNcmsc	#11
+#14	الرَّبُّ،	{H3068G}	יְהוָ֔ה	{יהוה}	{LORD}	Yah.weh	HNpt	#12
+#15	وَأَجْعَلُكَ	H9001;{H7760A};H9031	וְ שַׂמְתִּ֖י ךָ	ו;{שׂוּם};Os2m	&;{make};you	ve.;sam.Ti.;kha	Hc/Vqq1cs/Sp2ms	#13
+#16	كَخَاتِمٍ،	H9004;{H2368}	כַּֽ חוֹתָ֑ם	כ;{חֹתָם}	like;{signet}	ka.;cho.Tam	HRd/Ncmsa	#14
+#17	لأَنِّي	{H3588A}	כִּֽי	{כִּי}	{for}	ki-	HTc	#15
+#18 - #19	قَدِ اخْتَرْتُكَ،	H9003;{H9031}; {H0977}	בְ ךָ֣; בָחַ֔רְתִּי	ב;{Os2m}; {בָּחַר}	in;{you}; {to choose}	ve.;Kha; va.Char.ti	HR/Sp2ms; HVqp1cs	#16; #17
+#20	يَقُولُ	{H5002}	נְאֻ֖ם	{נְאֻם}	{utterance}	ne.'Um	HNcmsc	#18
+#21	رَبُّ	{H3068G}	יְהוָ֥ה	{יהוה}	{LORD}	Yah.weh	HNpt	#19
+#22	الْجُنُودِ.	{H6635B}	צְבָאֽוֹת	{צָבָא}	{Hosts}	tze.va.'ot	HNcfpa	#20
+<<<========
+
