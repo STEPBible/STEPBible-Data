@@ -290,7 +290,7 @@ A-ASM-PG	Function=Adjective; Case=Accusative; Number=Singular; Gender=Masculine;
 $
 A-ASM-S	Function=Adjective; Case=Accusative; Number=Singular; Gender=Masculine; Extra=Superlative
 	Adjective Accusative Singular Masculine Superlative
-	DESCRIBING a male person or thing that is having something done to them 
+	DESCRIBING superlatively a male person or thing that is having something done to them 
 	"giving a _wise_ man to them"
 $
 A-ASM-T	Function=Adjective; Case=Accusative; Number=Singular; Gender=Masculine; Name type=Title
@@ -325,7 +325,7 @@ A-ASN-PG	Function=Adjective; Case=Accusative; Number=Singular; Gender=Neuter; Na
 $
 A-ASN-S	Function=Adjective; Case=Accusative; Number=Singular; Gender=Neuter; Extra=Superlative
 	Adjective Accusative Singular Neuter Superlative
-	DESCRIBING a neuter person or thing that is having something done to them 
+	DESCRIBING superlatively a neuter person or thing that is having something done to them 
 	"giving a _wise_ nation to them"
 $
 A-DPF	Function=Adjective; Case=Dative; Number=Plural; Gender=Feminine
@@ -495,7 +495,7 @@ A-DSN-PG	Function=Adjective; Case=Dative; Number=Singular; Gender=Neuter; Name t
 $
 A-DSN-S	Function=Adjective; Case=Dative; Number=Singular; Gender=Neuter; Extra=Superlative
 	Adjective Dative Singular Neuter Superlative
-	"DESCRIBING a neuter person or thing that something is done for‚ or in relation to "
+	"DESCRIBING superlatively a neuter person or thing that something is done for‚ or in relation to "
 	"giving to a _wise_ nation"
 $
 ADV	Function=Adverb
@@ -585,7 +585,7 @@ A-GPF-PG	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine; Name
 $
 A-GPF-S	Function=Adjective; Case=Genitive; Number=Plural; Gender=Feminine; Extra=Superlative
 	Adjective Genitive Plural Feminine Superlative
-	DESCRIBING female people or things that something belongs to 
+	DESCRIBING superlatively female people or things that something belongs to 
 	"teachings of _wise_ women"
 $
 A-GPM	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine
@@ -625,7 +625,7 @@ A-GPM-PG	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Nam
 $
 A-GPM-S	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Extra=Superlative
 	Adjective Genitive Plural Masculine Superlative
-	DESCRIBING male people or things that something belongs to 
+	DESCRIBING superlatively male people or things that something belongs to 
 	"teachings of _wise_ men"
 $
 A-GPM-T	Function=Adjective; Case=Genitive; Number=Plural; Gender=Masculine; Name type=Title
@@ -700,7 +700,7 @@ A-GSF-P	Function=Adjective; Case=Genitive; Number=Singular; Gender=Feminine; Nam
 $
 A-GSF-S	Function=Adjective; Case=Genitive; Number=Singular; Gender=Feminine; Extra=Superlative
 	Adjective Genitive Singular Feminine Superlative
-	DESCRIBING a female person or thing that something belongs to 
+	DESCRIBING superlatively a female person or thing that something belongs to 
 	"teachings of a _wise_ woman"
 $
 A-GSM	Function=Adjective; Case=Genitive; Number=Singular; Gender=Masculine
@@ -730,7 +730,7 @@ A-GSM-PG	Function=Adjective; Case=Genitive; Number=Singular; Gender=Masculine; N
 $
 A-GSM-S	Function=Adjective; Case=Genitive; Number=Singular; Gender=Masculine; Extra=Superlative
 	Adjective Genitive Singular Masculine Superlative
-	DESCRIBING a male person or thing that something belongs to 
+	DESCRIBING superlatively a male person or thing that something belongs to 
 	"teachings of a _wise_ man"
 $
 A-GSM-T	Function=Adjective; Case=Genitive; Number=Singular; Gender=Masculine; Name type=Title
@@ -905,7 +905,7 @@ A-NSF-PG	Function=Adjective; Case=Nominative; Number=Singular; Gender=Feminine; 
 $
 A-NSF-S	Function=Adjective; Case=Nominative; Number=Singular; Gender=Feminine; Extra=Superlative
 	Adjective Nominative Singular Feminine Superlative
-	DESCRIBING a female person or thing that is doing something 
+	DESCRIBING superlatively a female person or thing that is doing something 
 	"a _wise_ woman is giving"
 $
 A-NSM	Function=Adjective; Case=Nominative; Number=Singular; Gender=Masculine
@@ -980,7 +980,7 @@ A-NSN-PG	Function=Adjective; Case=Nominative; Number=Singular; Gender=Neuter; Na
 $
 A-NSN-S	Function=Adjective; Case=Nominative; Number=Singular; Gender=Neuter; Extra=Superlative
 	Adjective Nominative Singular Neuter Superlative
-	DESCRIBING a neuter person or thing that is doing something 
+	DESCRIBING superlatively a neuter person or thing that is doing something 
 	"a _wise_ nation is giving wisdom"
 $
 A-NUI	Function=Adjective; Adj.Numb.=Indeclinable Numeral
@@ -2388,9 +2388,9 @@ N-NSF-P	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Name t
 	a female PERSON that is doing something 
 	"a _woman_ giving teachings"
 $
-N-NSF-S	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Extra=Superlative
-	Noun Nominative Singular Feminine Superlative
-	a female PERSON OR THING that is doing something 
+N-NSF-PG	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Name type=Person Gentilic
+	Noun Nominative Singular Person Gentilic
+	related to a named person: female PERSON OR THING that is doing something 
 	"a _woman_ giving teachings"
 $
 N-NSF-T	Function=Noun; Case=Nominative; Number=Singular; Gender=Feminine; Name type=Title
