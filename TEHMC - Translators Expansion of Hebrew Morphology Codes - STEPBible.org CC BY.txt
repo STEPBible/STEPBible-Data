@@ -141,8 +141,8 @@ line 4:              example	- an example of how a Hebrew or Aramaic word in thi
 THE ELEMENTS OF MORPHOLOGY:
 Functions: 	Conjunction, Adverb, Preposition, Particle, Pronoun, Noun, Adjective, Verb, Suffix
 	 - these are defined and parsed in line with OpenScriptures with a few embelishments - see the table at https://goo.gl/HP4mZQ#HebMorph
-Stem: 	Aphel, Haphel, Hiphil, Hishtaphel, Hithpaal, Hithpael, Hithpeel, Hophal, Hothpaal, Ishtaphel, Ithpaal, Itpeel, Niphal, Nithpael, Pael, Peal, Peil, Piel, Pual, Qal, Shaphel, Tiphil
-	(other minor forms are subsumed into these). For their interpretation https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.evqm50b2x4wq
+Stem: 	Aphel, Haphel, Hiphil, Hishtaphel, Hitpaal, Hithpael, Hitpael, Hitpeel, Hophal, Hothpaal, Hishtaphel, Niphal, Nithpael, Pael, Peal, Peil, Piel, Polal, Pual, Qal, Shaphel, Tiphil
+	(other minor forms are subsumed into these and many have alternate transcriptions). For their interpretation https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.evqm50b2x4wq
 Action, Determined by Stem: 	Simple, Intensive/resultive/transtive, Causative/declarative. 
 	In explations these are "performing", "intensifying or achieving" and "causing or confirming" 
 Voice, Determined by Stem: 	Active, Passive, Reflexive/iterative. 
@@ -2319,83 +2319,83 @@ HVHw3ms	Function=Verb ; Stem=Hophal (hence Action=Causative/declarative; Voice=P
 	"causing or confirming an ACTION OR ACTIVITY that is done, as completely as the preceding action, in the past or present to a male person or thing being discussed"
 	Example: he/it was or is exalted
 $
-AVip3fp	Function=Verb ; Stem=Itpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Feminine; Number=Plural
-	"Verb : Itpeel (Simple, Reflexive/iterative) Perfect (Past/present Indicative) Third Plural Feminine"
+AVip3fp	Function=Verb ; Stem= Hitpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Feminine; Number=Plural
+	"Verb : Hitpeel (Simple, Reflexive/iterative) Perfect (Past/present Indicative) Third Plural Feminine"
 	performing an ACTION OR ACTIVITY that is done completely in the past or present to or for themselves by female people or things being discussed
 	Example: they (females) did or do themselves rise
 $
-AVip3fs	Function=Verb ; Stem=Itpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Feminine; Number=Singular
-	"Verb : Itpeel (Simple, Reflexive/iterative) Perfect (Past/present Indicative) Third Singular Feminine"
+AVip3fs	Function=Verb ; Stem=Hitpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hitpeel (Simple, Reflexive/iterative) Perfect (Past/present Indicative) Third Singular Feminine"
 	performing an ACTION OR ACTIVITY that is done completely in the past or present to or for themself by a female person or thing being discussed
 	Example: she/it did or does herself rise
 $
-AVip3mp	Function=Verb ; Stem=Itpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Itpeel (Simple, Reflexive/iterative) Perfect (Past/present Indicative) Third Plural Masculine"
+AVip3mp	Function=Verb ; Stem=Hitpeel (hence Action=Simple; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpeel (Simple, Reflexive/iterative) Perfect (Past/present Indicative) Third Plural Masculine"
 	performing an ACTION OR ACTIVITY that is done completely in the past or present to or for themselves by male people or things being discussed
 	Example: they (males) did or do themselves rise
 $
-AVMcc	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Infinitive ; State=Construct
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Infinitive Construct"
+AVMcc	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Infinitive ; State=Construct
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Infinitive Construct"
 	"intensifying or achieving an ACTION OR ACTIVITY that is to be done to or for themself, combined with another term"
 	Example: to raise oneself
 $
-AVMi3fs	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Feminine; Number=Singular
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Indicative/jussive) Third Singular Feminine"
+AVMi3fs	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Indicative/jussive) Third Singular Feminine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to or for themself by a female person or thing being discussed
 	Example: she/it may or will be or is raising herself
 $
-AVMi3ms	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Indicative/jussive) Third Singular Masculine"
+AVMi3ms	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Indicative/jussive) Third Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to or for themself by a male person or thing being discussed
 	Example: he/it may or will be or is raising himself
 $
-AVMj3mp	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Jussive); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Jussive) Third Plural Masculine"
+AVMj3mp	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Jussive); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Jussive) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that may be done incompletely in the future or present to or for themselves by male people or things being discussed
 	Example: they (males) may raise themselves
 $
-AVMn3mp	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Indicative) Third Plural Masculine"
+AVMn3mp	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Imperfect (Future/present Indicative) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done incompletely in the future or present to or for themselves by male people or things being discussed
 	Example: they (males) will be or are raising themselves
 $
-AVMp2ms	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Perfect (Past/present Indicative) Second Singular Masculine"
+AVMp2ms	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Perfect (Past/present Indicative) Second Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to or for themself by a male person or thing being addressed
 	Example: you (a male) did or do raise yourself
 $
-AVMp3mp	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Perfect (Past/present Indicative) Third Plural Masculine"
+AVMp3mp	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Perfect (Past/present Indicative) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to or for themselves by male people or things being discussed
 	Example: they (males) did or do raise themselves
 $
-AVMp3ms	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Perfect (Past/present Indicative) Third Singular Masculine"
+AVMp3ms	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Perfect (Past/present Indicative) Third Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to or for themself by a male person or thing being discussed
 	Example: he/it did or does raise himself
 $
-AVMq3ms	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Consecutive Perfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Consecutive Perfect (Future/present Indicative) Third Singular Masculine"
+AVMq3ms	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Consecutive Perfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Consecutive Perfect (Future/present Indicative) Third Singular Masculine"
 	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being discussed"
 	Example: he/it will be or is raising
 $
-AVMrfsa	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Participle (Singular Feminine, Absolute)"
+AVMrfsa	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Participle (Singular Feminine, Absolute)"
 	intensifying or achieving an ACTION OR ACTIVITY being done to or for themself by a female person or thing 
 	Example: a female raising herself
 $
-AVMrmpa	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Participle (Plural Masculine, Absolute)"
+AVMrmpa	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Participle (Plural Masculine, Absolute)"
 	intensifying or achieving an ACTION OR ACTIVITY being done to or for themselves by male people or things 
 	Example: men raising themselves
 $
-AVMrmsa	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Participle (Singular Masculine, Absolute)"
+AVMrmsa	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Participle (Singular Masculine, Absolute)"
 	intensifying or achieving an ACTION OR ACTIVITY being done to or for themself by a male person or thing 
 	Example: a man raising himself
 $
-AVMu3mp	Function=Verb ; Stem=Hithpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Conjunction+Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpaal (Intensive/resultive/transtive, Reflexive/iterative) Conjunction+Imperfect (Future/present Indicative) Third Plural Masculine"
+AVMu3mp	Function=Verb ; Stem=Hitpaal (hence Action=Intensive/resultive/transtive; Voice=Reflexive/iterative); Form=Conjunction+Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpaal (Intensive/resultive/transtive, Reflexive/iterative) Conjunction+Imperfect (Future/present Indicative) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done incompletely in the future or present to or for themselves by male people or things being discussed
 	Example: they (males) will be or are raising themselves
 $
@@ -2844,8 +2844,8 @@ HVPi3fs	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive/transtive; V
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to a female person or thing being discussed
 	Example: she/it may or will be or is raised
 $
-AVPi3mp	Function=Verb ; Stem=Ithpaal (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Ithpaal (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
+AVPi3mp	Function=Verb ; Stem=Hitpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to male people or things being discussed
 	Example: they (males) may or will be or are raised
 $
@@ -2864,8 +2864,8 @@ HVPi3mp	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive/transtive; V
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to male people or things being discussed
 	Example: they (males) may or will be or are raised
 $
-AVPi3ms	Function=Verb ; Stem=Ithpaal (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Ithpaal (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Singular Masculine"
+AVPi3ms	Function=Verb ; Stem=Hitpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hitpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to a male person or thing being discussed
 	Example: he/it may or will be or is raised
 $
@@ -2919,8 +2919,8 @@ HVpj3fs	Function=Verb ; Stem=Piel (hence Action=Intensive/resultive/transtive; V
 	intensifying or achieving an ACTION OR ACTIVITY that may be done incompletely in the future or present by a female person or thing being discussed
 	Example: she/it may raise
 $
-AVPj3mp	Function=Verb ; Stem=Ithpaal (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=jussive); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Ithpaal (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
+AVPj3mp	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=jussive); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Pual (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that may be done incompletely in the future or present to male people or things being discussed
 	Example: they (males) may be raised
 $
@@ -2929,8 +2929,8 @@ AVpj3mp	Function=Verb ; Stem=Pael (hence Action=Intensive/resultive/transtive; V
 	intensifying or achieving an ACTION OR ACTIVITY that may be done incompletely in the future or present by male people or things being discussed
 	Example: they (males) may raise
 $
-HVPj3mp	Function=Verb ; Stem=Ithpaal (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=jussive); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Ithpaal (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
+HVPj3mp	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=jussive); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Pual (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that may be done incompletely in the future or present to male people or things being discussed
 	Example: they (males) may be raised
 $
@@ -3109,8 +3109,8 @@ HVPp3fs	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive/transtive; V
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to a female person or thing being discussed
 	Example: she/it was or is raised
 $
-AVPp3mp	Function=Verb ; Stem=Ithpaal (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Ithpaal (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Plural Masculine"
+AVPp3mp	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Pual (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to male people or things being discussed
 	Example: they (males) were or are raised
 $
@@ -3119,8 +3119,8 @@ AVpp3mp	Function=Verb ; Stem=Pael (hence Action=Intensive/resultive/transtive; V
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present by male people or things being discussed
 	Example: they (males) did or do raise
 $
-AVPp3ms	Function=Verb ; Stem=Ithpaal (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Ithpaal (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Singular Masculine"
+AVPp3ms	Function=Verb ; Stem=Pual (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Pual (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to a male person or thing being discussed
 	Example: he/it was or is raised
 $
@@ -4554,8 +4554,8 @@ HVtw3ms	Function=Verb ; Stem=Hithpael (hence Action=Intensive/resultive/transtiv
 	"intensifying or achieving an ACTION OR ACTIVITY that is done, as completely as the preceding action, in the past or present to or for themself by a male person or thing being discussed"
 	Example: he/it did or does raise himself
 $
-AVucc	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Infinitive ; State=Construct
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Infinitive Construct"
+AVucc	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Infinitive ; State=Construct
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Infinitive Construct"
 	"intensifying or achieving an ACTION OR ACTIVITY that is to be done to someone or something, combined with another term"
 	Example: to raise oneself
 $
@@ -4564,48 +4564,48 @@ HVucc	Function=Verb ; Stem=Hothpaal (hence Action=Intensive/resultive/transtive;
 	"intensifying or achieving an ACTION OR ACTIVITY that is to be done to someone or something, combined with another term"
 	Example: to raise oneself
 $
-AVui2mp	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Second; Gender=Masculine; Number=Plural
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Second Plural Masculine"
+AVui2mp	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Second Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to male people or things being addressed
 	Example: you (males) may or will be or are raised
 $
-AVui2ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Second; Gender=Masculine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Second Singular Masculine"
+AVui2ms	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Second Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to a male person or thing being addressed
 	Example: you (a male) may or will be or are raised
 $
-AVui3fs	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Feminine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Singular Feminine"
+AVui3fs	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Singular Feminine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to a female person or thing being discussed
 	Example: she/it may or will be or is raised
 $
-AVui3mp	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
+AVui3mp	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to male people or things being discussed
 	Example: they (males) may or will be or are raised
 $
-AVui3ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Singular Masculine"
+AVui3ms	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative/jussive); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative/jussive) Third Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done or may be done incompletely in the future or present to a male person or thing being discussed
 	Example: he/it may or will be or is raised
 $
-AVuj3mp	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Jussive); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Jussive) Third Plural Masculine"
+AVuj3mp	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Jussive); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Imperfect (Future/present Jussive) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that may be done incompletely in the future or present to male people or things being discussed
 	Example: they (males) may be raised
 $
-AVun3mp	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative) Third Plural Masculine"
+AVun3mp	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Imperfect (Future/present Indicative) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done incompletely in the future or present to male people or things being discussed
 	Example: they (males) will be or are raised
 $
-AVup2mp	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Plural
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Second Plural Masculine"
+AVup2mp	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Plural
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Second Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to male people or things being addressed
 	Example: you (males) were or are raised
 $
-AVup2ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Second Singular Masculine"
+AVup2ms	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Second Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to male people or things being addressed
 	Example: you (males) were or are raised
 $
@@ -4614,8 +4614,8 @@ HVup3cp	Function=Verb ; Stem=Hothpaal (hence Action=Intensive/resultive/transtiv
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to male or female people or things being discussed
 	Example: they were or are raised themselves
 $
-AVup3fs	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Feminine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Singular Feminine"
+AVup3fs	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Feminine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Singular Feminine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to a female person or thing being discussed
 	Example: she/it was or is raised
 $
@@ -4624,33 +4624,33 @@ HVup3fs	Function=Verb ; Stem=Hothpaal (hence Action=Intensive/resultive/transtiv
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to a female person or thing being discussed
 	Example: she/it was or is raised herself
 $
-AVup3mp	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Plural Masculine"
+AVup3mp	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to male people or things being discussed
 	Example: they (males) were or are raised
 $
-AVup3ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Singular Masculine"
+AVup3ms	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Perfect (hence Tense=Past/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Perfect (Past/present Indicative) Third Singular Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done completely in the past or present to a male person or thing being discussed
 	Example: he/it was or is raised
 $
-AVuq2ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Consecutive Perfect (hence Tense=Future/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Consecutive Perfect (Future/present Indicative) Second Singular Masculine"
+AVuq2ms	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Consecutive Perfect (hence Tense=Future/present; Mood=Indicative); Person=Second; Gender=Masculine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Consecutive Perfect (Future/present Indicative) Second Singular Masculine"
 	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being addressed"
 	Example: you (a male) will be or are raised
 $
-AVuq3ms	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Consecutive Perfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Consecutive Perfect (Future/present Indicative) Third Singular Masculine"
+AVuq3ms	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Consecutive Perfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Singular
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Consecutive Perfect (Future/present Indicative) Third Singular Masculine"
 	"intensifying or achieving an ACTION OR ACTIVITY that is done, as incompletely as the preceding action, in the future or present to or for themself by a male person or thing being discussed"
 	Example: he/it will be or is raised
 $
-AVurfsa	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Participle (Singular Feminine, Absolute)"
+AVurfsa	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Participle ; Gender=Feminine; Number=Singular; State=Absolute
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Participle (Singular Feminine, Absolute)"
 	intensifying or achieving an ACTION OR ACTIVITY being done to a female person or thing 
 	Example: a female be raised
 $
-AVurmpa	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Participle (Plural Masculine, Absolute)"
+AVurmpa	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Plural; State=Absolute
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Participle (Plural Masculine, Absolute)"
 	intensifying or achieving an ACTION OR ACTIVITY being done to male people or things 
 	Example: men being raised
 $
@@ -4659,13 +4659,13 @@ HVurmpa	Function=Verb ; Stem=Hothpaal (hence Action=Intensive/resultive/transtiv
 	intensifying or achieving an ACTION OR ACTIVITY being done to male people or things 
 	Example: men raised
 $
-AVurmsa	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Participle (Singular Masculine, Absolute)"
+AVurmsa	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Participle ; Gender=Masculine; Number=Singular; State=Absolute
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Participle (Singular Masculine, Absolute)"
 	intensifying or achieving an ACTION OR ACTIVITY being done to a male person or thing 
 	Example: a man being raised
 $
-AVuu3mp	Function=Verb ; Stem=Hithpeel (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Conjunction+Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
-	"Verb : Hithpeel (Intensive/resultive/transtive, Passive) Conjunction+Imperfect (Future/present Indicative) Third Plural Masculine"
+AVuu3mp	Function=Verb ; Stem=Hitpael (hence Action=Intensive/resultive/transtive; Voice=Passive); Form=Conjunction+Imperfect (hence Tense=Future/present; Mood=Indicative); Person=Third; Gender=Masculine; Number=Plural
+	"Verb : Hitpael (Intensive/resultive/transtive, Passive) Conjunction+Imperfect (Future/present Indicative) Third Plural Masculine"
 	intensifying or achieving an ACTION OR ACTIVITY that is done incompletely in the future or present to male people or things being discussed
 	Example: they (males) will be or are raised
 $
