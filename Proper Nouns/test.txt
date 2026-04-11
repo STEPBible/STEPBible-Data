@@ -20,3 +20,76 @@ JSON for Othes at 	https://drive.google.com/file/d/1QzCf-8Q4inZ8ukMpR_iuZW50_wkO
 	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself.																																				
 	(Updates or corrections are easier to implement when the data is distributed from a single source)																																				
 	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..																																				
+	==============================================================																																				
+–																																					
+Geographical categories are defined at:		https://tinyurl.com/TIPNR-Geography																																			
+Ambiguous passages are discussed at:		https://TinyURL.com/STEP-GenealogyDecisions																																			
+– Decisions are based on maximum links, minimum anonymous individuals, and maximum coherence with the Hebrew text, in that order. 						>																															
+–																																					
+FIELD DESCRIPTIONS=						>																															
+==============																																					
+Alphabetical for the Unique name within the categories PERSONS, PLACES, OTHER.																																					
+Records are separated by "$" and sub-records are on separate lines that start with a space.																																					
+(?) indicates  a decision based on an ambiguity e.g. Jahdai@1Ch.2.47(?) which may be discussed at	TinyURL.com/TIPNR-Decisions																																				
+(d) is added to a 'parent' when a group or nation Descended from them, EG Canaan@Gen.9.18-1Ch(d) is the parent of the Amorites   																																					
+(a) is added to a 'parent' who is an Ancestor of the person rather than their actual parent.  EG Mahol@1Ki.4.31=H4235 who is the ancestor of Zerah@Gen.38.30-Mat(a)  																																					
+(f) indicates a founder of that place or group, eg  "Tekoa@2Sa.14.2-Amo(f)																																					
+																																					
+‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================																													
+$==========PERSON(s)																																					
+UnifiedName=uStrong	Description	Parents Male+Female	Siblings	Partners	Offspring	Tribe/Nation of father	#Summary description.	Type																													
+– Significance	UniqueName	dStrong«eStrong=Heb/Grk	Translated name (ESV,KJV,NIV if differs)	STEPBible link for first Refs	All Refs																																
+– Total	All names	All dStrongs	All refs (abbr as necessary)	
+@Briefest= From Tribe
+@Brief= 
+@Short= 	& @Article= 																															
+‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================																													
+																																					
+																																					
+Fields are separated by tabs, which become columns if viewed in a spreadsheet. They include:						>																															
+																																					
+Header fields for  PEOPLE=						>																															
+=================						>																															
+* UnifiedName═uStrong  (EG Aaron@Exo.4.14-Heb═H0175)  - made up of:																																					
+– before "@": the most common English form of the name as used in ESV (or in KJV if the ESV doesn't translate it as a name)																																					
+– after "@":     the first instance where that person/place occurs, unless the identity is uncertain and there is another that is certain. EG most common name is used for Abraham@Gen.11.26 where he is actually called Abram; the certain form is used for Ammon@Deu.2.19-Zep=H5983 even though the uncertain form Ham|Ammon@Deu.2.19-Zep(?) occurs at Gen.14.5, but this is uncertain.)																																					
+– a hyphen after the reference indicates the person on place occurs in more than one verse, and if they occur also in a later book, the last book they occur in is added, eg: Adam@Gen.2.19-Jud and Agrippa@Act.25.13- (nothing comes after this hyphen which indicates all the additional refs are in the same book, ie Acts).   This element of the name is not necessary for unique identification, but helps a human identify which individual they are searching for. The lack of a dash indicates the name occurs only at that one reference. 																																					
+																																					
+* Significance is the type of alternate version of the name. The alternate versions on these lines are sub-records of the top line. The type of alternatives are:																																					
+– Named	– ie a name or title of an individual or place																																				
+– Name combined	– ie a name  that is  combined with another  Name to refer to a single individual or place. 																																				
+– Spelled	– ie a different spelling of the same word																																				
+– Spelled combined	– ie a different spelling combined with another  Name to refer to a single individual or place																																				
+– Aramaic 	– ie an Aramaic version of a Hebrew word which may or may not be spelled differently																																				
+– Aramaic combined	– ie an Aramaic version combined with another  Name to refer to a single individual or place																																				
+– Greek	– only added for Greek versions of Names or Group names.																																				
+– Group	– ie  a name or title of a group of people (gentilic)																																				
+– (same form as previous)	–  the Hebrew/Greek form is the same as the previous line, but the Refs are different because the translation in ESV (and sometimes others) is different																																					
+– (same ref[s] as previous)	–  the Refs are the same as the previous line, but the Hebrew/Greek form is different due to a variant, or the Strongs number is an alternative																																					
+– Form (verb) OR (adjective)	–  the word is a verb or an adjective, such as "to become a Jew" or "Divine"																																					
+– Mentioned	– ie an individual that has no name or specific referent in the Bible, or someone needed to link people in in genealogies (eg father of Lazarus needed to link with Mary & Martha)																																				
+– Total	- merges these all into one line. Omits translations into words in some Bibles. Agregates Refs esp for longer lists																																				
+																																					
+* uStrong (unified Strong) is a unique number for that individual person or place. This number identifies that individual person or place, and unifies all versions of their name. It is the most common dStrong for that individual																																					
+																																					
+* UniqueName is AltName|UnifiedName (EG Abram|Abraham@Gen.11.26-1Pe)																																					
+																																					
+* eStrong is the electronic numbers based on Strong, as augmented by OpenScripture to match the increased vocabulary in BDB. When BDB divided a Hebrew word into two or more words, this is indicated by adding "a", "b", "c", "d", "e" or "f".																																					
+–  e.g. H6152a is "Arabia" and H6152b is "west" but sometimes translated "Arabia". Variant for OT ("Ketive" & "Qere") and NT ("Var.") differences are recorded only where they make a difference to the translation of the name.																																					
+* dStrong (disambiguated Strong) is a unique number for that form of the name when used for that individual. If the individual has more than one name or form of a name, the separate dStrongs, the most common one becomes the uStrong number.																																					
+– they are created from eStrong numbers by adding upper case "A", "B" etc.  See a fuller explanation at TinyURL.com/STEP-Disambiguated																																					
+–																																					
+* ESV name is the translation in ESV (with alternates in NIV & KJV when they are different, which may not yet be exhaustive).																																					
+* Description -  such as "Place" or "Male living at the time of the Patriarchs"																																					
+* Parents - the UniqueNames in the form of Father + Mother, e.g. "Terah@Gen.11.24-Luk + " (because the mother is unknown)																																					
+* Siblings - the UniqueNames separated by commas																																					
+* Partners - the UniqueNames  of the husband or wife/wives																																					
+* Offspring - the UniqueNames of any children																																					
+* Tribe/Nation. For Jews, "N". For peoples "A Greek" etc. For places "From Magog" etc. For the first: "The founder of his tribe"; "The founding Greek"; "The founder of Magog" Tribe																																					
+* Summary Description:  All the data in a standard sentence format, EG An Egyptian man from the time of T; son of F and M; bother of B; married to W; father of C																																					
+* Type:  Male, Female, Group, Place, Language, Time (festival or month), Supernatural (name of a god or demon, God, Sheol), Musical (song name or musical term), Star (or consterlation), Title (of a leader eg Rabbi, Governor), Other (misc.)																																					
+* All Refs are an exhaustive list of all refs where this form of the Hebrew or Greek  occurs in the OT or NT respectively using Standard English versification. "LXX" in front of a reference indicates where Names occur only in the LXX 																																					
+*@Briefest= description in up 3 words or less in a non-standard format. This one is frequently missing. 																																					
+* @Brief= description in up 10 words or less in a non-standard format.  Adapted from the output by Claude 3 Opus AI in April 2024 																																					
+* @Short= description a single sentence in a non-standard format.  Adapted from the output by Claude 3 Opus AI in April 2024																																					
+* @Article= description up to 6 paragraph with "¶" indicating paragraph breaks.   Adapted from the output by Claude 3 Opus AI in April 2024 																																					
