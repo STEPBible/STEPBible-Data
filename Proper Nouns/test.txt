@@ -93,3 +93,56 @@ Header fields for  PEOPLE=						>
 * @Brief= description in up 10 words or less in a non-standard format.  Adapted from the output by Claude 3 Opus AI in April 2024 																																					
 * @Short= description a single sentence in a non-standard format.  Adapted from the output by Claude 3 Opus AI in April 2024																																					
 * @Article= description up to 6 paragraph with "¶" indicating paragraph breaks.   Adapted from the output by Claude 3 Opus AI in April 2024 																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+EXTRACT data for Lexicon:																																					
+^\$=+ (PERSON|PLACE|OTHER).*\r\n^([^\t\r\n]*\t){7}#([^\t\r\n]*).*\r\n(–.*\r\n)+– Total\t[^\t\r\n]*\t([^\t\r\n]*)\t[^@]*@Briefest[^@]*@Brief= *([^\t\r\n@]*)[^@]*@Short= *([^\t\r\n@]*)[^\$]* => \4\t@STEPSuperMeaning=\t\5\t@ShortDef=\t\6\t@BdbMedDef=\t\2																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+																																					
+‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================																													
+$==========PLACE																																					
+UniqueName=uStrong	OpenBible name=Near	Founder / origin	People living there	GoogleMap URL	Palopenmaps URL	Geographical area	#Summary description.	Type																													
+– Significance	UniqueName	dStrong«eStrong=Heb/Grk	Translated name (ESV,KJV,NIV if differs)	STEPBible link for first Refs                 /	All Refs																																
+– Total	All names	All dStrongs	All refs (abbr as necessary)	
+@Briefest= 
+@Brief= 
+@Short= 	& @Article= 																															
+‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================																													
+																																					
+																																					
+Header fields for PLACES:						>																															
+* UniqueName (as for People)																																					
+* Significance (as for People)																																					
+* OpenBible name - i.e. the name used at http://www.openbible.info/geo/																																					
+* Founder - Unique names found in the Bible, including any who rebuilt it.																																					
+* People living there - Unique names found in the Bible, including former inhabitants.																																					
+* Links for Older maps and Link for Google maps, both based on geoposition as defined by OpenBible																																					
+* Tribal area/Nation location - eg Territory of Judah, Benjamin etc, Egypt, Asia Minor etc. - see the map for Countries/Areas at			http://TinyURL.com/TIPNR-Geography																																		
+																																					
+–																																					
+–										ESV name (and KJV,NIV)	STEPBible link for Refs	Refs																									
+–																																					
+‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================																													
+$==========OTHER																																					
+UniqueName=uStrong	Description					>	#Summary description.																														
+– Significance	UniqueName	dStrong«eStrong=Heb/Grk	Translated name (ESV,KJV,NIV if differs)	STEPBible link for first Refs	All Refs																																
+– Total	All names	All dStrongs	All refs (abbr as necessary)	
+@Briefest= 
+@Brief= 
+@Short= 	& @Article= 																															
+‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================	‖==================																													
+–																																					
+* These "others" are all other words that normally start with an upper case, such as deities, months, titles of rulers etc.																																					
+																																					
+																																					
+																																					
