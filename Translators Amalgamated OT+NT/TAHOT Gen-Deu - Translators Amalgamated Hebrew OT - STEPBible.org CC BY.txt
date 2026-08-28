@@ -138748,7 +138748,7 @@ Deu.32.38#12=L	סִתְרָֽה\׃	sit.Rah	a shelter	{H5643B}\H9016	HNcfsa			H56
 #_Significant variant																
 #_Deu.32.39	'a.Mit (אָמִ֣ית)	va.'a.chai.Yeh (וַאֲחַיֶּ֗ה)	ma.Chatz.ti (מָחַ֙צְתִּי֙)	va.'a.Ni (וַאֲנִ֣י)	'er.Pa' (אֶרְפָּ֔א)	ve.'Ein (וְאֵ֥ין)	mi.ya.Di (מִיָּדִ֖י)	ma.Tzil (מַצִּֽיל׃)								
 #_Translation	I put to death	and/ I may restore to life	I wound	and/ I	I heal	and/ there not	from/ hand/ my	[is] a deliverer								
-#_Word+Grammar	H4191=HVhi1cs	H9002/H2421=HC/Vpu1cs	H4272=HVqp1cs	H9002/H0589=HC/Pp1bs	H7495=HVqi1cs	H9002/H0369=HC/Ncmsc	H9006/H3027H/H9020=HR/Ncbsc/Sp1bs	H5337=HVhrmsc								
+#_Word+Grammar	H4191=HVhi1cs	H9002/H2421=HC/Vpu1cs	H4272=HVqp1cs	H9002/H0589=HC/Pp1bs	H7495=HVqi1cs	H9002/H0369=HC/Ncmsc	H9006/H3027H/H9020=HR/Ncbsc/Sp1bs	H5337=HVhrmsa								
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -138769,7 +138769,7 @@ Deu.32.39#14=L	וַ/אֲנִ֣י	va./'a.Ni	and/ I	H9002/{H0589}	HC/Pp1bs			H0589
 Deu.32.39#15=L	אֶרְפָּ֔א	'er.Pa'	I heal	{H7495}	HVqi1cs			H7495			{H7495=רָפָא=to heal}					
 Deu.32.39#16=L	וְ/אֵ֥ין	ve./'Ein	and/ there not	H9002/{H0369}	HC/Ncmsc			H0369_B			H9002=ו=and/{H0369=אַ֫יִן=nothing}					
 Deu.32.39#17=L	מִ/יָּדִ֖/י	mi./ya.D/i	from/ hand/ my	H9006/{H3027H}/H9020	HR/Ncbsc/Sp1bs			H3027H			H9006=מ=from/{H3027H=יָד=: power»hand:2_power;_rule;_ownership}/H9020=Ps1c=my					
-Deu.32.39#18=L	מַצִּֽיל\׃	ma.Tzil	[is] a deliverer	{H5337}\H9016	HVhrmsc			H5337			{H5337=נָצַל=to rescue}\H9016=׃=verseEnd					
+Deu.32.39#18=L	מַצִּֽיל\׃	ma.Tzil	[is] a deliverer	{H5337}\H9016	HVhrmsa			H5337			{H5337=נָצַל=to rescue}\H9016=׃=verseEnd					
 																
 # Deu.32.40	ki- (כִּֽי־)	'e.Sa' (אֶשָּׂ֥א)	'el- (אֶל־)	sha.Ma.yim (שָׁמַ֖יִם)	ya.Di (יָדִ֑י)	ve.'a.Mar.ti (וְאָמַ֕רְתִּי)	chai (חַ֥י)	'a.no.Khi (אָנֹכִ֖י)	le.'o.Lam (לְעֹלָֽם׃)							
 #_Translation	for	I lift up	to	heaven	hand/ my	and/ I will say	[am] living	I	for/ ever							
