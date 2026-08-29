@@ -27277,7 +27277,7 @@ Psa.44.26(44.27)#06=L	חַסְדֶּֽ/ךָ\׃	chas.De./kha	covenant loyalty/ yo
 																
 # Psa.45.0 (Heb: 45.1)	lam.na.Tze.ach (לַמְנַצֵּ֣חַ)	'a.lo.Sho- (עַל־)	Sho.sha.nim (שֹׁ֭שַׁנִּים)	liv.nei- (לִבְנֵי־)	Ko.rach (קֹ֑רַח)	mas.Kil (מַ֝שְׂכִּ֗יל)	shir (שִׁ֣יר)	ye.di.Dot (יְדִידֹֽת׃)								
 #_Translation	to the/ choirmaster	on	Shoshannim	of/ [the] sons of	Korah	a poem	a song of	love<s>								
-#_Word+Grammar	H9005/H5329=HRd/Vprmsa	H5921A=HR	H7799=HNcmpa	H9005/H1121G=HR/Ncmpc	H7141I=HNpm	H4905=HNtmsa	H7892A=HNcmsc	H3039B=HNcfsa								
+#_Word+Grammar	H9005/H5329=HRd/Vprmsa	H5921A=HR	H7799=HNcmpa	H9005/H1121G=HR/Ncmpc	H7141I=HNpm	H4905=HNtmsa	H7892A=HNcmsc	H3039B=HNcfpa								
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -27288,7 +27288,7 @@ Psa.45.0(45.1)#04=L	לִ/בְנֵי\־	li/v.nei-	of/ [the] sons of	H9005/{H1121G
 Psa.45.0(45.1)#05=L	קֹ֑רַח	Ko.rach	Korah	{H7141I}	HNpm			H7141I			{H7141I=קֹ֫רַח=Korah»Korah@Exo.6.21-Jud}					
 Psa.45.0(45.1)#06=L	מַ֝שְׂכִּ֗יל	mas.Kil	a poem	{H4905}	HNtmsa			H4905			{H4905=מַשְׂכִּיל=Maskil»Maskil@Psa.32.1-}					
 Psa.45.0(45.1)#07=L	שִׁ֣יר	shir	a song of	{H7892A}	HNcmsc			H7892A			{H7892A=שִׁיר=song}					
-Psa.45.0(45.1)#08=L	יְדִידֹֽת\׃	ye.di.Dot	love<s>	{H3039B}\H9016	HNcfsa			H3039B			{H3039B=יָדִידָה=love}\H9016=׃=verseEnd					
+Psa.45.0(45.1)#08=L	יְדִידֹֽת\׃	ye.di.Dot	love<s>	{H3039B}\H9016	HNcfpa			H3039B			{H3039B=יָדִידָה=love}\H9016=׃=verseEnd					
 																
 # Psa.45.1 (Heb: 45.2)	ra.Chash (רָ֘חַ֤שׁ)	li.Bi (לִבִּ֨י׀)	da.Var (דָּ֘בָ֤ר)	Tov (ט֗וֹב)	'o.Mer (אֹמֵ֣ר)	'A.ni (אָ֭נִי)	ma.'a.Sai (מַעֲשַׂ֣י)	le.Me.lekh (לְמֶ֑לֶךְ)	le.sho.Ni (לְ֝שׁוֹנִ֗י)	'et (עֵ֤ט׀)						
 #_Translation	it is aroused	heart/ my	a word	good	[am] speaking	I	work<s>/ my	to/ [the] king	tongue/ my	[is] a stylus of						
@@ -73562,7 +73562,7 @@ Ecc.11.10#10=L	הָֽבֶל\׃	Ha.vel	[are] futility	{H1892}\H9016	HNcmsa			H189
 																
 # Ecc.12.1	u.ze.Khor (וּזְכֹר֙)	'et- (אֶת־)	bor.'Ei.kha (בּ֣וֹרְאֶ֔יךָ)	bi.Mei (בִּימֵ֖י)	be.chu.ro.Tei.kha (בְּחוּרֹתֶ֑יךָ)	'ad (עַ֣ד)	'a.Sher (אֲשֶׁ֤ר)	lo'- (לֹא־)	ya.Vo.'u (יָבֹ֙אוּ֙)	ye.Mei (יְמֵ֣י)						
 #_Translation	and/ remember	<obj.>	creator<s>/ your	in/ [the] days of	youth<s>/ your	until	that	not	they will come	[the] days of						
-#_Word+Grammar	H9002/H2142=HC/Vqv2ms	H0853=HTo	H1254A/H9031=HVqrmsc/Sp2ms	H9003/H3117G=HR/Ncmpc	H0979/H9021=HNcfpc/Sp2ms	H5704=HR	H0834A=HTr	H3808=HTn	H0935G=HVqi3mp	H3117G=HNcmpc						
+#_Word+Grammar	H9002/H2142=HC/Vqv2ms	H0853=HTo	H1254A/H9031=HVqrmpc/Sp2ms	H9003/H3117G=HR/Ncmpc	H0979/H9021=HNcfpc/Sp2ms	H5704=HR	H0834A=HTr	H3808=HTn	H0935G=HVqi3mp	H3117G=HNcmpc						
 #_Significant variant																
 #_Ecc.12.1	ha.ra.'Ah (הָֽרָעָ֔ה)	ve.hi.Gi.'u (וְהִגִּ֣יעוּ)	sha.Nim (שָׁנִ֔ים)	'a.Sher (אֲשֶׁ֣ר)	to.Mar (תֹּאמַ֔ר)	'ein- (אֵֽין־)	li (לִ֥י)	va.Hem (בָהֶ֖ם)	Che.fetz (חֵֽפֶץ׃)							
 #_Translation	<the>/ evil	and/ they will arrive	years	which	you will say	not	[belongs] to <the>/ me	in <the>/ them	pleasure							
@@ -73572,7 +73572,7 @@ Ecc.11.10#10=L	הָֽבֶל\׃	Ha.vel	[are] futility	{H1892}\H9016	HNcmsa			H189
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 Ecc.12.1#01=L	וּ/זְכֹר֙	u./ze.Khor	and/ remember	H9002/{H2142}	HC/Vqv2ms			H2142			H9002=ו=and/{H2142=זָכַר=to remember}					
 Ecc.12.1#02=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
-Ecc.12.1#03=L	בּ֣וֹרְאֶ֔י/ךָ	bor.'Ei./kha	creator<s>/ your	{H1254A}/H9031	HVqrmsc/Sp2ms			H1254A			{H1254A=בָּרָא=to create}/H9031=Os2m=you					
+Ecc.12.1#03=L	בּ֣וֹרְאֶ֔י/ךָ	bor.'Ei./kha	creator<s>/ your	{H1254A}/H9031	HVqrmpc/Sp2ms			H1254A			{H1254A=בָּרָא=to create}/H9031=Os2m=you					
 Ecc.12.1#04=L	בִּ/ימֵ֖י	bi./Mei	in/ [the] days of	H9003/{H3117G}	HR/Ncmpc			H3117G_A			H9003=ב=in/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
 Ecc.12.1#05=L	בְּחוּרֹתֶ֑י/ךָ	be.chu.ro.Tei./kha	youth<s>/ your	{H0979}/H9021	HNcfpc/Sp2ms			H0979			{H0979=בְּחוּרִים=youth}/H9021=Ps2m=your					
 Ecc.12.1#06=L	עַ֣ד	'ad	until	{H5704}	HR			H5704			{H5704=עַד=till}					
