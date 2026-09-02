@@ -64,7 +64,7 @@ Header fields for  PEOPLE=						>
 – Greek	– only added for Greek versions of Names or Group names.																																				
 – Greek	– only added for Greek versions of Names or Group names.																																				
 – LXX addition	– ie  a name that occurs in the LXX but not in the Hebrew OT.  LXX variants of names are NOT normally listed.																																				
-– (same form as previous)	–  the Hebrew/Greek form is the same as the previous line, but the Refs are different because the translation in ESV (and sometimes others) is different																																					
+– (same form as previous)	–  the Hebrew/Greek form is the same as the previous line, but the Refs are different because the translation is dramatically different or manuscripts differ 																																					
 – (same ref[s] with Alt Tags)	–  the Refs and therefore the Hebrew/Greek are the same as the previous line, but the Strongs number tagging is different																																					
 – (same ref[s] with Variant)	–  the Refs are the same as the previous line, but the Hebrew/Greek form is different due to a variant																																					
 – Form (verb) OR (adjective)	–  the word is a verb or an adjective, such as "to become a Jew" or "Divine"																																					
@@ -26044,7 +26044,7 @@ Abel@1Sa.6.18=H0059G		Word sometimes translated as a place		https://palopenmaps.
 @Article= Psa.6.18 mentions a large stone called Abel in the field of Joshua of Beth-shemesh. The Ark of the Covenant was returned by the Philistines on a cart pulled by two cows. The cows stopped beside this large stone in Joshua's field. The Levites then took down the Ark and placed the Philistines' guilt offering next to the stone. The people of Beth-shemesh offered sacrifices there that day. Abel served as a memorial marker for this event.																															
 $========== PLACE																																					
 Abel-beth-maacah@2Sa.20.14-2Ch=H0062	Abel-beth-maacah			https://palopenmaps.org/view/9999/@33.26852614315892,35.57804682248786	>	#A location first mentioned at <ref="2Sa.20.14">2Sa.20.14</ref>) <br>referred to as <strong="H0062">Abel-beth-maacah</strong> (אָבֵל בֵּית מַעֲכָה), or <strong="H0059H">Abel</strong> (אָבֵל), or <strong="H0066">Abel-maim</strong>   (אַבֵל מַיִם), or (אָבֵל בֵּית מַעֲכָה). 	Place																													
-– Named	Abel-beth-maacah@2Sa.20.14-2Ch	H0062«H0062=אָבֵל בֵּית מַעֲכָה	Abel-beth-maacah =ESV,KJV; Abel Beth Maacah =NIV; Abel Beth-maachah =KJV	2Sa.20.14; 2Sa.20.15; 1Ki.15.20; 2Ki.15.29																																
+– Named	Abel-beth-maacah@2Sa.20.14-2Ch	H0062«H0062=אָבֵל בֵּית מַעֲכָה	r	2Sa.20.14; 2Sa.20.15; 1Ki.15.20; 2Ki.15.29																																
 – Named	Abel|Abel-beth-maacah@2Sa.20.14-2Ch	H0059H«H0059=אָבֵל	Abel	2Sa.20.18																																
 – Named	Abel-maim|Abel-beth-maacah@2Sa.20.14-2Ch	H0066«H0066=אַבֵל מַיִם	Abel-maim =ESV,KJV; Abel Maim =NIV	2Ch.16.4																																
 – Total	Abel-beth-maacah or Abel Beth-maachah or Abel-maim or Abel	H0062, H0059H, H0066	2Sa.20.14; 2Sa.20.15; 1Ki.15.20; 2Ki.15.29; 2Sa.20.18; 2Ch.16.4; 	6
