@@ -26611,7 +26611,7 @@ Psa.42.4(42.5)#04=L	עָלַ֨/י\׀	'a.La/i	on/ myself	{H5921A}/H9030\H9015	HR/
 Psa.42.4(42.5)#05=L	נַפְשִׁ֗/י	naf.Sh/i	soul/ my	{H5315G}/H9020	HNcfsc/Sp1bs			H5315G			{H5315G=נֶ֫פֶשׁ=: soul»soul:1_soul;_heart}/H9020=Ps1c=my					
 Psa.42.4(42.5)#06=L	כִּ֤י	ki	that	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
 Psa.42.4(42.5)#07=L	אֶֽעֱבֹ֨ר\׀	'e.'e.Vor	I passed on	{H5674A}\H9015	HVqi1cs			H5674A			{H5674A=עָבַר=: pass»to pass:1_pass}\H9015=׀=separate					
-Psa.42.4(42.5)#08=L	בַּ/סָּךְ֮	ba./soKh	with the/ crowd	H9003/{H5519}	HRd/Ncmsa			H5519			H9003=ב=in/{H5519=סַךְ=throng}					
+Psa.42.4(42.5)#08=L	בַּ/סָּךְ֮	ba./soKh	with the/ crowd	H9003/{H5519}	HRd/Ncmsa	 		H5519			H9003=ב=in/{H5519=סַךְ=throng}					
 Psa.42.4(42.5)#09=L	אֶדַּדֵּ֗/ם	'ed.da.De/m	I led/ them	{H1718}/H9038	HVti1cs/Sp3mp			H1718			{H1718=דָּדָה=to go slowly}/H9038=Op3m=them					
 Psa.42.4(42.5)#10=L	עַד\־	'ad-	to	{H5704}\H9014	HR			H5704			{H5704=עַד=till}\H9014=־=link					
 Psa.42.4(42.5)#11=L	בֵּ֥ית	beit	[the] house of	{H1004Q}	HNcmsc			H1004Q			{H1004Q=בַּ֫יִת=: home»house:6_temple}					
@@ -27100,7 +27100,7 @@ Psa.44.14(44.15)#02=L	מָ֭שָׁל	Ma.shol	a byword	{H4912}	HNcmsa			H4912			{
 Psa.44.14(44.15)#03=L	בַּ/גּוֹיִ֑ם	ba./go.Yim	among the/ nations	H9003/{H1471A}	HRd/Ncmpa			H1471A			H9003=ב=in/{H1471A=גּוֹי=nation}					
 Psa.44.14(44.15)#04=L	מְנֽוֹד\־	me.nod-	a shaking of	{H4493}\H9014	HNcmsc			H4493			{H4493=מָנוֹד=shaking}\H9014=־=link					
 Psa.44.14(44.15)#05=L	רֹ֝֗אשׁ	Rosh	head	{H7218A}	HNcmsa			H7218A			{H7218A=רֹאשׁ=: head»head:1_head}					
-Psa.44.14(44.15)#06=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H0523	H3816		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
+Psa.44.14(44.15)#06=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H3816	H0523		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
 																
 # Psa.44.15 (Heb: 44.16)	kol- (כָּל־)	Hai.yom (הַ֭יּוֹם)	ke.li.ma.Ti (כְּלִמָּתִ֣י)	neg.Di (נֶגְדִּ֑י)	u.Vo.shet (וּבֹ֖שֶׁת)	pa.Nai (פָּנַ֣י)	ki.Sa.te.ni (כִּסָּֽתְנִי׃)									
 #_Translation	all	the/ day	ignominy/ my	[is] before/ me	and/ [the] shame of	face/ my	it has covered/ me									
@@ -30348,7 +30348,7 @@ Psa.57.9(57.10)#01=L	אוֹדְ/ךָ֖	'od./Kha	I will give thanks to/ you	{H303
 Psa.57.9(57.10)#02=L	בָ/עַמִּ֥ים\׀	va./'a.Mim	among the/ peoples	H9003/{H5971A}\H9015	HRd/Ncmpa			H5971A			H9003=ב=in/{H5971A=עַם=: people»people:1_people;_nation}\H9015=׀=separate					
 Psa.57.9(57.10)#03=L	אֲדֹנָ֑י	'a.do.Nai	O Lord	{H0136}	HNpt			H0136			{H0136=אֲדֹנָי=Lord»LORD@Gen.1.1-Heb}					
 Psa.57.9(57.10)#04=L	אֲ֝זַמֶּרְ/ךָ֗	'a.za.mer./kha	I will sing praises to/ you	{H2167}/H9031	HVpi1cs/Sp2ms			H2167			{H2167=זָמַר=to sing}/H9031=Os2m=you					
-Psa.57.9(57.10)#05=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H0523	H3816		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
+Psa.57.9(57.10)#05=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H3816	H0523		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
 																
 # Psa.57.10 (Heb: 57.11)	ki- (כִּֽי־)	ga.Dol (גָדֹ֣ל)	'ad- (עַד־)	sha.Ma.yim (שָׁמַ֣יִם)	chas.De.kha (חַסְדֶּ֑ךָ)	ve.'ad- (וְֽעַד־)	she.cha.Kim (שְׁחָקִ֥ים)	'a.mi.Te.kha (אֲמִתֶּֽךָ׃)								
 #_Translation	for	[is] great	to	[the] heavens	covenant loyalty/ your	and/ to	[the] clouds	faithfulness/ your								
@@ -45443,7 +45443,7 @@ Psa.108.3(108.4)#01=L	אוֹדְ/ךָ֖	'od./Kha	I will give thanks/ you	{H3034}
 Psa.108.3(108.4)#02=L	בָ/עַמִּ֥ים\׀	va./'a.Mim	among the/ peoples	H9003/{H5971A}\H9015	HRd/Ncmpa			H5971A			H9003=ב=in/{H5971A=עַם=: people»people:1_people;_nation}\H9015=׀=separate					
 Psa.108.3(108.4)#03=L	יְהוָ֑ה	Yah.weh	O Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
 Psa.108.3(108.4)#04=L	וַ֝/אֲזַמֶּרְ/ךָ֗	va./'a.za.mer./kha	and/ I will sing praises to/ you	H9002/{H2167}/H9031	HC/Vpu1cs/Sp2ms			H2167			H9002=ו=and/{H2167=זָמַר=to sing}/H9031=Os2m=you					
-Psa.108.3(108.4)#05=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H0523	H3816		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
+Psa.108.3(108.4)#05=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H3816	H0523		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
 																
 # Psa.108.4 (Heb: 108.5)	ki- (כִּֽי־)	ga.Dol (גָד֣וֹל)	me.'al- (מֵֽעַל־)	sha.Ma.yim (שָׁמַ֣יִם)	chas.De.kha (חַסְדֶּ֑ךָ)	ve.'ad- (וְֽעַד־)	she.cha.Kim (שְׁחָקִ֥ים)	'a.mi.Te.kha (אֲמִתֶּֽךָ׃)								
 #_Translation	for	[is] great	<from>/ above	[the] heavens	covenant loyalty/ your	and/ [is] to	[the] clouds	faithfulness/ your								
@@ -55087,7 +55087,7 @@ Psa.149.7#01=L	לַ/עֲשׂ֣וֹת	la./'a.Sot	to/ execute	H9005/{H6213A}	HR/Vq
 Psa.149.7#02=L	נְ֭קָמָה	Ne.ka.mah	vengeance	{H5360}	HNcfsa			H5360			{H5360=נְקָמָה=vengeance}					
 Psa.149.7#03=L	בַּ/גּוֹיִ֑ם	ba./go.Yim	on the/ nations	H9003/{H1471A}	HRd/Ncmpa			H1471A			H9003=ב=in/{H1471A=גּוֹי=nation}					
 Psa.149.7#04=L	תּֽ֝וֹכֵחֹ֗ת	to.khe.Chot	punishment<s>	{H8433A}	HNcfpa			H8433A			{H8433A=תּוֹכֵחָה=rebuke}					
-Psa.149.7#05=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H0523	H3816		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
+Psa.149.7#05=V	בָּ/לְאֻמִּים׃	ba/.le'u.Mim	among the/ peoples	H9003/{H3816}\H9016	HRd/Ncfpa	L= bal/-/'u.Mim (בַּל/־/אֻמִּֽים\׃) "not// peoples" (H1077//H0523=Hn//Ncfpa)		H3816	H0523		H9003#1=ב=in/HN{H3816#4=לְאֹם=people}\H9016#7=׃=verseEnd					
 																
 # Psa.149.8	le'.Sor (לֶאְסֹ֣ר)	mal.khei.Hem (מַלְכֵיהֶ֣ם)	be.zi.Kim (בְּזִקִּ֑ים)	ve.nikh.be.dei.Hem (וְ֝נִכְבְּדֵיהֶ֗ם)	be.khav.Lei (בְּכַבְלֵ֥י)	var.Zel (בַרְזֶֽל׃)										
 #_Translation	to/ bind	kings/ their	with/ fetters	and/ honored [people]/ their	with/ shackles of	iron										
