@@ -31508,7 +31508,7 @@ Jer.3.7#14=L	יְהוּדָֽה\׃	ye.hu.Dah	Judah	{H3063G}\H9016	HNpl			H3063G	
 #_Significant variant																
 #_Jer.3.8	va.'e.Ten (וָאֶתֵּ֛ן)	'et- (אֶת־)	Se.fer (סֵ֥פֶר)	ke.ri.tu.Tei.ha (כְּרִיתֻתֶ֖יהָ)	'e.Lei.ha (אֵלֶ֑יהָ)	ve.Lo' (וְלֹ֨א)	ya.re.'Ah (יָֽרְאָ֜ה)	bo.ge.Dah (בֹּֽגֵדָ֤ה)	ye.hu.Dah (יְהוּדָה֙)	'a.cho.Tah (אֲחוֹתָ֔הּ)						
 #_Translation	and/ I gave	<obj.>	[the] document of	divorce<s>/ her	to/ her	and/ not	she was afraid	treacherous	Judah	sister/ her						
-#_Word+Grammar	H9001/H5414G=Hc/Vqw1cs	H0853=HTo	H5612A=HNcmsc	H3748/H9024=HNcfsc/Sp3fs	H0413/H9034=HRd/Sp3fs	H9002/H3808=HC/Tn	H3372G=HVqp3fs	H0898=HVqrfsa	H3063G=HNpl	H0269/H9024=HNcfsc/Sp3fs						
+#_Word+Grammar	H9001/H5414G=Hc/Vqw1cs	H0853=HTo	H5612A=HNcmsc	H3748/H9024=HNcfpc/Sp3fs	H0413/H9034=HRd/Sp3fs	H9002/H3808=HC/Tn	H3372G=HVqp3fs	H0898=HVqrfsa	H3063G=HNpl	H0269/H9024=HNcfsc/Sp3fs						
 #_Significant variant																
 #_Jer.3.8	va.Te.lekh (וַתֵּ֖לֶךְ)	va.Ti.zen (וַתִּ֥זֶן)	gam- (גַּם־)	Hi' (הִֽיא׃)												
 #_Translation	and/ she went	and/ she acted as a prostitute	also	she												
@@ -31529,7 +31529,7 @@ Jer.3.8#10=L	שִׁלַּחְתִּ֕י/הָ	shi.lach.Ti./ha	I sent away/ her	{H
 Jer.3.8#11=L	וָ/אֶתֵּ֛ן	va./'e.Ten	and/ I gave	H9001/{H5414G}	Hc/Vqw1cs			H5414G			H9001=ו=&/{H5414G=נָתַן=: give»to give:1_give;_deliver;_send;_produce}					
 Jer.3.8#12=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 Jer.3.8#13=L	סֵ֥פֶר	Se.fer	[the] document of	{H5612A}	HNcmsc			H5612A			{H5612A=סֵ֫פֶר=: document»scroll:1_document}					
-Jer.3.8#14=L	כְּרִיתֻתֶ֖י/הָ	ke.ri.tu.Tei./ha	divorce<s>/ her	{H3748}/H9024	HNcfsc/Sp3fs			H3748			{H3748=כְּרִיתוּת=divorce}/H9024=Ps3f=her					
+Jer.3.8#14=L	כְּרִיתֻתֶ֖י/הָ	ke.ri.tu.Tei./ha	divorce<s>/ her	{H3748}/H9024	HNcfpc/Sp3fs			H3748			{H3748=כְּרִיתוּת=divorce}/H9024=Ps3f=her					
 Jer.3.8#15=L	אֵלֶ֑י/הָ	'e.Lei./ha	to/ her	{H0413}/H9034	HRd/Sp3fs			H0413			{H0413=אֶל=to(wards)}/H9034=Os3f=her					
 Jer.3.8#16=L	וְ/לֹ֨א	ve./Lo'	and/ not	H9002/{H3808}	HC/Tn			H3808			H9002=ו=and/{H3808=לֹא=not}					
 Jer.3.8#17=L	יָֽרְאָ֜ה	ya.re.'Ah	she was afraid	{H3372G}	HVqp3fs			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
@@ -67286,7 +67286,7 @@ Lam.1.6#17=L	רוֹדֵֽף\׃\ \ס	ro.Def	a pursuer	{H7291}\H9016\ \H9018	HVqrm
 #_Significant variant																
 #_Lam.1.7	sa.cha.Ku (שָׂחֲק֖וּ)	'al (עַ֥ל)	mish.ba.Te.ha (מִשְׁבַּתֶּֽהָ׃ ס)													
 #_Translation	they laughed	at	annihilation<s>/ her													
-#_Word+Grammar	H7832=HVqp3cp	H5921A=HR	H4868/H9024\ =HNcmsc/Sp3fs													
+#_Word+Grammar	H7832=HVqp3cp	H5921A=HR	H4868/H9024\ =HNcmpc/Sp3fs													
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -67312,7 +67312,7 @@ Lam.1.7#19=L	רָא֣וּ/הָ	ra.'U./ha	they saw/ her	{H7200G}/H9034	HVqp3cp/Sp
 Lam.1.7#20=L	צָרִ֔ים	tza.Rim	opponents	{H6862C}	HNcmpa			H6862C_B			{H6862C=צַר=enemy}					
 Lam.1.7#21=L	שָׂחֲק֖וּ	sa.cha.Ku	they laughed	{H7832}	HVqp3cp			H7832			{H7832=שָׂחַק=to laugh}					
 Lam.1.7#22=L	עַ֥ל	'al	at	{H5921A}	HR			H5921A			{H5921A=עַל=upon}					
-Lam.1.7#23=L	מִשְׁבַּתֶּֽ/הָ\׃\ \ס	mish.ba.Te./ha	annihilation<s>/ her	{H4868}/H9024\H9016\ \H9018	HNcmsc/Sp3fs			H4868			{H4868=מִשְׁבָּת=annihilation}/H9024=Ps3f=her\H9016=׃=verseEnd\ \H9018=ס=section					
+Lam.1.7#23=L	מִשְׁבַּתֶּֽ/הָ\׃\ \ס	mish.ba.Te./ha	annihilation<s>/ her	{H4868}/H9024\H9016\ \H9018	HNcmpc/Sp3fs			H4868			{H4868=מִשְׁבָּת=annihilation}/H9024=Ps3f=her\H9016=׃=verseEnd\ \H9018=ס=section					
 																
 # Lam.1.8	chet' (חֵ֤טְא)	cha.te.'Ah (חָֽטְאָה֙)	ye.Ru.sha.Lim (יְר֣וּשָׁלִַ֔ם)	'al- (עַל־)	ken (כֵּ֖ן)	le.ni.Dah (לְנִידָ֣ה)	ha.Ya.tah (הָיָ֑תָה)	kal- (כָּֽל־)	me.kha.be.Dei.ha (מְכַבְּדֶ֤יהָ)	hi.zi.Lu.ha (הִזִּיל֙וּהָ֙)						
 #_Translation	sin	she has sinned	Jerusalem	there-	-fore	<into>/ impurity	she has become	all	[those who] honored/ her	they despise/ her						
@@ -78975,7 +78975,7 @@ Ezk.16.55#13=L	לְ/קַדְמַתְ/כֶֽן\׃	le./kad.mat./Khen	to/ former st
 																
 # Ezk.16.56	ve.Lo' (וְל֤וֹא)	ha.ye.Tah (הָֽיְתָה֙)	se.Dom (סְדֹ֣ם)	'a.cho.Tekh (אֲחוֹתֵ֔ךְ)	lish.mu.'Ah (לִשְׁמוּעָ֖ה)	be.Fikh (בְּפִ֑יךְ)	be.Yom (בְּי֖וֹם)	ge.'o.Na.yikh (גְּאוֹנָֽיִךְ׃)								
 #_Translation	and/ not	did she become?	Sodom	sister/ your	<into>/ a mention	in/ mouth/ your	in/ [the] day of	pride<s>/ your								
-#_Word+Grammar	H9002/H3808=HC/Tn	H1961=HVqp3fs	H5467=HNpl	H0269/H9022=HNcfsc/Sp2fs	H9005/H8052=HR/Ncfsa	H9003/H6310G/H9022=HR/Ncmsc/Sp2fs	H9003/H3117G=HR/Ncmsc	H1347/H9022=HNcmsc/Sp2fs								
+#_Word+Grammar	H9002/H3808=HC/Tn	H1961=HVqp3fs	H5467=HNpl	H0269/H9022=HNcfsc/Sp2fs	H9005/H8052=HR/Ncfsa	H9003/H6310G/H9022=HR/Ncmsc/Sp2fs	H9003/H3117G=HR/Ncmsc	H1347/H9022=HNcmpc/Sp2fs								
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -78986,7 +78986,7 @@ Ezk.16.56#04=L	אֲחוֹתֵ֔/ךְ	'a.cho.Te/kh	sister/ your	{H0269}/H9022	HNc
 Ezk.16.56#05=L	לִ/שְׁמוּעָ֖ה	li/sh.mu.'Ah	<into>/ a mention	H9005/{H8052}	HR/Ncfsa			H8052			H9005=ל=to/{H8052=שְׁמוּעָה=tidings}					
 Ezk.16.56#06=L	בְּ/פִ֑י/ךְ	be./Fi/kh	in/ mouth/ your	H9003/{H6310G}/H9022	HR/Ncmsc/Sp2fs			H6310G			H9003=ב=in/{H6310G=פֶּה=: lip»lip:1_lip;_mouth}/H9022=Ps2f=your					
 Ezk.16.56#07=L	בְּ/י֖וֹם	be./Yom	in/ [the] day of	H9003/{H3117G}	HR/Ncmsc			H3117G			H9003=ב=in/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
-Ezk.16.56#08=L	גְּאוֹנָֽיִ/ךְ\׃	ge.'o.Na.yi/kh	pride<s>/ your	{H1347}/H9022\H9016	HNcmsc/Sp2fs			H1347			{H1347=גָּאוֹן=pride}/H9022=Ps2f=your\H9016=׃=verseEnd					
+Ezk.16.56#08=L	גְּאוֹנָֽיִ/ךְ\׃	ge.'o.Na.yi/kh	pride<s>/ your	{H1347}/H9022\H9016	HNcmpc/Sp2fs			H1347			{H1347=גָּאוֹן=pride}/H9022=Ps2f=your\H9016=׃=verseEnd					
 																
 # Ezk.16.57	be.te.Rem (בְּטֶרֶם֮)	ti.ga.Leh (תִּגָּלֶ֣ה)	ra.'a.teKh (רָעָתֵךְ֒)	ke.Mo (כְּמ֗וֹ)	'et (עֵ֚ת)	cher.Pat (חֶרְפַּ֣ת)	be.not- (בְּנוֹת־)	'a.Ram (אֲרָ֔ם)	ve.khol (וְכָל־)	se.vi.vo.Tei.ha (סְבִיבוֹתֶ֖יהָ)						
 #_Translation	<in>/ before	it was uncovered	wickedness/ your	like	[the] time of	[the] reproach of	[the] daughters of	Aram	and/ all	around/ it						
@@ -84714,7 +84714,7 @@ Ezk.23.42#19=L	רָאשֵׁי/הֶֽן\׃	ra.shei./Hen	heads/ their	{H7218A}/H90
 																
 # Ezk.23.43	va.'o.Mar (וָאֹמַ֕ר)	la.ba.Lah (לַבָּלָ֖ה)	ni.'u.Fim (נִֽאוּפִ֑ים)	a.ta (עַתָּ֛ה)	yiz.nuh (יִזְנ֥וּ)	taz.nu.Te.ha (תַזְנוּתֶ֖הָ)	va.Hi' (וָהִֽיא׃)									
 #_Translation	and/ I said	of the/ [woman] worn out	adulteries	now	they will act as a prostitutes	prostitution<s>/ her	and/ she									
-#_Word+Grammar	H9001/H0559=Hc/Vqw1cs	H9005/H1087=HRd/Aafsa	H5004=HNcmpa	Q=H6258=HD	Q=H2181=HVqi3mp	H8457/H9024=HNcfsc/Sp3fs	H9002/H1931=HC/Pp3fs									
+#_Word+Grammar	H9001/H0559=Hc/Vqw1cs	H9005/H1087=HRd/Aafsa	H5004=HNcmpa	Q=H6258=HD	Q=H2181=HVqi3mp	H8457/H9024=HNcfpc/Sp3fs	H9002/H1931=HC/Pp3fs									
 #_Significant variant				K= a.ta (עֵת) "time" (H6256=HNcbsc)	K= yiz.nuh (יִזְנֻה) "he will act as a prostitute" (H2181=HVqi3ms)											
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -84723,7 +84723,7 @@ Ezk.23.43#02=L	לַ/בָּלָ֖ה	la./ba.Lah	of the/ [woman] worn out	H9005/{H1
 Ezk.23.43#03=L	נִֽאוּפִ֑ים	ni.'u.Fim	adulteries	{H5004}	HNcmpa			H5004			{H5004=נִאֻף=adultery}					
 Ezk.23.43#04=Q(K)	עַתָּ֛ה	a.ta	now	{H6258}	HD	K= a.ta (עֵת) "time" (H6256=HNcbsc)	L= עַתָּ֛ ¦ ;	H6258	H6256		{H6258=עַתָּ֫ה=now}					
 Ezk.23.43#05=Q(K)	יִזְנ֥וּ	yiz.nuh	they will act as a prostitutes	{H2181}	HVqi3mp	K= yiz.nuh (יִזְנֻה) "he will act as a prostitute" (H2181=HVqi3ms)	L= יִזְנ֥הּ ¦ ;	H2181			{H2181=זָנָה=to fornicate}					
-Ezk.23.43#06=L	תַזְנוּתֶ֖/הָ	taz.nu.Te./ha	prostitution<s>/ her	{H8457}/H9024	HNcfsc/Sp3fs			H8457			{H8457=תַּזְנוּת=fornication}/H9024=Ps3f=her					
+Ezk.23.43#06=L	תַזְנוּתֶ֖/הָ	taz.nu.Te./ha	prostitution<s>/ her	{H8457}/H9024	HNcfpc/Sp3fs			H8457			{H8457=תַּזְנוּת=fornication}/H9024=Ps3f=her					
 Ezk.23.43#07=L	וָ/הִֽיא\׃	va./Hi'	and/ she	H9002/{H1931}\H9016	HC/Pp3fs			H1931			H9002=ו=and/{H1931=הוּא=he;_she;_it}\H9016=׃=verseEnd					
 																
 # Ezk.23.44	vai.ya.Vo' (וַיָּב֣וֹא)	'e.Lei.ha (אֵלֶ֔יהָ)	ke.Vo' (כְּב֖וֹא)	'el- (אֶל־)	'i.Shah (אִשָּׁ֣ה)	zo.Nah (זוֹנָ֑ה)	ken (כֵּ֣ן)	Ba.'u (בָּ֗אוּ)	'el- (אֶֽל־)	'o.ho.Lah (אָֽהֳלָה֙)						
@@ -92325,7 +92325,7 @@ Ezk.35.10#14=L	הָיָֽה\׃	ha.Yah	he was	{H1961}\H9016	HVqp3ms			H1961_B			{
 #_Significant variant																
 #_Ezk.35.11	'a.Si.tah (עָשִׂ֔יתָה)	mi.sin.'a.Tei.kha (מִשִּׂנְאָתֶ֖יךָ)	Bam (בָּ֑ם)	ve.no.Da'.ti (וְנוֹדַ֥עְתִּי)	vam (בָ֖ם)	ka.'a.Sher (כַּאֲשֶׁ֥ר)	'esh.pe.Te.kha (אֶשְׁפְּטֶֽךָ׃)									
 #_Translation	you did	from/ hatred<s>/ your	with/ them	and/ I will make myself known	among/ them	<just>/ when	I will judge/ you									
-#_Word+Grammar	H6213A=HVqp2ms	H9006/H8135/H9021=HR/Ncfsc/Sp2ms	H9003/H9038=HR/Sp3mp	H9001/H3045=Hc/VNq1cs	H9003/H9038=HR/Sp3mp	H9004/H0834D=HR/Tr	H8199/H9031=HVqi1cs/Sp2ms									
+#_Word+Grammar	H6213A=HVqp2ms	H9006/H8135/H9021=HR/Ncfpc/Sp2ms	H9003/H9038=HR/Sp3mp	H9001/H3045=Hc/VNq1cs	H9003/H9038=HR/Sp3mp	H9004/H0834D=HR/Tr	H8199/H9031=HVqi1cs/Sp2ms									
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -92340,7 +92340,7 @@ Ezk.35.11#08=L	כְּ/אַפְּ/ךָ֙	ke./'a.pe./Kha	according to/ anger/ your
 Ezk.35.11#09=L	וּ/כְ/קִנְאָ֣תְ/ךָ֔	u./khe./kin.'A.te./kha	and/ according to/ jealousy/ your	H9002/H9004/{H7068}/H9021	HC/R/Ncfsc/Sp2ms			H7068			H9002=ו=and/H9004=כ=like/{H7068=קִנְאָה=jealousy}/H9021=Ps2m=your					
 Ezk.35.11#10=L	אֲשֶׁ֣ר	'a.Sher	which	{H0834A}	HTr			H0834A_A			{H0834A=אֲשֶׁר=which}					
 Ezk.35.11#11=L	עָשִׂ֔יתָה	'a.Si.tah	you did	{H6213A}	HVqp2ms			H6213A_B			{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
-Ezk.35.11#12=L	מִ/שִּׂנְאָתֶ֖י/ךָ	mi./sin.'a.Tei./kha	from/ hatred<s>/ your	H9006/{H8135}/H9021	HR/Ncfsc/Sp2ms			H8135			H9006=מ=from/{H8135=שִׂנְאָה=hating}/H9021=Ps2m=your					
+Ezk.35.11#12=L	מִ/שִּׂנְאָתֶ֖י/ךָ	mi./sin.'a.Tei./kha	from/ hatred<s>/ your	H9006/{H8135}/H9021	HR/Ncfpc/Sp2ms			H8135			H9006=מ=from/{H8135=שִׂנְאָה=hating}/H9021=Ps2m=your					
 Ezk.35.11#13=L	בָּ֑/ם	Ba/m	with/ them	H9003/{H9038}	HR/Sp3mp			H9038_a	H1992		H9003=ב=in/{H9038=Op3m=them}					
 Ezk.35.11#14=L	וְ/נוֹדַ֥עְתִּי	ve./no.Da'.ti	and/ I will make myself known	H9001/{H3045}	Hc/VNq1cs			H3045			H9001=ו=&/{H3045=יָדַע=to know}					
 Ezk.35.11#15=L	בָ֖/ם	va/m	among/ them	H9003/{H9038}	HR/Sp3mp			H9038_b	H1992		H9003=ב=in/{H9038=Op3m=them}					
@@ -127617,7 +127617,7 @@ Hab.2.10#07=L	וְ/חוֹטֵ֥א	ve./cho.Te'	and/ [you have] sinned	H9002/{H239
 Hab.2.10#08=L	נַפְשֶֽׁ/ךָ\׃	naf.She./kha	self/ your	{H5315H}/H9021\H9016	HNcfsc/Sp2ms			H5315H			{H5315H=נֶ֫פֶשׁ=: life»soul:2_life;_breath}/H9021=Ps2m=your\H9016=׃=verseEnd					
 																
 # Hab.2.11	ki- (כִּי־)	'E.ven (אֶ֖בֶן)	mi.Kir (מִקִּ֣יר)	tiz.'Ak (תִּזְעָ֑ק)	ve.kha.Fis (וְכָפִ֖יס)	me.'Etz (מֵעֵ֥ץ)	ya.'a.Ne.nah (יַעֲנֶֽנָּה׃ פ)									
-#_Translation	for	a stone	from/ [the] wall	it will cry out	and/ a rafter	from/ [the] wood<s>	it will answer/ it									
+#_Translation	for	a stone	from/ [the] wall	it will cry out	and/ a rafter	from/ [the] wood	it will answer/ it									
 #_Word+Grammar	H3588A=HTc	H0068G=HNcfsa	H9006/H7023=HR/Ncmsa	H2199=HVqi3fs	H9002/H3714=HC/Ncmsa	H9006/H6086G=HR/Ncmsa	H6030B/H9034\ =HVqi3ms/Sp3fs									
 #_Significant variant																
 																
@@ -127627,7 +127627,7 @@ Hab.2.11#02=L	אֶ֖בֶן	'E.ven	a stone	{H0068G}	HNcfsa			H0068G			{H0068G=א�
 Hab.2.11#03=L	מִ/קִּ֣יר	mi./Kir	from/ [the] wall	H9006/{H7023}	HR/Ncmsa			H7023			H9006=מ=from/{H7023=קִיר=wall}					
 Hab.2.11#04=L	תִּזְעָ֑ק	tiz.'Ak	it will cry out	{H2199}	HVqi3fs			H2199			{H2199=זָעַק=to cry out}					
 Hab.2.11#05=L	וְ/כָפִ֖יס	ve./kha.Fis	and/ a rafter	H9002/{H3714}	HC/Ncmsa			H3714			H9002=ו=and/{H3714=כָּפִיס=rafter}					
-Hab.2.11#06=L	מֵ/עֵ֥ץ	me./'Etz	from/ [the] wood<s>	H9006/{H6086G}	HR/Ncmsa			H6086G			H9006=מ=from/{H6086G=עֵץ=: wood»tree:1_wood}					
+Hab.2.11#06=L	מֵ/עֵ֥ץ	me./'Etz	from/ [the] wood	H9006/{H6086G}	HR/Ncmsa			H6086G			H9006=מ=from/{H6086G=עֵץ=: wood»tree:1_wood}					
 Hab.2.11#07=L	יַעֲנֶֽ/נָּה\׃\ \פ	ya.'a.Ne./nah	it will answer/ it	{H6030B}/H9034\H9016\ \H9017	HVqi3ms/Sp3fs			H6030B			{H6030B=עָנָה=to answer}/H9034=Os3f=her\H9016=׃=verseEnd\ \H9017=פ=para					
 																
 # Hab.2.12	Ho (ה֛וֹי)	bo.Neh (בֹּנֶ֥ה)	'ir (עִ֖יר)	be.da.Mim (בְּדָמִ֑ים)	ve.kho.Nen (וְכוֹנֵ֥ן)	kir.Yah (קִרְיָ֖ה)	be.'av.Lah (בְּעַוְלָֽה׃)									
