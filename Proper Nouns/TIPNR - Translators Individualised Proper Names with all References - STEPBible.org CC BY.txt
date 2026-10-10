@@ -10252,7 +10252,7 @@ Hashum@Neh.8.4=H2828H	Man living at the time of Exile and Return	 + 				>	#A man
 @Ambiguity=																																					
 $========== PERSON(s)																																					
 Senaah@1Ch.9.7-Neh=H5570G	Man living at the time of Exile and Return	 + 			Hodaviah@1Ch.9.7, Judah@Neh.11.9	Tribe of Benjamin	#A man descended from <strong="H5570G">Senaah</strong> from the tribe of Levi before time of Exile and Return, first mentioned at <ref="1Ch.9.7">1Ch.9.7</ref>) <br>referred to as <strong="H5574">Hassenuah</strong> (סְנוּאָה), or <strong="H5570H">Hassenaah</strong>   (סְנָאָה); <br>father of <strong="H1938I">Hodaviah</strong> and <strong="H3063I">Judah</strong>.	Male																													
-– Named	Senaah@Ezr.2.35-Neh	H5570G«H5570=סְנָאָה	Senaah	Ezr.2.35; Neh.7.38																																
+– Named	Senaah@1Ch.9.7-Neh	H5570G«H5570=סְנָאָה	Senaah	Ezr.2.35; Neh.7.38																																
 – Group	Hassenaah|Senaah@1Ch.9.7-Neh	H5570H«H5570=הַסְּנָאָה , הַסְּנֻאָֽה	Hassenuah =ESV,NIV,KJV; Hassenaah =ESV,NIV,KJV; Hasenuah =KJV	1Ch.9.7; Neh.3.3																																
 – Spelled	Hassenuah|Senaah@1Ch.9.7-Neh	H5574«H5574=הַסְּנוּאָה	Hassenuah =ESV,NIV; Senuah =KJV	Neh.11.9																																
 – Total	Senaah or Hassenuah or Hassenaah or Senuah or Hasenuah	H5570G, H5574, H5570H	1Ch.9.7; Ezr.2.35; Neh.11.9; Neh.3.3; Neh.7.38;	3
@@ -12880,7 +12880,7 @@ Jambres@2Ti.3.8=G2387	Man living at the time of the New Testament	 + 				>	#A ma
 @Ambiguity=																																					
 $========== PERSON(s)																																					
 James@Luk.6.16-Act=G2385J	Father of an apostle living at the time of the New Testament	 + 			Judas@Mat.10.3-Act	>	#A man living at the time of the New Testament, first mentioned at <ref="Luk.6.16">Luk.6.16</ref>) <br>only referred to as <strong="G2385J">James</strong> (Ἰάκωβος); <br> father of <strong="G2455G">Judas</strong>.	Male																													
-– Named	James@Mat.10.3-Act	G2385J«G2385=Ἰάκωβος	James	Luk.6.16; Act.1.13c; 																																
+– Named	James@Luk.6.16-Act	G2385J«G2385=Ἰάκωβος	James	Luk.6.16; Act.1.13c; 																																
 – Total	James	G2385J	Luk.6.16; Act.1.13; 	2
 @Briefest= Father of Judas
 @Brief= Father of Judas, an Apostles
@@ -39857,7 +39857,7 @@ RENAMED Beer as Beer_1; Esau as Edom	f					>
 REMOVED because they are people: Esau; Abiezer@Num.26.30-Jdg; Jetur@1Ch.5.19; Nodab@1Ch.5.19; Naphish@1Ch.5.19; Kedar@Psa.120.5; Nebaioth@Isa.60.7; Nimrod@Mic.5.6						>																															
 ADDED REFS: OT refs for Gog						>																															
 MOVE REFS: Jos.19.2 from Sheba to Beer-sheba						>																															
-ADDED a few missing places: Addan@Ezr.2.59-Neh; Archites@Jos.16.2-1Ch; Ashurite@2Sa.2.9; Atad@Gen.50.10-; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23-Jos; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12-Ezk; Eden@Gen.2.8-Jol; Eglath-shelishiyah@Isa.15.5-Jer; Elam@Gen.14.1-Act; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14-Neh; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak_Mount@Jos.11.17-; Havilah@Gen.2.11; Hazor@Jer.49.28-; Hebrews@Gen.14.13-Heb; Hellenist|Greece@Dan.8.21; Jews|Judah@Gen.29.35-Rev; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothites@1Ch.27.30-Neh; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Moab_Plains@Num.22.1-Jos; Scythians@Col.3.11; Senaah@Ezr.2.35-Neh; Pacatiana@1Ti.6.21;  Ephraim@; Forest_of_Ephraim@						>																															
+ADDED a few missing places: Addan@Ezr.2.59-Neh; Archites@Jos.16.2-1Ch; Ashurite@2Sa.2.9; Atad@Gen.50.10-; Athach@1Sa.30.30; Atroth-beth-joab@1Ch.2.54; Avva@2Ki.17.24; Avvim@Deu.2.23-Jos; Beth-ashbea@1Ch.4.21; Beth-gader@1Ch.2.51; Beth-le-aphrah@Mic.1.10; Caleb_Ephrathah@1Ch.2.24; Eden@2Ki.19.12-Ezk; Eden@Gen.2.8-Jol; Eglath-shelishiyah@Isa.15.5-Jer; Elam@Gen.14.1-Act; Elkosh@Nam.1.1; Gadara@Mat.8.28; Gadara@Mat.8.28; Ge-harashim@1Ch.4.14-Neh; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Greece|Javan@Isa.66.19; Halak_Mount@Jos.11.17-; Havilah@Gen.2.11; Hazor@Jer.49.28-; Hebrews@Gen.14.13-Heb; Hellenist|Greece@Dan.8.21; Jews|Judah@Gen.29.35-Rev; Madmen@Jer.48.2; Magbish@Ezr.2.30; Meronothites@1Ch.27.30-Neh; Nod@Gen.4.16; Parvaim@2Ch.3.6; Pishon@Gen.2.11; Moab_Plains@Num.22.1-Jos; Scythians@Col.3.11; Senaah@1Ch.9.7-Neh; Pacatiana@1Ti.6.21;  Ephraim@; Forest_of_Ephraim@						>																															
 ADDED gentilics of places for place names that were known. Gentilics based on name unknown as people or places were assumed to be places						>																															
 DIVIDED Eshtemoa & Anim@Jos.15.50 to two separate places near each other; Kir@1Sa.22.3-Amo=H7024B into Kir@2Ki.16.9-Amo=H7024B at 2Ki.16.9; Isa.22.6; Amo.1.5; 9.7 & Kir@1Sa.22.3-Jer=H7024A at the others.						>																															
 SPELLED Abel-shittim as Shittim@Num.33.49-Mic; Ain as Rimmon@Num.34.11; Avva as Ivvah@2Ki.17.24-Isa; Gadara to Gerasa@Mat.8.28-Luk; Javan as Greece@Isa.66.19-Act																																					
