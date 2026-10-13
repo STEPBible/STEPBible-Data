@@ -65,7 +65,7 @@ Editions	Byz=Byzantine based on RP 2005;  NA27=Nestle-Aland 27th ed; NA28 2012 (
 Variants	Includes every variant in the major editions and manuscript variants before AD 500 that are used by translators  															
 Spanish 	Based on  Marvel Bible Project as on 9-Jan-2019 from https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip &  OpenGNT_keyedFeatures.csv.zip. This is expanded from the source which was available only for words in NA28. 															
 Sub-meanings: 	Words with more than one meaning are supplied with a context-sensitive sub-meaning. Individuals and Places are identified as in TIPNR. Other are based on CSG (Context Sensitive Gloss) from Marvel Bible Project as at 9-Jan-2019 from https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip &  OpenGNT_keyedFeatures.csv.zip															
-Conjoined data: 	Links for words that might not be translated (eg articles and particles) to the word they are gramatically connected to, which may precede them (marked as «) or succeed them (marked »). sometimes with several intervening words. 															
+Conjoined data: 	Links for words that might not be translated (eg articles and particles) to the word they are grammatically connected to, which may precede them (marked as «) or succeed them (marked »). sometimes with several intervening words. 															
 sStrong+Instance	Simple Strongs (sStrongs) are the numbers found in simpler tagged BIbles - ie without the letters added by NASB tagging or STEPBible disambiguation. 															
 	Instances mark more than one occurrence of the same sStrong in the same verse: "_A" is appended for the 1st instance  (eg G1234_A), "_B" for the 2nd instance etc. A lower case (eg "_b") indicates the word may not be included in some tagged Bibles, because it is not found in all manuscripts or because there is also an alternate way to tag this word. 															
 Alt Strongs	Alternate ways to tag the same word using Strongs tags. Differences can be due to variants, joined words (eg κἀγώ can be tagged as G2532 + G1473 or G2504) or tags for common forms of the same word (eg 'he is' and 'they are' instead of 'to be')															
@@ -25869,7 +25869,7 @@ Act.23.16#05=NKO	τῆς (tēs)	of the	G3588=T-GSF	ὁ=the/this/who	NA28+NA27+Ty
 Act.23.16#06=NKO	ἀδελφῆς (adelphēs)	sister	G0079=N-GSF	ἀδελφή=sister	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			hermana	sister	#06	G0079					
 Act.23.16#07=NKO	Παύλου (Paulou)	of Paul	G3972G=N-GSM-P	Παῦλος=Paul	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			de Pablo	Paul»Paul|Paul@Act.7.58	#07	G3972_A					
 Act.23.16#08=N(k)O	τὴν (tēn)	of the	G3588=T-ASF	ὁ=the/this/who	NA28+NA27+Tyn+SBL+WH+Treg	τὸ (t=to) of the - G3588=T-ASN in: TR+Byz		la	the	#08»09:G1747	G3588_C					
-Act.23.16#09=N(k)O	ἐνέδραν, (enedran)	ambush,	G1747=N-ASF	ἐνέδρα=plot/ambush	NA28+NA27+Tyn+SBL+WH+Treg	ἔνεδρον (t=enedron) hinderance - G1749=N-ASN in: TR+Byz		emboscada	ambush	#09	G1747	G1749				
+Act.23.16#09=N(k)O	ἐνέδραν, (enedran)	ambush,	G1747=N-ASF	ἐνέδρα=plot/ambush	NA28+NA27+Tyn+SBL+WH+Treg	ἔνεδρον (t=enedron) hindrance - G1749=N-ASN in: TR+Byz		emboscada	ambush	#09	G1747	G1749				
 Act.23.16#10=NKO	παραγενόμενος (paragenomenos)	having come near	G3854=V-2ADP-NSM	παραγίνομαι=to come	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			habiendo llegado a ser al lado de	to come	#10	G3854					
 Act.23.16#11=NKO	καὶ (kai)	and	G2532=CONJ	καί=and	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			y	and	#11	G2532					
 Act.23.16#12=NKO	εἰσελθὼν (eiselthōn)	having entered	G1525=V-2AAP-NSM	εἰσέρχομαι=to enter	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			habiendo venido hacia dentro	entered	#12	G1525					
@@ -33067,7 +33067,7 @@ Rom.2.25#06=NKO	νόμον (nomon)	[the] law	G3551=N-ASM	νόμος=law	NA28+N
 Rom.2.25#07=NKO	πράσσῃς· (prassēs)	you shall do;	G4238=V-PAS-2S	πράσσω=to do/require	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			estés practicando	you practise	#07	G4238					
 Rom.2.25#08=NKO	ἐὰν (ean)	if	G1437=COND	ἐάν=if	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			si alguna vez	if	#08	G1437_B					
 Rom.2.25#09=NKO	δὲ (de)	however	G1161=CONJ	δέ=but/and	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			pero	but	#09	G1161					
-Rom.2.25#10=NKO	παραβάτης (parabatēs)	a transgressor	G3848=N-NSM	παραβάτης=transgresor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgresor	a transgresor	#10	G3848					
+Rom.2.25#10=NKO	παραβάτης (parabatēs)	a transgressor	G3848=N-NSM	παραβάτης=transgressor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgressor	a transgressor	#10	G3848					
 Rom.2.25#11=NKO	νόμου (nomou)	of law	G3551=N-GSM	νόμος=law	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			de ley	law	#11	G3551_B					
 Rom.2.25#12=NKO	ᾖς, (ēs)	you shall be,	G1510=V-PAS-2S	εἰμί=to be	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			estés siendo	you are	#12	G1510	G5600				
 Rom.2.25#13=NKO	ἡ (hē)	the	G3588=T-NSF	ὁ=the/this/who	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			la	the	#13»14:G4061	G3588					
@@ -33128,7 +33128,7 @@ Rom.2.27#12=NKO	διὰ (dia)	with	G1223=PREP	διά=through/because of	NA28+NA
 Rom.2.27#13=NKO	γράμματος (grammatos)	[the] letter	G1121=N-GSN	γράμμα=something written	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			escrito	something written	#13	G1121					
 Rom.2.27#14=NKO	καὶ (kai)	and	G2532=CONJ	καί=and	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			y	and	#14	G2532_B					
 Rom.2.27#15=NKO	περιτομῆς (peritomēs)	circumcision	G4061=N-GSF	περιτομή=circumcision	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			de circuncisión	circumcision	#15	G4061					
-Rom.2.27#16=NKO	παραβάτην (parabatēn)	[are] a transgressor	G3848=N-ASM	παραβάτης=transgresor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgresor	a transgresor	#16	G3848					
+Rom.2.27#16=NKO	παραβάτην (parabatēn)	[are] a transgressor	G3848=N-ASM	παραβάτης=transgressor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgressor	a transgressor	#16	G3848					
 Rom.2.27#17=NKO	νόμου. (nomou)	of law.	G3551=N-GSM	νόμος=law	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			de ley	of law	#17	G3551_B					
 																
 # Rom.2.28	οὐ 	γὰρ 	ὁ 	ἐν 	τῷ 	φανερῷ 	Ἰουδαῖός 	ἐστιν, 	οὐδὲ 	ἡ 						
@@ -64324,7 +64324,7 @@ Gal.2.18#04=NKO	κατέλυσα, (katelusa)	I had torn down,	G2647=V-AAI-1S	κ
 Gal.2.18#05=NKO	ταῦτα (tauta)	these things	G3778=D-APN	οὗτος=this/he/she/it	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			estas (cosas)	those	#05»07:G3618	G3778	G5023				
 Gal.2.18#06=NKO	πάλιν (palin)	again	G3825=ADV	πάλιν=again	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			otra vez	again	#06	G3825					
 Gal.2.18#07=NKO	οἰκοδομῶ, (oikodomō)	I build,	G3618=V-PAI-1S	οἰκοδομέω=to build	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			estoy construyendo	to build	#07	G3618					
-Gal.2.18#08=NKO	παραβάτην (parabatēn)	a transgressor	G3848=N-ASM	παραβάτης=transgresor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgresor	transgresor	#08	G3848					
+Gal.2.18#08=NKO	παραβάτην (parabatēn)	a transgressor	G3848=N-ASM	παραβάτης=transgressor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgressor	transgressor	#08	G3848					
 Gal.2.18#09=NKO	ἐμαυτὸν (emauton)	myself	G1473=F-1ASM	ἐμαυτοῦ=myself	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			a mí mismo	myself	#09»10:G4921	G1473	G1683				
 Gal.2.18#10=NKO	συνιστάνω· (sunistanō)	I prove;	G4921=V-PAI-1S	συνίστημι, συνιστάω=to commend	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz		TR+Byz: συνίστημι ; 	estoy poniendo de pie juntamente	to commend	#10	G4921					
 																
@@ -97043,7 +97043,7 @@ Jas.2.9#07=NKO	ὑπὸ (hupo)	by	G5259G=PREP	ὑπό=by/under	NA28+NA27+Tyn+SB
 Jas.2.9#08=NKO	τοῦ (tou)	the	G3588=T-GSM	ὁ=the/this/who	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			la	the	#08»09:G3551	G3588					
 Jas.2.9#09=NKO	νόμου (nomou)	law	G3551=N-GSM	νόμος=law	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			ley	law	#09	G3551					
 Jas.2.9#10=NKO	ὡς (hōs)	as	G5613=PRT	ὡς=which/how	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			como	as	#10	G5613					
-Jas.2.9#11=NKO	παραβάται. (parabatai)	transgressors.	G3848=N-NPM	παραβάτης=transgresor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgresores	transgresor	#11	G3848					
+Jas.2.9#11=NKO	παραβάται. (parabatai)	transgressors.	G3848=N-NPM	παραβάτης=transgressor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgressores	transgressor	#11	G3848					
 																
 # Jas.2.10	ὅστις 	γὰρ 	ὅλον 	τὸν 	νόμον 	τηρήσῃ, 	πταίσῃ 	δὲ 	ἐν 	ἑνί, 						
 #_Translation	Whoever	for	all	the	law	may keep,	may stumble	but	in	one [point],						
@@ -97095,7 +97095,7 @@ Jas.2.11#13=N(k)O	μοιχεύεις (moicheueis)	you do commit adultery	G3431=
 Jas.2.11#14=N(k)O	φονεύεις (phoneueis)	do commit murder	G5407=V-PAI-2S	φονεύω=to murder	NA28+NA27+Tyn+SBL+WH+Treg	φονεύσεις (t=phoneuseis) you will murder - G5407=V-FAI-2S in: TR+Byz		estás asesinando	to murder	#14	G5407_B					
 Jas.2.11#15=NKO	δέ, (de)	however,	G1161=CONJ	δέ=but/and	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			pero	but	#15	G1161_B					
 Jas.2.11#16=NKO	γέγονας (gegonas)	you have become	G1096=V-2RAI-2S	γίνομαι=to be	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			has llegado a ser	to be	#16	G1096					
-Jas.2.11#17=NKO	παραβάτης (parabatēs)	a transgressor	G3848=N-NSM	παραβάτης=transgresor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgresor	transgresor	#17	G3848					
+Jas.2.11#17=NKO	παραβάτης (parabatēs)	a transgressor	G3848=N-NSM	παραβάτης=transgressor	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			transgressor	transgressor	#17	G3848					
 Jas.2.11#18=NKO	νόμου. (nomou)	of [the] law.	G3551=N-GSM	νόμος=law	NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz			de ley	law	#18	G3551					
 																
 # Jas.2.12	οὕτως 	λαλεῖτε 	καὶ 	οὕτως 	ποιεῖτε 	ὡς 	διὰ 	νόμου 	ἐλευθερίας 	μέλλοντες 						
