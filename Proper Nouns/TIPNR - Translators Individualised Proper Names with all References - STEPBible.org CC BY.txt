@@ -11,14 +11,14 @@ JSON for Othes at 	https://drive.google.com/file/d/1QzCf-8Q4inZ8ukMpR_iuZW50_wkO
 	==============================================================																																				
 	Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)																																				
 	==============================================================																																				
-	This licence allows you to:																																				
-	* Include any part of this data in software or publications without requesting permission																																				
-	* Download the data and reformat it for your application, without changing the data																																				
-	* Send any proposed corrections to STEPBibleATGmail.com. to be verified																																				
-	(You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)																																				
-	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself.																																				
-	(Updates or corrections are easier to implement when the data is distributed from a single source)																																				
-	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..																																				
+	This licence allows you to:												
+	* Include any part of this data in software or publications and send it to AI servers  without requesting permission 												
+	* Download the data and reformat it for your application												
+	* Send any proposed corrections to STEPBibleATGmail.com to be verified 												
+	  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)												
+	* Refer others to STEPBible.github.io/STEPBible-Data as the source of the data. 												
+	 Please do not post copies of this data file elsewhere, so that this remains the single up-to-date source"												
+	* We'd love to hear about your project when you make it available. Email us at STEPBible@Gmail.com.												
 	==============================================================																																				
 –																																					
 Geographical categories are defined at:		https://tinyurl.com/TIPNR-Geography																																			
@@ -30210,7 +30210,7 @@ Babylon@Gen.10.10-Rev=H0894	Babylon			https://www.google.com/maps/@32.5365036861
 – Named	Merathaim|Babylon@Gen.10.10-Rev	H4850«H4850=מְרָתַיִם	Merathaim	Jer.50.21																																
 – Named	Pekod|Babylon@Gen.10.10-Rev	H6489«H6489=פְּקוֹד	Pekod	Jer.50.21; Ezk.23.23																																
 – Greek	Babylon@Gen.10.10-Rev	G0897«G0897=Βαβυλών	Babylon	Mat.1.11; Mat.1.12; Mat.1.17a; Mat.1.17b; Act.7.43; 1Pe.5.13; Rev.14.8; Rev.16.19; Rev.17.5; Rev.18.2; Rev.18.10; Rev.18.21																																
-– Total	Babylon or Babel or Sheshak or Merathaim or Pekod or Babylonia	Babylon, Babel, Shinar	H0894, H0895, H8347, H4850, H6489, G0897, H0896	Gen.10.10; 11.2; 14.1,9; Jos.7.21; 2Ki.17.24,30; 20.12ff; 24.1ff;25.1ff; 1Ch.9.1; 2Ch.32.31; 33.11; 36.6ff; Ezr.2.1; Neh.7.6; 13.6; Est.2.6; Psa.87.4; 137.1,8; Isa.11.11; 13.1,19; 14.4,22; 21.9; 39.1ff; 43.14; 47.1; 48.14,20; Jer.20.4ff; 21.2ff; 22.25; 24.1; 25.1ff; 27.1ff;28.2ff; 29.1ff;32.2ff; 34.1ff; 35.11; 36.29; 37.1ff; 38.3ff; 39.1ff;40.1ff; 41.2,18; 42.11; 43.3,10; 44.30; 46.2ff; 49.28,30; 50.1ff; 51.1ff;52.1ff; Ezk.12.13; 17.12ff; 19.9; 21.19,21; 24.2; 26.7; 29.18,19; 30.10ff; 32.11; Dan.1.1; Mic.4.10; Zec.2.7; 6.10; Ezr.1.11; 5.12ff; 6.1,5; 7.6,9,16; 8.1; 11.9; Ezk.23.15ff; Jer.52.34; Dan.1.2; 2.1ff; 3.1ff; 4.6ff; 5.7; 7.1; Jer.25.26; 50.21; Zec.5.11; Mat.1.11ff; Act.7.43; 1Pe.5.13; Rev.14.8; 16.19; 17.5; 18.2ff; Ezr.4.9	172
+– Total	Babylon or Babel or Sheshak or Merathaim or Pekod or Babylonia or Shinar	Babylon, Babel, Shinar	H0894, H0895, H8347, H4850, H6489, G0897, H0896	Gen.10.10; 11.2; 14.1,9; Jos.7.21; 2Ki.17.24,30; 20.12ff; 24.1ff;25.1ff; 1Ch.9.1; 2Ch.32.31; 33.11; 36.6ff; Ezr.2.1; Neh.7.6; 13.6; Est.2.6; Psa.87.4; 137.1,8; Isa.11.11; 13.1,19; 14.4,22; 21.9; 39.1ff; 43.14; 47.1; 48.14,20; Jer.20.4ff; 21.2ff; 22.25; 24.1; 25.1ff; 27.1ff;28.2ff; 29.1ff;32.2ff; 34.1ff; 35.11; 36.29; 37.1ff; 38.3ff; 39.1ff;40.1ff; 41.2,18; 42.11; 43.3,10; 44.30; 46.2ff; 49.28,30; 50.1ff; 51.1ff;52.1ff; Ezk.12.13; 17.12ff; 19.9; 21.19,21; 24.2; 26.7; 29.18,19; 30.10ff; 32.11; Dan.1.1; Mic.4.10; Zec.2.7; 6.10; Ezr.1.11; 5.12ff; 6.1,5; 7.6,9,16; 8.1; 11.9; Ezk.23.15ff; Jer.52.34; Dan.1.2; 2.1ff; 3.1ff; 4.6ff; 5.7; 7.1; Jer.25.26; 50.21; Zec.5.11; Mat.1.11ff; Act.7.43; 1Pe.5.13; Rev.14.8; 16.19; 17.5; 18.2ff; Ezr.4.9	172
 @Briefest= 
 @Brief= Ancient Mesopotamian city, capital of Babylonian Empire, site of the Tower of Babel.
 @Short= Babylon, also known as Babel, Sheshak, Merathaim, or Pekod, was an ancient Mesopotamian city that served as the capital of the Babylonian Empire. (Multiple references, see article for details)
@@ -32208,7 +32208,7 @@ $========== PLACE
 En-rogel@Jos.15.7-1Ki=H5883	En-rogel			https://www.google.com/maps/@31.767775,35.234408,14z	https://palopenmaps.org/view/9999/@31.767775,35.234408	>	#A location first mentioned at <ref="Jos.15.7">Jos.15.7</ref>) <br>referred to as <strong="H5883">En-rogel</strong> (עֵין רֹגֵל), or <strong="H2120">Serpent's/ Stone</strong> (אֶ֫בֶן זֹחֶ֫לֶת). 	Place																													
 – Named	En-rogel@Jos.15.7-1Ki	H5883«H5883=עֵין רֹגֵל	En-rogel =ESV,KJV; En Rogel =NIV	Jos.15.7; Jos.18.16; 2Sa.17.17; 1Ki.1.9																																
 – Name combined	Stone_of_Zoheleth|En-rogel@Jos.15.7-1Ki	H2120«H2120=זֹחֶ֫לֶת+H0068I«H0068=אֶ֫בֶן	Stone of/ Zoheleth =NIV,KJV; Serpent's/ Stone =ESV	1Ki.1.9																																
-– Total	En-rogel or Stone of Zoheleth	En Rogel, Serpent's Stone	H5883, H2120, H0068I	Jos.15.7; 18.16; 2Sa.17.17; 1Ki.1.9	5
+– Total	En-rogel or Stone of Zoheleth or Serpent's Stone	En Rogel, Serpent's Stone	H5883, H2120, H0068I	Jos.15.7; 18.16; 2Sa.17.17; 1Ki.1.9	5
 @Briefest= 
 @Brief= Spring near Jerusalem; associated with Adonijah's and David's kingships
 @Short= En-rogel, a spring near Jerusalem, was the site of Adonijah's attempt to become king and later served as a meeting place for David's supporters.
