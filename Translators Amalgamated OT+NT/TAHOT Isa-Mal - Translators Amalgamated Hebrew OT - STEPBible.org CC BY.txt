@@ -8835,7 +8835,7 @@ Isa.21.10#12=L	לָ/כֶֽם\׃\ \ס	la./Khem	to <the>/ you	H9005/{H9036}\H9016\
 #_Significant variant																
 #_Isa.21.11	mi.Leil (מִלֵּֽיל׃)															
 #_Translation	[is] from/ [the] night															
-#_Word+Grammar	H9006/H3915=HR/Ncmsc															
+#_Word+Grammar	H9006/H3915=HR/Ncmsa															
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -8849,7 +8849,7 @@ Isa.21.11#07=L	מַה\־	mah-	what?	{H4100}\H9014	HPi			H4100_A			{H4100=מָה=
 Isa.21.11#08=L	מִ/לַּ֔יְלָה	mi./Lay.lah	[is] from/ [the] night	H9006/{H3915}	HR/Ncmsa			H3915_A			H9006=מ=from/{H3915=לַ֫יְלָה=night}					
 Isa.21.11#09=L	שֹׁמֵ֖ר	sho.Mer	O watchman	{H8104H}	HVqrmsa			H8104H_B			{H8104H=שָׁמַר=: guard»to keep:2_guard}					
 Isa.21.11#10=L	מַה\־	mah-	what?	{H4100}\H9014	HPi			H4100_B			{H4100=מָה=what?}\H9014=־=link					
-Isa.21.11#11=L	מִ/לֵּֽיל\׃	mi./Leil	[is] from/ [the] night	H9006/{H3915}\H9016	HR/Ncmsc			H3915_B			H9006=מ=from/{H3915=לַ֫יְלָה=night}\H9016=׃=verseEnd					
+Isa.21.11#11=L	מִ/לֵּֽיל\׃	mi./Leil	[is] from/ [the] night	H9006/{H3915}\H9016	HR/Ncmsa			H3915_B			H9006=מ=from/{H3915=לַ֫יְלָה=night}\H9016=׃=verseEnd					
 																
 # Isa.21.12	'a.Mar (אָמַ֣ר)	sho.Mer (שֹׁמֵ֔ר)	'a.Tah (אָתָ֥ה)	Vo.ker (בֹ֖קֶר)	ve.gam- (וְגַם־)	La.ye.lah (לָ֑יְלָה)	'im- (אִם־)	tiv.'a.Yun (תִּבְעָי֥וּן)	be.'A.yu (בְּעָ֖יוּ)	Shu.vu (שֻׁ֥בוּ)						
 #_Translation	he says	[the] watchman	it will come	morning	and/ also	night	if	you will enquire/ !	enquire	return						
@@ -64922,7 +64922,7 @@ Jer.51.13#10=L	בִּצְעֵֽ/ךְ\׃	bitz.'E/kh	cutting off/ your	{H1215}/H90
 #_Significant variant																
 #_Jer.51.14	'a.La.yikh (עָלַ֖יִךְ)	hei.Dad (הֵידָֽד׃ ס)														
 #_Translation	to/ you	a shout														
-#_Word+Grammar	H5921A/H9032=HRd/Sp2fs	H1959\ =HNcmsc														
+#_Word+Grammar	H5921A/H9032=HRd/Sp2fs	H1959\ =HNcmsa														
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -64937,7 +64937,7 @@ Jer.51.14#08=L	אָדָם֙	'a.Dam	person[s]	{H0120G}	HNcmsa			H0120G			{H0120G=
 Jer.51.14#09=L	כַּ/יֶּ֔לֶק	ka/i.Ye.lek	like <the>/ locust	H9004/{H3218}	HRd/Ncmsa			H3218			H9004=כ=like/{H3218=יֶ֫לֶק=locust}					
 Jer.51.14#10=L	וְ/עָנ֥וּ	ve./'a.Nu	and/ they will sing	H9001/{H6030C}	Hc/Vqq3cp			H6030C			H9001=ו=&/{H6030C=עָנָה=to sing}					
 Jer.51.14#11=L	עָלַ֖יִ/ךְ	'a.La.yi/kh	to/ you	{H5921A}/H9032	HRd/Sp2fs			H5921A			{H5921A=עַל=upon}/H9032=Os2f=you					
-Jer.51.14#12=L	הֵידָֽד\׃\ \ס	hei.Dad	a shout	{H1959}\H9016\ \H9018	HNcmsc			H1959			{H1959=הֵידָד=shout}\H9016=׃=verseEnd\ \H9018=ס=section					
+Jer.51.14#12=L	הֵידָֽד\׃\ \ס	hei.Dad	a shout	{H1959}\H9016\ \H9018	HNcmsa			H1959			{H1959=הֵידָד=shout}\H9016=׃=verseEnd\ \H9018=ס=section					
 																
 # Jer.51.15	'o.Seh (עֹשֵׂ֥ה)	'e.retz (אֶ֙רֶץ֙)	be.kho.Cho (בְּכֹח֔וֹ)	me.Khin (מֵכִ֥ין)	te.Vel (תֵּבֵ֖ל)	be.cha.khe.ma.To (בְּחָכְמָת֑וֹ)	u.vit.vu.na.To (וּבִתְבוּנָת֖וֹ)	na.Tah (נָטָ֥ה)	sha.Ma.yim (שָׁמָֽיִם׃)							
 #_Translation	[he] made	[the] earth	by/ power/ his	[he] established	[the] world	by/ wisdom/ his	and/ by/ understanding/ his	he stretched out	[the] heavens							
@@ -104956,7 +104956,7 @@ Dan.3.22#24=L	נוּרָֽ/א\׃	nu.Ra/'	fire/ the	{H5135}/H9010\H9016	ANcbsd/Ta
 																
 # Dan.3.23	ve.guv.rai.Ya' (וְגֻבְרַיָּ֤א)	'i.leKh (אִלֵּךְ֙)	te.La.te.Hon (תְּלָ֣תֵּה֔וֹן)	shad.Rakh (שַׁדְרַ֥ךְ)	mei.Shakh (מֵישַׁ֖ךְ)	va.'a.Ved (וַעֲבֵ֣ד)	ne.Go (נְג֑וֹ)	ne.Fa.lu (נְפַ֛לוּ)	le.goy'- (לְגֽוֹא־)	'a.tun- (אַתּוּן־)						
 #_Translation	and/ men/ the	these	three of/ them	Shadrach	Meshach	and/ Abed-	-nego	they fell	to/ [the] midst of	[the] furnace of						
-#_Word+Grammar	H9002/H1400/H9010=AC/Ncmpd/Ta	H0479=ATm	H8532/H9028=AAcbsc/Sp3mp	H7715=ANpm	H4336=ANpm	H9002/H5665+=AC/Npm	H5665=ANpm	H5308=AVqp3mp	H9005/H1459=AR/Ncbsc	H0861=ANcbsc						
+#_Word+Grammar	H9002/H1400/H9010=AC/Ncmpd/Ta	H0479=ATm	H8532/H9028=AAcmsc/Sp3mp	H7715=ANpm	H4336=ANpm	H9002/H5665+=AC/Npm	H5665=ANpm	H5308=AVqp3mp	H9005/H1459=AR/Ncbsc	H0861=ANcbsc						
 #_Significant variant																
 #_Dan.3.23	nu.Ra' (נוּרָ֥א)	ya.kid.Ta' (יָֽקִדְתָּ֖א)	me.kha.pe.Tin (מְכַפְּתִֽין׃ פ)													
 #_Translation	fire/ the	<the>/ burning	bound													
@@ -104966,7 +104966,7 @@ Dan.3.22#24=L	נוּרָֽ/א\׃	nu.Ra/'	fire/ the	{H5135}/H9010\H9016	ANcbsd/Ta
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 Dan.3.23#01=L	וְ/גֻבְרַיָּ֤/א	ve./guv.rai.Ya/'	and/ men/ the	H9002/{H1400}/H9010	AC/Ncmpd/Ta			H1400			H9002=ו=and/{H1400=גְּבַר=man}/H9010=a=the					
 Dan.3.23#02=L	אִלֵּךְ֙	'i.leKh	these	{H0479}	ATm			H0479			{H0479=אִלֵּךְ=these}					
-Dan.3.23#03=L	תְּלָ֣תֵּ/ה֔וֹן	te.La.te./Hon	three of/ them	{H8532}/H9028	AAcbsc/Sp3mp			H8532			{H8532=תְּלָת=three}/H9028=Pp3m=their					
+Dan.3.23#03=L	תְּלָ֣תֵּ/ה֔וֹן	te.La.te./Hon	three of/ them	{H8532}/H9028	AAcmsc/Sp3mp			H8532			{H8532=תְּלָת=three}/H9028=Pp3m=their					
 Dan.3.23#04=L	שַׁדְרַ֥ךְ	shad.Rakh	Shadrach	{H7715}	ANpm			H7715			{H7715=שַׁדְרַךְ=Shadrach»Hananiah@Dan.1.6-2.49}					
 Dan.3.23#05=L	מֵישַׁ֖ךְ	mei.Shakh	Meshach	{H4336}	ANpm			H4336			{H4336=מֵישַׁךְ=Meshach»Mishael@Dan.1.6-7}					
 Dan.3.23#06=L	וַ/עֲבֵ֣ד	va./'a.Ved	and/ Abed-	H9002/{H5665}+	AC/Npm			H5665_A			H9002=ו=and/{H5665=עֲבֵד נְגוֹ=Abednego»Azariah@Dan.1.6-2.49}+					
@@ -107276,7 +107276,7 @@ Dan.6.2(6.3)#19=L	נָזִֽק\׃	na.Zik	suffering injury	{H5142}\H9016	AVqrmsa	
 #_Significant variant																
 #_Dan.6.3 (Heb: 6.4)	di (דִּ֣י)	Ru.ach (ר֤וּחַ)	ya.ti.Ra' (יַתִּירָא֙)	Beh (בֵּ֔הּ)	u.mal.Ka' (וּמַלְכָּ֣א)	'a.Shit (עֲשִׁ֔ית)	la.ha.ka.mu.Teh (לַהֲקָמוּתֵ֖הּ)	'al- (עַל־)	kol- (כָּל־)	mal.khu.Ta' (מַלְכוּתָֽא׃)						
 #_Translation	that	a spirit	extraordinary	[was] in/ him	and/ king/ the	[was] planning	to/ appoint/ him	over	all	kingdom/ the						
-#_Word+Grammar	H1768=AC	H7308=ANcbsa	H3493=AAafsa	H9003/H9033=AR/Sp3ms	H9002/H4430/H9010=AC/Ncbsd/Ta	H6246=AVQrmsa	H9005/H6966I/H9033=AR/Vhcc/Sp3fs	H5922=AR	H3606=ANcbsc	H4437/H9010=ANcfsd/Ta						
+#_Word+Grammar	H1768=AC	H7308=ANcbsa	H3493=AAafsa	H9003/H9033=AR/Sp3ms	H9002/H4430/H9010=AC/Ncbsd/Ta	H6246=AVQrmsa	H9005/H6966I/H9033=AR/Vhcc/Sp3ms	H5922=AR	H3606=ANcbsc	H4437/H9010=ANcfsd/Ta						
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -107296,7 +107296,7 @@ Dan.6.3(6.4)#13=L	יַתִּירָא֙	ya.ti.Ra'	extraordinary	{H3493}	AAafsa			
 Dan.6.3(6.4)#14=L	בֵּ֔/הּ	Be/h	[was] in/ him	H9003/{H9033}	AR/Sp3ms			H9033			H9003=ב=in/{H9033=Os3m=him}					
 Dan.6.3(6.4)#15=L	וּ/מַלְכָּ֣/א	u./mal.Ka/'	and/ king/ the	H9002/{H4430}/H9010	AC/Ncbsd/Ta			H4430			H9002=ו=and/{H4430=מֶ֫לֶךְ=king}/H9010=a=the					
 Dan.6.3(6.4)#16=L	עֲשִׁ֔ית	'a.Shit	[was] planning	{H6246}	AVQrmsa			H6246			{H6246=עֲשִׁת=to plan}					
-Dan.6.3(6.4)#17=L	לַ/הֲקָמוּתֵ֖/הּ	la./ha.ka.mu.Te/h	to/ appoint/ him	H9005/{H6966I}/H9033	AR/Vhcc/Sp3fs			H6966I			H9005=ל=to/{H6966I=קוּם=: establish»to stand:3_establish;_stand_firm;_confirm;_fulfill;_fix}/H9033=Os3m=him					
+Dan.6.3(6.4)#17=L	לַ/הֲקָמוּתֵ֖/הּ	la./ha.ka.mu.Te/h	to/ appoint/ him	H9005/{H6966I}/H9033	AR/Vhcc/Sp3ms			H6966I			H9005=ל=to/{H6966I=קוּם=: establish»to stand:3_establish;_stand_firm;_confirm;_fulfill;_fix}/H9033=Os3m=him					
 Dan.6.3(6.4)#18=L	עַל\־	'al-	over	{H5922}\H9014	AR			H5922_B			{H5922=עַל=since}\H9014=־=link					
 Dan.6.3(6.4)#19=L	כָּל\־	kol-	all	{H3606}\H9014	ANcbsc			H3606			{H3606=כֹּל=all}\H9014=־=link					
 Dan.6.3(6.4)#20=L	מַלְכוּתָֽ/א\׃	mal.khu.Ta/'	kingdom/ the	{H4437}/H9010\H9016	ANcfsd/Ta			H4437			{H4437=מַלְכוּ=kingdom}/H9010=a=the\H9016=׃=verseEnd					
@@ -107662,7 +107662,7 @@ Dan.6.13(6.14)#27=L	בָּעוּתֵֽ/הּ\׃	ba.'u.Te/h	petition/ his	{H1159}/
 #_Significant variant																
 #_Dan.6.14 (Heb: 6.15)	sam (שָׂ֥ם)	bal (בָּ֖ל)	le.shei.za.vu.Teh (לְשֵׁיזָבוּתֵ֑הּ)	ve.'Ad (וְעַד֙)	me.'a.Lei (מֶֽעָלֵ֣י)	shim.Sha' (שִׁמְשָׁ֔א)	ha.Va' (הֲוָ֥א)	mish.ta.Dar (מִשְׁתַּדַּ֖ר)	le.ha.tza.lu.Teh (לְהַצָּלוּתֵֽהּ׃)							
 #_Translation	he set	mind	to/ deliver/ him	and/ until	[the] goings in of	sun/ the	he was	striving	to/ rescue/ him							
-#_Word+Grammar	H7761H=AVqp3ms	H1079=ANcbsa	H9005/H7804/H9033=AR/Vecc/Sp3ms	H9002/H5705=AC/R	H4606=ANcmpc	H8122/H9010=ANcbsd/Ta	H1934=AVqp3ms	H7712=AVMrmsa	H9005/H5338/H9033=AR/Vhcc/Sp3fs							
+#_Word+Grammar	H7761H=AVqp3ms	H1079=ANcbsa	H9005/H7804/H9033=AR/Vecc/Sp3ms	H9002/H5705=AC/R	H4606=ANcmpc	H8122/H9010=ANcbsd/Ta	H1934=AVqp3ms	H7712=AVMrmsa	H9005/H5338/H9033=AR/Vhcc/Sp3ms							
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -107684,7 +107684,7 @@ Dan.6.14(6.15)#15=L	מֶֽעָלֵ֣י	me.'a.Lei	[the] goings in of	{H4606}	ANcm
 Dan.6.14(6.15)#16=L	שִׁמְשָׁ֔/א	shim.Sha/'	sun/ the	{H8122}/H9010	ANcbsd/Ta			H8122			{H8122=שְׁמַשׁ=sun}/H9010=a=the					
 Dan.6.14(6.15)#17=L	הֲוָ֥א	ha.Va'	he was	{H1934}	AVqp3ms			H1934			{H1934=הֲוָא=to be}					
 Dan.6.14(6.15)#18=L	מִשְׁתַּדַּ֖ר	mish.ta.Dar	striving	{H7712}	AVMrmsa			H7712			{H7712=שְׁדַר=to strive}					
-Dan.6.14(6.15)#19=L	לְ/הַצָּלוּתֵֽ/הּ\׃	le./ha.tza.lu.Te/h	to/ rescue/ him	H9005/{H5338}/H9033\H9016	AR/Vhcc/Sp3fs			H5338			H9005=ל=to/{H5338=נְצַל=to rescue}/H9033=Os3m=him\H9016=׃=verseEnd					
+Dan.6.14(6.15)#19=L	לְ/הַצָּלוּתֵֽ/הּ\׃	le./ha.tza.lu.Te/h	to/ rescue/ him	H9005/{H5338}/H9033\H9016	AR/Vhcc/Sp3ms			H5338			H9005=ל=to/{H5338=נְצַל=to rescue}/H9033=Os3m=him\H9016=׃=verseEnd					
 																
 # Dan.6.15 (Heb: 6.16)	be.Da.yin (בֵּאדַ֙יִן֙)	guv.rai.Ya' (גֻּבְרַיָּ֣א)	'i.Lekh (אִלֵּ֔ךְ)	har.Gi.shu (הַרְגִּ֖שׁוּ)	'al- (עַל־)	mal.Ka' (מַלְכָּ֑א)	ve.'a.me.Rin (וְאָמְרִ֣ין)	le.mal.Ka' (לְמַלְכָּ֗א)	da' (דַּ֤ע)	mal.Ka' (מַלְכָּא֙)						
 #_Translation	<in>/ then	men/ the	these	they came as a crowd	to	king/ the	and/ [were] saying	to/ king/ the	know	king/ O						
@@ -108294,7 +108294,7 @@ Dan.7.6#20=L	לַֽ/הּ\׃	La/h	to/ it	H9005/{H9034}\H9016	AR/Sp3fs			H9034_B		
 #_Significant variant																
 #_Dan.7.7	u.she.'a.Ra' (וּשְׁאָרָ֖א)	be.rag.lai.yah (בְּרַגְלַ֣הּ)	ra.fe.Sah (רָפְסָ֑ה)	ve.Hi' (וְהִ֣יא)	me.sha.ne.Yah (מְשַׁנְּיָ֗ה)	min- (מִן־)	kol- (כָּל־)	chei.va.Ta' (חֵֽיוָתָא֙)	di (דִּ֣י)	ka.da.Maih (קָֽדָמַ֔יהּ)						
 #_Translation	and/ rest/ the	with/ foot/ its	[it was] trampling	and/ it	[was] different	from	all	beasts/ the	which	[was] before/ it						
-#_Word+Grammar	H9002/H7606/H9010=AC/Ncbsd/Ta	Q=H9003/H7271/H9024=AR/Ncbsc/Sp3fs	H7512=AVqrfsa	H9002/H1932=AC/Pp3fs	H8133=AVprfsa	H4481=AR	H3606=ANcbsc	H2423/H9010=ANcfpd/Ta	H1768=AC	H6925/H9034=ANcbsc/Sp3fs						
+#_Word+Grammar	H9002/H7606/H9010=AC/Ncbsd/Ta	Q=H9003/H7271/H9024=AR/Ncbsc/Sp3fs	H7512=AVqrfsa	H9002/H1932=AC/Pp3fs	H8133=AVprfsa	H4481=AR	H3606=ANcbsc	H2423/H9010=ANcfpd/Ta	H1768=AC	H6925/H9034=ANcmsc/Sp3fs						
 #_Significant variant		K= be./rag.lai.ya/h (בְּ/רַגְלַיַּ/הּ) "with/ feet/ its" (H9003/H7271/H9024=AR/Ncmpc/Sp3fs)														
 #_Dan.7.7	ve.kar.Na.yin (וְקַרְנַ֥יִן)	'a.Sar (עֲשַׂ֖ר)	Lah (לַֽהּ׃)													
 #_Translation	and/ horns	ten	[were] to/ it													
@@ -108331,7 +108331,7 @@ Dan.7.7#26=L	מִן\־	min-	from	{H4481}\H9014	AR			H4481			{H4481=מִן־=from
 Dan.7.7#27=L	כָּל\־	kol-	all	{H3606}\H9014	ANcbsc			H3606			{H3606=כֹּל=all}\H9014=־=link					
 Dan.7.7#28=L	חֵֽיוָתָ/א֙	chei.va.Ta/'	beasts/ the	{H2423}/H9010	ANcfpd/Ta			H2423_B			{H2423=חֵיוָא=beast}/H9010=a=the					
 Dan.7.7#29=L	דִּ֣י	di	which	{H1768}	AC			H1768_B			{H1768=דִּי=that}					
-Dan.7.7#30=L	קָֽדָמַ֔י/הּ	ka.da.Mai/h	[was] before/ it	{H6925}/H9034	ANcbsc/Sp3fs			H6925			{H6925=קֳדָם=before}/H9034=Os3f=her					
+Dan.7.7#30=L	קָֽדָמַ֔י/הּ	ka.da.Mai/h	[was] before/ it	{H6925}/H9034	ANcmsc/Sp3fs			H6925			{H6925=קֳדָם=before}/H9034=Os3f=her					
 Dan.7.7#31=L	וְ/קַרְנַ֥יִן	ve./kar.Na.yin	and/ horns	H9002/{H7162}	AC/Ncbda			H7162			H9002=ו=and/{H7162=קֶ֫רֶן=horn}					
 Dan.7.7#32=L	עֲשַׂ֖ר	'a.Sar	ten	{H6236}	AAcbsa			H6236			{H6236=עֲשַׂר=ten}					
 Dan.7.7#33=L	לַֽ/הּ\׃	La/h	[were] to/ it	H9005/{H9034}\H9016	AR/Sp3fs			H9034_B			H9005=ל=to/{H9034=Os3f=her}\H9016=׃=verseEnd					
@@ -108732,7 +108732,7 @@ Dan.7.20#23=L	חַבְרָתַֽ/הּ\׃	chav.ra.Ta/h	companion/ its	{H2273}/H90
 																
 # Dan.7.21	cha.Zeh (חָזֵ֣ה)	ha.Veit (הֲוֵ֔ית)	ve.kar.Na' (וְקַרְנָ֣א)	di.Ken (דִכֵּ֔ן)	'a.ve.Dah (עָבְדָ֥ה)	ke.Rav (קְרָ֖ב)	'im- (עִם־)	ka.di.Shin (קַדִּישִׁ֑ין)	ve.ya.khe.Lah (וְיָכְלָ֖ה)	le.Hon (לְהֽוֹן׃)						
 #_Translation	seeing	I was	and/ horn/ the	this	[was] making	war	with	[the] holy [ones]	and/ [it was] prevailing	to/ them						
-#_Word+Grammar	H2370=AVqrmsa	H1934=AVqp1cs	H9002/H7162/H9010=AC/Ncbsd/Ta	H1797=ATm	H5648=AVqrfsa	H7129=ANcbsa	H5974=AR	H6922=AAampa	H9002/H3201=AC/Vqrfsa	H9005/H9038=AR/Sp3mp						
+#_Word+Grammar	H2370=AVqrmsa	H1934=AVqp1cs	H9002/H7162/H9010=AC/Ncbsd/Ta	H1797=ATm	H5648=AVqrfsa	H7129=ANcbsa	H5974=AR	H6922=AAampa	H9002/H3202=AC/Vqrfsa	H9005/H9038=AR/Sp3mp						
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
@@ -108744,7 +108744,7 @@ Dan.7.21#05=L	עָבְדָ֥ה	'a.ve.Dah	[was] making	{H5648}	AVqrfsa			H5648			
 Dan.7.21#06=L	קְרָ֖ב	ke.Rav	war	{H7129}	ANcbsa			H7129			{H7129=קְרָב=war}					
 Dan.7.21#07=L	עִם\־	'im-	with	{H5974}\H9014	AR			H5974			{H5974=עִם=with}\H9014=־=link					
 Dan.7.21#08=L	קַדִּישִׁ֑ין	ka.di.Shin	[the] holy [ones]	{H6922}	AAampa			H6922			{H6922=קַדִּישׁ=holy}					
-Dan.7.21#09=L	וְ/יָכְלָ֖ה	ve./ya.khe.Lah	and/ [it was] prevailing	H9002/{H3201}	AC/Vqrfsa			H3201	H3202		H9002=ו=and/{H3201=יָכֹל=be able}					
+Dan.7.21#09=L	וְ/יָכְלָ֖ה	ve./ya.khe.Lah	and/ [it was] prevailing	H9002/{H3202}	AC/Vqrfsa			H3201	H3202		H9002=ו=and/{H3201=יָכֹל=be able}					
 Dan.7.21#10=L	לְ/הֽוֹן\׃	le./Hon	to/ them	H9005/{H9038}\H9016	AR/Sp3mp			H9038			H9005=ל=to/{H9038=Op3m=them}\H9016=׃=verseEnd					
 																
 # Dan.7.22	'ad (עַ֣ד)	di- (דִּֽי־)	'a.Tah (אֲתָ֗ה)	'a.Tik (עַתִּיק֙)	yo.mai.Ya' (יֽוֹמַיָּ֔א)	ve.di.Na' (וְדִינָ֣א)	ye.Hiv (יְהִ֔ב)	le.ka.di.Shei (לְקַדִּישֵׁ֖י)	el.yo.Nin (עֶלְיוֹנִ֑ין)	ve.zim.Na' (וְזִמְנָ֣א)						
@@ -114132,7 +114132,7 @@ Hos.6.8#06=L	מִ/דָּֽם\׃	mi./Dam	from/ blood	H9006/{H1818}\H9016	HR/Ncmsa
 																
 # Hos.6.9	u.khe.cha.Kei (וּכְחַכֵּ֨י)	'ish (אִ֜ישׁ)	ge.du.Dim (גְּדוּדִ֗ים)	Che.ver (חֶ֚בֶר)	ko.ha.Nim (כֹּֽהֲנִ֔ים)	De.rekh (דֶּ֖רֶךְ)	ye.ra.tze.chu- (יְרַצְּחוּ־)	Shekh.mah (שֶׁ֑כְמָה)	ki (כִּ֥י)	zi.Mah (זִמָּ֖ה)						
 #_Translation	and/ as/ wait for	a person	marauding bands	an association of	priests	[the] way	they murder	Shechem/ towards	for	wickedness						
-#_Word+Grammar	H9002/H9004/H2442=HC/R/Vprmpc	H0376G=HNcmsa	H1416=HNcmpa	H2269=HNcmsc	H3548=HNcmpa	H1870K=HNcbsa	H7523=HVpi3mp	H7927G/H9011=HNpl/Sd	H3588A=HTc	H2154=HNcfsa						
+#_Word+Grammar	H9002/H9004/H2442=HC/R/Vprmpc	H0376G=HNcmsa	H1416=HNcmpa	H2267=HNcmsc	H3548=HNcmpa	H1870K=HNcbsa	H7523=HVpi3mp	H7927G/H9011=HNpl/Sd	H3588A=HTc	H2154=HNcfsa						
 #_Significant variant																
 #_Hos.6.9	'a.Su (עָשֽׂוּ׃)															
 #_Translation	they have done															
@@ -114143,7 +114143,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 Hos.6.9#01=L	וּ/כְ/חַכֵּ֨י	u./khe./cha.Kei	and/ as/ wait for	H9002/H9004/{H2442}	HC/R/Vprmpc			H2442			H9002=ו=and/H9004=כ=like/{H2442=חָכָה=to wait}					
 Hos.6.9#02=L	אִ֜ישׁ	'ish	a person	{H0376G}	HNcmsa			H0376G			{H0376G=אִישׁ=: man»man:1_man}					
 Hos.6.9#03=L	גְּדוּדִ֗ים	ge.du.Dim	marauding bands	{H1416}	HNcmpa			H1416			{H1416=גְּדוּד=band}					
-Hos.6.9#04=L	חֶ֚בֶר	Che.ver	an association of	{H2269}	HNcmsc			H2269	H2267		{H2269=חֲבַר=fellow}					
+Hos.6.9#04=L	חֶ֚בֶר	Che.ver	an association of	{H2267}	HNcmsc			H2269	H2267		{H2269=חֲבַר=fellow}					
 Hos.6.9#05=L	כֹּֽהֲנִ֔ים	ko.ha.Nim	priests	{H3548}	HNcmpa			H3548			{H3548=כֹּהֵן=priest}					
 Hos.6.9#06=L	דֶּ֖רֶךְ	De.rekh	[the] way	{H1870K}	HNcbsa			H1870K			{H1870K=דֶּ֫רֶךְ=: road»way:1_road;_route}					
 Hos.6.9#07=L	יְרַצְּחוּ\־	ye.ra.tze.chu-	they murder	{H7523}\H9014	HVpi3mp			H7523			{H7523=רָצַח=to murder}\H9014=־=link					
