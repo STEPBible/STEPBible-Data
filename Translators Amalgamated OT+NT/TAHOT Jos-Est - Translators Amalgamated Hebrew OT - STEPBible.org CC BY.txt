@@ -262,7 +262,7 @@ Jos.1.7#01=L	רַק֩	rak	only	{H7535}	HD			H7535			{H7535=רַק=except}
 Jos.1.7#02=L	חֲזַ֨ק	cha.Zak	be strong	{H2388G}	HVqv2ms			H2388G			{H2388G=חָזַק=: strengthen»to strengthen:1_strengthen;_support;_encourage}					
 Jos.1.7#03=L	וֶֽ/אֱמַ֜ץ	ve./'e.Matz	and/ be bold	H9002/{H0553}	HC/Vqv2ms			H0553			H9002=ו=and/{H0553=אָמֵץ=to strengthen}					
 Jos.1.7#04=L	מְאֹ֗ד	me.'Od	exceedingly	{H3966}	HAcmsa			H3966			{H3966=מְאֹד=much}					
-Jos.1.7#05=L	לִ/שְׁמֹ֤ר	li/sh.Mor	to/ take care	H9005/{H8104J}	HR/Vqcc			H8104J			H9005=ל=to/{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+Jos.1.7#05=L	לִ/שְׁמֹ֤ר	li/sh.Mor	to/ take care	H9005/{H8104J}	HR/Vqcc			H8104J			H9005=ל=to/{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 Jos.1.7#06=L	לַ/עֲשׂוֹת֙	la./'a.sOt	to/ do	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 Jos.1.7#07=L	כְּ/כָל\־	ke./khol-	according to/ all	H9004/{H3605}\H9014	HR/Ncmsc			H3605_A			H9004=כ=like/{H3605=כֹּל=all}\H9014=־=link					
 Jos.1.7#08=L	הַ/תּוֹרָ֗ה	ha./to.Rah	the/ law	H9009/{H8451}	HTd/Ncfsa			H8451			H9009=ה=the/{H8451=תּוֹרָה=instruction}					
@@ -306,7 +306,7 @@ Jos.1.8#08=L	בּ/וֹ֙	b/o	on <the>/ it	H9003/{H9033}	HRd/Sp3ms			H9033_A			H9
 Jos.1.8#09=L	יוֹמָ֣ם	yo.Mam	by day	{H3119}	HD			H3119			{H3119=יוֹמָם=by day}					
 Jos.1.8#10=L	וָ/לַ֔יְלָה	va./Lay.lah	and/ night	H9002/{H3915}	HC/Ncmsa			H3915			H9002=ו=and/{H3915=לַ֫יְלָה=night}					
 Jos.1.8#11=L	לְמַ֙עַן֙	le.Ma.'an	so that	{H4616}	HTc			H4616			{H4616=מַ֫עַן=because}					
-Jos.1.8#12=L	תִּשְׁמֹ֣ר	tish.Mor	you may take care	{H8104J}	HVqj2ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+Jos.1.8#12=L	תִּשְׁמֹ֣ר	tish.Mor	you may take care	{H8104J}	HVqj2ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 Jos.1.8#13=L	לַ/עֲשׂ֔וֹת	la./'a.Sot	to/ do	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 Jos.1.8#14=L	כְּ/כָל\־	ke./khol-	according to/ every	H9004/{H3605}\H9014	HR/Ncmsa			H3605			H9004=כ=like/{H3605=כֹּל=all}\H9014=־=link					
 Jos.1.8#15=L	הַ/כָּת֖וּב	ha./ka.Tuv	<the>/ [thing] written	H9009/{H3789}	HTd/Vqsmsa			H3789			H9009=ה=the/{H3789=כָּתַב=to write}					
@@ -336,7 +336,7 @@ Jos.1.9#04=L	וֶ/אֱמָ֔ץ	ve./'e.Matz	and/ be bold	H9002/{H0553}	HC/Vqv2ms	
 Jos.1.9#05=L	אַֽל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 Jos.1.9#06=L	תַּעֲרֹ֖ץ	ta.'a.Rotz	you be terrified	{H6206}	HVqj2ms			H6206			{H6206=עָרַץ=to tremble}					
 Jos.1.9#07=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-Jos.1.9#08=L	תֵּחָ֑ת	te.Chat	you be dismayed	{H2865}	HVNj2ms			H2865			{H2865=חָתַת=to to be dismayed}					
+Jos.1.9#08=L	תֵּחָ֑ת	te.Chat	you be dismayed	{H2865}	HVNj2ms			H2865			{H2865=חָתַת=to be dismayed}					
 Jos.1.9#09=L	כִּ֤י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
 Jos.1.9#10=L	עִמְּ/ךָ֙	'i.me./Kha	[is] with/ you	{H5973A}/H9031	HRd/Sp2ms			H5973A			{H5973A=עִם=with}/H9031=Os2m=you					
 Jos.1.9#11=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
@@ -1410,7 +1410,7 @@ Jos.3.5#01=L	וַ/יֹּ֧אמֶר	va/i.Yo.mer	and/ he said	H9001/{H0559}	Hc/Vqw
 Jos.3.5#02=L	יְהוֹשֻׁ֛עַ	ye.ho.Shu.a'	Joshua	{H3091G}	HNpm			H3091G			{H3091G=יְהוֹשׁוּעַ=Joshua»Joshua@Exo.17.9-Heb}					
 Jos.3.5#03=L	אֶל\־	'el-	to	{H0413}\H9014	HR			H0413			{H0413=אֶל=to(wards)}\H9014=־=link					
 Jos.3.5#04=L	הָ/עָ֖ם	ha./'Am	the/ people	H9009/{H5971A}	HTd/Ncmsa			H5971A			H9009=ה=the/{H5971A=עַם=: people»people:1_people;_nation}					
-Jos.3.5#05=L	הִתְקַדָּ֑שׁוּ	hit.ka.Da.shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+Jos.3.5#05=L	הִתְקַדָּ֑שׁוּ	hit.ka.Da.shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 Jos.3.5#06=L	כִּ֣י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
 Jos.3.5#07=L	מָחָ֗ר	ma.Char	tomorrow	{H4279}	HNcmsa			H4279			{H4279=מָחָר=tomorrow}					
 Jos.3.5#08=L	יַעֲשֶׂ֧ה	ya.'a.Seh	he will do	{H6213A}	HVqi3ms			H6213A			{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
@@ -4121,11 +4121,11 @@ Jos.7.12#23=L	מִֽ/קִּרְבְּ/כֶֽם\׃	Mi./kir.be./Khem	from/ midst/ 
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 Jos.7.13#01=L	קֻ֚ם	kum	arise	{H6965B}	HVqv2ms			H6965B_A			{H6965B=קוּם=: rise»to arise:1_rise;_get_going}					
-Jos.7.13#02=L	קַדֵּ֣שׁ	ka.Desh	consecrate	{H6942G}	HVpv2ms			H6942G_A			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+Jos.7.13#02=L	קַדֵּ֣שׁ	ka.Desh	consecrate	{H6942G}	HVpv2ms			H6942G_A			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 Jos.7.13#03=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 Jos.7.13#04=L	הָ/עָ֔ם	ha./'Am	the/ people	H9009/{H5971A}	HTd/Ncmsa			H5971A			H9009=ה=the/{H5971A=עַם=: people»people:1_people;_nation}					
 Jos.7.13#05=L	וְ/אָמַרְתָּ֖	ve./'a.mar.Ta	and/ you will say	H9001/{H0559}	Hc/Vqq2ms			H0559_A			H9001=ו=&/{H0559=אָמַר=to say}					
-Jos.7.13#06=L	הִתְקַדְּשׁ֣וּ	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G_B			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+Jos.7.13#06=L	הִתְקַדְּשׁ֣וּ	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G_B			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 Jos.7.13#07=L	לְ/מָחָ֑ר	le./ma.Char	for/ tomorrow	H9005/{H4279}	HR/Ncmsa			H4279			H9005=ל=to/{H4279=מָחָר=tomorrow}					
 Jos.7.13#08=L	כִּ֣י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
 Jos.7.13#09=L	כֹה֩	khoh	thus	{H3541}	HD			H3541			{H3541=כֹּה=thus}					
@@ -4567,7 +4567,7 @@ Jos.8.1#04=L	יְהוֹשֻׁ֙עַ֙	ye.ho.Shu.a'	Joshua	{H3091G}	HNpm			H3091G
 Jos.8.1#05=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 Jos.8.1#06=L	תִּירָ֣א	ti.Ra'	you fear	{H3372G}	HVqj2ms			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 Jos.8.1#07=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-Jos.8.1#08=L	תֵּחָ֔ת	te.Chat	you be dismayed	{H2865}	HVNj2ms			H2865			{H2865=חָתַת=to to be dismayed}					
+Jos.8.1#08=L	תֵּחָ֔ת	te.Chat	you be dismayed	{H2865}	HVNj2ms			H2865			{H2865=חָתַת=to be dismayed}					
 Jos.8.1#09=L	קַ֣ח	kach	take	{H3947G}	HVqv2ms			H3947G			{H3947G=לָקַח=: take»to take:1_take}					
 Jos.8.1#10=L	עִמְּ/ךָ֗	'i.me./Kha	with/ you	{H5973A}/H9031	HRd/Sp2ms			H5973A			{H5973A=עִם=with}/H9031=Os2m=you					
 Jos.8.1#11=L	אֵ֚ת	'et	<obj.>	{H0853}	HTo			H0853_A			{H0853=אֵת=[Obj.]}					
@@ -7009,7 +7009,7 @@ Jos.10.25#03=L	יְהוֹשֻׁ֔עַ	ye.ho.Shu.a'	Joshua	{H3091G}	HNpm			H3091G
 Jos.10.25#04=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 Jos.10.25#05=L	תִּֽירְא֖וּ	ti.re.'U	you be afraid	{H3372G}	HVqj2mp			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 Jos.10.25#06=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-Jos.10.25#07=L	תֵּחָ֑תּוּ	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to to be dismayed}					
+Jos.10.25#07=L	תֵּחָ֑תּוּ	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to be dismayed}					
 Jos.10.25#08=L	חִזְק֣וּ	chiz.Ku	be strong	{H2388G}	HVqv2mp			H2388G			{H2388G=חָזַק=: strengthen»to strengthen:1_strengthen;_support;_encourage}					
 Jos.10.25#09=L	וְ/אִמְצ֔וּ	ve./'im.Tzu	and/ be bold	H9002/{H0553}	HC/Vqv2mp			H0553			H9002=ו=and/{H0553=אָמֵץ=to strengthen}					
 Jos.10.25#10=L	כִּ֣י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
@@ -8888,7 +8888,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 Jos.13.8#01=L	עִמּ֗/וֹ	i.M/o	with/ it	{H5973A}/H9033	HRd/Sp3ms			H5973A			{H5973A=עִם=with}/H9033=Os3m=him					
 Jos.13.8#02=L	הָ/רֽאוּבֵנִי֙	ha./r.'u.ve.Ni	the/ Reubenite[s]	H9009/{H7206}	HTd/Ngmsa			H7206			H9009=ה=the/{H7206=רְאוּבֵנִי=Reubenite»Reuben@Gen.29.32-Rev}					
 Jos.13.8#03=L	וְ/הַ/גָּדִ֔י	ve./ha./ga.Di	and/ the/ Gadite[s]	H9002/H9009/{H1425}	HC/Td/Ngmsa			H1425			H9002=ו=and/H9009=ה=the/{H1425=גָּדִי=Gad»Gad@Gen.30.11-Rev}					
-Jos.13.8#04=L	לָקְח֖וּ	la.ke.Chu	they had received	{H3947H}	HVqp3cp			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}					
+Jos.13.8#04=L	לָקְח֖וּ	la.ke.Chu	they had received	{H3947H}	HVqp3cp			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}					
 Jos.13.8#05=L	נַחֲלָתָ֑/ם	na.cha.la.Ta/m	inheritance/ their	{H5159}/H9028	HNcfsc/Sp3mp			H5159			{H5159=נַחֲלָה=inheritance}/H9028=Pp3m=their					
 Jos.13.8#06=L	אֲשֶׁר֩	'a.Sher	which	{H0834A}	HTr			H0834A_A			{H0834A=אֲשֶׁר=which}					
 Jos.13.8#07=L	נָתַ֨ן	na.Tan	he had given	{H5414G}	HVqp3ms			H5414G_A			{H5414G=נָתַן=: give»to give:1_give;_deliver;_send;_produce}					
@@ -11989,7 +11989,7 @@ Jos.18.7#11=L	וּ/רְאוּבֵ֡ן	u./re.'u.Ven	and/ Reuben	H9002/{H7205}	HC/
 Jos.18.7#12=L	וַ/חֲצִי֩	va./cha.Tzi	and/ [the] half of	H9002/{H2677}	HC/Ncmsc			H2677			H9002=ו=and/{H2677=חֲצִי=half}					
 Jos.18.7#13=L	שֵׁ֨בֶט	She.vet	[the] tribe of	{H7626H}	HNcmsc			H7626H			{H7626H=שֵׁ֫בֶט=: tribe»tribe:1_tribe}					
 Jos.18.7#14=L	הַֽ/מְנַשֶּׁ֜ה	ha/m.na.Sheh	<the>/ Manasseh	H9009/{H4519G}	HTd/Ngbsa			H4519G			H9009=ה=the/{H4519G=מְנַשֶּׁה=Manasseh»Manasseh@Gen.41.51-Rev}					
-Jos.18.7#15=L	לָקְח֣וּ	la.ke.Chu	they have received	{H3947H}	HVqp3cp			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}					
+Jos.18.7#15=L	לָקְח֣וּ	la.ke.Chu	they have received	{H3947H}	HVqp3cp			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}					
 Jos.18.7#16=L	נַחֲלָתָ֗/ם	na.cha.la.Ta/m	inheritance/ their	{H5159}/H9028	HNcfsc/Sp3mp			H5159_B			{H5159=נַחֲלָה=inheritance}/H9028=Pp3m=their					
 Jos.18.7#17=L	מֵ/עֵ֤בֶר	me./'E.ver	from/ [the] other side	H9006/{H5676H}	HR/Ncmsc			H5676H			H9006=מ=from/{H5676H=עֵ֫בֶר=: ahead»side:2_ahead}					
 Jos.18.7#18=L	לַ/יַּרְדֵּן֙	la/i.yar.Den	of the/ Jordan	H9005/{H3383}	HRd/Npl			H3383			H9005=ל=to/{H3383=יַרְדֵּן=Jordan»Jordan@Gen.13.10-Jhn}					
@@ -14814,7 +14814,7 @@ Jos.22.3#07=L	רַבִּ֔ים	ra.Bim	many	{H7227A}	HAampa			H7227A			{H7227A=ר
 Jos.22.3#08=L	עַ֖ד	'ad	until	{H5704}	HR			H5704			{H5704=עַד=till}					
 Jos.22.3#09=L	הַ/יּ֣וֹם	hai./Yom	the/ day	H9009/{H3117L}	HTd/Ncmsa			H3117L_B			H9009=ה=the/{H3117L=יוֹם=: today»day:6_today;_now}					
 Jos.22.3#10=L	הַ/זֶּ֑ה	ha./Zeh	<the>/ this	H9009/{H2088}	HTd/Tm			H2088_B			H9009=ה=the/{H2088=זֶה=this}					
-Jos.22.3#11=L	וּ/שְׁמַרְתֶּ֕ם	u./she.mar.Tem	and/ you have kept	H9001/{H8104J}	Hc/Vqq2mp			H8104J			H9001=ו=&/{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+Jos.22.3#11=L	וּ/שְׁמַרְתֶּ֕ם	u./she.mar.Tem	and/ you have kept	H9001/{H8104J}	Hc/Vqq2mp			H8104J			H9001=ו=&/{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 Jos.22.3#12=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_B			{H0853=אֵת=[Obj.]}\H9014=־=link					
 Jos.22.3#13=L	מִשְׁמֶ֕רֶת	mish.Me.ret	[the] charge of	{H4931}	HNcfsc			H4931			{H4931=מִשְׁמֶ֫רֶת=charge}					
 Jos.22.3#14=L	מִצְוַ֖ת	mitz.Vat	[the] commandment of	{H4687}	HNcfsc			H4687			{H4687=מִצְוָה=commandment}					
@@ -14875,7 +14875,7 @@ Jos.22.4#24=L	הַ/יַּרְדֵּֽן\׃	hai./yar.Den	the/ Jordan	H9009/{H3383
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 Jos.22.5#01=L	רַ֣ק\׀	rak	only	{H7535}\H9015	HD			H7535			{H7535=רַק=except}\H9015=׀=separate					
-Jos.22.5#02=L	שִׁמְר֣וּ	shim.Ru	take care	{H8104J}	HVqv2mp			H8104J_A			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+Jos.22.5#02=L	שִׁמְר֣וּ	shim.Ru	take care	{H8104J}	HVqv2mp			H8104J_A			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 Jos.22.5#03=L	מְאֹ֗ד	me.'Od	exceedingly	{H3966}	HAcmsa			H3966			{H3966=מְאֹד=much}					
 Jos.22.5#04=L	לַ/עֲשׂ֨וֹת	la./'a.Sot	to/ do	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 Jos.22.5#05=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
@@ -16153,7 +16153,7 @@ Jos.23.10#14=L	לָ/כֶֽם\׃	la./Khem	to <the>/ you	H9005/{H9036}\H9016	HRd/S
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
-Jos.23.11#01=L	וְ/נִשְׁמַרְתֶּ֥ם	ve./nish.mar.Tem	and/ you will take heed	H9001/{H8104J}	Hc/VNq2mp			H8104J			H9001=ו=&/{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+Jos.23.11#01=L	וְ/נִשְׁמַרְתֶּ֥ם	ve./nish.mar.Tem	and/ you will take heed	H9001/{H8104J}	Hc/VNq2mp			H8104J			H9001=ו=&/{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 Jos.23.11#02=L	מְאֹ֖ד	me.'Od	exceedingly	{H3966}	HAcmsa			H3966			{H3966=מְאֹד=much}					
 Jos.23.11#03=L	לְ/נַפְשֹֽׁתֵי/כֶ֑ם	le./naf.sho.tei./Khem	to/ selves/ your	H9005/{H5315I}/H9026	HR/Ncfpc/Sp2mp			H5315I			H9005=ל=to/{H5315I=נֶ֫פֶשׁ=: myself»soul:3_myself;_yourself;_himself}/H9026=Pp2m=your					
 Jos.23.11#04=L	לְ/אַהֲבָ֖ה	le./'a.ha.Vah	to/ love	H9005/{H0157G}	HR/Vqcc			H0157G			H9005=ל=to/{H0157G=אָהֵב=: lover»to love:1_lover}					
@@ -18837,7 +18837,7 @@ Jdg.2.22#02=L	נַסּ֥וֹת	na.Sot	to put to [the] test	{H5254G}	HVpcc			H525
 Jdg.2.22#03=L	בָּ֖/ם	ba/m	by <the>/ them	H9003/{H9038}	HRd/Sp3mp			H9038_a	H1992_a		H9003=ב=in/{H9038=Op3m=them}					
 Jdg.2.22#04=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
 Jdg.2.22#05=L	יִשְׂרָאֵ֑ל	Yis.ra.'El	Israel	{H3478}	HNpl			H3478			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
-Jdg.2.22#06=L	הֲ/שֹׁמְרִ֣ים	ha./sho.me.Rim	¿/ [be] keeping	H9008/{H8104J}	HTi/Vqrmpa			H8104J_A			H9008=ה=¿/{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+Jdg.2.22#06=L	הֲ/שֹׁמְרִ֣ים	ha./sho.me.Rim	¿/ [be] keeping	H9008/{H8104J}	HTi/Vqrmpa			H8104J_A			H9008=ה=¿/{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 Jdg.2.22#07=L	הֵם֩	hem	[will] they	{H1992}	HPp3mp			H1992_B			{H1992=הֵ֫מָּה=they(masc.)}					
 Jdg.2.22#08=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_B			{H0853=אֵת=[Obj.]}\H9014=־=link					
 Jdg.2.22#09=L	דֶּ֨רֶךְ	De.rekh	[the] way of	{H1870G}	HNcbsc			H1870G			{H1870G=דֶּ֫רֶךְ=: conduct»way:3_conduct;_lifestyle}					
@@ -20784,7 +20784,7 @@ Jdg.5.19#11=L	מְגִדּ֑וֹ	me.gi.Do	Megiddo	{H4023}	HNpl			H4023			{H4023=
 Jdg.5.19#12=L	בֶּ֥צַע	Be.tza'	profit of	{H1215}	HNcmsc			H1215			{H1215=בֶּ֫צַע=(unjust) gain}					
 Jdg.5.19#13=L	כֶּ֖סֶף	Ke.sef	silver	{H3701G}	HNcmsa			H3701G			{H3701G=כֶּ֫סֶף=: money»silver:1_money;_payment;_silver}					
 Jdg.5.19#14=L	לֹ֥א	lo'	not	{H3808}	HTn			H3808			{H3808=לֹא=not}					
-Jdg.5.19#15=L	לָקָֽחוּ\׃	la.Ka.chu	they took	{H3947H}\H9016	HVqp3cp			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}\H9016=׃=verseEnd					
+Jdg.5.19#15=L	לָקָֽחוּ\׃	la.Ka.chu	they took	{H3947H}\H9016	HVqp3cp			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}\H9016=׃=verseEnd					
 																
 # Jdg.5.20	min- (מִן־)	sha.Ma.yim (שָׁמַ֖יִם)	nil.Cha.mu (נִלְחָ֑מוּ)	ha.ko.kha.Vim (הַכּֽוֹכָבִים֙)	mi.me.si.lo.Tam (מִמְּסִלּוֹתָ֔ם)	nil.cha.Mu (נִלְחֲמ֖וּ)	'im- (עִם־)	si.se.Ra' (סִיסְרָֽא׃)								
 #_Translation	from	heaven	they fought	the/ stars	from/ highways/ their	they fought	with	Sisera								
@@ -27444,7 +27444,7 @@ Jdg.13.3#16=L	בֵּֽן\׃	Ben	a son	{H1121A}\H9016	HNcmsa			H1121A			{H1121A=�
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 Jdg.13.4#01=L	וְ/עַתָּה֙	ve./'a.Tah	and/ therefore	H9002/{H6258}	HC/D			H6258			H9002=ו=and/{H6258=עַתָּ֫ה=now}					
-Jdg.13.4#02=L	הִשָּׁ֣מְרִי	hi.Sha.me.ri	take care	{H8104J}	HVNv2fs			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+Jdg.13.4#02=L	הִשָּׁ֣מְרִי	hi.Sha.me.ri	take care	{H8104J}	HVNv2fs			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 Jdg.13.4#03=L	נָ֔א	Na'	please	{H4994}	HTj			H4994			{H4994=נָא=please}					
 Jdg.13.4#04=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_A			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
 Jdg.13.4#05=L	תִּשְׁתִּ֖י	tish.Ti	you drink	{H8354}	HVqj2fs			H8354			{H8354=שָׁתָה=to drink}					
@@ -27725,7 +27725,7 @@ Jdg.13.13#07=L	אֲשֶׁר\־	'a.Sher-	that	{H0834A}\H9014	HTr			H0834A			{H083
 Jdg.13.13#08=L	אָמַ֥רְתִּי	'a.Mar.ti	I said	{H0559}	HVqp1cs			H0559_B			{H0559=אָמַר=to say}					
 Jdg.13.13#09=L	אֶל\־	'el-	to	{H0413}\H9014	HR			H0413_B			{H0413=אֶל=to(wards)}\H9014=־=link					
 Jdg.13.13#10=L	הָ/אִשָּׁ֖ה	ha./'i.Shah	the/ woman	H9009/{H0802G}	HTd/Ncfsa			H0802G			H9009=ה=the/{H0802G=אִשָּׁה=: woman»woman:1_woman}					
-Jdg.13.13#11=L	תִּשָּׁמֵֽר\׃	ti.sha.Mer	she will take care	{H8104J}\H9016	HVNi3fs			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}\H9016=׃=verseEnd					
+Jdg.13.13#11=L	תִּשָּׁמֵֽר\׃	ti.sha.Mer	she will take care	{H8104J}\H9016	HVNi3fs			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}\H9016=׃=verseEnd					
 																
 # Jdg.13.14	mi.Kol (מִכֹּ֣ל)	'a.Sher- (אֲשֶׁר־)	ye.Tze' (יֵצֵא֩)	mi.Ge.fen (מִגֶּ֨פֶן)	hai.Ya.yin (הַיַּ֜יִן)	lo' (לֹ֣א)	to.Khal (תֹאכַ֗ל)	ve.Ya.yin (וְיַ֤יִן)	ve.she.Khar (וְשֵׁכָר֙)	'al- (אַל־)						
 #_Translation	any of/ all	that	it comes forth	from/ [the] vine of	the/ wine	not	she will eat	and/ wine	and/ strong drink	may not						
@@ -27979,7 +27979,7 @@ Jdg.13.23#05=L	חָפֵ֨ץ	cha.Fetz	he had desired	{H2654A}	HVqp3ms			H2654A			
 Jdg.13.23#06=L	יְהוָ֤ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
 Jdg.13.23#07=L	לַ/הֲמִיתֵ֙/נוּ֙	la./ha.mi.Te./nu	to/ kill/ us	H9005/{H4191}/H9035	HR/Vhcc/Sp1bp			H4191			H9005=ל=to/{H4191=מוּת=to die}/H9035=Op1c=us					
 Jdg.13.23#08=L	לֹֽא\־	lo'-	not	{H3808}\H9014	HTn			H3808_A			{H3808=לֹא=not}\H9014=־=link					
-Jdg.13.23#09=L	לָקַ֤ח	la.Kach	he accepted	{H3947H}	HVqp3ms			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}					
+Jdg.13.23#09=L	לָקַ֤ח	la.Kach	he accepted	{H3947H}	HVqp3ms			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}					
 Jdg.13.23#10=L	מִ/יָּדֵ֙/נוּ֙	mi./ya.De./nu	from/ hand/ our	H9006/{H3027G}/H9025	HR/Ncbsc/Sp1bp			H3027G			H9006=מ=from/{H3027G=יָד=: hand»hand:1_hand;_arm[anatomy]}/H9025=Pp1c=our					
 Jdg.13.23#11=L	עֹלָ֣ה	'o.Lah	a burnt offering	{H5930A}	HNcfsa			H5930A			{H5930A=עֹלָה=burnt offering}					
 Jdg.13.23#12=L	וּ/מִנְחָ֔ה	u./min.Chah	and/ a grain offering	H9002/{H4503G}	HC/Ncfsa			H4503G			H9002=ו=and/{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
@@ -37396,7 +37396,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Sa.2.15#14=L	לִ/צְל֖וֹת	li/tz.Lot	to/ roast	H9005/{H6740}	HR/Vqcc			H6740			H9005=ל=to/{H6740=צָלָה=to roast}					
 1Sa.2.15#15=L	לַ/כֹּהֵ֑ן	la./ko.Hen	to the/ priest	H9005/{H3548}	HRd/Ncmsa			H3548_B			H9005=ל=to/{H3548=כֹּהֵן=priest}					
 1Sa.2.15#16=L	וְ/לֹֽא\־	ve./lo'-	and/ not	H9002/{H3808}\H9014	HC/Tn			H3808			H9002=ו=and/{H3808=לֹא=not}\H9014=־=link					
-1Sa.2.15#17=L	יִקַּ֧ח	yi.Kach	he will accept	{H3947H}	HVqi3ms			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}					
+1Sa.2.15#17=L	יִקַּ֧ח	yi.Kach	he will accept	{H3947H}	HVqi3ms			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}					
 1Sa.2.15#18=L	מִמְּ/ךָ֛	mi.me./Kha	from/ you	{H4480A}/H9031	HRd/Sp2ms			H4480A			{H4480A=מִן־=from}/H9031=Os2m=you					
 1Sa.2.15#19=L	בָּשָׂ֥ר	ba.Sar	meat	{H1320}	HNcmsa			H1320_B			{H1320=בָּשָׂר=flesh}					
 1Sa.2.15#20=L	מְבֻשָּׁ֖ל	me.vu.Shal	boiled	{H1310}	HVPsmsa			H1310			{H1310=בָּשַׁל=to boil}					
@@ -40213,7 +40213,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Sa.7.1#15=L	וְ/אֶת\־	ve./'Et	and/ <obj.>	H9002/{H0853}\H9014	HC/To			H0853_C			H9002=ו=and/{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Sa.7.1#16=L	אֶלְעָזָ֤ר	'el.'a.Zar	Eleazar	{H0499H}	HNpm			H0499H			{H0499H=אֶלְעָזָר=Eleazar»Eleazar@1Sa.7.1}					
 1Sa.7.1#17=L	בְּנ/וֹ֙	be.N/o	son/ his	{H1121A}/H9023	HNcmsc/Sp3ms			H1121A			{H1121A=בֵּן=: child»son:1_child;_son}/H9023=Ps3m=his					
-1Sa.7.1#18=L	קִדְּשׁ֔וּ	ki.de.Shu	they consecrated	{H6942G}	HVpp3cp			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Sa.7.1#18=L	קִדְּשׁ֔וּ	ki.de.Shu	they consecrated	{H6942G}	HVpp3cp			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Sa.7.1#19=L	לִ/שְׁמֹ֖ר	li/sh.Mor	to/ keep	H9005/{H8104H}	HR/Vqcc			H8104H			H9005=ל=to/{H8104H=שָׁמַר=: guard»to keep:2_guard}					
 1Sa.7.1#20=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_D			{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Sa.7.1#21=L	אֲר֥וֹן	'a.Ron	[the] ark of	{H0727}	HNcmsc			H0727_B			{H0727=אֲרוֹן=ark}					
@@ -42127,7 +42127,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Sa.10.4#05=L	לְ/ךָ֙	le./Kha	to <the>/ you	H9005/{H9031}	HRd/Sp2ms			H9031_B			H9005=ל=to/{H9031=Os2m=you}					
 1Sa.10.4#06=L	שְׁתֵּי\־	she.tei-	two	{H8147}\H9014	HNcfdc			H8147			{H8147=שְׁנַ֫יִם=two}\H9014=־=link					
 1Sa.10.4#07=L	לֶ֔חֶם	Le.chem	bread[s]	{H3899H}	HNcmsa			H3899H			{H3899H=לֶ֫חֶם=: bread»food:2_bread;_loaf}					
-1Sa.10.4#08=L	וְ/לָקַחְתָּ֖	ve./la.kach.Ta	and/ you will take [them]	H9001/{H3947H}	Hc/Vqq2ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+1Sa.10.4#08=L	וְ/לָקַחְתָּ֖	ve./la.kach.Ta	and/ you will take [them]	H9001/{H3947H}	Hc/Vqq2ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: receive»to take:2_receive}					
 1Sa.10.4#09=L	מִ/יָּדָֽ/ם\׃	mi./ya.Da/m	from/ hand/ their	H9006/{H3027G}/H9028\H9016	HR/Ncbsc/Sp3mp			H3027G			H9006=מ=from/{H3027G=יָד=: hand»hand:1_hand;_arm[anatomy]}/H9028=Pp3m=their\H9016=׃=verseEnd					
 																
 # 1Sa.10.5	'A.char (אַ֣חַר)	Ken (כֵּ֗ן)	ta.Vo' (תָּבוֹא֙)	giv.'At (גִּבְעַ֣ת)	ha.'E.lo.Him (הָאֱלֹהִ֔ים)	'a.Sher- (אֲשֶׁר־)	sham (שָׁ֖ם)	ne.tzi.Vei (נְצִבֵ֣י)	fe.lish.Tim (פְלִשְׁתִּ֑ים)	vi.Hi (וִיהִי֩)						
@@ -47027,11 +47027,11 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Sa.16.5#03=L	לִ/זְבֹּ֤חַ	li/z.Bo.ach	to/ sacrifice	H9005/{H2076}	HR/Vqcc			H2076			H9005=ל=to/{H2076=זָבַח=to sacrifice}					
 1Sa.16.5#04=L	לַֽ/יהוָה֙	la./Yah.weh	to/ Yahweh	H9005/{H3068G}	HR/Npt			H3068G			H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
 1Sa.16.5#05=L	בָּ֔אתִי	Ba.ti	I have come	{H0935G}	HVqp1cs			H0935G_A			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
-1Sa.16.5#06=L	הִֽתְקַדְּשׁ֔וּ	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G_A			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Sa.16.5#06=L	הִֽתְקַדְּשׁ֔וּ	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G_A			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Sa.16.5#07=L	וּ/בָאתֶ֥ם	u./va.Tem	and/ you will come	H9001/{H0935G}	Hc/Vqq2mp			H0935G_B			H9001=ו=&/{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
 1Sa.16.5#08=L	אִתִּ֖/י	'i.T/i	with/ me	{H0854}/H9030	HRd/Sp1bs			H0854			{H0854=אֵת=with}/H9030=Os1c=me					
 1Sa.16.5#09=L	בַּ/זָּ֑בַח	ba./Za.vach	at the/ sacrifice	H9003/{H2077}	HRd/Ncmsa			H2077_A			H9003=ב=in/{H2077=זֶ֫בַח=sacrifice}					
-1Sa.16.5#10=L	וַ/יְקַדֵּ֤שׁ	va/y.ka.Desh	and/ he consecrated	H9001/{H6942G}	Hc/Vpw3ms			H6942G_B			H9001=ו=&/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Sa.16.5#10=L	וַ/יְקַדֵּ֤שׁ	va/y.ka.Desh	and/ he consecrated	H9001/{H6942G}	Hc/Vpw3ms			H6942G_B			H9001=ו=&/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Sa.16.5#11=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Sa.16.5#12=L	יִשַׁי֙	yi.Shai	Jesse	{H3448}	HNpm			H3448			{H3448=יִשַׁי=Jesse»Jesse@Rut.4.17-Rom}					
 1Sa.16.5#13=L	וְ/אֶת\־	ve./'Et	and/ <obj.>	H9002/{H0853}\H9014	HC/To			H0853_B			H9002=ו=and/{H0853=אֵת=[Obj.]}\H9014=־=link					
@@ -47787,7 +47787,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Sa.17.11#06=L	דִּבְרֵ֥י	div.Rei	[the] words of	{H1697G}	HNcmpc			H1697G			{H1697G=דָּבָר=: word»word:1_word;_speech;_command}					
 1Sa.17.11#07=L	הַ/פְּלִשְׁתִּ֖י	ha./pe.lish.Ti	the/ Philistine	H9009/{H6430G}	HTd/Ngmsa			H6430G			H9009=ה=the/{H6430G=פְּלִשְׁתִּי=Philistine»Philistine@Gen.21.32-Zec}					
 1Sa.17.11#08=L	הָ/אֵ֑לֶּה	ha./'E.leh	<the>/ these	H9009/{H0428}	HTd/Tm			H0428			H9009=ה=the/{H0428=אֵ֫לֶּה=these}					
-1Sa.17.11#09=L	וַ/יֵּחַ֥תּוּ	va/i.ye.Cha.tu	and/ they were dismayed	H9001/{H2865}	Hc/VNw3mp			H2865			H9001=ו=&/{H2865=חָתַת=to to be dismayed}					
+1Sa.17.11#09=L	וַ/יֵּחַ֥תּוּ	va/i.ye.Cha.tu	and/ they were dismayed	H9001/{H2865}	Hc/VNw3mp			H2865			H9001=ו=&/{H2865=חָתַת=to be dismayed}					
 1Sa.17.11#10=L	וַ/יִּֽרְא֖וּ	va/i.yir.'U	and/ they were afraid	H9001/{H3372G}	Hc/Vqw3mp			H3372G			H9001=ו=&/{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 1Sa.17.11#11=L	מְאֹֽד\׃\ \פ	me.'Od	exceedingly	{H3966}\H9016\ \H9017	HAcmsa			H3966			{H3966=מְאֹד=much}\H9016=׃=verseEnd\ \H9017=פ=para					
 																
@@ -48316,7 +48316,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Sa.17.31#06=L	וַ/יַּגִּ֥דוּ	va/i.ya.Gi.du	and/ people told	H9001/{H5046}	Hc/Vhw3mp			H5046			H9001=ו=&/{H5046=נָגַד=to tell}					
 1Sa.17.31#07=L	לִ/פְנֵֽי\־	li/f.nei-	<to>/ before	H9005/{H6440G}\H9014	HR/Ncmpc			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}\H9014=־=link					
 1Sa.17.31#08=L	שָׁא֖וּל	sha.'Ul	Saul	{H7586G}	HNpm			H7586G			{H7586G=שָׁאוּל=Saul»Saul@1Sa.9.2-Act}					
-1Sa.17.31#09=L	וַ/יִּקָּחֵֽ/הוּ\׃	va/i.yi.ka.Che./hu	and/ he sent for/ him	H9001/{H3947H}/H9033\H9016	Hc/Vqw3ms/Sp3ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: recieve»to take:2_recieve}/H9033=Os3m=him\H9016=׃=verseEnd					
+1Sa.17.31#09=L	וַ/יִּקָּחֵֽ/הוּ\׃	va/i.yi.ka.Che./hu	and/ he sent for/ him	H9001/{H3947H}/H9033\H9016	Hc/Vqw3ms/Sp3ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: receive»to take:2_receive}/H9033=Os3m=him\H9016=׃=verseEnd					
 																
 # 1Sa.17.32	vai.Yo.mer (וַיֹּ֤אמֶר)	da.Vid (דָּוִד֙)	'el- (אֶל־)	sha.'Ul (שָׁא֔וּל)	'al- (אַל־)	yi.Pol (יִפֹּ֥ל)	lev- (לֵב־)	'a.Dam (אָדָ֖ם)	'a.Lav (עָלָ֑יו)	'av.de.Kha (עַבְדְּךָ֣)						
 #_Translation	and/ he said	David	to	Saul	may not	it fall	[the] heart of	anyone	on/ him	servant/ your						
@@ -51848,7 +51848,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Sa.21.5(21.6)#22=L	וְ/אַ֕ף	ve./'Af	and/ indeed?	H9002/{H0637}	HC/Tj			H0637			H9002=ו=and/{H0637=אַף=also}					
 1Sa.21.5(21.6)#23=L	כִּ֥י	ki	for	{H3588A}	HTc			H3588A_C			{H3588A=כִּי=for}					
 1Sa.21.5(21.6)#24=L	הַ/יּ֖וֹם	hai./Yom	this/ day	H9009/{H3117G}	HTd/Ncmsa			H3117G			H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
-1Sa.21.5(21.6)#25=L	יִקְדַּ֥שׁ	yik.Dash	it is holy	{H6942G}	HVqi3ms			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Sa.21.5(21.6)#25=L	יִקְדַּ֥שׁ	yik.Dash	it is holy	{H6942G}	HVqi3ms			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Sa.21.5(21.6)#26=L	בַּ/כֶּֽלִי\׃	ba./Ke.li	in the/ vessel	H9003/{H3627}\H9016	HRd/Ncmsa			H3627_B			H9003=ב=in/{H3627=כְּלִי=article|utensil}\H9016=׃=verseEnd					
 																
 # 1Sa.21.6 (Heb: 21.7)	vai.yi.ten- (וַיִּתֶּן־)	lo (ל֥וֹ)	ha.ko.Hen (הַכֹּהֵ֖ן)	Ko.desh (קֹ֑דֶשׁ)	ki (כִּי֩)	lo'- (לֹא־)	Ha.yah (הָ֨יָה)	sham (שָׁ֜ם)	Le.chem (לֶ֗חֶם)	ki- (כִּֽי־)						
@@ -55237,7 +55237,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
-1Sa.25.35#01=L	וַ/יִּקַּ֤ח	va/i.yi.Kach	and/ he took	H9001/{H3947H}	Hc/Vqw3ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+1Sa.25.35#01=L	וַ/יִּקַּ֤ח	va/i.yi.Kach	and/ he took	H9001/{H3947H}	Hc/Vqw3ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: receive»to take:2_receive}					
 1Sa.25.35#02=L	דָּוִד֙	da.Vid	David	{H1732}	HNpm			H1732			{H1732=דָּוִד=David»David@Rut.4.17-Rev}					
 1Sa.25.35#03=L	מִ/יָּדָ֔/הּ	mi./ya.Da/h	from/ hand/ her	H9006/{H3027H}/H9024	HR/Ncbsc/Sp3fs			H3027H			H9006=מ=from/{H3027H=יָד=: power»hand:2_power;_rule;_ownership}/H9024=Ps3f=her					
 1Sa.25.35#04=L	אֵ֥ת	'et	<obj.>	{H0853}	HTo			H0853			{H0853=אֵת=[Obj.]}					
@@ -65435,7 +65435,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Sa.11.4#07=L	וַ/יִּשְׁכַּ֣ב	va/i.yish.Kav	and/ he lay	H9001/{H7901G}	Hc/Vqw3ms			H7901G			H9001=ו=&/{H7901G=שָׁכַב=: lay_down»to lie down:1_lay_down;_lie_with}					
 2Sa.11.4#08=L	עִמָּ֔/הּ	'i.Ma/h	with/ her	{H5973A}/H9034	HRd/Sp3fs			H5973A			{H5973A=עִם=with}/H9034=Os3f=her					
 2Sa.11.4#09=L	וְ/הִ֥יא	ve./Hi'	and/ she	H9002/{H1931}	HC/Pp3fs			H1931			H9002=ו=and/{H1931=הוּא=he;_she;_it}					
-2Sa.11.4#10=L	מִתְקַדֶּ֖שֶׁת	mit.ka.De.shet	[was] purifying herself	{H6942G}	HVtrfsa			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Sa.11.4#10=L	מִתְקַדֶּ֖שֶׁת	mit.ka.De.shet	[was] purifying herself	{H6942G}	HVtrfsa			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Sa.11.4#11=L	מִ/טֻּמְאָתָ֑/הּ	mi./tum.'a.Ta/h	from/ uncleanness/ her	H9006/{H2932}/H9024	HR/Ncfsc/Sp3fs			H2932			H9006=מ=from/{H2932=טֻמְאָה=uncleanness}/H9024=Ps3f=her					
 2Sa.11.4#12=L	וַ/תָּ֖שָׁב	va./Ta.shov	and/ she returned	H9001/{H7725G}	Hc/Vqw3fs			H7725G			H9001=ו=&/{H7725G=שׁוּב=: return»to return:1_return}					
 2Sa.11.4#13=L	אֶל\־	'el-	to	{H0413}\H9014	HR			H0413_B			{H0413=אֶל=to(wards)}\H9014=־=link					
@@ -85372,7 +85372,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ki.8.25#22=L	יִשְׂרָאֵ֑ל	Yis.ra.'El	Israel	{H3478}	HNpl			H3478_B			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
 1Ki.8.25#23=L	רַ֠ק	rak	only	{H7535}	HD			H7535			{H7535=רַק=except}					
 1Ki.8.25#24=L	אִם\־	'im-	if	{H0518A}\H9014	HTc			H0518A			{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
-1Ki.8.25#25=L	יִשְׁמְר֨וּ	yish.me.Ru	they will guard	{H8104J}	HVqi3mp			H8104J_B			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+1Ki.8.25#25=L	יִשְׁמְר֨וּ	yish.me.Ru	they will guard	{H8104J}	HVqi3mp			H8104J_B			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 1Ki.8.25#26=L	בָנֶ֤י/ךָ	va.Nei./kha	descendants/ your	{H1121G}/H9021	HNcmpc/Sp2ms			H1121G			{H1121G=בֵּן=: descendant»son:2_descendant;_people}/H9021=Ps2m=your					
 1Ki.8.25#27=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_B			{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Ki.8.25#28=L	דַּרְכָּ/ם֙	dar.Ka/m	way/ their	{H1870G}/H9028	HNcbsc/Sp3mp			H1870G			{H1870G=דֶּ֫רֶךְ=: conduct»way:3_conduct;_lifestyle}/H9028=Pp3m=their					
@@ -86509,7 +86509,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 1Ki.8.64#01=L	בַּ/יּ֣וֹם	ba/i.Yom	on the/ day	H9003/{H3117G}	HRd/Ncmsa			H3117G			H9003=ב=in/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
 1Ki.8.64#02=L	הַ/ה֗וּא	ha./Hu'	<the>/ that	H9009/{H1931}	HTd/Pp3ms			H1931			H9009=ה=the/{H1931=הוּא=he;_she;_it}					
-1Ki.8.64#03=L	קִדַּ֨שׁ	ki.Dash	he consecrated	{H6942G}	HVpp3ms			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Ki.8.64#03=L	קִדַּ֨שׁ	ki.Dash	he consecrated	{H6942G}	HVpp3ms			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Ki.8.64#04=L	הַ/מֶּ֜לֶךְ	ha./Me.lekh	the/ king	H9009/{H4428G}	HTd/Ncmsa			H4428G			H9009=ה=the/{H4428G=מֶ֫לֶךְ=king}					
 1Ki.8.64#05=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Ki.8.64#06=L	תּ֣וֹךְ	Tokh	[the] middle of	{H8432}	HNcmsc			H8432			{H8432=תָּ֫וֶךְ=midst}					
@@ -86692,7 +86692,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ki.9.3#09=L	אֲשֶׁ֣ר	'a.Sher	which	{H0834A}	HTr			H0834A_A			{H0834A=אֲשֶׁר=which}					
 1Ki.9.3#10=L	הִתְחַנַּ֣נְתָּה	hit.cha.Nan.tah	you have sought favor	{H2603A}	HVtp2ms			H2603A			{H2603A=חָנַן=be gracious}					
 1Ki.9.3#11=L	לְ/פָנַ/י֒	le./fa.Na/i	<to>/ before/ me	H9005/{H6440G}/H9020	HR/Ncmpc/Sp1bs			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9020=Ps1c=my					
-1Ki.9.3#12=L	הִקְדַּ֗שְׁתִּי	hik.Dash.ti	I have consecrated	{H6942G}	HVhp1cs			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Ki.9.3#12=L	הִקְדַּ֗שְׁתִּי	hik.Dash.ti	I have consecrated	{H6942G}	HVhp1cs			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Ki.9.3#13=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_C			{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Ki.9.3#14=L	הַ/בַּ֤יִת	ha./Ba.yit	the/ house	H9009/{H1004B}	HTd/Ncmsa			H1004B			H9009=ה=the/{H1004B=בַּ֫יִת=: home»house:1_home}					
 1Ki.9.3#15=L	הַ/זֶּה֙	ha./Zeh	<the>/ this	H9009/{H2088}	HTd/Tm			H2088			H9009=ה=the/{H2088=זֶה=this}					
@@ -86826,7 +86826,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ki.9.7#10=L	וְ/אֶת\־	ve./'Et	and/ <obj.>	H9002/{H0853}\H9014	HC/To			H0853_B			H9002=ו=and/{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Ki.9.7#11=L	הַ/בַּ֙יִת֙	ha./Ba.yit	the/ house	H9009/{H1004B}	HTd/Ncmsa			H1004B			H9009=ה=the/{H1004B=בַּ֫יִת=: home»house:1_home}					
 1Ki.9.7#12=L	אֲשֶׁ֣ר	'a.Sher	which	{H0834A}	HTr			H0834A_B			{H0834A=אֲשֶׁר=which}					
-1Ki.9.7#13=L	הִקְדַּ֣שְׁתִּי	hik.Dash.ti	I have consecrated	{H6942G}	HVhp1cs			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Ki.9.7#13=L	הִקְדַּ֣שְׁתִּי	hik.Dash.ti	I have consecrated	{H6942G}	HVhp1cs			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Ki.9.7#14=L	לִ/שְׁמִ֔/י	li/sh.M/i	for/ name/ my	H9005/{H8034}/H9020	HR/Ncmsc/Sp1bs			H8034			H9005=ל=to/{H8034=שֵׁם=name}/H9020=Ps1c=my					
 1Ki.9.7#15=L	אֲשַׁלַּ֖ח	'a.sha.Lach	I will cast out	{H7971G}	HVpi1cs			H7971G			{H7971G=שָׁלַח=: depart»to send:1_depart;_send}					
 1Ki.9.7#16=L	מֵ/עַ֣ל	me./'Al	from/ on	H9006/{H5921A}	HR/R			H5921A_B			H9006=מ=from/{H5921A=עַל=upon}					
@@ -88163,7 +88163,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ki.10.28#06=L	וּ/מִ/קְוֵ֕ה	u./mi/k.Veh	and/ from/ Que	H9002/H9006/{H4723A}	HC/R/Ncmsc			H4723A_A			H9002=ו=and/H9006=מ=from/{H4723A=קֹוֶה=Kue»Kue@1Ki.10.28-2Ch}					
 1Ki.10.28#07=L	סֹחֲרֵ֣י	so.cha.Rei	[the] traders of	{H5503}	HVqrmpc			H5503			{H5503=סָחַר=to trade}					
 1Ki.10.28#08=L	הַ/מֶּ֔לֶךְ	ha./Me.lekh	the/ king	H9009/{H4428G}	HTd/Ncmsa			H4428G			H9009=ה=the/{H4428G=מֶ֫לֶךְ=king}					
-1Ki.10.28#09=L	יִקְח֥וּ	yik.Chu	they took [them]	{H3947H}	HVqi3mp			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}					
+1Ki.10.28#09=L	יִקְח֥וּ	yik.Chu	they took [them]	{H3947H}	HVqi3mp			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}					
 1Ki.10.28#10=L	מִ/קְוֵ֖ה	mi/k.Veh	from/ Que	H9006/{H4723A}	HR/Ncmsc			H4723A_B			H9006=מ=from/{H4723A=קֹוֶה=Kue»Kue@1Ki.10.28-2Ch}					
 1Ki.10.28#11=L	בִּ/מְחִֽיר\׃	bi/m.Chir	for/ a price	H9003/{H4242}\H9016	HR/Ncmsa			H4242			H9003=ב=in/{H4242=מְחִיר=price}\H9016=׃=verseEnd					
 																
@@ -101156,7 +101156,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.2.19#14=L	וְ/הַ/מַּ֥יִם	ve./ha./Ma.yim	and/ the/ waters	H9002/H9009/{H4325G}	HC/Td/Ncmpa			H4325G			H9002=ו=and/H9009=ה=the/{H4325G=מַי=water}					
 2Ki.2.19#15=L	רָעִ֖ים	ra.'Im	[are] bad	{H7451A}	HAampa			H7451A			{H7451A=רַע=: harmful»bad:1_harmful}					
 2Ki.2.19#16=L	וְ/הָ/אָ֥רֶץ	ve./ha./'A.retz	and/ the/ land	H9002/H9009/{H0776G}	HC/Td/Ncfsa			H0776G			H9002=ו=and/H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}					
-2Ki.2.19#17=L	מְשַׁכָּֽלֶת\׃	me.sha.Ka.let	[is] causing abortions	{H7921C}\H9016	HVprfsa			H7921C			{H7921C=מְשַׁכֶּ֫לֶת=barenness}\H9016=׃=verseEnd					
+2Ki.2.19#17=L	מְשַׁכָּֽלֶת\׃	me.sha.Ka.let	[is] causing abortions	{H7921C}\H9016	HVprfsa			H7921C			{H7921C=מְשַׁכֶּ֫לֶת=barrenness}\H9016=׃=verseEnd					
 																
 # 2Ki.2.20	vai.Yo.mer (וַיֹּ֗אמֶר)	ke.chu- (קְחוּ־)	li (לִי֙)	tze.lo.Chit (צְלֹחִ֣ית)	cha.da.Shah (חֲדָשָׁ֔ה)	ve.Si.mu (וְשִׂ֥ימוּ)	sham (שָׁ֖ם)	Me.lach (מֶ֑לַח)	vai.yik.Chu (וַיִּקְח֖וּ)	'e.Lav (אֵלָֽיו׃)						
 #_Translation	and/ he said	fetch	for/ me	a jar	new	and/ put	there	salt	and/ they took [it]	to/ him						
@@ -101204,7 +101204,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.2.21#17=L	מִ/שָּׁ֛ם	mi./Sham	from/ there	H9006/{H8033G}	HR/D			H8033G_B			H9006=מ=from/{H8033G=שָׁם=there}					
 2Ki.2.21#18=L	ע֖וֹד	od	again	{H5750}	HAcmsa			H5750			{H5750=עוֹד=still}					
 2Ki.2.21#19=L	מָ֥וֶת	Ma.vet	death	{H4194}	HNcmsa			H4194			{H4194=מָ֫וֶת=death}					
-2Ki.2.21#20=L	וּ/מְשַׁכָּֽלֶת\׃	u./me.sha.Ka.let	and/ abortion	H9002/{H7921C}\H9016	HC/Vprfsa			H7921C			H9002=ו=and/{H7921C=מְשַׁכֶּ֫לֶת=barenness}\H9016=׃=verseEnd					
+2Ki.2.21#20=L	וּ/מְשַׁכָּֽלֶת\׃	u./me.sha.Ka.let	and/ abortion	H9002/{H7921C}\H9016	HC/Vprfsa			H7921C			H9002=ו=and/{H7921C=מְשַׁכֶּ֫לֶת=barrenness}\H9016=׃=verseEnd					
 																
 # 2Ki.2.22	vai.ye.ra.Fu (וַיֵּרָפ֣וּ)	ha.Ma.yim (הַמַּ֔יִם)	'ad (עַ֖ד)	hai.Yom (הַיּ֣וֹם)	ha.Zeh (הַזֶּ֑ה)	kid.Var (כִּדְבַ֥ר)	'e.li.Sha' (אֱלִישָׁ֖ע)	'a.Sher (אֲשֶׁ֥ר)	di.Ber (דִּבֵּֽר׃ פ)							
 #_Translation	and/ they have been healed	the/ waters	until	the/ day	<the>/ this	according to/ [the] word of	Elisha	which	he spoke							
@@ -103623,7 +103623,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.5.15#21=L	אִם\־	'im-	except	{H0518B}\H9014	HTc			H0518B	H3588B_c		{H0518B=[כִּי] אם=:except»if:5_except}\H9014=־=link					
 2Ki.5.15#22=L	בְּ/יִשְׂרָאֵ֑ל	be./Yis.ra.'El	in/ Israel	H9003/{H3478}	HR/Npl			H3478			H9003=ב=in/{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
 2Ki.5.15#23=L	וְ/עַתָּ֛ה	ve./'a.Tah	and/ now	H9002/{H6258}	HC/D			H6258			H9002=ו=and/{H6258=עַתָּ֫ה=now}					
-2Ki.5.15#24=L	קַח\־	kach-	accept	{H3947H}\H9014	HVqv2ms			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}\H9014=־=link					
+2Ki.5.15#24=L	קַח\־	kach-	accept	{H3947H}\H9014	HVqv2ms			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}\H9014=־=link					
 2Ki.5.15#25=L	נָ֥א	na'	please	{H4994}	HTj			H4994_B			{H4994=נָא=please}					
 2Ki.5.15#26=L	בְרָכָ֖ה	ve.ra.Khah	a blessing	{H1293}	HNcfsa			H1293			{H1293=בְּרָכָה=blessing}					
 2Ki.5.15#27=L	מֵ/אֵ֥ת	me./'Et	from/ with	H9006/{H0854}	HR/R			H0854	H0853		H9006=מ=from/{H0854=אֵת=with}					
@@ -103646,10 +103646,10 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.5.16#05=L	עָמַ֥דְתִּי	'a.Mad.ti	I stand	{H5975G}	HVqp1cs			H5975G			{H5975G=עָמַד=: stand»to stand:1_stand;_stop;_establish}					
 2Ki.5.16#06=L	לְ/פָנָ֖י/ו	le./fa.Na/v	<to>/ before/ him	H9005/{H6440G}/H9023	HR/Ncmpc/Sp3ms			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9023=Ps3m=his					
 2Ki.5.16#07=L	אִם\־	'im-	if	{H0518H}\H9014	HTc			H0518H			{H0518H=אִם=: surely_no»if:2_surely_no}\H9014=־=link					
-2Ki.5.16#08=L	אֶקָּ֑ח	'e.Kach	I will accept	{H3947H}	HVqi1cs			H3947H_A			{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.5.16#08=L	אֶקָּ֑ח	'e.Kach	I will accept	{H3947H}	HVqi1cs			H3947H_A			{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.5.16#09=L	וַ/יִּפְצַר\־	va/i.yif.tzar-	and/ he urged	H9001/{H6484}\H9014	Hc/Vqw3ms			H6484			H9001=ו=&/{H6484=פָּצַר=to press}\H9014=־=link					
 2Ki.5.16#10=L	בּ֥/וֹ	b/o	<in>/ him	H9003/{H9033}	HR/Sp3ms			H9033			H9003=ב=in/{H9033=Os3m=him}					
-2Ki.5.16#11=L	לָ/קַ֖חַת	la./Ka.chat	to/ accept	H9005/{H3947H}	HR/Vqcc			H3947H_B			H9005=ל=to/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.5.16#11=L	לָ/קַ֖חַת	la./Ka.chat	to/ accept	H9005/{H3947H}	HR/Vqcc			H3947H_B			H9005=ל=to/{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.5.16#12=L	וַ/יְמָאֵֽן\׃	va/y.ma.'En	and/ he refused	H9001/{H3985}\H9016	Hc/Vpw3ms			H3985			H9001=ו=&/{H3985=מָאֵן=to refuse}\H9016=׃=verseEnd					
 																
 # 2Ki.5.17	vai.yo.Mer (וַיֹּאמֶר֮)	na.'a.Man (נַעֲמָן֒)	va.Lo' (וָלֹ֕א)	yu.tan- (יֻתַּן־)	na' (נָ֣א)	le.'av.de.Kha (לְעַבְדְּךָ֔)	ma.Sa' (מַשָּׂ֥א)	tze.med- (צֶֽמֶד־)	pe.ra.Dim (פְּרָדִ֖ים)	'a.da.Mah (אֲדָמָ֑ה)						
@@ -103773,7 +103773,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.5.20#11=L	נַעֲמָ֤ן	na.'a.Man	Naaman	{H5283I}	HNpm			H5283I			{H5283I=נַעֲמָן=Naaman»Naaman@2Ki.5.1-Luk}					
 2Ki.5.20#12=L	הָֽ/אֲרַמִּי֙	ha./'a.ra.Mi	the/ Aramean	H9009/{H0761H}	HTd/Ngmsa			H0761H			H9009=ה=the/{H0761H=אֲרַמִּי=Syrian»Syria@Jdg.10.6-Gal}					
 2Ki.5.20#13=L	הַ/זֶּ֔ה	ha./Zeh	<the>/ this	H9009/{H2088}	HTd/Tm			H2088			H9009=ה=the/{H2088=זֶה=this}					
-2Ki.5.20#14=L	מִ/קַּ֥חַת	mi./Ka.chat	from/ accepting	H9006/{H3947H}	HR/Vqcc			H3947H_A			H9006=מ=from/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.5.20#14=L	מִ/קַּ֥חַת	mi./Ka.chat	from/ accepting	H9006/{H3947H}	HR/Vqcc			H3947H_A			H9006=מ=from/{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.5.20#15=L	מִ/יָּד֖/וֹ	mi./ya.D/o	from/ hand/ his	H9006/{H3027G}/H9023	HR/Ncbsc/Sp3ms			H3027G			H9006=מ=from/{H3027G=יָד=: hand»hand:1_hand;_arm[anatomy]}/H9023=Ps3m=his					
 2Ki.5.20#16=L	אֵ֣ת	'et	<obj.>	{H0853}	HTo			H0853_B			{H0853=אֵת=[Obj.]}					
 2Ki.5.20#17=L	אֲשֶׁר\־	'a.Sher-	[that] which	{H0834A}\H9014	HTr			H0834A			{H0834A=אֲשֶׁר=which}\H9014=־=link					
@@ -103784,7 +103784,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.5.20#22=L	אִם\־	'im-	except	{H0518B}\H9014	HTc			H0518B	H3588B_b		{H0518B=[כִּי] אם=:except»if:5_except}\H9014=־=link					
 2Ki.5.20#23=L	רַ֣צְתִּי	Ratz.ti	I run	{H7323G}	HVqp1cs			H7323G			{H7323G=רוּץ=: run»to run:1_run;_runner;_messenger}					
 2Ki.5.20#24=L	אַחֲרָ֔י/ו	'a.cha.Ra/v	after/ him	{H0310A}/H9033	HAcmpc/Sp3ms			H0310A			{H0310A=אַחַר=after}/H9033=Os3m=him					
-2Ki.5.20#25=L	וְ/לָקַחְתִּ֥י	ve./la.kach.Ti	and/ I will accept	H9001/{H3947H}	Hc/Vqq1cs			H3947H_B			H9001=ו=&/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.5.20#25=L	וְ/לָקַחְתִּ֥י	ve./la.kach.Ti	and/ I will accept	H9001/{H3947H}	Hc/Vqq1cs			H3947H_B			H9001=ו=&/{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.5.20#26=L	מֵ/אִתּ֖/וֹ	me./'i.T/o	from/ with <the>/ him	H9006/{H0854}/H9033	HR/Rd/Sp3ms			H0854	H0853		H9006=מ=from/{H0854=אֵת=with}/H9033=Os3m=him					
 2Ki.5.20#27=L	מְאֽוּמָה\׃	me.'U.mah	anything	{H3972}\H9016	HNcfsa			H3972			{H3972=מְא֫וּמָה=anything}\H9016=׃=verseEnd					
 																
@@ -103869,7 +103869,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.5.23#01=L	וַ/יֹּ֣אמֶר	va/i.Yo.mer	and/ he said	H9001/{H0559}	Hc/Vqw3ms			H0559			H9001=ו=&/{H0559=אָמַר=to say}					
 2Ki.5.23#02=L	נַעֲמָ֔ן	na.'a.Man	Naaman	{H5283I}	HNpm			H5283I			{H5283I=נַעֲמָן=Naaman»Naaman@2Ki.5.1-Luk}					
 2Ki.5.23#03=L	הוֹאֵ֖ל	ho.'El	be willing	{H2974}	HVhv2ms			H2974			{H2974=יָאַל=be willing}					
-2Ki.5.23#04=L	קַ֣ח	kach	accept	{H3947H}	HVqv2ms			H3947H			{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.5.23#04=L	קַ֣ח	kach	accept	{H3947H}	HVqv2ms			H3947H			{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.5.23#05=L	כִּכָּרָ֑יִם	ki.ka.Ra.yim	two talents	{H3603H}	HNcfda			H3603H_A			{H3603H=כִּכָּר=talent}					
 2Ki.5.23#06=L	וַ/יִּפְרָץ\־	va/i.yif.rotz-	and/ he urged	H9001/{H6555}\H9014	Hc/Vqw3ms			H6555			H9001=ו=&/{H6555=פָּרַץ=to break through}\H9014=־=link					
 2Ki.5.23#07=L	בּ֗/וֹ	b/o	<in>/ him	H9003/{H9033}	HR/Sp3ms			H9033			H9003=ב=in/{H9033=Os3m=him}					
@@ -103963,10 +103963,10 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.5.26#10=L	מֶרְכַּבְתּ֖/וֹ	mer.kav.T/o	chariot/ his	{H4818}/H9023	HNcfsc/Sp3ms			H4818			{H4818=מֶרְכָּבָה=chariot}/H9023=Ps3m=his					
 2Ki.5.26#11=L	לִ/קְרָאתֶ֑/ךָ	li/k.ra.Te./cha	to/ meet/ you	H9005/{H7122G}/H9031	HR/Vqcc/Sp2ms			H7122G	H7125		H9005=ל=to/{H7122G=קָרָא=: meet»to encounter:1_meet}/H9031=Os2m=you					
 2Ki.5.26#12=L	הַ/עֵ֞ת	ha./'Et	¿/ a time	H9008/{H6256}	HTi/Ncbsa			H6256			H9008=ה=¿/{H6256=עֵת=time}					
-2Ki.5.26#13=L	לָ/קַ֤חַת	la./Ka.chat	to/ accept	H9005/{H3947H}	HR/Vqcc			H3947H_A			H9005=ל=to/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.5.26#13=L	לָ/קַ֤חַת	la./Ka.chat	to/ accept	H9005/{H3947H}	HR/Vqcc			H3947H_A			H9005=ל=to/{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.5.26#14=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ki.5.26#15=L	הַ/כֶּ֙סֶף֙	ha./Ke.sef	<the>/ silver	H9009/{H3701G}	HTd/Ncmsa			H3701G			H9009=ה=the/{H3701G=כֶּ֫סֶף=: money»silver:1_money;_payment;_silver}					
-2Ki.5.26#16=L	וְ/לָ/קַ֣חַת	ve./la./Ka.chat	and/ to/ accept	H9002/H9005/{H3947H}	HC/R/Vqcc			H3947H_B			H9002=ו=and/H9005=ל=to/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.5.26#16=L	וְ/לָ/קַ֣חַת	ve./la./Ka.chat	and/ to/ accept	H9002/H9005/{H3947H}	HC/R/Vqcc			H3947H_B			H9002=ו=and/H9005=ל=to/{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.5.26#17=L	בְּגָדִ֔ים	be.ga.Dim	clothes	{H0899B}	HNcmpa			H0899B			{H0899B=בֶּ֫גֶד=garment}					
 2Ki.5.26#18=L	וְ/זֵיתִ֤ים	ve./zei.Tim	and/ olive trees	H9002/{H2132H}	HC/Ncmpa			H2132H			H9002=ו=and/{H2132H=זַ֫יִת=olive}					
 2Ki.5.26#19=L	וּ/כְרָמִים֙	u./khe.ra.Mim	and/ vineyards	H9002/{H3754}	HC/Ncmpa			H3754			H9002=ו=and/{H3754=כֶּרֶם=vineyard}					
@@ -104182,7 +104182,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.6.9#05=L	מֶ֤לֶךְ	Me.lekh	[the] king of	{H4428G}	HNcmsc			H4428G			{H4428G=מֶ֫לֶךְ=king}					
 2Ki.6.9#06=L	יִשְׂרָאֵל֙	Yis.ra.'El	Israel	{H3478}	HNpl			H3478			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
 2Ki.6.9#07=L	לֵ/אמֹ֔ר	le./Mor	<to>/ saying	H9005/{H0559}	HR/Vqcc			H0559			H9005=ל=to/{H0559=אָמַר=to say}					
-2Ki.6.9#08=L	הִשָּׁ֕מֶר	hi.Sha.mer	take care	{H8104J}	HVNv2ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+2Ki.6.9#08=L	הִשָּׁ֕מֶר	hi.Sha.mer	take care	{H8104J}	HVNv2ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 2Ki.6.9#09=L	מֵ/עֲבֹ֖ר	me./'a.Vor	from/ passing by	H9006/{H5674A}	HR/Vqcc			H5674A			H9006=מ=from/{H5674A=עָבַר=: pass»to pass:1_pass}					
 2Ki.6.9#10=L	הַ/מָּק֣וֹם	ha./ma.Kom	the/ place	H9009/{H4725}	HTd/Ncmsa			H4725			H9009=ה=the/{H4725=מָקוֹם=standing place}					
 2Ki.6.9#11=L	הַ/זֶּ֑ה	ha./Zeh	<the>/ this	H9009/{H2088}	HTd/Tm			H2088			H9009=ה=the/{H2088=זֶה=this}					
@@ -108043,7 +108043,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 2Ki.10.20#01=L	וַ/יֹּ֣אמֶר	va/i.Yo.mer	and/ he said	H9001/{H0559}	Hc/Vqw3ms			H0559			H9001=ו=&/{H0559=אָמַר=to say}					
 2Ki.10.20#02=L	יֵה֗וּא	ye.Hu'	Jehu	{H3058H}	HNpm			H3058H			{H3058H=יֵהוּא=Jehu»Jehu@1Ki.19.16-Hos}					
-2Ki.10.20#03=L	קַדְּשׁ֧וּ	ka.de.Shu	consecrate	{H6942G}	HVpv2mp			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ki.10.20#03=L	קַדְּשׁ֧וּ	ka.de.Shu	consecrate	{H6942G}	HVpv2mp			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ki.10.20#04=L	עֲצָרָ֛ה	'a.tza.Rah	an assembly	{H6116}	HNcfsa			H6116			{H6116=עֲצָרָה=assembly}					
 2Ki.10.20#05=L	לַ/בַּ֖עַל	la./Ba.'al	to <the>/ Baal	H9005/{H1168A}	HRd/Ntmsa			H1168A			H9005=ל=to/{H1168A=בַּעַל=Baal»Baal@Num.22.41-Rom}					
 2Ki.10.20#06=L	וַ/יִּקְרָֽאוּ\׃	va/i.yik.Ra.'u	and/ they proclaimed [it]	H9001/{H7121I}\H9016	Hc/Vqw3mp			H7121I			H9001=ו=&/{H7121I=קָרָא=: call_out»to call:3_call_out;_shout;_announce}\H9016=׃=verseEnd					
@@ -108353,7 +108353,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 2Ki.10.31#01=L	וְ/יֵה֗וּא	ve./ye.Hu'	and/ Jehu	H9002/{H3058H}	HC/Npm			H3058H			H9002=ו=and/{H3058H=יֵהוּא=Jehu»Jehu@1Ki.19.16-Hos}					
 2Ki.10.31#02=L	לֹ֥א	lo'	not	{H3808}	HTn			H3808_A			{H3808=לֹא=not}					
-2Ki.10.31#03=L	שָׁמַ֛ר	sha.Mar	he took care	{H8104J}	HVqp3ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+2Ki.10.31#03=L	שָׁמַ֛ר	sha.Mar	he took care	{H8104J}	HVqp3ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 2Ki.10.31#04=L	לָ/לֶ֛כֶת	la./Le.khet	to/ walk	H9005/{H1980I}	HR/Vqcc			H1980I	H3212		H9005=ל=to/{H1980I=הָלַךְ=: walk»to go:1_walk;_move}					
 2Ki.10.31#05=L	בְּ/תֽוֹרַת\־	be./to.rat-	in/ [the] law of	H9003/{H8451}\H9014	HR/Ncfsc			H8451			H9003=ב=in/{H8451=תּוֹרָה=instruction}\H9014=־=link					
 2Ki.10.31#06=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
@@ -113895,7 +113895,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.17.37#07=L	אֲשֶׁ֣ר	'a.Sher	which	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
 2Ki.17.37#08=L	כָּתַ֣ב	ka.Tav	he wrote	{H3789}	HVqp3ms			H3789			{H3789=כָּתַב=to write}					
 2Ki.17.37#09=L	לָ/כֶ֔ם	la./Khem	for/ you	H9005/{H9036}	HR/Sp2mp			H9036			H9005=ל=to/{H9036=Op2m=you}					
-2Ki.17.37#10=L	תִּשְׁמְר֥וּ/ן	tish.me.Ru/n	you will take care/ !	{H8104J}/H9013	HVqi2mp/Sn			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}/H9013=נ=emph.					
+2Ki.17.37#10=L	תִּשְׁמְר֥וּ/ן	tish.me.Ru/n	you will take care/ !	{H8104J}/H9013	HVqi2mp/Sn			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}/H9013=נ=emph.					
 2Ki.17.37#11=L	לַ/עֲשׂ֖וֹת	la./'a.Sot	to/ do	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 2Ki.17.37#12=L	כָּל\־	kol-	all	{H3605}\H9014	HNcmsc			H3605			{H3605=כֹּל=all}\H9014=־=link					
 2Ki.17.37#13=L	הַ/יָּמִ֑ים	hai./ya.Mim	the/ days	H9009/{H3117K}	HTd/Ncmpa			H3117K			H9009=ה=the/{H3117K=יוֹם=: always»day:5_always;_long_time}					
@@ -115483,7 +115483,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
-2Ki.19.14#01=L	וַ/יִּקַּ֨ח	va/i.yi.Kach	and/ he took	H9001/{H3947H}	Hc/Vqw3ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+2Ki.19.14#01=L	וַ/יִּקַּ֨ח	va/i.yi.Kach	and/ he took	H9001/{H3947H}	Hc/Vqw3ms			H3947H			H9001=ו=&/{H3947H=לָקַח=: receive»to take:2_receive}					
 2Ki.19.14#02=L	חִזְקִיָּ֧הוּ	chiz.ki.Ya.hu	Hezekiah	{H2396G}	HNpm			H2396G_A			{H2396G=חִזְקִיָּהוּ=Hezekiah»Hezekiah@2Ki.16.20-Mat}					
 2Ki.19.14#03=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ki.19.14#04=L	הַ/סְּפָרִ֛ים	ha./se.fa.Rim	the/ letters	H9009/{H5612A}	HTd/Ncmpa			H5612A			H9009=ה=the/{H5612A=סֵ֫פֶר=: document»scroll:1_document}					
@@ -115818,7 +115818,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.19.26#01=L	וְ/יֹֽשְׁבֵי/הֶן֙	ve./yo.she.vei./Hen	and/ inhabitants/ their	H9002/{H3427}/H9029	HC/Vqrmpc/Sp3fp			H3427			H9002=ו=and/{H3427=יָשַׁב=to dwell}/H9029=Pp3f=their					
 2Ki.19.26#02=L	קִצְרֵי\־	kitz.rei-	[were] short of	{H7116}\H9014	HAampc			H7116			{H7116=קָצֵר=short}\H9014=־=link					
 2Ki.19.26#03=L	יָ֔ד	Yad	hand	{H3027H}	HNcbsa			H3027H			{H3027H=יָד=: power»hand:2_power;_rule;_ownership}					
-2Ki.19.26#04=L	חַ֖תּוּ	Cha.tu	they were dismayed	{H2865}	HVqp3cp			H2865			{H2865=חָתַת=to to be dismayed}					
+2Ki.19.26#04=L	חַ֖תּוּ	Cha.tu	they were dismayed	{H2865}	HVqp3cp			H2865			{H2865=חָתַת=to be dismayed}					
 2Ki.19.26#05=L	וַ/יֵּבֹ֑שׁוּ	va/i.ye.Vo.shu	and/ they were ashamed	H9001/{H0954}	Hc/Vqw3mp			H0954			H9001=ו=&/{H0954=בּוֹשׁ=be ashamed}					
 2Ki.19.26#06=L	הָי֞וּ	ha.Yu	they were	{H1961}	HVqp3cp			H1961			{H1961=הָיָה=to be}					
 2Ki.19.26#07=L	עֵ֤שֶׂב	'E.sev	[the] vegetation of	{H6212}	HNcmsc			H6212			{H6212=עֵ֫שֶׂב=vegetation}					
@@ -116921,7 +116921,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ki.21.8#10=L	לַֽ/אֲבוֹתָ֑/ם	la./'a.vo.Ta/m	to/ ancestors/ their	H9005/{H0001G}/H9028	HR/Ncfpc/Sp3mp			H0001G			H9005=ל=to/{H0001G=אָב=father}/H9028=Pp3m=their					
 2Ki.21.8#11=L	רַ֣ק\׀	rak	only	{H7535}\H9015	HD			H7535			{H7535=רַק=except}\H9015=׀=separate					
 2Ki.21.8#12=L	אִם\־	'im-	if	{H0518A}\H9014	HTc			H0518A			{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
-2Ki.21.8#13=L	יִשְׁמְר֣וּ	yish.me.Ru	they will take care	{H8104J}	HVqi3mp			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+2Ki.21.8#13=L	יִשְׁמְר֣וּ	yish.me.Ru	they will take care	{H8104J}	HVqi3mp			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 2Ki.21.8#14=L	לַ/עֲשׂ֗וֹת	la./'a.Sot	to/ do	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 2Ki.21.8#15=L	כְּ/כֹל֙	ke./Khol	according to/ all	H9004/{H3605}	HR/Ncmsa			H3605_A			H9004=כ=like/{H3605=כֹּל=all}					
 2Ki.21.8#16=L	אֲשֶׁ֣ר	'a.Sher	that	{H0834A}	HTr			H0834A_B			{H0834A=אֲשֶׁר=which}					
@@ -124110,7 +124110,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ch.5.18#21=L	וּ/שְׁבַע\־	u./she.va'-	and/ seven	H9002/{H7651}\H9014	HC/Ncbsc			H7651			H9002=ו=and/{H7651=שֶׁ֫בַע=seven}\H9014=־=link					
 1Ch.5.18#22=L	מֵא֥וֹת	me.'ot	hundred<s>	{H3967}	HNcfpa			H3967			{H3967=מֵאָה=hundred}					
 1Ch.5.18#23=L	וְ/שִׁשִּׁ֖ים	ve./shi.Shim	and/ sixty	H9002/{H8346}	HC/Ncmpa			H8346			H9002=ו=and/{H8346=שִׁשִּׁים=sixty}					
-1Ch.5.18#24=L	יֹצְאֵ֥י	yo.tze.'Ei	[those who] went forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accostomed;_able(fighter)}					
+1Ch.5.18#24=L	יֹצְאֵ֥י	yo.tze.'Ei	[those who] went forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accustomed;_able(fighter)}					
 1Ch.5.18#25=L	צָבָֽא\׃	tza.Va'	war	{H6635H}\H9016	HNcmsa			H6635H			{H6635H=צָבָא=: war»army:2_war}\H9016=׃=verseEnd					
 																
 # 1Ch.5.19	vai.ya.'a.Su (וַיַּעֲשׂ֥וּ)	mil.cha.Mah (מִלְחָמָ֖ה)	'im- (עִם־)	ha.hag.ri.'Im (הַֽהַגְרִיאִ֑ים)	vi.Tur (וִיט֥וּר)	ve.na.Fish (וְנָפִ֖ישׁ)	ve.no.Dav (וְנוֹדָֽב׃)									
@@ -126015,7 +126015,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ch.7.11#10=L	עָשָׂ֥ר	'a.Sar	teen	{H6240}	HNcbsa			H6240			{H6240=עָשָׂר=ten}					
 1Ch.7.11#11=L	אֶ֙לֶף֙	'e.lef	thousand	{H0505G}	HNcbsa			H0505G			{H0505G=אֶ֫לֶף=: thousand»thousand:1_thousand}					
 1Ch.7.11#12=L	וּ/מָאתַ֔יִם	u./ma.Ta.yim	and/ two hundred	H9002/{H3967}	HC/Ncfda			H3967			H9002=ו=and/{H3967=מֵאָה=hundred}					
-1Ch.7.11#13=L	יֹצְאֵ֥י	yo.tze.'Ei	[those who] went forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accostomed;_able(fighter)}					
+1Ch.7.11#13=L	יֹצְאֵ֥י	yo.tze.'Ei	[those who] went forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accustomed;_able(fighter)}					
 1Ch.7.11#14=L	צָבָ֖א	tza.Va'	war	{H6635H}	HNcmsa			H6635H			{H6635H=צָבָא=: war»army:2_war}					
 1Ch.7.11#15=L	לַ/מִּלְחָמָֽה\׃	la./mil.cha.Mah	for <the>/ battle	H9005/{H4421}\H9016	HRd/Ncfsa			H4421			H9005=ל=to/{H4421=מִלְחָמָה=battle}\H9016=׃=verseEnd					
 																
@@ -130065,7 +130065,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 1Ch.12.33(12.34)#01=L	מִ/זְּבֻל֞וּן	mi./ze.vu.Lun	from/ Zebulun	H9006/{H2074}	HR/Npm			H2074			H9006=מ=from/{H2074=זְבוּלֻן=Zebulun»Zebulun@Gen.30.20-Rev}					
-1Ch.12.33(12.34)#02=L	יוֹצְאֵ֣י	yotz.'Ei	[those who] go forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accostomed;_able(fighter)}					
+1Ch.12.33(12.34)#02=L	יוֹצְאֵ֣י	yotz.'Ei	[those who] go forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accustomed;_able(fighter)}					
 1Ch.12.33(12.34)#03=L	צָבָ֗א	tza.Va'	war	{H6635H}	HNcmsa			H6635H			{H6635H=צָבָא=: war»army:2_war}					
 1Ch.12.33(12.34)#04=L	עֹרְכֵ֧י	'o.re.Khei	[those who] prepare of	{H6186A}	HVqrmpc			H6186A			{H6186A=עָרַךְ=to arrange}					
 1Ch.12.33(12.34)#05=L	מִלְחָמָ֛ה	mil.cha.Mah	battle	{H4421}	HNcfsa			H4421_A			{H4421=מִלְחָמָה=battle}					
@@ -130118,7 +130118,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 1Ch.12.36(12.37)#01=L	וּ/מֵ/אָשֵׁ֗ר	u./me./'a.Sher	and/ of/ Asher	H9002/H9006/{H0836}	HC/R/Npm			H0836			H9002=ו=and/H9006=מ=from/{H0836=אָשֵׁר=Asher»Asher@Gen.30.13-Rev}					
-1Ch.12.36(12.37)#02=L	יוֹצְאֵ֥י	yotz.'Ei	[those who] go forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accostomed;_able(fighter)}					
+1Ch.12.36(12.37)#02=L	יוֹצְאֵ֥י	yotz.'Ei	[those who] go forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accustomed;_able(fighter)}					
 1Ch.12.36(12.37)#03=L	צָבָ֛א	tza.Va'	war	{H6635H}	HNcmsa			H6635H			{H6635H=צָבָא=: war»army:2_war}					
 1Ch.12.36(12.37)#04=L	לַ/עֲרֹ֥ךְ	la./'a.Rokh	to/ deploy	H9005/{H6186A}	HR/Vqcc			H6186A			H9005=ל=to/{H6186A=עָרַךְ=to arrange}					
 1Ch.12.36(12.37)#05=L	מִלְחָמָ֖ה	mil.cha.Mah	battle	{H4421}	HNcfsa			H4421			{H4421=מִלְחָמָה=battle}					
@@ -131200,7 +131200,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ch.15.12#04=L	רָאשֵׁ֥י	ra.Shei	[are] [the] chiefs of	{H7218H}	HNcmpc			H7218H			{H7218H=רֹאשׁ=: leader»head:2_leader}					
 1Ch.15.12#05=L	הָ/אָב֖וֹת	ha./'a.Vot	the/ fathers	H9009/{H0001G}	HTd/Ncfpa			H0001G			H9009=ה=the/{H0001G=אָב=father}					
 1Ch.15.12#06=L	לַ/לְוִיִּ֑ם	la/l.vi.Yim	of the/ Levites	H9005/{H3881}	HRd/Ngmpa			H3881			H9005=ל=to/{H3881=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
-1Ch.15.12#07=L	הִֽתְקַדְּשׁוּ֙	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Ch.15.12#07=L	הִֽתְקַדְּשׁוּ֙	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Ch.15.12#08=L	אַתֶּ֣ם	'a.Tem	you	{H0859D}	HPp2mp			H0859D_B			{H0859D=אַתֶּם=you(m.p.)}					
 1Ch.15.12#09=L	וַ/אֲחֵי/כֶ֔ם	va./'a.chei./Khem	and/ relatives/ your	H9002/{H0251H}/H9026	HC/Ncmpc/Sp2mp			H0251H			H9002=ו=and/{H0251H=אָח=: male-relative»brother:2_male-relative}/H9026=Pp2m=your					
 1Ch.15.12#10=L	וְ/הַֽעֲלִיתֶ֗ם	ve./ha.'a.li.Tem	and/ you will bring up	H9001/{H5927H}	Hc/Vhq2mp			H5927H			H9001=ו=&/{H5927H=עָלָה=: establish»to ascend:2_establish;_raise;_bring}					
@@ -131242,7 +131242,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
-1Ch.15.14#01=L	וַ/יִּֽתְקַדְּשׁ֔וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+1Ch.15.14#01=L	וַ/יִּֽתְקַדְּשׁ֔וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 1Ch.15.14#02=L	הַ/כֹּהֲנִ֖ים	ha./ko.ha.Nim	the/ priests	H9009/{H3548}	HTd/Ncmpa			H3548			H9009=ה=the/{H3548=כֹּהֵן=priest}					
 1Ch.15.14#03=L	וְ/הַ/לְוִיִּ֑ם	ve./ha/l.vi.Yim	and/ the/ Levites	H9002/H9009/{H3881}	HC/Td/Ngmpa			H3881			H9002=ו=and/H9009=ה=the/{H3881=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
 1Ch.15.14#04=L	לְ/הַעֲל֕וֹת	le./ha.'a.Lot	to/ bring up	H9005/{H5927H}	HR/Vhcc			H5927H			H9005=ל=to/{H5927H=עָלָה=: establish»to ascend:2_establish;_raise;_bring}					
@@ -135464,7 +135464,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ch.22.13#01=L	אָ֣ז	'az	then	{H0227A}	HD			H0227A			{H0227A=אָז=then}					
 1Ch.22.13#02=L	תַּצְלִ֔יחַ	tatz.Li.ach	you will be successful	{H6743B}	HVhi2ms			H6743B			{H6743B=צָלֵחַ=to prosper}					
 1Ch.22.13#03=L	אִם\־	'im-	if	{H0518A}\H9014	HTc			H0518A			{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
-1Ch.22.13#04=L	תִּשְׁמ֗וֹר	tish.Mor	you will take care	{H8104J}	HVqi2ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+1Ch.22.13#04=L	תִּשְׁמ֗וֹר	tish.Mor	you will take care	{H8104J}	HVqi2ms			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 1Ch.22.13#05=L	לַ/עֲשׂוֹת֙	la./'a.sOt	to/ observe	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 1Ch.22.13#06=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
 1Ch.22.13#07=L	הַֽ/חֻקִּ֣ים	ha./chu.Kim	the/ statutes	H9009/{H2706G}	HTd/Ncmpa			H2706G			H9009=ה=the/{H2706G=חֹק=: decree»statute:1_decree}					
@@ -135482,7 +135482,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ch.22.13#19=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 1Ch.22.13#20=L	תִּירָ֖א	ti.Ra'	you be afraid	{H3372G}	HVqj2ms			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 1Ch.22.13#21=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-1Ch.22.13#22=L	תֵּחָֽת\׃	te.Chat	you be dismayed	{H2865}\H9016	HVNj2ms			H2865			{H2865=חָתַת=to to be dismayed}\H9016=׃=verseEnd					
+1Ch.22.13#22=L	תֵּחָֽת\׃	te.Chat	you be dismayed	{H2865}\H9016	HVNj2ms			H2865			{H2865=חָתַת=to be dismayed}\H9016=׃=verseEnd					
 																
 # 1Ch.22.14	ve.hi.Neh (וְהִנֵּ֨ה)	ve.'a.ne.Yi (בְעָנְיִ֜י)	ha.khi.No.ti (הֲכִינ֣וֹתִי)	le.veit- (לְבֵית־)	Yah.weh (יְהוָ֗ה)	za.Hav (זָהָ֞ב)	ki.ka.Rim (כִּכָּרִ֤ים)	me.'ah- (מֵֽאָה־)	'e.lef (אֶ֙לֶף֙)	ve.Khe.sef (וְכֶ֗סֶף)						
 #_Translation	and/ here!	in/ affliction/ my	I have prepared	for/ [the] house of	Yahweh	gold	talents	one hundred	thousand	and/ silver						
@@ -139303,7 +139303,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ch.28.20#08=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 1Ch.28.20#09=L	תִּירָ֖א	ti.Ra'	you be afraid	{H3372G}	HVqj2ms			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 1Ch.28.20#10=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-1Ch.28.20#11=L	תֵּחָ֑ת	te.Chat	you be dismayed	{H2865}	HVNj2ms			H2865			{H2865=חָתַת=to to be dismayed}					
+1Ch.28.20#11=L	תֵּחָ֑ת	te.Chat	you be dismayed	{H2865}	HVNj2ms			H2865			{H2865=חָתַת=to be dismayed}					
 1Ch.28.20#12=L	כִּי֩	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
 1Ch.28.20#13=L	יְהוָ֨ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
 1Ch.28.20#14=L	אֱלֹהִ֤ים	'E.lo.Him	God	{H0430G}	HNcmpa			H0430G_A			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
@@ -140021,8 +140021,8 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 1Ch.29.24#07=L	הַ/מֶּ֣לֶךְ	ha./Me.lekh	the/ king	H9009/{H4428G}	HTd/Ncmsa			H4428G_A			H9009=ה=the/{H4428G=מֶ֫לֶךְ=king}					
 1Ch.29.24#08=L	דָּוִ֑יד	da.Vid	David	{H1732}	HNpm			H1732			{H1732=דָּוִד=David»David@Rut.4.17-Rev}					
 1Ch.29.24#09=L	נָ֣תְנוּ	Na.te.nu	they gave	{H5414G}	HVqp3cp			H5414G			{H5414G=נָתַן=: give»to give:1_give;_deliver;_send;_produce}					
-1Ch.29.24#10=L	יָ֔ד	Yad	a hand	{H3027X}	HNcbsa			H3027X			{H3027X=יָד=: swear»hand:18_swear;_allegience;_hand(under)}					
-1Ch.29.24#11=L	תַּ֖חַת	Ta.chat	under	{H8478L}	HNcmsc			H8478L			{H8478L=תַּחַת=: swear»underneath:6_swear;_allegience;_(hand)under}					
+1Ch.29.24#10=L	יָ֔ד	Yad	a hand	{H3027X}	HNcbsa			H3027X			{H3027X=יָד=: swear»hand:18_swear;_allegiance;_hand(under)}					
+1Ch.29.24#11=L	תַּ֖חַת	Ta.chat	under	{H8478L}	HNcmsc			H8478L			{H8478L=תַּחַת=: swear»underneath:6_swear;_allegiance;_(hand)under}					
 1Ch.29.24#12=L	שְׁלֹמֹ֥ה	she.lo.Moh	Solomon	{H8010}	HNpm			H8010			{H8010=שְׁלֹמֹה=Solomon»Solomon@2Sa.5.14-Act}					
 1Ch.29.24#13=L	הַ/מֶּֽלֶךְ\׃	ha./Me.lekh	the/ king	H9009/{H4428G}\H9016	HTd/Ncmsa			H4428G_B			H9009=ה=the/{H4428G=מֶ֫לֶךְ=king}\H9016=׃=verseEnd					
 																
@@ -142439,9 +142439,9 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.5.11#07=L	כָּל\־	kol-	all	{H3605}\H9014	HNcmsc			H3605			{H3605=כֹּל=all}\H9014=־=link					
 2Ch.5.11#08=L	הַ/כֹּהֲנִ֤ים	ha./ko.ha.Nim	the/ priests	H9009/{H3548}	HTd/Ncmpa			H3548_B			H9009=ה=the/{H3548=כֹּהֵן=priest}					
 2Ch.5.11#09=L	הַֽ/נִּמְצְאִים֙	ha./nim.tze.'Im	who/ were found	H9009/{H4672}	HTd/VNrmpa			H4672			H9009=ה=the/{H4672=מָצָא=to find}					
-2Ch.5.11#10=L	הִתְקַדָּ֔שׁוּ	hit.ka.Da.shu	they had consecrated themselves	{H6942G}	HVtp3cp			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.5.11#10=L	הִתְקַדָּ֔שׁוּ	hit.ka.Da.shu	they had consecrated themselves	{H6942G}	HVtp3cp			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.5.11#11=L	אֵ֖ין	'ein	not	{H0369}	HNcmsc			H0369			{H0369=אַ֫יִן=nothing}					
-2Ch.5.11#12=L	לִ/שְׁמ֥וֹר	li/sh.Mor	to/ keep	H9005/{H8104J}	HR/Vqcc			H8104J			H9005=ל=to/{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+2Ch.5.11#12=L	לִ/שְׁמ֥וֹר	li/sh.Mor	to/ keep	H9005/{H8104J}	HR/Vqcc			H8104J			H9005=ל=to/{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 2Ch.5.11#13=L	לְ/מַחְלְקֽוֹת\׃	le./mach.le.Kot	to/ divisions	H9005/{H4256}\H9016	HR/Ncfpa			H4256			H9005=ל=to/{H4256=מַחֲלֹ֫קֶת=division}\H9016=׃=verseEnd					
 																
 # 2Ch.5.12	ve.hal.vi.Yim (וְהַלְוִיִּ֣ם)	ham.sho.ra.Rim (הַמְשֹׁרֲרִ֣ים)	le.khu.Lam (לְכֻלָּ֡ם)	le.'a.Saf (לְאָסָ֡ף)	le.hei.Man (לְהֵימָ֣ן)	Li.du.tun (לִֽ֠ידֻתוּן)	ve.liv.nei.Hem (וְלִבְנֵיהֶ֨ם)	ve.la.'a.chei.Hem (וְלַאֲחֵיהֶ֜ם)	me.lu.ba.Shim (מְלֻבָּשִׁ֣ים)	Butz (בּ֗וּץ)						
@@ -142985,7 +142985,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.6.16#22=L	יִשְׂרָאֵ֑ל	Yis.ra.'El	Israel	{H3478}	HNpl			H3478_B			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
 2Ch.6.16#23=L	רַ֠ק	rak	only	{H7535}	HD			H7535			{H7535=רַק=except}					
 2Ch.6.16#24=L	אִם\־	'im-	if	{H0518A}\H9014	HTc			H0518A			{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
-2Ch.6.16#25=L	יִשְׁמְר֨וּ	yish.me.Ru	they will guard	{H8104J}	HVqi3mp			H8104J_B			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+2Ch.6.16#25=L	יִשְׁמְר֨וּ	yish.me.Ru	they will guard	{H8104J}	HVqi3mp			H8104J_B			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 2Ch.6.16#26=L	בָנֶ֜י/ךָ	va.Nei./kha	descendants/ your	{H1121G}/H9021	HNcmpc/Sp2ms			H1121G			{H1121G=בֵּן=: descendant»son:2_descendant;_people}/H9021=Ps2m=your					
 2Ch.6.16#27=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_B			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ch.6.16#28=L	דַּרְכָּ֗/ם	dar.Ka/m	way/ their	{H1870G}/H9028	HNcbsc/Sp3mp			H1870G			{H1870G=דֶּ֫רֶךְ=: conduct»way:3_conduct;_lifestyle}/H9028=Pp3m=their					
@@ -143984,7 +143984,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 #_Significant variant																
 																
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
-2Ch.7.7#01=L	וַ/יְקַדֵּ֣שׁ	va/y.ka.Desh	and/ he consecrated	H9001/{H6942G}	Hc/Vpw3ms			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.7.7#01=L	וַ/יְקַדֵּ֣שׁ	va/y.ka.Desh	and/ he consecrated	H9001/{H6942G}	Hc/Vpw3ms			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.7.7#02=L	שְׁלֹמֹ֗ה	she.lo.Moh	Solomon	{H8010}	HNpm			H8010_A			{H8010=שְׁלֹמֹה=Solomon»Solomon@2Sa.5.14-Act}					
 2Ch.7.7#03=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ch.7.7#04=L	תּ֤וֹךְ	Tokh	[the] middle of	{H8432}	HNcmsc			H8432			{H8432=תָּ֫וֶךְ=midst}					
@@ -144254,7 +144254,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 2Ch.7.16#01=L	וְ/עַתָּ֗ה	ve./'a.Tah	and/ now	H9002/{H6258}	HC/D			H6258			H9002=ו=and/{H6258=עַתָּ֫ה=now}					
 2Ch.7.16#02=L	בָּחַ֤רְתִּי	ba.Char.ti	I have chosen	{H0977}	HVqp1cs			H0977			{H0977=בָּחַר=to choose}					
-2Ch.7.16#03=L	וְ/הִקְדַּ֙שְׁתִּי֙	ve./hik.Dash.ti	and/ I have consecrated	H9002/{H6942G}	HC/Vhp1cs			H6942G			H9002=ו=and/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.7.16#03=L	וְ/הִקְדַּ֙שְׁתִּי֙	ve./hik.Dash.ti	and/ I have consecrated	H9002/{H6942G}	HC/Vhp1cs			H6942G			H9002=ו=and/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.7.16#04=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ch.7.16#05=L	הַ/בַּ֣יִת	ha./Ba.yit	the/ house	H9009/{H1004B}	HTd/Ncmsa			H1004B			H9009=ה=the/{H1004B=בַּ֫יִת=: home»house:1_home}					
 2Ch.7.16#06=L	הַ/זֶּ֔ה	ha./Zeh	<the>/ this	H9009/{H2088}	HTd/Tm			H2088			H9009=ה=the/{H2088=זֶה=this}					
@@ -144368,7 +144368,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.7.20#08=L	הַ/בַּ֤יִת	ha./Ba.yit	the/ house	H9009/{H1004B}	HTd/Ncmsa			H1004B			H9009=ה=the/{H1004B=בַּ֫יִת=: home»house:1_home}					
 2Ch.7.20#09=L	הַ/זֶּה֙	ha./Zeh	<the>/ this	H9009/{H2088}	HTd/Tm			H2088			H9009=ה=the/{H2088=זֶה=this}					
 2Ch.7.20#10=L	אֲשֶׁ֣ר	'a.Sher	which	{H0834A}	HTr			H0834A_B			{H0834A=אֲשֶׁר=which}					
-2Ch.7.20#11=L	הִקְדַּ֣שְׁתִּי	hik.Dash.ti	I have consecrated	{H6942G}	HVhp1cs			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.7.20#11=L	הִקְדַּ֣שְׁתִּי	hik.Dash.ti	I have consecrated	{H6942G}	HVhp1cs			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.7.20#12=L	לִ/שְׁמִ֔/י	li/sh.M/i	for/ name/ my	H9005/{H8034}/H9020	HR/Ncmsc/Sp1bs			H8034			H9005=ל=to/{H8034=שֵׁם=name}/H9020=Ps1c=my					
 2Ch.7.20#13=L	אַשְׁלִ֖יךְ	'ash.Likh	I will throw away	{H7993}	HVhi1cs			H7993			{H7993=שָׁלַךְ=to throw}					
 2Ch.7.20#14=L	מֵ/עַ֣ל	me./'Al	from/ on	H9006/{H5921A}	HR/R			H5921A_B			H9006=מ=from/{H5921A=עַל=upon}					
@@ -150652,7 +150652,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.19.7#03=L	פַֽחַד\־	fa.chad-	[the] dread of	{H6343}\H9014	HNcmsc			H6343			{H6343=פַּ֫חַד=dread}\H9014=־=link					
 2Ch.19.7#04=L	יְהוָ֖ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
 2Ch.19.7#05=L	עֲלֵי/כֶ֑ם	'a.lei./Khem	on/ you	{H5921A}/H9036	HR/Sp2mp			H5921A			{H5921A=עַל=upon}/H9036=Op2m=you					
-2Ch.19.7#06=L	שִׁמְר֣וּ	shim.Ru	take care	{H8104J}	HVqv2mp			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+2Ch.19.7#06=L	שִׁמְר֣וּ	shim.Ru	take care	{H8104J}	HVqv2mp			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 2Ch.19.7#07=L	וַ/עֲשׂ֔וּ	va./'a.Su	and/ act	H9002/{H6213A}	HC/Vqv2mp			H6213A			H9002=ו=and/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 2Ch.19.7#08=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
 2Ch.19.7#09=L	אֵ֞ין	'ein	there not	{H0369}	HNcmsc			H0369			{H0369=אַ֫יִן=nothing}					
@@ -151183,7 +151183,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.20.15#14=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 2Ch.20.15#15=L	תִּֽירְא֤וּ	ti.re.'U	you be afraid	{H3372G}	HVqj2mp			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 2Ch.20.15#16=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-2Ch.20.15#17=L	תֵּחַ֙תּוּ֙	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to to be dismayed}					
+2Ch.20.15#17=L	תֵּחַ֙תּוּ֙	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to be dismayed}					
 2Ch.20.15#18=L	מִ/פְּנֵ֨י	mi./pe.Nei	<from>/ because of	H9006/{H6440I}	HR/Ncmpc			H6440I			H9006=מ=from/{H6440I=פָּנֶה=: because»face:3_because}					
 2Ch.20.15#19=L	הֶ/הָמ֤וֹן	he./ha.Mon	the/ multitude	H9009/{H1995A}	HTd/Ncmsa			H1995A			H9009=ה=the/{H1995A=הָמוֹן=crowd}					
 2Ch.20.15#20=L	הָ/רָב֙	ha./Rav	<the>/ great	H9009/{H7227A}	HTd/Aamsa			H7227A			H9009=ה=the/{H7227A=רַב=many}					
@@ -151250,7 +151250,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.20.17#14=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 2Ch.20.17#15=L	תִּֽירְאוּ֙	ti.re.'U	you be afraid	{H3372G}	HVqj2mp			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 2Ch.20.17#16=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-2Ch.20.17#17=L	תֵּחַ֔תּוּ	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to to be dismayed}					
+2Ch.20.17#17=L	תֵּחַ֔תּוּ	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to be dismayed}					
 2Ch.20.17#18=L	מָחָר֙	ma.Char	tomorrow	{H4279}	HNcmsa			H4279			{H4279=מָחָר=tomorrow}					
 2Ch.20.17#19=L	צְא֣וּ	tze.'U	go out	{H3318G}	HVqv2mp			H3318G			{H3318G=יָצָא=: come»to come out:1_come;_go_out;_escape}					
 2Ch.20.17#20=L	לִ/פְנֵי/הֶ֔ם	li/f.nei./Hem	<to>/ before/ them	H9005/{H6440G}/H9028	HR/Ncmpc/Sp3mp			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9028=Pp3m=their					
@@ -154270,7 +154270,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.25.5#22=L	מֵא֨וֹת	me.'ot	hundred<s>	{H3967}	HNcfpa			H3967_B			{H3967=מֵאָה=hundred}					
 2Ch.25.5#23=L	אֶ֤לֶף	'E.lef	thousand	{H0505G}	HNcbsa			H0505G_B			{H0505G=אֶ֫לֶף=: thousand»thousand:1_thousand}					
 2Ch.25.5#24=L	בָּחוּר֙	ba.Chur	chosen [man]	{H0977}	HVqsmsa			H0977			{H0977=בָּחַר=to choose}					
-2Ch.25.5#25=L	יוֹצֵ֣א	yo.Tze'	[one who] goes forth	{H3318N}	HVqrmsa			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accostomed;_able(fighter)}					
+2Ch.25.5#25=L	יוֹצֵ֣א	yo.Tze'	[one who] goes forth	{H3318N}	HVqrmsa			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accustomed;_able(fighter)}					
 2Ch.25.5#26=L	צָבָ֔א	tza.Va'	warfare	{H6635H}	HNcmsa			H6635H			{H6635H=צָבָא=: war»army:2_war}					
 2Ch.25.5#27=L	אֹחֵ֖ז	'o.Chez	[one who] holds	{H0270}	HVqrmsa			H0270			{H0270=אָחַז=to grasp}					
 2Ch.25.5#28=L	רֹ֥מַח	Ro.mach	spear	{H7420}	HNcmsa			H7420			{H7420=רֹ֫מַח=spear}					
@@ -155208,7 +155208,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.26.11#03=L	חַיִל֩	cha.Yil	an army	{H2428A}	HNcmsa			H2428A			{H2428A=חַ֫יִל=: soldiers»strength:2_soldiers;_army}					
 2Ch.26.11#04=L	עֹשֵׂ֨ה	'o.Seh	doing	{H6213J}	HVqrmsc			H6213J			{H6213J=עָשָׂה=: [do](ACTION)»to make:4_[do](ACTION)}					
 2Ch.26.11#05=L	מִלְחָמָ֜ה	mil.cha.Mah	<of> battle	{H4421}	HNcfsa			H4421			{H4421=מִלְחָמָה=battle}					
-2Ch.26.11#06=L	יוֹצְאֵ֧י	yotz.'Ei	[those who] go forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accostomed;_able(fighter)}					
+2Ch.26.11#06=L	יוֹצְאֵ֧י	yotz.'Ei	[those who] go forth of	{H3318N}	HVqrmpc			H3318N			{H3318N=יָצָא=: regular»to come out:8_regular;_accustomed;_able(fighter)}					
 2Ch.26.11#07=L	צָבָ֣א	tza.Va'	war	{H6635H}	HNcmsa			H6635H			{H6635H=צָבָא=: war»army:2_war}					
 2Ch.26.11#08=L	לִ/גְד֗וּד	li/g.Dud	to/ troop[s]	H9005/{H1416}	HR/Ncmsa			H1416			H9005=ל=to/{H1416=גְּדוּד=band}					
 2Ch.26.11#09=L	בְּ/מִסְפַּר֙	be./mis.Par	by/ [the] number of	H9003/{H4557}	HR/Ncmsc			H4557			H9003=ב=in/{H4557=מִסְפָּר=number}					
@@ -155405,7 +155405,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.26.18#13=L	לַ/כֹּהֲנִ֧ים	la./ko.ha.Nim	to the/ priests	H9005/{H3548}	HRd/Ncmpa			H3548			H9005=ל=to/{H3548=כֹּהֵן=priest}					
 2Ch.26.18#14=L	בְּנֵי\־	be.nei-	[the] descendants of	{H1121G}\H9014	HNcmpc			H1121G			{H1121G=בֵּן=: descendant»son:2_descendant;_people}\H9014=־=link					
 2Ch.26.18#15=L	אַהֲרֹ֛ן	'a.ha.Ron	Aaron	{H0175}	HNpm			H0175			{H0175=אַהֲרֹן=Aaron»Aaron@Exo.4.14-Heb}					
-2Ch.26.18#16=L	הַ/מְקֻדָּשִׁ֖ים	ha/m.ku.da.Shim	who/ are consecrated	H9009/{H6942G}	HTd/VPsmpa			H6942G			H9009=ה=the/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.26.18#16=L	הַ/מְקֻדָּשִׁ֖ים	ha/m.ku.da.Shim	who/ are consecrated	H9009/{H6942G}	HTd/VPsmpa			H6942G			H9009=ה=the/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.26.18#17=L	לְ/הַקְטִ֑יר	le./hak.Tir	to/ make smoke	H9005/{H6999A}	HR/Vhcc			H6999A_B			H9005=ל=to/{H6999A=קָטַר=: burn»to offer:1_burn}					
 2Ch.26.18#18=L	צֵ֤א	tze'	go out	{H3318G}	HVqv2ms			H3318G			{H3318G=יָצָא=: come»to come out:1_come;_go_out;_escape}					
 2Ch.26.18#19=L	מִן\־	min-	from	{H4480A}\H9014	HR			H4480A			{H4480A=מִן־=from}\H9014=־=link					
@@ -156640,8 +156640,8 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.29.5#03=L	שְׁמָע֣וּ/נִי	she.ma.'U./ni	listen to/ me	{H8085G}/H9030	HVqv2mp/Sp1bs			H8085G			{H8085G=שָׁמַע=: hear»to hear:1_hear}/H9030=Os1c=me					
 2Ch.29.5#04=L	הַ/לְוִיִּ֑ם	ha/l.vi.Yim	O/ Levites	H9009/{H3881}	HTd/Ngmpa			H3881			H9009=ה=the/{H3881=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
 2Ch.29.5#05=L	עַתָּ֣ה	'a.Tah	now	{H6258}	HD			H6258			{H6258=עַתָּ֫ה=now}					
-2Ch.29.5#06=L	הִֽתְקַדְּשׁ֗וּ	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G_A			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
-2Ch.29.5#07=L	וְ/קַדְּשׁוּ֙	ve./ka.de.Shu	and/ consecrate	H9002/{H6942G}	HC/Vpv2mp			H6942G_B			H9002=ו=and/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.29.5#06=L	הִֽתְקַדְּשׁ֗וּ	hit.ka.de.Shu	consecrate yourselves	{H6942G}	HVtv2mp			H6942G_A			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
+2Ch.29.5#07=L	וְ/קַדְּשׁוּ֙	ve./ka.de.Shu	and/ consecrate	H9002/{H6942G}	HC/Vpv2mp			H6942G_B			H9002=ו=and/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.29.5#08=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ch.29.5#09=L	בֵּ֤ית	beit	[the] house of	{H1004Q}	HNcmsc			H1004Q			{H1004Q=בַּ֫יִת=: home»house:6_temple}					
 2Ch.29.5#10=L	יְהוָה֙	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
@@ -156887,7 +156887,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.29.15#01=L	וַ/יַּֽאַסְפ֤וּ	va/i.ya.'as.Fu	and/ they gathered	H9001/{H0622}	Hc/Vqw3mp			H0622			H9001=ו=&/{H0622=אָסַף=to gather}					
 2Ch.29.15#02=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ch.29.15#03=L	אֲחֵי/הֶם֙	'a.chei./Hem	relatives/ their	{H0251G}/H9028	HNcmpc/Sp3mp			H0251G			{H0251G=אָח=: male-sibling»brother:1_male-sibling}/H9028=Pp3m=their					
-2Ch.29.15#04=L	וַ/יִּֽתְקַדְּשׁ֔וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.29.15#04=L	וַ/יִּֽתְקַדְּשׁ֔וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.29.15#05=L	וַ/יָּבֹ֥אוּ	va/i.ya.Vo.'u	and/ they went	H9001/{H0935G}	Hc/Vqw3mp			H0935G			H9001=ו=&/{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
 2Ch.29.15#06=L	כְ/מִצְוַת\־	khe./mitz.vat-	according to/ [the] command of	H9004/{H4687}\H9014	HR/Ncfsc			H4687			H9004=כ=like/{H4687=מִצְוָה=commandment}\H9014=־=link					
 2Ch.29.15#07=L	הַ/מֶּ֖לֶךְ	ha./Me.lekh	the/ king	H9009/{H4428G}	HTd/Ncmsa			H4428G			H9009=ה=the/{H4428G=מֶ֫לֶךְ=king}					
@@ -156953,14 +156953,14 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.29.17#02=L	בְּ/אֶחָ֞ד	be./'e.Chad	on/ [day] one	H9003/{H0259}	HR/Ncfsa			H0259			H9003=ב=in/{H0259=אֶחָד=one}					
 2Ch.29.17#03=L	לַ/חֹ֣דֶשׁ	la./Cho.desh	of the/ month	H9005/{H2320G}	HRd/Ncmsa			H2320G_A			H9005=ל=to/{H2320G=חֹ֫דֶשׁ=: month»month:1_month}					
 2Ch.29.17#04=L	הָ/רִאשׁוֹן֮	ha./ri.shOn	<the>/ first	H9009/{H7223G}	HTd/Aomsa			H7223G_A			H9009=ה=the/{H7223G=רִאשׁוֹן=: first»first:1_first}					
-2Ch.29.17#05=L	לְ/קַדֵּשׁ֒	le./ka.Desh	to/ consecrate	H9005/{H6942G}	HR/Vpcc			H6942G_A			H9005=ל=to/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.29.17#05=L	לְ/קַדֵּשׁ֒	le./ka.Desh	to/ consecrate	H9005/{H6942G}	HR/Vpcc			H6942G_A			H9005=ל=to/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.29.17#06=L	וּ/בְ/י֧וֹם	u./ve./Yom	and/ on/ day	H9002/H9003/{H3117G}	HC/R/Ncmsc			H3117G_A			H9002=ו=and/H9003=ב=in/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
 2Ch.29.17#07=L	שְׁמוֹנָ֣ה	she.mo.Nah	eight	{H8083}	HNcbsa			H8083_A			{H8083=שְׁמֹנֶה=eight}					
 2Ch.29.17#08=L	לַ/חֹ֗דֶשׁ	la./Cho.desh	of the/ month	H9005/{H2320G}	HRd/Ncmsa			H2320G_B			H9005=ל=to/{H2320G=חֹ֫דֶשׁ=: month»month:1_month}					
 2Ch.29.17#09=L	בָּ֚אוּ	Ba.'u	they came	{H0935G}	HVqp3cp			H0935G			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
 2Ch.29.17#10=L	לְ/אוּלָ֣ם	le./'u.Lam	to/ [the] porch of	H9005/{H0197J}	HR/Ncmsc			H0197J			H9005=ל=to/{H0197J=אוּלָם=porch}					
 2Ch.29.17#11=L	יְהוָ֔ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
-2Ch.29.17#12=L	וַ/יְקַדְּשׁ֥וּ	va/y.ka.de.Shu	and/ they consecrated	H9001/{H6942G}	Hc/Vpw3mp			H6942G_B			H9001=ו=&/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.29.17#12=L	וַ/יְקַדְּשׁ֥וּ	va/y.ka.de.Shu	and/ they consecrated	H9001/{H6942G}	Hc/Vpw3mp			H6942G_B			H9001=ו=&/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.29.17#13=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 2Ch.29.17#14=L	בֵּית\־	beit-	[the] house of	{H1004Q}\H9014	HNcmsc			H1004Q			{H1004Q=בַּ֫יִת=: home»house:6_temple}\H9014=־=link					
 2Ch.29.17#15=L	יְהוָ֖ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_B			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
@@ -157031,7 +157031,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.29.19#08=L	בְּ/מַלְכוּת֛/וֹ	be./mal.khu.T/o	in/ reign/ his	H9003/{H4438}/H9023	HR/Ncfsc/Sp3ms			H4438			H9003=ב=in/{H4438=מַלְכוּת=royalty}/H9023=Ps3m=his					
 2Ch.29.19#09=L	בְּ/מַעֲל֖/וֹ	be./ma.'a.L/o	in/ unfaithfulness/ his	H9003/{H4604}/H9023	HR/Ncmsc/Sp3ms			H4604			H9003=ב=in/{H4604=מַ֫עַל=unfaithfulness}/H9023=Ps3m=his					
 2Ch.29.19#10=L	הֵכַ֣נּוּ	he.Kha.nu	we have prepared	{H3559A}	HVhp1cp			H3559A			{H3559A=כּוּן=: prepare»to establish:1_prepare;_direct}					
-2Ch.29.19#11=L	וְ/הִקְדָּ֑שְׁנוּ	ve./hik.Da.she.nu	and/ we have consecrated	H9002/{H6942G}	HC/Vhp1cp			H6942G			H9002=ו=and/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.29.19#11=L	וְ/הִקְדָּ֑שְׁנוּ	ve./hik.Da.she.nu	and/ we have consecrated	H9002/{H6942G}	HC/Vhp1cp			H6942G			H9002=ו=and/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.29.19#12=L	וְ/הִנָּ֕/ם	ve./hi.Na/m	and/ there/ they	H9002/{H2005}/H9048	HC/Tj/Sp3mp			H2005			H9002=ו=and/{H2005=הֵן=look!}/H9048=Sp3m=they					
 2Ch.29.19#13=L	לִ/פְנֵ֖י	li/f.Nei	[are] <to>/ before	H9005/{H6440G}	HR/Ncmpc			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}					
 2Ch.29.19#14=L	מִזְבַּ֥ח	miz.Bach	[the] altar of	{H4196}	HNcmsc			H4196			{H4196=מִזְבֵּחַ=altar}					
@@ -157418,13 +157418,13 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.29.34#15=L	כְּל֤וֹת	ke.Lot	was complete	{H3615G}	HVqcc			H3615G			{H3615G=כָּלָה=: finish»to end:1_finish}					
 2Ch.29.34#16=L	הַ/מְּלָאכָה֙	ha./me.la.Khah	the/ work	H9009/{H4399}	HTd/Ncfsa			H4399			H9009=ה=the/{H4399=מְלָאכָה=work}					
 2Ch.29.34#17=L	וְ/עַ֣ד	ve./'Ad	and/ until	H9002/{H5704}	HC/R			H5704_B			H9002=ו=and/{H5704=עַד=till}					
-2Ch.29.34#18=L	יִתְקַדְּשׁ֣וּ	yit.ka.de.Shu	they had consecrated themselves	{H6942G}	HVti3mp			H6942G_A			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.29.34#18=L	יִתְקַדְּשׁ֣וּ	yit.ka.de.Shu	they had consecrated themselves	{H6942G}	HVti3mp			H6942G_A			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.29.34#19=L	הַ/כֹּֽהֲנִ֔ים	ha./ko.ha.Nim	the/ priests	H9009/{H3548}	HTd/Ncmpa			H3548_B			H9009=ה=the/{H3548=כֹּהֵן=priest}					
 2Ch.29.34#20=L	כִּ֤י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
 2Ch.29.34#21=L	הַ/לְוִיִּם֙	ha/l.vi.Yim	the/ Levites	H9009/{H3881}	HTd/Ngmpa			H3881_B			H9009=ה=the/{H3881=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
 2Ch.29.34#22=L	יִשְׁרֵ֣י	yish.Rei	[were] upright of	{H3477G}	HAampc			H3477G			{H3477G=יָשָׁר=: upright»upright:1_right}					
 2Ch.29.34#23=L	לֵבָ֔ב	le.Vav	heart	{H3824}	HNcmsa			H3824			{H3824=לֵבָב=heart}					
-2Ch.29.34#24=L	לְ/הִתְקַדֵּ֖שׁ	le./hit.ka.Desh	to/ consecrate themselves	H9005/{H6942G}	HR/Vtcc			H6942G_B			H9005=ל=to/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.29.34#24=L	לְ/הִתְקַדֵּ֖שׁ	le./hit.ka.Desh	to/ consecrate themselves	H9005/{H6942G}	HR/Vtcc			H6942G_B			H9005=ל=to/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.29.34#25=L	מֵֽ/הַ/כֹּהֲנִֽים\׃	Me./ha./ko.ha.Nim	more than/ the/ priests	H9006/H9009/{H3548}\H9016	HR/Td/Ncmpa			H3548_C			H9006=מ=from/H9009=ה=the/{H3548=כֹּהֵן=priest}\H9016=׃=verseEnd					
 																
 # 2Ch.29.35	ve.gam- (וְגַם־)	'o.Lah (עֹלָ֨ה)	la.Ro (לָרֹ֜ב)	be.chel.Vei (בְּחֶלְבֵ֧י)	ha.she.la.Mim (הַשְּׁלָמִ֛ים)	u.va.ne.sa.Khim (וּבַנְּסָכִ֖ים)	la.'o.Lah (לָעֹלָ֑ה)	va.ti.Kon (וַתִּכּ֖וֹן)	a.vo.Dat (עֲבוֹדַ֥ת)	beit- (בֵּית־)						
@@ -157544,7 +157544,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.30.3#07=L	כִּ֤י	ki	for	{H3588A}	HTc			H3588A_B			{H3588A=כִּי=for}					
 2Ch.30.3#08=L	הַ/כֹּהֲנִים֙	ha./ko.ha.Nim	the/ priests	H9009/{H3548}	HTd/Ncmpa			H3548			H9009=ה=the/{H3548=כֹּהֵן=priest}					
 2Ch.30.3#09=L	לֹֽא\־	lo'-	not	{H3808}\H9014	HTn			H3808_B			{H3808=לֹא=not}\H9014=־=link					
-2Ch.30.3#10=L	הִתְקַדְּשׁ֣וּ	hit.ka.de.Shu	they had consecrated themselves	{H6942G}	HVtp3cp			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.30.3#10=L	הִתְקַדְּשׁ֣וּ	hit.ka.de.Shu	they had consecrated themselves	{H6942G}	HVtp3cp			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.30.3#11=L	לְ/מַ/דַּ֔י	le./ma./Dai	to/ <from> [what]/ [was] sufficiency	H9005/{H4100}/{H1767}	HR/Pi/Ncmsa			H4100, H1767	H4078		H9005=ל=to/{H4100=מָה=what?}/{H1767=דַּי=enough}					
 2Ch.30.3#12=L	וְ/הָ/עָ֖ם	ve./ha./'Am	and/ the/ people	H9002/H9009/{H5971A}	HC/Td/Ncmsa			H5971A			H9002=ו=and/H9009=ה=the/{H5971A=עַם=: people»people:1_people;_nation}					
 2Ch.30.3#13=L	לֹא\־	lo'-	not	{H3808}\H9014	HTn			H3808_C			{H3808=לֹא=not}\H9014=־=link					
@@ -157696,7 +157696,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.30.8#09=L	וּ/בֹ֤אוּ	u./Vo.'u	and/ come	H9002/{H0935G}	HC/Vqv2mp			H0935G			H9002=ו=and/{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
 2Ch.30.8#10=L	לְ/מִקְדָּשׁ/וֹ֙	le./mik.da.Sh/o	to/ sanctuary/ his	H9005/{H4720}/H9023	HR/Ncmsc/Sp3ms			H4720			H9005=ל=to/{H4720=מִקְדָּשׁ=sanctuary}/H9023=Ps3m=his					
 2Ch.30.8#11=L	אֲשֶׁ֣ר	'a.Sher	which	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
-2Ch.30.8#12=L	הִקְדִּ֣ישׁ	hik.Dish	he has consecrated	{H6942G}	HVhp3ms			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.30.8#12=L	הִקְדִּ֣ישׁ	hik.Dish	he has consecrated	{H6942G}	HVhp3ms			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.30.8#13=L	לְ/עוֹלָ֔ם	le./'o.Lam	for/ ever	H9005/{H5769G}	HR/Ncmsa			H5769G			H9005=ל=to/{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}					
 2Ch.30.8#14=L	וְ/עִבְדוּ֙	ve./'iv.Du	and/ serve	H9002/{H5647H}	HC/Vqv2mp			H5647H			H9002=ו=and/{H5647H=עָבַד=: minister»to serve:2_minister;_serve[God;_tabernacle;_temple];_worship}					
 2Ch.30.8#15=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
@@ -157880,7 +157880,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.30.15#07=L	וְ/הַ/כֹּהֲנִ֨ים	ve./ha./ko.ha.Nim	and/ the/ priests	H9002/H9009/{H3548}	HC/Td/Ncmpa			H3548			H9002=ו=and/H9009=ה=the/{H3548=כֹּהֵן=priest}					
 2Ch.30.15#08=L	וְ/הַ/לְוִיִּ֤ם	ve./ha/l.vi.Yim	and/ the/ Levites	H9002/H9009/{H3881}	HC/Td/Ngmpa			H3881			H9002=ו=and/H9009=ה=the/{H3881=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
 2Ch.30.15#09=L	נִכְלְמוּ֙	nikh.le.Mu	they were ashamed	{H3637}	HVNp3cp			H3637			{H3637=כָּלַם=be humiliated}					
-2Ch.30.15#10=L	וַ/יִּֽתְקַדְּשׁ֔וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.30.15#10=L	וַ/יִּֽתְקַדְּשׁ֔וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.30.15#11=L	וַ/יָּבִ֥יאוּ	va/i.ya.Vi.'u	and/ they brought	H9001/{H0935P}	Hc/Vhw3mp			H0935P			H9001=ו=&/{H0935P=בּוֹא=: bring»to come (in):2_bring;_take_in}					
 2Ch.30.15#12=L	עֹל֖וֹת	o.Lot	burnt offerings	{H5930A}	HNcfpa			H5930A			{H5930A=עֹלָה=burnt offering}					
 2Ch.30.15#13=L	בֵּ֥ית	beit	[the] house of	{H1004Q}	HNcmsc			H1004Q			{H1004Q=בַּ֫יִת=: home»house:6_temple}					
@@ -157926,7 +157926,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.30.17#03=L	בַּ/קָּהָ֖ל	ba./ka.Hal	among the/ assembly	H9003/{H6951}	HRd/Ncmsa			H6951			H9003=ב=in/{H6951=קָהָל=assembly}					
 2Ch.30.17#04=L	אֲשֶׁ֣ר	'a.Sher	who	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
 2Ch.30.17#05=L	לֹא\־	lo'-	not	{H3808}\H9014	HTn			H3808_A			{H3808=לֹא=not}\H9014=־=link					
-2Ch.30.17#06=L	הִתְקַדָּ֑שׁוּ	hit.ka.Da.shu	they had consecrated themselves	{H6942G}	HVtp3cp			H6942G_A			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.30.17#06=L	הִתְקַדָּ֑שׁוּ	hit.ka.Da.shu	they had consecrated themselves	{H6942G}	HVtp3cp			H6942G_A			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.30.17#07=L	וְ/הַ/לְוִיִּ֞ם	ve./ha/l.vi.Yim	and/ the/ Levites	H9002/H9009/{H3881}	HC/Td/Ngmpa			H3881			H9002=ו=and/H9009=ה=the/{H3881=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
 2Ch.30.17#08=L	עַל\־	'al-	[were] over	{H5921A}\H9014	HR			H5921A			{H5921A=עַל=upon}\H9014=־=link					
 2Ch.30.17#09=L	שְׁחִיטַ֣ת	she.chi.Tat	[the] slaughter of	{H7821}	HNcfsc			H7821			{H7821=שְׁחִיטָה=slaughtering}					
@@ -157934,7 +157934,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.30.17#11=L	לְ/כֹל֙	le./Khol	for/ every	H9005/{H3605}	HR/Ncmsa			H3605			H9005=ל=to/{H3605=כֹּל=all}					
 2Ch.30.17#12=L	לֹ֣א	lo'	not	{H3808}	HTn			H3808_B			{H3808=לֹא=not}					
 2Ch.30.17#13=L	טָה֔וֹר	ta.Hor	clean	{H2889}	HAamsa			H2889			{H2889=טָהוֹר=clean}					
-2Ch.30.17#14=L	לְ/הַקְדִּ֖ישׁ	le./hak.Dish	to/ consecrate [them]	H9005/{H6942G}	HR/Vhcc			H6942G_B			H9005=ל=to/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.30.17#14=L	לְ/הַקְדִּ֖ישׁ	le./hak.Dish	to/ consecrate [them]	H9005/{H6942G}	HR/Vhcc			H6942G_B			H9005=ל=to/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.30.17#15=L	לַ/יהוָֽה\׃	la./Yah.weh	to/ Yahweh	H9005/{H3068G}\H9016	HR/Npt			H3068G			H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
 																
 # 2Ch.30.18	ki (כִּ֣י)	mar.Bit (מַרְבִּ֣ית)	ha.'Am (הָעָ֡ם)	Ra.bat (רַ֠בַּת)	me.'ef.Ra.yim (מֵֽאֶפְרַ֨יִם)	u.me.na.Sheh (וּמְנַשֶּׁ֜ה)	yi.so.sh.Khar (יִשָּׂשכָ֤ר)	u.ze.vu.Lun (וּזְבֻלוּן֙)	lo' (לֹ֣א)	hi.te.Ha.ru (הִטֶּהָ֔רוּ)						
@@ -158141,7 +158141,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.30.24#17=L	וְ/צֹ֖אן	ve./Tzon	and/ sheep	H9002/{H6629G}	HC/Ncbsa			H6629G_B			H9002=ו=and/{H6629G=צֹאן=flock}					
 2Ch.30.24#18=L	עֲשֶׂ֣רֶת	'a.Se.ret	ten	{H6235}	HNcfsa			H6235			{H6235=עֶשֶׂר=ten}					
 2Ch.30.24#19=L	אֲלָפִ֑ים	'a.la.Fim	thousand<s>	{H0505G}	HNcbpa			H0505G_D			{H0505G=אֶ֫לֶף=: thousand»thousand:1_thousand}					
-2Ch.30.24#20=L	וַ/יִּֽתְקַדְּשׁ֥וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.30.24#20=L	וַ/יִּֽתְקַדְּשׁ֥וּ	va/i.yit.ka.de.Shu	and/ they consecrated themselves	H9001/{H6942G}	Hc/Vtw3mp			H6942G			H9001=ו=&/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.30.24#21=L	כֹהֲנִ֖ים	kho.ha.Nim	priests	{H3548}	HNcmpa			H3548			{H3548=כֹּהֵן=priest}					
 2Ch.30.24#22=L	לָ/רֹֽב\׃	la./Ro	to/ multitude	H9005/{H7230}\H9016	HR/Ncmsa			H7230			H9005=ל=to/{H7230=רֹב=abundance}\H9016=׃=verseEnd					
 																
@@ -158708,7 +158708,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.31.18#08=L	קָהָ֑ל	ka.Hal	[the] assembly	{H6951}	HNcmsa			H6951			{H6951=קָהָל=assembly}					
 2Ch.31.18#09=L	כִּ֥י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
 2Ch.31.18#10=L	בֶ/אֱמוּנָתָ֖/ם	ve./'e.mu.na.Ta/m	in/ faithfulness/ their	H9003/{H0530}/H9028	HR/Ncfsc/Sp3mp			H0530			H9003=ב=in/{H0530=אֱמוּנָה=faithfulness}/H9028=Pp3m=their					
-2Ch.31.18#11=L	יִתְקַדְּשׁוּ\־	yit.ka.de.shu-	they had consecrated themselves	{H6942G}\H9014	HVti3mp			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}\H9014=־=link					
+2Ch.31.18#11=L	יִתְקַדְּשׁוּ\־	yit.ka.de.shu-	they had consecrated themselves	{H6942G}\H9014	HVti3mp			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}\H9014=־=link					
 2Ch.31.18#12=L	קֹֽדֶשׁ\׃	Ko.desh	holiness	{H6944G}\H9016	HNcmsa			H6944G			{H6944G=קֹ֫דֶשׁ=holiness}\H9016=׃=verseEnd					
 																
 # 2Ch.31.19	ve.liv.Nei (וְלִבְנֵי֩)	'a.ha.Ron (אַהֲרֹ֨ן)	ha.ko.ha.Nim (הַכֹּהֲנִ֜ים)	bis.Dei (בִּשְׂדֵ֨י)	mig.Rash (מִגְרַ֤שׁ)	'a.rei.Hem (עָרֵיהֶם֙)	be.khol (בְּכָל־)	'ir (עִ֣יר)	va.'Ir (וָעִ֔יר)	'a.na.Shim (אֲנָשִׁ֕ים)						
@@ -158971,7 +158971,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.32.7#03=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408_A			{H0408=אַל=not}\H9014=־=link					
 2Ch.32.7#04=L	תִּֽירְא֣וּ	ti.re.'U	you be afraid	{H3372G}	HVqj2mp			H3372G			{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}					
 2Ch.32.7#05=L	וְ/אַל\־	ve./'al-	and/ may not	H9002/{H0408}\H9014	HC/Tn			H0408_B			H9002=ו=and/{H0408=אַל=not}\H9014=־=link					
-2Ch.32.7#06=L	תֵּחַ֗תּוּ	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to to be dismayed}					
+2Ch.32.7#06=L	תֵּחַ֗תּוּ	te.Cha.tu	you be dismayed	{H2865}	HVNj2mp			H2865			{H2865=חָתַת=to be dismayed}					
 2Ch.32.7#07=L	מִ/פְּנֵי֙	mi./pe.Nei	<from>/ because of	H9006/{H6440G}	HR/Ncmpc			H6440G_A			H9006=מ=from/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}					
 2Ch.32.7#08=L	מֶ֣לֶךְ	Me.lekh	[the] king of	{H4428G}	HNcmsc			H4428G			{H4428G=מֶ֫לֶךְ=king}					
 2Ch.32.7#09=L	אַשּׁ֔וּר	'a.Shur	Assyria	{H0804G}	HNpl			H0804G			{H0804G=אַשּׁוּר=Assyria»Assyria@Gen.2.14-Zec}					
@@ -159942,7 +159942,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.33.8#11=L	לַ/אֲבֹֽתֵי/כֶ֑ם	la./'a.vo.tei./Khem	for/ ancestors/ your	H9005/{H0001G}/H9026	HR/Ncfpc/Sp2mp			H0001G			H9005=ל=to/{H0001G=אָב=father}/H9026=Pp2m=your					
 2Ch.33.8#12=L	רַ֣ק\׀	rak	only	{H7535}\H9015	HD			H7535			{H7535=רַק=except}\H9015=׀=separate					
 2Ch.33.8#13=L	אִם\־	'im-	if	{H0518A}\H9014	HTc			H0518A			{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
-2Ch.33.8#14=L	יִשְׁמְר֣וּ	yish.me.Ru	they will take care	{H8104J}	HVqi3mp			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_dilligent}					
+2Ch.33.8#14=L	יִשְׁמְר֣וּ	yish.me.Ru	they will take care	{H8104J}	HVqi3mp			H8104J			{H8104J=שָׁמַר=: careful»to keep:4_careful;_diligent}					
 2Ch.33.8#15=L	לַ/עֲשׂ֗וֹת	la./'a.Sot	to/ observe	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
 2Ch.33.8#16=L	אֵ֚ת	'et	<obj.>	{H0853}	HTo			H0853_B			{H0853=אֵת=[Obj.]}					
 2Ch.33.8#17=L	כָּל\־	kol-	all	{H3605}\H9014	HNcmsa			H3605_A			{H3605=כֹּל=all}\H9014=־=link					
@@ -161528,7 +161528,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
 2Ch.35.6#01=L	וְ/שַׁחֲט֖וּ	ve./sha.cha.Tu	and/ slaughter	H9002/{H7819A}	HC/Vqv2mp			H7819A			H9002=ו=and/{H7819A=שָׁחַט=to slaughter}					
 2Ch.35.6#02=L	הַ/פָּ֑סַח	ha./Pa.sach	the/ passover	H9009/{H6453}	HTd/Ntmsa			H6453			H9009=ה=the/{H6453=פֶּ֫סַח=Passover»Passover@Exo.12.11-Heb}					
-2Ch.35.6#03=L	וְ/הִתְקַדְּשׁוּ֙	ve./hit.ka.de.Shu	and/ consecrate yourselves	H9002/{H6942G}	HC/Vtv2mp			H6942G			H9002=ו=and/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.35.6#03=L	וְ/הִתְקַדְּשׁוּ֙	ve./hit.ka.de.Shu	and/ consecrate yourselves	H9002/{H6942G}	HC/Vtv2mp			H6942G			H9002=ו=and/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.35.6#04=L	וְ/הָכִ֣ינוּ	ve./ha.Khi.nu	and/ prepare	H9002/{H3559A}	HC/Vhv2mp			H3559A			H9002=ו=and/{H3559A=כּוּן=: prepare»to establish:1_prepare;_direct}					
 2Ch.35.6#05=L	לַ/אֲחֵי/כֶ֔ם	la./'a.chei./Khem	for/ countrymen/ your	H9005/{H0251I}/H9026	HR/Ncmpc/Sp2mp			H0251I			H9005=ל=to/{H0251I=אָח=: compatriot»brother:3_compatriot}/H9026=Pp2m=your					
 2Ch.35.6#06=L	לַ/עֲשׂ֥וֹת	la./'a.Sot	to/ do	H9005/{H6213A}	HR/Vqcc			H6213A			H9005=ל=to/{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
@@ -162466,7 +162466,7 @@ Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning
 2Ch.36.14#14=L	בֵּ֣ית	beit	[the] house of	{H1004Q}	HNcmsc			H1004Q			{H1004Q=בַּ֫יִת=: home»house:6_temple}					
 2Ch.36.14#15=L	יְהוָ֔ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
 2Ch.36.14#16=L	אֲשֶׁ֥ר	'a.Sher	which	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
-2Ch.36.14#17=L	הִקְדִּ֖ישׁ	hik.Dish	he had consecrated	{H6942G}	HVhp3ms			H6942G			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+2Ch.36.14#17=L	הִקְדִּ֖ישׁ	hik.Dish	he had consecrated	{H6942G}	HVhp3ms			H6942G			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 2Ch.36.14#18=L	בִּ/ירוּשָׁלִָֽם\׃	bi./ru.sha.Lim	in/ Jerusalem	H9003/{H3389}\H9016	HR/Npl			H3389			H9003=ב=in/{H3389=יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם=Jerusalem»Jerusalem@Jos.10.1-Rev}\H9016=׃=verseEnd					
 																
 # 2Ch.36.15	vai.yish.Lach (וַיִּשְׁלַ֡ח)	Yah.weh (יְהוָה֩)	'e.lo.Hei (אֱלֹהֵ֨י)	'a.vo.tei.Hem (אֲבוֹתֵיהֶ֧ם)	'a.lei.Hem (עֲלֵיהֶ֛ם)	be.Yad (בְּיַ֥ד)	mal.'a.Khav (מַלְאָכָ֖יו)	hash.Kem (הַשְׁכֵּ֣ם)	ve.sha.Lo.ach (וְשָׁל֑וֹחַ)	ki- (כִּֽי־)						
@@ -164275,7 +164275,7 @@ Ezr.3.5#04=L	וְ/לֶ֣/חֳדָשִׁ֔ים	ve./Le./cho.da.Shim	and/ for the/ 
 Ezr.3.5#05=L	וּ/לְ/כָל\־	u./le./khol-	and/ for/ all	H9002/H9005/{H3605}\H9014	HC/R/Ncmsc			H3605_A			H9002=ו=and/H9005=ל=to/{H3605=כֹּל=all}\H9014=־=link					
 Ezr.3.5#06=L	מוֹעֲדֵ֥י	mo.'a.Dei	[the] appointed times of	{H4150H}	HNcmpc			H4150H			{H4150H=מוֹעֵד=: festival»meeting:2_festival}					
 Ezr.3.5#07=L	יְהוָ֖ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
-Ezr.3.5#08=L	הַ/מְקֻדָּשִׁ֑ים	ha/m.ku.da.Shim	<the>/ consecrated	H9009/{H6942G}	HTd/VPsmpa			H6942G			H9009=ה=the/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+Ezr.3.5#08=L	הַ/מְקֻדָּשִׁ֑ים	ha/m.ku.da.Shim	<the>/ consecrated	H9009/{H6942G}	HTd/VPsmpa			H6942G			H9009=ה=the/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 Ezr.3.5#09=L	וּ/לְ/כֹ֛ל	u./le./Khol	and/ for/ every	H9002/H9005/{H3605}	HC/R/Ncmsc			H3605_B			H9002=ו=and/H9005=ל=to/{H3605=כֹּל=all}					
 Ezr.3.5#10=L	מִתְנַדֵּ֥ב	mit.na.Dev	[one who] offered	{H5068}	HVtrmsa			H5068			{H5068=נָדַב=be willing}					
 Ezr.3.5#11=L	נְדָבָ֖ה	ne.da.Vah	a freewill offering	{H5071}	HNcfsa			H5071			{H5071=נְדָבָה=voluntariness}					
@@ -164804,7 +164804,7 @@ Ezr.4.9#06=L	סָֽפְרָ֔/א	sa.fe.Ra/'	scribe/ the	{H5613}/H9010	ANcbsd/Ta	
 Ezr.4.9#07=L	וּ/שְׁאָ֖ר	u./she.'Ar	and/ [the] rest of	H9002/{H7606}	AC/Ncbsc			H7606			H9002=ו=and/{H7606=שְׁאָר=remainder}					
 Ezr.4.9#08=L	כְּנָוָתְ/ה֑וֹן	ke.na.va.te./Hon	associates/ their	{H3675}/H9028	ANcfpc/Sp3mp			H3675			{H3675=כְּנָת=associate}/H9028=Pp3m=their					
 Ezr.4.9#09=L	דִּ֠ינָיֵ/א	Di.na.ye/'	Dinay/ the	{H1784}/H9010	ANcmpd/Ta			H1784	H1782		{H1784=דִּינָיֵא="judges"»Dinaite@Ezr.4.9}/H9010=a=the					
-Ezr.4.9#10=L	וַ/אֲפַרְסַתְכָיֵ֞/א	va./'a.far.sat.kha.Ye/'	and/ officials/ the	H9002/{H0671B}/H9010	AC/Ncmpd/Ta			H0671B			H9002=ו=and/{H0671B=אֲפָֽרְסַתְּכָיֵא=govenors»Apharasthchite@Ezr.4.9-}/H9010=a=the					
+Ezr.4.9#10=L	וַ/אֲפַרְסַתְכָיֵ֞/א	va./'a.far.sat.kha.Ye/'	and/ officials/ the	H9002/{H0671B}/H9010	AC/Ncmpd/Ta			H0671B			H9002=ו=and/{H0671B=אֲפָֽרְסַתְּכָיֵא=governors»Apharasthchite@Ezr.4.9-}/H9010=a=the					
 Ezr.4.9#11=L	טַרְפְּלָיֵ֣/א	tar.pe.la.Ye/'	Tarpelites/ the	{H2967}/H9010	ANcmpd/Ta			H2967			{H2967=טַרְפְּלָיֵא=officials»Tarpelite@Ezr.4.9}/H9010=a=the					
 Ezr.4.9#12=L	אֲפָֽרְסָיֵ֗/א	'a.fa.re.sa.Ye/'	Sipparites/ the	{H0670}/H9010	ANcmpd/Ta			H0670			{H0670=אֲפָֽרְסָיֵא=Persian»Persia@2Ch.36.20-Dan}/H9010=a=the					
 Ezr.4.9#13=Q(K)	אַרְכְּוָיֵ֤/א	'ar.ke.vai/'	Erechites/ the	{H0756}/H9010	ANgmpd/Ta	K= 'ar.ke.vai (אַרְכְּוָי) "[the] Erechite[s]" (H0756=ANgmpa)	L= אַרְכְּוָיֵ֤ ¦ ;	H0756			{H0756=אַרְכְּוָיֵא=Erech»Erech@Gen.10.10-Ezr}/H9010=a=the					
@@ -165202,7 +165202,7 @@ Ezr.4.23#12=L	וְ/שִׁמְשַׁ֥י	ve./shim.Shai	and/ Shimshai	H9002/{H8124
 Ezr.4.23#13=L	סָפְרָ֖/א	sa.fe.Ra/'	scribe/ the	{H5613}/H9010	ANcbsd/Ta			H5613			{H5613=סָפִר=scribe}/H9010=a=the					
 Ezr.4.23#14=L	וּ/כְנָוָתְ/ה֑וֹן	u./khe.na.va.te./Hon	and/ associates/ their	H9002/{H3675}/H9028	AC/Ncfpc/Sp3mp			H3675			H9002=ו=and/{H3675=כְּנָת=associate}/H9028=Pp3m=their					
 Ezr.4.23#15=L	אֲזַ֨לוּ	'a.Za.lu	they went	{H0236}	AVqp3mp			H0236			{H0236=אֲזַל=to go}					
-Ezr.4.23#16=L	בִ/בְהִיל֤וּ	vi/v.hi.Lu	in/ haste	H9003/{H0924}	AR/Ncbsa			H0924			H9003=ב=in/{H0924=בְּהִילוּ=hastely}					
+Ezr.4.23#16=L	בִ/בְהִיל֤וּ	vi/v.hi.Lu	in/ haste	H9003/{H0924}	AR/Ncbsa			H0924			H9003=ב=in/{H0924=בְּהִילוּ=hastily}					
 Ezr.4.23#17=L	לִ/ירֽוּשְׁלֶם֙	li./ru.she.Lem	to/ Jerusalem	H9005/{H3390}	AR/Npl			H3390			H9005=ל=to/{H3390=יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם=Jerusalem»Jerusalem@Jos.10.1-Rev}					
 Ezr.4.23#18=L	עַל\־	'al-	to	{H5922}\H9014	AR			H5922			{H5922=עַל=since}\H9014=־=link					
 Ezr.4.23#19=L	יְה֣וּדָיֵ֔/א	ye.Hu.da.Ye/'	Jews/ the	{H3062}/H9010	ANgmpd/Ta			H3062			{H3062=יְהוּדַי=Jew»Jews@2Ki.25.25-Rev}/H9010=a=the					
@@ -170292,13 +170292,13 @@ Neh.3.1#08=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Ob
 Neh.3.1#09=L	שַׁ֣עַר	Sha.'ar	[the] gate of	{H8179G}	HNcmsc			H8179G			{H8179G=שַׁ֫עַר=: gate»gate:1_gate}					
 Neh.3.1#10=L	הַ/צֹּ֔אן	ha./Tzon	the/ sheep	H9009/{H6629H}	HTd/Ncbsa			H6629H			H9009=ה=the/{H6629H=צֹאן=Sheep( Gate)»Sheep_Gate@Neh.3.1-Jhn}					
 Neh.3.1#11=L	הֵ֣מָּה	He.mah	they	{H1992}	HPp3mp			H1992			{H1992=הֵ֫מָּה=they(masc.)}					
-Neh.3.1#12=L	קִדְּשׁ֔וּ/הוּ	ki.de.Shu./hu	they consecrated/ it	{H6942G}/H9033	HVpp3cp/Sp3ms			H6942G_A			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}/H9033=Os3m=him					
+Neh.3.1#12=L	קִדְּשׁ֔וּ/הוּ	ki.de.Shu./hu	they consecrated/ it	{H6942G}/H9033	HVpp3cp/Sp3ms			H6942G_A			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}/H9033=Os3m=him					
 Neh.3.1#13=L	וַֽ/יַּעֲמִ֖ידוּ	va/i.ya.'a.Mi.du	and/ they set up	H9001/{H5975G}	Hc/Vhw3mp			H5975G			H9001=ו=&/{H5975G=עָמַד=: stand»to stand:1_stand;_stop;_establish}					
 Neh.3.1#14=L	דַּלְתֹתָ֑י/ו	dal.to.Ta/v	doors/ its	{H1817C}/H9023	HNcfpc/Sp3ms			H1817C			{H1817C=דֶּ֫לֶת=door}/H9023=Ps3m=his					
 Neh.3.1#15=L	וְ/עַד\־	ve./'ad-	and/ to	H9002/{H5704}\H9014	HC/R			H5704_A			H9002=ו=and/{H5704=עַד=till}\H9014=־=link					
 Neh.3.1#16=L	מִגְדַּ֤ל	mig.Dal	[the] tower of	{H4026H}	HNcmsc			H4026H_A			{H4026H=מִגְדָּל=Tower»Tower_of_the_Hundred@Neh.3.1-}					
 Neh.3.1#17=L	הַ/מֵּאָה֙	ha./me.'Ah	the/ hundred	H9009/{H3968}	HTd/Npl			H3968			H9009=ה=the/{H3968=מֵאָה= of the Hundred»Tower_of_the_Hundred@Neh.3.1-}					
-Neh.3.1#18=L	קִדְּשׁ֔וּ/הוּ	ki.de.Shu./hu	they consecrated/ it	{H6942G}/H9033	HVpp3cp/Sp3ms			H6942G_B			{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}/H9033=Os3m=him					
+Neh.3.1#18=L	קִדְּשׁ֔וּ/הוּ	ki.de.Shu./hu	they consecrated/ it	{H6942G}/H9033	HVpp3cp/Sp3ms			H6942G_B			{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}/H9033=Os3m=him					
 Neh.3.1#19=L	עַ֖ד	'ad	to	{H5704}	HR			H5704_B			{H5704=עַד=till}					
 Neh.3.1#20=L	מִגְדַּ֥ל	mig.Dal	[the] tower of	{H4026M}	HNcmsc			H4026M_B			{H4026M=מִגְדָּל=tower}					
 Neh.3.1#21=L	חֲנַנְאֵֽל\׃\ \ס	cha.nan.'El	Hananel	{H2606}\H9016\ \H9018	HNpm			H2606			{H2606=חֲנַנְאֵל= of Hananel»Tower_of_Hananel@Neh.3.1-Zec}\H9016=׃=verseEnd\ \H9018=ס=section					
@@ -178512,7 +178512,7 @@ Neh.13.22#05=L	מִֽטַּהֲרִים֙	mi.ta.ha.Rim	purifying themselves	{H28
 Neh.13.22#06=L	וּ/בָאִים֙	u./va.'Im	and/ coming	H9002/{H0935G}	HC/Vqrmpa			H0935G			H9002=ו=and/{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
 Neh.13.22#07=L	שֹׁמְרִ֣ים	sho.me.Rim	guarding	{H8104H}	HVqrmpa			H8104H			{H8104H=שָׁמַר=: guard»to keep:2_guard}					
 Neh.13.22#08=L	הַ/שְּׁעָרִ֔ים	ha./she.'a.Rim	the/ gates	H9009/{H8179G}	HTd/Ncmpa			H8179G			H9009=ה=the/{H8179G=שַׁ֫עַר=: gate»gate:1_gate}					
-Neh.13.22#09=L	לְ/קַדֵּ֖שׁ	le./ka.Desh	to/ keep holy	H9005/{H6942G}	HR/Vpcc			H6942G			H9005=ל=to/{H6942G=קָדַשׁ=: consecate»to consecrate:1_consecate;_sanctify}					
+Neh.13.22#09=L	לְ/קַדֵּ֖שׁ	le./ka.Desh	to/ keep holy	H9005/{H6942G}	HR/Vpcc			H6942G			H9005=ל=to/{H6942G=קָדַשׁ=: consecrate»to consecrate:1_consecrate;_sanctify}					
 Neh.13.22#10=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
 Neh.13.22#11=L	י֣וֹם	Yom	[the] day of	{H3117G}	HNcmsc			H3117G			{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
 Neh.13.22#12=L	הַ/שַּׁבָּ֑ת	ha./sha.Bat	the/ sabbath	H9009/{H7676}	HTd/Ncfsa			H7676			H9009=ה=the/{H7676=שַׁבָּת=Sabbath»Sabbath@Exo.16.23-Heb}					
