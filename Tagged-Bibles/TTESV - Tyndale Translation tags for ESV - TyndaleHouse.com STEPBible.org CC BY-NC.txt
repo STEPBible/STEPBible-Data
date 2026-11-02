@@ -4,20 +4,16 @@ ESV tagging to Hebrew MT with LXX infills and Greek NA/UBS5 with augmented Stron
 
 	===========================================================
 	Data created for www.STEPBible.org by Tyndale House Cambridge (CC BY-NC 4.0)
-	===========================================================
-	This licence allows you to:
-	* Include any part of this data in free software or free publications without requesting permission 
-	* Request permission if your project is not free. A reasonable request is unlikely to be refused.
-	* Download the data and reformat it for your application
-	* Refer others to this repository as the source of the data.
-	And you should:
-	* List any changes you make to the data. Please also send changes to STEPBibleATGmail.com. so that others can benefit.
-	* Attribute the original data to "Tyndale House, Cambridge" linked to www.TyndaleHouse.com, 
-	  and to "STEP Bible" linked to www.STEPBible.org
-	* Link to its source at https://STEPBible\.github.io/STEPBible-Data/
-	
-	If you use this data, we'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com.
-	==============================================================
+	==============================================================												
+	This licence allows you to:												
+	* Include any part of this data in software or publications and send it to AI servers  without requesting permission 												
+	* Download the data and reformat it for your application												
+	* Send any proposed corrections to STEPBible@Gmail.com to be verified 												
+	  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)												
+	* Attribute the data to Tyndale House and STEPBible.org, and include a link to STEPBible.github.io/STEPBible-Data as the source of this data. 												
+	 Please do not post copies of this data file elsewhere, so that this remains the single up-to-date source"												
+	* We'd love to hear about your project and add it to our Partners Page when you make it available. Email us at STEPBible@Gmail.com.												
+	==============================================================												
 
 Version 1.1: ESV links with all the tags which are present in the KJV module tagged by Crosswire.org, with much modification
 Updates in preparation: 
